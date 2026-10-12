@@ -1,0 +1,625 @@
+{
+ "source": {
+  "slug": "iskp-and-ispp-attacks-in-pakistan-between-january-2022-and-september-2023",
+  "url": "https://understandingwar.org/map/iskp-and-ispp-attacks-in-pakistan-between-january-2022-and-september-2023/",
+  "title": "Iskp and ISPP Attacks in Pakistan Between January 2022 and September 2023",
+  "page_date": "October 6, 2023",
+  "isw_map_id": "71506",
+  "image_url": "https://understandingwar.org/wp-content/uploads/2025/05/Picture6_11.png",
+  "image_file": "iskp-and-ispp-attacks-in-pakistan-between-january-2022-and-september-2023.png",
+  "tags": [
+   "Afghanistan",
+   "Middle East",
+   "Salafi Jihadi Weekly Update"
+  ]
+ },
+ "map": {
+  "title_on_map": "ISKP and ISPP Attacks in Pakistan",
+  "subtitle": "Between January 2022 and September 2023",
+  "as_of_date": "2023-10-04",
+  "period_start": "2022-01-01",
+  "period_end": "2023-09-30",
+  "date_precision": "month",
+  "geographic_extent": "Afghanistan and Pakistan",
+  "map_type": "event_points",
+  "producer": "Critical Threats Project at the American Enterprise Institute",
+  "cartographer": "Kathryn Tyson",
+  "caption_text": "ISKP and ISPP may have conducted two seperate bombings on a religious procession and police on September 29. Both groups maintain attack zones near the sites of the attacks and frequently target religious minorities and police.",
+  "notes": "Esri, © OpenStreetMap contributors, HERE, Garmin, FAO, NOAA, USGSWGS1984 Web Mercator (Auxiliary Sphere)"
+ },
+ "legend": [
+  {
+   "label": "ISPP Attacks",
+   "symbol": "red circle",
+   "kind": "point"
+  },
+  {
+   "label": "ISKP Attacks",
+   "symbol": "gray circle",
+   "kind": "point"
+  },
+  {
+   "label": "Locations of September 29 Bombings",
+   "symbol": "black circle with asterisk",
+   "kind": "point"
+  }
+ ],
+ "anchors": [
+  {
+   "name": "Afghanistan",
+   "kind": "country",
+   "country": "AF",
+   "x_pct": 28.0,
+   "y_pct": 32.0
+  },
+  {
+   "name": "Pakistan",
+   "kind": "country",
+   "country": "PK",
+   "x_pct": 58.0,
+   "y_pct": 53.5
+  },
+  {
+   "name": "Islamabad",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 78.0,
+   "y_pct": 30.0
+  },
+  {
+   "name": "Hangu",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 62.0,
+   "y_pct": 35.5
+  },
+  {
+   "name": "Lahore",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 88.0,
+   "y_pct": 42.0
+  },
+  {
+   "name": "Quetta",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 40.5,
+   "y_pct": 51.0
+  },
+  {
+   "name": "Mastung",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 32.0,
+   "y_pct": 55.0
+  },
+  {
+   "name": "Karachi",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 41.0,
+   "y_pct": 77.0
+  }
+ ],
+ "plots": [
+  {
+   "legend_class": "ISKP Attacks",
+   "marker": "point",
+   "x_pct": 66.0,
+   "y_pct": 26.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "ISKP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ISKP attack in the tribal areas of northwest Pakistan.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ISKP Attacks",
+   "marker": "point",
+   "x_pct": 67.0,
+   "y_pct": 25.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "ISKP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ISKP attack in the tribal areas of northwest Pakistan.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ISKP Attacks",
+   "marker": "point",
+   "x_pct": 67.5,
+   "y_pct": 26.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "ISKP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ISKP attack in the tribal areas of northwest Pakistan.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ISKP Attacks",
+   "marker": "point",
+   "x_pct": 66.5,
+   "y_pct": 27.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "ISKP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ISKP attack in the tribal areas of northwest Pakistan.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ISKP Attacks",
+   "marker": "point",
+   "x_pct": 68.0,
+   "y_pct": 26.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "ISKP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ISKP attack in the tribal areas of northwest Pakistan.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "ISKP Attacks",
+   "marker": "point",
+   "x_pct": 72.0,
+   "y_pct": 30.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "ISKP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ISKP attack near Islamabad region.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ISKP Attacks",
+   "marker": "point",
+   "x_pct": 72.5,
+   "y_pct": 29.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "ISKP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ISKP attack near Islamabad region.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Locations of September 29 Bombings",
+   "marker": "point",
+   "x_pct": 68.5,
+   "y_pct": 33.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Hangu",
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "ISKP",
+    "ISPP"
+   ],
+   "event_type": "attack",
+   "date": "2023-09-29",
+   "description": "Location of September 29 bombing near Hangu, possibly conducted by both ISKP and ISPP.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Locations of September 29 Bombings",
+   "marker": "point",
+   "x_pct": 39.5,
+   "y_pct": 52.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Mastung",
+   "admin_area": "Balochistan",
+   "country": "PK",
+   "actors": [
+    "ISKP",
+    "ISPP"
+   ],
+   "event_type": "attack",
+   "date": "2023-09-29",
+   "description": "Location of September 29 bombing near Mastung/Quetta, possibly conducted by both ISKP and ISPP.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ISPP Attacks",
+   "marker": "point",
+   "x_pct": 39.0,
+   "y_pct": 50.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Quetta",
+   "admin_area": "Balochistan",
+   "country": "PK",
+   "actors": [
+    "ISPP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ISPP attack near Quetta, Balochistan.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ISPP Attacks",
+   "marker": "point",
+   "x_pct": 47.0,
+   "y_pct": 53.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Balochistan",
+   "country": "PK",
+   "actors": [
+    "ISPP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ISPP attack in Balochistan east of Quetta.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ISPP Attacks",
+   "marker": "point",
+   "x_pct": 48.0,
+   "y_pct": 53.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Balochistan",
+   "country": "PK",
+   "actors": [
+    "ISPP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ISPP attack in Balochistan east of Quetta.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ISPP Attacks",
+   "marker": "point",
+   "x_pct": 48.5,
+   "y_pct": 53.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Balochistan",
+   "country": "PK",
+   "actors": [
+    "ISPP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ISPP attack in Balochistan east of Quetta.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ISPP Attacks",
+   "marker": "point",
+   "x_pct": 49.0,
+   "y_pct": 53.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Balochistan",
+   "country": "PK",
+   "actors": [
+    "ISPP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ISPP attack in Balochistan east of Quetta.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ISPP Attacks",
+   "marker": "point",
+   "x_pct": 40.0,
+   "y_pct": 56.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Mastung",
+   "admin_area": "Balochistan",
+   "country": "PK",
+   "actors": [
+    "ISPP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ISPP attack near Mastung, Balochistan.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ISPP Attacks",
+   "marker": "point",
+   "x_pct": 86.0,
+   "y_pct": 32.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Islamabad",
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "ISPP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ISPP attack near Islamabad.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ISPP Attacks",
+   "marker": "point",
+   "x_pct": 88.0,
+   "y_pct": 32.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Islamabad",
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "ISPP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ISPP attack near Islamabad.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ISPP Attacks",
+   "marker": "point",
+   "x_pct": 90.0,
+   "y_pct": 32.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Islamabad",
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "ISPP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ISPP attack east of Islamabad.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ISPP Attacks",
+   "marker": "point",
+   "x_pct": 92.0,
+   "y_pct": 32.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Punjab",
+   "country": "PK",
+   "actors": [
+    "ISPP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ISPP attack in Punjab, east of Islamabad.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ISPP Attacks",
+   "marker": "point",
+   "x_pct": 86.0,
+   "y_pct": 33.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Islamabad",
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "ISPP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ISPP attack near Islamabad.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ISPP Attacks",
+   "marker": "point",
+   "x_pct": 88.0,
+   "y_pct": 33.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Islamabad",
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "ISPP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ISPP attack near Islamabad.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ISPP Attacks",
+   "marker": "point",
+   "x_pct": 95.0,
+   "y_pct": 42.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Lahore",
+   "admin_area": "Punjab",
+   "country": "PK",
+   "actors": [
+    "ISPP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ISPP attack near Lahore, Punjab.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ISKP Attacks",
+   "marker": "point",
+   "x_pct": 63.5,
+   "y_pct": 41.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "ISKP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ISKP attack in central Pakistan.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "ISKP Attacks",
+   "marker": "point",
+   "x_pct": 69.0,
+   "y_pct": 41.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "ISKP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ISKP attack in central Pakistan.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "ISKP Attacks",
+   "marker": "point",
+   "x_pct": 70.5,
+   "y_pct": 42.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "ISKP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ISKP attack in central Pakistan.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "ISPP Attacks",
+   "marker": "point",
+   "x_pct": 80.0,
+   "y_pct": 27.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Islamabad",
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "ISPP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ISPP attack near Islamabad.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "ISPP Attacks",
+   "marker": "point",
+   "x_pct": 42.0,
+   "y_pct": 77.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Karachi",
+   "admin_area": "Sindh",
+   "country": "PK",
+   "actors": [
+    "ISPP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ISPP attack near Karachi, Sindh.",
+   "confidence": "high"
+  }
+ ],
+ "named_persons": [
+  {
+   "name": "Kathryn Tyson",
+   "role": "cartographer",
+   "affiliation": "Critical Threats Project at the American Enterprise Institute",
+   "place": null,
+   "x_pct": null,
+   "y_pct": null
+  }
+ ],
+ "named_orgs": [
+  "ISKP",
+  "ISPP",
+  "Critical Threats Project",
+  "American Enterprise Institute"
+ ],
+ "text_blocks": [
+  "ISKP and ISPP may have conducted two seperate bombings on a religious procession and police on September 29. Both groups maintain attack zones near the sites of the attacks and frequently target religious minorities and police.",
+  "Map by Kathryn Tyson © Critical Threats Project at the American Enterprise Institute, October 4, 2023",
+  "Esri, © OpenStreetMap contributors, HERE, Garmin, FAO, NOAA, USGSWGS1984 Web Mercator (Auxiliary Sphere)"
+ ],
+ "_extraction": {
+  "model": "claude-opus-4-6",
+  "n_images": 1,
+  "image_px": [
+   1430,
+   1850
+  ],
+  "ts": "2026-10-12T16:52:15Z"
+ }
+}

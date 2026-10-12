@@ -1,0 +1,912 @@
+{
+ "source": {
+  "slug": "u-s-embassy-consulate-closures-sunday-4-august-2013",
+  "url": "https://understandingwar.org/map/u-s-embassy-consulate-closures-sunday-4-august-2013/",
+  "title": "US Embassy & Consulate Closures, Sunday, August 4, 2013",
+  "page_date": "August 3, 2013",
+  "isw_map_id": null,
+  "image_url": null,
+  "image_file": "u-s-embassy-consulate-closures-sunday-4-august-2013.gif",
+  "tags": [
+   "Afghanistan, Pakistan Salafi Jihadi Update",
+   "Iraq",
+   "Middle East"
+  ]
+ },
+ "map": {
+  "title_on_map": "U.S. EMBASSIES AND CONSULATES CLOSED SUNDAY DUE TO SECURITY CONCERNS",
+  "subtitle": null,
+  "as_of_date": "2013-08-04",
+  "period_start": "2013-08-04",
+  "period_end": "2013-08-04",
+  "date_precision": "day",
+  "geographic_extent": "North Africa, Middle East, South Asia, East Africa",
+  "map_type": "event_points",
+  "producer": "ISW and AEI's Critical Threats Project",
+  "cartographer": "Google Maps Engine",
+  "caption_text": null,
+  "notes": "Map shows locations of US embassies and consulates closed on Sunday August 4, 2013 due to security concerns."
+ },
+ "legend": [
+  {
+   "label": "U.S. Embassy/Consulate Closure",
+   "symbol": "red/pink map pin",
+   "kind": "point"
+  }
+ ],
+ "anchors": [
+  {
+   "name": "Spain",
+   "kind": "country",
+   "country": null,
+   "x_pct": 11.0,
+   "y_pct": 3.5
+  },
+  {
+   "name": "Lisbon",
+   "kind": "city",
+   "country": null,
+   "x_pct": 8.5,
+   "y_pct": 4.0
+  },
+  {
+   "name": "Seville",
+   "kind": "city",
+   "country": null,
+   "x_pct": 10.0,
+   "y_pct": 8.0
+  },
+  {
+   "name": "Algeria",
+   "kind": "country",
+   "country": null,
+   "x_pct": 16.0,
+   "y_pct": 22.0
+  },
+  {
+   "name": "Algiers",
+   "kind": "city",
+   "country": null,
+   "x_pct": 15.5,
+   "y_pct": 9.0
+  },
+  {
+   "name": "Tunisia",
+   "kind": "country",
+   "country": null,
+   "x_pct": 22.0,
+   "y_pct": 11.0
+  },
+  {
+   "name": "Tunis",
+   "kind": "city",
+   "country": null,
+   "x_pct": 22.5,
+   "y_pct": 9.5
+  },
+  {
+   "name": "Tripoli",
+   "kind": "city",
+   "country": null,
+   "x_pct": 30.0,
+   "y_pct": 12.5
+  },
+  {
+   "name": "Libya",
+   "kind": "country",
+   "country": null,
+   "x_pct": 33.0,
+   "y_pct": 22.0
+  },
+  {
+   "name": "Morocco",
+   "kind": "country",
+   "country": null,
+   "x_pct": 10.0,
+   "y_pct": 18.0
+  },
+  {
+   "name": "Western Sahara",
+   "kind": "country",
+   "country": null,
+   "x_pct": 5.0,
+   "y_pct": 30.0
+  },
+  {
+   "name": "Mauritania",
+   "kind": "country",
+   "country": null,
+   "x_pct": 5.0,
+   "y_pct": 38.0
+  },
+  {
+   "name": "Mali",
+   "kind": "country",
+   "country": null,
+   "x_pct": 14.0,
+   "y_pct": 44.0
+  },
+  {
+   "name": "Niger",
+   "kind": "country",
+   "country": null,
+   "x_pct": 24.0,
+   "y_pct": 44.0
+  },
+  {
+   "name": "Chad",
+   "kind": "country",
+   "country": null,
+   "x_pct": 32.0,
+   "y_pct": 48.0
+  },
+  {
+   "name": "Nigeria",
+   "kind": "country",
+   "country": null,
+   "x_pct": 21.5,
+   "y_pct": 58.0
+  },
+  {
+   "name": "Cameroon",
+   "kind": "country",
+   "country": null,
+   "x_pct": 27.0,
+   "y_pct": 65.0
+  },
+  {
+   "name": "Central African Republic",
+   "kind": "country",
+   "country": null,
+   "x_pct": 33.0,
+   "y_pct": 64.0
+  },
+  {
+   "name": "Sudan",
+   "kind": "country",
+   "country": null,
+   "x_pct": 42.0,
+   "y_pct": 44.0
+  },
+  {
+   "name": "South Sudan",
+   "kind": "country",
+   "country": null,
+   "x_pct": 43.5,
+   "y_pct": 60.0
+  },
+  {
+   "name": "Eritrea",
+   "kind": "country",
+   "country": null,
+   "x_pct": 47.5,
+   "y_pct": 47.0
+  },
+  {
+   "name": "Ethiopia",
+   "kind": "country",
+   "country": null,
+   "x_pct": 50.0,
+   "y_pct": 62.0
+  },
+  {
+   "name": "Djibouti",
+   "kind": "city",
+   "country": null,
+   "x_pct": 56.5,
+   "y_pct": 52.5
+  },
+  {
+   "name": "Somalia",
+   "kind": "country",
+   "country": null,
+   "x_pct": 58.0,
+   "y_pct": 65.0
+  },
+  {
+   "name": "Kenya",
+   "kind": "country",
+   "country": null,
+   "x_pct": 49.5,
+   "y_pct": 73.0
+  },
+  {
+   "name": "Uganda",
+   "kind": "country",
+   "country": null,
+   "x_pct": 43.0,
+   "y_pct": 73.0
+  },
+  {
+   "name": "DR Congo",
+   "kind": "country",
+   "country": null,
+   "x_pct": 37.0,
+   "y_pct": 80.0
+  },
+  {
+   "name": "Tanzania",
+   "kind": "country",
+   "country": null,
+   "x_pct": 49.0,
+   "y_pct": 82.0
+  },
+  {
+   "name": "Egypt",
+   "kind": "country",
+   "country": null,
+   "x_pct": 42.0,
+   "y_pct": 22.0
+  },
+  {
+   "name": "Cairo",
+   "kind": "city",
+   "country": null,
+   "x_pct": 41.5,
+   "y_pct": 17.0
+  },
+  {
+   "name": "Mediterranean Sea",
+   "kind": "other",
+   "country": null,
+   "x_pct": 30.0,
+   "y_pct": 10.0
+  },
+  {
+   "name": "Red Sea",
+   "kind": "other",
+   "country": null,
+   "x_pct": 47.5,
+   "y_pct": 37.0
+  },
+  {
+   "name": "Greece",
+   "kind": "country",
+   "country": null,
+   "x_pct": 31.5,
+   "y_pct": 3.5
+  },
+  {
+   "name": "Athens",
+   "kind": "city",
+   "country": null,
+   "x_pct": 32.5,
+   "y_pct": 7.0
+  },
+  {
+   "name": "Turkey",
+   "kind": "country",
+   "country": null,
+   "x_pct": 42.0,
+   "y_pct": 3.5
+  },
+  {
+   "name": "Izmir",
+   "kind": "city",
+   "country": null,
+   "x_pct": 35.5,
+   "y_pct": 4.0
+  },
+  {
+   "name": "Syria",
+   "kind": "country",
+   "country": null,
+   "x_pct": 48.0,
+   "y_pct": 9.0
+  },
+  {
+   "name": "Israel",
+   "kind": "country",
+   "country": null,
+   "x_pct": 42.5,
+   "y_pct": 14.0
+  },
+  {
+   "name": "Jordan",
+   "kind": "country",
+   "country": null,
+   "x_pct": 46.0,
+   "y_pct": 15.0
+  },
+  {
+   "name": "Amman",
+   "kind": "city",
+   "country": null,
+   "x_pct": 45.5,
+   "y_pct": 13.5
+  },
+  {
+   "name": "Iraq",
+   "kind": "country",
+   "country": null,
+   "x_pct": 52.0,
+   "y_pct": 10.0
+  },
+  {
+   "name": "Saudi Arabia",
+   "kind": "country",
+   "country": null,
+   "x_pct": 55.0,
+   "y_pct": 24.0
+  },
+  {
+   "name": "Yemen",
+   "kind": "country",
+   "country": null,
+   "x_pct": 55.5,
+   "y_pct": 44.0
+  },
+  {
+   "name": "Oman",
+   "kind": "country",
+   "country": null,
+   "x_pct": 65.0,
+   "y_pct": 36.0
+  },
+  {
+   "name": "United Arab Emirates",
+   "kind": "country",
+   "country": null,
+   "x_pct": 63.5,
+   "y_pct": 27.0
+  },
+  {
+   "name": "Gulf of Oman",
+   "kind": "other",
+   "country": null,
+   "x_pct": 67.0,
+   "y_pct": 27.0
+  },
+  {
+   "name": "Gulf of Aden",
+   "kind": "other",
+   "country": null,
+   "x_pct": 55.0,
+   "y_pct": 49.0
+  },
+  {
+   "name": "Azerbaijan",
+   "kind": "country",
+   "country": null,
+   "x_pct": 56.0,
+   "y_pct": 4.0
+  },
+  {
+   "name": "Turkmenistan",
+   "kind": "country",
+   "country": null,
+   "x_pct": 64.0,
+   "y_pct": 3.5
+  },
+  {
+   "name": "Tehran",
+   "kind": "city",
+   "country": null,
+   "x_pct": 62.0,
+   "y_pct": 8.0
+  },
+  {
+   "name": "Afghanistan",
+   "kind": "country",
+   "country": "AF",
+   "x_pct": 73.5,
+   "y_pct": 12.0
+  },
+  {
+   "name": "Tajikistan",
+   "kind": "country",
+   "country": "TJ",
+   "x_pct": 76.0,
+   "y_pct": 4.0
+  },
+  {
+   "name": "Pakistan",
+   "kind": "country",
+   "country": "PK",
+   "x_pct": 79.0,
+   "y_pct": 18.0
+  },
+  {
+   "name": "Karachi",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 78.5,
+   "y_pct": 23.0
+  },
+  {
+   "name": "Jaipur",
+   "kind": "city",
+   "country": "IN",
+   "x_pct": 83.0,
+   "y_pct": 18.0
+  },
+  {
+   "name": "India",
+   "kind": "country",
+   "country": "IN",
+   "x_pct": 88.0,
+   "y_pct": 28.0
+  },
+  {
+   "name": "Mumbai",
+   "kind": "city",
+   "country": "IN",
+   "x_pct": 82.0,
+   "y_pct": 36.0
+  },
+  {
+   "name": "Bangladesh",
+   "kind": "country",
+   "country": null,
+   "x_pct": 95.0,
+   "y_pct": 29.0
+  },
+  {
+   "name": "Myanmar (Burma)",
+   "kind": "country",
+   "country": null,
+   "x_pct": 96.5,
+   "y_pct": 38.0
+  },
+  {
+   "name": "Nepal",
+   "kind": "city",
+   "country": null,
+   "x_pct": 88.0,
+   "y_pct": 14.0
+  },
+  {
+   "name": "Bhutan",
+   "kind": "country",
+   "country": null,
+   "x_pct": 92.5,
+   "y_pct": 16.0
+  },
+  {
+   "name": "Kabul",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 76.0,
+   "y_pct": 10.5
+  }
+ ],
+ "plots": [
+  {
+   "legend_class": "U.S. Embassy/Consulate Closure",
+   "marker": "point",
+   "x_pct": 14.0,
+   "y_pct": 7.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Algiers",
+   "admin_area": null,
+   "country": null,
+   "actors": [
+    "U.S. Government"
+   ],
+   "event_type": "closure",
+   "date": "2013-08-04",
+   "description": "U.S. Embassy Algiers, Algeria closed Sunday due to security concerns.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "U.S. Embassy/Consulate Closure",
+   "marker": "point",
+   "x_pct": 5.0,
+   "y_pct": 35.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Nouakchott",
+   "admin_area": null,
+   "country": null,
+   "actors": [
+    "U.S. Government"
+   ],
+   "event_type": "closure",
+   "date": "2013-08-04",
+   "description": "U.S. Embassy Nouakchott, Mauritania closed Sunday due to security concerns.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "U.S. Embassy/Consulate Closure",
+   "marker": "point",
+   "x_pct": 30.5,
+   "y_pct": 11.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Tripoli",
+   "admin_area": null,
+   "country": null,
+   "actors": [
+    "U.S. Government"
+   ],
+   "event_type": "closure",
+   "date": "2013-08-04",
+   "description": "U.S. Embassy Tripoli, Libya closed Sunday due to security concerns.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "U.S. Embassy/Consulate Closure",
+   "marker": "point",
+   "x_pct": 41.5,
+   "y_pct": 15.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Cairo",
+   "admin_area": null,
+   "country": null,
+   "actors": [
+    "U.S. Government"
+   ],
+   "event_type": "closure",
+   "date": "2013-08-04",
+   "description": "U.S. Embassy Cairo, Egypt closed Sunday due to security concerns.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "U.S. Embassy/Consulate Closure",
+   "marker": "point",
+   "x_pct": 43.0,
+   "y_pct": 13.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Tel Aviv",
+   "admin_area": null,
+   "country": null,
+   "actors": [
+    "U.S. Government"
+   ],
+   "event_type": "closure",
+   "date": "2013-08-04",
+   "description": "U.S. Embassy Tel Aviv, Israel closed Sunday due to security concerns.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "U.S. Embassy/Consulate Closure",
+   "marker": "point",
+   "x_pct": 45.5,
+   "y_pct": 12.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Amman",
+   "admin_area": null,
+   "country": null,
+   "actors": [
+    "U.S. Government"
+   ],
+   "event_type": "closure",
+   "date": "2013-08-04",
+   "description": "U.S. Embassy Amman, Jordan closed Sunday due to security concerns.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "U.S. Embassy/Consulate Closure",
+   "marker": "point",
+   "x_pct": 51.5,
+   "y_pct": 9.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Baghdad",
+   "admin_area": null,
+   "country": null,
+   "actors": [
+    "U.S. Government"
+   ],
+   "event_type": "closure",
+   "date": "2013-08-04",
+   "description": "U.S. Embassy Baghdad, Iraq closed Sunday due to security concerns.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "U.S. Embassy/Consulate Closure",
+   "marker": "point",
+   "x_pct": 54.0,
+   "y_pct": 7.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Erbil",
+   "admin_area": null,
+   "country": null,
+   "actors": [
+    "U.S. Government"
+   ],
+   "event_type": "closure",
+   "date": "2013-08-04",
+   "description": "U.S. Consulate Erbil, Iraq closed Sunday due to security concerns.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "U.S. Embassy/Consulate Closure",
+   "marker": "point",
+   "x_pct": 58.5,
+   "y_pct": 19.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Kuwait City",
+   "admin_area": null,
+   "country": null,
+   "actors": [
+    "U.S. Government"
+   ],
+   "event_type": "closure",
+   "date": "2013-08-04",
+   "description": "U.S. Embassy Kuwait City, Kuwait closed Sunday due to security concerns.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "U.S. Embassy/Consulate Closure",
+   "marker": "point",
+   "x_pct": 60.0,
+   "y_pct": 22.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Manama",
+   "admin_area": null,
+   "country": null,
+   "actors": [
+    "U.S. Government"
+   ],
+   "event_type": "closure",
+   "date": "2013-08-04",
+   "description": "U.S. Embassy Manama, Bahrain closed Sunday due to security concerns.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "U.S. Embassy/Consulate Closure",
+   "marker": "point",
+   "x_pct": 61.5,
+   "y_pct": 24.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Doha",
+   "admin_area": null,
+   "country": null,
+   "actors": [
+    "U.S. Government"
+   ],
+   "event_type": "closure",
+   "date": "2013-08-04",
+   "description": "U.S. Embassy Doha, Qatar closed Sunday due to security concerns.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "U.S. Embassy/Consulate Closure",
+   "marker": "point",
+   "x_pct": 63.5,
+   "y_pct": 24.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Abu Dhabi",
+   "admin_area": null,
+   "country": null,
+   "actors": [
+    "U.S. Government"
+   ],
+   "event_type": "closure",
+   "date": "2013-08-04",
+   "description": "U.S. Embassy Abu Dhabi, United Arab Emirates closed Sunday due to security concerns.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "U.S. Embassy/Consulate Closure",
+   "marker": "point",
+   "x_pct": 65.0,
+   "y_pct": 24.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Dubai",
+   "admin_area": null,
+   "country": null,
+   "actors": [
+    "U.S. Government"
+   ],
+   "event_type": "closure",
+   "date": "2013-08-04",
+   "description": "U.S. Consulate Dubai, United Arab Emirates closed Sunday due to security concerns.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "U.S. Embassy/Consulate Closure",
+   "marker": "point",
+   "x_pct": 67.5,
+   "y_pct": 27.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Muscat",
+   "admin_area": null,
+   "country": null,
+   "actors": [
+    "U.S. Government"
+   ],
+   "event_type": "closure",
+   "date": "2013-08-04",
+   "description": "U.S. Embassy Muscat, Oman closed Sunday due to security concerns.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "U.S. Embassy/Consulate Closure",
+   "marker": "point",
+   "x_pct": 55.0,
+   "y_pct": 19.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Riyadh",
+   "admin_area": null,
+   "country": null,
+   "actors": [
+    "U.S. Government"
+   ],
+   "event_type": "closure",
+   "date": "2013-08-04",
+   "description": "U.S. Embassy Riyadh, Saudi Arabia closed Sunday due to security concerns.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "U.S. Embassy/Consulate Closure",
+   "marker": "point",
+   "x_pct": 51.5,
+   "y_pct": 22.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Jeddah",
+   "admin_area": null,
+   "country": null,
+   "actors": [
+    "U.S. Government"
+   ],
+   "event_type": "closure",
+   "date": "2013-08-04",
+   "description": "U.S. Consulate Jeddah, Saudi Arabia closed Sunday due to security concerns.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "U.S. Embassy/Consulate Closure",
+   "marker": "point",
+   "x_pct": 58.0,
+   "y_pct": 23.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Dhahran",
+   "admin_area": null,
+   "country": null,
+   "actors": [
+    "U.S. Government"
+   ],
+   "event_type": "closure",
+   "date": "2013-08-04",
+   "description": "U.S. Consulate Dhahran, Saudi Arabia closed Sunday due to security concerns.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "U.S. Embassy/Consulate Closure",
+   "marker": "point",
+   "x_pct": 55.5,
+   "y_pct": 42.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Sanaa",
+   "admin_area": null,
+   "country": null,
+   "actors": [
+    "U.S. Government"
+   ],
+   "event_type": "closure",
+   "date": "2013-08-04",
+   "description": "U.S. Embassy Sanaa, Yemen closed Sunday due to security concerns.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "U.S. Embassy/Consulate Closure",
+   "marker": "point",
+   "x_pct": 56.0,
+   "y_pct": 50.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Djibouti",
+   "admin_area": null,
+   "country": null,
+   "actors": [
+    "U.S. Government"
+   ],
+   "event_type": "closure",
+   "date": "2013-08-04",
+   "description": "U.S. Embassy Djibouti, Djibouti closed Sunday due to security concerns.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "U.S. Embassy/Consulate Closure",
+   "marker": "point",
+   "x_pct": 42.0,
+   "y_pct": 40.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Khartoum",
+   "admin_area": null,
+   "country": null,
+   "actors": [
+    "U.S. Government"
+   ],
+   "event_type": "closure",
+   "date": "2013-08-04",
+   "description": "U.S. Embassy Khartoum, Sudan closed Sunday due to security concerns.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "U.S. Embassy/Consulate Closure",
+   "marker": "point",
+   "x_pct": 76.0,
+   "y_pct": 9.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Kabul",
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "U.S. Government"
+   ],
+   "event_type": "closure",
+   "date": "2013-08-04",
+   "description": "U.S. Embassy Kabul, Afghanistan closed Sunday due to security concerns.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "U.S. Embassy/Consulate Closure",
+   "marker": "point",
+   "x_pct": 93.5,
+   "y_pct": 27.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Dhaka",
+   "admin_area": null,
+   "country": null,
+   "actors": [
+    "U.S. Government"
+   ],
+   "event_type": "closure",
+   "date": "2013-08-04",
+   "description": "U.S. Embassy Dhaka, Bangladesh closed Sunday due to security concerns.",
+   "confidence": "high"
+  }
+ ],
+ "named_persons": [],
+ "named_orgs": [
+  "ISW",
+  "AEI's Critical Threats Project",
+  "Google Maps Engine"
+ ],
+ "text_blocks": [
+  "U.S. EMBASSIES AND CONSULATES CLOSED SUNDAY DUE TO SECURITY CONCERNS",
+  "U.S. EMBASSY ABU DHABI, UNITED ARAB EMIRATES",
+  "U.S. CONSULATE JEDDAH, SAUDI ARABIA",
+  "U.S. EMBASSY ALGIERS, ALGERIA",
+  "U.S. EMBASSY KABUL, AFGHANISTAN",
+  "U.S. EMBASSY AMMAN, JORDAN",
+  "U.S. EMBASSY KHARTOUM, SUDAN",
+  "U.S. EMBASSY BAGHDAD, IRAQ",
+  "U.S. EMBASSY KUWAIT CITY, KUWAIT",
+  "U.S. EMBASSY CAIRO, EGYPT",
+  "U.S. EMBASSY MANAMA, BAHRAIN",
+  "U.S. CONSULATE DHAHRAN, SAUDI ARABIA",
+  "U.S. EMBASSY MUSCAT, OMAN",
+  "U.S. EMBASSY DJIBOUTI, DJIBOUTI",
+  "U.S. EMBASSY NOUAKCHOTT, MAURITANIA",
+  "U.S. EMBASSY DHAKA, BANGLADESH",
+  "U.S. EMBASSY RIYADH, SAUDI ARABIA",
+  "U.S. EMBASSY DOHA, QATAR",
+  "U.S. EMBASSY SANA'A, YEMEN",
+  "U.S. CONSULATE DUBAI, UNITED ARAB EMIRATES",
+  "U.S. EMBASSY TEL AVIV, ISRAEL",
+  "U.S. CONSULATE ERBIL, IRAQ",
+  "U.S. EMBASSY TRIPOLI, LIBYA",
+  "MAP: GOOGLE MAPS ENGINE"
+ ],
+ "_extraction": {
+  "model": "claude-opus-4-6",
+  "n_images": 1,
+  "image_px": [
+   1362,
+   641
+  ],
+  "ts": "2026-10-12T17:02:32Z"
+ }
+}

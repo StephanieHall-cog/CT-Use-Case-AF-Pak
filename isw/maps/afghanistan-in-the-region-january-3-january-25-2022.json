@@ -1,0 +1,353 @@
+{
+ "source": {
+  "slug": "afghanistan-in-the-region-january-3-january-25-2022",
+  "url": "https://understandingwar.org/map/afghanistan-in-the-region-january-3-january-25-2022/",
+  "title": "Afghanistan in the Region: January 3 – January 25, 2022",
+  "page_date": "January 31, 2022",
+  "isw_map_id": null,
+  "image_url": null,
+  "image_file": "afghanistan-in-the-region-january-3-january-25-2022.png",
+  "tags": [
+   "Afghanistan",
+   "Afghanistan US Withdrawal and Aftermath",
+   "Middle East"
+  ]
+ },
+ "map": {
+  "title_on_map": "Afghanistan in the Region",
+  "subtitle": null,
+  "as_of_date": null,
+  "period_start": "2022-01-03",
+  "period_end": "2022-01-25",
+  "date_precision": "day",
+  "geographic_extent": "Afghanistan and surrounding region including Iran, Pakistan, Tajikistan, Turkmenistan, and northern India",
+  "map_type": "event_points",
+  "producer": "Institute for the Study of War (ISW) / AEI Critical Threats Project",
+  "cartographer": null,
+  "caption_text": null,
+  "notes": "Map shows 9 numbered event locations across Afghanistan, Pakistan, and Iran for the period January 3-25, 2022. Basemap attribution: Esri, HERE, Garmin, FAO, NOAA, USGS."
+ },
+ "legend": [
+  {
+   "label": "Numbered event marker",
+   "symbol": "red-brown circle with pin",
+   "kind": "point"
+  }
+ ],
+ "anchors": [
+  {
+   "name": "TURKMENISTAN",
+   "kind": "country",
+   "country": "TM",
+   "x_pct": 20.0,
+   "y_pct": 20.0
+  },
+  {
+   "name": "TAJIKISTAN",
+   "kind": "country",
+   "country": "TJ",
+   "x_pct": 68.0,
+   "y_pct": 25.0
+  },
+  {
+   "name": "AFGHANISTAN",
+   "kind": "country",
+   "country": "AF",
+   "x_pct": 42.0,
+   "y_pct": 55.0
+  },
+  {
+   "name": "IRAN",
+   "kind": "country",
+   "country": "IR",
+   "x_pct": 7.0,
+   "y_pct": 60.0
+  },
+  {
+   "name": "PAKISTAN",
+   "kind": "country",
+   "country": "PK",
+   "x_pct": 55.0,
+   "y_pct": 82.0
+  },
+  {
+   "name": "Dushanbe",
+   "kind": "city",
+   "country": "TJ",
+   "x_pct": 52.0,
+   "y_pct": 27.0
+  },
+  {
+   "name": "Ashgabat",
+   "kind": "city",
+   "country": "TM",
+   "x_pct": 16.0,
+   "y_pct": 31.0
+  },
+  {
+   "name": "Mashhad",
+   "kind": "city",
+   "country": "IR",
+   "x_pct": 22.0,
+   "y_pct": 40.0
+  },
+  {
+   "name": "Kabul",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 54.0,
+   "y_pct": 51.0
+  },
+  {
+   "name": "Rawalpindi",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 70.0,
+   "y_pct": 57.0
+  },
+  {
+   "name": "Srinagar",
+   "kind": "city",
+   "country": "IN",
+   "x_pct": 80.0,
+   "y_pct": 52.0
+  },
+  {
+   "name": "Lahore",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 76.0,
+   "y_pct": 67.0
+  },
+  {
+   "name": "Quetta",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 50.0,
+   "y_pct": 77.0
+  },
+  {
+   "name": "Multan",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 68.0,
+   "y_pct": 77.0
+  },
+  {
+   "name": "Kerman",
+   "kind": "city",
+   "country": "IR",
+   "x_pct": 14.0,
+   "y_pct": 75.0
+  },
+  {
+   "name": "Zahedan",
+   "kind": "city",
+   "country": "IR",
+   "x_pct": 24.0,
+   "y_pct": 79.0
+  },
+  {
+   "name": "Meerut",
+   "kind": "city",
+   "country": "IN",
+   "x_pct": 90.0,
+   "y_pct": 82.0
+  },
+  {
+   "name": "New Delhi",
+   "kind": "city",
+   "country": "IN",
+   "x_pct": 90.0,
+   "y_pct": 84.0
+  }
+ ],
+ "plots": [
+  {
+   "legend_class": "Numbered event marker",
+   "marker": "point",
+   "x_pct": 35.0,
+   "y_pct": 78.0,
+   "extent_pct": null,
+   "label": "1 Durand Line",
+   "place_name": "Durand Line",
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "Taliban",
+    "Pakistani security forces"
+   ],
+   "event_type": "other",
+   "date": null,
+   "description": "Event 1 occurred along the Durand Line border area between Afghanistan and Pakistan.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Numbered event marker",
+   "marker": "point",
+   "x_pct": 60.0,
+   "y_pct": 42.0,
+   "extent_pct": null,
+   "label": "2 Panjshir Valley",
+   "place_name": "Panjshir Valley",
+   "admin_area": "Panjshir",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "clash",
+   "date": null,
+   "description": "Event 2 occurred in the Panjshir Valley in Afghanistan.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Numbered event marker",
+   "marker": "point",
+   "x_pct": 55.0,
+   "y_pct": 47.0,
+   "extent_pct": null,
+   "label": "3, and 6 Kabul",
+   "place_name": "Kabul",
+   "admin_area": "Kabul",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "other",
+   "date": null,
+   "description": "Event 3 occurred in Kabul, Afghanistan (co-located with event 6).",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Numbered event marker",
+   "marker": "point",
+   "x_pct": 48.0,
+   "y_pct": 39.0,
+   "extent_pct": null,
+   "label": "4 Mazar-i-Sharif",
+   "place_name": "Mazar-i-Sharif",
+   "admin_area": "Balkh",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "other",
+   "date": null,
+   "description": "Event 4 occurred in Mazar-i-Sharif, Balkh Province, Afghanistan.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Numbered event marker",
+   "marker": "point",
+   "x_pct": 62.0,
+   "y_pct": 33.0,
+   "extent_pct": null,
+   "label": "5 Faizabad, Badakhshan Province",
+   "place_name": "Faizabad",
+   "admin_area": "Badakhshan",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "other",
+   "date": null,
+   "description": "Event 5 occurred in Faizabad, Badakhshan Province, Afghanistan.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Numbered event marker",
+   "marker": "point",
+   "x_pct": 53.0,
+   "y_pct": 47.0,
+   "extent_pct": null,
+   "label": "3, and 6 Kabul",
+   "place_name": "Kabul",
+   "admin_area": "Kabul",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "other",
+   "date": null,
+   "description": "Event 6 occurred in Kabul, Afghanistan (co-located with event 3).",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Numbered event marker",
+   "marker": "point",
+   "x_pct": 24.0,
+   "y_pct": 38.0,
+   "extent_pct": null,
+   "label": "7 Mashhad, Iran",
+   "place_name": "Mashhad",
+   "admin_area": null,
+   "country": "IR",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "other",
+   "date": null,
+   "description": "Event 7 occurred in Mashhad, Iran.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Numbered event marker",
+   "marker": "point",
+   "x_pct": 58.0,
+   "y_pct": 53.0,
+   "extent_pct": null,
+   "label": "8 Gardez, Paktia Province",
+   "place_name": "Gardez",
+   "admin_area": "Paktia",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "other",
+   "date": null,
+   "description": "Event 8 occurred in Gardez, Paktia Province, Afghanistan.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Numbered event marker",
+   "marker": "point",
+   "x_pct": 64.0,
+   "y_pct": 47.0,
+   "extent_pct": null,
+   "label": "9 Sawkay and Narang Districts, Kunar Province",
+   "place_name": "Sawkay and Narang Districts",
+   "admin_area": "Kunar",
+   "country": "AF",
+   "actors": [
+    "ISKP"
+   ],
+   "event_type": "other",
+   "date": null,
+   "description": "Event 9 occurred in Sawkay and Narang Districts, Kunar Province, Afghanistan.",
+   "confidence": "high"
+  }
+ ],
+ "named_persons": [],
+ "named_orgs": [
+  "Institute for the Study of War",
+  "ISW",
+  "Esri",
+  "HERE",
+  "Garmin",
+  "FAO",
+  "NOAA",
+  "USGS"
+ ],
+ "text_blocks": [
+  "Esri, HERE, Garmin, FAO, NOAA, USGS"
+ ],
+ "_extraction": {
+  "model": "claude-opus-4-6",
+  "n_images": 5,
+  "image_px": [
+   3300,
+   2550
+  ],
+  "ts": "2026-10-12T16:44:27Z"
+ }
+}

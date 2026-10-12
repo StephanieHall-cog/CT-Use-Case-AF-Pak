@@ -1,0 +1,233 @@
+{
+ "source": {
+  "slug": "u-s-marine-corps-operation-eastern-resolve-ii",
+  "url": "https://understandingwar.org/map/u-s-marine-corps-operation-eastern-resolve-ii/",
+  "title": "U.S. Marine Corps Operation Eastern Resolve II",
+  "page_date": "October 9, 2009",
+  "isw_map_id": null,
+  "image_url": null,
+  "image_file": "u-s-marine-corps-operation-eastern-resolve-ii.jpg",
+  "tags": [
+   "Afghanistan",
+   "Afghanistan Surge and Drawdown",
+   "Geospatial Intelligence"
+  ]
+ },
+ "map": {
+  "title_on_map": "USMC Operation Eastern Resolve II",
+  "subtitle": "Helmand Province, Afghanistan: August, 2009",
+  "as_of_date": "2009-10-09",
+  "period_start": "2009-08-01",
+  "period_end": "2009-08-31",
+  "date_precision": "month",
+  "geographic_extent": "Helmand Province and surrounding provinces, Afghanistan",
+  "map_type": "force_disposition",
+  "producer": "Institute for the Study of War (ISW) / AEI Critical Threats Project",
+  "cartographer": null,
+  "caption_text": null,
+  "notes": "Map shows USMC Operation Eastern Resolve II in Helmand Province during August 2009. Scale bar visible indicating approximately 15 miles."
+ },
+ "legend": [
+  {
+   "label": "International boundary",
+   "symbol": "dashed line",
+   "kind": "line"
+  },
+  {
+   "label": "Provincial boundary",
+   "symbol": "thin dashed line",
+   "kind": "line"
+  }
+ ],
+ "anchors": [
+  {
+   "name": "GHOR",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 42,
+   "y_pct": 8
+  },
+  {
+   "name": "FARAH",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 12,
+   "y_pct": 44
+  },
+  {
+   "name": "HELMAND",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 52,
+   "y_pct": 52
+  },
+  {
+   "name": "Farah",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 18,
+   "y_pct": 16
+  },
+  {
+   "name": "Pur Chaman",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 12,
+   "y_pct": 30
+  },
+  {
+   "name": "Khoway",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 28,
+   "y_pct": 60
+  },
+  {
+   "name": "Nawa",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 42,
+   "y_pct": 62
+  },
+  {
+   "name": "Kan Jak e Sofla",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 48,
+   "y_pct": 68
+  },
+  {
+   "name": "Now Zad",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 42,
+   "y_pct": 72
+  },
+  {
+   "name": "New Zad",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 48,
+   "y_pct": 74
+  },
+  {
+   "name": "Musa Qala",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 68,
+   "y_pct": 68
+  },
+  {
+   "name": "Lashkar Gah",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 50,
+   "y_pct": 78
+  },
+  {
+   "name": "Helmand Kariz",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 34,
+   "y_pct": 84
+  },
+  {
+   "name": "URUZGAN",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 82,
+   "y_pct": 42
+  }
+ ],
+ "plots": [
+  {
+   "legend_class": "unlabelled",
+   "marker": "point",
+   "x_pct": 42,
+   "y_pct": 62,
+   "extent_pct": null,
+   "label": "Nawa",
+   "place_name": "Nawa",
+   "admin_area": "Helmand",
+   "country": "AF",
+   "actors": [
+    "USMC"
+   ],
+   "event_type": "operation",
+   "date": null,
+   "description": "USMC operational area near Nawa during Operation Eastern Resolve II",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "unlabelled",
+   "marker": "point",
+   "x_pct": 42,
+   "y_pct": 72,
+   "extent_pct": null,
+   "label": "Now Zad",
+   "place_name": "Now Zad",
+   "admin_area": "Helmand",
+   "country": "AF",
+   "actors": [
+    "USMC"
+   ],
+   "event_type": "operation",
+   "date": null,
+   "description": "USMC operational area near Now Zad during Operation Eastern Resolve II",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "unlabelled",
+   "marker": "point",
+   "x_pct": 68,
+   "y_pct": 68,
+   "extent_pct": null,
+   "label": "Musa Qala",
+   "place_name": "Musa Qala",
+   "admin_area": "Helmand",
+   "country": "AF",
+   "actors": [
+    "USMC"
+   ],
+   "event_type": "operation",
+   "date": null,
+   "description": "USMC operational area near Musa Qala during Operation Eastern Resolve II",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "unlabelled",
+   "marker": "point",
+   "x_pct": 50,
+   "y_pct": 78,
+   "extent_pct": null,
+   "label": "Lashkar Gah",
+   "place_name": "Lashkar Gah",
+   "admin_area": "Helmand",
+   "country": "AF",
+   "actors": [
+    "USMC"
+   ],
+   "event_type": "operation",
+   "date": null,
+   "description": "USMC operational area near Lashkar Gah during Operation Eastern Resolve II",
+   "confidence": "medium"
+  }
+ ],
+ "named_persons": [],
+ "named_orgs": [
+  "USMC",
+  "U.S. Marine Corps"
+ ],
+ "text_blocks": [
+  "USMC Operation Eastern Resolve II: Helmand Province, Afghanistan: August, 2009"
+ ],
+ "_extraction": {
+  "model": "claude-opus-4-6",
+  "n_images": 1,
+  "image_px": [
+   300,
+   265
+  ],
+  "ts": "2026-10-12T16:55:20Z"
+ }
+}

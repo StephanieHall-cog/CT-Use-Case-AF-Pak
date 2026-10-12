@@ -1,0 +1,878 @@
+{
+ "source": {
+  "slug": "isaf-force-distribution-in-helmand-province-winter-2010",
+  "url": "https://understandingwar.org/map/isaf-force-distribution-in-helmand-province-winter-2010/",
+  "title": "ISAF Force Distribution in Helmand Province – Winter 2010",
+  "page_date": "January 6, 2011",
+  "isw_map_id": null,
+  "image_url": null,
+  "image_file": "isaf-force-distribution-in-helmand-province-winter-2010.gif",
+  "tags": [
+   "Afghanistan",
+   "Afghanistan Surge and Drawdown",
+   "Middle East"
+  ]
+ },
+ "map": {
+  "title_on_map": "ISAF Force Distribution in Helmand Province Winter 2010",
+  "subtitle": "*At the battalion level",
+  "as_of_date": null,
+  "period_start": "2010-12-01",
+  "period_end": "2011-01-06",
+  "date_precision": "month",
+  "geographic_extent": "Helmand Province, Afghanistan and surrounding provinces",
+  "map_type": "force_disposition",
+  "producer": "INSTITUTE FOR THE STUDY OF WAR",
+  "cartographer": null,
+  "caption_text": null,
+  "notes": "Map shows ISAF battalion-level force distribution in Helmand Province during Winter 2010. Published January 6, 2011."
+ },
+ "legend": [
+  {
+   "label": "US flag",
+   "symbol": "US flag icon",
+   "kind": "point"
+  },
+  {
+   "label": "UK flag",
+   "symbol": "UK Union Jack icon",
+   "kind": "point"
+  },
+  {
+   "label": "Danish flag",
+   "symbol": "Danish flag icon (red with white cross)",
+   "kind": "point"
+  },
+  {
+   "label": "Estonian flag",
+   "symbol": "Estonian flag icon (blue-black-white)",
+   "kind": "point"
+  },
+  {
+   "label": "Georgian flag",
+   "symbol": "Georgian flag icon",
+   "kind": "point"
+  }
+ ],
+ "anchors": [
+  {
+   "name": "HELMAND",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 36.0,
+   "y_pct": 50.0
+  },
+  {
+   "name": "FARAH",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 7.0,
+   "y_pct": 23.0
+  },
+  {
+   "name": "NIMRUZ",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 10.0,
+   "y_pct": 49.0
+  },
+  {
+   "name": "GHOR",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 58.0,
+   "y_pct": 3.0
+  },
+  {
+   "name": "DAYKUNDI",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 90.0,
+   "y_pct": 3.0
+  },
+  {
+   "name": "URUZGAN",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 88.0,
+   "y_pct": 14.0
+  },
+  {
+   "name": "KANDAHAR",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 85.0,
+   "y_pct": 39.0
+  },
+  {
+   "name": "KANDAHAR",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 78.0,
+   "y_pct": 49.0
+  },
+  {
+   "name": "BALOCHISTAN",
+   "kind": "province",
+   "country": "PK",
+   "x_pct": 40.0,
+   "y_pct": 92.0
+  },
+  {
+   "name": "AFGHANISTAN",
+   "kind": "country",
+   "country": "AF",
+   "x_pct": 75.0,
+   "y_pct": 85.0
+  },
+  {
+   "name": "PAKISTAN",
+   "kind": "country",
+   "country": "PK",
+   "x_pct": 90.0,
+   "y_pct": 85.0
+  },
+  {
+   "name": "Lashkar Gah",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 34.0,
+   "y_pct": 40.0
+  },
+  {
+   "name": "Delaram",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 20.0,
+   "y_pct": 32.0
+  },
+  {
+   "name": "Farah",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 9.0,
+   "y_pct": 28.0
+  },
+  {
+   "name": "Garmsir",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 27.0,
+   "y_pct": 55.0
+  },
+  {
+   "name": "Khan Neshin",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 41.0,
+   "y_pct": 69.0
+  },
+  {
+   "name": "Deshu",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 10.0,
+   "y_pct": 73.0
+  },
+  {
+   "name": "Sangin",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 58.0,
+   "y_pct": 28.0
+  },
+  {
+   "name": "Musa Qala",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 50.0,
+   "y_pct": 23.0
+  },
+  {
+   "name": "Now Zad",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 35.0,
+   "y_pct": 22.0
+  },
+  {
+   "name": "Kajaki",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 58.0,
+   "y_pct": 22.0
+  },
+  {
+   "name": "Nahr-i Saraj",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 44.0,
+   "y_pct": 37.0
+  },
+  {
+   "name": "Nad Ali",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 30.0,
+   "y_pct": 40.0
+  },
+  {
+   "name": "Nawа-ye Barakza'i",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 42.0,
+   "y_pct": 44.0
+  },
+  {
+   "name": "Washer",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 38.0,
+   "y_pct": 27.0
+  },
+  {
+   "name": "Baghran",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 48.0,
+   "y_pct": 10.0
+  },
+  {
+   "name": "Khash Rod",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 8.0,
+   "y_pct": 37.0
+  },
+  {
+   "name": "Chahar Burjak",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 8.0,
+   "y_pct": 62.0
+  },
+  {
+   "name": "Dishu",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 46.0,
+   "y_pct": 22.0
+  },
+  {
+   "name": "Tarin Kowt",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 93.0,
+   "y_pct": 18.0
+  },
+  {
+   "name": "Shahid-e Hasas",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 72.0,
+   "y_pct": 12.0
+  },
+  {
+   "name": "Deh Rawud",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 72.0,
+   "y_pct": 18.0
+  },
+  {
+   "name": "Ghorak",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 61.0,
+   "y_pct": 30.0
+  },
+  {
+   "name": "Khakrez",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 78.0,
+   "y_pct": 32.0
+  },
+  {
+   "name": "Maiwand",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 72.0,
+   "y_pct": 40.0
+  },
+  {
+   "name": "Zharay",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 82.0,
+   "y_pct": 37.0
+  },
+  {
+   "name": "Panjwa'i",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 75.0,
+   "y_pct": 50.0
+  },
+  {
+   "name": "Daman",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 80.0,
+   "y_pct": 47.0
+  },
+  {
+   "name": "Registan",
+   "kind": "region",
+   "country": "AF",
+   "x_pct": 72.0,
+   "y_pct": 70.0
+  },
+  {
+   "name": "Dasht-e Margo",
+   "kind": "region",
+   "country": "AF",
+   "x_pct": 17.0,
+   "y_pct": 57.0
+  },
+  {
+   "name": "Spin Boldak",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 90.0,
+   "y_pct": 53.0
+  },
+  {
+   "name": "Tal Kala",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 27.0,
+   "y_pct": 30.0
+  },
+  {
+   "name": "Marjа",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 30.0,
+   "y_pct": 42.0
+  },
+  {
+   "name": "Kuchinay Darwishan",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 38.0,
+   "y_pct": 53.0
+  },
+  {
+   "name": "Yazdan Kolay",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 33.0,
+   "y_pct": 56.0
+  },
+  {
+   "name": "Sar Banader",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 42.0,
+   "y_pct": 60.0
+  },
+  {
+   "name": "Bahram Chah",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 40.0,
+   "y_pct": 82.0
+  },
+  {
+   "name": "Safar",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 30.0,
+   "y_pct": 62.0
+  },
+  {
+   "name": "Hazarjuft",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 32.0,
+   "y_pct": 45.0
+  },
+  {
+   "name": "Afghan-e Bagat",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 45.0,
+   "y_pct": 62.0
+  },
+  {
+   "name": "Qurya",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 52.0,
+   "y_pct": 47.0
+  },
+  {
+   "name": "Helmand River",
+   "kind": "river",
+   "country": "AF",
+   "x_pct": 22.0,
+   "y_pct": 65.0
+  },
+  {
+   "name": "Barakzai Klay",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 35.0,
+   "y_pct": 48.0
+  },
+  {
+   "name": "Hamun-i Lora",
+   "kind": "other",
+   "country": "AF",
+   "x_pct": 62.0,
+   "y_pct": 90.0
+  },
+  {
+   "name": "Chagai Hills",
+   "kind": "other",
+   "country": "PK",
+   "x_pct": 37.0,
+   "y_pct": 87.0
+  },
+  {
+   "name": "Kajran",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 88.0,
+   "y_pct": 7.0
+  },
+  {
+   "name": "Rawalkot",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 11.0,
+   "y_pct": 27.0
+  }
+ ],
+ "plots": [
+  {
+   "legend_class": "UK flag",
+   "marker": "point",
+   "x_pct": 24.0,
+   "y_pct": 30.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Delaram",
+   "admin_area": "Helmand",
+   "country": "AF",
+   "actors": [
+    "ISAF",
+    "British Armed Forces"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "UK battalion-level ISAF force presence near Delaram area.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "US flag",
+   "marker": "point",
+   "x_pct": 36.0,
+   "y_pct": 23.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Now Zad",
+   "admin_area": "Helmand",
+   "country": "AF",
+   "actors": [
+    "ISAF",
+    "US Armed Forces"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "US battalion-level ISAF force presence near Now Zad.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "US flag",
+   "marker": "point",
+   "x_pct": 50.0,
+   "y_pct": 24.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Musa Qala",
+   "admin_area": "Helmand",
+   "country": "AF",
+   "actors": [
+    "ISAF",
+    "US Armed Forces"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "US battalion-level ISAF force presence near Musa Qala.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "UK flag",
+   "marker": "point",
+   "x_pct": 57.0,
+   "y_pct": 28.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Sangin",
+   "admin_area": "Helmand",
+   "country": "AF",
+   "actors": [
+    "ISAF",
+    "British Armed Forces"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "UK battalion-level ISAF force presence near Sangin.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "US flag",
+   "marker": "point",
+   "x_pct": 60.0,
+   "y_pct": 28.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Sangin",
+   "admin_area": "Helmand",
+   "country": "AF",
+   "actors": [
+    "ISAF",
+    "US Armed Forces"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "US battalion-level ISAF force presence near Sangin.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Danish flag",
+   "marker": "point",
+   "x_pct": 46.0,
+   "y_pct": 37.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Nahr-i Saraj",
+   "admin_area": "Helmand",
+   "country": "AF",
+   "actors": [
+    "ISAF",
+    "Danish Armed Forces"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "Danish battalion-level ISAF force presence near Nahr-i Saraj.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "UK flag",
+   "marker": "point",
+   "x_pct": 42.0,
+   "y_pct": 37.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Nahr-i Saraj",
+   "admin_area": "Helmand",
+   "country": "AF",
+   "actors": [
+    "ISAF",
+    "British Armed Forces"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "UK battalion-level ISAF force presence at Nahr-i Saraj.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "US flag",
+   "marker": "point",
+   "x_pct": 40.0,
+   "y_pct": 40.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Lashkar Gah",
+   "admin_area": "Helmand",
+   "country": "AF",
+   "actors": [
+    "ISAF",
+    "US Armed Forces"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "US battalion-level ISAF force presence at Lashkar Gah.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "UK flag",
+   "marker": "point",
+   "x_pct": 36.0,
+   "y_pct": 40.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Lashkar Gah",
+   "admin_area": "Helmand",
+   "country": "AF",
+   "actors": [
+    "ISAF",
+    "British Armed Forces"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "UK battalion-level ISAF force presence at Lashkar Gah.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Estonian flag",
+   "marker": "point",
+   "x_pct": 38.0,
+   "y_pct": 42.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Lashkar Gah",
+   "admin_area": "Helmand",
+   "country": "AF",
+   "actors": [
+    "ISAF",
+    "Estonian Armed Forces"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "Estonian battalion-level ISAF force presence near Lashkar Gah.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "US flag",
+   "marker": "point",
+   "x_pct": 28.0,
+   "y_pct": 43.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Marjа",
+   "admin_area": "Helmand",
+   "country": "AF",
+   "actors": [
+    "ISAF",
+    "US Armed Forces"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "US battalion-level ISAF force presence near Marja.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "US flag",
+   "marker": "point",
+   "x_pct": 32.0,
+   "y_pct": 45.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Hazarjuft",
+   "admin_area": "Helmand",
+   "country": "AF",
+   "actors": [
+    "ISAF",
+    "US Armed Forces"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "US battalion-level ISAF force presence near Hazarjuft.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "UK flag",
+   "marker": "point",
+   "x_pct": 30.0,
+   "y_pct": 45.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Nad Ali",
+   "admin_area": "Helmand",
+   "country": "AF",
+   "actors": [
+    "ISAF",
+    "British Armed Forces"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "UK battalion-level ISAF force presence near Nad Ali.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "US flag",
+   "marker": "point",
+   "x_pct": 26.0,
+   "y_pct": 45.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Marjа",
+   "admin_area": "Helmand",
+   "country": "AF",
+   "actors": [
+    "ISAF",
+    "US Armed Forces"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "US battalion-level ISAF force presence in Marja area.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Georgian flag",
+   "marker": "point",
+   "x_pct": 34.0,
+   "y_pct": 45.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Hazarjuft",
+   "admin_area": "Helmand",
+   "country": "AF",
+   "actors": [
+    "ISAF",
+    "Georgian Armed Forces"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "Georgian battalion-level ISAF force presence near Hazarjuft.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "US flag",
+   "marker": "point",
+   "x_pct": 42.0,
+   "y_pct": 44.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Nawа-ye Barakza'i",
+   "admin_area": "Helmand",
+   "country": "AF",
+   "actors": [
+    "ISAF",
+    "US Armed Forces"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "US battalion-level ISAF force presence near Nawa-ye Barakzai.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "US flag",
+   "marker": "point",
+   "x_pct": 28.0,
+   "y_pct": 55.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Garmsir",
+   "admin_area": "Helmand",
+   "country": "AF",
+   "actors": [
+    "ISAF",
+    "US Armed Forces"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "US battalion-level ISAF force presence near Garmsir.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "US flag",
+   "marker": "point",
+   "x_pct": 41.0,
+   "y_pct": 69.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Khan Neshin",
+   "admin_area": "Helmand",
+   "country": "AF",
+   "actors": [
+    "ISAF",
+    "US Armed Forces"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "US battalion-level ISAF force presence at Khan Neshin.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "US flag",
+   "marker": "point",
+   "x_pct": 81.0,
+   "y_pct": 70.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Helmand",
+   "country": "AF",
+   "actors": [
+    "ISAF",
+    "US Armed Forces"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "US battalion-level ISAF force presence in southeastern Helmand/Registan area.",
+   "confidence": "low"
+  },
+  {
+   "legend_class": "Danish flag",
+   "marker": "point",
+   "x_pct": 60.0,
+   "y_pct": 30.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Sangin",
+   "admin_area": "Helmand",
+   "country": "AF",
+   "actors": [
+    "ISAF",
+    "Danish Armed Forces"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "Danish battalion-level ISAF force presence near Sangin area.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "UK flag",
+   "marker": "point",
+   "x_pct": 34.0,
+   "y_pct": 48.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Barakzai Klay",
+   "admin_area": "Helmand",
+   "country": "AF",
+   "actors": [
+    "ISAF",
+    "British Armed Forces"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "UK battalion-level ISAF force presence near Barakzai Klay.",
+   "confidence": "medium"
+  }
+ ],
+ "named_persons": [],
+ "named_orgs": [
+  "ISAF",
+  "INSTITUTE FOR THE STUDY OF WAR"
+ ],
+ "text_blocks": [
+  "ISAF Force Distribution in Helmand Province Winter 2010",
+  "*At the battalion level",
+  "© INSTITUTE FOR THE STUDY OF WAR"
+ ],
+ "_extraction": {
+  "model": "claude-opus-4-6",
+  "n_images": 1,
+  "image_px": [
+   511,
+   695
+  ],
+  "ts": "2026-10-12T16:53:32Z"
+ }
+}

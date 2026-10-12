@@ -1,0 +1,1125 @@
+{
+ "source": {
+  "slug": "ttp-attacks-and-locations-of-deportations-of-afghan-refugees-in-pakistan-between-august-and-october-2023",
+  "url": "https://understandingwar.org/map/ttp-attacks-and-locations-of-deportations-of-afghan-refugees-in-pakistan-between-august-and-october-2023/",
+  "title": "Ttp Attacks and Locations of Deportations of Afghan Refugees in Pakistan Between August and October 2023",
+  "page_date": "October 13, 2023",
+  "isw_map_id": "68654",
+  "image_url": "https://understandingwar.org/wp-content/uploads/2025/05/2023101120TTP20and20Deportations20Map.png",
+  "image_file": "ttp-attacks-and-locations-of-deportations-of-afghan-refugees-in-pakistan-between-august-and-october-2023.png",
+  "tags": [
+   "ISIS",
+   "Middle East",
+   "Salafi Jihadi Weekly Update"
+  ]
+ },
+ "map": {
+  "title_on_map": "TTP Attacks and Locations of Deportations of Afghan Refugees in Pakistan",
+  "subtitle": "Between August and October 2023",
+  "as_of_date": "2023-10-11",
+  "period_start": "2023-08-01",
+  "period_end": "2023-10-31",
+  "date_precision": "month",
+  "geographic_extent": "Afghanistan and Pakistan",
+  "map_type": "event_points",
+  "producer": "Critical Threats Project at the American Enterprise Institute",
+  "cartographer": "Kathryn Tyson",
+  "caption_text": "Deportation authorities are at risk of attacks by the TTP, which would help build TTP support zones. The TTP condemned the deportations and called for attacks in response. The area where Pakistan is expelling refugees is located near TTP attack zones.",
+  "notes": null
+ },
+ "legend": [
+  {
+   "label": "Border Crossings Where Pakistan Has Deported Refugees in October",
+   "symbol": "gray map pin",
+   "kind": "point"
+  },
+  {
+   "label": "TTP Attacks from August to October",
+   "symbol": "red circle",
+   "kind": "point"
+  }
+ ],
+ "anchors": [
+  {
+   "name": "Afghanistan",
+   "kind": "country",
+   "country": "AF",
+   "x_pct": 27.0,
+   "y_pct": 36.0
+  },
+  {
+   "name": "Pakistan",
+   "kind": "country",
+   "country": "PK",
+   "x_pct": 42.0,
+   "y_pct": 57.0
+  },
+  {
+   "name": "Islamabad",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 72.0,
+   "y_pct": 35.5
+  },
+  {
+   "name": "Lahore",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 76.0,
+   "y_pct": 44.5
+  },
+  {
+   "name": "Quetta",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 41.0,
+   "y_pct": 52.0
+  },
+  {
+   "name": "Karachi",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 40.0,
+   "y_pct": 74.0
+  }
+ ],
+ "plots": [
+  {
+   "legend_class": "Border Crossings Where Pakistan Has Deported Refugees in October",
+   "marker": "point",
+   "x_pct": 58.5,
+   "y_pct": 34.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Islamabad",
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "Pakistani security forces"
+   ],
+   "event_type": "deportation",
+   "date": null,
+   "description": "Border crossing where Pakistan has deported Afghan refugees in October 2023, near Islamabad area.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Border Crossings Where Pakistan Has Deported Refugees in October",
+   "marker": "point",
+   "x_pct": 35.5,
+   "y_pct": 48.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Quetta",
+   "admin_area": "Balochistan",
+   "country": "PK",
+   "actors": [
+    "Pakistani security forces"
+   ],
+   "event_type": "deportation",
+   "date": null,
+   "description": "Border crossing where Pakistan has deported Afghan refugees in October 2023, near Quetta area.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Attacks from August to October",
+   "marker": "point",
+   "x_pct": 80.0,
+   "y_pct": 24.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in northeastern Pakistan between August and October 2023.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "TTP Attacks from August to October",
+   "marker": "point",
+   "x_pct": 84.0,
+   "y_pct": 24.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in northeastern Pakistan between August and October 2023.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "TTP Attacks from August to October",
+   "marker": "point",
+   "x_pct": 60.0,
+   "y_pct": 27.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in Khyber Pakhtunkhwa between August and October 2023.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "TTP Attacks from August to October",
+   "marker": "point",
+   "x_pct": 68.0,
+   "y_pct": 25.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in Khyber Pakhtunkhwa between August and October 2023.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "TTP Attacks from August to October",
+   "marker": "point",
+   "x_pct": 58.0,
+   "y_pct": 33.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in tribal areas between August and October 2023.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "TTP Attacks from August to October",
+   "marker": "point",
+   "x_pct": 60.0,
+   "y_pct": 33.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in tribal areas between August and October 2023.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "TTP Attacks from August to October",
+   "marker": "point",
+   "x_pct": 63.5,
+   "y_pct": 33.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack near Islamabad region between August and October 2023.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "TTP Attacks from August to October",
+   "marker": "point",
+   "x_pct": 65.0,
+   "y_pct": 33.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack near Islamabad region between August and October 2023.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "TTP Attacks from August to October",
+   "marker": "point",
+   "x_pct": 70.0,
+   "y_pct": 34.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack near Islamabad between August and October 2023.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "TTP Attacks from August to October",
+   "marker": "point",
+   "x_pct": 72.0,
+   "y_pct": 34.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Islamabad",
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack near Islamabad between August and October 2023.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "TTP Attacks from August to October",
+   "marker": "point",
+   "x_pct": 55.0,
+   "y_pct": 35.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in tribal areas between August and October 2023.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "TTP Attacks from August to October",
+   "marker": "point",
+   "x_pct": 56.5,
+   "y_pct": 35.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in tribal areas between August and October 2023.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "TTP Attacks from August to October",
+   "marker": "point",
+   "x_pct": 57.5,
+   "y_pct": 35.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in tribal areas between August and October 2023.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "TTP Attacks from August to October",
+   "marker": "point",
+   "x_pct": 59.0,
+   "y_pct": 35.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in tribal areas between August and October 2023.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "TTP Attacks from August to October",
+   "marker": "point",
+   "x_pct": 60.5,
+   "y_pct": 35.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in tribal areas between August and October 2023.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "TTP Attacks from August to October",
+   "marker": "point",
+   "x_pct": 61.5,
+   "y_pct": 36.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in tribal areas between August and October 2023.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "TTP Attacks from August to October",
+   "marker": "point",
+   "x_pct": 62.5,
+   "y_pct": 35.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in tribal areas between August and October 2023.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "TTP Attacks from August to October",
+   "marker": "point",
+   "x_pct": 63.0,
+   "y_pct": 36.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in tribal areas between August and October 2023.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "TTP Attacks from August to October",
+   "marker": "point",
+   "x_pct": 64.0,
+   "y_pct": 35.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack between August and October 2023.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "TTP Attacks from August to October",
+   "marker": "point",
+   "x_pct": 55.0,
+   "y_pct": 37.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in tribal areas between August and October 2023.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "TTP Attacks from August to October",
+   "marker": "point",
+   "x_pct": 56.0,
+   "y_pct": 37.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in tribal areas between August and October 2023.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "TTP Attacks from August to October",
+   "marker": "point",
+   "x_pct": 57.5,
+   "y_pct": 37.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in tribal areas between August and October 2023.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "TTP Attacks from August to October",
+   "marker": "point",
+   "x_pct": 59.0,
+   "y_pct": 37.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack between August and October 2023.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "TTP Attacks from August to October",
+   "marker": "point",
+   "x_pct": 60.0,
+   "y_pct": 38.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack between August and October 2023.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "TTP Attacks from August to October",
+   "marker": "point",
+   "x_pct": 61.0,
+   "y_pct": 38.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack between August and October 2023.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "TTP Attacks from August to October",
+   "marker": "point",
+   "x_pct": 62.0,
+   "y_pct": 38.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack between August and October 2023.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "TTP Attacks from August to October",
+   "marker": "point",
+   "x_pct": 50.0,
+   "y_pct": 40.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in western tribal areas between August and October 2023.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "TTP Attacks from August to October",
+   "marker": "point",
+   "x_pct": 51.5,
+   "y_pct": 40.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in western tribal areas between August and October 2023.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "TTP Attacks from August to October",
+   "marker": "point",
+   "x_pct": 53.0,
+   "y_pct": 40.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in tribal areas between August and October 2023.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "TTP Attacks from August to October",
+   "marker": "point",
+   "x_pct": 54.0,
+   "y_pct": 41.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack between August and October 2023.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "TTP Attacks from August to October",
+   "marker": "point",
+   "x_pct": 55.5,
+   "y_pct": 40.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack between August and October 2023.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "TTP Attacks from August to October",
+   "marker": "point",
+   "x_pct": 57.0,
+   "y_pct": 39.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack between August and October 2023.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "TTP Attacks from August to October",
+   "marker": "point",
+   "x_pct": 58.5,
+   "y_pct": 40.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack between August and October 2023.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "TTP Attacks from August to October",
+   "marker": "point",
+   "x_pct": 48.0,
+   "y_pct": 42.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in western areas between August and October 2023.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "TTP Attacks from August to October",
+   "marker": "point",
+   "x_pct": 49.5,
+   "y_pct": 41.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack between August and October 2023.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "TTP Attacks from August to October",
+   "marker": "point",
+   "x_pct": 50.5,
+   "y_pct": 42.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack between August and October 2023.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "TTP Attacks from August to October",
+   "marker": "point",
+   "x_pct": 54.0,
+   "y_pct": 42.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack between August and October 2023.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "TTP Attacks from August to October",
+   "marker": "point",
+   "x_pct": 56.0,
+   "y_pct": 42.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack between August and October 2023.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "TTP Attacks from August to October",
+   "marker": "point",
+   "x_pct": 57.5,
+   "y_pct": 43.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack between August and October 2023.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "TTP Attacks from August to October",
+   "marker": "point",
+   "x_pct": 59.0,
+   "y_pct": 43.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack between August and October 2023.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "TTP Attacks from August to October",
+   "marker": "point",
+   "x_pct": 60.5,
+   "y_pct": 43.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack between August and October 2023.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "TTP Attacks from August to October",
+   "marker": "point",
+   "x_pct": 57.0,
+   "y_pct": 45.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack between August and October 2023.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "TTP Attacks from August to October",
+   "marker": "point",
+   "x_pct": 59.5,
+   "y_pct": 44.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack between August and October 2023.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "TTP Attacks from August to October",
+   "marker": "point",
+   "x_pct": 60.0,
+   "y_pct": 45.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack between August and October 2023.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "TTP Attacks from August to October",
+   "marker": "point",
+   "x_pct": 62.0,
+   "y_pct": 46.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack between August and October 2023.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "TTP Attacks from August to October",
+   "marker": "point",
+   "x_pct": 48.5,
+   "y_pct": 49.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Balochistan",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in Balochistan between August and October 2023.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "TTP Attacks from August to October",
+   "marker": "point",
+   "x_pct": 27.0,
+   "y_pct": 50.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Balochistan",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in western Balochistan between August and October 2023.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "TTP Attacks from August to October",
+   "marker": "point",
+   "x_pct": 39.0,
+   "y_pct": 51.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Quetta",
+   "admin_area": "Balochistan",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack near Quetta between August and October 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Attacks from August to October",
+   "marker": "point",
+   "x_pct": 40.0,
+   "y_pct": 52.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Quetta",
+   "admin_area": "Balochistan",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack near Quetta between August and October 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Attacks from August to October",
+   "marker": "point",
+   "x_pct": 42.5,
+   "y_pct": 50.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Quetta",
+   "admin_area": "Balochistan",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack near Quetta between August and October 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Attacks from August to October",
+   "marker": "point",
+   "x_pct": 44.0,
+   "y_pct": 50.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Quetta",
+   "admin_area": "Balochistan",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack near Quetta between August and October 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Attacks from August to October",
+   "marker": "point",
+   "x_pct": 53.5,
+   "y_pct": 39.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack between August and October 2023.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "TTP Attacks from August to October",
+   "marker": "point",
+   "x_pct": 55.0,
+   "y_pct": 43.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack between August and October 2023.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "TTP Attacks from August to October",
+   "marker": "point",
+   "x_pct": 52.0,
+   "y_pct": 43.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack between August and October 2023.",
+   "confidence": "medium"
+  }
+ ],
+ "named_persons": [
+  {
+   "name": "Kathryn Tyson",
+   "role": "cartographer",
+   "affiliation": "Critical Threats Project at the American Enterprise Institute",
+   "place": null,
+   "x_pct": null,
+   "y_pct": null
+  }
+ ],
+ "named_orgs": [
+  "TTP",
+  "Critical Threats Project",
+  "American Enterprise Institute"
+ ],
+ "text_blocks": [
+  "Deportation authorities are at risk of attacks by the TTP, which would help build TTP support zones. The TTP condemned the deportations and called for attacks in response. The area where Pakistan is expelling refugees is located near TTP attack zones.",
+  "Map by Kathryn Tyson © Critical Threats Project at the American Enterprise Institute, October 11, 2023",
+  "Esri, © OpenStreetMap contributors, HERE, Garmin, FAO, NOAA, USGSWGS1984 Web Mercator (Auxiliary Sphere)"
+ ],
+ "_extraction": {
+  "model": "claude-opus-4-6",
+  "n_images": 5,
+  "image_px": [
+   4248,
+   5500
+  ],
+  "ts": "2026-10-12T16:58:43Z"
+ }
+}

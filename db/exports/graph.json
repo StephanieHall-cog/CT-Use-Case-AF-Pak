@@ -2137,7 +2137,7 @@
 "dataset": "real",
 "role": null,
 "status": null,
-"n_episodes": 35,
+"n_episodes": 37,
 "country": "United States"
 },
 {
@@ -4298,16 +4298,6 @@
 "role": null,
 "status": null,
 "n_episodes": 3,
-"country": "United States"
-},
-{
-"id": "O-11145719a7",
-"kind": "organization",
-"name": "US Army",
-"dataset": "real",
-"role": null,
-"status": null,
-"n_episodes": 11,
 "country": "United States"
 },
 {
@@ -12621,6 +12611,16 @@
 "country": "United States"
 },
 {
+"id": "O-11145719a7",
+"kind": "organization",
+"name": "US Army",
+"dataset": "real",
+"role": null,
+"status": null,
+"n_episodes": 1,
+"country": null
+},
+{
 "id": "P-e53d123662",
 "kind": "person",
 "name": "unnamed son (serving in the military, received calls during the withdrawal)",
@@ -19037,7 +19037,7 @@
 },
 {
 "source": "O-03c84407f9",
-"target": "O-11145719a7",
+"target": "O-ba6a4003b3",
 "type": "allied_with",
 "n": 1,
 "episodes": [
@@ -19996,17 +19996,6 @@
 "detail": "Many Central Asian groups in Afghanistan are described as AQ's ethnic battalions."
 },
 {
-"source": "O-11145719a7",
-"target": "O-03898888bd",
-"type": "rival_of",
-"n": 1,
-"episodes": [
-29
-],
-"confidence": "stated",
-"detail": "derived:organization.rivals"
-},
-{
 "source": "O-1122a6e2dd",
 "target": "O-02433fc7cd",
 "type": "allied_with",
@@ -20823,7 +20812,7 @@
 },
 {
 "source": "O-21f4a51853",
-"target": "O-11145719a7",
+"target": "O-ba6a4003b3",
 "type": "allied_with",
 "n": 1,
 "episodes": [
@@ -22576,7 +22565,7 @@
 },
 {
 "source": "O-37f1bb37be",
-"target": "O-11145719a7",
+"target": "O-ba6a4003b3",
 "type": "allied_with",
 "n": 1,
 "episodes": [
@@ -22811,7 +22800,7 @@
 },
 {
 "source": "O-3c29a914a7",
-"target": "O-11145719a7",
+"target": "O-ba6a4003b3",
 "type": "allied_with",
 "n": 1,
 "episodes": [
@@ -33470,8 +33459,9 @@
 "source": "O-ba6a4003b3",
 "target": "O-03898888bd",
 "type": "rival_of",
-"n": 2,
+"n": 3,
 "episodes": [
+29,
 186,
 332
 ],
@@ -38977,7 +38967,7 @@
 },
 {
 "source": "O-d7f5a5d753",
-"target": "O-11145719a7",
+"target": "O-ba6a4003b3",
 "type": "allied_with",
 "n": 1,
 "episodes": [
@@ -53037,18 +53027,6 @@
 },
 {
 "source": "P-07db84cf30",
-"target": "O-11145719a7",
-"type": "member_of",
-"n": 2,
-"episodes": [
-16,
-29
-],
-"confidence": "stated",
-"detail": null
-},
-{
-"source": "P-07db84cf30",
 "target": "O-1eefdcf68e",
 "type": "member_of",
 "n": 1,
@@ -53062,10 +53040,12 @@
 "source": "P-07db84cf30",
 "target": "O-ba6a4003b3",
 "type": "member_of",
-"n": 5,
+"n": 7,
 "episodes": [
+16,
 19,
 23,
+29,
 56,
 332,
 343
@@ -53239,7 +53219,7 @@
 },
 {
 "source": "P-0c3b702e81",
-"target": "O-11145719a7",
+"target": "O-ba6a4003b3",
 "type": "member_of",
 "n": 1,
 "episodes": [
@@ -54455,22 +54435,12 @@
 },
 {
 "source": "P-1c6b2e2acb",
-"target": "O-11145719a7",
-"type": "member_of",
-"n": 1,
-"episodes": [
-49
-],
-"confidence": "stated",
-"detail": null
-},
-{
-"source": "P-1c6b2e2acb",
 "target": "O-ba6a4003b3",
 "type": "member_of",
-"n": 1,
+"n": 2,
 "episodes": [
-19
+19,
+49
 ],
 "confidence": "stated",
 "detail": null
@@ -55304,17 +55274,6 @@
 },
 {
 "source": "P-2e8fa033f0",
-"target": "O-11145719a7",
-"type": "member_of",
-"n": 1,
-"episodes": [
-175
-],
-"confidence": "stated",
-"detail": null
-},
-{
-"source": "P-2e8fa033f0",
 "target": "O-3e0a8805c6",
 "type": "member_of",
 "n": 8,
@@ -55366,6 +55325,17 @@
 "n": 1,
 "episodes": [
 227
+],
+"confidence": "stated",
+"detail": null
+},
+{
+"source": "P-2e8fa033f0",
+"target": "O-ba6a4003b3",
+"type": "member_of",
+"n": 1,
+"episodes": [
+175
 ],
 "confidence": "stated",
 "detail": null
@@ -56765,7 +56735,7 @@
 },
 {
 "source": "P-534924e830",
-"target": "O-11145719a7",
+"target": "O-3a89e9120e",
 "type": "member_of",
 "n": 1,
 "episodes": [
@@ -56776,7 +56746,7 @@
 },
 {
 "source": "P-534924e830",
-"target": "O-3a89e9120e",
+"target": "O-ba6a4003b3",
 "type": "member_of",
 "n": 1,
 "episodes": [
@@ -57504,19 +57474,6 @@
 },
 {
 "source": "P-65308aa414",
-"target": "O-11145719a7",
-"type": "member_of",
-"n": 3,
-"episodes": [
-56,
-79,
-124
-],
-"confidence": "stated",
-"detail": null
-},
-{
-"source": "P-65308aa414",
 "target": "O-1eefdcf68e",
 "type": "member_of",
 "n": 2,
@@ -57554,12 +57511,14 @@
 "source": "P-65308aa414",
 "target": "O-ba6a4003b3",
 "type": "member_of",
-"n": 6,
+"n": 8,
 "episodes": [
 22,
 53,
 56,
 57,
+79,
+124,
 166,
 332
 ],
@@ -58312,17 +58271,6 @@
 },
 {
 "source": "P-7ae55c8bd4",
-"target": "O-11145719a7",
-"type": "member_of",
-"n": 1,
-"episodes": [
-124
-],
-"confidence": "stated",
-"detail": null
-},
-{
-"source": "P-7ae55c8bd4",
 "target": "O-52922e8c88",
 "type": "member_of",
 "n": 1,
@@ -58357,6 +58305,17 @@
 {
 "source": "P-7ae55c8bd4",
 "target": "O-a6119f6ad9",
+"type": "member_of",
+"n": 1,
+"episodes": [
+124
+],
+"confidence": "stated",
+"detail": null
+},
+{
+"source": "P-7ae55c8bd4",
+"target": "O-ba6a4003b3",
 "type": "member_of",
 "n": 1,
 "episodes": [
@@ -58798,17 +58757,6 @@
 },
 {
 "source": "P-8adbce2f3d",
-"target": "O-11145719a7",
-"type": "member_of",
-"n": 1,
-"episodes": [
-124
-],
-"confidence": "stated",
-"detail": null
-},
-{
-"source": "P-8adbce2f3d",
 "target": "O-3c29a914a7",
 "type": "member_of",
 "n": 1,
@@ -58843,6 +58791,17 @@
 {
 "source": "P-8adbce2f3d",
 "target": "O-a6119f6ad9",
+"type": "member_of",
+"n": 1,
+"episodes": [
+124
+],
+"confidence": "stated",
+"detail": null
+},
+{
+"source": "P-8adbce2f3d",
+"target": "O-ba6a4003b3",
 "type": "member_of",
 "n": 1,
 "episodes": [
@@ -59508,21 +59467,11 @@
 },
 {
 "source": "P-a140c98489",
-"target": "O-11145719a7",
-"type": "member_of",
-"n": 1,
-"episodes": [
-79
-],
-"confidence": "stated",
-"detail": null
-},
-{
-"source": "P-a140c98489",
 "target": "O-ba6a4003b3",
 "type": "member_of",
-"n": 3,
+"n": 4,
 "episodes": [
+79,
 186,
 257,
 332
@@ -60225,7 +60174,7 @@
 },
 {
 "source": "P-b4ba6a9afe",
-"target": "O-11145719a7",
+"target": "O-ba6a4003b3",
 "type": "member_of",
 "n": 1,
 "episodes": [
@@ -60705,7 +60654,7 @@
 },
 {
 "source": "P-be1b928471",
-"target": "O-11145719a7",
+"target": "O-ba6a4003b3",
 "type": "member_of",
 "n": 1,
 "episodes": [
@@ -61728,7 +61677,7 @@
 },
 {
 "source": "P-d7342839e5",
-"target": "O-11145719a7",
+"target": "O-4cf3a1a81d",
 "type": "member_of",
 "n": 1,
 "episodes": [
@@ -61739,7 +61688,7 @@
 },
 {
 "source": "P-d7342839e5",
-"target": "O-4cf3a1a81d",
+"target": "O-ba6a4003b3",
 "type": "member_of",
 "n": 1,
 "episodes": [
@@ -62502,13 +62451,9 @@
 "source": "P-f3725b3f90",
 "target": "O-11145719a7",
 "type": "member_of",
-"n": 5,
+"n": 1,
 "episodes": [
-56,
-79,
-124,
-172,
-175
+172
 ],
 "confidence": "stated",
 "detail": null
@@ -62553,7 +62498,7 @@
 "source": "P-f3725b3f90",
 "target": "O-ba6a4003b3",
 "type": "member_of",
-"n": 9,
+"n": 12,
 "episodes": [
 13,
 22,
@@ -62563,7 +62508,10 @@
 56,
 57,
 64,
-153
+79,
+124,
+153,
+175
 ],
 "confidence": "stated",
 "detail": null
@@ -62866,7 +62814,7 @@
 },
 {
 "source": "P-fc6a5918f6",
-"target": "O-11145719a7",
+"target": "O-ba6a4003b3",
 "type": "member_of",
 "n": 1,
 "episodes": [

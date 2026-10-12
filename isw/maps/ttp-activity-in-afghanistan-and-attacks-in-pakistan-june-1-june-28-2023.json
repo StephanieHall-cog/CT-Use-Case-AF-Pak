@@ -1,0 +1,558 @@
+{
+ "source": {
+  "slug": "ttp-activity-in-afghanistan-and-attacks-in-pakistan-june-1-june-28-2023",
+  "url": "https://understandingwar.org/map/ttp-activity-in-afghanistan-and-attacks-in-pakistan-june-1-june-28-2023/",
+  "title": "Ttp Activity in Afghanistan and Attacks in Pakistan June 1–june 28, 2023",
+  "page_date": "June 30, 2023",
+  "isw_map_id": "70295",
+  "image_url": "https://understandingwar.org/wp-content/uploads/2025/04/Picture9_1.png",
+  "image_file": "ttp-activity-in-afghanistan-and-attacks-in-pakistan-june-1-june-28-2023.png",
+  "tags": [
+   "ISIS",
+   "Middle East",
+   "Salafi Jihadi Weekly Update"
+  ]
+ },
+ "map": {
+  "title_on_map": "TTP Activity in Afghanistan and Attacks in Pakistan",
+  "subtitle": "June 1–June 28, 2023",
+  "as_of_date": "2023-06-28",
+  "period_start": "2023-06-01",
+  "period_end": "2023-06-28",
+  "date_precision": "day",
+  "geographic_extent": "Eastern Afghanistan and northwestern Pakistan (Nangarhar, Kunar provinces and FATA/KPK regions)",
+  "map_type": "event_points",
+  "producer": "AEI's Critical Threats Project and Institute for the Study of War",
+  "cartographer": "Peter Mills",
+  "caption_text": "Map by Peter Mills\nCopyright AEI's Critical Threats Project\nand Institute for the Study of War\nJune 28, 2023",
+  "notes": "Basemap attribution: Esri, FAO, NOAA, USGS, Esri, CGIAR, USGS, Esri, USGS, Esri, © OpenStreetMap contributors, HERE, Garmin, Foursquare, FAO, METI/NASA, USGS"
+ },
+ "legend": [
+  {
+   "label": "TTP Attacks",
+   "symbol": "red circle",
+   "kind": "point"
+  },
+  {
+   "label": "TTP Activity in Afghanistan",
+   "symbol": "red circle with crosshair/target symbol",
+   "kind": "point"
+  }
+ ],
+ "anchors": [
+  {
+   "name": "Afghanistan",
+   "kind": "country",
+   "country": "AF",
+   "x_pct": 12.0,
+   "y_pct": 55.0
+  },
+  {
+   "name": "Pakistan",
+   "kind": "country",
+   "country": "PK",
+   "x_pct": 65.0,
+   "y_pct": 60.0
+  },
+  {
+   "name": "Jalalabad",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 12.0,
+   "y_pct": 44.0
+  },
+  {
+   "name": "Kunar",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 37.0,
+   "y_pct": 32.0
+  },
+  {
+   "name": "Nangarhar",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 27.0,
+   "y_pct": 59.0
+  },
+  {
+   "name": "Goshta",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 30.0,
+   "y_pct": 42.5
+  },
+  {
+   "name": "Asadabad",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 43.0,
+   "y_pct": 21.0
+  },
+  {
+   "name": "Bajaur",
+   "kind": "district",
+   "country": "PK",
+   "x_pct": 72.0,
+   "y_pct": 23.0
+  },
+  {
+   "name": "Mohmand",
+   "kind": "district",
+   "country": "PK",
+   "x_pct": 65.0,
+   "y_pct": 40.0
+  },
+  {
+   "name": "Khyber",
+   "kind": "district",
+   "country": "PK",
+   "x_pct": 40.0,
+   "y_pct": 67.0
+  },
+  {
+   "name": "Charsadda",
+   "kind": "district",
+   "country": "PK",
+   "x_pct": 76.0,
+   "y_pct": 55.5
+  },
+  {
+   "name": "Peshawar",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 67.0,
+   "y_pct": 63.5
+  },
+  {
+   "name": "Landi Kotal",
+   "kind": "town",
+   "country": "PK",
+   "x_pct": 48.0,
+   "y_pct": 61.0
+  },
+  {
+   "name": "Bat Khela",
+   "kind": "town",
+   "country": "PK",
+   "x_pct": 93.0,
+   "y_pct": 33.0
+  },
+  {
+   "name": "Tangi",
+   "kind": "town",
+   "country": "PK",
+   "x_pct": 74.0,
+   "y_pct": 50.0
+  },
+  {
+   "name": "Nowshera",
+   "kind": "town",
+   "country": "PK",
+   "x_pct": 93.0,
+   "y_pct": 63.0
+  },
+  {
+   "name": "Kurram",
+   "kind": "district",
+   "country": "PK",
+   "x_pct": 10.0,
+   "y_pct": 81.0
+  },
+  {
+   "name": "Orakzai",
+   "kind": "district",
+   "country": "PK",
+   "x_pct": 33.0,
+   "y_pct": 83.0
+  },
+  {
+   "name": "Hangu",
+   "kind": "town",
+   "country": "PK",
+   "x_pct": 40.0,
+   "y_pct": 90.0
+  },
+  {
+   "name": "Kohat",
+   "kind": "district",
+   "country": "PK",
+   "x_pct": 56.0,
+   "y_pct": 92.0
+  }
+ ],
+ "plots": [
+  {
+   "legend_class": "TTP Activity in Afghanistan",
+   "marker": "point",
+   "x_pct": 30.0,
+   "y_pct": 41.5,
+   "extent_pct": null,
+   "label": "Goshta",
+   "place_name": "Goshta",
+   "admin_area": "Nangarhar",
+   "country": "AF",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "TTP activity reported in Goshta district, Nangarhar province, Afghanistan.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Attacks",
+   "marker": "point",
+   "x_pct": 50.0,
+   "y_pct": 24.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Asadabad",
+   "admin_area": "Kunar",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack plotted near the Bajaur-Kunar border area.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "TTP Attacks",
+   "marker": "point",
+   "x_pct": 56.0,
+   "y_pct": 35.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Bajaur",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in southern Bajaur district.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "TTP Attacks",
+   "marker": "point",
+   "x_pct": 60.0,
+   "y_pct": 35.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Mohmand",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in or near Mohmand district.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "TTP Attacks",
+   "marker": "point",
+   "x_pct": 78.0,
+   "y_pct": 20.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Bajaur",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in northern Bajaur district.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Attacks",
+   "marker": "point",
+   "x_pct": 93.0,
+   "y_pct": 20.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Bajaur",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in far eastern Bajaur or Dir area.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "TTP Attacks",
+   "marker": "point",
+   "x_pct": 95.0,
+   "y_pct": 21.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Bajaur",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in far eastern Bajaur area.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "TTP Attacks",
+   "marker": "point",
+   "x_pct": 59.0,
+   "y_pct": 62.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Peshawar",
+   "admin_area": "Peshawar",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack near Peshawar.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Attacks",
+   "marker": "point",
+   "x_pct": 60.0,
+   "y_pct": 66.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Peshawar",
+   "admin_area": "Peshawar",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in Peshawar area.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Attacks",
+   "marker": "point",
+   "x_pct": 55.0,
+   "y_pct": 70.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in Khyber district.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Attacks",
+   "marker": "point",
+   "x_pct": 58.0,
+   "y_pct": 70.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in eastern Khyber district.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Attacks",
+   "marker": "point",
+   "x_pct": 65.0,
+   "y_pct": 70.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Peshawar",
+   "admin_area": "Peshawar",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack near Peshawar on Khyber-Peshawar border.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Attacks",
+   "marker": "point",
+   "x_pct": 67.5,
+   "y_pct": 70.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Peshawar",
+   "admin_area": "Peshawar",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack near Peshawar.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Attacks",
+   "marker": "point",
+   "x_pct": 70.0,
+   "y_pct": 71.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Peshawar",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack south of Peshawar.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "TTP Attacks",
+   "marker": "point",
+   "x_pct": 10.0,
+   "y_pct": 76.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Kurram",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in Kurram district.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Attacks",
+   "marker": "point",
+   "x_pct": 14.0,
+   "y_pct": 76.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Kurram",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in Kurram district.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Attacks",
+   "marker": "point",
+   "x_pct": 17.0,
+   "y_pct": 76.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Kurram",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in Kurram district.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "TTP Attacks",
+   "marker": "point",
+   "x_pct": 76.0,
+   "y_pct": 57.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Charsadda",
+   "admin_area": "Charsadda",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in Charsadda district.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Attacks",
+   "marker": "point",
+   "x_pct": 93.0,
+   "y_pct": 50.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in KPK settled area east of Mohmand.",
+   "confidence": "low"
+  }
+ ],
+ "named_persons": [
+  {
+   "name": "Peter Mills",
+   "role": "cartographer",
+   "affiliation": "AEI's Critical Threats Project / Institute for the Study of War",
+   "place": null,
+   "x_pct": null,
+   "y_pct": null
+  }
+ ],
+ "named_orgs": [
+  "TTP",
+  "Institute for the Study of War",
+  "AEI's Critical Threats Project",
+  "ISW",
+  "The Dr. Jack London Geospatial Fund"
+ ],
+ "text_blocks": [
+  "Map by Peter Mills\nCopyright AEI's Critical Threats Project\nand Institute for the Study of War\nJune 28, 2023",
+  "Esri, FAO, NOAA, USGS, Esri, CGIAR, USGS, Esri, USGS, Esri, © OpenStreetMap contributors, HERE, Garmin, Foursquare, FAO, METI/NASA, USGS"
+ ],
+ "_extraction": {
+  "model": "claude-opus-4-6",
+  "n_images": 1,
+  "image_px": [
+   1430,
+   1851
+  ],
+  "ts": "2026-10-12T16:53:28Z"
+ }
+}

@@ -1,0 +1,247 @@
+{
+ "source": {
+  "slug": "claimed-ttp-attacks-and-clashes-with-pakistani-security-forces-in-chitral-district-september-6-2023-september-11-2023",
+  "url": "https://understandingwar.org/map/claimed-ttp-attacks-and-clashes-with-pakistani-security-forces-in-chitral-district-september-6-2023-september-11-2023/",
+  "title": "Claimed TTP Attacks and Clashes With Pakistani Security Forces in Chitral District September 6, 2023–september 11, 2023",
+  "page_date": "September 15, 2023",
+  "isw_map_id": "68007",
+  "image_url": "https://understandingwar.org/wp-content/uploads/2025/05/Picture7_5.png",
+  "image_file": "claimed-ttp-attacks-and-clashes-with-pakistani-security-forces-in-chitral-district-september-6-2023-september-11-2023.png",
+  "tags": [
+   "ISIS",
+   "Middle East",
+   "Salafi Jihadi Weekly Update"
+  ]
+ },
+ "map": {
+  "title_on_map": "Claimed TTP Attacks and Clashes with Pakistani Security Forces in Chitral District",
+  "subtitle": "September 6, 2023–September 11, 2023",
+  "as_of_date": "2023-09-14",
+  "period_start": "2023-09-06",
+  "period_end": "2023-09-11",
+  "date_precision": "day",
+  "geographic_extent": "Chitral District, Khyber Pakhtunkhwa, Pakistan and adjacent Afghanistan",
+  "map_type": "event_points",
+  "producer": "Critical Threats Project at the American Enterprise Institute",
+  "cartographer": "Kathryn Tyson",
+  "caption_text": "Map by Kathryn Tyson © Critical Threats Project at the American Enterprise Institute, September 14, 2023",
+  "notes": "Esri, FAO, NOAA, USGS, Esri, © OpenStreetMap contributors, HERE, Garmin, FAO, NOAA, USGS, Esri, CGIAR, USGS, Esri, USGSWGS1984 Web Mercator (Auxiliary Sphere)"
+ },
+ "legend": [
+  {
+   "label": "Cities",
+   "symbol": "black star",
+   "kind": "point"
+  },
+  {
+   "label": "TTP Leadership Directs TTP Chitral Attacks",
+   "symbol": "red flag",
+   "kind": "point"
+  },
+  {
+   "label": "TTP Attacks in Chitral District",
+   "symbol": "black starburst",
+   "kind": "point"
+  }
+ ],
+ "anchors": [
+  {
+   "name": "Chitral",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 60.0,
+   "y_pct": 28.5
+  },
+  {
+   "name": "Barg-e-Matal",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 30.0,
+   "y_pct": 32.0
+  },
+  {
+   "name": "Torkham",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 27.0,
+   "y_pct": 76.5
+  },
+  {
+   "name": "Afghanistan",
+   "kind": "country",
+   "country": "AF",
+   "x_pct": 20.0,
+   "y_pct": 48.0
+  },
+  {
+   "name": "Pakistan",
+   "kind": "country",
+   "country": "PK",
+   "x_pct": 62.0,
+   "y_pct": 77.0
+  }
+ ],
+ "plots": [
+  {
+   "legend_class": "TTP Leadership Directs TTP Chitral Attacks",
+   "marker": "point",
+   "x_pct": 38.5,
+   "y_pct": 34.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Barg-e-Matal",
+   "admin_area": "Nuristan",
+   "country": "AF",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "other",
+   "date": null,
+   "description": "TTP leadership directs TTP Chitral attacks from the Barg-e-Matal area in Afghanistan.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Attacks in Chitral District",
+   "marker": "point",
+   "x_pct": 46.0,
+   "y_pct": 25.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Chitral District",
+   "country": "PK",
+   "actors": [
+    "TTP",
+    "Pakistani security forces"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "Claimed TTP attack or clash with Pakistani security forces in Chitral District.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Attacks in Chitral District",
+   "marker": "point",
+   "x_pct": 49.0,
+   "y_pct": 33.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Chitral District",
+   "country": "PK",
+   "actors": [
+    "TTP",
+    "Pakistani security forces"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "Claimed TTP attack or clash with Pakistani security forces in Chitral District.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Attacks in Chitral District",
+   "marker": "point",
+   "x_pct": 63.0,
+   "y_pct": 34.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Chitral District",
+   "country": "PK",
+   "actors": [
+    "TTP",
+    "Pakistani security forces"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "Claimed TTP attack or clash with Pakistani security forces in Chitral District.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Attacks in Chitral District",
+   "marker": "point",
+   "x_pct": 49.5,
+   "y_pct": 37.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Chitral District",
+   "country": "PK",
+   "actors": [
+    "TTP",
+    "Pakistani security forces"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "Claimed TTP attack or clash with Pakistani security forces in Chitral District.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Attacks in Chitral District",
+   "marker": "point",
+   "x_pct": 52.0,
+   "y_pct": 40.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Chitral District",
+   "country": "PK",
+   "actors": [
+    "TTP",
+    "Pakistani security forces"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "Claimed TTP attack or clash with Pakistani security forces in Chitral District.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Attacks in Chitral District",
+   "marker": "point",
+   "x_pct": 51.0,
+   "y_pct": 42.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Chitral District",
+   "country": "PK",
+   "actors": [
+    "TTP",
+    "Pakistani security forces"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "Claimed TTP attack or clash with Pakistani security forces in Chitral District.",
+   "confidence": "high"
+  }
+ ],
+ "named_persons": [
+  {
+   "name": "Kathryn Tyson",
+   "role": "cartographer",
+   "affiliation": "Critical Threats Project at the American Enterprise Institute",
+   "place": null,
+   "x_pct": null,
+   "y_pct": null
+  }
+ ],
+ "named_orgs": [
+  "TTP",
+  "Pakistani Security Forces",
+  "Critical Threats Project",
+  "American Enterprise Institute"
+ ],
+ "text_blocks": [
+  "Map by Kathryn Tyson © Critical Threats Project at the American Enterprise Institute, September 14, 2023",
+  "Esri, FAO, NOAA, USGS, Esri, © OpenStreetMap contributors, HERE, Garmin, FAO, NOAA, USGS, Esri, CGIAR, USGS, Esri, USGSWGS1984 Web Mercator (Auxiliary Sphere)"
+ ],
+ "_extraction": {
+  "model": "claude-opus-4-6",
+  "n_images": 1,
+  "image_px": [
+   1430,
+   1851
+  ],
+  "ts": "2026-10-12T16:53:57Z"
+ }
+}

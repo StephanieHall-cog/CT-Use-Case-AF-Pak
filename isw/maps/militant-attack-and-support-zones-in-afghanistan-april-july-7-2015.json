@@ -1,0 +1,999 @@
+{
+ "source": {
+  "slug": "militant-attack-and-support-zones-in-afghanistan-april-july-7-2015",
+  "url": "https://understandingwar.org/map/militant-attack-and-support-zones-in-afghanistan-april-july-7-2015/",
+  "title": "Militant Attack and Support Zones in Afghanistan: April – July 7, 2015",
+  "page_date": "2025-05-29",
+  "isw_map_id": null,
+  "image_url": null,
+  "image_file": "militant-attack-and-support-zones-in-afghanistan-april-july-7-2015.png",
+  "tags": [
+   "Afghanistan",
+   "Afghanistan Surge and Drawdown",
+   "Middle East"
+  ]
+ },
+ "map": {
+  "title_on_map": "Militant Attack and Support Zones in Afghanistan: April-July 7, 2015",
+  "subtitle": null,
+  "as_of_date": "2015-07-07",
+  "period_start": "2015-04-01",
+  "period_end": "2015-07-07",
+  "date_precision": "day",
+  "geographic_extent": "Afghanistan",
+  "map_type": "control_zones",
+  "producer": "Institute for the Study of War (ISW)",
+  "cartographer": null,
+  "caption_text": null,
+  "notes": null
+ },
+ "legend": [
+  {
+   "label": "SUPPORT ZONE",
+   "symbol": "light orange/peach shaded area",
+   "kind": "area"
+  },
+  {
+   "label": "ATTACK ZONE",
+   "symbol": "darker orange/salmon shaded area",
+   "kind": "area"
+  },
+  {
+   "label": "MAJOR TRANSIT ROUTES",
+   "symbol": "brown/dark tan line",
+   "kind": "line"
+  },
+  {
+   "label": "DISTRICT CENTERS ATTACKED AND HELD FOR AT LEAST 48 HRS",
+   "symbol": "blue starburst",
+   "kind": "point"
+  },
+  {
+   "label": "SPECTACULAR ATTACK LOCATIONS",
+   "symbol": "dark red starburst",
+   "kind": "point"
+  }
+ ],
+ "anchors": [
+  {
+   "name": "JOWZJAN",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 40.0,
+   "y_pct": 25.5
+  },
+  {
+   "name": "BALKH",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 42.0,
+   "y_pct": 34.0
+  },
+  {
+   "name": "SAMANGAN",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 49.0,
+   "y_pct": 36.0
+  },
+  {
+   "name": "FARYAB",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 24.0,
+   "y_pct": 40.5
+  },
+  {
+   "name": "SAR-E PUL",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 38.0,
+   "y_pct": 40.5
+  },
+  {
+   "name": "BADGHIS",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 22.0,
+   "y_pct": 47.5
+  },
+  {
+   "name": "BAMYAN",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 44.0,
+   "y_pct": 48.0
+  },
+  {
+   "name": "HERAT",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 9.0,
+   "y_pct": 55.0
+  },
+  {
+   "name": "GHOR",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 26.0,
+   "y_pct": 56.0
+  },
+  {
+   "name": "DAYKUNDI",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 43.0,
+   "y_pct": 58.0
+  },
+  {
+   "name": "PARWAN",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 57.0,
+   "y_pct": 48.0
+  },
+  {
+   "name": "KAPISA",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 65.0,
+   "y_pct": 45.0
+  },
+  {
+   "name": "PANJSHIR",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 66.0,
+   "y_pct": 42.0
+  },
+  {
+   "name": "NURISTAN",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 78.0,
+   "y_pct": 41.0
+  },
+  {
+   "name": "KUNAR",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 82.0,
+   "y_pct": 46.0
+  },
+  {
+   "name": "LAGHMAN",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 73.0,
+   "y_pct": 47.5
+  },
+  {
+   "name": "NANGARHAR",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 73.0,
+   "y_pct": 55.0
+  },
+  {
+   "name": "WARDAK",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 56.0,
+   "y_pct": 53.0
+  },
+  {
+   "name": "LOGAR",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 63.0,
+   "y_pct": 57.0
+  },
+  {
+   "name": "GHAZNI",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 55.0,
+   "y_pct": 62.0
+  },
+  {
+   "name": "PAKTIYA",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 67.0,
+   "y_pct": 60.0
+  },
+  {
+   "name": "KHOST",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 73.0,
+   "y_pct": 62.0
+  },
+  {
+   "name": "PAKTIKA",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 60.0,
+   "y_pct": 69.5
+  },
+  {
+   "name": "URUZGAN",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 42.0,
+   "y_pct": 66.5
+  },
+  {
+   "name": "ZABUL",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 50.0,
+   "y_pct": 72.5
+  },
+  {
+   "name": "KANDAHAR",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 38.0,
+   "y_pct": 80.0
+  },
+  {
+   "name": "HELMAND",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 28.0,
+   "y_pct": 83.0
+  },
+  {
+   "name": "NIMROZ",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 14.0,
+   "y_pct": 83.0
+  },
+  {
+   "name": "FARAH",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 9.0,
+   "y_pct": 70.0
+  },
+  {
+   "name": "KUNDUZ",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 56.0,
+   "y_pct": 28.5
+  },
+  {
+   "name": "TAKHAR",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 64.0,
+   "y_pct": 28.0
+  },
+  {
+   "name": "BADAKHSHAN",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 82.0,
+   "y_pct": 25.0
+  },
+  {
+   "name": "BAGHLAN",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 58.0,
+   "y_pct": 39.5
+  }
+ ],
+ "plots": [
+  {
+   "legend_class": "DISTRICT CENTERS ATTACKED AND HELD FOR AT LEAST 48 HRS",
+   "marker": "point",
+   "x_pct": 28.0,
+   "y_pct": 47.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Badghis",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "District center in Badghis province attacked and held by militants for at least 48 hours.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "DISTRICT CENTERS ATTACKED AND HELD FOR AT LEAST 48 HRS",
+   "marker": "point",
+   "x_pct": 54.5,
+   "y_pct": 27.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Kunduz",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "District center in Kunduz province attacked and held by militants for at least 48 hours.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "DISTRICT CENTERS ATTACKED AND HELD FOR AT LEAST 48 HRS",
+   "marker": "point",
+   "x_pct": 57.0,
+   "y_pct": 26.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Kunduz",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "District center in Kunduz province attacked and held by militants for at least 48 hours.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "DISTRICT CENTERS ATTACKED AND HELD FOR AT LEAST 48 HRS",
+   "marker": "point",
+   "x_pct": 59.5,
+   "y_pct": 26.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Kunduz/Takhar",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "District center near Kunduz-Takhar border attacked and held by militants for at least 48 hours.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "DISTRICT CENTERS ATTACKED AND HELD FOR AT LEAST 48 HRS",
+   "marker": "point",
+   "x_pct": 56.0,
+   "y_pct": 30.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Kunduz",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "District center in southern Kunduz province attacked and held by militants for at least 48 hours.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "DISTRICT CENTERS ATTACKED AND HELD FOR AT LEAST 48 HRS",
+   "marker": "point",
+   "x_pct": 58.5,
+   "y_pct": 30.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Kunduz/Takhar",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "District center attacked and held by militants for at least 48 hours in the Kunduz-Takhar area.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "DISTRICT CENTERS ATTACKED AND HELD FOR AT LEAST 48 HRS",
+   "marker": "point",
+   "x_pct": 78.0,
+   "y_pct": 29.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Badakhshan",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "District center in Badakhshan province attacked and held by militants for at least 48 hours.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "DISTRICT CENTERS ATTACKED AND HELD FOR AT LEAST 48 HRS",
+   "marker": "point",
+   "x_pct": 80.0,
+   "y_pct": 30.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Badakhshan",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "District center in Badakhshan province attacked and held by militants for at least 48 hours.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "DISTRICT CENTERS ATTACKED AND HELD FOR AT LEAST 48 HRS",
+   "marker": "point",
+   "x_pct": 40.0,
+   "y_pct": 67.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Uruzgan",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "District center in Uruzgan province attacked and held by militants for at least 48 hours.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "DISTRICT CENTERS ATTACKED AND HELD FOR AT LEAST 48 HRS",
+   "marker": "point",
+   "x_pct": 55.0,
+   "y_pct": 70.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Paktika",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "District center in Paktika province attacked and held by militants for at least 48 hours.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "SPECTACULAR ATTACK LOCATIONS",
+   "marker": "point",
+   "x_pct": 14.0,
+   "y_pct": 52.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Herat",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "Spectacular attack location in Herat province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "SPECTACULAR ATTACK LOCATIONS",
+   "marker": "point",
+   "x_pct": 62.0,
+   "y_pct": 50.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Kabul/Parwan",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "Spectacular attack location near Kabul/Parwan area.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "SPECTACULAR ATTACK LOCATIONS",
+   "marker": "point",
+   "x_pct": 69.5,
+   "y_pct": 52.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Nangarhar",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "Spectacular attack location in Nangarhar province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "SPECTACULAR ATTACK LOCATIONS",
+   "marker": "point",
+   "x_pct": 46.0,
+   "y_pct": 72.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Zabul",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "Spectacular attack location in Zabul province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "SPECTACULAR ATTACK LOCATIONS",
+   "marker": "point",
+   "x_pct": 32.0,
+   "y_pct": 80.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Helmand/Kandahar",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "Spectacular attack location in the Helmand/Kandahar border area.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "SUPPORT ZONE",
+   "marker": "area",
+   "x_pct": 22.0,
+   "y_pct": 39.0,
+   "extent_pct": 8.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Faryab",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "support_zone",
+   "date": null,
+   "description": "Taliban support zone covering parts of Faryab and Badghis provinces.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ATTACK ZONE",
+   "marker": "area",
+   "x_pct": 24.0,
+   "y_pct": 43.0,
+   "extent_pct": 4.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Faryab",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "Taliban attack zone in Faryab province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ATTACK ZONE",
+   "marker": "area",
+   "x_pct": 34.0,
+   "y_pct": 38.0,
+   "extent_pct": 4.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Sar-e Pul",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "Taliban attack zone in Sar-e Pul province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "SUPPORT ZONE",
+   "marker": "area",
+   "x_pct": 56.0,
+   "y_pct": 28.0,
+   "extent_pct": 7.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Kunduz",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "support_zone",
+   "date": null,
+   "description": "Taliban support zone covering Kunduz province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ATTACK ZONE",
+   "marker": "area",
+   "x_pct": 57.0,
+   "y_pct": 27.0,
+   "extent_pct": 4.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Kunduz",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "Taliban attack zone in Kunduz province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ATTACK ZONE",
+   "marker": "area",
+   "x_pct": 54.0,
+   "y_pct": 36.0,
+   "extent_pct": 4.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Baghlan",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "Taliban attack zone in Baghlan province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "SUPPORT ZONE",
+   "marker": "area",
+   "x_pct": 79.0,
+   "y_pct": 29.0,
+   "extent_pct": 5.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Badakhshan",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "support_zone",
+   "date": null,
+   "description": "Taliban support zone in Badakhshan province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ATTACK ZONE",
+   "marker": "area",
+   "x_pct": 79.0,
+   "y_pct": 29.0,
+   "extent_pct": 3.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Badakhshan",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "Taliban attack zone in Badakhshan province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "SUPPORT ZONE",
+   "marker": "area",
+   "x_pct": 70.0,
+   "y_pct": 48.0,
+   "extent_pct": 8.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Nangarhar/Kunar/Laghman",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "support_zone",
+   "date": null,
+   "description": "Taliban support zone covering Nangarhar, Kunar, and Laghman provinces.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ATTACK ZONE",
+   "marker": "area",
+   "x_pct": 72.0,
+   "y_pct": 49.0,
+   "extent_pct": 4.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Nangarhar",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "Taliban attack zone in Nangarhar province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "SUPPORT ZONE",
+   "marker": "area",
+   "x_pct": 62.0,
+   "y_pct": 55.0,
+   "extent_pct": 6.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Wardak/Logar/Ghazni",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "support_zone",
+   "date": null,
+   "description": "Taliban support zone spanning Wardak, Logar, and Ghazni provinces.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ATTACK ZONE",
+   "marker": "area",
+   "x_pct": 62.0,
+   "y_pct": 53.0,
+   "extent_pct": 3.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Wardak",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "Taliban attack zone in Wardak province near Kabul.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "SUPPORT ZONE",
+   "marker": "area",
+   "x_pct": 45.0,
+   "y_pct": 72.0,
+   "extent_pct": 15.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Uruzgan/Zabul/Kandahar/Helmand",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "support_zone",
+   "date": null,
+   "description": "Large Taliban support zone covering Uruzgan, Zabul, Kandahar, and Helmand provinces.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ATTACK ZONE",
+   "marker": "area",
+   "x_pct": 42.0,
+   "y_pct": 70.0,
+   "extent_pct": 5.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Uruzgan",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "Taliban attack zone in Uruzgan province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ATTACK ZONE",
+   "marker": "area",
+   "x_pct": 50.0,
+   "y_pct": 71.0,
+   "extent_pct": 5.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Zabul",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "Taliban attack zone in Zabul province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "SUPPORT ZONE",
+   "marker": "area",
+   "x_pct": 10.0,
+   "y_pct": 68.0,
+   "extent_pct": 5.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Farah",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "support_zone",
+   "date": null,
+   "description": "Taliban support zone in Farah province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ATTACK ZONE",
+   "marker": "area",
+   "x_pct": 10.0,
+   "y_pct": 70.0,
+   "extent_pct": 3.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Farah",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "Taliban attack zone in Farah province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "SUPPORT ZONE",
+   "marker": "area",
+   "x_pct": 27.0,
+   "y_pct": 78.0,
+   "extent_pct": 5.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Helmand",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "support_zone",
+   "date": null,
+   "description": "Taliban support zone in northern Helmand province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ATTACK ZONE",
+   "marker": "area",
+   "x_pct": 28.0,
+   "y_pct": 78.0,
+   "extent_pct": 3.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Helmand",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "Taliban attack zone in Helmand province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "SUPPORT ZONE",
+   "marker": "area",
+   "x_pct": 55.0,
+   "y_pct": 38.0,
+   "extent_pct": 5.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Baghlan",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "support_zone",
+   "date": null,
+   "description": "Taliban support zone in Baghlan province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "SUPPORT ZONE",
+   "marker": "area",
+   "x_pct": 67.0,
+   "y_pct": 62.0,
+   "extent_pct": 6.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Paktiya/Khost/Paktika",
+   "country": "AF",
+   "actors": [
+    "Taliban",
+    "Haqqani Network"
+   ],
+   "event_type": "support_zone",
+   "date": null,
+   "description": "Taliban/Haqqani Network support zone in Paktiya, Khost, and Paktika area.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "MAJOR TRANSIT ROUTES",
+   "marker": "line",
+   "x_pct": 50.0,
+   "y_pct": 60.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "supply_zone",
+   "date": null,
+   "description": "Major transit route running through southern Afghanistan from Farah through Helmand, Kandahar, Zabul, and into eastern Afghanistan.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "MAJOR TRANSIT ROUTES",
+   "marker": "line",
+   "x_pct": 70.0,
+   "y_pct": 30.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "supply_zone",
+   "date": null,
+   "description": "Major transit route running through northeastern Afghanistan through Badakhshan.",
+   "confidence": "high"
+  }
+ ],
+ "named_persons": [],
+ "named_orgs": [
+  "ISW",
+  "Institute for the Study of War"
+ ],
+ "text_blocks": [
+  "KEY",
+  "SUPPORT ZONE",
+  "ATTACK ZONE",
+  "MAJOR TRANSIT ROUTES",
+  "DISTRICT CENTERS ATTACKED AND HELD FOR AT LEAST 48 HRS",
+  "SPECTACULAR ATTACK LOCATIONS"
+ ],
+ "_extraction": {
+  "model": "claude-opus-4-6",
+  "n_images": 5,
+  "image_px": [
+   4800,
+   4181
+  ],
+  "ts": "2026-10-12T16:56:05Z"
+ }
+}

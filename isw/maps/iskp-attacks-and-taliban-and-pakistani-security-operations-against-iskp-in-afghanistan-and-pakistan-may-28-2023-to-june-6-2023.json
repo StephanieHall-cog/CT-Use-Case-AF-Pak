@@ -1,0 +1,223 @@
+{
+ "source": {
+  "slug": "iskp-attacks-and-taliban-and-pakistani-security-operations-against-iskp-in-afghanistan-and-pakistan-may-28-2023-to-june-6-2023",
+  "url": "https://understandingwar.org/map/iskp-attacks-and-taliban-and-pakistani-security-operations-against-iskp-in-afghanistan-and-pakistan-may-28-2023-to-june-6-2023/",
+  "title": "Iskp Attacks and Taliban and Pakistani Security Operations Against ISKP in Afghanistan and Pakistan May 28, 2023 To June 6, 2023",
+  "page_date": "June 9, 2023",
+  "isw_map_id": "70044",
+  "image_url": "https://understandingwar.org/wp-content/uploads/2025/05/2023060720ISKP20in20Afg-Pak.png",
+  "image_file": "iskp-attacks-and-taliban-and-pakistani-security-operations-against-iskp-in-afghanistan-and-pakistan-may-28-2023-to-june-6-2023.png",
+  "tags": [
+   "Afghanistan",
+   "Middle East",
+   "Salafi Jihadi Weekly Update"
+  ]
+ },
+ "map": {
+  "title_on_map": "ISKP Attacks and Taliban and Pakistani Security Operations Against ISKP in Afghanistan and Pakistan",
+  "subtitle": null,
+  "as_of_date": "2023-06-06",
+  "period_start": "2023-05-28",
+  "period_end": "2023-06-06",
+  "date_precision": "day",
+  "geographic_extent": "Afghanistan and Pakistan",
+  "map_type": "event_points",
+  "producer": "AEI's Critical Threats Project and Institute for the Study of War",
+  "cartographer": "Peter Mills",
+  "caption_text": "Map by Peter Mills\nCopyright AEI's Critical Threats Project\nand Institute for the Study of War\nJune 6, 2023",
+  "notes": "Base map data from Esri, FAO, NOAA, USGS, OpenStreetMap contributors, HERE, Garmin. WGS1984 Web Mercator (Auxiliary Sphere)."
+ },
+ "legend": [
+  {
+   "label": "Security Operation Against ISKP",
+   "symbol": "black diamond",
+   "kind": "point"
+  },
+  {
+   "label": "ISKP Attacks",
+   "symbol": "black circle",
+   "kind": "point"
+  }
+ ],
+ "anchors": [
+  {
+   "name": "Tajikistan",
+   "kind": "country",
+   "country": "TJ",
+   "x_pct": 30.0,
+   "y_pct": 20.5
+  },
+  {
+   "name": "Afghanistan",
+   "kind": "country",
+   "country": "AF",
+   "x_pct": 22.0,
+   "y_pct": 67.0
+  },
+  {
+   "name": "Pakistan",
+   "kind": "country",
+   "country": "PK",
+   "x_pct": 72.0,
+   "y_pct": 67.5
+  },
+  {
+   "name": "Faizabad",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 37.0,
+   "y_pct": 43.0
+  },
+  {
+   "name": "Kunduz",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 15.0,
+   "y_pct": 47.0
+  },
+  {
+   "name": "Kabul",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 21.0,
+   "y_pct": 77.5
+  },
+  {
+   "name": "Jalalabad",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 40.0,
+   "y_pct": 80.0
+  },
+  {
+   "name": "Peshawar",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 55.0,
+   "y_pct": 83.0
+  }
+ ],
+ "plots": [
+  {
+   "legend_class": "ISKP Attacks",
+   "marker": "point",
+   "x_pct": 36.5,
+   "y_pct": 42.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Faizabad",
+   "admin_area": "Badakhshan",
+   "country": "AF",
+   "actors": [
+    "ISKP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ISKP attack near Faizabad in Badakhshan province, Afghanistan.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Security Operation Against ISKP",
+   "marker": "point",
+   "x_pct": 44.0,
+   "y_pct": 77.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Jalalabad",
+   "admin_area": "Nangarhar",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "security_operation",
+   "date": null,
+   "description": "Security operation against ISKP near Jalalabad in Nangarhar province, Afghanistan.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Security Operation Against ISKP",
+   "marker": "point",
+   "x_pct": 48.5,
+   "y_pct": 76.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Jalalabad",
+   "admin_area": "Nangarhar",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "security_operation",
+   "date": null,
+   "description": "Security operation against ISKP east of Jalalabad in Nangarhar province, Afghanistan.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ISKP Attacks",
+   "marker": "point",
+   "x_pct": 56.5,
+   "y_pct": 84.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Peshawar",
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "ISKP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ISKP attack near Peshawar in Khyber Pakhtunkhwa, Pakistan.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ISKP Attacks",
+   "marker": "point",
+   "x_pct": 56.5,
+   "y_pct": 86.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Peshawar",
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "ISKP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ISKP attack near Peshawar in Khyber Pakhtunkhwa, Pakistan.",
+   "confidence": "high"
+  }
+ ],
+ "named_persons": [
+  {
+   "name": "Peter Mills",
+   "role": "cartographer",
+   "affiliation": "AEI's Critical Threats Project / Institute for the Study of War",
+   "place": null,
+   "x_pct": null,
+   "y_pct": null
+  }
+ ],
+ "named_orgs": [
+  "ISKP",
+  "Taliban",
+  "Pakistani Security Forces",
+  "Institute for the Study of War",
+  "AEI's Critical Threats Project",
+  "The Dr. Jack London Geospatial Fund"
+ ],
+ "text_blocks": [
+  "Map by Peter Mills\nCopyright AEI's Critical Threats Project\nand Institute for the Study of War\nJune 6, 2023",
+  "Esri, FAO, NOAA, USGS, Esri, © OpenStreetMap contributors, HERE, Garmin, FAO, NOAA, USGS, Esri, USGS\nWGS1984 Web Mercator (Auxiliary Sphere)"
+ ],
+ "_extraction": {
+  "model": "claude-opus-4-6",
+  "n_images": 5,
+  "image_px": [
+   2550,
+   3300
+  ],
+  "ts": "2026-10-12T16:54:44Z"
+ }
+}

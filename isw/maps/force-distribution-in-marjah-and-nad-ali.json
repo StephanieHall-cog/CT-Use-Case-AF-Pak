@@ -1,0 +1,279 @@
+{
+ "source": {
+  "slug": "force-distribution-in-marjah-and-nad-ali",
+  "url": "https://understandingwar.org/map/force-distribution-in-marjah-and-nad-ali/",
+  "title": "Force Distribution in Marjah and Nad Ali",
+  "page_date": "March 2, 2010",
+  "isw_map_id": null,
+  "image_url": null,
+  "image_file": "force-distribution-in-marjah-and-nad-ali.gif",
+  "tags": [
+   "Afghanistan",
+   "Afghanistan Surge and Drawdown",
+   "Middle East"
+  ]
+ },
+ "map": {
+  "title_on_map": "Force Distribution in Marjah and Nad Ali",
+  "subtitle": null,
+  "as_of_date": "2010-03-02",
+  "period_start": null,
+  "period_end": null,
+  "date_precision": "day",
+  "geographic_extent": "Marjah and Nad Ali districts, Helmand Province, Afghanistan",
+  "map_type": "force_disposition",
+  "producer": "Institute for the Study of War (ISW) / AEI Critical Threats Project",
+  "cartographer": null,
+  "caption_text": null,
+  "notes": "Map shows force distribution of ISAF (US, USMC, UK, Afghan) forces in Marjah and Nad Ali districts during Operation Moshtarak timeframe."
+ },
+ "legend": [
+  {
+   "label": "Fertile Areas",
+   "symbol": "green/tan shaded area",
+   "kind": "area"
+  },
+  {
+   "label": "Additional Danish and Estonian contingent",
+   "symbol": "small flag icons",
+   "kind": "point"
+  }
+ ],
+ "anchors": [
+  {
+   "name": "Nad Ali",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 47.0,
+   "y_pct": 5.0
+  },
+  {
+   "name": "Luy Bagh",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 60.0,
+   "y_pct": 12.0
+  },
+  {
+   "name": "Bowlan",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 65.0,
+   "y_pct": 17.0
+  },
+  {
+   "name": "Lashkar Gah",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 82.0,
+   "y_pct": 22.0
+  },
+  {
+   "name": "Marjah",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 27.0,
+   "y_pct": 35.0
+  },
+  {
+   "name": "Aynak",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 65.0,
+   "y_pct": 38.0
+  },
+  {
+   "name": "Nawa",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 58.0,
+   "y_pct": 62.0
+  },
+  {
+   "name": "Hazaras",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 60.0,
+   "y_pct": 67.0
+  },
+  {
+   "name": "Helmand River",
+   "kind": "river",
+   "country": "AF",
+   "x_pct": 88.0,
+   "y_pct": 50.0
+  }
+ ],
+ "plots": [
+  {
+   "legend_class": "unlabelled",
+   "marker": "point",
+   "x_pct": 34.0,
+   "y_pct": 27.0,
+   "extent_pct": null,
+   "label": "USA",
+   "place_name": "Marjah",
+   "admin_area": "Nad Ali",
+   "country": "AF",
+   "actors": [
+    "US Army",
+    "ISAF"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "US Army forces positioned north of Marjah.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "unlabelled",
+   "marker": "point",
+   "x_pct": 36.0,
+   "y_pct": 40.0,
+   "extent_pct": null,
+   "label": "USMC",
+   "place_name": "Marjah",
+   "admin_area": "Nad Ali",
+   "country": "AF",
+   "actors": [
+    "USMC",
+    "ISAF"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "US Marine Corps forces positioned in central Marjah area.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "unlabelled",
+   "marker": "point",
+   "x_pct": 40.0,
+   "y_pct": 47.0,
+   "extent_pct": null,
+   "label": "USMC",
+   "place_name": "Marjah",
+   "admin_area": "Nad Ali",
+   "country": "AF",
+   "actors": [
+    "USMC",
+    "ISAF"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "Second US Marine Corps unit positioned south of central Marjah.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "unlabelled",
+   "marker": "point",
+   "x_pct": 65.0,
+   "y_pct": 5.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Nad Ali",
+   "admin_area": "Nad Ali",
+   "country": "AF",
+   "actors": [
+    "British Armed Forces",
+    "ISAF"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "UK forces flag positioned near Nad Ali area.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "unlabelled",
+   "marker": "point",
+   "x_pct": 50.0,
+   "y_pct": 43.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Marjah",
+   "admin_area": "Nad Ali",
+   "country": "AF",
+   "actors": [
+    "Afghan National Army",
+    "Afghan National Security Forces"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "Afghan national forces flag positioned east of Marjah.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "unlabelled",
+   "marker": "point",
+   "x_pct": 62.0,
+   "y_pct": 42.0,
+   "extent_pct": null,
+   "label": "601",
+   "place_name": "Aynak",
+   "admin_area": "Nad Ali",
+   "country": "AF",
+   "actors": [
+    "ISAF"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "Unit 601 positioned near Aynak.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Fertile Areas",
+   "marker": "area",
+   "x_pct": 35.0,
+   "y_pct": 38.0,
+   "extent_pct": 18.0,
+   "label": null,
+   "place_name": "Marjah",
+   "admin_area": "Nad Ali",
+   "country": "AF",
+   "actors": [],
+   "event_type": "other",
+   "date": null,
+   "description": "Green/fertile agricultural zone surrounding Marjah and extending through the canal-irrigated area.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Additional Danish and Estonian contingent",
+   "marker": "point",
+   "x_pct": 12.0,
+   "y_pct": 84.0,
+   "extent_pct": null,
+   "label": "Additional Danish and Estonian contingent",
+   "place_name": null,
+   "admin_area": "Helmand",
+   "country": "AF",
+   "actors": [
+    "Danish Armed Forces",
+    "Estonian Armed Forces",
+    "ISAF"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "Legend note indicating additional Danish and Estonian contingent forces in the area.",
+   "confidence": "medium"
+  }
+ ],
+ "named_persons": [],
+ "named_orgs": [
+  "USA",
+  "USMC",
+  "601",
+  "Additional Danish and Estonian contingent",
+  "ISAF"
+ ],
+ "text_blocks": [
+  "Fertile Areas",
+  "Additional Danish and Estonian contingent"
+ ],
+ "_extraction": {
+  "model": "claude-opus-4-6",
+  "n_images": 1,
+  "image_px": [
+   403,
+   415
+  ],
+  "ts": "2026-10-12T16:51:21Z"
+ }
+}

@@ -1,0 +1,525 @@
+{
+ "source": {
+  "slug": "afghanistan-in-the-region",
+  "url": "https://understandingwar.org/map/afghanistan-in-the-region/",
+  "title": "Afghanistan in the Region",
+  "page_date": "March 9, 2022",
+  "isw_map_id": null,
+  "image_url": null,
+  "image_file": "afghanistan-in-the-region.png",
+  "tags": [
+   "Afghanistan",
+   "Afghanistan US Withdrawal and Aftermath",
+   "Middle East"
+  ]
+ },
+ "map": {
+  "title_on_map": "Afghanistan in the Region",
+  "subtitle": null,
+  "as_of_date": "2022-03-09",
+  "period_start": null,
+  "period_end": null,
+  "date_precision": "day",
+  "geographic_extent": "Afghanistan and surrounding region including parts of Pakistan, Uzbekistan",
+  "map_type": "force_disposition",
+  "producer": "Institute for the Study of War (ISW)",
+  "cartographer": null,
+  "caption_text": null,
+  "notes": "Basemap attribution: Esri, © OpenStreetMap contributors, HERE, Garmin, FAO, NOAA, USGS"
+ },
+ "legend": [
+  {
+   "label": "New Taliban military units",
+   "symbol": "red/orange flag in grey circle",
+   "kind": "point"
+  },
+  {
+   "label": "Taliban military exercises",
+   "symbol": "black triangle",
+   "kind": "point"
+  },
+  {
+   "label": "Taliban military reinforcement deployments",
+   "symbol": "black star",
+   "kind": "point"
+  }
+ ],
+ "anchors": [
+  {
+   "name": "Termiz",
+   "kind": "city",
+   "country": "UZ",
+   "x_pct": 53.0,
+   "y_pct": 15.0
+  },
+  {
+   "name": "Mazar-e Sharif",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 48.0,
+   "y_pct": 23.0
+  },
+  {
+   "name": "Konduz",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 62.0,
+   "y_pct": 21.0
+  },
+  {
+   "name": "Taloqan City, Takhar Province",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 72.0,
+   "y_pct": 20.0
+  },
+  {
+   "name": "Baghlan",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 60.0,
+   "y_pct": 32.0
+  },
+  {
+   "name": "Meymaneh",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 28.0,
+   "y_pct": 35.0
+  },
+  {
+   "name": "Chaghcharan",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 30.0,
+   "y_pct": 55.0
+  },
+  {
+   "name": "Herat",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 4.0,
+   "y_pct": 57.0
+  },
+  {
+   "name": "Kabul",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 65.0,
+   "y_pct": 55.0
+  },
+  {
+   "name": "Jalalabad",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 78.0,
+   "y_pct": 56.0
+  },
+  {
+   "name": "Ghazni",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 58.0,
+   "y_pct": 68.0
+  },
+  {
+   "name": "Gardiz",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 67.0,
+   "y_pct": 68.0
+  },
+  {
+   "name": "Peshawar",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 90.0,
+   "y_pct": 62.0
+  },
+  {
+   "name": "Mardan",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 96.0,
+   "y_pct": 59.0
+  },
+  {
+   "name": "Kohat",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 89.0,
+   "y_pct": 68.0
+  },
+  {
+   "name": "Sargodha",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 99.0,
+   "y_pct": 89.5
+  },
+  {
+   "name": "AFGHANISTAN",
+   "kind": "country",
+   "country": "AF",
+   "x_pct": 35.0,
+   "y_pct": 65.0
+  },
+  {
+   "name": "Faryab Province",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 28.0,
+   "y_pct": 30.5
+  },
+  {
+   "name": "Sar-e-Pul Province",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 40.0,
+   "y_pct": 29.0
+  },
+  {
+   "name": "Baghlan Province",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 68.0,
+   "y_pct": 34.0
+  },
+  {
+   "name": "Panjshir Valley",
+   "kind": "region",
+   "country": "AF",
+   "x_pct": 77.0,
+   "y_pct": 35.0
+  },
+  {
+   "name": "Ab Kamari District, Badghis Province",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 16.0,
+   "y_pct": 44.0
+  },
+  {
+   "name": "Jawand District, Badghis Province",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 26.0,
+   "y_pct": 44.0
+  },
+  {
+   "name": "Qadis District, Badghis Province",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 17.0,
+   "y_pct": 50.0
+  },
+  {
+   "name": "Kohistan District, Kapisa Province",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 73.0,
+   "y_pct": 43.0
+  },
+  {
+   "name": "Bamiyan Province",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 55.0,
+   "y_pct": 49.0
+  },
+  {
+   "name": "Panipat Unit - Nangarhar Province",
+   "kind": "other",
+   "country": "AF",
+   "x_pct": 86.0,
+   "y_pct": 50.0
+  },
+  {
+   "name": "Omar Salih Division - Badakhshan Province",
+   "kind": "other",
+   "country": "AF",
+   "x_pct": 90.0,
+   "y_pct": 17.0
+  },
+  {
+   "name": "Parchaman District, Farah Province",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 14.0,
+   "y_pct": 75.0
+  }
+ ],
+ "plots": [
+  {
+   "legend_class": "New Taliban military units",
+   "marker": "point",
+   "x_pct": 78.0,
+   "y_pct": 17.5,
+   "extent_pct": null,
+   "label": "Omar Salih Division - Badakhshan Province",
+   "place_name": "Taloqan City, Takhar Province",
+   "admin_area": "Badakhshan Province",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "New Taliban military unit (Omar Salih Division) established in Badakhshan Province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "New Taliban military units",
+   "marker": "point",
+   "x_pct": 67.0,
+   "y_pct": 47.5,
+   "extent_pct": null,
+   "label": "Kohistan District, Kapisa Province",
+   "place_name": "Kohistan District",
+   "admin_area": "Kapisa Province",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "New Taliban military unit established in Kohistan District, Kapisa Province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "New Taliban military units",
+   "marker": "point",
+   "x_pct": 80.0,
+   "y_pct": 53.5,
+   "extent_pct": null,
+   "label": "Panipat Unit - Nangarhar Province",
+   "place_name": "Jalalabad",
+   "admin_area": "Nangarhar Province",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "New Taliban military unit (Panipat Unit) established in Nangarhar Province near Jalalabad.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Taliban military exercises",
+   "marker": "point",
+   "x_pct": 70.0,
+   "y_pct": 23.5,
+   "extent_pct": null,
+   "label": "Taloqan City, Takhar Province",
+   "place_name": "Taloqan City",
+   "admin_area": "Takhar Province",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "operation",
+   "date": null,
+   "description": "Taliban military exercises conducted near Taloqan City, Takhar Province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Taliban military exercises",
+   "marker": "point",
+   "x_pct": 62.0,
+   "y_pct": 25.0,
+   "extent_pct": null,
+   "label": "Konduz",
+   "place_name": "Konduz",
+   "admin_area": "Konduz",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "operation",
+   "date": null,
+   "description": "Taliban military exercises conducted near Konduz.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Taliban military exercises",
+   "marker": "point",
+   "x_pct": 66.0,
+   "y_pct": 36.0,
+   "extent_pct": null,
+   "label": "Baghlan Province",
+   "place_name": "Baghlan",
+   "admin_area": "Baghlan Province",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "operation",
+   "date": null,
+   "description": "Taliban military exercises conducted in Baghlan Province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Taliban military reinforcement deployments",
+   "marker": "point",
+   "x_pct": 28.0,
+   "y_pct": 32.0,
+   "extent_pct": null,
+   "label": "Faryab Province",
+   "place_name": "Meymaneh",
+   "admin_area": "Faryab Province",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "operation",
+   "date": null,
+   "description": "Taliban military reinforcement deployment to Faryab Province near Meymaneh.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Taliban military reinforcement deployments",
+   "marker": "point",
+   "x_pct": 39.0,
+   "y_pct": 29.5,
+   "extent_pct": null,
+   "label": "Sar-e-Pul Province",
+   "place_name": null,
+   "admin_area": "Sar-e-Pul Province",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "operation",
+   "date": null,
+   "description": "Taliban military reinforcement deployment to Sar-e-Pul Province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Taliban military reinforcement deployments",
+   "marker": "point",
+   "x_pct": 77.0,
+   "y_pct": 36.0,
+   "extent_pct": null,
+   "label": "Panjshir Valley",
+   "place_name": null,
+   "admin_area": "Panjshir",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "operation",
+   "date": null,
+   "description": "Taliban military reinforcement deployment to Panjshir Valley.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Taliban military reinforcement deployments",
+   "marker": "point",
+   "x_pct": 12.0,
+   "y_pct": 46.0,
+   "extent_pct": null,
+   "label": "Ab Kamari District, Badghis Province",
+   "place_name": null,
+   "admin_area": "Badghis Province",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "operation",
+   "date": null,
+   "description": "Taliban military reinforcement deployment to Ab Kamari District, Badghis Province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Taliban military reinforcement deployments",
+   "marker": "point",
+   "x_pct": 23.0,
+   "y_pct": 46.0,
+   "extent_pct": null,
+   "label": "Jawand District, Badghis Province",
+   "place_name": null,
+   "admin_area": "Badghis Province",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "operation",
+   "date": null,
+   "description": "Taliban military reinforcement deployment to Jawand District, Badghis Province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Taliban military reinforcement deployments",
+   "marker": "point",
+   "x_pct": 16.0,
+   "y_pct": 52.0,
+   "extent_pct": null,
+   "label": "Qadis District, Badghis Province",
+   "place_name": null,
+   "admin_area": "Badghis Province",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "operation",
+   "date": null,
+   "description": "Taliban military reinforcement deployment to Qadis District, Badghis Province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Taliban military reinforcement deployments",
+   "marker": "point",
+   "x_pct": 54.0,
+   "y_pct": 50.0,
+   "extent_pct": null,
+   "label": "Bamiyan Province",
+   "place_name": null,
+   "admin_area": "Bamiyan Province",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "operation",
+   "date": null,
+   "description": "Taliban military reinforcement deployment to Bamiyan Province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Taliban military reinforcement deployments",
+   "marker": "point",
+   "x_pct": 10.0,
+   "y_pct": 76.0,
+   "extent_pct": null,
+   "label": "Parchaman District, Farah Province",
+   "place_name": null,
+   "admin_area": "Farah Province",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "operation",
+   "date": null,
+   "description": "Taliban military reinforcement deployment to Parchaman District, Farah Province.",
+   "confidence": "high"
+  }
+ ],
+ "named_persons": [],
+ "named_orgs": [
+  "Taliban",
+  "Omar Salih Division",
+  "Panipat Unit",
+  "Institute for the Study of War"
+ ],
+ "text_blocks": [
+  "Esri, © OpenStreetMap contributors, HERE, Garmin, FAO, NOAA, USGS"
+ ],
+ "_extraction": {
+  "model": "claude-opus-4-6",
+  "n_images": 5,
+  "image_px": [
+   3300,
+   2550
+  ],
+  "ts": "2026-10-12T16:44:46Z"
+ }
+}

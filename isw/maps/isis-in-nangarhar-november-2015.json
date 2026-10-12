@@ -1,0 +1,573 @@
+{
+ "source": {
+  "slug": "isis-in-nangarhar-november-2015",
+  "url": "https://understandingwar.org/map/isis-in-nangarhar-november-2015/",
+  "title": "ISIS in Nangarhar: November 2015",
+  "page_date": "December 3, 2015",
+  "isw_map_id": null,
+  "image_url": null,
+  "image_file": "isis-in-nangarhar-november-2015.png",
+  "tags": [
+   "Afghanistan",
+   "Afghanistan Surge and Drawdown",
+   "Middle East"
+  ]
+ },
+ "map": {
+  "title_on_map": "ISIS in Nangarhar: November 2015",
+  "subtitle": null,
+  "as_of_date": "2015-11-30",
+  "period_start": "2015-11-01",
+  "period_end": "2015-11-30",
+  "date_precision": "month",
+  "geographic_extent": "Nangarhar Province, Afghanistan and adjacent areas of Pakistan",
+  "map_type": "control_zones",
+  "producer": "Institute for the Study of War (ISW)",
+  "cartographer": "Jessica Lewis McFate and Caitlin Forrest",
+  "caption_text": "Control zones on this map depict villages where indicators of ISIS's control could be precisely geo-located. No village names could be found in open source reporting to clarify the exact location of ISIS's control in Kot district. ISIS likely maintains control of a significant portion of Kot district as of November 2015, however. The circled control zone in Kot district therefore represents an estimate for ISIS's possible control.",
+  "notes": "CONTROL ZONE: An area where ISIS exerts physical/psychological pressure to assure that individuals/groups within the area respond as directed, and where ISIS maintains physical influence to prevent use of an area by an enemy. ATTACK ZONE: An area where ISIS conducts offensive maneuvers. SUPPORT ZONE: An area free of significant action against ISIS and which permits logistics and administrative support of ISIS's forces."
+ },
+ "legend": [
+  {
+   "label": "ISIS Control Zone",
+   "symbol": "black area",
+   "kind": "area"
+  },
+  {
+   "label": "ISIS Attack Zone",
+   "symbol": "red area",
+   "kind": "area"
+  },
+  {
+   "label": "ISIS Support Zone",
+   "symbol": "pink area",
+   "kind": "area"
+  }
+ ],
+ "anchors": [
+  {
+   "name": "Kabul",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 5.5,
+   "y_pct": 33.0
+  },
+  {
+   "name": "کابل",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 5.5,
+   "y_pct": 35.0
+  },
+  {
+   "name": "Tagab",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 16.0,
+   "y_pct": 14.5
+  },
+  {
+   "name": "Mehtar Lam",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 39.0,
+   "y_pct": 30.0
+  },
+  {
+   "name": "Jalalabad",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 47.5,
+   "y_pct": 46.0
+  },
+  {
+   "name": "جلال آباد",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 47.5,
+   "y_pct": 48.0
+  },
+  {
+   "name": "Janda",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 15.0,
+   "y_pct": 56.0
+  },
+  {
+   "name": "Acin",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 57.0,
+   "y_pct": 68.0
+  },
+  {
+   "name": "Torkham",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 69.5,
+   "y_pct": 64.0
+  },
+  {
+   "name": "Shalozan",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 26.0,
+   "y_pct": 81.0
+  },
+  {
+   "name": "Peshawar",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 90.5,
+   "y_pct": 73.0
+  },
+  {
+   "name": "پشاور",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 90.5,
+   "y_pct": 75.0
+  },
+  {
+   "name": "Sardheri",
+   "kind": "town",
+   "country": "PK",
+   "x_pct": 95.0,
+   "y_pct": 59.5
+  },
+  {
+   "name": "سردهری",
+   "kind": "town",
+   "country": "PK",
+   "x_pct": 95.0,
+   "y_pct": 61.5
+  },
+  {
+   "name": "Bashchela",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 96.0,
+   "y_pct": 30.5
+  }
+ ],
+ "plots": [
+  {
+   "legend_class": "ISIS Control Zone",
+   "marker": "area",
+   "x_pct": 56.0,
+   "y_pct": 58.0,
+   "extent_pct": 3.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Nangarhar",
+   "country": "AF",
+   "actors": [
+    "ISIS"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "ISIS control zone in eastern Nangarhar, cluster of black areas indicating village-level control.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ISIS Control Zone",
+   "marker": "area",
+   "x_pct": 60.0,
+   "y_pct": 56.0,
+   "extent_pct": 2.5,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Nangarhar",
+   "country": "AF",
+   "actors": [
+    "ISIS"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "ISIS control zone in eastern Nangarhar.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ISIS Control Zone",
+   "marker": "area",
+   "x_pct": 63.0,
+   "y_pct": 57.0,
+   "extent_pct": 2.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Nangarhar",
+   "country": "AF",
+   "actors": [
+    "ISIS"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "ISIS control zone in eastern Nangarhar.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ISIS Control Zone",
+   "marker": "area",
+   "x_pct": 66.0,
+   "y_pct": 58.0,
+   "extent_pct": 2.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Nangarhar",
+   "country": "AF",
+   "actors": [
+    "ISIS"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "ISIS control zone in eastern Nangarhar.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ISIS Control Zone",
+   "marker": "area",
+   "x_pct": 57.0,
+   "y_pct": 62.0,
+   "extent_pct": 2.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Nangarhar",
+   "country": "AF",
+   "actors": [
+    "ISIS"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "ISIS control zone south of the main cluster.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ISIS Control Zone",
+   "marker": "area",
+   "x_pct": 62.0,
+   "y_pct": 61.0,
+   "extent_pct": 1.5,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Nangarhar",
+   "country": "AF",
+   "actors": [
+    "ISIS"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "ISIS control zone in central-eastern part of the mapped area.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ISIS Control Zone",
+   "marker": "area",
+   "x_pct": 55.0,
+   "y_pct": 68.0,
+   "extent_pct": 4.0,
+   "label": null,
+   "place_name": "Acin",
+   "admin_area": "Kot",
+   "country": "AF",
+   "actors": [
+    "ISIS"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Circled ISIS control zone in Kot district, representing an estimate of ISIS's possible control. This is the circled zone noted in the caption.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "ISIS Control Zone",
+   "marker": "area",
+   "x_pct": 48.0,
+   "y_pct": 69.0,
+   "extent_pct": 1.5,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Nangarhar",
+   "country": "AF",
+   "actors": [
+    "ISIS"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "ISIS control zone in southwestern cluster.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ISIS Control Zone",
+   "marker": "area",
+   "x_pct": 51.0,
+   "y_pct": 70.0,
+   "extent_pct": 1.5,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Nangarhar",
+   "country": "AF",
+   "actors": [
+    "ISIS"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "ISIS control zone near Acin area.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ISIS Control Zone",
+   "marker": "area",
+   "x_pct": 60.0,
+   "y_pct": 70.0,
+   "extent_pct": 1.5,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Nangarhar",
+   "country": "AF",
+   "actors": [
+    "ISIS"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "ISIS control zone in eastern part near Torkham corridor.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ISIS Control Zone",
+   "marker": "area",
+   "x_pct": 64.0,
+   "y_pct": 70.0,
+   "extent_pct": 1.5,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Nangarhar",
+   "country": "AF",
+   "actors": [
+    "ISIS"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "ISIS control zone in eastern Nangarhar.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ISIS Control Zone",
+   "marker": "area",
+   "x_pct": 68.0,
+   "y_pct": 61.0,
+   "extent_pct": 2.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Nangarhar",
+   "country": "AF",
+   "actors": [
+    "ISIS"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "ISIS control zone in far eastern cluster.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ISIS Control Zone",
+   "marker": "area",
+   "x_pct": 71.0,
+   "y_pct": 61.0,
+   "extent_pct": 2.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Nangarhar",
+   "country": "AF",
+   "actors": [
+    "ISIS"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "ISIS control zone near Torkham.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ISIS Attack Zone",
+   "marker": "area",
+   "x_pct": 50.0,
+   "y_pct": 52.0,
+   "extent_pct": 8.0,
+   "label": null,
+   "place_name": "Jalalabad",
+   "admin_area": "Nangarhar",
+   "country": "AF",
+   "actors": [
+    "ISIS"
+   ],
+   "event_type": "contested",
+   "date": null,
+   "description": "ISIS attack zone extending south and east of Jalalabad, where ISIS conducts offensive maneuvers.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ISIS Attack Zone",
+   "marker": "area",
+   "x_pct": 55.0,
+   "y_pct": 60.0,
+   "extent_pct": 12.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Nangarhar",
+   "country": "AF",
+   "actors": [
+    "ISIS"
+   ],
+   "event_type": "contested",
+   "date": null,
+   "description": "Large ISIS attack zone encompassing multiple districts south and east of Jalalabad.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ISIS Attack Zone",
+   "marker": "area",
+   "x_pct": 44.0,
+   "y_pct": 70.0,
+   "extent_pct": 6.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Nangarhar",
+   "country": "AF",
+   "actors": [
+    "ISIS"
+   ],
+   "event_type": "contested",
+   "date": null,
+   "description": "Southwestern ISIS attack zone in Nangarhar.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ISIS Support Zone",
+   "marker": "area",
+   "x_pct": 47.0,
+   "y_pct": 55.0,
+   "extent_pct": 15.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Nangarhar",
+   "country": "AF",
+   "actors": [
+    "ISIS"
+   ],
+   "event_type": "support_zone",
+   "date": null,
+   "description": "Large ISIS support zone covering broad area around and south of Jalalabad where logistics and administrative support of ISIS forces is permitted.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ISIS Attack Zone",
+   "marker": "point",
+   "x_pct": 47.0,
+   "y_pct": 49.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Jalalabad",
+   "admin_area": "Nangarhar",
+   "country": "AF",
+   "actors": [
+    "ISIS"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "Red dot indicating ISIS offensive activity near Jalalabad.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "ISIS Attack Zone",
+   "marker": "point",
+   "x_pct": 50.0,
+   "y_pct": 49.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Jalalabad",
+   "admin_area": "Nangarhar",
+   "country": "AF",
+   "actors": [
+    "ISIS"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "Red dot indicating ISIS offensive activity east of Jalalabad.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "ISIS Attack Zone",
+   "marker": "point",
+   "x_pct": 52.0,
+   "y_pct": 49.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Nangarhar",
+   "country": "AF",
+   "actors": [
+    "ISIS"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "Red dot indicating ISIS offensive activity.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "ISIS Attack Zone",
+   "marker": "point",
+   "x_pct": 54.0,
+   "y_pct": 48.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Nangarhar",
+   "country": "AF",
+   "actors": [
+    "ISIS"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "Red dot indicating ISIS offensive activity.",
+   "confidence": "medium"
+  }
+ ],
+ "named_persons": [
+  {
+   "name": "Jessica Lewis McFate",
+   "role": "Graphics",
+   "affiliation": "ISW",
+   "place": null,
+   "x_pct": null,
+   "y_pct": null
+  },
+  {
+   "name": "Caitlin Forrest",
+   "role": "Graphics",
+   "affiliation": "ISW",
+   "place": null,
+   "x_pct": null,
+   "y_pct": null
+  }
+ ],
+ "named_orgs": [
+  "ISIS",
+  "ISW",
+  "Institute for the Study of War"
+ ],
+ "text_blocks": [
+  "CONTROL ZONE: An area where ISIS exerts physical/psychological pressure to assure that individuals/groups within the area respond as directed, and where ISIS maintains physical influence to prevent use of an area by an enemy.",
+  "ATTACK ZONE: An area where ISIS conducts offensive maneuvers.",
+  "SUPPORT ZONE: An area free of significant action against ISIS and which permits logistics and administrative support of ISIS's forces.",
+  "Control zones on this map depict villages where indicators of ISIS's control could be precisely geo-located. No village names could be found in open source reporting to clarify the exact location of ISIS's control in Kot district. ISIS likely maintains control of a significant portion of Kot district as of November 2015, however. The circled control zone in Kot district therefore represents an estimate for ISIS's possible control.",
+  "Graphics: Jessica Lewis McFate and Caitlin Forrest"
+ ],
+ "_extraction": {
+  "model": "claude-opus-4-6",
+  "n_images": 1,
+  "image_px": [
+   1600,
+   957
+  ],
+  "ts": "2026-10-12T16:57:53Z"
+ }
+}

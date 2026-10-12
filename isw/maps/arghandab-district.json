@@ -1,0 +1,176 @@
+{
+ "source": {
+  "slug": "arghandab-district",
+  "url": "https://understandingwar.org/map/arghandab-district/",
+  "title": "Arghandab District",
+  "page_date": "December 15, 2010",
+  "isw_map_id": null,
+  "image_url": null,
+  "image_file": "arghandab-district.gif",
+  "tags": [
+   "Afghanistan",
+   "Afghanistan Surge and Drawdown",
+   "Middle East"
+  ]
+ },
+ "map": {
+  "title_on_map": "Arghandab District",
+  "subtitle": null,
+  "as_of_date": "2010-12-15",
+  "period_start": null,
+  "period_end": null,
+  "date_precision": "day",
+  "geographic_extent": "Arghandab District, Kandahar Province, Afghanistan",
+  "map_type": "reference",
+  "producer": "Institute for the Study of War",
+  "cartographer": null,
+  "caption_text": null,
+  "notes": "Reference map of Arghandab District showing villages, roads, the Arghandab River, and the adjacent city of Kandahar. No event markers or legend are present; this is a base/reference map."
+ },
+ "legend": [],
+ "anchors": [
+  {
+   "name": "Khwajamulk",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 92.0,
+   "y_pct": 8.0
+  },
+  {
+   "name": "Mohammad Ya'qub Kalacha",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 89.0,
+   "y_pct": 28.0
+  },
+  {
+   "name": "Babur",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 65.0,
+   "y_pct": 38.0
+  },
+  {
+   "name": "Jelawur",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 48.0,
+   "y_pct": 46.0
+  },
+  {
+   "name": "Khusrawe Ulya",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 64.0,
+   "y_pct": 46.0
+  },
+  {
+   "name": "Chaharqulba Ulya",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 47.0,
+   "y_pct": 51.0
+  },
+  {
+   "name": "Khusrawe Sufla",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 63.0,
+   "y_pct": 51.0
+  },
+  {
+   "name": "Chaharqulba Sufla",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 55.0,
+   "y_pct": 57.0
+  },
+  {
+   "name": "Ta'bine Sufla",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 43.0,
+   "y_pct": 66.0
+  },
+  {
+   "name": "Mazrah",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 67.0,
+   "y_pct": 68.0
+  },
+  {
+   "name": "Nagahan",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 22.0,
+   "y_pct": 82.0
+  },
+  {
+   "name": "Kohak",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 38.0,
+   "y_pct": 80.0
+  },
+  {
+   "name": "Rajan Kala",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 60.0,
+   "y_pct": 80.0
+  },
+  {
+   "name": "Charbagh",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 53.0,
+   "y_pct": 85.0
+  },
+  {
+   "name": "Senjaray",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 7.0,
+   "y_pct": 95.0
+  },
+  {
+   "name": "Mirgai",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 50.0,
+   "y_pct": 94.0
+  },
+  {
+   "name": "Arghandab",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 37.0,
+   "y_pct": 37.0
+  },
+  {
+   "name": "KANDAHAR",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 85.0,
+   "y_pct": 85.0
+  }
+ ],
+ "plots": [],
+ "named_persons": [],
+ "named_orgs": [
+  "Institute for the Study of War"
+ ],
+ "text_blocks": [
+  "© INSTITUTE FOR THE STUDY OF WAR"
+ ],
+ "_extraction": {
+  "model": "claude-opus-4-6",
+  "n_images": 5,
+  "image_px": [
+   2157,
+   1569
+  ],
+  "ts": "2026-10-12T16:50:54Z"
+ }
+}

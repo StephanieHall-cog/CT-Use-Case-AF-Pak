@@ -1,0 +1,431 @@
+{
+ "source": {
+  "slug": "map-of-afghanistan-and-its-neighbors",
+  "url": "https://understandingwar.org/map/map-of-afghanistan-and-its-neighbors/",
+  "title": "Map of Afghanistan and Its Neighbors",
+  "page_date": "April 16, 2009",
+  "isw_map_id": null,
+  "image_url": null,
+  "image_file": "map-of-afghanistan-and-its-neighbors.jpg",
+  "tags": [
+   "Afghanistan",
+   "Afghanistan Surge and Drawdown",
+   "Geospatial Intelligence"
+  ]
+ },
+ "map": {
+  "title_on_map": "Map of Afghanistan and Its Neighbors",
+  "subtitle": null,
+  "as_of_date": "2009-04-16",
+  "period_start": null,
+  "period_end": null,
+  "date_precision": "day",
+  "geographic_extent": "Afghanistan and neighboring countries including Pakistan, Iran, Turkmenistan, Uzbekistan, Tajikistan, and portions of India and China",
+  "map_type": "reference",
+  "producer": "Institute for the Study of War (ISW) / AEI Critical Threats Project",
+  "cartographer": null,
+  "caption_text": "A topographical map of Afghanistan and its neighbors that show major roads, cities, and tributaries.",
+  "notes": "Topographical reference map showing major roads, cities, rivers and terrain. Legend indicates Capital, Major City/Provincial Capital (in Afghanistan), and Important City."
+ },
+ "legend": [
+  {
+   "label": "Capital",
+   "symbol": "red star or large dot",
+   "kind": "point"
+  },
+  {
+   "label": "Major City/Provincial Capital (in Afghanistan)",
+   "symbol": "blue circle (medium)",
+   "kind": "point"
+  },
+  {
+   "label": "Important City",
+   "symbol": "small blue circle",
+   "kind": "point"
+  }
+ ],
+ "anchors": [
+  {
+   "name": "DUSHANBE",
+   "kind": "city",
+   "country": "TJ",
+   "x_pct": 54.0,
+   "y_pct": 2.5
+  },
+  {
+   "name": "Mary",
+   "kind": "city",
+   "country": "TM",
+   "x_pct": 9.0,
+   "y_pct": 11.0
+  },
+  {
+   "name": "TURKMENISTAN",
+   "kind": "country",
+   "country": "TM",
+   "x_pct": 12.0,
+   "y_pct": 5.5
+  },
+  {
+   "name": "Mazar-i-Sharif",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 32.0,
+   "y_pct": 18.0
+  },
+  {
+   "name": "Kunduz",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 44.0,
+   "y_pct": 18.5
+  },
+  {
+   "name": "Sheberghan",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 24.0,
+   "y_pct": 20.0
+  },
+  {
+   "name": "Sare Pul",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 27.0,
+   "y_pct": 24.0
+  },
+  {
+   "name": "Khulm",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 38.0,
+   "y_pct": 20.0
+  },
+  {
+   "name": "Baghlan",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 46.0,
+   "y_pct": 24.5
+  },
+  {
+   "name": "Pul-i-Khumri",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 46.0,
+   "y_pct": 27.0
+  },
+  {
+   "name": "Taloqan",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 52.0,
+   "y_pct": 20.0
+  },
+  {
+   "name": "Faizabad",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 60.0,
+   "y_pct": 17.0
+  },
+  {
+   "name": "Herat",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 12.5,
+   "y_pct": 40.0
+  },
+  {
+   "name": "KABUL",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 54.0,
+   "y_pct": 38.0
+  },
+  {
+   "name": "Jalalabad",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 64.0,
+   "y_pct": 37.0
+  },
+  {
+   "name": "Kandahar",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 41.0,
+   "y_pct": 70.0
+  },
+  {
+   "name": "Lashkar Gah",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 26.0,
+   "y_pct": 70.0
+  },
+  {
+   "name": "Ghazni",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 50.0,
+   "y_pct": 48.0
+  },
+  {
+   "name": "Gardez",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 57.0,
+   "y_pct": 47.0
+  },
+  {
+   "name": "Farah",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 11.0,
+   "y_pct": 57.0
+  },
+  {
+   "name": "Zaranj",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 7.0,
+   "y_pct": 74.0
+  },
+  {
+   "name": "Chaghcharan",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 28.0,
+   "y_pct": 35.0
+  },
+  {
+   "name": "Tarin Kowt",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 36.0,
+   "y_pct": 56.0
+  },
+  {
+   "name": "Qalat",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 39.0,
+   "y_pct": 60.0
+  },
+  {
+   "name": "Shindand",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 9.0,
+   "y_pct": 50.0
+  },
+  {
+   "name": "Helmand",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 30.0,
+   "y_pct": 72.0
+  },
+  {
+   "name": "Spin Boldak",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 46.0,
+   "y_pct": 73.0
+  },
+  {
+   "name": "ISLAMABAD",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 80.0,
+   "y_pct": 43.0
+  },
+  {
+   "name": "Peshawar",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 73.0,
+   "y_pct": 42.0
+  },
+  {
+   "name": "Quetta",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 55.0,
+   "y_pct": 78.0
+  },
+  {
+   "name": "Multan",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 82.0,
+   "y_pct": 73.0
+  },
+  {
+   "name": "PAKISTAN",
+   "kind": "country",
+   "country": "PK",
+   "x_pct": 72.0,
+   "y_pct": 75.0
+  },
+  {
+   "name": "IRAN",
+   "kind": "country",
+   "country": "IR",
+   "x_pct": 3.0,
+   "y_pct": 26.0
+  },
+  {
+   "name": "Torbat",
+   "kind": "city",
+   "country": "IR",
+   "x_pct": 2.0,
+   "y_pct": 33.0
+  },
+  {
+   "name": "Samangan",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 39.0,
+   "y_pct": 28.0
+  },
+  {
+   "name": "Mahmud-e-Raqi",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 53.0,
+   "y_pct": 33.0
+  },
+  {
+   "name": "Charikar",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 50.0,
+   "y_pct": 33.0
+  },
+  {
+   "name": "Meydan Shahr",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 48.0,
+   "y_pct": 38.0
+  },
+  {
+   "name": "Parwan",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 49.0,
+   "y_pct": 31.0
+  },
+  {
+   "name": "Asadabad",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 69.0,
+   "y_pct": 33.0
+  },
+  {
+   "name": "Khost",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 62.0,
+   "y_pct": 51.0
+  },
+  {
+   "name": "Torkham",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 69.0,
+   "y_pct": 39.0
+  },
+  {
+   "name": "Detaram",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 16.0,
+   "y_pct": 62.0
+  },
+  {
+   "name": "Bamyan",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 40.0,
+   "y_pct": 32.0
+  },
+  {
+   "name": "Qunduz",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 45.0,
+   "y_pct": 16.0
+  },
+  {
+   "name": "Dala-i-Naw",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 16.0,
+   "y_pct": 33.0
+  },
+  {
+   "name": "Zhob",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 62.0,
+   "y_pct": 69.0
+  },
+  {
+   "name": "Muzaffarabad",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 84.0,
+   "y_pct": 37.0
+  },
+  {
+   "name": "Sargodha",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 88.0,
+   "y_pct": 48.0
+  },
+  {
+   "name": "Aqcha",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 26.0,
+   "y_pct": 18.0
+  },
+  {
+   "name": "Sharana",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 55.0,
+   "y_pct": 53.0
+  },
+  {
+   "name": "Qughonteppa",
+   "kind": "city",
+   "country": "TJ",
+   "x_pct": 57.0,
+   "y_pct": 10.0
+  }
+ ],
+ "plots": [],
+ "named_persons": [],
+ "named_orgs": [
+  "Institute for the Study of War (ISW)",
+  "AEI Critical Threats Project"
+ ],
+ "text_blocks": [
+  "A topographical map of Afghanistan and its neighbors that show major roads, cities, and tributaries."
+ ],
+ "_extraction": {
+  "model": "claude-opus-4-6",
+  "n_images": 1,
+  "image_px": [
+   511,
+   406
+  ],
+  "ts": "2026-10-12T16:52:46Z"
+ }
+}

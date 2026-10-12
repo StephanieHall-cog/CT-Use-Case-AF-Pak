@@ -1,0 +1,387 @@
+{
+ "source": {
+  "slug": "ttp-activity-in-kunar-province-afghanistan-january-1-2022-to-may-24-2023",
+  "url": "https://understandingwar.org/map/ttp-activity-in-kunar-province-afghanistan-january-1-2022-to-may-24-2023/",
+  "title": "Ttp Activity in Kunar Province, Afghanistan January 1, 2022, To May 24, 2023",
+  "page_date": "2023-05-26",
+  "isw_map_id": "63938",
+  "image_url": "https://understandingwar.org/wp-content/uploads/2025/05/Picture10_0.png",
+  "image_file": "ttp-activity-in-kunar-province-afghanistan-january-1-2022-to-may-24-2023.png",
+  "tags": [
+   "Afghanistan",
+   "Middle East",
+   "Salafi Jihadi Weekly Update"
+  ]
+ },
+ "map": {
+  "title_on_map": "TTP Activity in Kunar Province, Afghanistan",
+  "subtitle": "january 1, 2022, to May 24, 2023",
+  "as_of_date": "2023-05-24",
+  "period_start": "2022-01-01",
+  "period_end": "2023-05-24",
+  "date_precision": "day",
+  "geographic_extent": "Kunar Province, Afghanistan",
+  "map_type": "event_points",
+  "producer": "AEI's Critical Threats Project and Institute for the Study of War",
+  "cartographer": "Peter Mills",
+  "caption_text": null,
+  "notes": "Map also shows portions of Nuristan province to the west."
+ },
+ "legend": [
+  {
+   "label": "TTP Activity in Afghanistan",
+   "symbol": "red triangle",
+   "kind": "point"
+  }
+ ],
+ "anchors": [
+  {
+   "name": "Nuristan",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 8.0,
+   "y_pct": 24.0
+  },
+  {
+   "name": "Kunar",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 23.0,
+   "y_pct": 51.0
+  },
+  {
+   "name": "Waygal",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 11.0,
+   "y_pct": 27.0
+  },
+  {
+   "name": "Ghazi Abad",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 39.0,
+   "y_pct": 26.0
+  },
+  {
+   "name": "Kamdesh",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 66.0,
+   "y_pct": 18.0
+  },
+  {
+   "name": "Nari",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 66.0,
+   "y_pct": 36.0
+  },
+  {
+   "name": "Shigal",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 16.0,
+   "y_pct": 50.0
+  },
+  {
+   "name": "Bar Kunar",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 42.0,
+   "y_pct": 48.0
+  },
+  {
+   "name": "Dangam",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 58.0,
+   "y_pct": 58.0
+  },
+  {
+   "name": "Asmar",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 52.0,
+   "y_pct": 57.0
+  },
+  {
+   "name": "Watapoor",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 8.0,
+   "y_pct": 60.0
+  },
+  {
+   "name": "Sheltan",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 36.0,
+   "y_pct": 67.0
+  },
+  {
+   "name": "Dara-e-Pech",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 6.0,
+   "y_pct": 69.0
+  },
+  {
+   "name": "Asad Abad",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 14.0,
+   "y_pct": 73.0
+  },
+  {
+   "name": "Marawara",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 26.0,
+   "y_pct": 74.0
+  },
+  {
+   "name": "Narang Wa Badil",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 6.0,
+   "y_pct": 80.5
+  },
+  {
+   "name": "Sar Kani",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 14.0,
+   "y_pct": 85.0
+  }
+ ],
+ "plots": [
+  {
+   "legend_class": "TTP Activity in Afghanistan",
+   "marker": "point",
+   "x_pct": 67.5,
+   "y_pct": 18.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Kamdesh",
+   "admin_area": "Kamdesh",
+   "country": "AF",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP activity reported in or near Kamdesh district.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Activity in Afghanistan",
+   "marker": "point",
+   "x_pct": 72.0,
+   "y_pct": 29.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Kamdesh",
+   "country": "AF",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP activity reported in the area between Kamdesh and Nari districts.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Activity in Afghanistan",
+   "marker": "point",
+   "x_pct": 34.0,
+   "y_pct": 65.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Sheltan",
+   "admin_area": "Sheltan",
+   "country": "AF",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP activity reported near Sheltan district.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Activity in Afghanistan",
+   "marker": "point",
+   "x_pct": 38.0,
+   "y_pct": 67.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Sheltan",
+   "admin_area": "Sheltan",
+   "country": "AF",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP activity reported in Sheltan district.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Activity in Afghanistan",
+   "marker": "point",
+   "x_pct": 30.0,
+   "y_pct": 67.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Sheltan",
+   "admin_area": "Sheltan",
+   "country": "AF",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP activity reported west of Sheltan district center.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "TTP Activity in Afghanistan",
+   "marker": "point",
+   "x_pct": 19.0,
+   "y_pct": 72.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Asad Abad",
+   "admin_area": "Kunar",
+   "country": "AF",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP activity reported near Asad Abad.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Activity in Afghanistan",
+   "marker": "point",
+   "x_pct": 14.5,
+   "y_pct": 73.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Asad Abad",
+   "admin_area": "Kunar",
+   "country": "AF",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP activity reported at or near Asad Abad.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Activity in Afghanistan",
+   "marker": "point",
+   "x_pct": 12.5,
+   "y_pct": 85.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Sar Kani",
+   "admin_area": "Sar Kani",
+   "country": "AF",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP activity reported near Sar Kani district.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Activity in Afghanistan",
+   "marker": "point",
+   "x_pct": 19.0,
+   "y_pct": 84.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Sar Kani",
+   "admin_area": "Sar Kani",
+   "country": "AF",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP activity reported east of Sar Kani.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Activity in Afghanistan",
+   "marker": "point",
+   "x_pct": 25.0,
+   "y_pct": 84.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Kunar",
+   "country": "AF",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP activity reported in southern Kunar.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "TTP Activity in Afghanistan",
+   "marker": "point",
+   "x_pct": 28.0,
+   "y_pct": 85.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Kunar",
+   "country": "AF",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP activity reported in southern Kunar.",
+   "confidence": "medium"
+  }
+ ],
+ "named_persons": [
+  {
+   "name": "Peter Mills",
+   "role": "cartographer",
+   "affiliation": "AEI Critical Threats Project / ISW",
+   "place": null,
+   "x_pct": null,
+   "y_pct": null
+  }
+ ],
+ "named_orgs": [
+  "TTP",
+  "AEI's Critical Threats Project",
+  "Institute for the Study of War",
+  "ISW",
+  "The Dr. Jack London Geospatial Fund"
+ ],
+ "text_blocks": [
+  "May by Peter Mills\nCopyright AEI's Critical Threats Project\nand Institute for the Study of War\nMay 24, 2023"
+ ],
+ "_extraction": {
+  "model": "claude-opus-4-6",
+  "n_images": 1,
+  "image_px": [
+   850,
+   1100
+  ],
+  "ts": "2026-10-12T16:58:22Z"
+ }
+}

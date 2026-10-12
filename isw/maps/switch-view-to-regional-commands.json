@@ -1,0 +1,556 @@
+{
+ "source": {
+  "slug": "switch-view-to-regional-commands",
+  "url": "https://understandingwar.org/map/switch-view-to-regional-commands/",
+  "title": "Switch view to Regional Commands",
+  "page_date": "October 31, 2012",
+  "isw_map_id": null,
+  "image_url": null,
+  "image_file": "switch-view-to-regional-commands.jpg",
+  "tags": [
+   "Afghanistan",
+   "Afghanistan Surge and Drawdown",
+   "Middle East"
+  ]
+ },
+ "map": {
+  "title_on_map": "Switch view to: Regional Commands",
+  "subtitle": null,
+  "as_of_date": "2012-10-31",
+  "period_start": null,
+  "period_end": "2012-10-31",
+  "date_precision": "day",
+  "geographic_extent": "Afghanistan and Pakistan",
+  "map_type": "control_zones",
+  "producer": "ISW / AEI Critical Threats Project",
+  "cartographer": null,
+  "caption_text": "Click on areas on the map to see the number of attacks, KIA and WIA available. Note: District level information for one attack in Kandahari 2011 is not available. Maps last updated October 31, 2012",
+  "notes": "Map shows provincial and district level attacks for 2010, 2011, 2012 with color-coded regions. Toggle views available for Regional Commands, KIA, and Attacks."
+ },
+ "legend": [
+  {
+   "label": "Provinces (attacks) 2010",
+   "symbol": "blue shaded area",
+   "kind": "area"
+  },
+  {
+   "label": "Provinces (attacks) 2011",
+   "symbol": "green shaded area",
+   "kind": "area"
+  },
+  {
+   "label": "Provinces (attacks) 2012",
+   "symbol": "yellow shaded area",
+   "kind": "area"
+  },
+  {
+   "label": "Districts (attacks) 2010",
+   "symbol": "blue outlined area",
+   "kind": "area"
+  },
+  {
+   "label": "Districts (attacks) 2011",
+   "symbol": "green outlined area",
+   "kind": "area"
+  },
+  {
+   "label": "Districts (attacks) 2012",
+   "symbol": "yellow outlined area",
+   "kind": "area"
+  }
+ ],
+ "anchors": [
+  {
+   "name": "Tajikistan",
+   "kind": "country",
+   "country": "TJ",
+   "x_pct": 46.0,
+   "y_pct": 2.0
+  },
+  {
+   "name": "Afghanistan",
+   "kind": "country",
+   "country": "AF",
+   "x_pct": 18.0,
+   "y_pct": 42.0
+  },
+  {
+   "name": "Pakistan",
+   "kind": "country",
+   "country": "PK",
+   "x_pct": 37.0,
+   "y_pct": 74.0
+  },
+  {
+   "name": "Kabul",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 46.5,
+   "y_pct": 36.5
+  },
+  {
+   "name": "Islamabad",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 60.0,
+   "y_pct": 44.0
+  },
+  {
+   "name": "Quetta",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 33.0,
+   "y_pct": 71.0
+  },
+  {
+   "name": "Lahore",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 62.5,
+   "y_pct": 57.0
+  },
+  {
+   "name": "Peshawar",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 57.0,
+   "y_pct": 40.0
+  },
+  {
+   "name": "Faisalabad",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 55.0,
+   "y_pct": 55.0
+  },
+  {
+   "name": "Multan",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 47.0,
+   "y_pct": 62.0
+  },
+  {
+   "name": "Mary",
+   "kind": "city",
+   "country": "TM",
+   "x_pct": 6.0,
+   "y_pct": 8.0
+  },
+  {
+   "name": "Kashmir",
+   "kind": "region",
+   "country": "PK",
+   "x_pct": 67.0,
+   "y_pct": 40.0
+  },
+  {
+   "name": "Jammu",
+   "kind": "region",
+   "country": "IN",
+   "x_pct": 67.0,
+   "y_pct": 46.0
+  },
+  {
+   "name": "Himachal Pradesh",
+   "kind": "province",
+   "country": "IN",
+   "x_pct": 76.0,
+   "y_pct": 48.0
+  },
+  {
+   "name": "Punjab",
+   "kind": "province",
+   "country": "PK",
+   "x_pct": 65.0,
+   "y_pct": 55.0
+  },
+  {
+   "name": "Chandigarh",
+   "kind": "city",
+   "country": "IN",
+   "x_pct": 73.0,
+   "y_pct": 57.0
+  },
+  {
+   "name": "Amritsar",
+   "kind": "city",
+   "country": "IN",
+   "x_pct": 67.5,
+   "y_pct": 53.0
+  },
+  {
+   "name": "Sialkot",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 62.5,
+   "y_pct": 48.0
+  },
+  {
+   "name": "Gujranwala",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 60.0,
+   "y_pct": 52.0
+  },
+  {
+   "name": "Bahawalpur",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 46.0,
+   "y_pct": 70.0
+  },
+  {
+   "name": "Adampur",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 51.0,
+   "y_pct": 50.0
+  },
+  {
+   "name": "Bikaner",
+   "kind": "city",
+   "country": "IN",
+   "x_pct": 64.0,
+   "y_pct": 85.0
+  },
+  {
+   "name": "Uttarakhand",
+   "kind": "province",
+   "country": "IN",
+   "x_pct": 80.0,
+   "y_pct": 72.0
+  },
+  {
+   "name": "Haryana",
+   "kind": "province",
+   "country": "IN",
+   "x_pct": 76.0,
+   "y_pct": 75.0
+  },
+  {
+   "name": "Meerut",
+   "kind": "city",
+   "country": "IN",
+   "x_pct": 78.0,
+   "y_pct": 78.0
+  },
+  {
+   "name": "Gurgaon",
+   "kind": "city",
+   "country": "IN",
+   "x_pct": 72.0,
+   "y_pct": 78.0
+  },
+  {
+   "name": "Uttar Pradesh",
+   "kind": "province",
+   "country": "IN",
+   "x_pct": 82.0,
+   "y_pct": 88.0
+  },
+  {
+   "name": "Nepal",
+   "kind": "country",
+   "country": null,
+   "x_pct": 93.0,
+   "y_pct": 90.0
+  },
+  {
+   "name": "Mastung",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 28.0,
+   "y_pct": 73.0
+  },
+  {
+   "name": "Kudist",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 22.0,
+   "y_pct": 73.0
+  },
+  {
+   "name": "Deva Devi",
+   "kind": "city",
+   "country": "IN",
+   "x_pct": 90.0,
+   "y_pct": 63.0
+  }
+ ],
+ "plots": [
+  {
+   "legend_class": "Provinces (attacks) 2012",
+   "marker": "area",
+   "x_pct": 15.0,
+   "y_pct": 55.0,
+   "extent_pct": 12.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [],
+   "event_type": "attack",
+   "date": null,
+   "description": "Yellow-shaded province indicating attack data for 2012 in southwestern Afghanistan.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Provinces (attacks) 2010",
+   "marker": "area",
+   "x_pct": 50.0,
+   "y_pct": 15.0,
+   "extent_pct": 14.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [],
+   "event_type": "attack",
+   "date": null,
+   "description": "Blue-shaded province indicating attack data for 2010 in northern/northeastern Afghanistan.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Provinces (attacks) 2011",
+   "marker": "area",
+   "x_pct": 35.0,
+   "y_pct": 30.0,
+   "extent_pct": 10.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [],
+   "event_type": "attack",
+   "date": null,
+   "description": "Green-shaded province indicating attack data for 2011 in central Afghanistan.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Provinces (attacks) 2010",
+   "marker": "area",
+   "x_pct": 60.0,
+   "y_pct": 10.0,
+   "extent_pct": 8.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [],
+   "event_type": "attack",
+   "date": null,
+   "description": "Blue-shaded province indicating attack data for 2010 in far northeastern Afghanistan.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Provinces (attacks) 2012",
+   "marker": "area",
+   "x_pct": 5.0,
+   "y_pct": 40.0,
+   "extent_pct": 5.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [],
+   "event_type": "attack",
+   "date": null,
+   "description": "Yellow-shaded province indicating attack data for 2012 in western Afghanistan.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Provinces (attacks) 2011",
+   "marker": "area",
+   "x_pct": 25.0,
+   "y_pct": 25.0,
+   "extent_pct": 8.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [],
+   "event_type": "attack",
+   "date": null,
+   "description": "Green-shaded province indicating attack data for 2011 in northwestern Afghanistan.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Provinces (attacks) 2011",
+   "marker": "area",
+   "x_pct": 42.0,
+   "y_pct": 35.0,
+   "extent_pct": 6.0,
+   "label": null,
+   "place_name": "Kabul",
+   "admin_area": null,
+   "country": "AF",
+   "actors": [],
+   "event_type": "attack",
+   "date": null,
+   "description": "Green-shaded area near Kabul indicating attack data for 2011.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Provinces (attacks) 2012",
+   "marker": "area",
+   "x_pct": 22.0,
+   "y_pct": 50.0,
+   "extent_pct": 10.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [],
+   "event_type": "attack",
+   "date": null,
+   "description": "Yellow-shaded province indicating attack data for 2012 in southern Afghanistan.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Districts (attacks) 2012",
+   "marker": "area",
+   "x_pct": 45.0,
+   "y_pct": 38.0,
+   "extent_pct": 2.0,
+   "label": null,
+   "place_name": "Kabul",
+   "admin_area": "Kabul",
+   "country": "AF",
+   "actors": [],
+   "event_type": "attack",
+   "date": null,
+   "description": "District-level area near Kabul showing attack data for 2012.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Provinces (attacks) 2010",
+   "marker": "area",
+   "x_pct": 35.0,
+   "y_pct": 10.0,
+   "extent_pct": 8.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [],
+   "event_type": "attack",
+   "date": null,
+   "description": "Blue-shaded province indicating attack data for 2010 in north-central Afghanistan.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Provinces (attacks) 2012",
+   "marker": "area",
+   "x_pct": 30.0,
+   "y_pct": 60.0,
+   "extent_pct": 8.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [],
+   "event_type": "attack",
+   "date": null,
+   "description": "Yellow-shaded area in southern Afghanistan indicating 2012 attacks.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Provinces (attacks) 2010",
+   "marker": "area",
+   "x_pct": 55.0,
+   "y_pct": 25.0,
+   "extent_pct": 6.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [],
+   "event_type": "attack",
+   "date": null,
+   "description": "Blue-shaded province in eastern Afghanistan indicating 2010 attack data.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Provinces (attacks) 2011",
+   "marker": "area",
+   "x_pct": 10.0,
+   "y_pct": 20.0,
+   "extent_pct": 6.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [],
+   "event_type": "attack",
+   "date": null,
+   "description": "Green-shaded province in far western Afghanistan indicating 2011 attack data.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Provinces (attacks) 2011",
+   "marker": "area",
+   "x_pct": 48.0,
+   "y_pct": 30.0,
+   "extent_pct": 5.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [],
+   "event_type": "attack",
+   "date": null,
+   "description": "Green-shaded province in east-central Afghanistan indicating 2011 attacks.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Provinces (attacks) 2012",
+   "marker": "area",
+   "x_pct": 15.0,
+   "y_pct": 35.0,
+   "extent_pct": 6.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [],
+   "event_type": "attack",
+   "date": null,
+   "description": "Yellow-shaded province in west-central Afghanistan indicating 2012 attacks.",
+   "confidence": "low"
+  },
+  {
+   "legend_class": "Provinces (attacks) 2010",
+   "marker": "area",
+   "x_pct": 20.0,
+   "y_pct": 12.0,
+   "extent_pct": 7.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [],
+   "event_type": "attack",
+   "date": null,
+   "description": "Blue-shaded province in northwestern Afghanistan indicating 2010 attack data.",
+   "confidence": "low"
+  }
+ ],
+ "named_persons": [],
+ "named_orgs": [],
+ "text_blocks": [
+  "Switch view to: Regional Commands  KIA  Attacks",
+  "Provinces (attacks) 2010  2011  2012",
+  "Districts (attacks) 2010  2011  2012",
+  "Click on areas on the map to see the number of attacks, KIA and WIA available. Note: District level information for one attack in Kandahari 2011 is not available. Maps last updated October 31, 2012"
+ ],
+ "_extraction": {
+  "model": "claude-opus-4-6",
+  "n_images": 1,
+  "image_px": [
+   669,
+   366
+  ],
+  "ts": "2026-10-12T16:56:50Z"
+ }
+}

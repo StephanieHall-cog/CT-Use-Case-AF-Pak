@@ -1477,9 +1477,9 @@ id,source,source_kind,type,target,target_kind,detail,date,confidence,episode_idx
 1476,Jaish-e-Mohammed,organization,allied_with,Taliban,organization,derived:organization.parent_or_allies,,stated,29,Ep. 28 - Our Review of The Outpost,"Tue, 06 Oct 2020 13:03:19 +0000",,,real
 1477,Jamaat al-Dawa al-Quran,organization,allied_with,Lashkar-e-Taiba,organization,derived:organization.parent_or_allies,,stated,29,Ep. 28 - Our Review of The Outpost,"Tue, 06 Oct 2020 13:03:19 +0000",,,real
 1478,Jamaat al-Dawa al-Quran,organization,allied_with,al-Qaeda,organization,derived:organization.parent_or_allies,,stated,29,Ep. 28 - Our Review of The Outpost,"Tue, 06 Oct 2020 13:03:19 +0000",,,real
-1479,US Army,organization,rival_of,Taliban,organization,derived:organization.rivals,,stated,29,Ep. 28 - Our Review of The Outpost,"Tue, 06 Oct 2020 13:03:19 +0000",,,real
-1480,Asymmetric Warfare Group,organization,allied_with,US Army,organization,derived:organization.parent_or_allies,,stated,29,Ep. 28 - Our Review of The Outpost,"Tue, 06 Oct 2020 13:03:19 +0000",,,real
-1481,Rapid Equipping Force,organization,allied_with,US Army,organization,derived:organization.parent_or_allies,,stated,29,Ep. 28 - Our Review of The Outpost,"Tue, 06 Oct 2020 13:03:19 +0000",,,real
+1479,US forces,organization,rival_of,Taliban,organization,derived:organization.rivals,,stated,29,Ep. 28 - Our Review of The Outpost,"Tue, 06 Oct 2020 13:03:19 +0000",,,real
+1480,Asymmetric Warfare Group,organization,allied_with,US forces,organization,derived:organization.parent_or_allies,,stated,29,Ep. 28 - Our Review of The Outpost,"Tue, 06 Oct 2020 13:03:19 +0000",,,real
+1481,Rapid Equipping Force,organization,allied_with,US forces,organization,derived:organization.parent_or_allies,,stated,29,Ep. 28 - Our Review of The Outpost,"Tue, 06 Oct 2020 13:03:19 +0000",,,real
 1482,Muhammad Jamal Network,organization,allied_with,al-Qaeda,organization,derived:organization.parent_or_allies,,stated,29,Ep. 28 - Our Review of The Outpost,"Tue, 06 Oct 2020 13:03:19 +0000",,,real
 1483,al-Qaeda in the Islamic Maghreb,organization,allied_with,al-Qaeda,organization,derived:organization.parent_or_allies,,stated,29,Ep. 28 - Our Review of The Outpost,"Tue, 06 Oct 2020 13:03:19 +0000",,,real
 1484,al-Qaeda in the Arabian Peninsula,organization,allied_with,al-Qaeda,organization,derived:organization.parent_or_allies,,stated,29,Ep. 28 - Our Review of The Outpost,"Tue, 06 Oct 2020 13:03:19 +0000",,,real
@@ -3756,7 +3756,7 @@ id,source,source_kind,type,target,target_kind,detail,date,confidence,episode_idx
 3755,Resolute Support,organization,rival_of,Taliban,organization,derived:organization.rivals,,stated,124,Ep. 123 — The Afghanistan affliction,"Fri, 08 Dec 2023 00:00:00 +0000",,,real
 3756,TAAC-South,organization,allied_with,Resolute Support,organization,derived:organization.parent_or_allies,,stated,124,Ep. 123 — The Afghanistan affliction,"Fri, 08 Dec 2023 00:00:00 +0000",,,real
 3757,Kandahar Intelligence Fusion Cell,organization,allied_with,TAAC-South,organization,derived:organization.parent_or_allies,,stated,124,Ep. 123 — The Afghanistan affliction,"Fri, 08 Dec 2023 00:00:00 +0000",,,real
-3758,3rd Special Forces Group,organization,allied_with,US Army,organization,derived:organization.parent_or_allies,,stated,124,Ep. 123 — The Afghanistan affliction,"Fri, 08 Dec 2023 00:00:00 +0000",,,real
+3758,3rd Special Forces Group,organization,allied_with,US forces,organization,derived:organization.parent_or_allies,,stated,124,Ep. 123 — The Afghanistan affliction,"Fri, 08 Dec 2023 00:00:00 +0000",,,real
 3759,Afghan National Army,organization,allied_with,Afghan government,organization,derived:organization.parent_or_allies,,stated,124,Ep. 123 — The Afghanistan affliction,"Fri, 08 Dec 2023 00:00:00 +0000",,,real
 3760,Afghan National Army,organization,allied_with,US forces,organization,derived:organization.parent_or_allies,,stated,124,Ep. 123 — The Afghanistan affliction,"Fri, 08 Dec 2023 00:00:00 +0000",,,real
 3761,Afghan National Army,organization,rival_of,Taliban,organization,derived:organization.rivals,,stated,124,Ep. 123 — The Afghanistan affliction,"Fri, 08 Dec 2023 00:00:00 +0000",,,real
@@ -3764,7 +3764,7 @@ id,source,source_kind,type,target,target_kind,detail,date,confidence,episode_idx
 3763,Noorzai tribe,organization,rival_of,Achakzai tribe,organization,derived:organization.rivals,,stated,124,Ep. 123 — The Afghanistan affliction,"Fri, 08 Dec 2023 00:00:00 +0000",,,real
 3764,Achakzai tribe,organization,rival_of,Noorzai tribe,organization,derived:organization.rivals,,stated,124,Ep. 123 — The Afghanistan affliction,"Fri, 08 Dec 2023 00:00:00 +0000",,,real
 3765,Voice of Jihad,organization,allied_with,Taliban,organization,derived:organization.parent_or_allies,,stated,124,Ep. 123 — The Afghanistan affliction,"Fri, 08 Dec 2023 00:00:00 +0000",,,real
-3766,National Guard,organization,allied_with,US Army,organization,derived:organization.parent_or_allies,,stated,124,Ep. 123 — The Afghanistan affliction,"Fri, 08 Dec 2023 00:00:00 +0000",,,real
+3766,National Guard,organization,allied_with,US forces,organization,derived:organization.parent_or_allies,,stated,124,Ep. 123 — The Afghanistan affliction,"Fri, 08 Dec 2023 00:00:00 +0000",,,real
 3767,National Guard,organization,rival_of,Taliban,organization,derived:organization.rivals,,stated,124,Ep. 123 — The Afghanistan affliction,"Fri, 08 Dec 2023 00:00:00 +0000",,,real
 3768,Afghan special forces,organization,allied_with,US special forces,organization,derived:organization.parent_or_allies,,stated,124,Ep. 123 — The Afghanistan affliction,"Fri, 08 Dec 2023 00:00:00 +0000",,,real
 3769,Afghan special forces,organization,rival_of,Taliban,organization,derived:organization.rivals,,stated,124,Ep. 123 — The Afghanistan affliction,"Fri, 08 Dec 2023 00:00:00 +0000",,,real
@@ -4677,7 +4677,7 @@ id,source,source_kind,type,target,target_kind,detail,date,confidence,episode_idx
 4676,Kabul attack network,organization,allied_with,Haqqani Network,organization,derived:organization.parent_or_allies,,stated,202,Ep. 210 — 23 years since 9/11,"Wed, 11 Sep 2024 19:55:00 +0000",,,real
 4677,Kabul attack network,organization,rival_of,US and Western forces,organization,derived:organization.rivals,,stated,202,Ep. 210 — 23 years since 9/11,"Wed, 11 Sep 2024 19:55:00 +0000",,,real
 4678,Kabul attack network,organization,rival_of,Afghan National Army,organization,derived:organization.rivals,,stated,202,Ep. 210 — 23 years since 9/11,"Wed, 11 Sep 2024 19:55:00 +0000",,,real
-4679,National Ground Intelligence Center,organization,allied_with,US Army,organization,derived:organization.parent_or_allies,,stated,202,Ep. 210 — 23 years since 9/11,"Wed, 11 Sep 2024 19:55:00 +0000",,,real
+4679,National Ground Intelligence Center,organization,allied_with,US forces,organization,derived:organization.parent_or_allies,,stated,202,Ep. 210 — 23 years since 9/11,"Wed, 11 Sep 2024 19:55:00 +0000",,,real
 4680,Marine Corps Intelligence Activity,organization,allied_with,US Marine Corps,organization,derived:organization.parent_or_allies,,stated,202,Ep. 210 — 23 years since 9/11,"Wed, 11 Sep 2024 19:55:00 +0000",,,real
 4681,Afghan Local Police,organization,allied_with,ISAF,organization,derived:organization.parent_or_allies,,stated,202,Ep. 210 — 23 years since 9/11,"Wed, 11 Sep 2024 19:55:00 +0000",,,real
 4682,Afghan Local Police,organization,allied_with,Afghan government,organization,derived:organization.parent_or_allies,,stated,202,Ep. 210 — 23 years since 9/11,"Wed, 11 Sep 2024 19:55:00 +0000",,,real

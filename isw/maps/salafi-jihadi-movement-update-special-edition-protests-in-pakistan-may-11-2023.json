@@ -1,0 +1,1798 @@
+{
+ "source": {
+  "slug": "salafi-jihadi-movement-update-special-edition-protests-in-pakistan-may-11-2023",
+  "url": "https://understandingwar.org/map/salafi-jihadi-movement-update-special-edition-protests-in-pakistan-may-11-2023/",
+  "title": "Protests and Salafi-Jihadi Attacks in Pakistan, May 11, 2023",
+  "page_date": "2023-05-11",
+  "isw_map_id": null,
+  "image_url": null,
+  "image_file": "salafi-jihadi-movement-update-special-edition-protests-in-pakistan-may-11-2023.webp",
+  "tags": [
+   "Afghanistan",
+   "Middle East",
+   "Salafi Jihadi Weekly Update"
+  ]
+ },
+ "map": {
+  "title_on_map": "Protests and Salafi-Jihadi Attacks in Pakistan",
+  "subtitle": null,
+  "as_of_date": "2023-05-11",
+  "period_start": "2023-01-01",
+  "period_end": "2023-05-11",
+  "date_precision": "day",
+  "geographic_extent": "Pakistan and eastern Afghanistan",
+  "map_type": "event_points",
+  "producer": "Critical Threats Project at the American Enterprise Institute",
+  "cartographer": "Kathryn Tyson and Peter Mills",
+  "caption_text": "*Note: The IS label applies to the Islamic State Khorasan Province and the Islamic State Pakistan Province.",
+  "notes": "Map by Kathryn Tyson and Peter Mills © Critical Threats Project at the American Enterprise Institute, May 11, 2023"
+ },
+ "legend": [
+  {
+   "label": "Pakistani Corps Command Headquarters",
+   "symbol": "black star",
+   "kind": "point"
+  },
+  {
+   "label": "Protests as of May 11, 2023",
+   "symbol": "light blue teardrop",
+   "kind": "point"
+  },
+  {
+   "label": "Pakistani Military Show of Force",
+   "symbol": "green circle",
+   "kind": "point"
+  },
+  {
+   "label": "IS Attacks in 2023*",
+   "symbol": "dark gray circle",
+   "kind": "point"
+  },
+  {
+   "label": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "symbol": "red circle",
+   "kind": "point"
+  }
+ ],
+ "anchors": [
+  {
+   "name": "Peshawar",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 71.5,
+   "y_pct": 29.5
+  },
+  {
+   "name": "Islamabad",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 81.0,
+   "y_pct": 30.0
+  },
+  {
+   "name": "Rawalpindi",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 81.5,
+   "y_pct": 33.0
+  },
+  {
+   "name": "Lahore",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 83.0,
+   "y_pct": 41.0
+  },
+  {
+   "name": "Quetta",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 38.5,
+   "y_pct": 48.5
+  },
+  {
+   "name": "Karachi",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 37.0,
+   "y_pct": 76.0
+  },
+  {
+   "name": "Afghanistan",
+   "kind": "country",
+   "country": "AF",
+   "x_pct": 35.0,
+   "y_pct": 30.0
+  },
+  {
+   "name": "Pakistan",
+   "kind": "country",
+   "country": "PK",
+   "x_pct": 52.0,
+   "y_pct": 54.0
+  },
+  {
+   "name": "India",
+   "kind": "country",
+   "country": "IN",
+   "x_pct": 85.0,
+   "y_pct": 74.0
+  }
+ ],
+ "plots": [
+  {
+   "legend_class": "Pakistani Corps Command Headquarters",
+   "marker": "point",
+   "x_pct": 71.5,
+   "y_pct": 29.5,
+   "extent_pct": null,
+   "label": "Peshawar",
+   "place_name": "Peshawar",
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "Pakistani security forces"
+   ],
+   "event_type": "hq",
+   "date": null,
+   "description": "Pakistani Corps Command Headquarters located at Peshawar.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Pakistani Corps Command Headquarters",
+   "marker": "point",
+   "x_pct": 81.5,
+   "y_pct": 33.0,
+   "extent_pct": null,
+   "label": "Rawalpindi",
+   "place_name": "Rawalpindi",
+   "admin_area": "Punjab",
+   "country": "PK",
+   "actors": [
+    "Pakistani security forces"
+   ],
+   "event_type": "hq",
+   "date": null,
+   "description": "Pakistani Corps Command Headquarters located at Rawalpindi.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Pakistani Corps Command Headquarters",
+   "marker": "point",
+   "x_pct": 82.0,
+   "y_pct": 39.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Lahore",
+   "admin_area": "Punjab",
+   "country": "PK",
+   "actors": [
+    "Pakistani security forces"
+   ],
+   "event_type": "hq",
+   "date": null,
+   "description": "Pakistani Corps Command Headquarters located near Lahore.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Pakistani Corps Command Headquarters",
+   "marker": "point",
+   "x_pct": 38.5,
+   "y_pct": 48.5,
+   "extent_pct": null,
+   "label": "Quetta",
+   "place_name": "Quetta",
+   "admin_area": "Balochistan",
+   "country": "PK",
+   "actors": [
+    "Pakistani security forces"
+   ],
+   "event_type": "hq",
+   "date": null,
+   "description": "Pakistani Corps Command Headquarters located at Quetta.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Pakistani Corps Command Headquarters",
+   "marker": "point",
+   "x_pct": 37.0,
+   "y_pct": 76.0,
+   "extent_pct": null,
+   "label": "Karachi",
+   "place_name": "Karachi",
+   "admin_area": "Sindh",
+   "country": "PK",
+   "actors": [
+    "Pakistani security forces"
+   ],
+   "event_type": "hq",
+   "date": null,
+   "description": "Pakistani Corps Command Headquarters located at Karachi.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Pakistani Corps Command Headquarters",
+   "marker": "point",
+   "x_pct": 70.0,
+   "y_pct": 50.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Sindh",
+   "country": "PK",
+   "actors": [
+    "Pakistani security forces"
+   ],
+   "event_type": "hq",
+   "date": null,
+   "description": "Pakistani Corps Command Headquarters in central-southern Pakistan.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Pakistani Corps Command Headquarters",
+   "marker": "point",
+   "x_pct": 70.0,
+   "y_pct": 55.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "Pakistani security forces"
+   ],
+   "event_type": "hq",
+   "date": null,
+   "description": "Pakistani Corps Command Headquarters in southern Pakistan.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Protests as of May 11, 2023",
+   "marker": "point",
+   "x_pct": 84.5,
+   "y_pct": 40.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Lahore",
+   "admin_area": "Punjab",
+   "country": "PK",
+   "actors": [],
+   "event_type": "protest",
+   "date": "2023-05-11",
+   "description": "Protest activity in or near Lahore as of May 11, 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Protests as of May 11, 2023",
+   "marker": "point",
+   "x_pct": 80.0,
+   "y_pct": 30.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Islamabad",
+   "admin_area": "Islamabad Capital Territory",
+   "country": "PK",
+   "actors": [],
+   "event_type": "protest",
+   "date": "2023-05-11",
+   "description": "Protest activity in or near Islamabad as of May 11, 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Pakistani Military Show of Force",
+   "marker": "point",
+   "x_pct": 78.5,
+   "y_pct": 30.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Islamabad",
+   "admin_area": "Islamabad Capital Territory",
+   "country": "PK",
+   "actors": [
+    "Pakistani security forces"
+   ],
+   "event_type": "security_operation",
+   "date": "2023-05-11",
+   "description": "Pakistani military show of force near Islamabad.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Pakistani Military Show of Force",
+   "marker": "point",
+   "x_pct": 83.5,
+   "y_pct": 40.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Lahore",
+   "admin_area": "Punjab",
+   "country": "PK",
+   "actors": [
+    "Pakistani security forces"
+   ],
+   "event_type": "security_operation",
+   "date": "2023-05-11",
+   "description": "Pakistani military show of force near Lahore.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "IS Attacks in 2023*",
+   "marker": "point",
+   "x_pct": 72.0,
+   "y_pct": 29.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Peshawar",
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "ISKP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "IS attack near Peshawar in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "IS Attacks in 2023*",
+   "marker": "point",
+   "x_pct": 40.0,
+   "y_pct": 51.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Quetta",
+   "admin_area": "Balochistan",
+   "country": "PK",
+   "actors": [
+    "ISKP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "IS attack near Quetta in 2023.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "IS Attacks in 2023*",
+   "marker": "point",
+   "x_pct": 41.0,
+   "y_pct": 51.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Quetta",
+   "admin_area": "Balochistan",
+   "country": "PK",
+   "actors": [
+    "ISKP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "IS attack near Quetta in 2023.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 56.0,
+   "y_pct": 33.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in northwestern Pakistan in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 57.0,
+   "y_pct": 34.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in northwestern Pakistan in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 58.0,
+   "y_pct": 33.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in northwestern Pakistan in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 59.0,
+   "y_pct": 34.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in northwestern Pakistan in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 60.0,
+   "y_pct": 33.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in northwestern Pakistan in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 61.0,
+   "y_pct": 34.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in northwestern Pakistan in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 61.5,
+   "y_pct": 33.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in northwestern Pakistan in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 62.0,
+   "y_pct": 35.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in northwestern Pakistan in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 63.0,
+   "y_pct": 34.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in northwestern Pakistan in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 63.5,
+   "y_pct": 33.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in northwestern Pakistan in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 64.0,
+   "y_pct": 35.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in northwestern Pakistan in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 64.5,
+   "y_pct": 34.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in northwestern Pakistan in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 65.0,
+   "y_pct": 33.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in northwestern Pakistan in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 65.5,
+   "y_pct": 35.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in northwestern Pakistan in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 66.0,
+   "y_pct": 34.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in northwestern Pakistan in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 66.5,
+   "y_pct": 33.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in northwestern Pakistan in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 67.0,
+   "y_pct": 35.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in northwestern Pakistan in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 67.5,
+   "y_pct": 34.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in northwestern Pakistan in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 68.0,
+   "y_pct": 35.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in northwestern Pakistan in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 68.5,
+   "y_pct": 34.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in northwestern Pakistan in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 69.0,
+   "y_pct": 33.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in northwestern Pakistan in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 69.5,
+   "y_pct": 35.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in northwestern Pakistan in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 70.0,
+   "y_pct": 34.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in northwestern Pakistan in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 70.5,
+   "y_pct": 35.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in northwestern Pakistan in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 71.0,
+   "y_pct": 33.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Peshawar",
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack near Peshawar in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 72.0,
+   "y_pct": 34.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Peshawar",
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack near Peshawar in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 72.5,
+   "y_pct": 35.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Peshawar",
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack near Peshawar in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 73.0,
+   "y_pct": 34.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Peshawar",
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack near Peshawar in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 73.5,
+   "y_pct": 33.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in Khyber Pakhtunkhwa in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 74.0,
+   "y_pct": 35.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in Khyber Pakhtunkhwa in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 74.5,
+   "y_pct": 34.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in Khyber Pakhtunkhwa in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 75.0,
+   "y_pct": 35.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in Khyber Pakhtunkhwa in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 75.5,
+   "y_pct": 34.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in Khyber Pakhtunkhwa in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 76.0,
+   "y_pct": 33.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in Khyber Pakhtunkhwa in 2023.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 62.5,
+   "y_pct": 36.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in tribal areas in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 63.0,
+   "y_pct": 36.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in tribal areas in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 64.0,
+   "y_pct": 37.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in tribal areas in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 65.0,
+   "y_pct": 37.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in tribal areas in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 66.0,
+   "y_pct": 36.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in tribal areas in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 67.0,
+   "y_pct": 37.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in tribal areas in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 68.0,
+   "y_pct": 37.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in tribal areas in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 69.0,
+   "y_pct": 37.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in tribal areas in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 70.0,
+   "y_pct": 37.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in tribal areas in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 71.0,
+   "y_pct": 36.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in tribal areas in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 62.0,
+   "y_pct": 38.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in tribal areas in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 63.5,
+   "y_pct": 38.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in tribal areas in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 64.5,
+   "y_pct": 39.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in tribal areas in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 65.5,
+   "y_pct": 39.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in tribal areas in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 66.5,
+   "y_pct": 38.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in tribal areas in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 67.5,
+   "y_pct": 39.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in tribal areas in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 68.5,
+   "y_pct": 38.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in tribal areas in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 60.0,
+   "y_pct": 37.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in tribal areas in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 61.0,
+   "y_pct": 37.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in tribal areas in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 59.5,
+   "y_pct": 38.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in tribal areas in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 57.0,
+   "y_pct": 36.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in tribal areas in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 58.0,
+   "y_pct": 37.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in tribal areas in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 60.5,
+   "y_pct": 39.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in tribal areas in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 61.5,
+   "y_pct": 40.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in tribal areas in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 62.5,
+   "y_pct": 40.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in tribal areas in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 63.5,
+   "y_pct": 40.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in tribal areas in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 64.5,
+   "y_pct": 40.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in tribal areas in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 65.5,
+   "y_pct": 41.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in tribal areas in 2023.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 35.0,
+   "y_pct": 45.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Balochistan",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in Balochistan in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 36.0,
+   "y_pct": 46.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Balochistan",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in Balochistan in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 37.0,
+   "y_pct": 50.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Quetta",
+   "admin_area": "Balochistan",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack near Quetta in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 38.0,
+   "y_pct": 50.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Quetta",
+   "admin_area": "Balochistan",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack near Quetta in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 39.0,
+   "y_pct": 51.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Quetta",
+   "admin_area": "Balochistan",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack near Quetta in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 37.5,
+   "y_pct": 52.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Quetta",
+   "admin_area": "Balochistan",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack near Quetta in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 32.0,
+   "y_pct": 56.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Balochistan",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in southern Balochistan in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 33.0,
+   "y_pct": 56.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Balochistan",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in southern Balochistan in 2023.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 24.0,
+   "y_pct": 62.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Balochistan",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in western Balochistan in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 76.5,
+   "y_pct": 30.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in KP in 2023.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 77.0,
+   "y_pct": 31.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in KP in 2023.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 78.0,
+   "y_pct": 32.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in KP in 2023.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 55.0,
+   "y_pct": 35.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in tribal areas in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 56.5,
+   "y_pct": 35.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in tribal areas in 2023.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+   "marker": "point",
+   "x_pct": 58.5,
+   "y_pct": 35.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khyber Pakhtunkhwa",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in tribal areas in 2023.",
+   "confidence": "high"
+  }
+ ],
+ "named_persons": [
+  {
+   "name": "Kathryn Tyson",
+   "role": "cartographer",
+   "affiliation": "Critical Threats Project / AEI",
+   "place": null,
+   "x_pct": null,
+   "y_pct": null
+  },
+  {
+   "name": "Peter Mills",
+   "role": "cartographer",
+   "affiliation": "Critical Threats Project / AEI",
+   "place": null,
+   "x_pct": null,
+   "y_pct": null
+  }
+ ],
+ "named_orgs": [
+  "ISW",
+  "Critical Threats",
+  "American Enterprise Institute",
+  "Tehrik-e-Taliban Pakistan",
+  "Islamic State Khorasan Province",
+  "Islamic State Pakistan Province"
+ ],
+ "text_blocks": [
+  "*Note: The IS label applies to the Islamic State Khorasan Province and the Islamic State Pakistan Province.",
+  "Map by Kathryn Tyson and Peter Mills © Critical Threats Project at the American Enterprise Institute, May 11, 2023",
+  "Esri, © OpenStreetMap contributors, HERE, Garmin, FAO, NOAA, USGSWGS1984 Web Mercator (Auxiliary Sphere)"
+ ],
+ "_extraction": {
+  "model": "claude-opus-4-6",
+  "n_images": 1,
+  "image_px": [
+   850,
+   1100
+  ],
+  "ts": "2026-10-12T16:56:27Z"
+ }
+}

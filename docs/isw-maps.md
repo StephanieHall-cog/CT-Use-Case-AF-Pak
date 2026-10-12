@@ -1,0 +1,124 @@
+# ISW Map Room source (`isw_maps`)
+
+Static conflict maps from the Institute for the Study of War / AEI Critical Threats Project Map Room
+(https://understandingwar.org/analysis/map-room/?_search_research=afghanistan&_map_type=static-map%2Cinteractive-map),
+digitised into plot points for the GUI's **Events & Mapping** tab. This is the first non-podcast source in the database; it is
+kept in its own tables and tagged `source='isw_maps'` wherever it touches shared tables (`events`).
+
+## What was collected
+- The Map Room was queried for Afghanistan, Pakistan, Taliban, Haqqani, TTP, Waziristan plus every AfPak map series / product
+  line (`scripts/isw_scrape.py::QUERIES`). 115 map pages were indexed, 79 are AfPak-focused.
+- 58 of those pages still exist and carry a map image; all 58 were downloaded at full resolution. The remaining 21 are 2009–2012
+  interactive Flash-era maps (Helmand/Kandahar campaign maps, Operation Panther's Claw, safe-haven/sanctuary zone maps) that now
+  302 to the Map Room index; they are listed in `isw/dead_pages.json` and were not digitised.
+- Page metadata (title, publication date, ISW map id, image URL, product-line tags, caption) is in `isw/manifest.json`; a ≤1600 px
+  JPEG of each map is in `isw/images/` for GUI overlay; the full-resolution originals stay at ISW (`image_url`).
+
+## How plots were extracted
+`scripts/isw_extract.py` sends each map to Claude (opus-4-6) with a percentage grid burned onto the image (plus 4–6 zoom tiles for
+large maps) and asks for a structured JSON: map period, legend, **anchors** (every labelled town/district/province with its grid
+position), **plots** (one record per plotted marker or shaded zone: legend class, position, nearby label, actors, event type,
+printed date, confidence), named persons/organisations and printed text blocks. Output: `isw/maps/<slug>.json`.
+
+`scripts/build_isw_db.py` then georeferences each map: anchor names are resolved against a GeoNames gazetteer
+(`isw/gazetteer_afpak.tsv.gz` = AF+PK populated places/admin units; `isw/gazetteer_extra.tsv` = curated regions such as FATA,
+Waziristan, Tora Bora, ISAF regional commands), a weighted affine fit image-% → (lon, Mercator-lat) is computed with outlier
+rejection, and every plot gets lat/lon:
+- `geo_method='gazetteer'` — the plot names a town/district that resolves and agrees with the fit (nominal precision 5 km, 15 km for areas);
+- `geo_method='affine'` / `'affine_centroid'` — position read off the georeferenced image; precision = fit RMS over town/city anchors
+  (median ≈ 15 km; 3–10 km on district/province maps, 20–60 km on whole-country maps; only one map exceeds 60 km).
+Every plot also becomes an `events` row (`source='isw_maps'`, `map_plot_id` back-link, date = printed date or the map's period end).
+Actors and places are cross-linked to existing podcast entities **only** when the alias resolver yields an existing id; otherwise
+the raw text is kept (`map_plot_actors.actor_text`, `map_plots.place_name`). No new entities are created from maps.
+
+As a by-product the same gazetteer geocodes the podcast `place` entities into `place_coords` (the table the GUI plan asked for).
+
+## Tables and exports
+| Table | Content |
+|---|---|
+| `map_sources` | one row per map: URL, title, dates, map_type (event_points / control_zones / force_disposition / reference / thematic), producer, caption, image, georef quality (`n_anchors_used`, `georef_rms_km`, `image_corners`) |
+| `map_legend` | legend entries per map |
+| `map_anchors` | labelled places used for georeferencing, with residuals |
+| `map_plots` | plot points: legend class, image position, label, place/admin/country, event_type, date, description, confidence, lat/lon + method + precision, links to `events`, `entities` |
+| `map_plot_actors` | actor text per plot + resolved `entity_id` when unambiguous |
+| `map_text` | named persons / orgs / text blocks printed on maps |
+| `place_coords` | lat/lon for podcast place entities (gazetteer) |
+
+Exports: `db/exports/isw_plots.geojson` (all geocoded plots, GUI-ready), `isw_plots.csv`, `isw_maps.csv/json` (map inventory +
+legend + image corner coordinates for overlays), `place_coords.csv/json`.
+
+## Caveats
+- Positions are read from raster maps by a vision model; treat them as **approximate** (use `geo_precision_km`). Dense clusters
+  (e.g. Peshawar/Bara attack dots) are under-counted — the model enumerates what it can distinguish, not an exact tally.
+- Control/support zones are stored as centroid points with `extent_pct`; polygons were not traced.
+- ISW maps show ISW's assessments at publication time; `as_of_date`/`period_*` come from the map itself, `page_date` from the web page.
+- Regional ("Afghanistan in the Region") maps include non-AF/PK anchors that the AF/PK gazetteer cannot resolve, hence their poor fit.
+- Re-running `isw_extract.py` costs API calls and will give slightly different plot sets; outputs are committed so the build is deterministic.
+
+## Map inventory
+(generated by `python3 scripts/isw_report.py`)
+
+| Map | Period | Published | Type | Plots (geocoded) | Anchors used | Fit RMS km |
+|---|---|---|---|---|---|---|
+| [Map of Afghanistan and Its Neighbors](https://understandingwar.org/map/map-of-afghanistan-and-its-neighbors/) | 2009-04-16 | April 16, 2009 | reference | 0 (0) | 37 | 37.2 |
+| [ISAF Force Distribution in Helmand Province – Spring 2009](https://understandingwar.org/map/isaf-force-distribution-in-helmand-province-spring-2009/) | 2009-03-01 → 2009-05-31 | January 6, 2011 | force_disposition | 10 (10) | 26 | 29.1 |
+| [U.S. Marine Corps Operation Khanjar](https://understandingwar.org/map/u-s-marine-corps-operation-khanjar/) | 2009-07-01 → 2009-07-31 | October 9, 2009 | force_disposition | 6 (6) | 5 | 30.3 |
+| [Map: Major Enemy Groups in Afghanistan](https://understandingwar.org/map/map-major-enemy-groups-in-afghanistan/) | 2009-08-01 | August 1, 2009 | thematic | 13 (13) | 38 | 35.4 |
+| [Major Enemy Groups in Afghanistan](https://understandingwar.org/map/major-enemy-groups-in-afghanistan/) | 2009-08-06 | August 6, 2009 | force_disposition | 8 (8) | 32 | 32.9 |
+| [U.S. Marine Corps Operation Eastern Resolve II](https://understandingwar.org/map/u-s-marine-corps-operation-eastern-resolve-ii/) | 2009-08-01 → 2009-08-31 | October 9, 2009 | force_disposition | 4 (4) | 5 | 37.1 |
+| [Kandahar Province](https://understandingwar.org/map/kandahar-province-2/) | 2009-12-01 | December 1, 2009 | reference | 4 (4) | 53 | 14.6 |
+| [Force Distribution in Marjah and Nad Ali](https://understandingwar.org/map/force-distribution-in-marjah-and-nad-ali/) | 2010-03-02 | March 2, 2010 | force_disposition | 8 (8) | 3 | 0.0 |
+| [Disposition of ISAF and Afghan Forces – May 2010](https://understandingwar.org/map/disposition-of-isaf-afghan-forces-may-2010/) | 2010-05-01 → 2010-05-31 | December 15, 2010 | force_disposition | 9 (9) | 4 | 4.4 |
+| [Force Disposition: Afghanistan/Pakistan Border](https://understandingwar.org/map/force-disposition-afghanistan-pakistan-border/) | 2010-09-23 | September 23, 2010 | force_disposition | 48 (48) | 30 | 41.1 |
+| [ISAF Operations in Zhari and Panjwai – September and October 2010](https://understandingwar.org/map/isaf-operations-in-zhari-panjwai-september-october-2010/) | 2010-09-01 → 2010-10-31 | December 15, 2010 | event_points | 11 (11) | 4 | 70.4 |
+| [Disposition of ISAF and Afghan Forces – November 2010](https://understandingwar.org/map/disposition-of-isaf-afghan-forces-november-2010/) | 2010-11-01 → 2010-11-30 | December 15, 2010 | force_disposition | 24 (24) | 4 | 34.1 |
+| [Arghandab District](https://understandingwar.org/map/arghandab-district/) | 2010-12-15 | December 15, 2010 | reference | 0 (0) | 0 | — |
+| [ISAF Force Distribution in Helmand Province – Winter 2010](https://understandingwar.org/map/isaf-force-distribution-in-helmand-province-winter-2010/) | 2010-12-01 → 2011-01-06 | January 6, 2011 | force_disposition | 21 (21) | 29 | 31.7 |
+| [DEFINING SUCCESS IN AFGHANISTAN](https://understandingwar.org/map/defining-success-in-afghanistan/) | 2011-01-07 | January 7, 2011 | reference | 0 (0) | 0 | — |
+| [The Fight for Eastern Afghanistan Map](https://understandingwar.org/map/the-fight-for-eastern-afghanistan-map/) | 2012-03-16 | March 16, 2012 | force_disposition | 19 (19) | 39 | 17.3 |
+| [Switch view to Regional Commands](https://understandingwar.org/map/switch-view-to-regional-commands/) | 2012-10-31 | October 31, 2012 | control_zones | 16 (16) | 7 | 39.1 |
+| [Afghanistan](https://understandingwar.org/map/afghanistan/) | 2010-01-01 → 2012-12-31 | October 31, 2012 | thematic | 7 (7) | 12 | 32.4 |
+| [US Embassy & Consulate Closures, Sunday, August 4, 2013](https://understandingwar.org/map/u-s-embassy-consulate-closures-sunday-4-august-2013/) | 2013-08-04 → 2013-08-04 | August 3, 2013 | event_points | 22 (1) | 0 | — |
+| [Militant Attack and Support Zones in Afghanistan: April – July 7, 2015](https://understandingwar.org/map/militant-attack-and-support-zones-in-afghanistan-april-july-7-2015/) | 2015-04-01 → 2015-07-07 | 2025-05-29 | control_zones | 38 (38) | 31 | 36.4 |
+| [ISIS in Nangarhar: November 2015](https://understandingwar.org/map/isis-in-nangarhar-november-2015/) | 2015-11-01 → 2015-11-30 | December 3, 2015 | control_zones | 21 (21) | 6 | 4.6 |
+| [Afghanistan Threat Assessment: the Taliban and ISIS](https://understandingwar.org/map/afghanistan-threat-assessment-the-taliban-and-isis/) | 2015-12-10 | 2025-05-29 | control_zones | 81 (81) | 30 | 29.4 |
+| [Afghanistan Partial Threat Assessment Map: February 23, 2016](https://understandingwar.org/map/afghanistan-partial-threat-assessment-map-february-23-2016/) | 2016-02-23 | February 24, 2016 | control_zones | 90 (90) | 32 | 35.2 |
+| [Afghanistan Partial Threat Assessment As Of April 12, 2016](https://understandingwar.org/map/afghanistan-partial-threat-assessment-as-of-april-12-2016/) | 2016-04-12 | April 12, 2016 | control_zones | 91 (91) | 35 | 34.7 |
+| [Afghanistan Partial Threat Assessment: June 30, 2016](https://understandingwar.org/map/afghanistan-partial-threat-assessment-june-30-2016/) | 2016-06-30 | July 15, 2016 | control_zones | 81 (81) | 11 | 44.9 |
+| [AFGHANISTAN PARTIAL THREAT ASSESSMENT AS OF AUGUST 28, 2016](https://understandingwar.org/map/afghanistan-partial-threat-assessment-as-of-august-28-2016/) | 2016-08-28 | August 28, 2016 | control_zones | 87 (87) | 23 | 33.4 |
+| [Afghanistan-pakistan Administrative Divisions, February 2012](https://understandingwar.org/map/afghanistan-pakistan-administrative-divisions-february-2012/) | 2016-11-22 | November 23, 2016 | control_zones | 78 (78) | 20 | 31.5 |
+| [Afghanistan Partial Threat Assessment: November 23, 2016-march 15, 2017](https://understandingwar.org/map/afghanistan-partial-threat-assessment-november-23-2016-march-15-2017/) | 2016-11-23 → 2017-03-15 | March 20, 2017 | control_zones | 78 (78) | 21 | 22.8 |
+| [Al Qaeda and ISIS in Afghanistan 2018–2019](https://understandingwar.org/map/al-qaeda-and-isis-in-afghanistan-2018-2019/) | 2018-01-01 → 2019-09-25 | October 22, 2019 | event_points | 33 (33) | 31 | 35.4 |
+| [Afghanistan in the Region: November 20-December 8, 2021](https://understandingwar.org/map/afghanistan-in-the-region-november-20-december-8-2021/) | 2021-11-20 → 2021-12-08 | December 13, 2021 | event_points | 3 (3) | 5 | 11.1 |
+| [Afghanistan in the Region: January 3 – January 25, 2022](https://understandingwar.org/map/afghanistan-in-the-region-january-3-january-25-2022/) | 2022-01-03 → 2022-01-25 | January 31, 2022 | event_points | 9 (9) | 5 | 16.3 |
+| [Afghanistan in the Region](https://understandingwar.org/map/afghanistan-in-the-region/) | 2022-03-09 | March 9, 2022 | force_disposition | 14 (14) | 17 | 15.2 |
+| [Anti-Taliban Activity in Afghanistan](https://understandingwar.org/map/anti-taliban-activity-in-afghanistan/) | 2022-11-22 | November 29, 2022 | event_points | 74 (74) | 6 | 18.6 |
+| [Anti-Taliban Activity in Northeastern Afghanistan](https://understandingwar.org/map/anti-taliban-activity-in-northeastern-afghanistan/) | 2022-11-22 | November 29, 2022 | control_zones | 54 (54) | 8 | 30.6 |
+| [Ttp Attacks and Pakistani Operations Against the TTP March 11, 2023 To April 11, 2023](https://understandingwar.org/map/ttp-attacks-and-pakistani-operations-against-the-ttp-march-11-2023-to-april-11-2023/) | 2023-03-11 → 2023-04-11 | April 14, 2023 | event_points | 31 (31) | 4 | 14.0 |
+| [Ttp Attacks and Pakistani Operations Against the TTP March 20, 2023 To April 20, 2023](https://understandingwar.org/map/ttp-attacks-and-pakistani-operations-against-the-ttp-march-20-2023-to-april-20-2023/) | 2023-03-20 → 2023-04-20 | April 21, 2023 | event_points | 40 (40) | 4 | 3.8 |
+| [Ttp Attacks and Pakistani Operations Against the TTP April 1, 2023–may 1, 2023](https://understandingwar.org/map/ttp-attacks-and-pakistani-operations-against-the-ttp-april-1-2023-may-1-2023/) | 2023-04-01 → 2023-05-01 | 2023-05-04 | event_points | 37 (37) | 4 | 15.1 |
+| [Protests and Salafi-Jihadi Attacks in Pakistan, May 9, 2023](https://understandingwar.org/map/salafi-jihadi-movement-update-special-edition-protests-in-pakistan-may-9-2023/) | 2023-01-01 → 2023-05-09 | 2023-05-09 | event_points | 80 (80) | 6 | 34.1 |
+| [Protests and Salafi-Jihadi Attacks in Pakistan, May 10, 2023](https://understandingwar.org/map/salafi-jihadi-movement-update-special-edition-protests-in-pakistan-may-10-2023/) | 2023-01-01 → 2023-05-10 | 2023-05-10 | event_points | 73 (73) | 6 | 32.0 |
+| [Protests and Salafi-Jihadi Attacks in Pakistan, May 11, 2023](https://understandingwar.org/map/salafi-jihadi-movement-update-special-edition-protests-in-pakistan-may-11-2023/) | 2023-01-01 → 2023-05-11 | 2023-05-11 | event_points | 91 (91) | 6 | 33.9 |
+| [Protests and Salafi-Jihadi Attacks in Pakistan, May 12, 2023](https://understandingwar.org/map/protests-and-salafi-jihadi-attacks-in-pakistan/) | 2023-01-01 → 2023-05-12 | 2023-05-12 | event_points | 80 (80) | 6 | 17.2 |
+| [Tehrik-e-insaf Pakistan (pti) Support and Salafi-Jihadi Attacks in Pakistan](https://understandingwar.org/map/tehrik-e-insaf-pakistan-pti-support-and-salafi-jihadi-attacks-in-pakistan/) | 2023-01-01 → 2023-05-17 | 2023-05-19 | event_points | 69 (69) | 6 | 34.2 |
+| [Ttp Activity in Afghanistan January 1, 2022, To May 24, 2023](https://understandingwar.org/map/ttp-activity-in-afghanistan-january-1-2022-to-may-24-2023/) | 2022-01-01 → 2023-05-24 | 2023-05-26 | event_points | 14 (14) | 16 | 28.3 |
+| [Ttp Activity in Khost-paktika, Afghanistan January 1, 2022, To May 24, 2023](https://understandingwar.org/map/ttp-activity-in-khost-paktika-afghanistan-january-1-2022-to-may-24-2023/) | 2022-01-01 → 2023-05-24 | 2023-05-26 | event_points | 6 (6) | 13 | 7.3 |
+| [Ttp Activity in Kunar Province, Afghanistan January 1, 2022, To May 24, 2023](https://understandingwar.org/map/ttp-activity-in-kunar-province-afghanistan-january-1-2022-to-may-24-2023/) | 2022-01-01 → 2023-05-24 | 2023-05-26 | event_points | 11 (11) | 10 | 7.5 |
+| [Iskp Attacks and Taliban and Pakistani Security Operations Against ISKP in Afghanistan and Pakistan May 28, 2023 To June 6, 2023](https://understandingwar.org/map/iskp-attacks-and-taliban-and-pakistani-security-operations-against-iskp-in-afghanistan-and-pakistan-may-28-2023-to-june-6-2023/) | 2023-05-28 → 2023-06-06 | June 9, 2023 | event_points | 5 (5) | 5 | 8.3 |
+| [Ttp Attacks and Pakistani Operations Against the TTP May 8, 2023–june 8, 2023](https://understandingwar.org/map/ttp-attacks-and-pakistani-operations-against-the-ttp-may-8-2023-june-8-2023/) | 2023-05-08 → 2023-06-08 | June 9, 2023 | event_points | 42 (42) | 5 | 18.9 |
+| [Ttp Activity in Afghanistan and Attacks in Pakistan June 1–june 28, 2023](https://understandingwar.org/map/ttp-activity-in-afghanistan-and-attacks-in-pakistan-june-1-june-28-2023/) | 2023-06-01 → 2023-06-28 | June 30, 2023 | event_points | 19 (19) | 16 | 5.9 |
+| [Ttp Attacks and Pakistani Operations Against the TTP May 28, 2023–june 28, 2023](https://understandingwar.org/map/ttp-attacks-and-pakistani-operations-against-the-ttp-may-28-2023-june-28-2023/) | 2023-05-28 → 2023-06-28 | June 30, 2023 | event_points | 69 (69) | 6 | 31.4 |
+| [Ttp Attacks and Pakistani Operations Against the TTP June 19, 2023–july 19, 2023](https://understandingwar.org/map/ttp-attacks-and-pakistani-operations-against-the-ttp-june-19-2023-july-19-2023/) | 2023-06-19 → 2023-07-19 | July 21, 2023 | event_points | 76 (76) | 6 | 40.4 |
+| [Ttp Activity in Afghanistan and Attacks in Northwestern Pakistan June 1–july 26, 2023](https://understandingwar.org/map/ttp-activity-in-afghanistan-and-attacks-in-northwestern-pakistan-june-1-july-26-2023/) | 2023-06-01 → 2023-07-26 | July 27, 2023 | event_points | 48 (48) | 6 | 9.1 |
+| [Taliban-announced Mining Projects in Afghanistan September 6, 2023](https://understandingwar.org/map/taliban-announced-mining-projects-in-afghanistan-september-6-2023/) | 2023-09-06 | September 8, 2023 | thematic | 4 (2) | 0 | — |
+| [Claimed TTP Attacks and Clashes With Pakistani Security Forces in Chitral District September 6, 2023–september 11, 2023](https://understandingwar.org/map/claimed-ttp-attacks-and-clashes-with-pakistani-security-forces-in-chitral-district-september-6-2023-september-11-2023/) | 2023-09-06 → 2023-09-11 | September 15, 2023 | event_points | 7 (7) | 3 | 0.0 |
+| [Major Military Bases in Pakistan Relative To Chitral District, Pakistan](https://understandingwar.org/map/major-military-bases-in-pakistan-relative-to-chitral-district-pakistan/) | 2023-09-14 | September 15, 2023 | force_disposition | 34 (1) | 0 | — |
+| [Haqqani Network–affiliated Governors in Afghanistan September 20, 2023](https://understandingwar.org/map/haqqani-network-affiliated-governors-in-afghanistan-september-20-2023/) | 2023-09-20 | September 29, 2023 | thematic | 4 (4) | 4 | 3.2 |
+| [Iskp and ISPP Attacks in Pakistan Between January 2022 and September 2023](https://understandingwar.org/map/iskp-and-ispp-attacks-in-pakistan-between-january-2022-and-september-2023/) | 2022-01-01 → 2023-09-30 | October 6, 2023 | event_points | 27 (27) | 4 | 11.0 |
+| [Ttp Attacks and Locations of Deportations of Afghan Refugees in Pakistan Between August and October 2023](https://understandingwar.org/map/ttp-attacks-and-locations-of-deportations-of-afghan-refugees-in-pakistan-between-august-and-october-2023/) | 2023-08-01 → 2023-10-31 | October 13, 2023 | event_points | 56 (56) | 4 | 11.6 |
+| [Satellite View of Miram Shah, The Headquarters of North Waziristan](https://understandingwar.org/map/satellite-view/) |  | 2025-05-15 | reference | 1 (1) | 0 | — |
+
+**58 maps · 1986 plots · 1930 geocoded** · map_text rows: 601 · place_coords: 95
+
+Plots by event_type: attack 830, control 327, presence 181, support_zone 122, security_operation 109, contested 94, base 67, hq 64, other 51, operation 48, protest 34, closure 22, activity 13, supply_zone 7, sanctuary 4, mining_project 4, infiltration route 3, governor_appointment 3, deportation 2, clash 1

@@ -35,7 +35,7 @@ def eid(kind, name, dataset="real"):
     return f"{'S' if dataset=='synthetic' else ''}{p}-{h}"
 
 def main():
-    ap = argparse.ArgumentParser(); ap.add_argument("--synthetic", nargs="*", default=[]); a = ap.parse_args()
+    ap = argparse.ArgumentParser(); ap.add_argument("--synthetic", nargs="*", default=[]); ap.add_argument("--no-isw", action="store_true"); a = ap.parse_args()
     R = Resolver()
     os.makedirs(f"{ROOT}/db/exports", exist_ok=True)
     dbp = f"{ROOT}/db/afpak.sqlite"
@@ -140,6 +140,9 @@ def main():
         for al in r["aliases"]:
             con.execute("INSERT OR IGNORE INTO aliases VALUES(?,?,?)", (i, al, "extraction"))
     con.commit()
+    if os.path.isdir(f"{ROOT}/isw/maps") and not a.no_isw:
+        from build_isw_db import load_isw, export_isw
+        load_isw(con, R)
 
     # exports
     def dump(q, name):
@@ -164,7 +167,9 @@ def main():
     for r in con.execute("SELECT entity_id, org_id, count(DISTINCT episode_idx), group_concat(DISTINCT episode_idx) FROM memberships GROUP BY entity_id, org_id"):
         edges.append(dict(source=r[0], target=r[1], type="member_of", n=r[2], episodes=[int(x) for x in str(r[3] or "").split(",") if x not in ("", "None")], confidence="stated", detail=None))
     json.dump({"nodes": nodes, "edges": edges}, open(f"{ROOT}/db/exports/graph.json", "w"), indent=0, ensure_ascii=False)
+    if os.path.isdir(f"{ROOT}/isw/maps") and not a.no_isw: export_isw(con, f"{ROOT}/db/exports")
     n = {k: con.execute(f"SELECT count(*) FROM {k}").fetchone()[0] for k in ["episodes","entities","aliases","relationships","events","mentions","memberships"]}
+    if not a.no_isw: n.update({k: con.execute(f"SELECT count(*) FROM {k}").fetchone()[0] for k in ["map_sources","map_plots","place_coords"]})
     print(n); print({k: v for k, v in con.execute("SELECT kind, count(*) FROM entities GROUP BY kind")})
 
 if __name__ == "__main__":

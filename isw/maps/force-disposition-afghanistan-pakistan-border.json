@@ -1,0 +1,1489 @@
+{
+ "source": {
+  "slug": "force-disposition-afghanistan-pakistan-border",
+  "url": "https://understandingwar.org/map/force-disposition-afghanistan-pakistan-border/",
+  "title": "Force Disposition: Afghanistan/Pakistan Border",
+  "page_date": "September 23, 2010",
+  "isw_map_id": null,
+  "image_url": null,
+  "image_file": "force-disposition-afghanistan-pakistan-border.png",
+  "tags": [
+   "Afghanistan",
+   "Afghanistan Surge and Drawdown",
+   "Geospatial Intelligence"
+  ]
+ },
+ "map": {
+  "title_on_map": "AFGHANISTAN/PAKISTAN BORDER FORCE DISPOSITION",
+  "subtitle": null,
+  "as_of_date": "2010-09-23",
+  "period_start": null,
+  "period_end": null,
+  "date_precision": "day",
+  "geographic_extent": "Southern and Eastern Afghanistan and western Pakistan border region",
+  "map_type": "force_disposition",
+  "producer": "Institute for the Study of War",
+  "cartographer": null,
+  "caption_text": "Southern and Eastern Afghanistan ORBAT",
+  "notes": "Map shows disposition of ISAF, U.S., and Pakistani forces along the Afghanistan/Pakistan border. Detailed Order of Battle (ORBAT) text is provided on the left side of the map."
+ },
+ "legend": [
+  {
+   "label": "Regional Command East",
+   "symbol": "light blue/teal shaded area",
+   "kind": "area"
+  },
+  {
+   "label": "Regional Command South",
+   "symbol": "pink/purple shaded area",
+   "kind": "area"
+  },
+  {
+   "label": "U.S. & ISAF Forces",
+   "symbol": "blue crossed-swords symbol",
+   "kind": "point"
+  },
+  {
+   "label": "Pakistani Army",
+   "symbol": "green filled rectangle",
+   "kind": "point"
+  },
+  {
+   "label": "Frontier Corps",
+   "symbol": "green rectangle with FC label",
+   "kind": "point"
+  }
+ ],
+ "anchors": [
+  {
+   "name": "KABUL",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 68.0,
+   "y_pct": 27.0
+  },
+  {
+   "name": "KANDAHAR",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 42.0,
+   "y_pct": 75.0
+  },
+  {
+   "name": "GHAZNI",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 57.0,
+   "y_pct": 46.0
+  },
+  {
+   "name": "PAKTIKA",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 63.0,
+   "y_pct": 55.0
+  },
+  {
+   "name": "ZABUL",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 53.0,
+   "y_pct": 61.0
+  },
+  {
+   "name": "URUZGAN",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 43.0,
+   "y_pct": 53.0
+  },
+  {
+   "name": "DAYKUNDI",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 40.0,
+   "y_pct": 43.0
+  },
+  {
+   "name": "WARDAK",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 61.0,
+   "y_pct": 33.0
+  },
+  {
+   "name": "SAMANGAN",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 49.0,
+   "y_pct": 13.0
+  },
+  {
+   "name": "BAGHLAN",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 63.0,
+   "y_pct": 13.0
+  },
+  {
+   "name": "SAR-E-PUL",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 43.0,
+   "y_pct": 20.0
+  },
+  {
+   "name": "BAMYAN",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 35.0,
+   "y_pct": 23.0
+  },
+  {
+   "name": "LOGAR",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 67.0,
+   "y_pct": 36.0
+  },
+  {
+   "name": "AFGHANISTAN",
+   "kind": "country",
+   "country": "AF",
+   "x_pct": 48.0,
+   "y_pct": 40.0
+  },
+  {
+   "name": "PAKISTAN",
+   "kind": "country",
+   "country": "PK",
+   "x_pct": 78.0,
+   "y_pct": 78.0
+  },
+  {
+   "name": "BALOCHISTAN",
+   "kind": "province",
+   "country": "PK",
+   "x_pct": 58.0,
+   "y_pct": 90.0
+  },
+  {
+   "name": "ADMINISTERED",
+   "kind": "region",
+   "country": "PK",
+   "x_pct": 79.0,
+   "y_pct": 52.0
+  },
+  {
+   "name": "Chitral",
+   "kind": "town",
+   "country": "PK",
+   "x_pct": 93.0,
+   "y_pct": 8.0
+  },
+  {
+   "name": "NORTH-W",
+   "kind": "region",
+   "country": "PK",
+   "x_pct": 90.0,
+   "y_pct": 15.0
+  },
+  {
+   "name": "Quetta",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 64.0,
+   "y_pct": 82.0
+  },
+  {
+   "name": "Abdullah",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 44.0,
+   "y_pct": 76.0
+  },
+  {
+   "name": "Pishin",
+   "kind": "town",
+   "country": "PK",
+   "x_pct": 54.0,
+   "y_pct": 80.0
+  },
+  {
+   "name": "Zhob",
+   "kind": "town",
+   "country": "PK",
+   "x_pct": 76.0,
+   "y_pct": 70.0
+  },
+  {
+   "name": "Loralai",
+   "kind": "town",
+   "country": "PK",
+   "x_pct": 70.0,
+   "y_pct": 80.0
+  },
+  {
+   "name": "Sibi",
+   "kind": "town",
+   "country": "PK",
+   "x_pct": 62.0,
+   "y_pct": 88.0
+  },
+  {
+   "name": "Kohlu",
+   "kind": "town",
+   "country": "PK",
+   "x_pct": 72.0,
+   "y_pct": 88.0
+  },
+  {
+   "name": "Ziarat",
+   "kind": "town",
+   "country": "PK",
+   "x_pct": 62.0,
+   "y_pct": 83.0
+  },
+  {
+   "name": "Shorawak",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 42.0,
+   "y_pct": 84.0
+  },
+  {
+   "name": "Chaman",
+   "kind": "town",
+   "country": "PK",
+   "x_pct": 47.0,
+   "y_pct": 76.0
+  },
+  {
+   "name": "Mastung",
+   "kind": "town",
+   "country": "PK",
+   "x_pct": 56.0,
+   "y_pct": 88.0
+  },
+  {
+   "name": "Registan",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 35.0,
+   "y_pct": 88.0
+  },
+  {
+   "name": "Saifullah",
+   "kind": "town",
+   "country": "PK",
+   "x_pct": 69.0,
+   "y_pct": 76.0
+  },
+  {
+   "name": "Musakhel",
+   "kind": "town",
+   "country": "PK",
+   "x_pct": 68.0,
+   "y_pct": 72.0
+  },
+  {
+   "name": "Mianwali",
+   "kind": "town",
+   "country": "PK",
+   "x_pct": 92.0,
+   "y_pct": 55.0
+  },
+  {
+   "name": "Dera",
+   "kind": "town",
+   "country": "PK",
+   "x_pct": 84.0,
+   "y_pct": 80.0
+  },
+  {
+   "name": "Bhakkar",
+   "kind": "town",
+   "country": "PK",
+   "x_pct": 96.0,
+   "y_pct": 65.0
+  },
+  {
+   "name": "Mardan",
+   "kind": "town",
+   "country": "PK",
+   "x_pct": 90.0,
+   "y_pct": 30.0
+  },
+  {
+   "name": "PAKTYA",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 72.0,
+   "y_pct": 42.0
+  },
+  {
+   "name": "Spin Boldak",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 50.0,
+   "y_pct": 72.0
+  },
+  {
+   "name": "Zhari",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 38.0,
+   "y_pct": 78.0
+  },
+  {
+   "name": "Maywand",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 32.0,
+   "y_pct": 80.0
+  },
+  {
+   "name": "Dand",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 42.0,
+   "y_pct": 72.0
+  },
+  {
+   "name": "Panjwayi",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 40.0,
+   "y_pct": 74.0
+  },
+  {
+   "name": "HOR",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 38.0,
+   "y_pct": 35.0
+  },
+  {
+   "name": "KHOST",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 77.0,
+   "y_pct": 44.0
+  },
+  {
+   "name": "Bagram",
+   "kind": "base",
+   "country": "AF",
+   "x_pct": 64.0,
+   "y_pct": 23.0
+  },
+  {
+   "name": "Kandahar Airfield",
+   "kind": "base",
+   "country": "AF",
+   "x_pct": 43.0,
+   "y_pct": 72.0
+  }
+ ],
+ "plots": [
+  {
+   "legend_class": "U.S. & ISAF Forces",
+   "marker": "point",
+   "x_pct": 64.0,
+   "y_pct": 23.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Bagram",
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "ISAF",
+    "U.S. Forces"
+   ],
+   "event_type": "base",
+   "date": null,
+   "description": "U.S./ISAF forces positioned at Bagram Airfield area",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "U.S. & ISAF Forces",
+   "marker": "point",
+   "x_pct": 68.0,
+   "y_pct": 27.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Kabul",
+   "admin_area": "Kabul",
+   "country": "AF",
+   "actors": [
+    "ISAF",
+    "U.S. Forces"
+   ],
+   "event_type": "base",
+   "date": null,
+   "description": "U.S./ISAF forces positioned near Kabul",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "U.S. & ISAF Forces",
+   "marker": "point",
+   "x_pct": 62.0,
+   "y_pct": 33.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Wardak",
+   "country": "AF",
+   "actors": [
+    "ISAF",
+    "U.S. Forces"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "U.S./ISAF forces positioned in Wardak province",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "U.S. & ISAF Forces",
+   "marker": "point",
+   "x_pct": 66.0,
+   "y_pct": 33.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Wardak",
+   "country": "AF",
+   "actors": [
+    "ISAF",
+    "U.S. Forces"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "U.S./ISAF forces positioned in Wardak province",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "U.S. & ISAF Forces",
+   "marker": "point",
+   "x_pct": 67.0,
+   "y_pct": 37.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Logar",
+   "country": "AF",
+   "actors": [
+    "ISAF",
+    "U.S. Forces"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "U.S./ISAF forces positioned in Logar province",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "U.S. & ISAF Forces",
+   "marker": "point",
+   "x_pct": 57.0,
+   "y_pct": 43.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Ghazni",
+   "country": "AF",
+   "actors": [
+    "ISAF",
+    "U.S. Forces"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "U.S./ISAF forces positioned in Ghazni province",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "U.S. & ISAF Forces",
+   "marker": "point",
+   "x_pct": 60.0,
+   "y_pct": 46.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Ghazni",
+   "country": "AF",
+   "actors": [
+    "ISAF",
+    "U.S. Forces"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "U.S./ISAF forces positioned in Ghazni province",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "U.S. & ISAF Forces",
+   "marker": "point",
+   "x_pct": 72.0,
+   "y_pct": 38.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Paktya",
+   "country": "AF",
+   "actors": [
+    "ISAF",
+    "U.S. Forces"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "U.S./ISAF forces positioned in Paktya province",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "U.S. & ISAF Forces",
+   "marker": "point",
+   "x_pct": 74.0,
+   "y_pct": 35.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Paktya",
+   "country": "AF",
+   "actors": [
+    "ISAF",
+    "U.S. Forces"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "U.S./ISAF forces positioned in Paktya province",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "U.S. & ISAF Forces",
+   "marker": "point",
+   "x_pct": 77.0,
+   "y_pct": 43.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khost",
+   "country": "AF",
+   "actors": [
+    "ISAF",
+    "U.S. Forces"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "U.S./ISAF forces positioned in Khost province",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "U.S. & ISAF Forces",
+   "marker": "point",
+   "x_pct": 70.0,
+   "y_pct": 48.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Paktika",
+   "country": "AF",
+   "actors": [
+    "ISAF",
+    "U.S. Forces"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "U.S./ISAF forces positioned in Paktika province",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "U.S. & ISAF Forces",
+   "marker": "point",
+   "x_pct": 66.0,
+   "y_pct": 50.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Paktika",
+   "country": "AF",
+   "actors": [
+    "ISAF",
+    "U.S. Forces"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "U.S./ISAF forces positioned in Paktika province",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "U.S. & ISAF Forces",
+   "marker": "point",
+   "x_pct": 64.0,
+   "y_pct": 53.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Paktika",
+   "country": "AF",
+   "actors": [
+    "ISAF",
+    "U.S. Forces"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "U.S./ISAF forces in eastern Paktika",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "U.S. & ISAF Forces",
+   "marker": "point",
+   "x_pct": 55.0,
+   "y_pct": 52.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Zabul",
+   "country": "AF",
+   "actors": [
+    "ISAF",
+    "U.S. Forces"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "U.S./ISAF forces positioned in Zabul province",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "U.S. & ISAF Forces",
+   "marker": "point",
+   "x_pct": 54.0,
+   "y_pct": 58.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Zabul",
+   "country": "AF",
+   "actors": [
+    "ISAF",
+    "U.S. Forces"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "U.S./ISAF forces positioned in Zabul province",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "U.S. & ISAF Forces",
+   "marker": "point",
+   "x_pct": 56.0,
+   "y_pct": 62.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Zabul",
+   "country": "AF",
+   "actors": [
+    "ISAF",
+    "U.S. Forces"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "U.S./ISAF forces positioned in Zabul province",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "U.S. & ISAF Forces",
+   "marker": "point",
+   "x_pct": 50.0,
+   "y_pct": 63.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Zabul",
+   "country": "AF",
+   "actors": [
+    "ISAF",
+    "U.S. Forces"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "U.S./ISAF forces in Zabul",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "U.S. & ISAF Forces",
+   "marker": "point",
+   "x_pct": 43.0,
+   "y_pct": 72.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Kandahar Airfield",
+   "admin_area": "Kandahar",
+   "country": "AF",
+   "actors": [
+    "ISAF",
+    "U.S. Forces"
+   ],
+   "event_type": "base",
+   "date": null,
+   "description": "U.S./ISAF forces at Kandahar Airfield",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "U.S. & ISAF Forces",
+   "marker": "point",
+   "x_pct": 42.0,
+   "y_pct": 68.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Dand",
+   "admin_area": "Kandahar",
+   "country": "AF",
+   "actors": [
+    "ISAF",
+    "U.S. Forces"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "U.S./ISAF forces operating in Dand district",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "U.S. & ISAF Forces",
+   "marker": "point",
+   "x_pct": 39.0,
+   "y_pct": 74.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Panjwayi",
+   "admin_area": "Kandahar",
+   "country": "AF",
+   "actors": [
+    "ISAF",
+    "U.S. Forces"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "U.S./ISAF forces operating in Panjwayi district",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "U.S. & ISAF Forces",
+   "marker": "point",
+   "x_pct": 38.0,
+   "y_pct": 78.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Zhari",
+   "admin_area": "Kandahar",
+   "country": "AF",
+   "actors": [
+    "ISAF",
+    "U.S. Forces"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "U.S./ISAF forces operating in Zhari district",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "U.S. & ISAF Forces",
+   "marker": "point",
+   "x_pct": 34.0,
+   "y_pct": 80.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Maywand",
+   "admin_area": "Kandahar",
+   "country": "AF",
+   "actors": [
+    "ISAF",
+    "U.S. Forces"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "U.S./ISAF forces operating in Maywand district",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "U.S. & ISAF Forces",
+   "marker": "point",
+   "x_pct": 50.0,
+   "y_pct": 72.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Spin Boldak",
+   "admin_area": "Kandahar",
+   "country": "AF",
+   "actors": [
+    "ISAF",
+    "U.S. Forces"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "U.S./ISAF forces near Spin Boldak",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "U.S. & ISAF Forces",
+   "marker": "point",
+   "x_pct": 47.0,
+   "y_pct": 70.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Kandahar",
+   "country": "AF",
+   "actors": [
+    "ISAF",
+    "U.S. Forces"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "U.S./ISAF forces in Kandahar province",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "U.S. & ISAF Forces",
+   "marker": "point",
+   "x_pct": 44.0,
+   "y_pct": 54.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Uruzgan",
+   "country": "AF",
+   "actors": [
+    "ISAF",
+    "U.S. Forces"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "U.S./ISAF forces positioned in Uruzgan province",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "U.S. & ISAF Forces",
+   "marker": "point",
+   "x_pct": 80.0,
+   "y_pct": 18.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "ISAF",
+    "U.S. Forces"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "U.S./ISAF forces in northeastern Afghanistan",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "U.S. & ISAF Forces",
+   "marker": "point",
+   "x_pct": 83.0,
+   "y_pct": 22.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Kunar",
+   "country": "AF",
+   "actors": [
+    "ISAF",
+    "U.S. Forces"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "U.S./ISAF forces in Kunar/Nuristan area",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "U.S. & ISAF Forces",
+   "marker": "point",
+   "x_pct": 82.0,
+   "y_pct": 27.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Laghman",
+   "country": "AF",
+   "actors": [
+    "ISAF",
+    "U.S. Forces"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "U.S./ISAF forces in Laghman province",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "U.S. & ISAF Forces",
+   "marker": "point",
+   "x_pct": 78.0,
+   "y_pct": 30.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "ISAF",
+    "U.S. Forces"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "U.S./ISAF forces in eastern Afghanistan",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "U.S. & ISAF Forces",
+   "marker": "point",
+   "x_pct": 86.0,
+   "y_pct": 16.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Nuristan",
+   "country": "AF",
+   "actors": [
+    "ISAF",
+    "U.S. Forces"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "U.S./ISAF forces in Nuristan province",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Frontier Corps",
+   "marker": "point",
+   "x_pct": 87.0,
+   "y_pct": 13.0,
+   "extent_pct": null,
+   "label": "FC",
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "Frontier Corps"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "Frontier Corps positioned in northwestern Pakistan",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Frontier Corps",
+   "marker": "point",
+   "x_pct": 77.0,
+   "y_pct": 35.0,
+   "extent_pct": null,
+   "label": "FC",
+   "place_name": null,
+   "admin_area": "FATA",
+   "country": "PK",
+   "actors": [
+    "Frontier Corps"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "Frontier Corps in FATA region",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Frontier Corps",
+   "marker": "point",
+   "x_pct": 80.0,
+   "y_pct": 42.0,
+   "extent_pct": null,
+   "label": "FC",
+   "place_name": null,
+   "admin_area": "FATA",
+   "country": "PK",
+   "actors": [
+    "Frontier Corps"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "Frontier Corps in FATA region near Khost",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Frontier Corps",
+   "marker": "point",
+   "x_pct": 75.0,
+   "y_pct": 48.0,
+   "extent_pct": null,
+   "label": "FC",
+   "place_name": null,
+   "admin_area": "FATA",
+   "country": "PK",
+   "actors": [
+    "Frontier Corps"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "Frontier Corps in FATA tribal areas",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Frontier Corps",
+   "marker": "point",
+   "x_pct": 58.0,
+   "y_pct": 84.0,
+   "extent_pct": null,
+   "label": "FC",
+   "place_name": null,
+   "admin_area": "Balochistan",
+   "country": "PK",
+   "actors": [
+    "Frontier Corps"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "Frontier Corps in Balochistan",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Frontier Corps",
+   "marker": "point",
+   "x_pct": 66.0,
+   "y_pct": 62.0,
+   "extent_pct": null,
+   "label": "FC",
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "Frontier Corps"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "Frontier Corps in western Pakistan",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Pakistani Army",
+   "marker": "point",
+   "x_pct": 67.0,
+   "y_pct": 63.0,
+   "extent_pct": null,
+   "label": "HQ",
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "Pakistani Army"
+   ],
+   "event_type": "hq",
+   "date": null,
+   "description": "Pakistani Army headquarters location",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Pakistani Army",
+   "marker": "point",
+   "x_pct": 75.0,
+   "y_pct": 60.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "Pakistani Army"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "Pakistani Army forces positioned in western Pakistan",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Pakistani Army",
+   "marker": "point",
+   "x_pct": 82.0,
+   "y_pct": 62.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "Pakistani Army"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "Pakistani Army forces in Pakistan",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Pakistani Army",
+   "marker": "point",
+   "x_pct": 87.0,
+   "y_pct": 38.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "Pakistani Army"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "Pakistani Army forces in NWFP/FATA region",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Pakistani Army",
+   "marker": "point",
+   "x_pct": 90.0,
+   "y_pct": 28.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "Pakistani Army"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "Pakistani Army forces in northern Pakistan",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Regional Command East",
+   "marker": "area",
+   "x_pct": 70.0,
+   "y_pct": 35.0,
+   "extent_pct": 15.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "ISAF",
+    "U.S. Forces"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Regional Command East area of responsibility covering eastern Afghanistan provinces",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Regional Command South",
+   "marker": "area",
+   "x_pct": 47.0,
+   "y_pct": 68.0,
+   "extent_pct": 18.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "ISAF",
+    "U.S. Forces"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Regional Command South area of responsibility covering southern Afghanistan provinces",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "U.S. & ISAF Forces",
+   "marker": "point",
+   "x_pct": 85.0,
+   "y_pct": 34.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "ISAF",
+    "U.S. Forces"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "U.S./ISAF forces near the eastern border",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Frontier Corps",
+   "marker": "point",
+   "x_pct": 82.0,
+   "y_pct": 48.0,
+   "extent_pct": null,
+   "label": "FC",
+   "place_name": null,
+   "admin_area": "FATA",
+   "country": "PK",
+   "actors": [
+    "Frontier Corps"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "Frontier Corps presence in tribal areas",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Pakistani Army",
+   "marker": "point",
+   "x_pct": 88.0,
+   "y_pct": 44.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "Pakistani Army"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "Pakistani Army forces in Pakistan",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "U.S. & ISAF Forces",
+   "marker": "point",
+   "x_pct": 45.0,
+   "y_pct": 62.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Kandahar",
+   "country": "AF",
+   "actors": [
+    "ISAF",
+    "U.S. Forces"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "U.S./ISAF forces in northern Kandahar",
+   "confidence": "low"
+  },
+  {
+   "legend_class": "U.S. & ISAF Forces",
+   "marker": "point",
+   "x_pct": 36.0,
+   "y_pct": 76.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Arghandab",
+   "admin_area": "Kandahar",
+   "country": "AF",
+   "actors": [
+    "ISAF",
+    "U.S. Forces"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "U.S./ISAF forces in Arghandab district",
+   "confidence": "medium"
+  }
+ ],
+ "named_persons": [
+  {
+   "name": "Maj. Gen. John Campbell",
+   "role": "Commander, Regional Command East",
+   "affiliation": "101st Airborne Division, USA",
+   "place": "Bagram Airfield",
+   "x_pct": null,
+   "y_pct": null
+  },
+  {
+   "name": "Col. Don Bolduc",
+   "role": "Commander, Special Operations Task Force",
+   "affiliation": "USA",
+   "place": null,
+   "x_pct": null,
+   "y_pct": null
+  },
+  {
+   "name": "Col. Andrew Poppas",
+   "role": "Commander, Task Force Bastogne",
+   "affiliation": "1st BCT, 101st Airborne Division, USA",
+   "place": null,
+   "x_pct": null,
+   "y_pct": null
+  },
+  {
+   "name": "Col. James Johnson",
+   "role": "Commander, Task Force Bayonet",
+   "affiliation": "173rd Airborne BCT, USA",
+   "place": "Logar",
+   "x_pct": null,
+   "y_pct": null
+  },
+  {
+   "name": "Col. Viet Luong",
+   "role": "Commander, Task Force Rakkasan",
+   "affiliation": "3rd BCT, 101st Airborne Division, USA",
+   "place": "Khost",
+   "x_pct": null,
+   "y_pct": null
+  },
+  {
+   "name": "Maj. Gen. Nick Carter",
+   "role": "Commander, Regional Command South / 6th Division",
+   "affiliation": "UK",
+   "place": "Kandahar Airfield",
+   "x_pct": null,
+   "y_pct": null
+  },
+  {
+   "name": "Col. Don Bolduc",
+   "role": "Commander, Combined Team Uruzgan",
+   "affiliation": "USA",
+   "place": null,
+   "x_pct": null,
+   "y_pct": null
+  },
+  {
+   "name": "Col. James Blackburn",
+   "role": "Commander, Combined Team Zabul / 2nd Stryker Cavalry Regiment",
+   "affiliation": "USA",
+   "place": "Zabul",
+   "x_pct": null,
+   "y_pct": null
+  },
+  {
+   "name": "Brig. Gen. Jon Vance",
+   "role": "Commander, Task Force Kandahar / Task Force 1-10",
+   "affiliation": "KAF, Canada",
+   "place": "Kandahar",
+   "x_pct": null,
+   "y_pct": null
+  },
+  {
+   "name": "Col. Jim Edwards",
+   "role": "Commander, Task Force Lightning (Spin Boldak) / 525th Battlefield Surveillance Brigade",
+   "affiliation": "USA",
+   "place": "Spin Boldak",
+   "x_pct": null,
+   "y_pct": null
+  },
+  {
+   "name": "Col. Jeff Martindale",
+   "role": "Commander, Task Force Raider / 1st BCT, 4th Infantry Division",
+   "affiliation": "USA",
+   "place": "Kandahar city",
+   "x_pct": null,
+   "y_pct": null
+  },
+  {
+   "name": "Col. Art Kandarian",
+   "role": "Commander, Task Force Strike (Zhari) / 2nd BCT, 101st Airborne Division",
+   "affiliation": "USA",
+   "place": "Zhari",
+   "x_pct": null,
+   "y_pct": null
+  }
+ ],
+ "named_orgs": [
+  "Institute for the Study of War",
+  "101st Airborne Division",
+  "Regional Command East",
+  "Regional Command South",
+  "Special Operations Task Force",
+  "Task Force Bastogne",
+  "1st BCT, 101st Airborne Division",
+  "Task Force Bayonet",
+  "173rd Airborne BCT",
+  "Task Force Rakkasan",
+  "3rd BCT, 101st Airborne Division",
+  "1-33 Cavalry",
+  "3-172 Mountain Infantry",
+  "1-187 Infantry",
+  "3-187 Infantry",
+  "1-91 Airborne Cavalry",
+  "1-503 Airborne Infantry",
+  "2-503 Airborne Infantry",
+  "1-32 Cavalry",
+  "1-102 Infantry",
+  "1-327 Infantry",
+  "2-327 Infantry",
+  "6th Division",
+  "Combined Team Uruzgan",
+  "Combined Team Zabul",
+  "2nd Stryker Cavalry Regiment",
+  "2/2 Stryker Cavalry",
+  "Romanian-American Battalion",
+  "812th Infantry Battalion (Romania)",
+  "Romanian Battalion",
+  "Task Force Kandahar (KAF)",
+  "Task Force 1-10",
+  "1-71 Cavalry",
+  "1 Royal Canadian Regiment",
+  "Task Force Lightning",
+  "525th Battlefield Surveillance Brigade",
+  "4/2 Stryker Cavalry",
+  "1-38 Cavalry",
+  "Task Force Raider",
+  "1st BCT, 4th Infantry Division",
+  "1-22 Infantry",
+  "Task Force Strike",
+  "2nd BCT, 101st Airborne Division",
+  "3/2 Stryker Cavalry",
+  "1-66 Armor",
+  "1-75 Cavalry",
+  "1-502 Infantry",
+  "2-502 Infantry",
+  "U.S. & ISAF Forces",
+  "Pakistani Army",
+  "Frontier Corps"
+ ],
+ "text_blocks": [
+  "Southern and Eastern Afghanistan ORBAT",
+  "Regional Command (East) / 101st Airborne Division (Maj. Gen. John Campbell, USA) – Bagram Airfield",
+  "(Special Operations Task Force (USA) – operating in eastern Afghanistan (Col. Don Bolduc, USA))",
+  "Task Force Bastogne (Jalalabad) / 1st BCT, 101st Airborne Division (Col. Andrew Poppas, USA) – responsible for Kunar, Laghman, Nangarhar, and Nuristan provinces ('N2KL')",
+  "1-32 Cavalry- operating in Nuristan and northern Kunar",
+  "1-102 Infantry- operating in Laghman",
+  "1-327 Infantry- operating in western Kunar",
+  "2-327 Infantry- operating in eastern Kunar",
+  "Task Force Bayonet (Logar) / 173rd Airborne BCT (Col. James Johnson, USA) – responsible for Logar and Wardak provinces",
+  "1-91 Airborne Cavalry- operating in Logar",
+  "1-503 Airborne Infantry- operating in Wardak",
+  "2-503 Airborne Infantry- operating in Wardak",
+  "Task Force Rakkasan (Khost) / 3rd BCT, 101st Airborne Division (Col. Viet Luong, USA) – responsible for Khost, Paktya, and Paktika provinces ('P2K')",
+  "1-33 Cavalry- operating in Khost",
+  "3-172 Mountain Infantry- operating in Paktya",
+  "1-187 Infantry- operating in eastern Paktika",
+  "3-187 Infantry- operating in western Paktika",
+  "Regional Command (South) / 6th Division (Maj. Gen. Nick Carter, UK) – Kandahar Airfield",
+  "Combined Team Uruzgan Task Force (USA) – operating in southern Afghanistan",
+  "(Col. Don Bolduc, USA)",
+  "Combined Team Zabul / 2nd Stryker Cavalry Regiment (Col. James Blackburn, USA) – responsible for Zabul and southeastern Kandahar provinces",
+  "2/2 Stryker Cavalry- operating in Zabul",
+  "Romanian-American Battalion / 812th Infantry Battalion (Romania)- operating on Highway One in Zabul",
+  "Romanian Battalion- operating on Highway One in Zabul",
+  "Task Force Kandahar (KAF) / Task Force 1-10 (Brig. Gen. Jon Vance, Canada) – responsible for Daman, Dand, and Panjwayi districts",
+  "1-71 Cavalry- operating in Dand and Daman",
+  "1 Royal Canadian Regiment- operating in Panjwayi",
+  "Task Force Lightning (Spin Boldak) / 525th Battlefield Surveillance Brigade (Col. Jim Edwards, USA) – responsible for southeastern Kandahar province",
+  "4/2 Stryker Cavalry- operating near Pakistani border",
+  "1-38 Cavalry- operating near Pakistani border",
+  "Task Force Raider / 1st BCT, 4th Infantry Division (Col. Jeff Martindale, USA) – responsible for Kandahar city",
+  "1-22 Infantry- operating in Kandahar city suburbs",
+  "Task Force Strike (Zhari) / 2nd BCT, 101st Airborne Division (Col. Art Kandarian) – responsible for Zhari, Arghandab, and Maywand districts",
+  "3/2 Stryker Cavalry- operating in Maywand",
+  "1-66 Armor- operating in southern Arghandab district",
+  "1-75 Cavalry- operating in south-central Zhari",
+  "1-502 Infantry- operating in eastern Zhari",
+  "2-502 Infantry- operating in western Zhari"
+ ],
+ "_extraction": {
+  "model": "claude-opus-4-6",
+  "n_images": 1,
+  "image_px": [
+   1091,
+   845
+  ],
+  "ts": "2026-10-12T16:56:55Z"
+ }
+}

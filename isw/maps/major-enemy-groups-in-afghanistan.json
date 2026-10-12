@@ -1,0 +1,563 @@
+{
+ "source": {
+  "slug": "major-enemy-groups-in-afghanistan",
+  "url": "https://understandingwar.org/map/major-enemy-groups-in-afghanistan/",
+  "title": "Major Enemy Groups in Afghanistan",
+  "page_date": "August 6, 2009",
+  "isw_map_id": null,
+  "image_url": null,
+  "image_file": "major-enemy-groups-in-afghanistan.jpg",
+  "tags": [
+   "Afghanistan",
+   "Afghanistan US Withdrawal and Aftermath",
+   "Geospatial Intelligence"
+  ]
+ },
+ "map": {
+  "title_on_map": "MAJOR ENEMY GROUPS",
+  "subtitle": null,
+  "as_of_date": "2009-08-06",
+  "period_start": null,
+  "period_end": null,
+  "date_precision": "day",
+  "geographic_extent": "Afghanistan and border regions of Pakistan",
+  "map_type": "force_disposition",
+  "producer": "Joint Product of The Institute for the Study of War and the American Enterprise Institute",
+  "cartographer": null,
+  "caption_text": "Joint Product of The Institute for the Study of War and the American Enterprise Institute",
+  "notes": "Map indicates major enemy groups and their areas of operation within the four ISAF Regional Commands in Afghanistan. Legend distinguishes Afghanistan-focused and Pakistan-focused groups."
+ },
+ "legend": [
+  {
+   "label": "Afghanistan focused",
+   "symbol": "blue shaded area",
+   "kind": "area"
+  },
+  {
+   "label": "Pakistan focused",
+   "symbol": "yellow/olive shaded area",
+   "kind": "area"
+  }
+ ],
+ "anchors": [
+  {
+   "name": "TURKMENISTAN",
+   "kind": "country",
+   "country": "TM",
+   "x_pct": 7.0,
+   "y_pct": 7.0
+  },
+  {
+   "name": "UZBEKISTAN",
+   "kind": "country",
+   "country": "UZ",
+   "x_pct": 30.0,
+   "y_pct": 3.0
+  },
+  {
+   "name": "Tajikistan",
+   "kind": "country",
+   "country": "TJ",
+   "x_pct": 90.0,
+   "y_pct": 7.0
+  },
+  {
+   "name": "IRAN",
+   "kind": "country",
+   "country": "IR",
+   "x_pct": 2.0,
+   "y_pct": 55.0
+  },
+  {
+   "name": "Pakistan",
+   "kind": "country",
+   "country": "PK",
+   "x_pct": 65.0,
+   "y_pct": 62.0
+  },
+  {
+   "name": "BADGHIS",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 14.0,
+   "y_pct": 27.0
+  },
+  {
+   "name": "HIRAT",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 10.0,
+   "y_pct": 42.0
+  },
+  {
+   "name": "FARAH",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 18.0,
+   "y_pct": 55.0
+  },
+  {
+   "name": "NIMROZ",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 22.0,
+   "y_pct": 72.0
+  },
+  {
+   "name": "HILMAND",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 35.0,
+   "y_pct": 68.0
+  },
+  {
+   "name": "GHOR",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 28.0,
+   "y_pct": 38.0
+  },
+  {
+   "name": "SAR-I PUL",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 30.0,
+   "y_pct": 22.0
+  },
+  {
+   "name": "FARYAB",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 20.0,
+   "y_pct": 15.0
+  },
+  {
+   "name": "JOWZJAN",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 28.0,
+   "y_pct": 12.0
+  },
+  {
+   "name": "URUZGAN",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 42.0,
+   "y_pct": 52.0
+  },
+  {
+   "name": "DAY KUNDI",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 37.0,
+   "y_pct": 42.0
+  },
+  {
+   "name": "KANDAHAR",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 48.0,
+   "y_pct": 63.0
+  },
+  {
+   "name": "ZABUL",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 52.0,
+   "y_pct": 55.0
+  },
+  {
+   "name": "GHAZNI",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 52.0,
+   "y_pct": 45.0
+  },
+  {
+   "name": "PAKTIKA",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 60.0,
+   "y_pct": 50.0
+  },
+  {
+   "name": "BAMYAN",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 42.0,
+   "y_pct": 30.0
+  },
+  {
+   "name": "WARDAK",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 52.0,
+   "y_pct": 35.0
+  },
+  {
+   "name": "BALKH",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 37.0,
+   "y_pct": 12.0
+  },
+  {
+   "name": "SAMANGAN",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 42.0,
+   "y_pct": 17.0
+  },
+  {
+   "name": "BAGHLAN",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 50.0,
+   "y_pct": 17.0
+  },
+  {
+   "name": "KUNDUZ",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 52.0,
+   "y_pct": 10.0
+  },
+  {
+   "name": "TAKHAR",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 60.0,
+   "y_pct": 10.0
+  },
+  {
+   "name": "BADAKHSHAN",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 72.0,
+   "y_pct": 10.0
+  },
+  {
+   "name": "PANJSHIR",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 58.0,
+   "y_pct": 22.0
+  },
+  {
+   "name": "KAPISA",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 60.0,
+   "y_pct": 27.0
+  },
+  {
+   "name": "KABUL",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 58.0,
+   "y_pct": 33.0
+  },
+  {
+   "name": "LOGAR",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 58.0,
+   "y_pct": 40.0
+  },
+  {
+   "name": "PAKTYA",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 62.0,
+   "y_pct": 43.0
+  },
+  {
+   "name": "KHOST",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 67.0,
+   "y_pct": 43.0
+  },
+  {
+   "name": "NANGARHAR",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 70.0,
+   "y_pct": 35.0
+  },
+  {
+   "name": "LAGHMAN",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 65.0,
+   "y_pct": 30.0
+  },
+  {
+   "name": "KUNAR",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 72.0,
+   "y_pct": 27.0
+  },
+  {
+   "name": "NURISTAN",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 68.0,
+   "y_pct": 22.0
+  },
+  {
+   "name": "PARWAN",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 55.0,
+   "y_pct": 27.0
+  }
+ ],
+ "plots": [
+  {
+   "legend_class": "Afghanistan focused",
+   "marker": "area",
+   "x_pct": 40.0,
+   "y_pct": 60.0,
+   "extent_pct": 25.0,
+   "label": "Quetta Shura Taliban\nMullah Omar",
+   "place_name": null,
+   "admin_area": "Kandahar/Hilmand/Zabul/Uruzgan/Ghazni/Farah",
+   "country": "AF",
+   "actors": [
+    "Quetta Shura Taliban",
+    "Mullah Omar"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "Quetta Shura Taliban under Mullah Omar area of operations spanning southern and western Afghanistan.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Afghanistan focused",
+   "marker": "area",
+   "x_pct": 65.0,
+   "y_pct": 42.0,
+   "extent_pct": 10.0,
+   "label": "Haqqani Network\nJalaluddin Haqqani\nSirajuddin Haqqani",
+   "place_name": null,
+   "admin_area": "Paktya/Paktika/Khost",
+   "country": "AF",
+   "actors": [
+    "Haqqani Network",
+    "Jalaluddin Haqqani",
+    "Sirajuddin Haqqani"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "Haqqani Network under Jalaluddin and Sirajuddin Haqqani operating in eastern Afghanistan provinces of Paktya, Paktika, and Khost.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Afghanistan focused",
+   "marker": "area",
+   "x_pct": 80.0,
+   "y_pct": 38.0,
+   "extent_pct": 8.0,
+   "label": "Hizb-e Islami Gulbuddin\nGulbuddin Hekmatyar",
+   "place_name": null,
+   "admin_area": "Nangarhar/Kunar/Nuristan/Laghman/Kapisa",
+   "country": "AF",
+   "actors": [
+    "Hizb-e Islami Gulbuddin",
+    "Gulbuddin Hekmatyar"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "Hizb-e Islami Gulbuddin under Gulbuddin Hekmatyar operating in northeastern Afghanistan.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Afghanistan focused",
+   "marker": "area",
+   "x_pct": 5.0,
+   "y_pct": 20.0,
+   "extent_pct": 5.0,
+   "label": "Iranian Quds Force\nBrig. Gen. Qassem Soleimani",
+   "place_name": null,
+   "admin_area": null,
+   "country": "IR",
+   "actors": [
+    "Iranian Quds Force",
+    "Brig. Gen. Qassem Soleimani"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "Iranian Quds Force under Brig. Gen. Qassem Soleimani indicated as supporting operations from Iran.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Afghanistan focused",
+   "marker": "area",
+   "x_pct": 88.0,
+   "y_pct": 28.0,
+   "extent_pct": 6.0,
+   "label": "Al Qaeda\nOsama bin Laden",
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "Al Qaeda",
+    "Osama bin Laden"
+   ],
+   "event_type": "sanctuary",
+   "date": null,
+   "description": "Al Qaeda under Osama bin Laden sanctuary area along the Afghanistan-Pakistan border region.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Afghanistan focused",
+   "marker": "area",
+   "x_pct": 85.0,
+   "y_pct": 38.0,
+   "extent_pct": 5.0,
+   "label": "Tehrik-e Nafaz-e Shariat-e Mohammadi\nSufi Mohammad",
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "Tehrik-e Nafaz-e Shariat-e Mohammadi",
+    "Sufi Mohammad"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "Tehrik-e Nafaz-e Shariat-e Mohammadi under Sufi Mohammad present in Pakistan border area.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Pakistan focused",
+   "marker": "area",
+   "x_pct": 70.0,
+   "y_pct": 60.0,
+   "extent_pct": 10.0,
+   "label": "Tehrik-e Taliban-e Pakistan\nBeitullah Mehsud (Deceased)",
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "Tehrik-e Taliban-e Pakistan",
+    "Beitullah Mehsud"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "Tehrik-e Taliban-e Pakistan under Beitullah Mehsud (noted as deceased) operating in Pakistan's tribal areas.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Pakistan focused",
+   "marker": "area",
+   "x_pct": 88.0,
+   "y_pct": 67.0,
+   "extent_pct": 6.0,
+   "label": "Lashkar-e Tayyiba",
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "Lashkar-e Tayyiba"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "Lashkar-e Tayyiba area of operations in Pakistan.",
+   "confidence": "high"
+  }
+ ],
+ "named_persons": [
+  {
+   "name": "Mullah Omar",
+   "role": "Leader",
+   "affiliation": "Quetta Shura Taliban",
+   "place": "Quetta",
+   "x_pct": 55.0,
+   "y_pct": 72.0
+  },
+  {
+   "name": "Jalaluddin Haqqani",
+   "role": "Leader",
+   "affiliation": "Haqqani Network",
+   "place": null,
+   "x_pct": 78.0,
+   "y_pct": 53.0
+  },
+  {
+   "name": "Sirajuddin Haqqani",
+   "role": "Leader",
+   "affiliation": "Haqqani Network",
+   "place": null,
+   "x_pct": 78.0,
+   "y_pct": 56.0
+  },
+  {
+   "name": "Gulbuddin Hekmatyar",
+   "role": "Leader",
+   "affiliation": "Hizb-e Islami Gulbuddin",
+   "place": null,
+   "x_pct": 85.0,
+   "y_pct": 47.0
+  },
+  {
+   "name": "Brig. Gen. Qassem Soleimani",
+   "role": "Commander",
+   "affiliation": "Iranian Quds Force",
+   "place": "Iran",
+   "x_pct": 6.0,
+   "y_pct": 22.0
+  },
+  {
+   "name": "Osama bin Laden",
+   "role": "Leader",
+   "affiliation": "Al Qaeda",
+   "place": null,
+   "x_pct": 90.0,
+   "y_pct": 30.0
+  },
+  {
+   "name": "Sufi Mohammad",
+   "role": "Leader",
+   "affiliation": "Tehrik-e Nafaz-e Shariat-e Mohammadi",
+   "place": null,
+   "x_pct": 87.0,
+   "y_pct": 40.0
+  },
+  {
+   "name": "Beitullah Mehsud",
+   "role": "Leader (Deceased)",
+   "affiliation": "Tehrik-e Taliban-e Pakistan",
+   "place": null,
+   "x_pct": 72.0,
+   "y_pct": 62.0
+  }
+ ],
+ "named_orgs": [
+  "Quetta Shura Taliban",
+  "Haqqani Network",
+  "Hizb-e Islami Gulbuddin",
+  "Iranian Quds Force",
+  "Al Qaeda",
+  "Tehrik-e Nafaz-e Shariat-e Mohammadi",
+  "Tehrik-e Taliban-e Pakistan",
+  "Lashkar-e Tayyiba",
+  "Institute for the Study of War",
+  "American Enterprise Institute"
+ ],
+ "text_blocks": [
+  "Joint Product of The Institute for the Study of War and the American Enterprise Institute",
+  "Afghanistan focused",
+  "Pakistan focused"
+ ],
+ "_extraction": {
+  "model": "claude-opus-4-6",
+  "n_images": 1,
+  "image_px": [
+   511,
+   314
+  ],
+  "ts": "2026-10-12T16:54:21Z"
+ }
+}

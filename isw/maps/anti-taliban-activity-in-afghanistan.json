@@ -1,0 +1,1615 @@
+{
+ "source": {
+  "slug": "anti-taliban-activity-in-afghanistan",
+  "url": "https://understandingwar.org/map/anti-taliban-activity-in-afghanistan/",
+  "title": "Anti-Taliban Activity in Afghanistan",
+  "page_date": "November 29, 2022",
+  "isw_map_id": null,
+  "image_url": null,
+  "image_file": "anti-taliban-activity-in-afghanistan.png",
+  "tags": [
+   "Afghanistan",
+   "Afghanistan US Withdrawal and Aftermath",
+   "Middle East"
+  ]
+ },
+ "map": {
+  "title_on_map": "Anti-Taliban Activity in Afghanistan",
+  "subtitle": null,
+  "as_of_date": "2022-11-22",
+  "period_start": null,
+  "period_end": "2022-11-22",
+  "date_precision": "day",
+  "geographic_extent": "Afghanistan and parts of Pakistan, Iran, Turkmenistan",
+  "map_type": "event_points",
+  "producer": "Institute for the Study of War (ISW) / AEI Critical Threats Project",
+  "cartographer": "Peter Mills @Institute for the Study of War",
+  "caption_text": null,
+  "notes": "Map created by Peter Mills @Institute for the Study of War, November 22. Includes inset map of Pakistan/India region."
+ },
+ "legend": [
+  {
+   "label": "ALM Attacks",
+   "symbol": "purple triangle",
+   "kind": "point"
+  },
+  {
+   "label": "AFF Attack Zone",
+   "symbol": "light green area",
+   "kind": "area"
+  },
+  {
+   "label": "AFF+NRF Cooperation Zone",
+   "symbol": "yellow-green hatched area",
+   "kind": "area"
+  },
+  {
+   "label": "ISKP Activity Zone",
+   "symbol": "dark diagonal hatched area",
+   "kind": "area"
+  },
+  {
+   "label": "ISKP Attack Zone",
+   "symbol": "dark gray area",
+   "kind": "area"
+  },
+  {
+   "label": "ISPP Attack Zone",
+   "symbol": "light gray area",
+   "kind": "area"
+  },
+  {
+   "label": "Local Anti-Taliban Groups",
+   "symbol": "yellow hatched area",
+   "kind": "area"
+  },
+  {
+   "label": "NRF Activity Zone",
+   "symbol": "dark green crosshatched area",
+   "kind": "area"
+  },
+  {
+   "label": "NRF Attack Zone",
+   "symbol": "medium green area",
+   "kind": "area"
+  },
+  {
+   "label": "NRF Contested Support Zone",
+   "symbol": "dark green area",
+   "kind": "area"
+  }
+ ],
+ "anchors": [
+  {
+   "name": "Kabul",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 60.0,
+   "y_pct": 49.5
+  },
+  {
+   "name": "Mazar-e Sharif",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 56.0,
+   "y_pct": 28.5
+  },
+  {
+   "name": "Herat",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 18.0,
+   "y_pct": 50.5
+  },
+  {
+   "name": "Kandahar",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 48.0,
+   "y_pct": 74.0
+  },
+  {
+   "name": "Peshawar",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 77.0,
+   "y_pct": 53.0
+  },
+  {
+   "name": "Rawalpindi",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 85.0,
+   "y_pct": 56.0
+  },
+  {
+   "name": "Srinagar",
+   "kind": "city",
+   "country": "IN",
+   "x_pct": 96.0,
+   "y_pct": 50.5
+  },
+  {
+   "name": "Mashhad",
+   "kind": "city",
+   "country": "IR",
+   "x_pct": 6.0,
+   "y_pct": 31.0
+  },
+  {
+   "name": "Quetta",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 56.0,
+   "y_pct": 87.0
+  },
+  {
+   "name": "Zahedan",
+   "kind": "city",
+   "country": "IR",
+   "x_pct": 12.0,
+   "y_pct": 91.0
+  },
+  {
+   "name": "Bahawalpur",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 73.0,
+   "y_pct": 93.0
+  },
+  {
+   "name": "GARAGUM",
+   "kind": "region",
+   "country": "TM",
+   "x_pct": 16.0,
+   "y_pct": 16.0
+  },
+  {
+   "name": "KARA KUM DESERT",
+   "kind": "region",
+   "country": "TM",
+   "x_pct": 40.0,
+   "y_pct": 26.0
+  },
+  {
+   "name": "TEER BANDE TURKISTAN RANGE",
+   "kind": "region",
+   "country": "AF",
+   "x_pct": 42.0,
+   "y_pct": 40.5
+  },
+  {
+   "name": "AFGHANISTAN",
+   "kind": "country",
+   "country": "AF",
+   "x_pct": 40.0,
+   "y_pct": 56.0
+  },
+  {
+   "name": "KHASH DESERT",
+   "kind": "region",
+   "country": "AF",
+   "x_pct": 28.0,
+   "y_pct": 78.0
+  },
+  {
+   "name": "RIGESTAN",
+   "kind": "region",
+   "country": "AF",
+   "x_pct": 42.0,
+   "y_pct": 85.0
+  },
+  {
+   "name": "PAKISTAN",
+   "kind": "country",
+   "country": "PK",
+   "x_pct": 55.0,
+   "y_pct": 99.0
+  },
+  {
+   "name": "Harirud",
+   "kind": "river",
+   "country": "AF",
+   "x_pct": 14.0,
+   "y_pct": 35.0
+  },
+  {
+   "name": "Darya-ye Helmand",
+   "kind": "river",
+   "country": "AF",
+   "x_pct": 30.0,
+   "y_pct": 62.0
+  },
+  {
+   "name": "Indus",
+   "kind": "river",
+   "country": "PK",
+   "x_pct": 65.0,
+   "y_pct": 91.0
+  },
+  {
+   "name": "KARAKORAM RANGE",
+   "kind": "region",
+   "country": "PK",
+   "x_pct": 90.0,
+   "y_pct": 35.0
+  }
+ ],
+ "plots": [
+  {
+   "legend_class": "ALM Attacks",
+   "marker": "point",
+   "x_pct": 53.5,
+   "y_pct": 29.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Mazar-e Sharif",
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "ALM"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ALM attack marker near Mazar-e Sharif area.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ALM Attacks",
+   "marker": "point",
+   "x_pct": 60.5,
+   "y_pct": 34.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "ALM"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ALM attack marker in northern Afghanistan south of Mazar-e Sharif.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ALM Attacks",
+   "marker": "point",
+   "x_pct": 56.5,
+   "y_pct": 52.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Kabul",
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "ALM"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ALM attack marker near Kabul area.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ALM Attacks",
+   "marker": "point",
+   "x_pct": 53.0,
+   "y_pct": 53.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "ALM"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ALM attack marker southwest of Kabul.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ALM Attacks",
+   "marker": "point",
+   "x_pct": 58.5,
+   "y_pct": 53.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "ALM"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ALM attack marker east of Kabul.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ALM Attacks",
+   "marker": "point",
+   "x_pct": 60.0,
+   "y_pct": 49.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Kabul",
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "ALM"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ALM attack marker at Kabul.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ALM Attacks",
+   "marker": "point",
+   "x_pct": 50.5,
+   "y_pct": 61.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "ALM"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ALM attack marker in central-south Afghanistan.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "ALM Attacks",
+   "marker": "point",
+   "x_pct": 44.0,
+   "y_pct": 61.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "ALM"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ALM attack marker in south-central Afghanistan.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "ALM Attacks",
+   "marker": "point",
+   "x_pct": 40.0,
+   "y_pct": 61.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "ALM"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ALM attack marker in Helmand area.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "ALM Attacks",
+   "marker": "point",
+   "x_pct": 56.0,
+   "y_pct": 61.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "ALM"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ALM attack marker in eastern Afghanistan.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "ALM Attacks",
+   "marker": "point",
+   "x_pct": 63.0,
+   "y_pct": 57.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "ALM"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ALM attack marker in eastern Afghanistan near border.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "ALM Attacks",
+   "marker": "point",
+   "x_pct": 47.0,
+   "y_pct": 65.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "ALM"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ALM attack marker in southern Afghanistan.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "ALM Attacks",
+   "marker": "point",
+   "x_pct": 42.5,
+   "y_pct": 72.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Kandahar",
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "ALM"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ALM attack marker near Kandahar.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "ALM Attacks",
+   "marker": "point",
+   "x_pct": 57.5,
+   "y_pct": 65.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "ALM"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ALM attack marker in south-east Afghanistan.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "ALM Attacks",
+   "marker": "point",
+   "x_pct": 97.0,
+   "y_pct": 61.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "ALM"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ALM attack marker in Pakistan.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "ALM Attacks",
+   "marker": "point",
+   "x_pct": 55.0,
+   "y_pct": 63.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "ALM"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ALM attack marker south of Kabul.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "ALM Attacks",
+   "marker": "point",
+   "x_pct": 62.0,
+   "y_pct": 64.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "ALM"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ALM attack marker in eastern Afghanistan.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "ALM Attacks",
+   "marker": "point",
+   "x_pct": 52.0,
+   "y_pct": 56.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "ALM"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ALM attack marker in central Afghanistan.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "ALM Attacks",
+   "marker": "point",
+   "x_pct": 54.0,
+   "y_pct": 65.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "ALM"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ALM attack marker in southern Afghanistan.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "NRF Attack Zone",
+   "marker": "area",
+   "x_pct": 62.0,
+   "y_pct": 27.0,
+   "extent_pct": 2.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "NRF"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "NRF attack zone in northern Afghanistan near Balkh.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "NRF Attack Zone",
+   "marker": "area",
+   "x_pct": 64.0,
+   "y_pct": 33.0,
+   "extent_pct": 2.5,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "NRF"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "NRF attack zone south of Mazar-e Sharif.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "NRF Attack Zone",
+   "marker": "area",
+   "x_pct": 66.0,
+   "y_pct": 36.0,
+   "extent_pct": 2.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "NRF"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "NRF attack zone in Baghlan/Samangan area.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "NRF Attack Zone",
+   "marker": "area",
+   "x_pct": 63.5,
+   "y_pct": 38.0,
+   "extent_pct": 3.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "NRF"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "NRF attack zone in central northern Afghanistan.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "NRF Attack Zone",
+   "marker": "area",
+   "x_pct": 60.0,
+   "y_pct": 42.0,
+   "extent_pct": 3.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "NRF"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "NRF attack zone in Parwan/Panjshir area.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "NRF Attack Zone",
+   "marker": "area",
+   "x_pct": 58.5,
+   "y_pct": 44.0,
+   "extent_pct": 2.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "NRF"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "NRF attack zone west of Panjshir.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "NRF Contested Support Zone",
+   "marker": "area",
+   "x_pct": 43.0,
+   "y_pct": 49.5,
+   "extent_pct": 1.5,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "NRF"
+   ],
+   "event_type": "support_zone",
+   "date": null,
+   "description": "NRF contested support zone in central Afghanistan.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "NRF Contested Support Zone",
+   "marker": "area",
+   "x_pct": 56.5,
+   "y_pct": 48.0,
+   "extent_pct": 1.5,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "NRF"
+   ],
+   "event_type": "support_zone",
+   "date": null,
+   "description": "NRF contested support zone near Kabul.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "NRF Activity Zone",
+   "marker": "area",
+   "x_pct": 64.5,
+   "y_pct": 30.0,
+   "extent_pct": 2.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "NRF"
+   ],
+   "event_type": "activity",
+   "date": null,
+   "description": "NRF activity zone near Balkh.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "NRF Activity Zone",
+   "marker": "area",
+   "x_pct": 66.5,
+   "y_pct": 34.0,
+   "extent_pct": 2.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "NRF"
+   ],
+   "event_type": "activity",
+   "date": null,
+   "description": "NRF activity zone in Baghlan area.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "AFF Attack Zone",
+   "marker": "area",
+   "x_pct": 56.0,
+   "y_pct": 44.0,
+   "extent_pct": 1.5,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "AFF"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "AFF attack zone in Parwan area.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "AFF Attack Zone",
+   "marker": "area",
+   "x_pct": 58.0,
+   "y_pct": 48.0,
+   "extent_pct": 2.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "AFF"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "AFF attack zone near Kabul.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "AFF Attack Zone",
+   "marker": "area",
+   "x_pct": 35.0,
+   "y_pct": 56.0,
+   "extent_pct": 1.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "AFF"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "AFF attack zone in Helmand area.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "AFF Attack Zone",
+   "marker": "area",
+   "x_pct": 38.0,
+   "y_pct": 56.0,
+   "extent_pct": 1.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "AFF"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "AFF attack zone in central Afghanistan.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "AFF+NRF Cooperation Zone",
+   "marker": "area",
+   "x_pct": 50.0,
+   "y_pct": 49.5,
+   "extent_pct": 4.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "AFF",
+    "NRF"
+   ],
+   "event_type": "support_zone",
+   "date": null,
+   "description": "AFF+NRF cooperation zone west of Kabul.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Local Anti-Taliban Groups",
+   "marker": "area",
+   "x_pct": 53.5,
+   "y_pct": 48.0,
+   "extent_pct": 3.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "Local Anti-Taliban Groups"
+   ],
+   "event_type": "activity",
+   "date": null,
+   "description": "Local anti-Taliban groups zone near Wardak/Logar area.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "ISKP Activity Zone",
+   "marker": "area",
+   "x_pct": 68.0,
+   "y_pct": 18.0,
+   "extent_pct": 2.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "ISKP"
+   ],
+   "event_type": "activity",
+   "date": null,
+   "description": "ISKP activity zone in Kunduz area.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "ISKP Activity Zone",
+   "marker": "area",
+   "x_pct": 73.0,
+   "y_pct": 20.0,
+   "extent_pct": 2.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "ISKP"
+   ],
+   "event_type": "activity",
+   "date": null,
+   "description": "ISKP activity zone in Takhar area.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "ISKP Activity Zone",
+   "marker": "area",
+   "x_pct": 70.0,
+   "y_pct": 22.0,
+   "extent_pct": 1.5,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "ISKP"
+   ],
+   "event_type": "activity",
+   "date": null,
+   "description": "ISKP activity zone in northern Afghanistan.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "ISKP Activity Zone",
+   "marker": "area",
+   "x_pct": 74.0,
+   "y_pct": 48.0,
+   "extent_pct": 2.5,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "ISKP"
+   ],
+   "event_type": "activity",
+   "date": null,
+   "description": "ISKP activity zone in Nangarhar area.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "ISKP Activity Zone",
+   "marker": "area",
+   "x_pct": 71.0,
+   "y_pct": 50.0,
+   "extent_pct": 2.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "ISKP"
+   ],
+   "event_type": "activity",
+   "date": null,
+   "description": "ISKP activity zone east of Kabul.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "ISKP Activity Zone",
+   "marker": "area",
+   "x_pct": 80.0,
+   "y_pct": 56.0,
+   "extent_pct": 1.5,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "ISKP"
+   ],
+   "event_type": "activity",
+   "date": null,
+   "description": "ISKP activity zone in Pakistan near Rawalpindi.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "ISKP Activity Zone",
+   "marker": "area",
+   "x_pct": 78.0,
+   "y_pct": 65.0,
+   "extent_pct": 2.5,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "ISKP"
+   ],
+   "event_type": "activity",
+   "date": null,
+   "description": "ISKP activity zone in southeastern Afghanistan.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "ISKP Attack Zone",
+   "marker": "area",
+   "x_pct": 17.5,
+   "y_pct": 51.0,
+   "extent_pct": 1.5,
+   "label": null,
+   "place_name": "Herat",
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "ISKP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ISKP attack zone at Herat.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ISKP Attack Zone",
+   "marker": "area",
+   "x_pct": 63.0,
+   "y_pct": 52.0,
+   "extent_pct": 1.5,
+   "label": null,
+   "place_name": "Kabul",
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "ISKP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ISKP attack zone near Kabul area.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "ISKP Attack Zone",
+   "marker": "area",
+   "x_pct": 45.0,
+   "y_pct": 74.5,
+   "extent_pct": 2.0,
+   "label": null,
+   "place_name": "Kandahar",
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "ISKP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ISKP attack zone near Kandahar.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "ISKP Attack Zone",
+   "marker": "area",
+   "x_pct": 37.0,
+   "y_pct": 36.5,
+   "extent_pct": 1.5,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "ISKP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ISKP attack zone in Faryab/Ghor area.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "ISKP Attack Zone",
+   "marker": "area",
+   "x_pct": 35.0,
+   "y_pct": 37.5,
+   "extent_pct": 1.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "ISKP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ISKP attack zone in western Afghanistan.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "ISKP Attack Zone",
+   "marker": "area",
+   "x_pct": 38.5,
+   "y_pct": 37.0,
+   "extent_pct": 1.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "ISKP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ISKP attack zone in Sar-e Pul area.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "ISKP Attack Zone",
+   "marker": "area",
+   "x_pct": 39.0,
+   "y_pct": 35.0,
+   "extent_pct": 1.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "ISKP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ISKP attack zone in Jowzjan/Sar-e Pul area.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "ISKP Attack Zone",
+   "marker": "area",
+   "x_pct": 40.5,
+   "y_pct": 43.0,
+   "extent_pct": 1.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "ISKP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ISKP attack zone in Bamyan area.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "ISPP Attack Zone",
+   "marker": "area",
+   "x_pct": 68.0,
+   "y_pct": 90.5,
+   "extent_pct": 3.0,
+   "label": null,
+   "place_name": "Quetta",
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "ISPP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ISPP attack zone near Quetta.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ISPP Attack Zone",
+   "marker": "area",
+   "x_pct": 73.0,
+   "y_pct": 53.0,
+   "extent_pct": 3.0,
+   "label": null,
+   "place_name": "Peshawar",
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "ISPP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ISPP attack zone near Peshawar.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "ISKP Attack Zone",
+   "marker": "area",
+   "x_pct": 30.0,
+   "y_pct": 66.5,
+   "extent_pct": 1.5,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "ISKP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ISKP attack zone in Helmand area.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "ISKP Attack Zone",
+   "marker": "area",
+   "x_pct": 56.0,
+   "y_pct": 25.0,
+   "extent_pct": 1.5,
+   "label": null,
+   "place_name": "Mazar-e Sharif",
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "ISKP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ISKP attack zone at Mazar-e Sharif.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "NRF Attack Zone",
+   "marker": "area",
+   "x_pct": 66.5,
+   "y_pct": 22.5,
+   "extent_pct": 2.5,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "NRF"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "NRF attack zone in Kunduz area.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "NRF Attack Zone",
+   "marker": "area",
+   "x_pct": 70.5,
+   "y_pct": 18.5,
+   "extent_pct": 1.5,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "NRF"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "NRF attack zone in Takhar area.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "AFF Attack Zone",
+   "marker": "area",
+   "x_pct": 60.5,
+   "y_pct": 46.0,
+   "extent_pct": 2.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "AFF"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "AFF attack zone near Kabul.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "ISKP Activity Zone",
+   "marker": "area",
+   "x_pct": 57.5,
+   "y_pct": 30.0,
+   "extent_pct": 2.0,
+   "label": null,
+   "place_name": "Mazar-e Sharif",
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "ISKP"
+   ],
+   "event_type": "activity",
+   "date": null,
+   "description": "ISKP activity zone near Mazar-e Sharif.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "AFF Attack Zone",
+   "marker": "area",
+   "x_pct": 65.0,
+   "y_pct": 24.0,
+   "extent_pct": 2.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "AFF"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "AFF attack zone in Kunduz area.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "ISKP Attack Zone",
+   "marker": "area",
+   "x_pct": 82.0,
+   "y_pct": 62.0,
+   "extent_pct": 1.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "ISKP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ISKP attack zone near Rawalpindi area.",
+   "confidence": "low"
+  },
+  {
+   "legend_class": "ISKP Attack Zone",
+   "marker": "area",
+   "x_pct": 75.0,
+   "y_pct": 93.0,
+   "extent_pct": 1.5,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "ISKP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ISKP attack zone in Balochistan.",
+   "confidence": "low"
+  },
+  {
+   "legend_class": "AFF Attack Zone",
+   "marker": "area",
+   "x_pct": 55.0,
+   "y_pct": 40.0,
+   "extent_pct": 1.5,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "AFF"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "AFF attack zone in Baghlan/Parwan area.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "ISKP Attack Zone",
+   "marker": "area",
+   "x_pct": 36.5,
+   "y_pct": 35.5,
+   "extent_pct": 1.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "ISKP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ISKP attack zone in western Afghanistan.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "AFF Attack Zone",
+   "marker": "area",
+   "x_pct": 49.0,
+   "y_pct": 75.0,
+   "extent_pct": 1.5,
+   "label": null,
+   "place_name": "Kandahar",
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "AFF"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "AFF attack zone near Kandahar.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "NRF Attack Zone",
+   "marker": "area",
+   "x_pct": 62.5,
+   "y_pct": 40.0,
+   "extent_pct": 3.5,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "NRF"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "NRF attack zone in Panjshir/Parwan area — large cluster.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "NRF Attack Zone",
+   "marker": "area",
+   "x_pct": 60.0,
+   "y_pct": 36.0,
+   "extent_pct": 2.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "NRF"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "NRF attack zone in Baghlan area.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "AFF Attack Zone",
+   "marker": "area",
+   "x_pct": 63.0,
+   "y_pct": 44.0,
+   "extent_pct": 2.5,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "AFF"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "AFF attack zone in Kapisa/Parwan area.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Local Anti-Taliban Groups",
+   "marker": "area",
+   "x_pct": 56.0,
+   "y_pct": 47.0,
+   "extent_pct": 2.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "Local Anti-Taliban Groups"
+   ],
+   "event_type": "activity",
+   "date": null,
+   "description": "Local anti-Taliban groups zone near Kabul.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "ISKP Attack Zone",
+   "marker": "area",
+   "x_pct": 74.5,
+   "y_pct": 61.0,
+   "extent_pct": 1.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "ISKP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ISKP attack zone in Pakistan tribal areas.",
+   "confidence": "low"
+  },
+  {
+   "legend_class": "ALM Attacks",
+   "marker": "point",
+   "x_pct": 65.5,
+   "y_pct": 54.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "ALM"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ALM attack marker in Nangarhar area.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "ALM Attacks",
+   "marker": "point",
+   "x_pct": 67.0,
+   "y_pct": 55.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "ALM"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ALM attack marker in eastern Afghanistan.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "ALM Attacks",
+   "marker": "point",
+   "x_pct": 69.5,
+   "y_pct": 55.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "ALM"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ALM attack marker near Pakistan border.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "ISKP Attack Zone",
+   "marker": "area",
+   "x_pct": 71.0,
+   "y_pct": 56.5,
+   "extent_pct": 1.5,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "ISKP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "ISKP attack zone in Pakistan border area.",
+   "confidence": "low"
+  },
+  {
+   "legend_class": "ISKP Activity Zone",
+   "marker": "area",
+   "x_pct": 93.0,
+   "y_pct": 60.0,
+   "extent_pct": 1.5,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "ISKP"
+   ],
+   "event_type": "activity",
+   "date": null,
+   "description": "ISKP activity zone in Pakistan.",
+   "confidence": "low"
+  }
+ ],
+ "named_persons": [
+  {
+   "name": "Peter Mills",
+   "role": "cartographer",
+   "affiliation": "Institute for the Study of War",
+   "place": null,
+   "x_pct": null,
+   "y_pct": null
+  }
+ ],
+ "named_orgs": [
+  "ISW",
+  "Critical Threats",
+  "The Dr. Jack London Geospatial Fund",
+  "ALM",
+  "AFF",
+  "NRF",
+  "ISKP",
+  "ISPP",
+  "Local Anti-Taliban Groups",
+  "Esri",
+  "FAO",
+  "NOAA",
+  "USGS",
+  "OpenStreetMap",
+  "HERE",
+  "Garmin"
+ ],
+ "text_blocks": [
+  "Map created by Peter Mills @Institute for the Study of War, November 22,",
+  "Esri, © OpenStreetMap contributors, HERE, Garmin, FAO, NOAA, USGS, Esri, USGS",
+  "Esri, FAO, NOAA, USGS"
+ ],
+ "_extraction": {
+  "model": "claude-opus-4-6",
+  "n_images": 5,
+  "image_px": [
+   3300,
+   2550
+  ],
+  "ts": "2026-10-12T16:52:10Z"
+ }
+}

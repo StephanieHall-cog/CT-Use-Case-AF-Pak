@@ -1,0 +1,74 @@
+{
+ "source": {
+  "slug": "satellite-view",
+  "url": "https://understandingwar.org/map/satellite-view/",
+  "title": "Satellite View of Miram Shah, The Headquarters of North Waziristan",
+  "page_date": "2025-05-15",
+  "isw_map_id": "62575",
+  "image_url": "https://understandingwar.org/wp-content/uploads/2025/04/Miram_Shah.jpg",
+  "image_file": "satellite-view.jpg",
+  "tags": [
+   "Afghanistan",
+   "Afghanistan Surge and Drawdown",
+   "Middle East"
+  ]
+ },
+ "map": {
+  "title_on_map": "Satellite View of Miram Shah, The Headquarters of North Waziristan",
+  "subtitle": null,
+  "as_of_date": null,
+  "period_start": null,
+  "period_end": null,
+  "date_precision": null,
+  "geographic_extent": "Miram Shah, North Waziristan, Pakistan",
+  "map_type": "reference",
+  "producer": "Institute for the Study of War (ISW) / AEI Critical Threats Project",
+  "cartographer": null,
+  "caption_text": null,
+  "notes": "Google Earth satellite imagery of Miram Shah, the headquarters/administrative center of North Waziristan Agency. A red placemark icon is visible near the center of the town area."
+ },
+ "legend": [],
+ "anchors": [
+  {
+   "name": "Miram Shah",
+   "kind": "town",
+   "country": "PK",
+   "x_pct": 42.0,
+   "y_pct": 62.0
+  }
+ ],
+ "plots": [
+  {
+   "legend_class": "unlabelled",
+   "marker": "point",
+   "x_pct": 42.0,
+   "y_pct": 62.0,
+   "extent_pct": null,
+   "label": "Miram Shah",
+   "place_name": "Miram Shah",
+   "admin_area": "North Waziristan",
+   "country": "PK",
+   "actors": [],
+   "event_type": "hq",
+   "date": null,
+   "description": "Red placemark icon indicating Miram Shah, the headquarters of North Waziristan Agency.",
+   "confidence": "high"
+  }
+ ],
+ "named_persons": [],
+ "named_orgs": [
+  "Google"
+ ],
+ "text_blocks": [
+  "©2009 Google"
+ ],
+ "_extraction": {
+  "model": "claude-opus-4-6",
+  "n_images": 1,
+  "image_px": [
+   530,
+   406
+  ],
+  "ts": "2026-10-12T16:52:53Z"
+ }
+}

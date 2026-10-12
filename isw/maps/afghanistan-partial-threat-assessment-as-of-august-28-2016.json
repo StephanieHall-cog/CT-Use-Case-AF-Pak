@@ -1,0 +1,2039 @@
+{
+ "source": {
+  "slug": "afghanistan-partial-threat-assessment-as-of-august-28-2016",
+  "url": "https://understandingwar.org/map/afghanistan-partial-threat-assessment-as-of-august-28-2016/",
+  "title": "AFGHANISTAN PARTIAL THREAT ASSESSMENT AS OF AUGUST 28, 2016",
+  "page_date": "August 28, 2016",
+  "isw_map_id": null,
+  "image_url": null,
+  "image_file": "afghanistan-partial-threat-assessment-as-of-august-28-2016.png",
+  "tags": [
+   "Afghanistan",
+   "Afghanistan, the Taliban, and ISIS",
+   "Middle East"
+  ]
+ },
+ "map": {
+  "title_on_map": "AFGHANISTAN PARTIAL THREAT ASSESSMENT AS OF AUGUST 28, 2016",
+  "subtitle": "Afghanistan-Pakistan Administrative Divisions, February 2012",
+  "as_of_date": "2016-08-28",
+  "period_start": null,
+  "period_end": "2016-08-28",
+  "date_precision": "day",
+  "geographic_extent": "Afghanistan and parts of Pakistan, Iran, Turkmenistan, Uzbekistan, Tajikistan, China",
+  "map_type": "control_zones",
+  "producer": "Institute for the Study of War (ISW)",
+  "cartographer": null,
+  "caption_text": "This map partially depicts areas of Taliban and ISIS control and support across Afghanistan as of August 28, 2016. The map also illustrates the status of district centers that have been attacked by Taliban militants in the reporting period. District centers are considered \"Contested\" if Taliban militants have attempted to seize control of a district center as part of an active campaign during the reporting period. District centers are considered \"Controlled\" if Taliban militants have maintained physical and/or psychological influence over a district center and its population without contestation from the ANSF during the reporting period. High-confidence ISIS support zones represent areas with reliable reporting of ISIS presence at the sub-district level. Low-confidence ISIS support zones represent areas with reliable reporting of ISIS presence at the district level, with zones assessed based on terrain and historic militant presence, or areas with unconfirmed reporting of ISIS presence at the sub-district level.",
+  "notes": "Base map uses Afghanistan-Pakistan Administrative Divisions, February 2012. Scale 1:1,750,000."
+ },
+ "legend": [
+  {
+   "label": "Taliban Militants Control District Center",
+   "symbol": "purple circle",
+   "kind": "point"
+  },
+  {
+   "label": "Taliban Militants Contest District Center",
+   "symbol": "red circle",
+   "kind": "point"
+  },
+  {
+   "label": "Taliban Militants Previously Controlled District Center",
+   "symbol": "yellow circle",
+   "kind": "point"
+  },
+  {
+   "label": "ISIS Militants Contest District Center",
+   "symbol": "dark yellow/olive circle",
+   "kind": "point"
+  },
+  {
+   "label": "Low Confidence Taliban Support Zone",
+   "symbol": "pink area",
+   "kind": "area"
+  },
+  {
+   "label": "High Confidence Taliban Support Zone",
+   "symbol": "orange area",
+   "kind": "area"
+  },
+  {
+   "label": "Taliban Control Zone",
+   "symbol": "purple area",
+   "kind": "area"
+  },
+  {
+   "label": "Low Confidence ISIS Support Zone",
+   "symbol": "grey area",
+   "kind": "area"
+  },
+  {
+   "label": "High Confidence ISIS Support Zone",
+   "symbol": "dark grey striped area",
+   "kind": "area"
+  },
+  {
+   "label": "ISIS Control Zone",
+   "symbol": "black area",
+   "kind": "area"
+  },
+  {
+   "label": "ANA Corps Headquarters",
+   "symbol": "green square",
+   "kind": "point"
+  },
+  {
+   "label": "ANA Corps AO Boundaries",
+   "symbol": "green line",
+   "kind": "line"
+  },
+  {
+   "label": "Researched Districts",
+   "symbol": "yellow outline area",
+   "kind": "area"
+  }
+ ],
+ "anchors": [
+  {
+   "name": "TURKMENISTAN",
+   "kind": "country",
+   "country": "TM",
+   "x_pct": 25.0,
+   "y_pct": 12.0
+  },
+  {
+   "name": "UZBEKISTAN",
+   "kind": "country",
+   "country": "UZ",
+   "x_pct": 48.0,
+   "y_pct": 8.5
+  },
+  {
+   "name": "TAJIKISTAN",
+   "kind": "country",
+   "country": "TJ",
+   "x_pct": 73.0,
+   "y_pct": 7.0
+  },
+  {
+   "name": "CHINA",
+   "kind": "country",
+   "country": "CN",
+   "x_pct": 96.0,
+   "y_pct": 8.0
+  },
+  {
+   "name": "IRAN",
+   "kind": "country",
+   "country": "IR",
+   "x_pct": 5.0,
+   "y_pct": 67.0
+  },
+  {
+   "name": "AFGHANISTAN",
+   "kind": "country",
+   "country": "AF",
+   "x_pct": 45.0,
+   "y_pct": 55.0
+  },
+  {
+   "name": "DUSHANBE",
+   "kind": "city",
+   "country": "TJ",
+   "x_pct": 64.0,
+   "y_pct": 7.5
+  },
+  {
+   "name": "AHAL",
+   "kind": "province",
+   "country": "TM",
+   "x_pct": 5.0,
+   "y_pct": 10.0
+  },
+  {
+   "name": "LEBAP",
+   "kind": "province",
+   "country": "TM",
+   "x_pct": 30.0,
+   "y_pct": 7.0
+  },
+  {
+   "name": "QASHQADARYO",
+   "kind": "province",
+   "country": "UZ",
+   "x_pct": 38.0,
+   "y_pct": 7.0
+  },
+  {
+   "name": "SURKONDAYO",
+   "kind": "province",
+   "country": "UZ",
+   "x_pct": 48.0,
+   "y_pct": 13.0
+  },
+  {
+   "name": "KHATLON",
+   "kind": "province",
+   "country": "TJ",
+   "x_pct": 67.0,
+   "y_pct": 9.0
+  },
+  {
+   "name": "GORNO-BADAKHSHAN AUTONOMOUS PROVINCE",
+   "kind": "province",
+   "country": "TJ",
+   "x_pct": 83.0,
+   "y_pct": 11.0
+  },
+  {
+   "name": "JOWZJAN",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 38.0,
+   "y_pct": 21.0
+  },
+  {
+   "name": "FARYAB",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 28.0,
+   "y_pct": 24.0
+  },
+  {
+   "name": "BADGHIS",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 18.0,
+   "y_pct": 42.0
+  },
+  {
+   "name": "HERAT",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 11.0,
+   "y_pct": 52.0
+  },
+  {
+   "name": "FARAH",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 14.0,
+   "y_pct": 67.0
+  },
+  {
+   "name": "NIMROZ",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 21.0,
+   "y_pct": 80.0
+  },
+  {
+   "name": "HELMAND",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 33.0,
+   "y_pct": 76.0
+  },
+  {
+   "name": "KANDAHAR",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 53.0,
+   "y_pct": 74.0
+  },
+  {
+   "name": "PAKTIKA",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 60.0,
+   "y_pct": 63.0
+  },
+  {
+   "name": "GHOR",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 27.0,
+   "y_pct": 48.0
+  },
+  {
+   "name": "DAYKUNDI",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 37.0,
+   "y_pct": 56.0
+  },
+  {
+   "name": "BAMYAN",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 40.0,
+   "y_pct": 44.0
+  },
+  {
+   "name": "SAMANGAN",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 44.0,
+   "y_pct": 35.0
+  },
+  {
+   "name": "SAR-E POL",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 36.0,
+   "y_pct": 35.0
+  },
+  {
+   "name": "BAGHLAN",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 55.0,
+   "y_pct": 36.0
+  },
+  {
+   "name": "KUNDUZ",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 55.0,
+   "y_pct": 24.0
+  },
+  {
+   "name": "TAKHAR",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 62.0,
+   "y_pct": 24.0
+  },
+  {
+   "name": "BADAKHSHAN",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 76.0,
+   "y_pct": 20.0
+  },
+  {
+   "name": "NURISTAN",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 76.0,
+   "y_pct": 36.0
+  },
+  {
+   "name": "KUNAR",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 82.0,
+   "y_pct": 42.0
+  },
+  {
+   "name": "FEDERALLY ADMINISTERED TRIBAL AREAS",
+   "kind": "region",
+   "country": "PK",
+   "x_pct": 78.0,
+   "y_pct": 57.0
+  },
+  {
+   "name": "Chitral",
+   "kind": "district",
+   "country": "PK",
+   "x_pct": 88.0,
+   "y_pct": 30.0
+  },
+  {
+   "name": "Razavi Khorasan",
+   "kind": "province",
+   "country": "IR",
+   "x_pct": 3.0,
+   "y_pct": 42.0
+  },
+  {
+   "name": "SISTAN VA BALUCHESTAN",
+   "kind": "province",
+   "country": "IR",
+   "x_pct": 5.0,
+   "y_pct": 85.0
+  },
+  {
+   "name": "Nawur",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 46.0,
+   "y_pct": 55.0
+  },
+  {
+   "name": "Kharan",
+   "kind": "town",
+   "country": "PK",
+   "x_pct": 36.0,
+   "y_pct": 97.0
+  },
+  {
+   "name": "Kalat",
+   "kind": "town",
+   "country": "PK",
+   "x_pct": 55.0,
+   "y_pct": 95.0
+  },
+  {
+   "name": "Chagai",
+   "kind": "district",
+   "country": "PK",
+   "x_pct": 29.0,
+   "y_pct": 93.0
+  },
+  {
+   "name": "Tank",
+   "kind": "town",
+   "country": "PK",
+   "x_pct": 82.0,
+   "y_pct": 63.0
+  },
+  {
+   "name": "Marwat",
+   "kind": "district",
+   "country": "PK",
+   "x_pct": 82.0,
+   "y_pct": 58.0
+  },
+  {
+   "name": "Lakki",
+   "kind": "town",
+   "country": "PK",
+   "x_pct": 79.0,
+   "y_pct": 58.0
+  },
+  {
+   "name": "Dera Ismail Khan",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 85.0,
+   "y_pct": 65.0
+  },
+  {
+   "name": "SOUTH WAZIRISTAN",
+   "kind": "district",
+   "country": "PK",
+   "x_pct": 78.0,
+   "y_pct": 65.0
+  },
+  {
+   "name": "Shaykhan",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 14.0,
+   "y_pct": 72.0
+  },
+  {
+   "name": "GHAZNI",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 89.0,
+   "y_pct": 89.0
+  },
+  {
+   "name": "KABUL",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 89.0,
+   "y_pct": 92.0
+  },
+  {
+   "name": "KAPISA",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 89.0,
+   "y_pct": 95.0
+  }
+ ],
+ "plots": [
+  {
+   "legend_class": "Taliban Control Zone",
+   "marker": "area",
+   "x_pct": 27.0,
+   "y_pct": 27.0,
+   "extent_pct": 4.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Faryab",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Taliban control zone in Faryab province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Taliban Control Zone",
+   "marker": "area",
+   "x_pct": 18.0,
+   "y_pct": 34.0,
+   "extent_pct": 3.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Faryab",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Taliban control zone in southern Faryab province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Taliban Control Zone",
+   "marker": "area",
+   "x_pct": 7.0,
+   "y_pct": 38.0,
+   "extent_pct": 3.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Badghis",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Taliban control zone in Badghis province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Taliban Control Zone",
+   "marker": "area",
+   "x_pct": 56.0,
+   "y_pct": 19.0,
+   "extent_pct": 3.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Kunduz",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Taliban control zone in Kunduz province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Taliban Control Zone",
+   "marker": "area",
+   "x_pct": 62.0,
+   "y_pct": 19.0,
+   "extent_pct": 2.5,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Kunduz/Takhar",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Taliban control zone in Kunduz/Takhar border area.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Taliban Control Zone",
+   "marker": "area",
+   "x_pct": 70.0,
+   "y_pct": 15.0,
+   "extent_pct": 3.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Badakhshan",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Taliban control zone in western Badakhshan province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Taliban Control Zone",
+   "marker": "area",
+   "x_pct": 75.0,
+   "y_pct": 14.0,
+   "extent_pct": 2.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Badakhshan",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Taliban control zone in Badakhshan province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Taliban Control Zone",
+   "marker": "area",
+   "x_pct": 80.0,
+   "y_pct": 17.0,
+   "extent_pct": 2.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Badakhshan",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Taliban control zone in eastern Badakhshan province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Taliban Control Zone",
+   "marker": "area",
+   "x_pct": 6.0,
+   "y_pct": 59.0,
+   "extent_pct": 3.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Herat",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Taliban control zone in Herat province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Taliban Control Zone",
+   "marker": "area",
+   "x_pct": 12.0,
+   "y_pct": 60.0,
+   "extent_pct": 3.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Farah",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Taliban control zone in northern Farah province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Taliban Control Zone",
+   "marker": "area",
+   "x_pct": 17.0,
+   "y_pct": 66.0,
+   "extent_pct": 4.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Farah",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Taliban control zone in Farah province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Taliban Control Zone",
+   "marker": "area",
+   "x_pct": 23.0,
+   "y_pct": 72.0,
+   "extent_pct": 4.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Helmand",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Taliban control zone in northern Helmand province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Taliban Control Zone",
+   "marker": "area",
+   "x_pct": 30.0,
+   "y_pct": 70.0,
+   "extent_pct": 3.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Helmand",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Taliban control zone in Helmand province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Taliban Control Zone",
+   "marker": "area",
+   "x_pct": 55.0,
+   "y_pct": 50.0,
+   "extent_pct": 3.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Ghazni",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Taliban control zone in Ghazni province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Taliban Control Zone",
+   "marker": "area",
+   "x_pct": 63.0,
+   "y_pct": 50.0,
+   "extent_pct": 2.5,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Paktika",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Taliban control zone in western Paktika.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Taliban Control Zone",
+   "marker": "area",
+   "x_pct": 73.0,
+   "y_pct": 53.0,
+   "extent_pct": 2.5,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Nangarhar/Kunar",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Taliban control zone near Nangarhar/Kunar area.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "High Confidence Taliban Support Zone",
+   "marker": "area",
+   "x_pct": 30.0,
+   "y_pct": 22.0,
+   "extent_pct": 8.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Faryab",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "support_zone",
+   "date": null,
+   "description": "High confidence Taliban support zone across Faryab province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "High Confidence Taliban Support Zone",
+   "marker": "area",
+   "x_pct": 42.0,
+   "y_pct": 22.0,
+   "extent_pct": 5.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Jowzjan/Sar-e Pol",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "support_zone",
+   "date": null,
+   "description": "High confidence Taliban support zone in Jowzjan/Sar-e Pol area.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "High Confidence Taliban Support Zone",
+   "marker": "area",
+   "x_pct": 55.0,
+   "y_pct": 22.0,
+   "extent_pct": 6.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Kunduz/Baghlan",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "support_zone",
+   "date": null,
+   "description": "High confidence Taliban support zone in Kunduz and Baghlan provinces.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "High Confidence Taliban Support Zone",
+   "marker": "area",
+   "x_pct": 68.0,
+   "y_pct": 16.0,
+   "extent_pct": 6.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Badakhshan",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "support_zone",
+   "date": null,
+   "description": "High confidence Taliban support zone in Badakhshan province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "High Confidence Taliban Support Zone",
+   "marker": "area",
+   "x_pct": 15.0,
+   "y_pct": 36.0,
+   "extent_pct": 6.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Badghis",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "support_zone",
+   "date": null,
+   "description": "High confidence Taliban support zone in Badghis province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "High Confidence Taliban Support Zone",
+   "marker": "area",
+   "x_pct": 45.0,
+   "y_pct": 60.0,
+   "extent_pct": 8.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Zabul/Ghazni",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "support_zone",
+   "date": null,
+   "description": "High confidence Taliban support zone in Zabul and Ghazni area.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "High Confidence Taliban Support Zone",
+   "marker": "area",
+   "x_pct": 25.0,
+   "y_pct": 65.0,
+   "extent_pct": 8.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Helmand/Farah",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "support_zone",
+   "date": null,
+   "description": "High confidence Taliban support zone across Helmand and Farah.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "High Confidence Taliban Support Zone",
+   "marker": "area",
+   "x_pct": 55.0,
+   "y_pct": 45.0,
+   "extent_pct": 5.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Ghazni/Wardak",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "support_zone",
+   "date": null,
+   "description": "High confidence Taliban support zone in Ghazni/Wardak area.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "High Confidence Taliban Support Zone",
+   "marker": "area",
+   "x_pct": 65.0,
+   "y_pct": 55.0,
+   "extent_pct": 5.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Paktika",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "support_zone",
+   "date": null,
+   "description": "High confidence Taliban support zone in Paktika province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Low Confidence Taliban Support Zone",
+   "marker": "area",
+   "x_pct": 35.0,
+   "y_pct": 50.0,
+   "extent_pct": 10.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Ghor/Daykundi",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "support_zone",
+   "date": null,
+   "description": "Low confidence Taliban support zone in Ghor and Daykundi provinces.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Low Confidence Taliban Support Zone",
+   "marker": "area",
+   "x_pct": 10.0,
+   "y_pct": 50.0,
+   "extent_pct": 6.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Herat",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "support_zone",
+   "date": null,
+   "description": "Low confidence Taliban support zone in Herat province.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Low Confidence Taliban Support Zone",
+   "marker": "area",
+   "x_pct": 50.0,
+   "y_pct": 35.0,
+   "extent_pct": 5.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Baghlan/Samangan",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "support_zone",
+   "date": null,
+   "description": "Low confidence Taliban support zone in Baghlan/Samangan area.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Low Confidence ISIS Support Zone",
+   "marker": "area",
+   "x_pct": 75.0,
+   "y_pct": 45.0,
+   "extent_pct": 4.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Nangarhar",
+   "country": "AF",
+   "actors": [
+    "ISIS"
+   ],
+   "event_type": "support_zone",
+   "date": null,
+   "description": "Low confidence ISIS support zone in Nangarhar province.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "High Confidence ISIS Support Zone",
+   "marker": "area",
+   "x_pct": 73.0,
+   "y_pct": 47.0,
+   "extent_pct": 2.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Nangarhar",
+   "country": "AF",
+   "actors": [
+    "ISIS"
+   ],
+   "event_type": "support_zone",
+   "date": null,
+   "description": "High confidence ISIS support zone in Nangarhar province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ISIS Control Zone",
+   "marker": "area",
+   "x_pct": 74.0,
+   "y_pct": 46.0,
+   "extent_pct": 1.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Nangarhar",
+   "country": "AF",
+   "actors": [
+    "ISIS"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "ISIS control zone in Nangarhar province.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Taliban Militants Control District Center",
+   "marker": "point",
+   "x_pct": 27.5,
+   "y_pct": 25.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Faryab",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Taliban controls district center in Faryab province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Taliban Militants Control District Center",
+   "marker": "point",
+   "x_pct": 22.0,
+   "y_pct": 28.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Faryab",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Taliban controls district center in Faryab province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Taliban Militants Control District Center",
+   "marker": "point",
+   "x_pct": 19.0,
+   "y_pct": 30.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Faryab",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Taliban controls district center in Faryab province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Taliban Militants Control District Center",
+   "marker": "point",
+   "x_pct": 16.0,
+   "y_pct": 34.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Faryab",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Taliban controls district center in Faryab/Badghis province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Taliban Militants Control District Center",
+   "marker": "point",
+   "x_pct": 60.0,
+   "y_pct": 19.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Kunduz",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Taliban controls district center in Kunduz province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Taliban Militants Control District Center",
+   "marker": "point",
+   "x_pct": 56.0,
+   "y_pct": 20.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Kunduz",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Taliban controls district center in Kunduz province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Taliban Militants Control District Center",
+   "marker": "point",
+   "x_pct": 71.0,
+   "y_pct": 14.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Badakhshan",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Taliban controls district center in Badakhshan province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Taliban Militants Control District Center",
+   "marker": "point",
+   "x_pct": 75.0,
+   "y_pct": 13.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Badakhshan",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Taliban controls district center in Badakhshan province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Taliban Militants Control District Center",
+   "marker": "point",
+   "x_pct": 8.0,
+   "y_pct": 38.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Badghis",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Taliban controls district center in Badghis province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Taliban Militants Control District Center",
+   "marker": "point",
+   "x_pct": 5.5,
+   "y_pct": 59.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Herat",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Taliban controls district center in Herat province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Taliban Militants Control District Center",
+   "marker": "point",
+   "x_pct": 10.0,
+   "y_pct": 60.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Herat/Farah",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Taliban controls district center in Herat/Farah area.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Taliban Militants Control District Center",
+   "marker": "point",
+   "x_pct": 14.0,
+   "y_pct": 62.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Farah",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Taliban controls district center in Farah province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Taliban Militants Control District Center",
+   "marker": "point",
+   "x_pct": 18.0,
+   "y_pct": 64.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Farah",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Taliban controls district center in Farah province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Taliban Militants Control District Center",
+   "marker": "point",
+   "x_pct": 16.0,
+   "y_pct": 67.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Farah",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Taliban controls district center in Farah province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Taliban Militants Control District Center",
+   "marker": "point",
+   "x_pct": 20.0,
+   "y_pct": 68.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Farah/Helmand",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Taliban controls district center in Farah/Helmand border area.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Taliban Militants Control District Center",
+   "marker": "point",
+   "x_pct": 30.0,
+   "y_pct": 68.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Helmand",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Taliban controls district center in Helmand province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Taliban Militants Control District Center",
+   "marker": "point",
+   "x_pct": 27.0,
+   "y_pct": 65.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Helmand",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Taliban controls district center in Helmand province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Taliban Militants Control District Center",
+   "marker": "point",
+   "x_pct": 33.0,
+   "y_pct": 60.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Uruzgan",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Taliban controls district center in Uruzgan province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Taliban Militants Control District Center",
+   "marker": "point",
+   "x_pct": 37.0,
+   "y_pct": 60.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Uruzgan",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Taliban controls district center in Uruzgan province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Taliban Militants Control District Center",
+   "marker": "point",
+   "x_pct": 55.0,
+   "y_pct": 55.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Ghazni",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Taliban controls district center in Ghazni province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Taliban Militants Control District Center",
+   "marker": "point",
+   "x_pct": 52.0,
+   "y_pct": 52.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Ghazni",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Taliban controls district center in Ghazni province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Taliban Militants Control District Center",
+   "marker": "point",
+   "x_pct": 80.0,
+   "y_pct": 16.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Badakhshan",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Taliban controls district center in eastern Badakhshan.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Taliban Militants Contest District Center",
+   "marker": "point",
+   "x_pct": 58.0,
+   "y_pct": 17.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Kunduz",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "contested",
+   "date": null,
+   "description": "Taliban contests district center in Kunduz province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Taliban Militants Contest District Center",
+   "marker": "point",
+   "x_pct": 10.0,
+   "y_pct": 64.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Farah",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "contested",
+   "date": null,
+   "description": "Taliban contests district center in Farah province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Taliban Militants Contest District Center",
+   "marker": "point",
+   "x_pct": 22.0,
+   "y_pct": 73.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Helmand",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "contested",
+   "date": null,
+   "description": "Taliban contests district center in Helmand province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Taliban Militants Contest District Center",
+   "marker": "point",
+   "x_pct": 32.0,
+   "y_pct": 64.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Uruzgan",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "contested",
+   "date": null,
+   "description": "Taliban contests district center in Uruzgan province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Taliban Militants Contest District Center",
+   "marker": "point",
+   "x_pct": 62.0,
+   "y_pct": 56.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Paktika",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "contested",
+   "date": null,
+   "description": "Taliban contests district center in Paktika province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Taliban Militants Contest District Center",
+   "marker": "point",
+   "x_pct": 67.0,
+   "y_pct": 52.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Paktika",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "contested",
+   "date": null,
+   "description": "Taliban contests district center in Paktika province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Taliban Militants Previously Controlled District Center",
+   "marker": "point",
+   "x_pct": 54.0,
+   "y_pct": 17.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Kunduz",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Taliban previously controlled district center in Kunduz province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Taliban Militants Previously Controlled District Center",
+   "marker": "point",
+   "x_pct": 57.0,
+   "y_pct": 19.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Kunduz",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Taliban previously controlled district center in Kunduz province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Taliban Militants Previously Controlled District Center",
+   "marker": "point",
+   "x_pct": 37.0,
+   "y_pct": 33.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Sar-e Pol",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Taliban previously controlled district center in Sar-e Pol province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Taliban Militants Previously Controlled District Center",
+   "marker": "point",
+   "x_pct": 39.0,
+   "y_pct": 35.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Sar-e Pol",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Taliban previously controlled district center in Sar-e Pol province.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Taliban Militants Previously Controlled District Center",
+   "marker": "point",
+   "x_pct": 46.5,
+   "y_pct": 39.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Baghlan",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Taliban previously controlled district center in Baghlan province.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Taliban Militants Previously Controlled District Center",
+   "marker": "point",
+   "x_pct": 20.5,
+   "y_pct": 74.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Helmand",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Taliban previously controlled district center in Helmand province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Taliban Militants Previously Controlled District Center",
+   "marker": "point",
+   "x_pct": 51.0,
+   "y_pct": 66.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Kandahar",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Taliban previously controlled district center in Kandahar area.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "ISIS Militants Contest District Center",
+   "marker": "point",
+   "x_pct": 73.5,
+   "y_pct": 45.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Nangarhar",
+   "country": "AF",
+   "actors": [
+    "ISIS"
+   ],
+   "event_type": "contested",
+   "date": null,
+   "description": "ISIS contests district center in Nangarhar province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ANA Corps Headquarters",
+   "marker": "point",
+   "x_pct": 15.0,
+   "y_pct": 47.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Herat",
+   "country": "AF",
+   "actors": [
+    "ANA"
+   ],
+   "event_type": "hq",
+   "date": null,
+   "description": "ANA Corps headquarters location in Herat area.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "ANA Corps AO Boundaries",
+   "marker": "line",
+   "x_pct": 40.0,
+   "y_pct": 50.0,
+   "extent_pct": null,
+   "label": "1",
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "ANA"
+   ],
+   "event_type": "other",
+   "date": null,
+   "description": "ANA Corps 1 area of operations boundary.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ANA Corps AO Boundaries",
+   "marker": "line",
+   "x_pct": 55.0,
+   "y_pct": 28.0,
+   "extent_pct": null,
+   "label": "2",
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "ANA"
+   ],
+   "event_type": "other",
+   "date": null,
+   "description": "ANA Corps 2 area of operations boundary.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ANA Corps AO Boundaries",
+   "marker": "line",
+   "x_pct": 56.0,
+   "y_pct": 40.0,
+   "extent_pct": null,
+   "label": "3",
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "ANA"
+   ],
+   "event_type": "other",
+   "date": null,
+   "description": "ANA Corps 3 area of operations boundary.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ANA Corps AO Boundaries",
+   "marker": "line",
+   "x_pct": 78.0,
+   "y_pct": 30.0,
+   "extent_pct": null,
+   "label": "4",
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "ANA"
+   ],
+   "event_type": "other",
+   "date": null,
+   "description": "ANA Corps 4 area of operations boundary.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ANA Corps AO Boundaries",
+   "marker": "line",
+   "x_pct": 75.0,
+   "y_pct": 42.0,
+   "extent_pct": null,
+   "label": "5",
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "ANA"
+   ],
+   "event_type": "other",
+   "date": null,
+   "description": "ANA Corps 5 area of operations boundary.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ANA Corps AO Boundaries",
+   "marker": "line",
+   "x_pct": 75.0,
+   "y_pct": 53.0,
+   "extent_pct": null,
+   "label": "6",
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "ANA"
+   ],
+   "event_type": "other",
+   "date": null,
+   "description": "ANA Corps 6 area of operations boundary.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ANA Corps AO Boundaries",
+   "marker": "line",
+   "x_pct": 65.0,
+   "y_pct": 55.0,
+   "extent_pct": null,
+   "label": "7",
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "ANA"
+   ],
+   "event_type": "other",
+   "date": null,
+   "description": "ANA Corps 7 area of operations boundary.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ANA Corps AO Boundaries",
+   "marker": "line",
+   "x_pct": 48.0,
+   "y_pct": 63.0,
+   "extent_pct": null,
+   "label": "8",
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "ANA"
+   ],
+   "event_type": "other",
+   "date": null,
+   "description": "ANA Corps 8 area of operations boundary.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ANA Corps AO Boundaries",
+   "marker": "line",
+   "x_pct": 22.0,
+   "y_pct": 73.0,
+   "extent_pct": null,
+   "label": "9",
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "ANA"
+   ],
+   "event_type": "other",
+   "date": null,
+   "description": "ANA Corps 9 area of operations boundary.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Taliban Militants Control District Center",
+   "marker": "point",
+   "x_pct": 45.0,
+   "y_pct": 27.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Jowzjan/Sar-e Pol",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Taliban controls district center in Jowzjan/Sar-e Pol area.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Taliban Militants Control District Center",
+   "marker": "point",
+   "x_pct": 24.0,
+   "y_pct": 60.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Farah",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Taliban controls district center in southern Farah province.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Taliban Militants Control District Center",
+   "marker": "point",
+   "x_pct": 28.0,
+   "y_pct": 62.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Uruzgan/Helmand",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Taliban controls district center in Uruzgan/Helmand border.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Taliban Militants Control District Center",
+   "marker": "point",
+   "x_pct": 40.0,
+   "y_pct": 62.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Zabul",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Taliban controls district center in Zabul province.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Taliban Militants Control District Center",
+   "marker": "point",
+   "x_pct": 43.0,
+   "y_pct": 63.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Zabul",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Taliban controls district center in Zabul province.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Taliban Militants Control District Center",
+   "marker": "point",
+   "x_pct": 60.0,
+   "y_pct": 60.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Paktika",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Taliban controls district center in Paktika province.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Taliban Militants Control District Center",
+   "marker": "point",
+   "x_pct": 65.0,
+   "y_pct": 58.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Paktika",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Taliban controls district center in eastern Paktika.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Taliban Militants Contest District Center",
+   "marker": "point",
+   "x_pct": 63.0,
+   "y_pct": 42.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Baghlan/Nuristan",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "contested",
+   "date": null,
+   "description": "Taliban contests district center in Baghlan/Nuristan area.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Taliban Militants Contest District Center",
+   "marker": "point",
+   "x_pct": 48.0,
+   "y_pct": 55.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Ghazni",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "contested",
+   "date": null,
+   "description": "Taliban contests district center in Ghazni province.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Taliban Militants Previously Controlled District Center",
+   "marker": "point",
+   "x_pct": 30.0,
+   "y_pct": 63.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Uruzgan",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Taliban previously controlled district center in Uruzgan province.",
+   "confidence": "medium"
+  }
+ ],
+ "named_persons": [],
+ "named_orgs": [
+  "ISW",
+  "ANA",
+  "Taliban",
+  "ISIS",
+  "ANSF",
+  "AEI Critical Threats Project"
+ ],
+ "text_blocks": [
+  "This map partially depicts areas of Taliban and ISIS control and support across Afghanistan as of August 28, 2016. The map also illustrates the status of district centers that have been attacked by Taliban militants in the reporting period. District centers are considered \"Contested\" if Taliban militants have attempted to seize control of a district center as part of an active campaign during the reporting period. District centers are considered \"Controlled\" if Taliban militants have maintained physical and/or psychological influence over a district center and its population without contestation from the ANSF during the reporting period. High-confidence ISIS support zones represent areas with reliable reporting of ISIS presence at the sub-district level. Low-confidence ISIS support zones represent areas with reliable reporting of ISIS presence at the district level, with zones assessed based on terrain and historic militant presence, or areas with unconfirmed reporting of ISIS presence at the sub-district level.",
+  "Afghanistan-Pakistan Administrative Divisions, February 2012"
+ ],
+ "_extraction": {
+  "model": "claude-opus-4-6",
+  "n_images": 1,
+  "image_px": [
+   1558,
+   1339
+  ],
+  "ts": "2026-10-12T16:47:08Z"
+ }
+}

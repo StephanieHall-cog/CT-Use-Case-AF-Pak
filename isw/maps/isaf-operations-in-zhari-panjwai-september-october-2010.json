@@ -1,0 +1,481 @@
+{
+ "source": {
+  "slug": "isaf-operations-in-zhari-panjwai-september-october-2010",
+  "url": "https://understandingwar.org/map/isaf-operations-in-zhari-panjwai-september-october-2010/",
+  "title": "ISAF Operations in Zhari and Panjwai – September and October 2010",
+  "page_date": "December 15, 2010",
+  "isw_map_id": null,
+  "image_url": null,
+  "image_file": "isaf-operations-in-zhari-panjwai-september-october-2010.gif",
+  "tags": [
+   "Afghanistan",
+   "Afghanistan Surge and Drawdown",
+   "Middle East"
+  ]
+ },
+ "map": {
+  "title_on_map": "ISAF Operations",
+  "subtitle": null,
+  "as_of_date": "2010-12-15",
+  "period_start": "2010-09-01",
+  "period_end": "2010-10-31",
+  "date_precision": "month",
+  "geographic_extent": "Zhari and Panjwai Districts, Kandahar Province, Afghanistan",
+  "map_type": "event_points",
+  "producer": "INSTITUTE FOR THE STUDY OF WAR",
+  "cartographer": null,
+  "caption_text": null,
+  "notes": "Map shows ISAF operations during September and October 2010 in Zhari and Panjwai districts."
+ },
+ "legend": [
+  {
+   "label": "September 2010",
+   "symbol": "black arrow",
+   "kind": "line"
+  },
+  {
+   "label": "October 2010",
+   "symbol": "red arrow",
+   "kind": "line"
+  }
+ ],
+ "anchors": [
+  {
+   "name": "Arghandab",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 76.0,
+   "y_pct": 4.0
+  },
+  {
+   "name": "Zhari",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 22.0,
+   "y_pct": 20.0
+  },
+  {
+   "name": "Panjwai",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 48.0,
+   "y_pct": 65.0
+  },
+  {
+   "name": "Howz-e Madad",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 16.0,
+   "y_pct": 38.0
+  },
+  {
+   "name": "Pashmul",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 36.0,
+   "y_pct": 32.0
+  },
+  {
+   "name": "Zangabad",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 17.0,
+   "y_pct": 56.0
+  },
+  {
+   "name": "Talukan",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 15.0,
+   "y_pct": 68.0
+  },
+  {
+   "name": "Mushan",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 10.0,
+   "y_pct": 65.0
+  },
+  {
+   "name": "Siah Choy",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 30.0,
+   "y_pct": 50.0
+  },
+  {
+   "name": "Nalgham",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 26.0,
+   "y_pct": 42.0
+  },
+  {
+   "name": "Sangsar",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 28.0,
+   "y_pct": 38.0
+  },
+  {
+   "name": "Regwan",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 41.0,
+   "y_pct": 40.0
+  },
+  {
+   "name": "Bazaar-e Panjwai",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 55.0,
+   "y_pct": 40.0
+  },
+  {
+   "name": "Sperwan",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 51.0,
+   "y_pct": 55.0
+  },
+  {
+   "name": "Dabek",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 37.0,
+   "y_pct": 52.0
+  },
+  {
+   "name": "Kolk",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 22.0,
+   "y_pct": 45.0
+  },
+  {
+   "name": "Ashoqueh",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 54.0,
+   "y_pct": 22.0
+  },
+  {
+   "name": "Salavat",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 67.0,
+   "y_pct": 32.0
+  },
+  {
+   "name": "Chalangor",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 69.0,
+   "y_pct": 42.0
+  },
+  {
+   "name": "Zulakhan",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 74.0,
+   "y_pct": 42.0
+  },
+  {
+   "name": "Nagahan",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 67.0,
+   "y_pct": 52.0
+  },
+  {
+   "name": "Konajak",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 60.0,
+   "y_pct": 65.0
+  },
+  {
+   "name": "Noday",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 14.0,
+   "y_pct": 50.0
+  },
+  {
+   "name": "Dwar",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 12.0,
+   "y_pct": 44.0
+  },
+  {
+   "name": "Zardarian",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 28.0,
+   "y_pct": 30.0
+  },
+  {
+   "name": "Korak",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 82.0,
+   "y_pct": 8.0
+  },
+  {
+   "name": "Palet Kala",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 92.0,
+   "y_pct": 8.0
+  },
+  {
+   "name": "Marai",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 86.0,
+   "y_pct": 18.0
+  },
+  {
+   "name": "KANDAHAR",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 92.0,
+   "y_pct": 18.0
+  },
+  {
+   "name": "Ragay",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 65.0,
+   "y_pct": 72.0
+  },
+  {
+   "name": "Suzie",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 71.0,
+   "y_pct": 72.0
+  }
+ ],
+ "plots": [
+  {
+   "legend_class": "September 2010",
+   "marker": "line",
+   "x_pct": 16.0,
+   "y_pct": 38.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Howz-e Madad",
+   "admin_area": "Zhari",
+   "country": "AF",
+   "actors": [
+    "ISAF"
+   ],
+   "event_type": "operation",
+   "date": null,
+   "description": "ISAF operation near Howz-e Madad in September 2010, indicated by black arrow.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "September 2010",
+   "marker": "line",
+   "x_pct": 30.0,
+   "y_pct": 35.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Pashmul",
+   "admin_area": "Zhari",
+   "country": "AF",
+   "actors": [
+    "ISAF"
+   ],
+   "event_type": "operation",
+   "date": null,
+   "description": "ISAF operation near Pashmul in September 2010, indicated by black arrow.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "September 2010",
+   "marker": "line",
+   "x_pct": 50.0,
+   "y_pct": 25.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Ashoqueh",
+   "admin_area": "Zhari",
+   "country": "AF",
+   "actors": [
+    "ISAF"
+   ],
+   "event_type": "operation",
+   "date": null,
+   "description": "ISAF operation near Ashoqueh area in September 2010, indicated by black arrow.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "September 2010",
+   "marker": "line",
+   "x_pct": 62.0,
+   "y_pct": 20.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Zhari",
+   "country": "AF",
+   "actors": [
+    "ISAF"
+   ],
+   "event_type": "operation",
+   "date": null,
+   "description": "ISAF operation in eastern Zhari in September 2010, indicated by black arrow.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "October 2010",
+   "marker": "line",
+   "x_pct": 14.0,
+   "y_pct": 56.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Zangabad",
+   "admin_area": "Panjwai",
+   "country": "AF",
+   "actors": [
+    "ISAF"
+   ],
+   "event_type": "operation",
+   "date": null,
+   "description": "ISAF operation near Zangabad in October 2010, indicated by red arrow.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "October 2010",
+   "marker": "line",
+   "x_pct": 12.0,
+   "y_pct": 64.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Mushan",
+   "admin_area": "Panjwai",
+   "country": "AF",
+   "actors": [
+    "ISAF"
+   ],
+   "event_type": "operation",
+   "date": null,
+   "description": "ISAF operation near Mushan in October 2010, indicated by red arrow.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "October 2010",
+   "marker": "line",
+   "x_pct": 15.0,
+   "y_pct": 68.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Talukan",
+   "admin_area": "Panjwai",
+   "country": "AF",
+   "actors": [
+    "ISAF"
+   ],
+   "event_type": "operation",
+   "date": null,
+   "description": "ISAF operation near Talukan in October 2010, indicated by red arrow.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "September 2010",
+   "marker": "line",
+   "x_pct": 42.0,
+   "y_pct": 38.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Regwan",
+   "admin_area": "Zhari",
+   "country": "AF",
+   "actors": [
+    "ISAF"
+   ],
+   "event_type": "operation",
+   "date": null,
+   "description": "ISAF operation near Regwan in September 2010, indicated by black arrow.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "September 2010",
+   "marker": "line",
+   "x_pct": 55.0,
+   "y_pct": 38.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Bazaar-e Panjwai",
+   "admin_area": "Panjwai",
+   "country": "AF",
+   "actors": [
+    "ISAF"
+   ],
+   "event_type": "operation",
+   "date": null,
+   "description": "ISAF operation near Bazaar-e Panjwai in September 2010, indicated by black arrow.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "October 2010",
+   "marker": "line",
+   "x_pct": 25.0,
+   "y_pct": 45.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Kolk",
+   "admin_area": "Panjwai",
+   "country": "AF",
+   "actors": [
+    "ISAF"
+   ],
+   "event_type": "operation",
+   "date": null,
+   "description": "ISAF operation near Kolk in October 2010, indicated by red arrow.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "unlabelled",
+   "marker": "point",
+   "x_pct": 62.0,
+   "y_pct": 18.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Zhari",
+   "country": "AF",
+   "actors": [
+    "ISAF"
+   ],
+   "event_type": "other",
+   "date": null,
+   "description": "Unlabelled point marker in northern Zhari district.",
+   "confidence": "low"
+  }
+ ],
+ "named_persons": [],
+ "named_orgs": [
+  "ISAF",
+  "INSTITUTE FOR THE STUDY OF WAR"
+ ],
+ "text_blocks": [
+  "ISAF Operations",
+  "September 2010",
+  "October 2010",
+  "© INSTITUTE FOR THE STUDY OF WAR"
+ ],
+ "_extraction": {
+  "model": "claude-opus-4-6",
+  "n_images": 1,
+  "image_px": [
+   511,
+   339
+  ],
+  "ts": "2026-10-12T16:53:46Z"
+ }
+}

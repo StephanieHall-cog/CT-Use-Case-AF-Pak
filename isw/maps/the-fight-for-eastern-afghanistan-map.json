@@ -1,0 +1,841 @@
+{
+ "source": {
+  "slug": "the-fight-for-eastern-afghanistan-map",
+  "url": "https://understandingwar.org/map/the-fight-for-eastern-afghanistan-map/",
+  "title": "The Fight for Eastern Afghanistan Map",
+  "page_date": "March 16, 2012",
+  "isw_map_id": null,
+  "image_url": null,
+  "image_file": "the-fight-for-eastern-afghanistan-map.webp",
+  "tags": [
+   "Afghanistan",
+   "Afghanistan Surge and Drawdown",
+   "Middle East"
+  ]
+ },
+ "map": {
+  "title_on_map": "The Fight for Eastern Afghanistan Map",
+  "subtitle": null,
+  "as_of_date": "2012-03-16",
+  "period_start": null,
+  "period_end": null,
+  "date_precision": "day",
+  "geographic_extent": "Eastern Afghanistan and adjacent Pakistan FATA/Frontier Province",
+  "map_type": "force_disposition",
+  "producer": "Institute for the Study of War (ISW) / AEI Critical Threats Project",
+  "cartographer": null,
+  "caption_text": null,
+  "notes": "Map shows Kabul infiltration routes, enemy strongholds, and remaining critical tasks for NATO numbered 1-4."
+ },
+ "legend": [
+  {
+   "label": "Kabul infiltration routes",
+   "symbol": "red arrow",
+   "kind": "line"
+  },
+  {
+   "label": "Enemy strongholds",
+   "symbol": "grey area",
+   "kind": "area"
+  },
+  {
+   "label": "#s Remaining critical tasks for NATO",
+   "symbol": "red circled number",
+   "kind": "point"
+  }
+ ],
+ "anchors": [
+  {
+   "name": "KABUL",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 48.0,
+   "y_pct": 14.5
+  },
+  {
+   "name": "KABUL",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 53.0,
+   "y_pct": 15.0
+  },
+  {
+   "name": "Charikar",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 44.0,
+   "y_pct": 5.5
+  },
+  {
+   "name": "Mahmud-e Raqi",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 57.0,
+   "y_pct": 5.0
+  },
+  {
+   "name": "KAPISA",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 60.0,
+   "y_pct": 7.0
+  },
+  {
+   "name": "PARWAN",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 37.0,
+   "y_pct": 3.5
+  },
+  {
+   "name": "BAMYAN",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 7.0,
+   "y_pct": 3.5
+  },
+  {
+   "name": "Bamyan",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 15.0,
+   "y_pct": 11.5
+  },
+  {
+   "name": "Maidan-Shahr",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 38.0,
+   "y_pct": 17.0
+  },
+  {
+   "name": "WARDAK",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 22.0,
+   "y_pct": 21.0
+  },
+  {
+   "name": "LOGAR",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 40.0,
+   "y_pct": 26.0
+  },
+  {
+   "name": "Pol-e Alam",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 38.0,
+   "y_pct": 28.0
+  },
+  {
+   "name": "Mohammad Agha",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 42.0,
+   "y_pct": 23.0
+  },
+  {
+   "name": "PAKTIA",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 47.0,
+   "y_pct": 35.5
+  },
+  {
+   "name": "Gardez",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 50.0,
+   "y_pct": 38.0
+  },
+  {
+   "name": "Chamkani",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 59.0,
+   "y_pct": 35.0
+  },
+  {
+   "name": "KHOST",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 55.0,
+   "y_pct": 48.0
+  },
+  {
+   "name": "Khowst",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 61.5,
+   "y_pct": 46.5
+  },
+  {
+   "name": "NANGARHAR",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 73.0,
+   "y_pct": 24.0
+  },
+  {
+   "name": "Jalalabad",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 80.0,
+   "y_pct": 17.0
+  },
+  {
+   "name": "Mehtarlam",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 72.0,
+   "y_pct": 13.5
+  },
+  {
+   "name": "LAGHMAN",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 68.0,
+   "y_pct": 8.5
+  },
+  {
+   "name": "Nurestan",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 74.0,
+   "y_pct": 4.0
+  },
+  {
+   "name": "KUNAR",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 87.0,
+   "y_pct": 9.0
+  },
+  {
+   "name": "Asadabad",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 87.0,
+   "y_pct": 6.5
+  },
+  {
+   "name": "GHAZNI",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 21.0,
+   "y_pct": 47.0
+  },
+  {
+   "name": "Ghazni",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 28.0,
+   "y_pct": 40.0
+  },
+  {
+   "name": "PAKTIKA",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 38.0,
+   "y_pct": 65.0
+  },
+  {
+   "name": "Orgun",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 44.0,
+   "y_pct": 55.5
+  },
+  {
+   "name": "Sharan",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 38.0,
+   "y_pct": 50.0
+  },
+  {
+   "name": "ZABUL",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 10.0,
+   "y_pct": 77.0
+  },
+  {
+   "name": "Qalat",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 5.5,
+   "y_pct": 82.0
+  },
+  {
+   "name": "F.A.T.A.",
+   "kind": "region",
+   "country": "PK",
+   "x_pct": 76.0,
+   "y_pct": 33.0
+  },
+  {
+   "name": "KURRAM",
+   "kind": "district",
+   "country": "PK",
+   "x_pct": 79.0,
+   "y_pct": 39.0
+  },
+  {
+   "name": "ORAKZAI",
+   "kind": "district",
+   "country": "PK",
+   "x_pct": 88.0,
+   "y_pct": 38.0
+  },
+  {
+   "name": "KHYBER",
+   "kind": "district",
+   "country": "PK",
+   "x_pct": 87.0,
+   "y_pct": 28.0
+  },
+  {
+   "name": "NORTH WAZIRISTAN",
+   "kind": "district",
+   "country": "PK",
+   "x_pct": 62.0,
+   "y_pct": 55.0
+  },
+  {
+   "name": "SOUTH WAZIRISTAN",
+   "kind": "district",
+   "country": "PK",
+   "x_pct": 68.0,
+   "y_pct": 78.0
+  },
+  {
+   "name": "BANNU",
+   "kind": "district",
+   "country": "PK",
+   "x_pct": 78.0,
+   "y_pct": 51.0
+  },
+  {
+   "name": "LAKKI MARWAT",
+   "kind": "district",
+   "country": "PK",
+   "x_pct": 78.0,
+   "y_pct": 63.0
+  },
+  {
+   "name": "TANK",
+   "kind": "district",
+   "country": "PK",
+   "x_pct": 78.0,
+   "y_pct": 70.0
+  },
+  {
+   "name": "Bannu Cantonment",
+   "kind": "town",
+   "country": "PK",
+   "x_pct": 82.0,
+   "y_pct": 56.0
+  },
+  {
+   "name": "Torkham",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 84.0,
+   "y_pct": 21.0
+  },
+  {
+   "name": "Azrow",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 55.0,
+   "y_pct": 27.0
+  },
+  {
+   "name": "Ali Khel",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 52.0,
+   "y_pct": 31.0
+  },
+  {
+   "name": "Dakow-ye Payan",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 45.0,
+   "y_pct": 12.0
+  },
+  {
+   "name": "Shekhabad",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 30.0,
+   "y_pct": 27.0
+  },
+  {
+   "name": "Godale Kalay",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 33.0,
+   "y_pct": 37.0
+  },
+  {
+   "name": "Sarowbi",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 48.0,
+   "y_pct": 57.0
+  },
+  {
+   "name": "Wana",
+   "kind": "town",
+   "country": "PK",
+   "x_pct": 60.0,
+   "y_pct": 70.0
+  },
+  {
+   "name": "Miram Shah",
+   "kind": "town",
+   "country": "PK",
+   "x_pct": 66.0,
+   "y_pct": 50.0
+  },
+  {
+   "name": "Zarghun Shahr",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 27.0,
+   "y_pct": 63.0
+  },
+  {
+   "name": "Dawlat Shah",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 77.0,
+   "y_pct": 5.5
+  },
+  {
+   "name": "Tagab",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 56.0,
+   "y_pct": 9.0
+  },
+  {
+   "name": "Scrubi",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 60.0,
+   "y_pct": 13.0
+  },
+  {
+   "name": "Gandomak",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 71.0,
+   "y_pct": 21.0
+  },
+  {
+   "name": "Seyyedi Kheyl",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 60.0,
+   "y_pct": 23.0
+  },
+  {
+   "name": "Tangi",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 19.0,
+   "y_pct": 44.0
+  },
+  {
+   "name": "FRONTIER PROVINCE",
+   "kind": "province",
+   "country": "PK",
+   "x_pct": 88.0,
+   "y_pct": 62.0
+  }
+ ],
+ "plots": [
+  {
+   "legend_class": "Kabul infiltration routes",
+   "marker": "line",
+   "x_pct": 48.0,
+   "y_pct": 30.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Logar / Paktia",
+   "country": "AF",
+   "actors": [
+    "Taliban",
+    "Haqqani Network"
+   ],
+   "event_type": "infiltration route",
+   "date": null,
+   "description": "Southern infiltration route from Paktia/Khost area northwest through Logar toward Kabul.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Kabul infiltration routes",
+   "marker": "line",
+   "x_pct": 38.0,
+   "y_pct": 30.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Wardak / Logar",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "infiltration route",
+   "date": null,
+   "description": "Western infiltration route from Wardak/Ghazni area northeast through Wardak toward Kabul.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Kabul infiltration routes",
+   "marker": "line",
+   "x_pct": 60.0,
+   "y_pct": 14.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Kapisa / Kabul",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "infiltration route",
+   "date": null,
+   "description": "Eastern infiltration route from Kapisa/Laghman area westward toward Kabul.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Enemy strongholds",
+   "marker": "area",
+   "x_pct": 62.0,
+   "y_pct": 38.0,
+   "extent_pct": 5.0,
+   "label": null,
+   "place_name": "Tani",
+   "admin_area": "Khost",
+   "country": "AF",
+   "actors": [
+    "Haqqani Network",
+    "Taliban"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Enemy stronghold area in western Khost province near Tani district.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Enemy strongholds",
+   "marker": "area",
+   "x_pct": 58.0,
+   "y_pct": 47.0,
+   "extent_pct": 4.0,
+   "label": null,
+   "place_name": "Khowst",
+   "admin_area": "Khost",
+   "country": "AF",
+   "actors": [
+    "Haqqani Network",
+    "Taliban"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Enemy stronghold area in Khost province south/southwest of Khowst city.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Enemy strongholds",
+   "marker": "area",
+   "x_pct": 60.0,
+   "y_pct": 35.0,
+   "extent_pct": 3.0,
+   "label": null,
+   "place_name": "Chamkani",
+   "admin_area": "Paktia",
+   "country": "AF",
+   "actors": [
+    "Haqqani Network",
+    "Taliban"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Enemy stronghold area in southeastern Paktia near Chamkani.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Enemy strongholds",
+   "marker": "area",
+   "x_pct": 77.0,
+   "y_pct": 31.0,
+   "extent_pct": 5.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Nangarhar / FATA",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Enemy stronghold area in southern Nangarhar near the FATA border.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Enemy strongholds",
+   "marker": "area",
+   "x_pct": 90.0,
+   "y_pct": 5.0,
+   "extent_pct": 4.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Kunar",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "control",
+   "date": null,
+   "description": "Enemy stronghold area in Kunar province (northeastern corner).",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Remaining critical tasks for NATO",
+   "marker": "point",
+   "x_pct": 65.0,
+   "y_pct": 36.0,
+   "extent_pct": null,
+   "label": "1",
+   "place_name": null,
+   "admin_area": "Paktia / Khost border",
+   "country": "AF",
+   "actors": [
+    "NATO",
+    "ISAF"
+   ],
+   "event_type": "operation",
+   "date": null,
+   "description": "Remaining critical task #1 for NATO in the Paktia-Khost area, likely related to clearing enemy strongholds.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Remaining critical tasks for NATO",
+   "marker": "point",
+   "x_pct": 50.0,
+   "y_pct": 49.0,
+   "extent_pct": null,
+   "label": "1",
+   "place_name": "Wazi",
+   "admin_area": "Khost",
+   "country": "AF",
+   "actors": [
+    "NATO",
+    "ISAF"
+   ],
+   "event_type": "operation",
+   "date": null,
+   "description": "Remaining critical task #1 for NATO in western Khost area near Waziristan border.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Remaining critical tasks for NATO",
+   "marker": "point",
+   "x_pct": 42.0,
+   "y_pct": 22.0,
+   "extent_pct": null,
+   "label": "2",
+   "place_name": "Mohammad Agha",
+   "admin_area": "Logar",
+   "country": "AF",
+   "actors": [
+    "NATO",
+    "ISAF"
+   ],
+   "event_type": "operation",
+   "date": null,
+   "description": "Remaining critical task #2 for NATO near Mohammad Agha in Logar province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Remaining critical tasks for NATO",
+   "marker": "point",
+   "x_pct": 47.0,
+   "y_pct": 22.0,
+   "extent_pct": null,
+   "label": "2",
+   "place_name": null,
+   "admin_area": "Kabul / Logar",
+   "country": "AF",
+   "actors": [
+    "NATO",
+    "ISAF"
+   ],
+   "event_type": "operation",
+   "date": null,
+   "description": "Remaining critical task #2 for NATO near the Kabul-Logar border area.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Remaining critical tasks for NATO",
+   "marker": "point",
+   "x_pct": 55.0,
+   "y_pct": 12.0,
+   "extent_pct": null,
+   "label": "2",
+   "place_name": "Tagab",
+   "admin_area": "Kapisa",
+   "country": "AF",
+   "actors": [
+    "NATO",
+    "ISAF"
+   ],
+   "event_type": "operation",
+   "date": null,
+   "description": "Remaining critical task #2 for NATO near Tagab in Kapisa province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Remaining critical tasks for NATO",
+   "marker": "point",
+   "x_pct": 32.0,
+   "y_pct": 24.0,
+   "extent_pct": null,
+   "label": "3",
+   "place_name": "Shekhabad",
+   "admin_area": "Wardak",
+   "country": "AF",
+   "actors": [
+    "NATO",
+    "ISAF"
+   ],
+   "event_type": "operation",
+   "date": null,
+   "description": "Remaining critical task #3 for NATO near Shekhabad in Wardak province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Remaining critical tasks for NATO",
+   "marker": "point",
+   "x_pct": 27.0,
+   "y_pct": 34.0,
+   "extent_pct": null,
+   "label": "3",
+   "place_name": null,
+   "admin_area": "Wardak / Ghazni",
+   "country": "AF",
+   "actors": [
+    "NATO",
+    "ISAF"
+   ],
+   "event_type": "operation",
+   "date": null,
+   "description": "Remaining critical task #3 for NATO in southern Wardak / northern Ghazni area.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Remaining critical tasks for NATO",
+   "marker": "point",
+   "x_pct": 20.0,
+   "y_pct": 52.0,
+   "extent_pct": null,
+   "label": "3",
+   "place_name": "Luman",
+   "admin_area": "Ghazni",
+   "country": "AF",
+   "actors": [
+    "NATO",
+    "ISAF"
+   ],
+   "event_type": "operation",
+   "date": null,
+   "description": "Remaining critical task #3 for NATO near Luman in Ghazni province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Remaining critical tasks for NATO",
+   "marker": "point",
+   "x_pct": 15.0,
+   "y_pct": 67.0,
+   "extent_pct": null,
+   "label": "3",
+   "place_name": null,
+   "admin_area": "Ghazni / Paktika",
+   "country": "AF",
+   "actors": [
+    "NATO",
+    "ISAF"
+   ],
+   "event_type": "operation",
+   "date": null,
+   "description": "Remaining critical task #3 for NATO in southern Ghazni near the Paktika border.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Remaining critical tasks for NATO",
+   "marker": "point",
+   "x_pct": 91.0,
+   "y_pct": 3.0,
+   "extent_pct": null,
+   "label": "4",
+   "place_name": null,
+   "admin_area": "Kunar",
+   "country": "AF",
+   "actors": [
+    "NATO",
+    "ISAF"
+   ],
+   "event_type": "operation",
+   "date": null,
+   "description": "Remaining critical task #4 for NATO in Kunar province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Remaining critical tasks for NATO",
+   "marker": "point",
+   "x_pct": 78.0,
+   "y_pct": 8.0,
+   "extent_pct": null,
+   "label": "4",
+   "place_name": null,
+   "admin_area": "Nurestan / Kunar",
+   "country": "AF",
+   "actors": [
+    "NATO",
+    "ISAF"
+   ],
+   "event_type": "operation",
+   "date": null,
+   "description": "Remaining critical task #4 for NATO in the Nurestan-Kunar border area.",
+   "confidence": "high"
+  }
+ ],
+ "named_persons": [],
+ "named_orgs": [
+  "NATO",
+  "Institute for the Study of War (ISW)",
+  "AEI Critical Threats Project"
+ ],
+ "text_blocks": [
+  "Kabul infiltration routes",
+  "Enemy strongholds",
+  "#s Remaining critical tasks for NATO"
+ ],
+ "_extraction": {
+  "model": "claude-opus-4-6",
+  "n_images": 1,
+  "image_px": [
+   872,
+   854
+  ],
+  "ts": "2026-10-12T16:57:34Z"
+ }
+}

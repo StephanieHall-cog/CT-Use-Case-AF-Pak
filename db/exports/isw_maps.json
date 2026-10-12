@@ -1,0 +1,3892 @@
+[
+{
+"id": "map-of-afghanistan-and-its-neighbors",
+"source": "isw_maps",
+"url": "https://understandingwar.org/map/map-of-afghanistan-and-its-neighbors/",
+"title": "Map of Afghanistan and Its Neighbors",
+"page_date": "April 16, 2009",
+"isw_map_id": null,
+"as_of_date": "2009-04-16",
+"period_start": null,
+"period_end": null,
+"date_precision": "day",
+"map_type": "reference",
+"geographic_extent": "Afghanistan and neighboring countries including Pakistan, Iran, Turkmenistan, Uzbekistan, Tajikistan, and portions of India and China",
+"producer": "Institute for the Study of War (ISW) / AEI Critical Threats Project",
+"cartographer": null,
+"caption_text": "A topographical map of Afghanistan and its neighbors that show major roads, cities, and tributaries.",
+"tags": "Afghanistan; Afghanistan Surge and Drawdown; Geospatial Intelligence",
+"image_url": null,
+"image_local": "isw/images/map-of-afghanistan-and-its-neighbors.jpg",
+"image_w": 511,
+"image_h": 406,
+"extraction_model": "claude-opus-4-6",
+"n_anchors": 52,
+"n_anchors_used": 37,
+"georef_rms_km": 37.2,
+"image_corners": [
+[
+38.81706491040187,
+63.46294883704257
+],
+[
+38.21355458661173,
+77.17046964338115
+],
+[
+27.385304877981085,
+72.91039660060318
+],
+[
+28.06805750584777,
+59.2028757942646
+]
+],
+"n_plots": 0,
+"legend": [
+{
+"label": "Capital",
+"symbol": "red star or large dot",
+"kind": "point"
+},
+{
+"label": "Major City/Provincial Capital (in Afghanistan)",
+"symbol": "blue circle (medium)",
+"kind": "point"
+},
+{
+"label": "Important City",
+"symbol": "small blue circle",
+"kind": "point"
+}
+]
+},
+{
+"id": "isaf-force-distribution-in-helmand-province-spring-2009",
+"source": "isw_maps",
+"url": "https://understandingwar.org/map/isaf-force-distribution-in-helmand-province-spring-2009/",
+"title": "ISAF Force Distribution in Helmand Province – Spring 2009",
+"page_date": "January 6, 2011",
+"isw_map_id": null,
+"as_of_date": null,
+"period_start": "2009-03-01",
+"period_end": "2009-05-31",
+"date_precision": "month",
+"map_type": "force_disposition",
+"geographic_extent": "Helmand Province and surrounding provinces, Afghanistan",
+"producer": "Institute for the Study of War",
+"cartographer": null,
+"caption_text": null,
+"tags": "Afghanistan; Afghanistan Surge and Drawdown; Middle East",
+"image_url": null,
+"image_local": "isw/images/isaf-force-distribution-in-helmand-province-spring-2009.jpg",
+"image_w": 511,
+"image_h": 695,
+"extraction_model": "claude-opus-4-6",
+"n_anchors": 56,
+"n_anchors_used": 26,
+"georef_rms_km": 29.1,
+"image_corners": [
+[
+33.99236990001619,
+62.56310891492225
+],
+[
+33.44289202377965,
+66.16072099502018
+],
+[
+27.813732385682812,
+67.24570319110816
+],
+[
+28.396439954311926,
+63.64809111101024
+]
+],
+"n_plots": 10,
+"legend": [
+{
+"label": "US flag",
+"symbol": "US flag icon",
+"kind": "point"
+},
+{
+"label": "UK flag",
+"symbol": "UK Union Jack icon",
+"kind": "point"
+},
+{
+"label": "Danish flag",
+"symbol": "Danish flag icon",
+"kind": "point"
+}
+]
+},
+{
+"id": "u-s-marine-corps-operation-khanjar",
+"source": "isw_maps",
+"url": "https://understandingwar.org/map/u-s-marine-corps-operation-khanjar/",
+"title": "U.S. Marine Corps Operation Khanjar",
+"page_date": "October 9, 2009",
+"isw_map_id": null,
+"as_of_date": null,
+"period_start": "2009-07-01",
+"period_end": "2009-07-31",
+"date_precision": "month",
+"map_type": "force_disposition",
+"geographic_extent": "Helmand Province, Afghanistan",
+"producer": "Institute for the Study of War (ISW) / AEI Critical Threats Project",
+"cartographer": null,
+"caption_text": "For more information on Operation Khanjar, see Afghanistan Report 2: Securing Helmand, by Jeffrey A. Dressler.",
+"tags": "Afghanistan; Afghanistan Surge and Drawdown; Geospatial Intelligence",
+"image_url": null,
+"image_local": "isw/images/u-s-marine-corps-operation-khanjar.jpg",
+"image_w": 242,
+"image_h": 300,
+"extraction_model": "claude-opus-4-6",
+"n_anchors": 8,
+"n_anchors_used": 5,
+"georef_rms_km": 30.3,
+"image_corners": [
+[
+31.278669337875048,
+61.881527762016894
+],
+[
+31.683959058995033,
+67.08568705564062
+],
+[
+31.088068862426173,
+65.9962932695214
+],
+[
+30.680214502333634,
+60.79213397589768
+]
+],
+"n_plots": 6,
+"legend": [
+{
+"label": "USMC operations",
+"symbol": "red area/arrow",
+"kind": "area"
+},
+{
+"label": "Cleared area of operations",
+"symbol": "green shaded area",
+"kind": "area"
+},
+{
+"label": "Taliban controlled/contested",
+"symbol": "pink/red shaded area",
+"kind": "area"
+},
+{
+"label": "Provincial boundary",
+"symbol": "yellow line",
+"kind": "line"
+},
+{
+"label": "District boundary",
+"symbol": "gray line",
+"kind": "line"
+}
+]
+},
+{
+"id": "map-major-enemy-groups-in-afghanistan",
+"source": "isw_maps",
+"url": "https://understandingwar.org/map/map-major-enemy-groups-in-afghanistan/",
+"title": "Map: Major Enemy Groups in Afghanistan",
+"page_date": "August 1, 2009",
+"isw_map_id": null,
+"as_of_date": "2009-08-01",
+"period_start": null,
+"period_end": null,
+"date_precision": "day",
+"map_type": "thematic",
+"geographic_extent": "Afghanistan and Pakistan border region",
+"producer": "Joint Product of The Institute for the Study of War and the American Enterprise Institute",
+"cartographer": "Department of Peacekeeping Operations, Cartographic Section",
+"caption_text": "Joint Product of The Institute for the Study of War and the American Enterprise Institute",
+"tags": "Afghanistan; Afghanistan US Withdrawal and Aftermath; Geospatial Intelligence",
+"image_url": null,
+"image_local": "isw/images/map-major-enemy-groups-in-afghanistan.jpg",
+"image_w": 1024,
+"image_h": 769,
+"extraction_model": "claude-opus-4-6",
+"n_anchors": 62,
+"n_anchors_used": 38,
+"georef_rms_km": 35.4,
+"image_corners": [
+[
+38.8781447272958,
+61.14430163312542
+],
+[
+38.738765848873925,
+74.80549586537455
+],
+[
+28.00159940710665,
+74.40254049811662
+],
+[
+28.1594087175523,
+60.741346265867485
+]
+],
+"n_plots": 13,
+"legend": [
+{
+"label": "Global aims",
+"symbol": "blue outlined box with white/light fill",
+"kind": "other"
+},
+{
+"label": "Afghanistan-focused",
+"symbol": "green outlined box with green fill",
+"kind": "other"
+},
+{
+"label": "Pakistan-focused",
+"symbol": "orange outlined box with orange fill",
+"kind": "other"
+}
+]
+},
+{
+"id": "major-enemy-groups-in-afghanistan",
+"source": "isw_maps",
+"url": "https://understandingwar.org/map/major-enemy-groups-in-afghanistan/",
+"title": "Major Enemy Groups in Afghanistan",
+"page_date": "August 6, 2009",
+"isw_map_id": null,
+"as_of_date": "2009-08-06",
+"period_start": null,
+"period_end": null,
+"date_precision": "day",
+"map_type": "force_disposition",
+"geographic_extent": "Afghanistan and border regions of Pakistan",
+"producer": "Joint Product of The Institute for the Study of War and the American Enterprise Institute",
+"cartographer": null,
+"caption_text": "Joint Product of The Institute for the Study of War and the American Enterprise Institute",
+"tags": "Afghanistan; Afghanistan US Withdrawal and Aftermath; Geospatial Intelligence",
+"image_url": null,
+"image_local": "isw/images/major-enemy-groups-in-afghanistan.jpg",
+"image_w": 511,
+"image_h": 314,
+"extraction_model": "claude-opus-4-6",
+"n_anchors": 39,
+"n_anchors_used": 32,
+"georef_rms_km": 32.9,
+"image_corners": [
+[
+37.969461929687235,
+62.80432653674737
+],
+[
+37.293274703228775,
+76.22750026407414
+],
+[
+27.44013048941101,
+71.5764396316546
+],
+[
+28.195281180916687,
+58.15326590432782
+]
+],
+"n_plots": 8,
+"legend": [
+{
+"label": "Afghanistan focused",
+"symbol": "blue shaded area",
+"kind": "area"
+},
+{
+"label": "Pakistan focused",
+"symbol": "yellow/olive shaded area",
+"kind": "area"
+}
+]
+},
+{
+"id": "u-s-marine-corps-operation-eastern-resolve-ii",
+"source": "isw_maps",
+"url": "https://understandingwar.org/map/u-s-marine-corps-operation-eastern-resolve-ii/",
+"title": "U.S. Marine Corps Operation Eastern Resolve II",
+"page_date": "October 9, 2009",
+"isw_map_id": null,
+"as_of_date": "2009-10-09",
+"period_start": "2009-08-01",
+"period_end": "2009-08-31",
+"date_precision": "month",
+"map_type": "force_disposition",
+"geographic_extent": "Helmand Province and surrounding provinces, Afghanistan",
+"producer": "Institute for the Study of War (ISW) / AEI Critical Threats Project",
+"cartographer": null,
+"caption_text": null,
+"tags": "Afghanistan; Afghanistan Surge and Drawdown; Geospatial Intelligence",
+"image_url": null,
+"image_local": "isw/images/u-s-marine-corps-operation-eastern-resolve-ii.jpg",
+"image_w": 300,
+"image_h": 265,
+"extraction_model": "claude-opus-4-6",
+"n_anchors": 14,
+"n_anchors_used": 5,
+"georef_rms_km": 37.1,
+"image_corners": [
+[
+32.530658414691985,
+61.22816417544008
+],
+[
+33.18060806785267,
+63.699949841306655
+],
+[
+32.17327798466125,
+66.40325537382847
+],
+[
+31.516023197937113,
+63.93146970796189
+]
+],
+"n_plots": 4,
+"legend": [
+{
+"label": "International boundary",
+"symbol": "dashed line",
+"kind": "line"
+},
+{
+"label": "Provincial boundary",
+"symbol": "thin dashed line",
+"kind": "line"
+}
+]
+},
+{
+"id": "kandahar-province-2",
+"source": "isw_maps",
+"url": "https://understandingwar.org/map/kandahar-province-2/",
+"title": "Kandahar Province",
+"page_date": "December 1, 2009",
+"isw_map_id": null,
+"as_of_date": "2009-12-01",
+"period_start": null,
+"period_end": null,
+"date_precision": "day",
+"map_type": "reference",
+"geographic_extent": "Kandahar Province, Afghanistan and surrounding areas including parts of Helmand, Uruzgan, Zabul, Ghazni provinces and Balochistan, Pakistan",
+"producer": "Institute for the Study of War",
+"cartographer": null,
+"caption_text": null,
+"tags": "Afghanistan; Afghanistan Surge and Drawdown; Middle East",
+"image_url": null,
+"image_local": "isw/images/kandahar-province-2.jpg",
+"image_w": 1838,
+"image_h": 2352,
+"extraction_model": "claude-opus-4-6",
+"n_anchors": 135,
+"n_anchors_used": 53,
+"georef_rms_km": 14.6,
+"image_corners": [
+[
+33.310916228680604,
+63.99413075633244
+],
+[
+33.299980776241355,
+68.24549652394707
+],
+[
+28.639871821576126,
+68.12295596807745
+],
+[
+28.651354814744053,
+63.871590200462826
+]
+],
+"n_plots": 4,
+"legend": []
+},
+{
+"id": "force-distribution-in-marjah-and-nad-ali",
+"source": "isw_maps",
+"url": "https://understandingwar.org/map/force-distribution-in-marjah-and-nad-ali/",
+"title": "Force Distribution in Marjah and Nad Ali",
+"page_date": "March 2, 2010",
+"isw_map_id": null,
+"as_of_date": "2010-03-02",
+"period_start": null,
+"period_end": null,
+"date_precision": "day",
+"map_type": "force_disposition",
+"geographic_extent": "Marjah and Nad Ali districts, Helmand Province, Afghanistan",
+"producer": "Institute for the Study of War (ISW) / AEI Critical Threats Project",
+"cartographer": null,
+"caption_text": null,
+"tags": "Afghanistan; Afghanistan Surge and Drawdown; Middle East",
+"image_url": null,
+"image_local": "isw/images/force-distribution-in-marjah-and-nad-ali.jpg",
+"image_w": 403,
+"image_h": 415,
+"extraction_model": "claude-opus-4-6",
+"n_anchors": 9,
+"n_anchors_used": 3,
+"georef_rms_km": 0.0,
+"image_corners": [
+[
+31.95046934940741,
+65.31094849557518
+],
+[
+31.14953553669877,
+62.28720900442482
+],
+[
+32.50573895514976,
+69.28779030973456
+],
+[
+33.29486151153571,
+72.31152980088493
+]
+],
+"n_plots": 8,
+"legend": [
+{
+"label": "Fertile Areas",
+"symbol": "green/tan shaded area",
+"kind": "area"
+},
+{
+"label": "Additional Danish and Estonian contingent",
+"symbol": "small flag icons",
+"kind": "point"
+}
+]
+},
+{
+"id": "disposition-of-isaf-afghan-forces-may-2010",
+"source": "isw_maps",
+"url": "https://understandingwar.org/map/disposition-of-isaf-afghan-forces-may-2010/",
+"title": "Disposition of ISAF and Afghan Forces – May 2010",
+"page_date": "December 15, 2010",
+"isw_map_id": null,
+"as_of_date": "2010-05-01",
+"period_start": "2010-05-01",
+"period_end": "2010-05-31",
+"date_precision": "month",
+"map_type": "force_disposition",
+"geographic_extent": "Kandahar Province, Afghanistan — Zhari, Panjwai, Dand districts and Kandahar city area",
+"producer": "Institute for the Study of War (ISW) / AEI Critical Threats Project",
+"cartographer": null,
+"caption_text": null,
+"tags": "Afghanistan; Afghanistan Surge and Drawdown; Middle East",
+"image_url": null,
+"image_local": "isw/images/disposition-of-isaf-afghan-forces-may-2010.jpg",
+"image_w": 511,
+"image_h": 423,
+"extraction_model": "claude-opus-4-6",
+"n_anchors": 32,
+"n_anchors_used": 4,
+"georef_rms_km": 4.4,
+"image_corners": [
+[
+31.76624230377756,
+65.3335289794704
+],
+[
+31.790306493218687,
+66.06818889904201
+],
+[
+31.177375320755985,
+65.85583704013
+],
+[
+31.153153012400367,
+65.12117712055839
+]
+],
+"n_plots": 9,
+"legend": [
+{
+"label": "U.S. Battalion",
+"symbol": "U.S. flag icon",
+"kind": "point"
+},
+{
+"label": "Afghan Battalion",
+"symbol": "Afghan flag icon",
+"kind": "point"
+},
+{
+"label": "Canadian Battalion",
+"symbol": "Canadian flag icon",
+"kind": "point"
+},
+{
+"label": "Primary roads",
+"symbol": "solid line",
+"kind": "line"
+},
+{
+"label": "Secondary roads",
+"symbol": "thinner solid line",
+"kind": "line"
+},
+{
+"label": "Dirt trails",
+"symbol": "dashed thin line",
+"kind": "line"
+},
+{
+"label": "Provincial boundary",
+"symbol": "dotted/dashed line",
+"kind": "line"
+},
+{
+"label": "District boundary",
+"symbol": "dashed line",
+"kind": "line"
+}
+]
+},
+{
+"id": "force-disposition-afghanistan-pakistan-border",
+"source": "isw_maps",
+"url": "https://understandingwar.org/map/force-disposition-afghanistan-pakistan-border/",
+"title": "Force Disposition: Afghanistan/Pakistan Border",
+"page_date": "September 23, 2010",
+"isw_map_id": null,
+"as_of_date": "2010-09-23",
+"period_start": null,
+"period_end": null,
+"date_precision": "day",
+"map_type": "force_disposition",
+"geographic_extent": "Southern and Eastern Afghanistan and western Pakistan border region",
+"producer": "Institute for the Study of War",
+"cartographer": null,
+"caption_text": "Southern and Eastern Afghanistan ORBAT",
+"tags": "Afghanistan; Afghanistan Surge and Drawdown; Geospatial Intelligence",
+"image_url": null,
+"image_local": "isw/images/force-disposition-afghanistan-pakistan-border.jpg",
+"image_w": 1091,
+"image_h": 845,
+"extraction_model": "claude-opus-4-6",
+"n_anchors": 47,
+"n_anchors_used": 30,
+"georef_rms_km": 41.1,
+"image_corners": [
+[
+37.51685556322167,
+62.50082973734109
+],
+[
+36.42019990903382,
+72.94379566881919
+],
+[
+28.504970215044825,
+71.52954881535412
+],
+[
+29.704254316958316,
+61.08658288387603
+]
+],
+"n_plots": 48,
+"legend": [
+{
+"label": "Regional Command East",
+"symbol": "light blue/teal shaded area",
+"kind": "area"
+},
+{
+"label": "Regional Command South",
+"symbol": "pink/purple shaded area",
+"kind": "area"
+},
+{
+"label": "U.S. & ISAF Forces",
+"symbol": "blue crossed-swords symbol",
+"kind": "point"
+},
+{
+"label": "Pakistani Army",
+"symbol": "green filled rectangle",
+"kind": "point"
+},
+{
+"label": "Frontier Corps",
+"symbol": "green rectangle with FC label",
+"kind": "point"
+}
+]
+},
+{
+"id": "disposition-of-isaf-afghan-forces-november-2010",
+"source": "isw_maps",
+"url": "https://understandingwar.org/map/disposition-of-isaf-afghan-forces-november-2010/",
+"title": "Disposition of ISAF and Afghan Forces – November 2010",
+"page_date": "December 15, 2010",
+"isw_map_id": null,
+"as_of_date": "2010-11-01",
+"period_start": "2010-11-01",
+"period_end": "2010-11-30",
+"date_precision": "month",
+"map_type": "force_disposition",
+"geographic_extent": "Kandahar Province, Afghanistan — Zhari, Panjwai, Dand, Daman districts",
+"producer": "Institute for the Study of War (ISW) / AEI Critical Threats Project",
+"cartographer": null,
+"caption_text": null,
+"tags": "Afghanistan; Afghanistan Surge and Drawdown; Middle East",
+"image_url": null,
+"image_local": "isw/images/disposition-of-isaf-afghan-forces-november-2010.jpg",
+"image_w": 511,
+"image_h": 423,
+"extraction_model": "claude-opus-4-6",
+"n_anchors": 29,
+"n_anchors_used": 4,
+"georef_rms_km": 34.1,
+"image_corners": [
+[
+36.42233255833104,
+69.07185157045423
+],
+[
+28.469370421374602,
+63.40339829701301
+],
+[
+30.72287384278199,
+65.53599972655121
+],
+[
+38.47974323672207,
+71.20445299999243
+]
+],
+"n_plots": 24,
+"legend": [
+{
+"label": "U.S. Battalion",
+"symbol": "U.S. flag icon",
+"kind": "point"
+},
+{
+"label": "Afghan Battalion",
+"symbol": "Afghan flag icon",
+"kind": "point"
+},
+{
+"label": "Canadian Battalion",
+"symbol": "Canadian flag icon",
+"kind": "point"
+},
+{
+"label": "Primary roads",
+"symbol": "solid black line",
+"kind": "line"
+},
+{
+"label": "Secondary roads",
+"symbol": "thinner black line",
+"kind": "line"
+},
+{
+"label": "Dirt trails",
+"symbol": "dashed line",
+"kind": "line"
+},
+{
+"label": "Provincial boundary",
+"symbol": "dash-dot line",
+"kind": "line"
+},
+{
+"label": "District boundary",
+"symbol": "dashed line",
+"kind": "line"
+}
+]
+},
+{
+"id": "arghandab-district",
+"source": "isw_maps",
+"url": "https://understandingwar.org/map/arghandab-district/",
+"title": "Arghandab District",
+"page_date": "December 15, 2010",
+"isw_map_id": null,
+"as_of_date": "2010-12-15",
+"period_start": null,
+"period_end": null,
+"date_precision": "day",
+"map_type": "reference",
+"geographic_extent": "Arghandab District, Kandahar Province, Afghanistan",
+"producer": "Institute for the Study of War",
+"cartographer": null,
+"caption_text": null,
+"tags": "Afghanistan; Afghanistan Surge and Drawdown; Middle East",
+"image_url": null,
+"image_local": "isw/images/arghandab-district.jpg",
+"image_w": 2157,
+"image_h": 1569,
+"extraction_model": "claude-opus-4-6",
+"n_anchors": 18,
+"n_anchors_used": 0,
+"georef_rms_km": null,
+"image_corners": null,
+"n_plots": 0,
+"legend": []
+},
+{
+"id": "isaf-operations-in-zhari-panjwai-september-october-2010",
+"source": "isw_maps",
+"url": "https://understandingwar.org/map/isaf-operations-in-zhari-panjwai-september-october-2010/",
+"title": "ISAF Operations in Zhari and Panjwai – September and October 2010",
+"page_date": "December 15, 2010",
+"isw_map_id": null,
+"as_of_date": "2010-12-15",
+"period_start": "2010-09-01",
+"period_end": "2010-10-31",
+"date_precision": "month",
+"map_type": "event_points",
+"geographic_extent": "Zhari and Panjwai Districts, Kandahar Province, Afghanistan",
+"producer": "INSTITUTE FOR THE STUDY OF WAR",
+"cartographer": null,
+"caption_text": null,
+"tags": "Afghanistan; Afghanistan Surge and Drawdown; Middle East",
+"image_url": null,
+"image_local": "isw/images/isaf-operations-in-zhari-panjwai-september-october-2010.jpg",
+"image_w": 511,
+"image_h": 339,
+"extraction_model": "claude-opus-4-6",
+"n_anchors": 31,
+"n_anchors_used": 4,
+"georef_rms_km": 70.4,
+"image_corners": [
+[
+27.876567409096946,
+62.39428165609214
+],
+[
+29.237592984164692,
+63.89388567476971
+],
+[
+41.2100135938904,
+73.80704506142138
+],
+[
+40.03388523109065,
+72.30744104274379
+]
+],
+"n_plots": 11,
+"legend": [
+{
+"label": "September 2010",
+"symbol": "black arrow",
+"kind": "line"
+},
+{
+"label": "October 2010",
+"symbol": "red arrow",
+"kind": "line"
+}
+]
+},
+{
+"id": "isaf-force-distribution-in-helmand-province-winter-2010",
+"source": "isw_maps",
+"url": "https://understandingwar.org/map/isaf-force-distribution-in-helmand-province-winter-2010/",
+"title": "ISAF Force Distribution in Helmand Province – Winter 2010",
+"page_date": "January 6, 2011",
+"isw_map_id": null,
+"as_of_date": null,
+"period_start": "2010-12-01",
+"period_end": "2011-01-06",
+"date_precision": "month",
+"map_type": "force_disposition",
+"geographic_extent": "Helmand Province, Afghanistan and surrounding provinces",
+"producer": "INSTITUTE FOR THE STUDY OF WAR",
+"cartographer": null,
+"caption_text": null,
+"tags": "Afghanistan; Afghanistan Surge and Drawdown; Middle East",
+"image_url": null,
+"image_local": "isw/images/isaf-force-distribution-in-helmand-province-winter-2010.jpg",
+"image_w": 511,
+"image_h": 695,
+"extraction_model": "claude-opus-4-6",
+"n_anchors": 57,
+"n_anchors_used": 29,
+"georef_rms_km": 31.7,
+"image_corners": [
+[
+33.68927979107409,
+62.81399536720117
+],
+[
+33.50265698982339,
+66.28898076325893
+],
+[
+28.42798022381,
+66.47542944638522
+],
+[
+28.624827887641214,
+63.00044405032747
+]
+],
+"n_plots": 21,
+"legend": [
+{
+"label": "US flag",
+"symbol": "US flag icon",
+"kind": "point"
+},
+{
+"label": "UK flag",
+"symbol": "UK Union Jack icon",
+"kind": "point"
+},
+{
+"label": "Danish flag",
+"symbol": "Danish flag icon (red with white cross)",
+"kind": "point"
+},
+{
+"label": "Estonian flag",
+"symbol": "Estonian flag icon (blue-black-white)",
+"kind": "point"
+},
+{
+"label": "Georgian flag",
+"symbol": "Georgian flag icon",
+"kind": "point"
+}
+]
+},
+{
+"id": "defining-success-in-afghanistan",
+"source": "isw_maps",
+"url": "https://understandingwar.org/map/defining-success-in-afghanistan/",
+"title": "DEFINING SUCCESS IN AFGHANISTAN",
+"page_date": "January 7, 2011",
+"isw_map_id": null,
+"as_of_date": "2011-01-07",
+"period_start": null,
+"period_end": null,
+"date_precision": "day",
+"map_type": "reference",
+"geographic_extent": "Afghanistan",
+"producer": "Institute for the Study of War (ISW) / AEI Critical Threats Project",
+"cartographer": null,
+"caption_text": null,
+"tags": "Afghanistan; Afghanistan Surge and Drawdown; Middle East",
+"image_url": null,
+"image_local": "isw/images/defining-success-in-afghanistan.jpg",
+"image_w": 412,
+"image_h": 256,
+"extraction_model": "claude-opus-4-6",
+"n_anchors": 0,
+"n_anchors_used": 0,
+"georef_rms_km": null,
+"image_corners": null,
+"n_plots": 0,
+"legend": []
+},
+{
+"id": "the-fight-for-eastern-afghanistan-map",
+"source": "isw_maps",
+"url": "https://understandingwar.org/map/the-fight-for-eastern-afghanistan-map/",
+"title": "The Fight for Eastern Afghanistan Map",
+"page_date": "March 16, 2012",
+"isw_map_id": null,
+"as_of_date": "2012-03-16",
+"period_start": null,
+"period_end": null,
+"date_precision": "day",
+"map_type": "force_disposition",
+"geographic_extent": "Eastern Afghanistan and adjacent Pakistan FATA/Frontier Province",
+"producer": "Institute for the Study of War (ISW) / AEI Critical Threats Project",
+"cartographer": null,
+"caption_text": null,
+"tags": "Afghanistan; Afghanistan Surge and Drawdown; Middle East",
+"image_url": null,
+"image_local": "isw/images/the-fight-for-eastern-afghanistan-map.jpg",
+"image_w": 872,
+"image_h": 854,
+"extraction_model": "claude-opus-4-6",
+"n_anchors": 59,
+"n_anchors_used": 39,
+"georef_rms_km": 17.3,
+"image_corners": [
+[
+35.205303690649565,
+67.14995208649573
+],
+[
+35.03070100149571,
+71.7319395389181
+],
+[
+31.129043594779024,
+71.46504756814333
+],
+[
+31.311589414820418,
+66.88306011572097
+]
+],
+"n_plots": 19,
+"legend": [
+{
+"label": "Kabul infiltration routes",
+"symbol": "red arrow",
+"kind": "line"
+},
+{
+"label": "Enemy strongholds",
+"symbol": "grey area",
+"kind": "area"
+},
+{
+"label": "#s Remaining critical tasks for NATO",
+"symbol": "red circled number",
+"kind": "point"
+}
+]
+},
+{
+"id": "afghanistan",
+"source": "isw_maps",
+"url": "https://understandingwar.org/map/afghanistan/",
+"title": "Afghanistan",
+"page_date": "October 31, 2012",
+"isw_map_id": null,
+"as_of_date": "2012-10-31",
+"period_start": "2010-01-01",
+"period_end": "2012-12-31",
+"date_precision": "year",
+"map_type": "thematic",
+"geographic_extent": "Afghanistan and surrounding countries (Pakistan, Iran, Tajikistan, Turkmenistan, Uzbekistan)",
+"producer": "ISW / AEI Critical Threats Project",
+"cartographer": null,
+"caption_text": "Click on areas on the map to see the number of attacks, KIA, and WIA. Note: District-level information for one attack in Kandahar in 2010 is not available. Maps last updated October 31, 2012.",
+"tags": "Afghanistan; Afghanistan Surge and Drawdown; Middle East",
+"image_url": null,
+"image_local": "isw/images/afghanistan.jpg",
+"image_w": 989,
+"image_h": 366,
+"extraction_model": "claude-opus-4-6",
+"n_anchors": 43,
+"n_anchors_used": 12,
+"georef_rms_km": 32.4,
+"image_corners": [
+[
+37.265847603763184,
+59.258997803029885
+],
+[
+39.51856954574402,
+78.84938130957644
+],
+[
+28.17289891293144,
+74.69922630476584
+],
+[
+25.609459879707288,
+55.10884279821929
+]
+],
+"n_plots": 7,
+"legend": [
+{
+"label": "Province-level attacks 2010",
+"symbol": "orange shaded area",
+"kind": "area"
+},
+{
+"label": "Province-level attacks 2011",
+"symbol": "red shaded area",
+"kind": "area"
+},
+{
+"label": "Province-level attacks 2012",
+"symbol": "dark red shaded area",
+"kind": "area"
+},
+{
+"label": "District-level attacks 2010",
+"symbol": "orange shaded area",
+"kind": "area"
+},
+{
+"label": "District-level attacks 2011",
+"symbol": "red shaded area",
+"kind": "area"
+},
+{
+"label": "District-level attacks 2012",
+"symbol": "dark red shaded area",
+"kind": "area"
+},
+{
+"label": "Regional Commands",
+"symbol": "colored regions",
+"kind": "area"
+},
+{
+"label": "KIA",
+"symbol": "toggle view",
+"kind": "other"
+},
+{
+"label": "Attacks",
+"symbol": "toggle view",
+"kind": "other"
+}
+]
+},
+{
+"id": "switch-view-to-regional-commands",
+"source": "isw_maps",
+"url": "https://understandingwar.org/map/switch-view-to-regional-commands/",
+"title": "Switch view to Regional Commands",
+"page_date": "October 31, 2012",
+"isw_map_id": null,
+"as_of_date": "2012-10-31",
+"period_start": null,
+"period_end": "2012-10-31",
+"date_precision": "day",
+"map_type": "control_zones",
+"geographic_extent": "Afghanistan and Pakistan",
+"producer": "ISW / AEI Critical Threats Project",
+"cartographer": null,
+"caption_text": "Click on areas on the map to see the number of attacks, KIA and WIA available. Note: District level information for one attack in Kandahari 2011 is not available. Maps last updated October 31, 2012",
+"tags": "Afghanistan; Afghanistan Surge and Drawdown; Middle East",
+"image_url": null,
+"image_local": "isw/images/switch-view-to-regional-commands.jpg",
+"image_w": 669,
+"image_h": 366,
+"extraction_model": "claude-opus-4-6",
+"n_anchors": 31,
+"n_anchors_used": 7,
+"georef_rms_km": 39.1,
+"image_corners": [
+[
+40.23046033935799,
+53.53013422765673
+],
+[
+38.40578835103758,
+82.11331994824363
+],
+[
+24.55263413291063,
+87.88342809239393
+],
+[
+26.679402898734573,
+59.300242371807016
+]
+],
+"n_plots": 16,
+"legend": [
+{
+"label": "Provinces (attacks) 2010",
+"symbol": "blue shaded area",
+"kind": "area"
+},
+{
+"label": "Provinces (attacks) 2011",
+"symbol": "green shaded area",
+"kind": "area"
+},
+{
+"label": "Provinces (attacks) 2012",
+"symbol": "yellow shaded area",
+"kind": "area"
+},
+{
+"label": "Districts (attacks) 2010",
+"symbol": "blue outlined area",
+"kind": "area"
+},
+{
+"label": "Districts (attacks) 2011",
+"symbol": "green outlined area",
+"kind": "area"
+},
+{
+"label": "Districts (attacks) 2012",
+"symbol": "yellow outlined area",
+"kind": "area"
+}
+]
+},
+{
+"id": "u-s-embassy-consulate-closures-sunday-4-august-2013",
+"source": "isw_maps",
+"url": "https://understandingwar.org/map/u-s-embassy-consulate-closures-sunday-4-august-2013/",
+"title": "US Embassy & Consulate Closures, Sunday, August 4, 2013",
+"page_date": "August 3, 2013",
+"isw_map_id": null,
+"as_of_date": "2013-08-04",
+"period_start": "2013-08-04",
+"period_end": "2013-08-04",
+"date_precision": "day",
+"map_type": "event_points",
+"geographic_extent": "North Africa, Middle East, South Asia, East Africa",
+"producer": "ISW and AEI's Critical Threats Project",
+"cartographer": "Google Maps Engine",
+"caption_text": null,
+"tags": "Afghanistan, Pakistan Salafi Jihadi Update; Iraq; Middle East",
+"image_url": null,
+"image_local": "isw/images/u-s-embassy-consulate-closures-sunday-4-august-2013.jpg",
+"image_w": 1362,
+"image_h": 641,
+"extraction_model": "claude-opus-4-6",
+"n_anchors": 62,
+"n_anchors_used": 0,
+"georef_rms_km": null,
+"image_corners": null,
+"n_plots": 22,
+"legend": [
+{
+"label": "U.S. Embassy/Consulate Closure",
+"symbol": "red/pink map pin",
+"kind": "point"
+}
+]
+},
+{
+"id": "militant-attack-and-support-zones-in-afghanistan-april-july-7-2015",
+"source": "isw_maps",
+"url": "https://understandingwar.org/map/militant-attack-and-support-zones-in-afghanistan-april-july-7-2015/",
+"title": "Militant Attack and Support Zones in Afghanistan: April – July 7, 2015",
+"page_date": "2025-05-29",
+"isw_map_id": null,
+"as_of_date": "2015-07-07",
+"period_start": "2015-04-01",
+"period_end": "2015-07-07",
+"date_precision": "day",
+"map_type": "control_zones",
+"geographic_extent": "Afghanistan",
+"producer": "Institute for the Study of War (ISW)",
+"cartographer": null,
+"caption_text": null,
+"tags": "Afghanistan; Afghanistan Surge and Drawdown; Middle East",
+"image_url": null,
+"image_local": "isw/images/militant-attack-and-support-zones-in-afghanistan-april-july-7-2015.jpg",
+"image_w": 4800,
+"image_h": 4181,
+"extraction_model": "claude-opus-4-6",
+"n_anchors": 33,
+"n_anchors_used": 31,
+"georef_rms_km": 36.4,
+"image_corners": [
+[
+40.0137057701977,
+62.18266225714366
+],
+[
+39.56327132250872,
+74.46385320434362
+],
+[
+28.834798213530892,
+72.87579179001261
+],
+[
+29.347039125459297,
+60.594600842812646
+]
+],
+"n_plots": 38,
+"legend": [
+{
+"label": "SUPPORT ZONE",
+"symbol": "light orange/peach shaded area",
+"kind": "area"
+},
+{
+"label": "ATTACK ZONE",
+"symbol": "darker orange/salmon shaded area",
+"kind": "area"
+},
+{
+"label": "MAJOR TRANSIT ROUTES",
+"symbol": "brown/dark tan line",
+"kind": "line"
+},
+{
+"label": "DISTRICT CENTERS ATTACKED AND HELD FOR AT LEAST 48 HRS",
+"symbol": "blue starburst",
+"kind": "point"
+},
+{
+"label": "SPECTACULAR ATTACK LOCATIONS",
+"symbol": "dark red starburst",
+"kind": "point"
+}
+]
+},
+{
+"id": "isis-in-nangarhar-november-2015",
+"source": "isw_maps",
+"url": "https://understandingwar.org/map/isis-in-nangarhar-november-2015/",
+"title": "ISIS in Nangarhar: November 2015",
+"page_date": "December 3, 2015",
+"isw_map_id": null,
+"as_of_date": "2015-11-30",
+"period_start": "2015-11-01",
+"period_end": "2015-11-30",
+"date_precision": "month",
+"map_type": "control_zones",
+"geographic_extent": "Nangarhar Province, Afghanistan and adjacent areas of Pakistan",
+"producer": "Institute for the Study of War (ISW)",
+"cartographer": "Jessica Lewis McFate and Caitlin Forrest",
+"caption_text": "Control zones on this map depict villages where indicators of ISIS's control could be precisely geo-located. No village names could be found in open source reporting to clarify the exact location of ISIS's control in Kot district. ISIS likely maintains control of a significant portion of Kot district as of November 2015, however. The circled control zone in Kot district therefore represents an estimate for ISIS's possible control.",
+"tags": "Afghanistan; Afghanistan Surge and Drawdown; Middle East",
+"image_url": null,
+"image_local": "isw/images/isis-in-nangarhar-november-2015.jpg",
+"image_w": 1600,
+"image_h": 957,
+"extraction_model": "claude-opus-4-6",
+"n_anchors": 15,
+"n_anchors_used": 6,
+"georef_rms_km": 4.6,
+"image_corners": [
+[
+35.09293059269353,
+69.19486695408816
+],
+[
+35.30974142550797,
+72.28517922936494
+],
+[
+33.563014393905576,
+71.78987073713041
+],
+[
+33.34163631384003,
+68.69955846185363
+]
+],
+"n_plots": 21,
+"legend": [
+{
+"label": "ISIS Control Zone",
+"symbol": "black area",
+"kind": "area"
+},
+{
+"label": "ISIS Attack Zone",
+"symbol": "red area",
+"kind": "area"
+},
+{
+"label": "ISIS Support Zone",
+"symbol": "pink area",
+"kind": "area"
+}
+]
+},
+{
+"id": "afghanistan-threat-assessment-the-taliban-and-isis",
+"source": "isw_maps",
+"url": "https://understandingwar.org/map/afghanistan-threat-assessment-the-taliban-and-isis/",
+"title": "Afghanistan Threat Assessment: the Taliban and ISIS",
+"page_date": "2025-05-29",
+"isw_map_id": null,
+"as_of_date": "2015-12-10",
+"period_start": null,
+"period_end": "2015-12-10",
+"date_precision": "day",
+"map_type": "control_zones",
+"geographic_extent": "Afghanistan and Pakistan with portions of Iran, Turkmenistan, Uzbekistan, Tajikistan, China, and India",
+"producer": "Institute for the Study of War (ISW)",
+"cartographer": null,
+"caption_text": "This map partially depicts areas of Taliban control and support and ISIS presence across Afghanistan as of December 10, 2015 as well as the status of district centers that have been attacked by Taliban militants in 2015. Some support zones depicted on the map exceed the bounds of the districts explicitly researched as part of this project. These low-confidence support zone assessments are based upon historical, terrain, and demographic analysis. High-confidence support zones are depicted in districts that were fully researched as part of this project. ISW analysts have assessed conditions in 200 of 409 districts. Taliban militants captured the district center of Reg-e Khan Neshin district, Helmand province on December 9 after prolonged clashes with police and ANSF, the last district center capture portrayed on this map. Taliban militants loyal to Mullah Akhtar Mansour attacked the joint U.S.-Afghan Kandahar Airfield near Kandahar City on December 8. This attack is not represented on the map because it does not constitute an attempt by Taliban militants to control a district center. ISW will update this map as ground conditions change and as analysts continue to assess support zones.",
+"tags": "Afghanistan; Afghanistan Surge and Drawdown; Middle East",
+"image_url": null,
+"image_local": "isw/images/afghanistan-threat-assessment-the-taliban-and-isis.jpg",
+"image_w": 3250,
+"image_h": 3178,
+"extraction_model": "claude-opus-4-6",
+"n_anchors": 68,
+"n_anchors_used": 30,
+"georef_rms_km": 29.4,
+"image_corners": [
+[
+39.610029914124205,
+63.53704382498495
+],
+[
+39.42556934171605,
+75.34029099015896
+],
+[
+26.33498933737642,
+69.18805687855644
+],
+[
+26.549090370723334,
+57.384809713382424
+]
+],
+"n_plots": 81,
+"legend": [
+{
+"label": "Taliban Militants Control District Center",
+"symbol": "purple circle",
+"kind": "point"
+},
+{
+"label": "Taliban Militants Contest District Center",
+"symbol": "red circle",
+"kind": "point"
+},
+{
+"label": "Taliban Militants Previously Controlled District Center",
+"symbol": "yellow circle",
+"kind": "point"
+},
+{
+"label": "Low Confidence Taliban Support Zone",
+"symbol": "pink area",
+"kind": "area"
+},
+{
+"label": "High Confidence Taliban Support Zone",
+"symbol": "orange area",
+"kind": "area"
+},
+{
+"label": "Taliban Control Zone",
+"symbol": "purple area",
+"kind": "area"
+},
+{
+"label": "ISIS Presence",
+"symbol": "black area",
+"kind": "area"
+},
+{
+"label": "ANA Corps Headquarters",
+"symbol": "xxx military symbol",
+"kind": "point"
+},
+{
+"label": "ANA Corps AO Boundaries",
+"symbol": "dark green line/circle",
+"kind": "line"
+},
+{
+"label": "Researched Districts",
+"symbol": "yellow area",
+"kind": "area"
+}
+]
+},
+{
+"id": "afghanistan-partial-threat-assessment-map-february-23-2016",
+"source": "isw_maps",
+"url": "https://understandingwar.org/map/afghanistan-partial-threat-assessment-map-february-23-2016/",
+"title": "Afghanistan Partial Threat Assessment Map: February 23, 2016",
+"page_date": "February 24, 2016",
+"isw_map_id": null,
+"as_of_date": "2016-02-23",
+"period_start": null,
+"period_end": "2016-02-23",
+"date_precision": "day",
+"map_type": "control_zones",
+"geographic_extent": "Afghanistan and Pakistan with portions of Iran, Turkmenistan, Uzbekistan, Tajikistan, China, and India",
+"producer": "ISW / AEI Critical Threats Project",
+"cartographer": "Caitlin Forrest and Rob Denaburg with Harleen Gambhir",
+"caption_text": "This map partially depicts areas of Taliban and ISIS control and support across Afghanistan as of February 23, 2016. The map also illustrates the status of district centers that have been attacked by Taliban militants in 2015 and 2016. High-confidence ISIS support zones represent areas with reliable reporting of ISIS presence at the sub-district level. Low-confidence ISIS support zones represent areas with reliable reporting of ISIS presence at the district level, with zones assessed based on terrain and historic militant presence, or areas with unconfirmed reporting of ISIS presence at the sub-district level.",
+"tags": "Afghanistan; Afghanistan US Withdrawal and Aftermath; Middle East",
+"image_url": null,
+"image_local": "isw/images/afghanistan-partial-threat-assessment-map-february-23-2016.jpg",
+"image_w": 2355,
+"image_h": 2560,
+"extraction_model": "claude-opus-4-6",
+"n_anchors": 61,
+"n_anchors_used": 32,
+"georef_rms_km": 35.2,
+"image_corners": [
+[
+39.110126569431216,
+60.3043932381191
+],
+[
+39.420047235943926,
+76.87728199135114
+],
+[
+25.910098406672564,
+74.85581179911065
+],
+[
+25.54948977376532,
+58.282923045878604
+]
+],
+"n_plots": 90,
+"legend": [
+{
+"label": "Taliban Militants Control District Center",
+"symbol": "dark purple circle",
+"kind": "point"
+},
+{
+"label": "Taliban Militants Contest District Center",
+"symbol": "red circle",
+"kind": "point"
+},
+{
+"label": "Taliban Militants Previously Controlled District Center",
+"symbol": "yellow circle",
+"kind": "point"
+},
+{
+"label": "Low Confidence Taliban Support Zone",
+"symbol": "pink/salmon area",
+"kind": "area"
+},
+{
+"label": "High Confidence Taliban Support Zone",
+"symbol": "orange area",
+"kind": "area"
+},
+{
+"label": "Taliban Control Zone",
+"symbol": "purple area",
+"kind": "area"
+},
+{
+"label": "Low Confidence ISIS Support Zone",
+"symbol": "grey area",
+"kind": "area"
+},
+{
+"label": "High Confidence ISIS Support Zone",
+"symbol": "black hatched area",
+"kind": "area"
+},
+{
+"label": "ISIS Control Zone",
+"symbol": "black area",
+"kind": "area"
+},
+{
+"label": "ANA Corps Headquarters",
+"symbol": "XXX military symbol",
+"kind": "point"
+},
+{
+"label": "ANA Corps AO Boundaries",
+"symbol": "green circle outline",
+"kind": "line"
+},
+{
+"label": "Researched Districts",
+"symbol": "yellow shaded area",
+"kind": "area"
+}
+]
+},
+{
+"id": "afghanistan-partial-threat-assessment-as-of-april-12-2016",
+"source": "isw_maps",
+"url": "https://understandingwar.org/map/afghanistan-partial-threat-assessment-as-of-april-12-2016/",
+"title": "Afghanistan Partial Threat Assessment As Of April 12, 2016",
+"page_date": "April 12, 2016",
+"isw_map_id": null,
+"as_of_date": "2016-04-12",
+"period_start": null,
+"period_end": "2016-04-12",
+"date_precision": "day",
+"map_type": "control_zones",
+"geographic_extent": "Afghanistan and parts of Pakistan, Iran, Turkmenistan, Uzbekistan, Tajikistan, China",
+"producer": "Institute for the Study of War (ISW)",
+"cartographer": null,
+"caption_text": "This map partially depicts areas of Taliban and ISIS control and support across Afghanistan as of April 12, 2016. The map also illustrates the status of district centers that have been attacked by Taliban militants in the reporting period. District centers are considered \"Contested\" if Taliban militants have attempted to seize control of a district center as part of an active campaign during the reporting period. District centers are considered \"Controlled\" if Taliban militants have maintained physical and psychological influence over a district center and its population without contestation from the ANSF during the reporting period. High-confidence ISIS support zones represent areas with reliable reporting of ISIS presence at the sub-district level. Low-confidence ISIS support zones represent areas with reliable reporting of ISIS presence at the district level, with zones assessed based on terrain and historic militant presence, or areas with unconfirmed reporting of ISIS presence at the sub-district level.",
+"tags": "Afghanistan; Afghanistan Surge and Drawdown; Middle East",
+"image_url": null,
+"image_local": "isw/images/afghanistan-partial-threat-assessment-as-of-april-12-2016.jpg",
+"image_w": 2560,
+"image_h": 2207,
+"extraction_model": "claude-opus-4-6",
+"n_anchors": 60,
+"n_anchors_used": 35,
+"georef_rms_km": 34.7,
+"image_corners": [
+[
+39.21151260215791,
+60.24560093697644
+],
+[
+39.4660360858897,
+76.11813997903741
+],
+[
+28.712170033266798,
+74.40873277361737
+],
+[
+28.42314393357806,
+58.536193731556395
+]
+],
+"n_plots": 91,
+"legend": [
+{
+"label": "Taliban Militants Control District Center",
+"symbol": "purple circle",
+"kind": "point"
+},
+{
+"label": "Taliban Militants Contest District Center",
+"symbol": "red circle",
+"kind": "point"
+},
+{
+"label": "Taliban Militants Previously Controlled District Center",
+"symbol": "yellow circle",
+"kind": "point"
+},
+{
+"label": "Low Confidence Taliban Support Zone",
+"symbol": "pink area",
+"kind": "area"
+},
+{
+"label": "High Confidence Taliban Support Zone",
+"symbol": "orange area",
+"kind": "area"
+},
+{
+"label": "Taliban Control Zone",
+"symbol": "purple area",
+"kind": "area"
+},
+{
+"label": "Low Confidence ISIS Support Zone",
+"symbol": "yellow-grey area",
+"kind": "area"
+},
+{
+"label": "High Confidence ISIS Support Zone",
+"symbol": "dark hatched area",
+"kind": "area"
+},
+{
+"label": "ISIS Control Zone",
+"symbol": "dark brown/black area",
+"kind": "area"
+},
+{
+"label": "ANA Corps Headquarters",
+"symbol": "green XXX symbol",
+"kind": "point"
+},
+{
+"label": "ANA Corps AO Boundaries",
+"symbol": "green dashed oval/line",
+"kind": "line"
+},
+{
+"label": "Researched Districts",
+"symbol": "yellow area",
+"kind": "area"
+}
+]
+},
+{
+"id": "afghanistan-partial-threat-assessment-june-30-2016",
+"source": "isw_maps",
+"url": "https://understandingwar.org/map/afghanistan-partial-threat-assessment-june-30-2016/",
+"title": "Afghanistan Partial Threat Assessment: June 30, 2016",
+"page_date": "July 15, 2016",
+"isw_map_id": null,
+"as_of_date": "2016-06-30",
+"period_start": null,
+"period_end": "2016-06-30",
+"date_precision": "day",
+"map_type": "control_zones",
+"geographic_extent": "Afghanistan and parts of Pakistan, Iran, Turkmenistan, Uzbekistan, Tajikistan, China",
+"producer": "Institute for the Study of War (ISW)",
+"cartographer": null,
+"caption_text": "This map partially depicts areas of Taliban and ISIS control and support across Afghanistan as of April 12, 2016. The map also illustrates the status of district centers that have been attacked by Taliban militants in the reporting period. District centers are considered \"Contested\" if Taliban militants have attempted to seize control of a district center as part of an active campaign during the reporting period. District centers are considered \"Controlled\" if Taliban militants have maintained physical and psychological influence over a district center and its population without contestation from the ANSF during the reporting period. High-confidence ISIS support zones represent areas with reliable reporting of ISIS presence at the sub-district level. Low-confidence ISIS support zones represent areas with reliable reporting of ISIS presence at the district level, with zones attested based on terrain and historic militant presence, or areas with unconfirmed reporting of ISIS presence at the sub-district level. *No ISIS Control Zones are depicted on this map.",
+"tags": "Afghanistan; Afghanistan, Pakistan Salafi Jihadi Update; Middle East",
+"image_url": null,
+"image_local": "isw/images/afghanistan-partial-threat-assessment-june-30-2016.jpg",
+"image_w": 1558,
+"image_h": 1339,
+"extraction_model": "claude-opus-4-6",
+"n_anchors": 46,
+"n_anchors_used": 11,
+"georef_rms_km": 44.9,
+"image_corners": [
+[
+36.323601677239495,
+63.24435891809979
+],
+[
+38.19838225528071,
+76.11563281887129
+],
+[
+34.575595984757335,
+70.68285072267996
+],
+[
+32.61344221601789,
+57.81157682190845
+]
+],
+"n_plots": 81,
+"legend": [
+{
+"label": "Taliban Militants Control District Center",
+"symbol": "purple circle",
+"kind": "point"
+},
+{
+"label": "Taliban Militants Contest District Center",
+"symbol": "red circle",
+"kind": "point"
+},
+{
+"label": "Taliban Militants Previously Controlled District Center",
+"symbol": "yellow circle",
+"kind": "point"
+},
+{
+"label": "Low Confidence Taliban Support Zone",
+"symbol": "pink/salmon area",
+"kind": "area"
+},
+{
+"label": "High Confidence Taliban Support Zone",
+"symbol": "orange area",
+"kind": "area"
+},
+{
+"label": "Taliban Control Zone",
+"symbol": "purple area",
+"kind": "area"
+},
+{
+"label": "Low Confidence ISIS Support Zone",
+"symbol": "tan/beige area",
+"kind": "area"
+},
+{
+"label": "High Confidence ISIS Support Zone",
+"symbol": "dark purple/blue striped area",
+"kind": "area"
+},
+{
+"label": "ISIS Control Zone*",
+"symbol": "dark olive circle",
+"kind": "area"
+},
+{
+"label": "ANA Corps Headquarters",
+"symbol": "olive/green hatched square",
+"kind": "point"
+},
+{
+"label": "ANA Corps AO Boundaries",
+"symbol": "yellow/green circle outline",
+"kind": "line"
+},
+{
+"label": "Researched Districts",
+"symbol": "olive/green shaded area",
+"kind": "area"
+}
+]
+},
+{
+"id": "afghanistan-partial-threat-assessment-as-of-august-28-2016",
+"source": "isw_maps",
+"url": "https://understandingwar.org/map/afghanistan-partial-threat-assessment-as-of-august-28-2016/",
+"title": "AFGHANISTAN PARTIAL THREAT ASSESSMENT AS OF AUGUST 28, 2016",
+"page_date": "August 28, 2016",
+"isw_map_id": null,
+"as_of_date": "2016-08-28",
+"period_start": null,
+"period_end": "2016-08-28",
+"date_precision": "day",
+"map_type": "control_zones",
+"geographic_extent": "Afghanistan and parts of Pakistan, Iran, Turkmenistan, Uzbekistan, Tajikistan, China",
+"producer": "Institute for the Study of War (ISW)",
+"cartographer": null,
+"caption_text": "This map partially depicts areas of Taliban and ISIS control and support across Afghanistan as of August 28, 2016. The map also illustrates the status of district centers that have been attacked by Taliban militants in the reporting period. District centers are considered \"Contested\" if Taliban militants have attempted to seize control of a district center as part of an active campaign during the reporting period. District centers are considered \"Controlled\" if Taliban militants have maintained physical and/or psychological influence over a district center and its population without contestation from the ANSF during the reporting period. High-confidence ISIS support zones represent areas with reliable reporting of ISIS presence at the sub-district level. Low-confidence ISIS support zones represent areas with reliable reporting of ISIS presence at the district level, with zones assessed based on terrain and historic militant presence, or areas with unconfirmed reporting of ISIS presence at the sub-district level.",
+"tags": "Afghanistan; Afghanistan, the Taliban, and ISIS; Middle East",
+"image_url": null,
+"image_local": "isw/images/afghanistan-partial-threat-assessment-as-of-august-28-2016.jpg",
+"image_w": 1558,
+"image_h": 1339,
+"extraction_model": "claude-opus-4-6",
+"n_anchors": 50,
+"n_anchors_used": 23,
+"georef_rms_km": 33.4,
+"image_corners": [
+[
+39.77259068055138,
+63.50515488294902
+],
+[
+39.00152797342626,
+75.03854099863139
+],
+[
+27.801855246693243,
+71.40463938932383
+],
+[
+28.680751881619774,
+59.871253273641464
+]
+],
+"n_plots": 87,
+"legend": [
+{
+"label": "Taliban Militants Control District Center",
+"symbol": "purple circle",
+"kind": "point"
+},
+{
+"label": "Taliban Militants Contest District Center",
+"symbol": "red circle",
+"kind": "point"
+},
+{
+"label": "Taliban Militants Previously Controlled District Center",
+"symbol": "yellow circle",
+"kind": "point"
+},
+{
+"label": "ISIS Militants Contest District Center",
+"symbol": "dark yellow/olive circle",
+"kind": "point"
+},
+{
+"label": "Low Confidence Taliban Support Zone",
+"symbol": "pink area",
+"kind": "area"
+},
+{
+"label": "High Confidence Taliban Support Zone",
+"symbol": "orange area",
+"kind": "area"
+},
+{
+"label": "Taliban Control Zone",
+"symbol": "purple area",
+"kind": "area"
+},
+{
+"label": "Low Confidence ISIS Support Zone",
+"symbol": "grey area",
+"kind": "area"
+},
+{
+"label": "High Confidence ISIS Support Zone",
+"symbol": "dark grey striped area",
+"kind": "area"
+},
+{
+"label": "ISIS Control Zone",
+"symbol": "black area",
+"kind": "area"
+},
+{
+"label": "ANA Corps Headquarters",
+"symbol": "green square",
+"kind": "point"
+},
+{
+"label": "ANA Corps AO Boundaries",
+"symbol": "green line",
+"kind": "line"
+},
+{
+"label": "Researched Districts",
+"symbol": "yellow outline area",
+"kind": "area"
+}
+]
+},
+{
+"id": "afghanistan-pakistan-administrative-divisions-february-2012",
+"source": "isw_maps",
+"url": "https://understandingwar.org/map/afghanistan-pakistan-administrative-divisions-february-2012/",
+"title": "Afghanistan-pakistan Administrative Divisions, February 2012",
+"page_date": "November 23, 2016",
+"isw_map_id": "63455",
+"as_of_date": "2016-11-22",
+"period_start": null,
+"period_end": "2016-11-22",
+"date_precision": "day",
+"map_type": "control_zones",
+"geographic_extent": "Afghanistan and surrounding countries (Pakistan, Iran, Turkmenistan, Uzbekistan, Tajikistan)",
+"producer": "ISW",
+"cartographer": null,
+"caption_text": "This map partially depicts areas of Taliban and ISIS control and support across Afghanistan as of November 22. The map also illustrates the status of district centers that have been attacked by Taliban militants in the reporting period as part of Operation Omari's autumn and winter phases. District centers are considered part of these phases if Taliban militants attempted to seize control of a district center during the reporting period. District centers are considered \"Controlled\" if Taliban militants maintain physical and/or psychological influence over a district center and its population during the reporting period. District Centers are considered \"threatened\" if Taliban militants have not launched a major ground offensive, but exhibited signs of intent to attack the District Center. High-confidence ISIS support zones represent areas with reliable reporting of ISIS presence at the sub-district level. Low-confidence ISIS support zones represent areas with reliable reporting of ISIS presence at the district level, with zones assessed based on terrain and historic militant presence, or areas with unconfirmed reporting of ISIS presence at the sub-district level.",
+"tags": "Afghanistan; Afghanistan Surge and Drawdown; Middle East",
+"image_url": "https://understandingwar.org/wp-content/uploads/2016/11/ISWNovemberAfghanistanPartialThreatAssessment_1Low-01.png",
+"image_local": "isw/images/afghanistan-pakistan-administrative-divisions-february-2012.jpg",
+"image_w": 1600,
+"image_h": 1373,
+"extraction_model": "claude-opus-4-6",
+"n_anchors": 46,
+"n_anchors_used": 20,
+"georef_rms_km": 31.5,
+"image_corners": [
+[
+38.51127538927241,
+61.92556511631013
+],
+[
+38.97881520851693,
+74.26244201213424
+],
+[
+29.196427250423554,
+72.42518594458417
+],
+[
+28.671795925942515,
+60.08830904876006
+]
+],
+"n_plots": 78,
+"legend": [
+{
+"label": "Taliban Militants Control District Center",
+"symbol": "dark purple circle",
+"kind": "point"
+},
+{
+"label": "Taliban Militants' Operation Omari Autumn Phase",
+"symbol": "red circle",
+"kind": "point"
+},
+{
+"label": "Taliban Militants' Operation Omari Winter Phase",
+"symbol": "dark red circle",
+"kind": "point"
+},
+{
+"label": "Taliban Militants Threaten District Center",
+"symbol": "orange circle",
+"kind": "point"
+},
+{
+"label": "Taliban Militants Previously Controlled District Center",
+"symbol": "yellow circle",
+"kind": "point"
+},
+{
+"label": "Low Confidence Taliban Support Zone",
+"symbol": "light orange area",
+"kind": "area"
+},
+{
+"label": "High Confidence Taliban Support Zone",
+"symbol": "orange area",
+"kind": "area"
+},
+{
+"label": "Taliban Control Zone",
+"symbol": "purple area",
+"kind": "area"
+},
+{
+"label": "Low Confidence ISIS Support Zone",
+"symbol": "grey area",
+"kind": "area"
+},
+{
+"label": "High Confidence ISIS Support Zone",
+"symbol": "dark grey striped area",
+"kind": "area"
+},
+{
+"label": "ISIS Control Zone",
+"symbol": "black area",
+"kind": "area"
+},
+{
+"label": "ANA Corps Headquarters",
+"symbol": "XXX military symbol",
+"kind": "point"
+},
+{
+"label": "ANA Corps AO Boundaries",
+"symbol": "green oval line",
+"kind": "line"
+},
+{
+"label": "Researched Districts",
+"symbol": "yellow outlined area",
+"kind": "area"
+},
+{
+"label": "Province-level boundary",
+"symbol": "red line",
+"kind": "line"
+},
+{
+"label": "District-level boundary",
+"symbol": "grey line",
+"kind": "line"
+},
+{
+"label": "Road",
+"symbol": "line",
+"kind": "line"
+},
+{
+"label": "Railroad",
+"symbol": "line",
+"kind": "line"
+}
+]
+},
+{
+"id": "afghanistan-partial-threat-assessment-november-23-2016-march-15-2017",
+"source": "isw_maps",
+"url": "https://understandingwar.org/map/afghanistan-partial-threat-assessment-november-23-2016-march-15-2017/",
+"title": "Afghanistan Partial Threat Assessment: November 23, 2016-march 15, 2017",
+"page_date": "March 20, 2017",
+"isw_map_id": "63491",
+"as_of_date": "2017-03-15",
+"period_start": "2016-11-23",
+"period_end": "2017-03-15",
+"date_precision": "day",
+"map_type": "control_zones",
+"geographic_extent": "Afghanistan and parts of Pakistan, Iran, Turkmenistan, Uzbekistan, Tajikistan, China",
+"producer": "ISW / AEI Critical Threats Project",
+"cartographer": null,
+"caption_text": "This map partially depicts areas of Taliban and ISIS control and support across Afghanistan as of March 15, 2017. The map also illustrates the status of district centers that have been attacked by Taliban militants in the reporting period as part of Operation Omari's Winter Offensive. District centers are considered part of this phase if Taliban militants attempted to seize control of a district center during the reporting period. District Centers are considered \"Contested\" if Taliban militants and ANSF are actively competing for control over a district center. District centers are considered \"Controlled\" if Taliban militants maintain physical and/or psychological influence over a district center and its population during the reporting period. District Centers are considered \"threatened\" if Taliban militants have not launched a major ground offensive, but exhibited signs of intent to attack the District Center. High-confidence ISIS support zones represent areas with reliable reporting of ISIS presence at the sub-district level. Low-confidence ISIS support zones represent areas with reliable reporting of ISIS presence at the district level, with zones assessed based on terrain and historic militant presence, or areas with unconfirmed reporting of ISIS presence at the sub-district level.",
+"tags": "Afghanistan; Afghanistan Surge and Drawdown; Middle East",
+"image_url": "https://understandingwar.org/wp-content/uploads/2017/03/March2017AFGPartialThreatAssessment-01.png",
+"image_local": "isw/images/afghanistan-partial-threat-assessment-november-23-2016-march-15-2017.jpg",
+"image_w": 1600,
+"image_h": 1379,
+"extraction_model": "claude-opus-4-6",
+"n_anchors": 51,
+"n_anchors_used": 21,
+"georef_rms_km": 22.8,
+"image_corners": [
+[
+39.93029380263152,
+62.5256421421591
+],
+[
+39.25189518091803,
+76.73670580526557
+],
+[
+27.495862249191035,
+72.73786636459377
+],
+[
+28.27398374607614,
+58.52680270148729
+]
+],
+"n_plots": 78,
+"legend": [
+{
+"label": "Taliban Militants Control District Center",
+"symbol": "purple circle",
+"kind": "point"
+},
+{
+"label": "Taliban Militants' Operation Omari Winter Phase",
+"symbol": "dark red/maroon circle",
+"kind": "point"
+},
+{
+"label": "Taliban Militants Contest District Center",
+"symbol": "red circle",
+"kind": "point"
+},
+{
+"label": "Taliban Militants Threaten District Center",
+"symbol": "orange circle",
+"kind": "point"
+},
+{
+"label": "Taliban Militants Previously Controlled District Center",
+"symbol": "yellow circle",
+"kind": "point"
+},
+{
+"label": "Low Confidence Taliban Support Zone",
+"symbol": "light orange/peach area",
+"kind": "area"
+},
+{
+"label": "High Confidence Taliban Support Zone",
+"symbol": "orange area",
+"kind": "area"
+},
+{
+"label": "Taliban Control Zone",
+"symbol": "purple area",
+"kind": "area"
+},
+{
+"label": "Low Confidence ISIS Support Zone",
+"symbol": "grey area",
+"kind": "area"
+},
+{
+"label": "High Confidence ISIS Support Zone",
+"symbol": "dark grey/hatched area",
+"kind": "area"
+},
+{
+"label": "ISIS Control Zone",
+"symbol": "black area",
+"kind": "area"
+},
+{
+"label": "ANA Corps Headquarters",
+"symbol": "green rectangle with XXX",
+"kind": "point"
+},
+{
+"label": "ANA Corps AO Boundaries",
+"symbol": "black line",
+"kind": "line"
+},
+{
+"label": "Researched Districts",
+"symbol": "yellow outline area",
+"kind": "area"
+}
+]
+},
+{
+"id": "al-qaeda-and-isis-in-afghanistan-2018-2019",
+"source": "isw_maps",
+"url": "https://understandingwar.org/map/al-qaeda-and-isis-in-afghanistan-2018-2019/",
+"title": "Al Qaeda and ISIS in Afghanistan 2018–2019",
+"page_date": "October 22, 2019",
+"isw_map_id": "63945",
+"as_of_date": "2019-09-25",
+"period_start": "2018-01-01",
+"period_end": "2019-09-25",
+"date_precision": "day",
+"map_type": "event_points",
+"geographic_extent": "Afghanistan",
+"producer": "Institute for the Study of War",
+"cartographer": null,
+"caption_text": "Map last updated September 25, 2019",
+"tags": "Afghanistan; Afghanistan Surge and Drawdown; Middle East",
+"image_url": "https://understandingwar.org/wp-content/uploads/2019/10/ISWMap-AlQaedaISISAfghanistan20182019.png",
+"image_local": "isw/images/al-qaeda-and-isis-in-afghanistan-2018-2019.jpg",
+"image_w": 1600,
+"image_h": 1237,
+"extraction_model": "claude-opus-4-6",
+"n_anchors": 34,
+"n_anchors_used": 31,
+"georef_rms_km": 35.4,
+"image_corners": [
+[
+40.3379490139298,
+60.861268017571454
+],
+[
+39.74983848297656,
+74.4806548316547
+],
+[
+27.853647066538773,
+73.32765353077333
+],
+[
+28.5307305442918,
+59.708266716690076
+]
+],
+"n_plots": 33,
+"legend": [
+{
+"label": "Incident demonstrating al Qaeda presence or activity in 2018 or 2019",
+"symbol": "black circle with white dot",
+"kind": "point"
+},
+{
+"label": "ISIS support zone",
+"symbol": "large orange/red area",
+"kind": "area"
+},
+{
+"label": "ISIS presence",
+"symbol": "small red/orange dot",
+"kind": "area"
+},
+{
+"label": "Provincial Capital attacked by Taliban in 2018 or 2019",
+"symbol": "yellow square",
+"kind": "point"
+},
+{
+"label": "Highway 1",
+"symbol": "black line",
+"kind": "line"
+},
+{
+"label": "U.S. Base",
+"symbol": "green airplane",
+"kind": "point"
+}
+]
+},
+{
+"id": "afghanistan-in-the-region-november-20-december-8-2021",
+"source": "isw_maps",
+"url": "https://understandingwar.org/map/afghanistan-in-the-region-november-20-december-8-2021/",
+"title": "Afghanistan in the Region: November 20-December 8, 2021",
+"page_date": "December 13, 2021",
+"isw_map_id": null,
+"as_of_date": null,
+"period_start": "2021-11-20",
+"period_end": "2021-12-08",
+"date_precision": "day",
+"map_type": "event_points",
+"geographic_extent": "Afghanistan and surrounding region including Pakistan, Iran, Turkmenistan, Tajikistan, and parts of India",
+"producer": "Institute for the Study of War (ISW)",
+"cartographer": null,
+"caption_text": null,
+"tags": "Afghanistan; Afghanistan US Withdrawal and Aftermath; Middle East",
+"image_url": null,
+"image_local": "isw/images/afghanistan-in-the-region-november-20-december-8-2021.jpg",
+"image_w": 3300,
+"image_h": 2550,
+"extraction_model": "claude-opus-4-6",
+"n_anchors": 19,
+"n_anchors_used": 5,
+"georef_rms_km": 11.1,
+"image_corners": [
+[
+42.27400223686526,
+54.63776242015686
+],
+[
+42.11158387008834,
+80.87648354960338
+],
+[
+25.22802050302769,
+79.69813323460973
+],
+[
+25.426169993565043,
+53.45941210516322
+]
+],
+"n_plots": 3,
+"legend": [
+{
+"label": "Event marker",
+"symbol": "red-orange circle with pin",
+"kind": "point"
+}
+]
+},
+{
+"id": "afghanistan-in-the-region-january-3-january-25-2022",
+"source": "isw_maps",
+"url": "https://understandingwar.org/map/afghanistan-in-the-region-january-3-january-25-2022/",
+"title": "Afghanistan in the Region: January 3 – January 25, 2022",
+"page_date": "January 31, 2022",
+"isw_map_id": null,
+"as_of_date": null,
+"period_start": "2022-01-03",
+"period_end": "2022-01-25",
+"date_precision": "day",
+"map_type": "event_points",
+"geographic_extent": "Afghanistan and surrounding region including Iran, Pakistan, Tajikistan, Turkmenistan, and northern India",
+"producer": "Institute for the Study of War (ISW) / AEI Critical Threats Project",
+"cartographer": null,
+"caption_text": null,
+"tags": "Afghanistan; Afghanistan US Withdrawal and Aftermath; Middle East",
+"image_url": null,
+"image_local": "isw/images/afghanistan-in-the-region-january-3-january-25-2022.jpg",
+"image_w": 3300,
+"image_h": 2550,
+"extraction_model": "claude-opus-4-6",
+"n_anchors": 18,
+"n_anchors_used": 5,
+"georef_rms_km": 16.3,
+"image_corners": [
+[
+42.84933824192964,
+57.450052702964285
+],
+[
+42.21633829015368,
+83.62543195722893
+],
+[
+25.790087914422767,
+78.9332193300609
+],
+[
+26.561010447372546,
+52.75784007579625
+]
+],
+"n_plots": 9,
+"legend": [
+{
+"label": "Numbered event marker",
+"symbol": "red-brown circle with pin",
+"kind": "point"
+}
+]
+},
+{
+"id": "afghanistan-in-the-region",
+"source": "isw_maps",
+"url": "https://understandingwar.org/map/afghanistan-in-the-region/",
+"title": "Afghanistan in the Region",
+"page_date": "March 9, 2022",
+"isw_map_id": null,
+"as_of_date": "2022-03-09",
+"period_start": null,
+"period_end": null,
+"date_precision": "day",
+"map_type": "force_disposition",
+"geographic_extent": "Afghanistan and surrounding region including parts of Pakistan, Uzbekistan",
+"producer": "Institute for the Study of War (ISW)",
+"cartographer": null,
+"caption_text": null,
+"tags": "Afghanistan; Afghanistan US Withdrawal and Aftermath; Middle East",
+"image_url": null,
+"image_local": "isw/images/afghanistan-in-the-region.jpg",
+"image_w": 3300,
+"image_h": 2550,
+"extraction_model": "claude-opus-4-6",
+"n_anchors": 29,
+"n_anchors_used": 17,
+"georef_rms_km": 15.2,
+"image_corners": [
+[
+38.224473167923584,
+61.98424932246744
+],
+[
+38.1795325000576,
+72.86504238507062
+],
+[
+31.320961118905032,
+72.71661422977374
+],
+[
+31.36980271087569,
+61.83582116717055
+]
+],
+"n_plots": 14,
+"legend": [
+{
+"label": "New Taliban military units",
+"symbol": "red/orange flag in grey circle",
+"kind": "point"
+},
+{
+"label": "Taliban military exercises",
+"symbol": "black triangle",
+"kind": "point"
+},
+{
+"label": "Taliban military reinforcement deployments",
+"symbol": "black star",
+"kind": "point"
+}
+]
+},
+{
+"id": "anti-taliban-activity-in-afghanistan",
+"source": "isw_maps",
+"url": "https://understandingwar.org/map/anti-taliban-activity-in-afghanistan/",
+"title": "Anti-Taliban Activity in Afghanistan",
+"page_date": "November 29, 2022",
+"isw_map_id": null,
+"as_of_date": "2022-11-22",
+"period_start": null,
+"period_end": "2022-11-22",
+"date_precision": "day",
+"map_type": "event_points",
+"geographic_extent": "Afghanistan and parts of Pakistan, Iran, Turkmenistan",
+"producer": "Institute for the Study of War (ISW) / AEI Critical Threats Project",
+"cartographer": "Peter Mills @Institute for the Study of War",
+"caption_text": null,
+"tags": "Afghanistan; Afghanistan US Withdrawal and Aftermath; Middle East",
+"image_url": null,
+"image_local": "isw/images/anti-taliban-activity-in-afghanistan.jpg",
+"image_w": 3300,
+"image_h": 2550,
+"extraction_model": "claude-opus-4-6",
+"n_anchors": 22,
+"n_anchors_used": 6,
+"georef_rms_km": 18.6,
+"image_corners": [
+[
+39.85656269306572,
+61.353957906350296
+],
+[
+39.72051968274948,
+77.84524634620027
+],
+[
+28.53484494907576,
+73.48204373236527
+],
+[
+28.69026841241208,
+56.990755292515296
+]
+],
+"n_plots": 74,
+"legend": [
+{
+"label": "ALM Attacks",
+"symbol": "purple triangle",
+"kind": "point"
+},
+{
+"label": "AFF Attack Zone",
+"symbol": "light green area",
+"kind": "area"
+},
+{
+"label": "AFF+NRF Cooperation Zone",
+"symbol": "yellow-green hatched area",
+"kind": "area"
+},
+{
+"label": "ISKP Activity Zone",
+"symbol": "dark diagonal hatched area",
+"kind": "area"
+},
+{
+"label": "ISKP Attack Zone",
+"symbol": "dark gray area",
+"kind": "area"
+},
+{
+"label": "ISPP Attack Zone",
+"symbol": "light gray area",
+"kind": "area"
+},
+{
+"label": "Local Anti-Taliban Groups",
+"symbol": "yellow hatched area",
+"kind": "area"
+},
+{
+"label": "NRF Activity Zone",
+"symbol": "dark green crosshatched area",
+"kind": "area"
+},
+{
+"label": "NRF Attack Zone",
+"symbol": "medium green area",
+"kind": "area"
+},
+{
+"label": "NRF Contested Support Zone",
+"symbol": "dark green area",
+"kind": "area"
+}
+]
+},
+{
+"id": "anti-taliban-activity-in-northeastern-afghanistan",
+"source": "isw_maps",
+"url": "https://understandingwar.org/map/anti-taliban-activity-in-northeastern-afghanistan/",
+"title": "Anti-Taliban Activity in Northeastern Afghanistan",
+"page_date": "November 29, 2022",
+"isw_map_id": null,
+"as_of_date": "2022-11-22",
+"period_start": null,
+"period_end": "2022-11-22",
+"date_precision": "day",
+"map_type": "control_zones",
+"geographic_extent": "Northeastern Afghanistan and adjacent border areas of Tajikistan and Pakistan",
+"producer": "Institute for the Study of War (ISW) / AEI Critical Threats Project",
+"cartographer": "Peter Mills",
+"caption_text": "Map created by Peter Mills @Institute for the Study of War, November 22,",
+"tags": "Afghanistan; Afghanistan US Withdrawal and Aftermath; Middle East",
+"image_url": null,
+"image_local": "isw/images/anti-taliban-activity-in-northeastern-afghanistan.jpg",
+"image_w": 3300,
+"image_h": 2550,
+"extraction_model": "claude-opus-4-6",
+"n_anchors": 14,
+"n_anchors_used": 8,
+"georef_rms_km": 30.6,
+"image_corners": [
+[
+38.405855323152196,
+66.20883333110281
+],
+[
+36.349252030424424,
+73.95401101586427
+],
+[
+33.03243129695567,
+74.03712145607837
+],
+[
+35.175406459167704,
+66.29194377131692
+]
+],
+"n_plots": 54,
+"legend": [
+{
+"label": "ALM Attacks",
+"symbol": "purple triangle",
+"kind": "point"
+},
+{
+"label": "AFF Attack Zone",
+"symbol": "light yellow-green area",
+"kind": "area"
+},
+{
+"label": "AFF+NRF Cooperation Zone",
+"symbol": "green crosshatch area",
+"kind": "area"
+},
+{
+"label": "ISKP Activity Zone",
+"symbol": "dark diagonal hatch area",
+"kind": "area"
+},
+{
+"label": "ISKP Attack Zone",
+"symbol": "dark gray area",
+"kind": "area"
+},
+{
+"label": "Local Anti-Taliban Groups",
+"symbol": "yellow-green diagonal hatch area",
+"kind": "area"
+},
+{
+"label": "NRF Activity Zone",
+"symbol": "dark green crosshatch area",
+"kind": "area"
+},
+{
+"label": "NRF Attack Zone",
+"symbol": "light green area",
+"kind": "area"
+},
+{
+"label": "NRF Contested Support Zone",
+"symbol": "dark green solid area",
+"kind": "area"
+}
+]
+},
+{
+"id": "ttp-attacks-and-pakistani-operations-against-the-ttp-march-11-2023-to-april-11-2023",
+"source": "isw_maps",
+"url": "https://understandingwar.org/map/ttp-attacks-and-pakistani-operations-against-the-ttp-march-11-2023-to-april-11-2023/",
+"title": "Ttp Attacks and Pakistani Operations Against the TTP March 11, 2023 To April 11, 2023",
+"page_date": "April 14, 2023",
+"isw_map_id": "69278",
+"as_of_date": "2023-04-11",
+"period_start": "2023-03-11",
+"period_end": "2023-04-11",
+"date_precision": "day",
+"map_type": "event_points",
+"geographic_extent": "Afghanistan and Pakistan with portions of India",
+"producer": "Critical Threats Project at the American Enterprise Institute",
+"cartographer": "Kathryn Tyson",
+"caption_text": "Map by Kathryn Tyson; Contributor: Mariah Murray © Critical Threats Project at the American Enterprise Institute, April 11, 2023",
+"tags": "ISIS; Middle East; Salafi Jihadi Weekly Update",
+"image_url": "https://understandingwar.org/wp-content/uploads/2025/05/2023041420TTP20Map.png",
+"image_local": "isw/images/ttp-attacks-and-pakistani-operations-against-the-ttp-march-11-2023-to-april-11-2023.jpg",
+"image_w": 4250,
+"image_h": 5500,
+"extraction_model": "claude-opus-4-6",
+"n_anchors": 7,
+"n_anchors_used": 4,
+"georef_rms_km": 14.0,
+"image_corners": [
+[
+39.03596990200997,
+59.58720622263996
+],
+[
+39.20073549780562,
+77.09212313461819
+],
+[
+20.459591096308493,
+77.39369143087161
+],
+[
+20.260489476127,
+59.8887745188934
+]
+],
+"n_plots": 31,
+"legend": [
+{
+"label": "TTP Attacks",
+"symbol": "red circle",
+"kind": "point"
+},
+{
+"label": "Security Operations Against the TTP",
+"symbol": "black diamond",
+"kind": "point"
+}
+]
+},
+{
+"id": "ttp-attacks-and-pakistani-operations-against-the-ttp-march-20-2023-to-april-20-2023",
+"source": "isw_maps",
+"url": "https://understandingwar.org/map/ttp-attacks-and-pakistani-operations-against-the-ttp-march-20-2023-to-april-20-2023/",
+"title": "Ttp Attacks and Pakistani Operations Against the TTP March 20, 2023 To April 20, 2023",
+"page_date": "April 21, 2023",
+"isw_map_id": "69417",
+"as_of_date": "2023-04-20",
+"period_start": "2023-03-20",
+"period_end": "2023-04-20",
+"date_precision": "day",
+"map_type": "event_points",
+"geographic_extent": "Afghanistan and Pakistan with portions of India",
+"producer": "Critical Threats Project at the American Enterprise Institute",
+"cartographer": "Kathryn Tyson",
+"caption_text": "Map by Kathryn Tyson; Contributor: Mariah Murray © Critical Threats Project at the American Enterprise Institute, April 20, 2023",
+"tags": "Afghanistan; Middle East; Salafi Jihadi Weekly Update",
+"image_url": "https://understandingwar.org/wp-content/uploads/2025/05/2023042020TTP20Map.png",
+"image_local": "isw/images/ttp-attacks-and-pakistani-operations-against-the-ttp-march-20-2023-to-april-20-2023.jpg",
+"image_w": 4250,
+"image_h": 5500,
+"extraction_model": "claude-opus-4-6",
+"n_anchors": 7,
+"n_anchors_used": 4,
+"georef_rms_km": 3.8,
+"image_corners": [
+[
+40.341764787294544,
+57.460578839774236
+],
+[
+39.32890996616652,
+77.25422870986316
+],
+[
+19.468284893078145,
+78.83655466088169
+],
+[
+20.70706763316372,
+59.04290479079276
+]
+],
+"n_plots": 40,
+"legend": [
+{
+"label": "TTP Attacks",
+"symbol": "red circle",
+"kind": "point"
+},
+{
+"label": "Security Operations Against the TTP",
+"symbol": "black diamond",
+"kind": "point"
+}
+]
+},
+{
+"id": "ttp-attacks-and-pakistani-operations-against-the-ttp-april-1-2023-may-1-2023",
+"source": "isw_maps",
+"url": "https://understandingwar.org/map/ttp-attacks-and-pakistani-operations-against-the-ttp-april-1-2023-may-1-2023/",
+"title": "Ttp Attacks and Pakistani Operations Against the TTP April 1, 2023–may 1, 2023",
+"page_date": "2023-05-04",
+"isw_map_id": "67192",
+"as_of_date": "2023-05-04",
+"period_start": "2023-04-01",
+"period_end": "2023-05-01",
+"date_precision": "day",
+"map_type": "event_points",
+"geographic_extent": "Afghanistan and Pakistan",
+"producer": "Critical Threats Project at the American Enterprise Institute",
+"cartographer": "Kathryn Tyson",
+"caption_text": "Map by Kathryn Tyson; Contributor: Mariah Murray © Critical Threats Project at the American Enterprise Institute, May 4, 2023",
+"tags": "Afghanistan; Middle East; Salafi Jihadi Weekly Update",
+"image_url": "https://understandingwar.org/wp-content/uploads/2025/05/Picture5_0.png",
+"image_local": "isw/images/ttp-attacks-and-pakistani-operations-against-the-ttp-april-1-2023-may-1-2023.jpg",
+"image_w": 1430,
+"image_h": 1851,
+"extraction_model": "claude-opus-4-6",
+"n_anchors": 7,
+"n_anchors_used": 4,
+"georef_rms_km": 15.1,
+"image_corners": [
+[
+39.21619862991232,
+58.13507322190911
+],
+[
+39.33644851953264,
+76.27112890132236
+],
+[
+20.497956926845422,
+77.86986571069447
+],
+[
+20.35238223612317,
+59.73381003128122
+]
+],
+"n_plots": 37,
+"legend": [
+{
+"label": "TTP Attacks",
+"symbol": "red circle",
+"kind": "point"
+},
+{
+"label": "Security Operations Against the TTP",
+"symbol": "black diamond",
+"kind": "point"
+},
+{
+"label": "Approximate Locations of Suspected TTP Attacks on April 27",
+"symbol": "open black circle",
+"kind": "point"
+}
+]
+},
+{
+"id": "salafi-jihadi-movement-update-special-edition-protests-in-pakistan-may-9-2023",
+"source": "isw_maps",
+"url": "https://understandingwar.org/map/salafi-jihadi-movement-update-special-edition-protests-in-pakistan-may-9-2023/",
+"title": "Protests and Salafi-Jihadi Attacks in Pakistan, May 9, 2023",
+"page_date": "2023-05-09",
+"isw_map_id": null,
+"as_of_date": "2023-05-09",
+"period_start": "2023-01-01",
+"period_end": "2023-05-09",
+"date_precision": "day",
+"map_type": "event_points",
+"geographic_extent": "Afghanistan and Pakistan",
+"producer": "Institute for the Study of War (ISW) / AEI Critical Threats Project",
+"cartographer": "Kathryn Tyson and Peter Mills",
+"caption_text": "*Note: The IS label applies to the Islamic State Khorasan Province and the Islamic State Pakistan Province.",
+"tags": "ISIS; Middle East; Salafi Jihadi Weekly Update",
+"image_url": null,
+"image_local": "isw/images/salafi-jihadi-movement-update-special-edition-protests-in-pakistan-may-9-2023.jpg",
+"image_w": 790,
+"image_h": 1024,
+"extraction_model": "claude-opus-4-6",
+"n_anchors": 9,
+"n_anchors_used": 6,
+"georef_rms_km": 34.1,
+"image_corners": [
+[
+39.87636320128174,
+60.494584821818734
+],
+[
+39.429663221199824,
+76.54405306775195
+],
+[
+19.2369001545892,
+77.96007559049602
+],
+[
+19.78377495132962,
+61.91060734456279
+]
+],
+"n_plots": 80,
+"legend": [
+{
+"label": "Pakistani Corps Command Headquarters",
+"symbol": "black star",
+"kind": "point"
+},
+{
+"label": "Protests as of May 9, 2023",
+"symbol": "light blue diamond",
+"kind": "point"
+},
+{
+"label": "IS Attacks in 2023*",
+"symbol": "dark grey circle",
+"kind": "point"
+},
+{
+"label": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+"symbol": "red circle",
+"kind": "point"
+}
+]
+},
+{
+"id": "salafi-jihadi-movement-update-special-edition-protests-in-pakistan-may-10-2023",
+"source": "isw_maps",
+"url": "https://understandingwar.org/map/salafi-jihadi-movement-update-special-edition-protests-in-pakistan-may-10-2023/",
+"title": "Protests and Salafi-Jihadi Attacks in Pakistan, May 10, 2023",
+"page_date": "2023-05-10",
+"isw_map_id": null,
+"as_of_date": "2023-05-10",
+"period_start": "2023-01-01",
+"period_end": "2023-05-10",
+"date_precision": "day",
+"map_type": "event_points",
+"geographic_extent": "Afghanistan-Pakistan region",
+"producer": "Critical Threats Project at the American Enterprise Institute",
+"cartographer": "Kathryn Tyson and Peter Mills",
+"caption_text": "*Note: The IS label applies to the Islamic State Khorasan Province and the Islamic State Pakistan Province.",
+"tags": "Afghanistan; Middle East; Salafi Jihadi Weekly Update",
+"image_url": null,
+"image_local": "isw/images/salafi-jihadi-movement-update-special-edition-protests-in-pakistan-may-10-2023.jpg",
+"image_w": 843,
+"image_h": 1100,
+"extraction_model": "claude-opus-4-6",
+"n_anchors": 9,
+"n_anchors_used": 6,
+"georef_rms_km": 32.0,
+"image_corners": [
+[
+39.142896795962216,
+61.4752785660887
+],
+[
+39.060350196647995,
+76.550599871073
+],
+[
+19.940467450649354,
+76.80326018677533
+],
+[
+20.04042915989234,
+61.72793888179102
+]
+],
+"n_plots": 73,
+"legend": [
+{
+"label": "Pakistani Corps Command Headquarters",
+"symbol": "black star",
+"kind": "point"
+},
+{
+"label": "Protests as of May 10, 2023",
+"symbol": "light blue teardrop",
+"kind": "point"
+},
+{
+"label": "IS Attacks in 2023*",
+"symbol": "black circle",
+"kind": "point"
+},
+{
+"label": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+"symbol": "red circle",
+"kind": "point"
+}
+]
+},
+{
+"id": "salafi-jihadi-movement-update-special-edition-protests-in-pakistan-may-11-2023",
+"source": "isw_maps",
+"url": "https://understandingwar.org/map/salafi-jihadi-movement-update-special-edition-protests-in-pakistan-may-11-2023/",
+"title": "Protests and Salafi-Jihadi Attacks in Pakistan, May 11, 2023",
+"page_date": "2023-05-11",
+"isw_map_id": null,
+"as_of_date": "2023-05-11",
+"period_start": "2023-01-01",
+"period_end": "2023-05-11",
+"date_precision": "day",
+"map_type": "event_points",
+"geographic_extent": "Pakistan and eastern Afghanistan",
+"producer": "Critical Threats Project at the American Enterprise Institute",
+"cartographer": "Kathryn Tyson and Peter Mills",
+"caption_text": "*Note: The IS label applies to the Islamic State Khorasan Province and the Islamic State Pakistan Province.",
+"tags": "Afghanistan; Middle East; Salafi Jihadi Weekly Update",
+"image_url": null,
+"image_local": "isw/images/salafi-jihadi-movement-update-special-edition-protests-in-pakistan-may-11-2023.jpg",
+"image_w": 850,
+"image_h": 1100,
+"extraction_model": "claude-opus-4-6",
+"n_anchors": 9,
+"n_anchors_used": 6,
+"georef_rms_km": 33.9,
+"image_corners": [
+[
+39.20868150287135,
+59.21265146180115
+],
+[
+39.30068438369273,
+75.54373238282889
+],
+[
+19.852115380585253,
+78.12388688444096
+],
+[
+19.740322501100632,
+61.79280596341321
+]
+],
+"n_plots": 91,
+"legend": [
+{
+"label": "Pakistani Corps Command Headquarters",
+"symbol": "black star",
+"kind": "point"
+},
+{
+"label": "Protests as of May 11, 2023",
+"symbol": "light blue teardrop",
+"kind": "point"
+},
+{
+"label": "Pakistani Military Show of Force",
+"symbol": "green circle",
+"kind": "point"
+},
+{
+"label": "IS Attacks in 2023*",
+"symbol": "dark gray circle",
+"kind": "point"
+},
+{
+"label": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+"symbol": "red circle",
+"kind": "point"
+}
+]
+},
+{
+"id": "protests-and-salafi-jihadi-attacks-in-pakistan",
+"source": "isw_maps",
+"url": "https://understandingwar.org/map/protests-and-salafi-jihadi-attacks-in-pakistan/",
+"title": "Protests and Salafi-Jihadi Attacks in Pakistan, May 12, 2023",
+"page_date": "2023-05-12",
+"isw_map_id": null,
+"as_of_date": "2023-05-12",
+"period_start": "2023-01-01",
+"period_end": "2023-05-12",
+"date_precision": "day",
+"map_type": "event_points",
+"geographic_extent": "Pakistan and eastern Afghanistan",
+"producer": "Institute for the Study of War (ISW) / AEI Critical Threats Project",
+"cartographer": "Kathryn Tyson and Peter Mills",
+"caption_text": "*Note: The IS label applies to the Islamic State Khorasan Province and the Islamic State Pakistan Province.",
+"tags": "Afghanistan; Middle East; Salafi Jihadi Weekly Update",
+"image_url": null,
+"image_local": "isw/images/protests-and-salafi-jihadi-attacks-in-pakistan.jpg",
+"image_w": 846,
+"image_h": 1100,
+"extraction_model": "claude-opus-4-6",
+"n_anchors": 9,
+"n_anchors_used": 6,
+"georef_rms_km": 17.2,
+"image_corners": [
+[
+39.19338424302125,
+60.119077248516746
+],
+[
+39.217241615534185,
+76.00449986503398
+],
+[
+20.002647383782126,
+78.03957284513606
+],
+[
+19.97371372997126,
+62.15415022861884
+]
+],
+"n_plots": 80,
+"legend": [
+{
+"label": "Pakistani Corps Command Headquarters",
+"symbol": "black star",
+"kind": "point"
+},
+{
+"label": "Protests as of May 12, 2023",
+"symbol": "light blue circle",
+"kind": "point"
+},
+{
+"label": "IS Attacks in 2023*",
+"symbol": "dark gray circle",
+"kind": "point"
+},
+{
+"label": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+"symbol": "red circle",
+"kind": "point"
+}
+]
+},
+{
+"id": "tehrik-e-insaf-pakistan-pti-support-and-salafi-jihadi-attacks-in-pakistan",
+"source": "isw_maps",
+"url": "https://understandingwar.org/map/tehrik-e-insaf-pakistan-pti-support-and-salafi-jihadi-attacks-in-pakistan/",
+"title": "Tehrik-e-insaf Pakistan (pti) Support and Salafi-Jihadi Attacks in Pakistan",
+"page_date": "2023-05-19",
+"isw_map_id": "69784",
+"as_of_date": "2023-05-17",
+"period_start": "2023-01-01",
+"period_end": "2023-05-17",
+"date_precision": "day",
+"map_type": "event_points",
+"geographic_extent": "Pakistan and eastern Afghanistan",
+"producer": "Critical Threats Project at the American Enterprise Institute",
+"cartographer": "Kathryn Tyson",
+"caption_text": "*Note: The IS label applies to the Islamic State Khorasan Province and the Islamic State Pakistan Province.\n**Note: The area is approximate. Author used data from Pakistan's 2018 elections.",
+"tags": "ISIS; Middle East; Salafi Jihadi Weekly Update",
+"image_url": "https://understandingwar.org/wp-content/uploads/2025/04/Picture7_0.png",
+"image_local": "isw/images/tehrik-e-insaf-pakistan-pti-support-and-salafi-jihadi-attacks-in-pakistan.jpg",
+"image_w": 846,
+"image_h": 1100,
+"extraction_model": "claude-opus-4-6",
+"n_anchors": 9,
+"n_anchors_used": 6,
+"georef_rms_km": 34.2,
+"image_corners": [
+[
+39.143740952124475,
+61.39431470183997
+],
+[
+39.40532444384452,
+76.83491518600331
+],
+[
+20.510229072990178,
+76.74621592786309
+],
+[
+20.19341300651281,
+61.305615443699736
+]
+],
+"n_plots": 69,
+"legend": [
+{
+"label": "IS Attacks in 2023*",
+"symbol": "gray circle",
+"kind": "point"
+},
+{
+"label": "Tehrik-e-Taliban Pakistan Attacks in 2023",
+"symbol": "red circle",
+"kind": "point"
+},
+{
+"label": "Concentration of 2018 PTI Vote Share**",
+"symbol": "pink/salmon area",
+"kind": "area"
+}
+]
+},
+{
+"id": "ttp-activity-in-afghanistan-january-1-2022-to-may-24-2023",
+"source": "isw_maps",
+"url": "https://understandingwar.org/map/ttp-activity-in-afghanistan-january-1-2022-to-may-24-2023/",
+"title": "Ttp Activity in Afghanistan January 1, 2022, To May 24, 2023",
+"page_date": "2023-05-26",
+"isw_map_id": "63932",
+"as_of_date": "2023-05-24",
+"period_start": "2022-01-01",
+"period_end": "2023-05-24",
+"date_precision": "day",
+"map_type": "event_points",
+"geographic_extent": "Afghanistan and Pakistan region",
+"producer": "AEI's Critical Threats Project and Institute for the Study of War",
+"cartographer": "Peter Mills",
+"caption_text": null,
+"tags": "Afghanistan; Middle East; Salafi Jihadi Weekly Update",
+"image_url": "https://understandingwar.org/wp-content/uploads/2025/05/Picture8_0.png",
+"image_local": "isw/images/ttp-activity-in-afghanistan-january-1-2022-to-may-24-2023.jpg",
+"image_w": 850,
+"image_h": 1100,
+"extraction_model": "claude-opus-4-6",
+"n_anchors": 26,
+"n_anchors_used": 16,
+"georef_rms_km": 28.3,
+"image_corners": [
+[
+41.045029103011125,
+61.244525398161265
+],
+[
+41.25662812495186,
+77.68977206409032
+],
+[
+23.176380167673837,
+74.79867824730476
+],
+[
+22.9177942972564,
+58.353431581375716
+]
+],
+"n_plots": 14,
+"legend": [
+{
+"label": "TTP Activity in Afghanistan",
+"symbol": "red triangle",
+"kind": "point"
+}
+]
+},
+{
+"id": "ttp-activity-in-khost-paktika-afghanistan-january-1-2022-to-may-24-2023",
+"source": "isw_maps",
+"url": "https://understandingwar.org/map/ttp-activity-in-khost-paktika-afghanistan-january-1-2022-to-may-24-2023/",
+"title": "Ttp Activity in Khost-paktika, Afghanistan January 1, 2022, To May 24, 2023",
+"page_date": "2023-05-26",
+"isw_map_id": "63935",
+"as_of_date": "2023-05-24",
+"period_start": "2022-01-01",
+"period_end": "2023-05-24",
+"date_precision": "day",
+"map_type": "event_points",
+"geographic_extent": "Khost and Paktika provinces, Afghanistan, and adjacent North Waziristan, Pakistan",
+"producer": "AEI's Critical Threats Project and Institute for the Study of War",
+"cartographer": "Peter Mills",
+"caption_text": "May by Peter Mills\nCopyright AEI's Critical Threats Project\nand Institute for the Study of War\nMay 24, 2023",
+"tags": "Afghanistan; Middle East; Salafi Jihadi Weekly Update",
+"image_url": "https://understandingwar.org/wp-content/uploads/2025/05/Picture9_0.png",
+"image_local": "isw/images/ttp-activity-in-khost-paktika-afghanistan-january-1-2022-to-may-24-2023.jpg",
+"image_w": 850,
+"image_h": 1100,
+"extraction_model": "claude-opus-4-6",
+"n_anchors": 33,
+"n_anchors_used": 13,
+"georef_rms_km": 7.3,
+"image_corners": [
+[
+33.73567237439668,
+69.04135419229482
+],
+[
+33.79492031258815,
+70.2865485596665
+],
+[
+32.52822736429547,
+70.32085293626267
+],
+[
+32.468117967481405,
+69.07565856889099
+]
+],
+"n_plots": 6,
+"legend": [
+{
+"label": "TTP Activity in Afghanistan",
+"symbol": "red triangle",
+"kind": "point"
+}
+]
+},
+{
+"id": "ttp-activity-in-kunar-province-afghanistan-january-1-2022-to-may-24-2023",
+"source": "isw_maps",
+"url": "https://understandingwar.org/map/ttp-activity-in-kunar-province-afghanistan-january-1-2022-to-may-24-2023/",
+"title": "Ttp Activity in Kunar Province, Afghanistan January 1, 2022, To May 24, 2023",
+"page_date": "2023-05-26",
+"isw_map_id": "63938",
+"as_of_date": "2023-05-24",
+"period_start": "2022-01-01",
+"period_end": "2023-05-24",
+"date_precision": "day",
+"map_type": "event_points",
+"geographic_extent": "Kunar Province, Afghanistan",
+"producer": "AEI's Critical Threats Project and Institute for the Study of War",
+"cartographer": "Peter Mills",
+"caption_text": null,
+"tags": "Afghanistan; Middle East; Salafi Jihadi Weekly Update",
+"image_url": "https://understandingwar.org/wp-content/uploads/2025/05/Picture10_0.png",
+"image_local": "isw/images/ttp-activity-in-kunar-province-afghanistan-january-1-2022-to-may-24-2023.jpg",
+"image_w": 850,
+"image_h": 1100,
+"extraction_model": "claude-opus-4-6",
+"n_anchors": 17,
+"n_anchors_used": 10,
+"georef_rms_km": 7.5,
+"image_corners": [
+[
+35.47474437852024,
+70.79041954831614
+],
+[
+35.655282300131994,
+71.64662758407046
+],
+[
+34.727471360105405,
+71.93223574055799
+],
+[
+34.5448645889391,
+71.07602770480366
+]
+],
+"n_plots": 11,
+"legend": [
+{
+"label": "TTP Activity in Afghanistan",
+"symbol": "red triangle",
+"kind": "point"
+}
+]
+},
+{
+"id": "iskp-attacks-and-taliban-and-pakistani-security-operations-against-iskp-in-afghanistan-and-pakistan-may-28-2023-to-june-6-2023",
+"source": "isw_maps",
+"url": "https://understandingwar.org/map/iskp-attacks-and-taliban-and-pakistani-security-operations-against-iskp-in-afghanistan-and-pakistan-may-28-2023-to-june-6-2023/",
+"title": "Iskp Attacks and Taliban and Pakistani Security Operations Against ISKP in Afghanistan and Pakistan May 28, 2023 To June 6, 2023",
+"page_date": "June 9, 2023",
+"isw_map_id": "70044",
+"as_of_date": "2023-06-06",
+"period_start": "2023-05-28",
+"period_end": "2023-06-06",
+"date_precision": "day",
+"map_type": "event_points",
+"geographic_extent": "Afghanistan and Pakistan",
+"producer": "AEI's Critical Threats Project and Institute for the Study of War",
+"cartographer": "Peter Mills",
+"caption_text": "Map by Peter Mills\nCopyright AEI's Critical Threats Project\nand Institute for the Study of War\nJune 6, 2023",
+"tags": "Afghanistan; Middle East; Salafi Jihadi Weekly Update",
+"image_url": "https://understandingwar.org/wp-content/uploads/2025/05/2023060720ISKP20in20Afg-Pak.png",
+"image_local": "isw/images/iskp-attacks-and-taliban-and-pakistani-security-operations-against-iskp-in-afghanistan-and-pakistan-may-28-2023-to-june-6-2023.jpg",
+"image_w": 2550,
+"image_h": 3300,
+"extraction_model": "claude-opus-4-6",
+"n_anchors": 8,
+"n_anchors_used": 5,
+"georef_rms_km": 8.3,
+"image_corners": [
+[
+40.15093013529472,
+68.13904291580091
+],
+[
+40.11289519070173,
+75.48323167637625
+],
+[
+32.782787420909465,
+74.75884992243685
+],
+[
+32.82460162830277,
+67.41466116186152
+]
+],
+"n_plots": 5,
+"legend": [
+{
+"label": "Security Operation Against ISKP",
+"symbol": "black diamond",
+"kind": "point"
+},
+{
+"label": "ISKP Attacks",
+"symbol": "black circle",
+"kind": "point"
+}
+]
+},
+{
+"id": "ttp-attacks-and-pakistani-operations-against-the-ttp-may-8-2023-june-8-2023",
+"source": "isw_maps",
+"url": "https://understandingwar.org/map/ttp-attacks-and-pakistani-operations-against-the-ttp-may-8-2023-june-8-2023/",
+"title": "Ttp Attacks and Pakistani Operations Against the TTP May 8, 2023–june 8, 2023",
+"page_date": "June 9, 2023",
+"isw_map_id": "70041",
+"as_of_date": "2023-06-08",
+"period_start": "2023-05-08",
+"period_end": "2023-06-08",
+"date_precision": "day",
+"map_type": "event_points",
+"geographic_extent": "Afghanistan and Pakistan with portions of India",
+"producer": "Critical Threats Project at the American Enterprise Institute",
+"cartographer": "Kathryn Tyson",
+"caption_text": "Map by Kathryn Tyson © Critical Threats Project at the American Enterprise Institute, June 8, 2023",
+"tags": "Afghanistan; Middle East; Salafi Jihadi Weekly Update",
+"image_url": "https://understandingwar.org/wp-content/uploads/2025/05/2023060820TTP20Map.png",
+"image_local": "isw/images/ttp-attacks-and-pakistani-operations-against-the-ttp-may-8-2023-june-8-2023.jpg",
+"image_w": 4250,
+"image_h": 5500,
+"extraction_model": "claude-opus-4-6",
+"n_anchors": 9,
+"n_anchors_used": 5,
+"georef_rms_km": 18.9,
+"image_corners": [
+[
+39.34796774496672,
+60.572832650166895
+],
+[
+39.38359406329907,
+76.94520536591276
+],
+[
+20.018740136563675,
+76.18450696925875
+],
+[
+19.975436727284116,
+59.8121342535129
+]
+],
+"n_plots": 42,
+"legend": [
+{
+"label": "TTP Attacks",
+"symbol": "red circle",
+"kind": "point"
+},
+{
+"label": "Security Operations Against the TTP",
+"symbol": "black diamond",
+"kind": "point"
+}
+]
+},
+{
+"id": "ttp-activity-in-afghanistan-and-attacks-in-pakistan-june-1-june-28-2023",
+"source": "isw_maps",
+"url": "https://understandingwar.org/map/ttp-activity-in-afghanistan-and-attacks-in-pakistan-june-1-june-28-2023/",
+"title": "Ttp Activity in Afghanistan and Attacks in Pakistan June 1–june 28, 2023",
+"page_date": "June 30, 2023",
+"isw_map_id": "70295",
+"as_of_date": "2023-06-28",
+"period_start": "2023-06-01",
+"period_end": "2023-06-28",
+"date_precision": "day",
+"map_type": "event_points",
+"geographic_extent": "Eastern Afghanistan and northwestern Pakistan (Nangarhar, Kunar provinces and FATA/KPK regions)",
+"producer": "AEI's Critical Threats Project and Institute for the Study of War",
+"cartographer": "Peter Mills",
+"caption_text": "Map by Peter Mills\nCopyright AEI's Critical Threats Project\nand Institute for the Study of War\nJune 28, 2023",
+"tags": "ISIS; Middle East; Salafi Jihadi Weekly Update",
+"image_url": "https://understandingwar.org/wp-content/uploads/2025/04/Picture9_1.png",
+"image_local": "isw/images/ttp-activity-in-afghanistan-and-attacks-in-pakistan-june-1-june-28-2023.jpg",
+"image_w": 1430,
+"image_h": 1851,
+"extraction_model": "claude-opus-4-6",
+"n_anchors": 20,
+"n_anchors_used": 16,
+"georef_rms_km": 5.9,
+"image_corners": [
+[
+35.24148602411598,
+70.1639794475338
+],
+[
+35.227010895039164,
+72.05660379050954
+],
+[
+33.32571109171386,
+72.22220326017482
+],
+[
+33.340517435372334,
+70.32957891719909
+]
+],
+"n_plots": 19,
+"legend": [
+{
+"label": "TTP Attacks",
+"symbol": "red circle",
+"kind": "point"
+},
+{
+"label": "TTP Activity in Afghanistan",
+"symbol": "red circle with crosshair/target symbol",
+"kind": "point"
+}
+]
+},
+{
+"id": "ttp-attacks-and-pakistani-operations-against-the-ttp-may-28-2023-june-28-2023",
+"source": "isw_maps",
+"url": "https://understandingwar.org/map/ttp-attacks-and-pakistani-operations-against-the-ttp-may-28-2023-june-28-2023/",
+"title": "Ttp Attacks and Pakistani Operations Against the TTP May 28, 2023–june 28, 2023",
+"page_date": "June 30, 2023",
+"isw_map_id": "70292",
+"as_of_date": "2023-06-28",
+"period_start": "2023-05-28",
+"period_end": "2023-06-28",
+"date_precision": "day",
+"map_type": "event_points",
+"geographic_extent": "Afghanistan and Pakistan",
+"producer": "Critical Threats Project at the American Enterprise Institute",
+"cartographer": "Kathryn Tyson",
+"caption_text": null,
+"tags": "ISIS; Middle East; Salafi Jihadi Weekly Update",
+"image_url": "https://understandingwar.org/wp-content/uploads/2025/04/Picture8_2.png",
+"image_local": "isw/images/ttp-attacks-and-pakistani-operations-against-the-ttp-may-28-2023-june-28-2023.jpg",
+"image_w": 850,
+"image_h": 1100,
+"extraction_model": "claude-opus-4-6",
+"n_anchors": 9,
+"n_anchors_used": 6,
+"georef_rms_km": 31.4,
+"image_corners": [
+[
+38.72544451839065,
+61.317173784080424
+],
+[
+38.561526339720764,
+74.97271049812448
+],
+[
+20.366591826098126,
+77.0307529728548
+],
+[
+20.563216109512847,
+63.37521625881074
+]
+],
+"n_plots": 69,
+"legend": [
+{
+"label": "Cities",
+"symbol": "gray map pin",
+"kind": "point"
+},
+{
+"label": "TTP Attacks",
+"symbol": "red circle",
+"kind": "point"
+},
+{
+"label": "Security Operations Against the TTP",
+"symbol": "black diamond",
+"kind": "point"
+}
+]
+},
+{
+"id": "ttp-attacks-and-pakistani-operations-against-the-ttp-june-19-2023-july-19-2023",
+"source": "isw_maps",
+"url": "https://understandingwar.org/map/ttp-attacks-and-pakistani-operations-against-the-ttp-june-19-2023-july-19-2023/",
+"title": "Ttp Attacks and Pakistani Operations Against the TTP June 19, 2023–july 19, 2023",
+"page_date": "July 21, 2023",
+"isw_map_id": "69593",
+"as_of_date": "2023-07-19",
+"period_start": "2023-06-19",
+"period_end": "2023-07-19",
+"date_precision": "day",
+"map_type": "event_points",
+"geographic_extent": "Afghanistan and Pakistan",
+"producer": "Critical Threats Project at the American Enterprise Institute",
+"cartographer": "Kathryn Tyson",
+"caption_text": "Map by Kathryn Tyson; Contributors: Jahnavi Sodhi and Titus Walker © Critical Threats Project at the American Enterprise Institute, July 19, 2023",
+"tags": "ISIS; Middle East; Salafi Jihadi Weekly Update",
+"image_url": "https://understandingwar.org/wp-content/uploads/2025/04/Picture12_1.png",
+"image_local": "isw/images/ttp-attacks-and-pakistani-operations-against-the-ttp-june-19-2023-july-19-2023.jpg",
+"image_w": 1430,
+"image_h": 1851,
+"extraction_model": "claude-opus-4-6",
+"n_anchors": 10,
+"n_anchors_used": 6,
+"georef_rms_km": 40.4,
+"image_corners": [
+[
+39.41954710753186,
+62.57242615070685
+],
+[
+38.97177998231964,
+76.22373564620759
+],
+[
+20.04439160092115,
+75.35007455072214
+],
+[
+20.586222531571742,
+61.6987650552214
+]
+],
+"n_plots": 76,
+"legend": [
+{
+"label": "TTP Attacks",
+"symbol": "red circle",
+"kind": "point"
+},
+{
+"label": "Military Garrisons",
+"symbol": "blue shield with n",
+"kind": "point"
+},
+{
+"label": "Security Operations Against the TTP",
+"symbol": "black diamond",
+"kind": "point"
+}
+]
+},
+{
+"id": "ttp-activity-in-afghanistan-and-attacks-in-northwestern-pakistan-june-1-july-26-2023",
+"source": "isw_maps",
+"url": "https://understandingwar.org/map/ttp-activity-in-afghanistan-and-attacks-in-northwestern-pakistan-june-1-july-26-2023/",
+"title": "Ttp Activity in Afghanistan and Attacks in Northwestern Pakistan June 1–july 26, 2023",
+"page_date": "July 27, 2023",
+"isw_map_id": "70607",
+"as_of_date": "2023-07-26",
+"period_start": "2023-06-01",
+"period_end": "2023-07-26",
+"date_precision": "day",
+"map_type": "event_points",
+"geographic_extent": "Eastern Afghanistan (Nangarhar, Kunar) and Northwestern Pakistan (Khyber Pakhtunkhwa, Peshawar, Bara)",
+"producer": "AEI's Critical Threats Project and Institute for the Study of War",
+"cartographer": "Peter Mills",
+"caption_text": "Map by Peter Mills\nCopyright AEI's Critical Threats Project\nand Institute for the Study of War\nJuly 26, 2023",
+"tags": "ISIS; Middle East; Salafi Jihadi Weekly Update",
+"image_url": "https://understandingwar.org/wp-content/uploads/2025/04/2023072620TTP20Peshawar20Map.png",
+"image_local": "isw/images/ttp-activity-in-afghanistan-and-attacks-in-northwestern-pakistan-june-1-july-26-2023.jpg",
+"image_w": 2550,
+"image_h": 3300,
+"extraction_model": "claude-opus-4-6",
+"n_anchors": 8,
+"n_anchors_used": 6,
+"georef_rms_km": 9.1,
+"image_corners": [
+[
+35.92738559784988,
+69.98840731571379
+],
+[
+35.4668033541931,
+72.79013188986511
+],
+[
+32.98573959062891,
+73.18898260805244
+],
+[
+33.46017812788745,
+70.38725803390112
+]
+],
+"n_plots": 48,
+"legend": [
+{
+"label": "TTP Attacks",
+"symbol": "red circle",
+"kind": "point"
+},
+{
+"label": "Security Operations Against the TTP",
+"symbol": "black diamond",
+"kind": "point"
+},
+{
+"label": "TTP Activity in Afghanistan",
+"symbol": "red triangle",
+"kind": "point"
+}
+]
+},
+{
+"id": "taliban-announced-mining-projects-in-afghanistan-september-6-2023",
+"source": "isw_maps",
+"url": "https://understandingwar.org/map/taliban-announced-mining-projects-in-afghanistan-september-6-2023/",
+"title": "Taliban-announced Mining Projects in Afghanistan September 6, 2023",
+"page_date": "September 8, 2023",
+"isw_map_id": "64691",
+"as_of_date": "2023-09-06",
+"period_start": null,
+"period_end": null,
+"date_precision": "day",
+"map_type": "thematic",
+"geographic_extent": "Afghanistan and surrounding countries (Iran, Pakistan)",
+"producer": "AEI's Critical Threats Project and Institute for the Study of War",
+"cartographer": "Peter Mills",
+"caption_text": "Map by Peter Mills\nCopyright AEI's Critical Threats Project\nand Institute for the Study of War\nSeptember 6, 2023",
+"tags": "Afghanistan; Middle East; Salafi Jihadi Weekly Update",
+"image_url": "https://understandingwar.org/wp-content/uploads/2025/05/Picture3_22.png",
+"image_local": "isw/images/taliban-announced-mining-projects-in-afghanistan-september-6-2023.jpg",
+"image_w": 1430,
+"image_h": 1851,
+"extraction_model": "claude-opus-4-6",
+"n_anchors": 8,
+"n_anchors_used": 0,
+"georef_rms_km": null,
+"image_corners": null,
+"n_plots": 4,
+"legend": [
+{
+"label": "Taliban-Announced Mining Project",
+"symbol": "red-outlined circle with mining/factory icon",
+"kind": "point"
+}
+]
+},
+{
+"id": "claimed-ttp-attacks-and-clashes-with-pakistani-security-forces-in-chitral-district-september-6-2023-september-11-2023",
+"source": "isw_maps",
+"url": "https://understandingwar.org/map/claimed-ttp-attacks-and-clashes-with-pakistani-security-forces-in-chitral-district-september-6-2023-september-11-2023/",
+"title": "Claimed TTP Attacks and Clashes With Pakistani Security Forces in Chitral District September 6, 2023–september 11, 2023",
+"page_date": "September 15, 2023",
+"isw_map_id": "68007",
+"as_of_date": "2023-09-14",
+"period_start": "2023-09-06",
+"period_end": "2023-09-11",
+"date_precision": "day",
+"map_type": "event_points",
+"geographic_extent": "Chitral District, Khyber Pakhtunkhwa, Pakistan and adjacent Afghanistan",
+"producer": "Critical Threats Project at the American Enterprise Institute",
+"cartographer": "Kathryn Tyson",
+"caption_text": "Map by Kathryn Tyson © Critical Threats Project at the American Enterprise Institute, September 14, 2023",
+"tags": "ISIS; Middle East; Salafi Jihadi Weekly Update",
+"image_url": "https://understandingwar.org/wp-content/uploads/2025/05/Picture7_5.png",
+"image_local": "isw/images/claimed-ttp-attacks-and-clashes-with-pakistani-security-forces-in-chitral-district-september-6-2023-september-11-2023.jpg",
+"image_w": 1430,
+"image_h": 1851,
+"extraction_model": "claude-opus-4-6",
+"n_anchors": 5,
+"n_anchors_used": 3,
+"georef_rms_km": 0.0,
+"image_corners": [
+[
+36.71149722808943,
+71.06050610419032
+],
+[
+36.903439894785784,
+72.48446231408066
+],
+[
+33.43292119229499,
+72.03351554171375
+],
+[
+33.23262625916772,
+70.60955933182342
+]
+],
+"n_plots": 7,
+"legend": [
+{
+"label": "Cities",
+"symbol": "black star",
+"kind": "point"
+},
+{
+"label": "TTP Leadership Directs TTP Chitral Attacks",
+"symbol": "red flag",
+"kind": "point"
+},
+{
+"label": "TTP Attacks in Chitral District",
+"symbol": "black starburst",
+"kind": "point"
+}
+]
+},
+{
+"id": "major-military-bases-in-pakistan-relative-to-chitral-district-pakistan",
+"source": "isw_maps",
+"url": "https://understandingwar.org/map/major-military-bases-in-pakistan-relative-to-chitral-district-pakistan/",
+"title": "Major Military Bases in Pakistan Relative To Chitral District, Pakistan",
+"page_date": "September 15, 2023",
+"isw_map_id": "68004",
+"as_of_date": "2023-09-14",
+"period_start": null,
+"period_end": null,
+"date_precision": "day",
+"map_type": "force_disposition",
+"geographic_extent": "Afghanistan and Pakistan, focusing on Chitral District and surrounding regions",
+"producer": "Critical Threats Project at the American Enterprise Institute",
+"cartographer": "Kathryn Tyson",
+"caption_text": "Pakistan has small outposts in Chitral, but major military bases are located far outside the district, signaling Pakistan does not give priority to this area.",
+"tags": "ISIS; Middle East; Salafi Jihadi Weekly Update",
+"image_url": "https://understandingwar.org/wp-content/uploads/2025/05/Picture6_9.png",
+"image_local": "isw/images/major-military-bases-in-pakistan-relative-to-chitral-district-pakistan.jpg",
+"image_w": 1430,
+"image_h": 1851,
+"extraction_model": "claude-opus-4-6",
+"n_anchors": 3,
+"n_anchors_used": 0,
+"georef_rms_km": null,
+"image_corners": null,
+"n_plots": 34,
+"legend": [
+{
+"label": "Chitral",
+"symbol": "black star",
+"kind": "point"
+},
+{
+"label": "Military Garrisons",
+"symbol": "blue tent/garrison icon",
+"kind": "point"
+}
+]
+},
+{
+"id": "haqqani-network-affiliated-governors-in-afghanistan-september-20-2023",
+"source": "isw_maps",
+"url": "https://understandingwar.org/map/haqqani-network-affiliated-governors-in-afghanistan-september-20-2023/",
+"title": "Haqqani Network–affiliated Governors in Afghanistan September 20, 2023",
+"page_date": "September 29, 2023",
+"isw_map_id": "71295",
+"as_of_date": "2023-09-20",
+"period_start": null,
+"period_end": null,
+"date_precision": "day",
+"map_type": "thematic",
+"geographic_extent": "Northeastern Afghanistan and northwestern Pakistan",
+"producer": "AEI's Critical Threats Project and Institute for the Study of War",
+"cartographer": "Peter Mills",
+"caption_text": null,
+"tags": "Afghanistan; Middle East; Salafi Jihadi Weekly Update",
+"image_url": "https://understandingwar.org/wp-content/uploads/2025/05/Picture5_12.png",
+"image_local": "isw/images/haqqani-network-affiliated-governors-in-afghanistan-september-20-2023.jpg",
+"image_w": 1430,
+"image_h": 1851,
+"extraction_model": "claude-opus-4-6",
+"n_anchors": 8,
+"n_anchors_used": 4,
+"georef_rms_km": 3.2,
+"image_corners": [
+[
+38.97130792953975,
+68.96912217054869
+],
+[
+38.67198889241495,
+75.17131043482875
+],
+[
+32.72149778865814,
+74.06799436003001
+],
+[
+33.04412984994606,
+67.86580609574995
+]
+],
+"n_plots": 4,
+"legend": [
+{
+"label": "Haqqani Network Affiliated-Governors",
+"symbol": "black star",
+"kind": "point"
+},
+{
+"label": "TTP Cross-Border Raids",
+"symbol": "red triangle",
+"kind": "point"
+}
+]
+},
+{
+"id": "iskp-and-ispp-attacks-in-pakistan-between-january-2022-and-september-2023",
+"source": "isw_maps",
+"url": "https://understandingwar.org/map/iskp-and-ispp-attacks-in-pakistan-between-january-2022-and-september-2023/",
+"title": "Iskp and ISPP Attacks in Pakistan Between January 2022 and September 2023",
+"page_date": "October 6, 2023",
+"isw_map_id": "71506",
+"as_of_date": "2023-10-04",
+"period_start": "2022-01-01",
+"period_end": "2023-09-30",
+"date_precision": "month",
+"map_type": "event_points",
+"geographic_extent": "Afghanistan and Pakistan",
+"producer": "Critical Threats Project at the American Enterprise Institute",
+"cartographer": "Kathryn Tyson",
+"caption_text": "ISKP and ISPP may have conducted two seperate bombings on a religious procession and police on September 29. Both groups maintain attack zones near the sites of the attacks and frequently target religious minorities and police.",
+"tags": "Afghanistan; Middle East; Salafi Jihadi Weekly Update",
+"image_url": "https://understandingwar.org/wp-content/uploads/2025/05/Picture6_11.png",
+"image_local": "isw/images/iskp-and-ispp-attacks-in-pakistan-between-january-2022-and-september-2023.jpg",
+"image_w": 1430,
+"image_h": 1850,
+"extraction_model": "claude-opus-4-6",
+"n_anchors": 8,
+"n_anchors_used": 4,
+"georef_rms_km": 11.0,
+"image_corners": [
+[
+39.78408338669385,
+61.182056695617256
+],
+[
+39.08479386810844,
+76.53837606990963
+],
+[
+19.642423233001292,
+75.87372245298819
+],
+[
+20.492859831060358,
+60.517403078695814
+]
+],
+"n_plots": 27,
+"legend": [
+{
+"label": "ISPP Attacks",
+"symbol": "red circle",
+"kind": "point"
+},
+{
+"label": "ISKP Attacks",
+"symbol": "gray circle",
+"kind": "point"
+},
+{
+"label": "Locations of September 29 Bombings",
+"symbol": "black circle with asterisk",
+"kind": "point"
+}
+]
+},
+{
+"id": "ttp-attacks-and-locations-of-deportations-of-afghan-refugees-in-pakistan-between-august-and-october-2023",
+"source": "isw_maps",
+"url": "https://understandingwar.org/map/ttp-attacks-and-locations-of-deportations-of-afghan-refugees-in-pakistan-between-august-and-october-2023/",
+"title": "Ttp Attacks and Locations of Deportations of Afghan Refugees in Pakistan Between August and October 2023",
+"page_date": "October 13, 2023",
+"isw_map_id": "68654",
+"as_of_date": "2023-10-11",
+"period_start": "2023-08-01",
+"period_end": "2023-10-31",
+"date_precision": "month",
+"map_type": "event_points",
+"geographic_extent": "Afghanistan and Pakistan",
+"producer": "Critical Threats Project at the American Enterprise Institute",
+"cartographer": "Kathryn Tyson",
+"caption_text": "Deportation authorities are at risk of attacks by the TTP, which would help build TTP support zones. The TTP condemned the deportations and called for attacks in response. The area where Pakistan is expelling refugees is located near TTP attack zones.",
+"tags": "ISIS; Middle East; Salafi Jihadi Weekly Update",
+"image_url": "https://understandingwar.org/wp-content/uploads/2025/05/2023101120TTP20and20Deportations20Map.png",
+"image_local": "isw/images/ttp-attacks-and-locations-of-deportations-of-afghan-refugees-in-pakistan-between-august-and-october-2023.jpg",
+"image_w": 4248,
+"image_h": 5500,
+"extraction_model": "claude-opus-4-6",
+"n_anchors": 6,
+"n_anchors_used": 4,
+"georef_rms_km": 11.6,
+"image_corners": [
+[
+42.114080099070236,
+57.28639208411537
+],
+[
+41.14749406208267,
+78.5268947559531
+],
+[
+17.472810108898223,
+80.28392900111336
+],
+[
+18.702107652775954,
+59.043426329275626
+]
+],
+"n_plots": 56,
+"legend": [
+{
+"label": "Border Crossings Where Pakistan Has Deported Refugees in October",
+"symbol": "gray map pin",
+"kind": "point"
+},
+{
+"label": "TTP Attacks from August to October",
+"symbol": "red circle",
+"kind": "point"
+}
+]
+},
+{
+"id": "satellite-view",
+"source": "isw_maps",
+"url": "https://understandingwar.org/map/satellite-view/",
+"title": "Satellite View of Miram Shah, The Headquarters of North Waziristan",
+"page_date": "2025-05-15",
+"isw_map_id": "62575",
+"as_of_date": null,
+"period_start": null,
+"period_end": null,
+"date_precision": null,
+"map_type": "reference",
+"geographic_extent": "Miram Shah, North Waziristan, Pakistan",
+"producer": "Institute for the Study of War (ISW) / AEI Critical Threats Project",
+"cartographer": null,
+"caption_text": null,
+"tags": "Afghanistan; Afghanistan Surge and Drawdown; Middle East",
+"image_url": "https://understandingwar.org/wp-content/uploads/2025/04/Miram_Shah.jpg",
+"image_local": "isw/images/satellite-view.jpg",
+"image_w": 530,
+"image_h": 406,
+"extraction_model": "claude-opus-4-6",
+"n_anchors": 1,
+"n_anchors_used": 0,
+"georef_rms_km": null,
+"image_corners": null,
+"n_plots": 1,
+"legend": []
+}
+]

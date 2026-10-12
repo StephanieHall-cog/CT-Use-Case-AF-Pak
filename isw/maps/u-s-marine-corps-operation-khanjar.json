@@ -1,0 +1,258 @@
+{
+ "source": {
+  "slug": "u-s-marine-corps-operation-khanjar",
+  "url": "https://understandingwar.org/map/u-s-marine-corps-operation-khanjar/",
+  "title": "U.S. Marine Corps Operation Khanjar",
+  "page_date": "October 9, 2009",
+  "isw_map_id": null,
+  "image_url": null,
+  "image_file": "u-s-marine-corps-operation-khanjar.jpg",
+  "tags": [
+   "Afghanistan",
+   "Afghanistan Surge and Drawdown",
+   "Geospatial Intelligence"
+  ]
+ },
+ "map": {
+  "title_on_map": "USMC Operation Khanjar",
+  "subtitle": "Helmand Province, Afghanistan: July 2009",
+  "as_of_date": null,
+  "period_start": "2009-07-01",
+  "period_end": "2009-07-31",
+  "date_precision": "month",
+  "geographic_extent": "Helmand Province, Afghanistan",
+  "map_type": "force_disposition",
+  "producer": "Institute for the Study of War (ISW) / AEI Critical Threats Project",
+  "cartographer": null,
+  "caption_text": "For more information on Operation Khanjar, see Afghanistan Report 2: Securing Helmand, by Jeffrey A. Dressler.",
+  "notes": null
+ },
+ "legend": [
+  {
+   "label": "USMC operations",
+   "symbol": "red area/arrow",
+   "kind": "area"
+  },
+  {
+   "label": "Cleared area of operations",
+   "symbol": "green shaded area",
+   "kind": "area"
+  },
+  {
+   "label": "Taliban controlled/contested",
+   "symbol": "pink/red shaded area",
+   "kind": "area"
+  },
+  {
+   "label": "Provincial boundary",
+   "symbol": "yellow line",
+   "kind": "line"
+  },
+  {
+   "label": "District boundary",
+   "symbol": "gray line",
+   "kind": "line"
+  }
+ ],
+ "anchors": [
+  {
+   "name": "HELMAND",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 45.0,
+   "y_pct": 22.0
+  },
+  {
+   "name": "NIMRUZ",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 10.0,
+   "y_pct": 33.0
+  },
+  {
+   "name": "Lashkar Gah",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 55.0,
+   "y_pct": 12.0
+  },
+  {
+   "name": "Nawa",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 52.0,
+   "y_pct": 38.0
+  },
+  {
+   "name": "Garmsir",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 50.0,
+   "y_pct": 55.0
+  },
+  {
+   "name": "Khan Neshin",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 35.0,
+   "y_pct": 68.0
+  },
+  {
+   "name": "Zaranj",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 22.0,
+   "y_pct": 85.0
+  },
+  {
+   "name": "PAKISTAN",
+   "kind": "country",
+   "country": "PK",
+   "x_pct": 75.0,
+   "y_pct": 88.0
+  }
+ ],
+ "plots": [
+  {
+   "legend_class": "USMC operations",
+   "marker": "area",
+   "x_pct": 52.0,
+   "y_pct": 35.0,
+   "extent_pct": 5.0,
+   "label": null,
+   "place_name": "Nawa",
+   "admin_area": "Helmand",
+   "country": "AF",
+   "actors": [
+    "USMC",
+    "ISAF"
+   ],
+   "event_type": "operation",
+   "date": null,
+   "description": "USMC Operation Khanjar clearing operation in Nawa district area.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "USMC operations",
+   "marker": "area",
+   "x_pct": 48.0,
+   "y_pct": 52.0,
+   "extent_pct": 5.0,
+   "label": null,
+   "place_name": "Garmsir",
+   "admin_area": "Helmand",
+   "country": "AF",
+   "actors": [
+    "USMC",
+    "ISAF"
+   ],
+   "event_type": "operation",
+   "date": null,
+   "description": "USMC Operation Khanjar clearing operation in Garmsir district area.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "USMC operations",
+   "marker": "area",
+   "x_pct": 35.0,
+   "y_pct": 65.0,
+   "extent_pct": 4.0,
+   "label": null,
+   "place_name": "Khan Neshin",
+   "admin_area": "Helmand",
+   "country": "AF",
+   "actors": [
+    "USMC",
+    "ISAF"
+   ],
+   "event_type": "operation",
+   "date": null,
+   "description": "USMC Operation Khanjar clearing operation near Khan Neshin.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Taliban controlled/contested",
+   "marker": "area",
+   "x_pct": 55.0,
+   "y_pct": 30.0,
+   "extent_pct": 6.0,
+   "label": null,
+   "place_name": "Nawa",
+   "admin_area": "Helmand",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "contested",
+   "date": null,
+   "description": "Taliban controlled or contested zone near Nawa district.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Taliban controlled/contested",
+   "marker": "area",
+   "x_pct": 50.0,
+   "y_pct": 46.0,
+   "extent_pct": 5.0,
+   "label": null,
+   "place_name": "Garmsir",
+   "admin_area": "Helmand",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "contested",
+   "date": null,
+   "description": "Taliban controlled or contested zone near Garmsir district.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Cleared area of operations",
+   "marker": "area",
+   "x_pct": 62.0,
+   "y_pct": 72.0,
+   "extent_pct": 8.0,
+   "label": "Cleared area of operations",
+   "place_name": null,
+   "admin_area": "Helmand",
+   "country": "AF",
+   "actors": [
+    "USMC",
+    "ISAF"
+   ],
+   "event_type": "security_operation",
+   "date": null,
+   "description": "Area previously cleared during USMC operations in southern Helmand.",
+   "confidence": "medium"
+  }
+ ],
+ "named_persons": [
+  {
+   "name": "Jeffrey A. Dressler",
+   "role": "Author",
+   "affiliation": "ISW",
+   "place": null,
+   "x_pct": null,
+   "y_pct": null
+  }
+ ],
+ "named_orgs": [
+  "USMC",
+  "U.S. Marine Corps",
+  "Institute for the Study of War (ISW)",
+  "AEI Critical Threats Project",
+  "Taliban"
+ ],
+ "text_blocks": [
+  "For more information on Operation Khanjar, see Afghanistan Report 2: Securing Helmand, by Jeffrey A. Dressler."
+ ],
+ "_extraction": {
+  "model": "claude-opus-4-6",
+  "n_images": 1,
+  "image_px": [
+   242,
+   300
+  ],
+  "ts": "2026-10-12T16:58:44Z"
+ }
+}

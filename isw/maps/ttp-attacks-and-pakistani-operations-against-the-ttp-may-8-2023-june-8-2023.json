@@ -1,0 +1,893 @@
+{
+ "source": {
+  "slug": "ttp-attacks-and-pakistani-operations-against-the-ttp-may-8-2023-june-8-2023",
+  "url": "https://understandingwar.org/map/ttp-attacks-and-pakistani-operations-against-the-ttp-may-8-2023-june-8-2023/",
+  "title": "Ttp Attacks and Pakistani Operations Against the TTP May 8, 2023–june 8, 2023",
+  "page_date": "June 9, 2023",
+  "isw_map_id": "70041",
+  "image_url": "https://understandingwar.org/wp-content/uploads/2025/05/2023060820TTP20Map.png",
+  "image_file": "ttp-attacks-and-pakistani-operations-against-the-ttp-may-8-2023-june-8-2023.png",
+  "tags": [
+   "Afghanistan",
+   "Middle East",
+   "Salafi Jihadi Weekly Update"
+  ]
+ },
+ "map": {
+  "title_on_map": "TTP Attacks and Pakistani Operations Against the TTP",
+  "subtitle": null,
+  "as_of_date": "2023-06-08",
+  "period_start": "2023-05-08",
+  "period_end": "2023-06-08",
+  "date_precision": "day",
+  "geographic_extent": "Afghanistan and Pakistan with portions of India",
+  "map_type": "event_points",
+  "producer": "Critical Threats Project at the American Enterprise Institute",
+  "cartographer": "Kathryn Tyson",
+  "caption_text": "Map by Kathryn Tyson © Critical Threats Project at the American Enterprise Institute, June 8, 2023",
+  "notes": "Basemap sources: Esri, © OpenStreetMap contributors, HERE, Garmin, FAO, NOAA, USGS, Esri, USGSWGS1984 Web Mercator (Auxiliary Sphere)"
+ },
+ "legend": [
+  {
+   "label": "TTP Attacks",
+   "symbol": "red circle",
+   "kind": "point"
+  },
+  {
+   "label": "Security Operations Against the TTP",
+   "symbol": "black diamond",
+   "kind": "point"
+  }
+ ],
+ "anchors": [
+  {
+   "name": "Kabul",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 55.0,
+   "y_pct": 27.5
+  },
+  {
+   "name": "Peshawar",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 74.0,
+   "y_pct": 28.5
+  },
+  {
+   "name": "Islamabad",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 76.0,
+   "y_pct": 31.5
+  },
+  {
+   "name": "Lahore",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 87.0,
+   "y_pct": 42.5
+  },
+  {
+   "name": "Quetta",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 41.0,
+   "y_pct": 49.0
+  },
+  {
+   "name": "Karachi",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 43.0,
+   "y_pct": 77.0
+  },
+  {
+   "name": "Afghanistan",
+   "kind": "country",
+   "country": "AF",
+   "x_pct": 32.0,
+   "y_pct": 30.0
+  },
+  {
+   "name": "Pakistan",
+   "kind": "country",
+   "country": "PK",
+   "x_pct": 56.0,
+   "y_pct": 52.0
+  },
+  {
+   "name": "India",
+   "kind": "country",
+   "country": "IN",
+   "x_pct": 86.0,
+   "y_pct": 72.0
+  }
+ ],
+ "plots": [
+  {
+   "legend_class": "TTP Attacks",
+   "marker": "point",
+   "x_pct": 80.5,
+   "y_pct": 20.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in northern tribal areas of Pakistan",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Attacks",
+   "marker": "point",
+   "x_pct": 85.0,
+   "y_pct": 21.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in northern KP region",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Attacks",
+   "marker": "point",
+   "x_pct": 87.0,
+   "y_pct": 20.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in upper tribal areas of Pakistan",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Attacks",
+   "marker": "point",
+   "x_pct": 89.0,
+   "y_pct": 21.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in upper tribal areas of Pakistan",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Attacks",
+   "marker": "point",
+   "x_pct": 70.0,
+   "y_pct": 23.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in KP province",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Attacks",
+   "marker": "point",
+   "x_pct": 72.0,
+   "y_pct": 24.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in KP province",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Attacks",
+   "marker": "point",
+   "x_pct": 73.5,
+   "y_pct": 24.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack near Peshawar area",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Attacks",
+   "marker": "point",
+   "x_pct": 80.0,
+   "y_pct": 24.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack east of Peshawar",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Attacks",
+   "marker": "point",
+   "x_pct": 81.5,
+   "y_pct": 24.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack east of Peshawar",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Attacks",
+   "marker": "point",
+   "x_pct": 69.0,
+   "y_pct": 26.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in western KP",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Attacks",
+   "marker": "point",
+   "x_pct": 70.5,
+   "y_pct": 26.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in western KP",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Attacks",
+   "marker": "point",
+   "x_pct": 60.0,
+   "y_pct": 29.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack near Afghan-Pakistan border area",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Attacks",
+   "marker": "point",
+   "x_pct": 62.0,
+   "y_pct": 29.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in tribal areas near border",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Attacks",
+   "marker": "point",
+   "x_pct": 71.5,
+   "y_pct": 29.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Peshawar",
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack near Peshawar",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Attacks",
+   "marker": "point",
+   "x_pct": 72.5,
+   "y_pct": 29.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Peshawar",
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack near Peshawar",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Attacks",
+   "marker": "point",
+   "x_pct": 73.0,
+   "y_pct": 30.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Peshawar",
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack near Peshawar",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Attacks",
+   "marker": "point",
+   "x_pct": 82.0,
+   "y_pct": 30.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack east of Islamabad area",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Attacks",
+   "marker": "point",
+   "x_pct": 64.0,
+   "y_pct": 32.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in tribal belt south of Peshawar",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Attacks",
+   "marker": "point",
+   "x_pct": 65.5,
+   "y_pct": 33.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in tribal belt",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Attacks",
+   "marker": "point",
+   "x_pct": 63.0,
+   "y_pct": 34.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in South Waziristan / tribal area",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Attacks",
+   "marker": "point",
+   "x_pct": 64.5,
+   "y_pct": 34.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in tribal belt",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Attacks",
+   "marker": "point",
+   "x_pct": 65.0,
+   "y_pct": 35.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in tribal belt",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Attacks",
+   "marker": "point",
+   "x_pct": 62.5,
+   "y_pct": 35.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in tribal areas",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Attacks",
+   "marker": "point",
+   "x_pct": 58.0,
+   "y_pct": 36.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in western tribal areas near border",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Attacks",
+   "marker": "point",
+   "x_pct": 59.0,
+   "y_pct": 36.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in western tribal areas",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Attacks",
+   "marker": "point",
+   "x_pct": 56.5,
+   "y_pct": 37.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack near Afghan-Pakistan border",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Attacks",
+   "marker": "point",
+   "x_pct": 57.5,
+   "y_pct": 37.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack near border region",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Attacks",
+   "marker": "point",
+   "x_pct": 55.5,
+   "y_pct": 38.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in southern tribal belt near border",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Attacks",
+   "marker": "point",
+   "x_pct": 60.0,
+   "y_pct": 38.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in tribal areas",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Attacks",
+   "marker": "point",
+   "x_pct": 61.0,
+   "y_pct": 39.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in tribal areas",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "TTP Attacks",
+   "marker": "point",
+   "x_pct": 40.0,
+   "y_pct": 47.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Quetta",
+   "admin_area": "Balochistan",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack near Quetta",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Attacks",
+   "marker": "point",
+   "x_pct": 50.0,
+   "y_pct": 30.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP attack in eastern Afghanistan near border",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Security Operations Against the TTP",
+   "marker": "point",
+   "x_pct": 75.0,
+   "y_pct": 27.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Peshawar",
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "Pakistani security forces"
+   ],
+   "event_type": "security_operation",
+   "date": null,
+   "description": "Security operation against TTP near Peshawar",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Security Operations Against the TTP",
+   "marker": "point",
+   "x_pct": 79.0,
+   "y_pct": 26.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "Pakistani security forces"
+   ],
+   "event_type": "security_operation",
+   "date": null,
+   "description": "Security operation against TTP in KP",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Security Operations Against the TTP",
+   "marker": "point",
+   "x_pct": 80.0,
+   "y_pct": 27.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "Pakistani security forces"
+   ],
+   "event_type": "security_operation",
+   "date": null,
+   "description": "Security operation against TTP in KP",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Security Operations Against the TTP",
+   "marker": "point",
+   "x_pct": 76.0,
+   "y_pct": 30.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Islamabad",
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "Pakistani security forces"
+   ],
+   "event_type": "security_operation",
+   "date": null,
+   "description": "Security operation against TTP near Islamabad",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Security Operations Against the TTP",
+   "marker": "point",
+   "x_pct": 66.0,
+   "y_pct": 35.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "Pakistani security forces"
+   ],
+   "event_type": "security_operation",
+   "date": null,
+   "description": "Security operation against TTP in tribal areas",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Security Operations Against the TTP",
+   "marker": "point",
+   "x_pct": 67.0,
+   "y_pct": 36.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "Pakistani security forces"
+   ],
+   "event_type": "security_operation",
+   "date": null,
+   "description": "Security operation against TTP in tribal areas",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Security Operations Against the TTP",
+   "marker": "point",
+   "x_pct": 63.0,
+   "y_pct": 39.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "Pakistani security forces"
+   ],
+   "event_type": "security_operation",
+   "date": null,
+   "description": "Security operation against TTP in southern tribal belt",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Security Operations Against the TTP",
+   "marker": "point",
+   "x_pct": 64.5,
+   "y_pct": 39.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "Pakistani security forces"
+   ],
+   "event_type": "security_operation",
+   "date": null,
+   "description": "Security operation against TTP in southern tribal belt",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Security Operations Against the TTP",
+   "marker": "point",
+   "x_pct": 68.0,
+   "y_pct": 40.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "Pakistani security forces"
+   ],
+   "event_type": "security_operation",
+   "date": null,
+   "description": "Security operation against TTP in tribal areas",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Security Operations Against the TTP",
+   "marker": "point",
+   "x_pct": 62.0,
+   "y_pct": 49.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Balochistan",
+   "country": "PK",
+   "actors": [
+    "Pakistani security forces"
+   ],
+   "event_type": "security_operation",
+   "date": null,
+   "description": "Security operation against TTP in Balochistan",
+   "confidence": "high"
+  }
+ ],
+ "named_persons": [
+  {
+   "name": "Kathryn Tyson",
+   "role": "cartographer",
+   "affiliation": "Critical Threats Project at the American Enterprise Institute",
+   "place": null,
+   "x_pct": null,
+   "y_pct": null
+  }
+ ],
+ "named_orgs": [
+  "TTP",
+  "Critical Threats Project",
+  "American Enterprise Institute"
+ ],
+ "text_blocks": [
+  "Map by Kathryn Tyson © Critical Threats Project at the American Enterprise Institute, June 8, 2023",
+  "Esri, © OpenStreetMap contributors, HERE, Garmin, FAO, NOAA, USGS, Esri, USGSWGS1984 Web Mercator (Auxiliary Sphere)"
+ ],
+ "_extraction": {
+  "model": "claude-opus-4-6",
+  "n_images": 5,
+  "image_px": [
+   4250,
+   5500
+  ],
+  "ts": "2026-10-12T16:59:53Z"
+ }
+}

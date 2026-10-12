@@ -1,0 +1,1060 @@
+{
+ "source": {
+  "slug": "kandahar-province-2",
+  "url": "https://understandingwar.org/map/kandahar-province-2/",
+  "title": "Kandahar Province",
+  "page_date": "December 1, 2009",
+  "isw_map_id": null,
+  "image_url": null,
+  "image_file": "kandahar-province-2.jpg",
+  "tags": [
+   "Afghanistan",
+   "Afghanistan Surge and Drawdown",
+   "Middle East"
+  ]
+ },
+ "map": {
+  "title_on_map": "Kandahar Province",
+  "subtitle": null,
+  "as_of_date": "2009-12-01",
+  "period_start": null,
+  "period_end": null,
+  "date_precision": "day",
+  "geographic_extent": "Kandahar Province, Afghanistan and surrounding areas including parts of Helmand, Uruzgan, Zabul, Ghazni provinces and Balochistan, Pakistan",
+  "map_type": "reference",
+  "producer": "Institute for the Study of War",
+  "cartographer": null,
+  "caption_text": null,
+  "notes": "Reference map showing district boundaries, towns, roads, terrain features, and highway numbers for Kandahar Province and surrounding areas. Numbered highway markers (1 and 4) are shown."
+ },
+ "legend": [],
+ "anchors": [
+  {
+   "name": "Baghran",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 23.5,
+   "y_pct": 2.5
+  },
+  {
+   "name": "Sakhar",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 42.0,
+   "y_pct": 7.0
+  },
+  {
+   "name": "Shahid-e Hasas",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 38.0,
+   "y_pct": 9.5
+  },
+  {
+   "name": "Chora",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 43.5,
+   "y_pct": 10.5
+  },
+  {
+   "name": "Charah",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 52.0,
+   "y_pct": 8.0
+  },
+  {
+   "name": "URUZGAN",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 43.0,
+   "y_pct": 12.5
+  },
+  {
+   "name": "Deh Rawud",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 33.5,
+   "y_pct": 14.0
+  },
+  {
+   "name": "Tarin Kowt",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 47.5,
+   "y_pct": 15.0
+  },
+  {
+   "name": "Khas Uruzgan",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 59.0,
+   "y_pct": 9.0
+  },
+  {
+   "name": "Oruzgan",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 55.0,
+   "y_pct": 12.0
+  },
+  {
+   "name": "Malestan",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 71.0,
+   "y_pct": 2.5
+  },
+  {
+   "name": "Qarah Bagh",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 94.0,
+   "y_pct": 2.5
+  },
+  {
+   "name": "Jaghuri",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 76.0,
+   "y_pct": 5.0
+  },
+  {
+   "name": "Luman",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 82.0,
+   "y_pct": 4.5
+  },
+  {
+   "name": "GHAZNI",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 90.0,
+   "y_pct": 5.5
+  },
+  {
+   "name": "Dzangali",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 72.0,
+   "y_pct": 8.0
+  },
+  {
+   "name": "Muqer",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 88.0,
+   "y_pct": 7.5
+  },
+  {
+   "name": "Khakeran",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 72.5,
+   "y_pct": 11.0
+  },
+  {
+   "name": "Moqoro",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 84.5,
+   "y_pct": 10.5
+  },
+  {
+   "name": "Gilan",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 82.5,
+   "y_pct": 13.0
+  },
+  {
+   "name": "Gelan",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 90.0,
+   "y_pct": 14.0
+  },
+  {
+   "name": "Arghandab",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 80.0,
+   "y_pct": 15.0
+  },
+  {
+   "name": "Sayagaz",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 72.5,
+   "y_pct": 16.0
+  },
+  {
+   "name": "Kala Kheyl",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 75.0,
+   "y_pct": 18.0
+  },
+  {
+   "name": "Ab-e Istadeh-ye Moqor",
+   "kind": "other",
+   "country": "AF",
+   "x_pct": 92.0,
+   "y_pct": 17.0
+  },
+  {
+   "name": "Malek Din",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 95.5,
+   "y_pct": 19.5
+  },
+  {
+   "name": "Shay Doy",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 76.0,
+   "y_pct": 19.5
+  },
+  {
+   "name": "ZABUL",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 73.0,
+   "y_pct": 21.0
+  },
+  {
+   "name": "Musa Qala",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 21.0,
+   "y_pct": 20.5
+  },
+  {
+   "name": "Now Zad",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 10.0,
+   "y_pct": 20.0
+  },
+  {
+   "name": "Kajaki",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 25.5,
+   "y_pct": 19.5
+  },
+  {
+   "name": "Wanna",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 41.0,
+   "y_pct": 21.0
+  },
+  {
+   "name": "Nesh",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 41.0,
+   "y_pct": 23.0
+  },
+  {
+   "name": "Mianeshin",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 51.0,
+   "y_pct": 21.5
+  },
+  {
+   "name": "Zamto Kalay",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 49.5,
+   "y_pct": 23.0
+  },
+  {
+   "name": "Kheyl-e Hajji Gholam Jan",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 67.0,
+   "y_pct": 23.5
+  },
+  {
+   "name": "Nawa",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 95.0,
+   "y_pct": 21.5
+  },
+  {
+   "name": "Nawah",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 94.0,
+   "y_pct": 22.5
+  },
+  {
+   "name": "Now Bahar",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 85.0,
+   "y_pct": 24.0
+  },
+  {
+   "name": "Basal Kheyl",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 91.0,
+   "y_pct": 24.0
+  },
+  {
+   "name": "Mizan",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 61.0,
+   "y_pct": 25.0
+  },
+  {
+   "name": "Qalat",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 69.0,
+   "y_pct": 25.5
+  },
+  {
+   "name": "Asad",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 31.5,
+   "y_pct": 26.0
+  },
+  {
+   "name": "Sangin",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 25.0,
+   "y_pct": 27.5
+  },
+  {
+   "name": "Washir",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 5.0,
+   "y_pct": 27.5
+  },
+  {
+   "name": "Shah Wali Kot",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 50.0,
+   "y_pct": 25.0
+  },
+  {
+   "name": "Ghorak",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 27.5,
+   "y_pct": 28.5
+  },
+  {
+   "name": "Shurakian",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 18.5,
+   "y_pct": 30.0
+  },
+  {
+   "name": "Khakrez",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 37.5,
+   "y_pct": 31.0
+  },
+  {
+   "name": "Dahla Dam",
+   "kind": "other",
+   "country": "AF",
+   "x_pct": 42.0,
+   "y_pct": 31.5
+  },
+  {
+   "name": "Jaldak",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 58.0,
+   "y_pct": 28.5
+  },
+  {
+   "name": "Tarnek wa Jaldak",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 55.0,
+   "y_pct": 30.0
+  },
+  {
+   "name": "Shinkay",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 77.5,
+   "y_pct": 30.0
+  },
+  {
+   "name": "Shinkai",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 78.0,
+   "y_pct": 31.0
+  },
+  {
+   "name": "Derakht-e Yahya",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 95.0,
+   "y_pct": 31.0
+  },
+  {
+   "name": "Afghar",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 80.0,
+   "y_pct": 33.0
+  },
+  {
+   "name": "Shamulza'i",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 89.0,
+   "y_pct": 32.5
+  },
+  {
+   "name": "Spin Ki Tsah",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 90.0,
+   "y_pct": 34.0
+  },
+  {
+   "name": "Gereshk",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 11.5,
+   "y_pct": 32.5
+  },
+  {
+   "name": "Narh-e Saraj",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 12.0,
+   "y_pct": 33.5
+  },
+  {
+   "name": "Kuchnay Yaklang",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 11.5,
+   "y_pct": 34.5
+  },
+  {
+   "name": "De Maiwand",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 22.0,
+   "y_pct": 34.0
+  },
+  {
+   "name": "Arghandab",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 42.0,
+   "y_pct": 33.0
+  },
+  {
+   "name": "Zhari",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 36.0,
+   "y_pct": 34.0
+  },
+  {
+   "name": "Hutal",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 27.5,
+   "y_pct": 35.0
+  },
+  {
+   "name": "KANDAHAR",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 44.5,
+   "y_pct": 35.0
+  },
+  {
+   "name": "Daman",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 55.0,
+   "y_pct": 35.0
+  },
+  {
+   "name": "Senjaray",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 38.5,
+   "y_pct": 36.0
+  },
+  {
+   "name": "Hawz-e Madad",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 30.0,
+   "y_pct": 36.5
+  },
+  {
+   "name": "Lashkar Gah",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 13.0,
+   "y_pct": 37.5
+  },
+  {
+   "name": "Lashkar Gah",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 3.5,
+   "y_pct": 38.5
+  },
+  {
+   "name": "Band-e Timor",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 17.0,
+   "y_pct": 37.5
+  },
+  {
+   "name": "Bazaar-e Panjwai",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 39.5,
+   "y_pct": 38.0
+  },
+  {
+   "name": "Pashmul",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 32.0,
+   "y_pct": 38.5
+  },
+  {
+   "name": "Luy Kalay",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 57.0,
+   "y_pct": 36.5
+  },
+  {
+   "name": "Banu Kheyl",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 60.5,
+   "y_pct": 38.0
+  },
+  {
+   "name": "Maruf",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 73.0,
+   "y_pct": 37.5
+  },
+  {
+   "name": "Maiwand",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 24.5,
+   "y_pct": 40.0
+  },
+  {
+   "name": "Dand",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 48.0,
+   "y_pct": 39.5
+  },
+  {
+   "name": "Arghistan",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 60.0,
+   "y_pct": 39.0
+  },
+  {
+   "name": "Maruf",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 76.0,
+   "y_pct": 39.5
+  },
+  {
+   "name": "Hazaras",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 5.0,
+   "y_pct": 41.0
+  },
+  {
+   "name": "Nawah-ye Baraka'i",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 13.5,
+   "y_pct": 42.0
+  },
+  {
+   "name": "Takhta Pul",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 48.5,
+   "y_pct": 43.0
+  },
+  {
+   "name": "Hajitori Kalay",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 7.0,
+   "y_pct": 45.0
+  },
+  {
+   "name": "HELMAND",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 8.0,
+   "y_pct": 47.0
+  },
+  {
+   "name": "Dowry",
+   "kind": "other",
+   "country": "AF",
+   "x_pct": 32.0,
+   "y_pct": 40.5
+  },
+  {
+   "name": "Daman",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 43.0,
+   "y_pct": 44.0
+  },
+  {
+   "name": "KANDAHAR",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 40.0,
+   "y_pct": 46.0
+  },
+  {
+   "name": "Sar Kelizhay",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 55.0,
+   "y_pct": 47.0
+  },
+  {
+   "name": "Panjwai",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 32.0,
+   "y_pct": 48.5
+  },
+  {
+   "name": "Kuchnay Darvishan",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 7.0,
+   "y_pct": 50.5
+  },
+  {
+   "name": "Garm Ser",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 8.0,
+   "y_pct": 52.0
+  },
+  {
+   "name": "Yasinza'i Kalay",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 6.0,
+   "y_pct": 54.0
+  },
+  {
+   "name": "Spin Boldak",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 58.0,
+   "y_pct": 50.0
+  },
+  {
+   "name": "Spin Boldak",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 54.0,
+   "y_pct": 51.0
+  },
+  {
+   "name": "Chaman",
+   "kind": "town",
+   "country": "PK",
+   "x_pct": 60.5,
+   "y_pct": 52.5
+  },
+  {
+   "name": "Khojak Pass",
+   "kind": "other",
+   "country": "PK",
+   "x_pct": 63.0,
+   "y_pct": 53.5
+  },
+  {
+   "name": "Rigestan",
+   "kind": "region",
+   "country": "AF",
+   "x_pct": 35.0,
+   "y_pct": 55.0
+  },
+  {
+   "name": "Pishin",
+   "kind": "town",
+   "country": "PK",
+   "x_pct": 70.5,
+   "y_pct": 58.0
+  },
+  {
+   "name": "Bostan",
+   "kind": "town",
+   "country": "PK",
+   "x_pct": 73.0,
+   "y_pct": 60.0
+  },
+  {
+   "name": "Shorabak",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 50.0,
+   "y_pct": 64.5
+  },
+  {
+   "name": "Towrzi",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 48.0,
+   "y_pct": 66.5
+  },
+  {
+   "name": "Quetta",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 74.0,
+   "y_pct": 65.5
+  },
+  {
+   "name": "Reg Desert",
+   "kind": "region",
+   "country": "AF",
+   "x_pct": 35.0,
+   "y_pct": 65.0
+  },
+  {
+   "name": "Reg",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 28.0,
+   "y_pct": 68.0
+  },
+  {
+   "name": "Reg-e Khan Neshin",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 7.0,
+   "y_pct": 71.0
+  },
+  {
+   "name": "Bolan Pass",
+   "kind": "other",
+   "country": "PK",
+   "x_pct": 76.5,
+   "y_pct": 71.5
+  },
+  {
+   "name": "Toba Kakar Range",
+   "kind": "other",
+   "country": "PK",
+   "x_pct": 80.0,
+   "y_pct": 53.0
+  },
+  {
+   "name": "Central Brahl Range",
+   "kind": "other",
+   "country": "PK",
+   "x_pct": 78.0,
+   "y_pct": 78.0
+  },
+  {
+   "name": "AFGHANISTAN",
+   "kind": "country",
+   "country": "AF",
+   "x_pct": 36.0,
+   "y_pct": 79.0
+  },
+  {
+   "name": "PAKISTAN",
+   "kind": "country",
+   "country": "PK",
+   "x_pct": 40.0,
+   "y_pct": 81.0
+  },
+  {
+   "name": "Nushki",
+   "kind": "town",
+   "country": "PK",
+   "x_pct": 55.0,
+   "y_pct": 82.0
+  },
+  {
+   "name": "Chagai Hills",
+   "kind": "region",
+   "country": "PK",
+   "x_pct": 11.0,
+   "y_pct": 83.0
+  },
+  {
+   "name": "Chagai",
+   "kind": "town",
+   "country": "PK",
+   "x_pct": 14.0,
+   "y_pct": 87.0
+  },
+  {
+   "name": "Hamum-i Lora",
+   "kind": "other",
+   "country": "PK",
+   "x_pct": 17.0,
+   "y_pct": 89.0
+  },
+  {
+   "name": "Pishin Lora",
+   "kind": "river",
+   "country": "PK",
+   "x_pct": 36.0,
+   "y_pct": 85.0
+  },
+  {
+   "name": "Chagai",
+   "kind": "town",
+   "country": "PK",
+   "x_pct": 42.0,
+   "y_pct": 90.5
+  },
+  {
+   "name": "BALOCHISTAN",
+   "kind": "province",
+   "country": "PK",
+   "x_pct": 45.0,
+   "y_pct": 93.0
+  },
+  {
+   "name": "Sibi",
+   "kind": "town",
+   "country": "PK",
+   "x_pct": 95.0,
+   "y_pct": 82.0
+  },
+  {
+   "name": "Kalat",
+   "kind": "town",
+   "country": "PK",
+   "x_pct": 62.0,
+   "y_pct": 94.0
+  },
+  {
+   "name": "Dalbandin",
+   "kind": "town",
+   "country": "PK",
+   "x_pct": 8.0,
+   "y_pct": 95.0
+  },
+  {
+   "name": "Khash Rud",
+   "kind": "river",
+   "country": "AF",
+   "x_pct": 8.0,
+   "y_pct": 10.0
+  },
+  {
+   "name": "Darya-ye Helmand",
+   "kind": "river",
+   "country": "AF",
+   "x_pct": 17.0,
+   "y_pct": 28.0
+  },
+  {
+   "name": "L. Arghandab",
+   "kind": "river",
+   "country": "AF",
+   "x_pct": 43.0,
+   "y_pct": 29.5
+  },
+  {
+   "name": "Rud-e Arghandab",
+   "kind": "river",
+   "country": "AF",
+   "x_pct": 47.0,
+   "y_pct": 32.0
+  },
+  {
+   "name": "Tarnak",
+   "kind": "river",
+   "country": "AF",
+   "x_pct": 62.0,
+   "y_pct": 29.0
+  },
+  {
+   "name": "Rawd-e Lurah",
+   "kind": "river",
+   "country": "AF",
+   "x_pct": 77.0,
+   "y_pct": 28.5
+  },
+  {
+   "name": "Arghastan",
+   "kind": "river",
+   "country": "AF",
+   "x_pct": 57.0,
+   "y_pct": 40.0
+  },
+  {
+   "name": "Kafar Jar Ghar Range",
+   "kind": "other",
+   "country": "AF",
+   "x_pct": 58.0,
+   "y_pct": 13.5
+  },
+  {
+   "name": "Shah Maqsod Range",
+   "kind": "other",
+   "country": "AF",
+   "x_pct": 37.0,
+   "y_pct": 26.0
+  },
+  {
+   "name": "Khada Hills",
+   "kind": "other",
+   "country": "AF",
+   "x_pct": 55.0,
+   "y_pct": 44.0
+  },
+  {
+   "name": "Baghran",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 22.5,
+   "y_pct": 9.0
+  },
+  {
+   "name": "Daychopan",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 63.0,
+   "y_pct": 15.5
+  },
+  {
+   "name": "Deh Rawud",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 37.0,
+   "y_pct": 15.5
+  }
+ ],
+ "plots": [
+  {
+   "legend_class": "unlabelled",
+   "marker": "point",
+   "x_pct": 27.0,
+   "y_pct": 35.5,
+   "extent_pct": null,
+   "label": "1",
+   "place_name": "Hutal",
+   "admin_area": "Maiwand",
+   "country": "AF",
+   "actors": [],
+   "event_type": "other",
+   "date": null,
+   "description": "Highway 1 marker near Hutal in Maiwand district",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "unlabelled",
+   "marker": "point",
+   "x_pct": 55.0,
+   "y_pct": 35.0,
+   "extent_pct": null,
+   "label": "1",
+   "place_name": "Daman",
+   "admin_area": "Daman",
+   "country": "AF",
+   "actors": [],
+   "event_type": "other",
+   "date": null,
+   "description": "Highway 1 marker near Daman",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "unlabelled",
+   "marker": "point",
+   "x_pct": 76.0,
+   "y_pct": 16.5,
+   "extent_pct": null,
+   "label": "1",
+   "place_name": "Arghandab",
+   "admin_area": "Zabul",
+   "country": "AF",
+   "actors": [],
+   "event_type": "other",
+   "date": null,
+   "description": "Highway 1 marker near Arghandab district, Zabul province",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "unlabelled",
+   "marker": "point",
+   "x_pct": 48.0,
+   "y_pct": 45.0,
+   "extent_pct": null,
+   "label": "4",
+   "place_name": "Takhta Pul",
+   "admin_area": "Kandahar",
+   "country": "AF",
+   "actors": [],
+   "event_type": "other",
+   "date": null,
+   "description": "Highway 4 marker near Takhta Pul",
+   "confidence": "high"
+  }
+ ],
+ "named_persons": [],
+ "named_orgs": [
+  "Institute for the Study of War"
+ ],
+ "text_blocks": [
+  "© INSTITUTE FOR THE STUDY OF WAR"
+ ],
+ "_extraction": {
+  "model": "claude-opus-4-6",
+  "n_images": 5,
+  "image_px": [
+   1838,
+   2352
+  ],
+  "ts": "2026-10-12T16:53:47Z"
+ }
+}

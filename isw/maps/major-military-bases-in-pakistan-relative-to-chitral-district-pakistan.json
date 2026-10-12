@@ -1,0 +1,705 @@
+{
+ "source": {
+  "slug": "major-military-bases-in-pakistan-relative-to-chitral-district-pakistan",
+  "url": "https://understandingwar.org/map/major-military-bases-in-pakistan-relative-to-chitral-district-pakistan/",
+  "title": "Major Military Bases in Pakistan Relative To Chitral District, Pakistan",
+  "page_date": "September 15, 2023",
+  "isw_map_id": "68004",
+  "image_url": "https://understandingwar.org/wp-content/uploads/2025/05/Picture6_9.png",
+  "image_file": "major-military-bases-in-pakistan-relative-to-chitral-district-pakistan.png",
+  "tags": [
+   "ISIS",
+   "Middle East",
+   "Salafi Jihadi Weekly Update"
+  ]
+ },
+ "map": {
+  "title_on_map": "Major Military Bases in Pakistan Relative to Chitral District, Pakistan",
+  "subtitle": null,
+  "as_of_date": "2023-09-14",
+  "period_start": null,
+  "period_end": null,
+  "date_precision": "day",
+  "geographic_extent": "Afghanistan and Pakistan, focusing on Chitral District and surrounding regions",
+  "map_type": "force_disposition",
+  "producer": "Critical Threats Project at the American Enterprise Institute",
+  "cartographer": "Kathryn Tyson",
+  "caption_text": "Pakistan has small outposts in Chitral, but major military bases are located far outside the district, signaling Pakistan does not give priority to this area.",
+  "notes": "Map by Kathryn Tyson © Critical Threats Project at the American Enterprise Institute, September 14, 2023"
+ },
+ "legend": [
+  {
+   "label": "Chitral",
+   "symbol": "black star",
+   "kind": "point"
+  },
+  {
+   "label": "Military Garrisons",
+   "symbol": "blue tent/garrison icon",
+   "kind": "point"
+  }
+ ],
+ "anchors": [
+  {
+   "name": "Chitral",
+   "kind": "town",
+   "country": "PK",
+   "x_pct": 69.0,
+   "y_pct": 30.5
+  },
+  {
+   "name": "Afghanistan",
+   "kind": "country",
+   "country": "AF",
+   "x_pct": 27.0,
+   "y_pct": 38.0
+  },
+  {
+   "name": "Pakistan",
+   "kind": "country",
+   "country": "PK",
+   "x_pct": 52.0,
+   "y_pct": 58.0
+  }
+ ],
+ "plots": [
+  {
+   "legend_class": "Chitral",
+   "marker": "point",
+   "x_pct": 68.0,
+   "y_pct": 30.5,
+   "extent_pct": null,
+   "label": "Chitral",
+   "place_name": "Chitral",
+   "admin_area": "Chitral District",
+   "country": "PK",
+   "actors": [],
+   "event_type": "other",
+   "date": null,
+   "description": "Location of Chitral town, the district center of Chitral District.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Military Garrisons",
+   "marker": "point",
+   "x_pct": 62.5,
+   "y_pct": 38.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "Pakistani security forces"
+   ],
+   "event_type": "base",
+   "date": null,
+   "description": "Military garrison located in northern Pakistan west of the main cluster.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Military Garrisons",
+   "marker": "point",
+   "x_pct": 66.0,
+   "y_pct": 38.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "Pakistani security forces"
+   ],
+   "event_type": "base",
+   "date": null,
+   "description": "Military garrison in northern Pakistan.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Military Garrisons",
+   "marker": "point",
+   "x_pct": 68.5,
+   "y_pct": 38.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "Pakistani security forces"
+   ],
+   "event_type": "base",
+   "date": null,
+   "description": "Military garrison in northern Pakistan.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Military Garrisons",
+   "marker": "point",
+   "x_pct": 71.5,
+   "y_pct": 37.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "Pakistani security forces"
+   ],
+   "event_type": "base",
+   "date": null,
+   "description": "Military garrison in northern Pakistan.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Military Garrisons",
+   "marker": "point",
+   "x_pct": 75.5,
+   "y_pct": 37.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "Pakistani security forces"
+   ],
+   "event_type": "base",
+   "date": null,
+   "description": "Military garrison in northern Pakistan.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Military Garrisons",
+   "marker": "point",
+   "x_pct": 67.0,
+   "y_pct": 39.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "Pakistani security forces"
+   ],
+   "event_type": "base",
+   "date": null,
+   "description": "Military garrison in northern Pakistan.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Military Garrisons",
+   "marker": "point",
+   "x_pct": 70.0,
+   "y_pct": 39.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "Pakistani security forces"
+   ],
+   "event_type": "base",
+   "date": null,
+   "description": "Military garrison in northern Pakistan.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Military Garrisons",
+   "marker": "point",
+   "x_pct": 73.0,
+   "y_pct": 39.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "Pakistani security forces"
+   ],
+   "event_type": "base",
+   "date": null,
+   "description": "Military garrison in northern Pakistan.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Military Garrisons",
+   "marker": "point",
+   "x_pct": 87.0,
+   "y_pct": 39.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "Pakistani security forces"
+   ],
+   "event_type": "base",
+   "date": null,
+   "description": "Military garrison in northeastern Pakistan.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Military Garrisons",
+   "marker": "point",
+   "x_pct": 85.0,
+   "y_pct": 42.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "Pakistani security forces"
+   ],
+   "event_type": "base",
+   "date": null,
+   "description": "Military garrison in northeastern Pakistan.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Military Garrisons",
+   "marker": "point",
+   "x_pct": 87.5,
+   "y_pct": 42.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "Pakistani security forces"
+   ],
+   "event_type": "base",
+   "date": null,
+   "description": "Military garrison in northeastern Pakistan.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Military Garrisons",
+   "marker": "point",
+   "x_pct": 90.0,
+   "y_pct": 42.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "Pakistani security forces"
+   ],
+   "event_type": "base",
+   "date": null,
+   "description": "Military garrison in northeastern Pakistan.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Military Garrisons",
+   "marker": "point",
+   "x_pct": 92.0,
+   "y_pct": 43.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "Pakistani security forces"
+   ],
+   "event_type": "base",
+   "date": null,
+   "description": "Military garrison in northeastern Pakistan.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Military Garrisons",
+   "marker": "point",
+   "x_pct": 73.5,
+   "y_pct": 45.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "Pakistani security forces"
+   ],
+   "event_type": "base",
+   "date": null,
+   "description": "Military garrison in central-northern Pakistan.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Military Garrisons",
+   "marker": "point",
+   "x_pct": 60.5,
+   "y_pct": 47.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "Pakistani security forces"
+   ],
+   "event_type": "base",
+   "date": null,
+   "description": "Military garrison in central Pakistan.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Military Garrisons",
+   "marker": "point",
+   "x_pct": 91.5,
+   "y_pct": 49.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "Pakistani security forces"
+   ],
+   "event_type": "base",
+   "date": null,
+   "description": "Military garrison in eastern Pakistan.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Military Garrisons",
+   "marker": "point",
+   "x_pct": 35.0,
+   "y_pct": 52.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "Pakistani security forces"
+   ],
+   "event_type": "base",
+   "date": null,
+   "description": "Military garrison in western Pakistan near Afghan border.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Military Garrisons",
+   "marker": "point",
+   "x_pct": 80.5,
+   "y_pct": 51.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "Pakistani security forces"
+   ],
+   "event_type": "base",
+   "date": null,
+   "description": "Military garrison in central-eastern Pakistan.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Military Garrisons",
+   "marker": "point",
+   "x_pct": 83.5,
+   "y_pct": 51.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "Pakistani security forces"
+   ],
+   "event_type": "base",
+   "date": null,
+   "description": "Military garrison in central-eastern Pakistan.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Military Garrisons",
+   "marker": "point",
+   "x_pct": 87.0,
+   "y_pct": 51.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "Pakistani security forces"
+   ],
+   "event_type": "base",
+   "date": null,
+   "description": "Military garrison in eastern Pakistan.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Military Garrisons",
+   "marker": "point",
+   "x_pct": 42.5,
+   "y_pct": 55.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "Pakistani security forces"
+   ],
+   "event_type": "base",
+   "date": null,
+   "description": "Military garrison in western Pakistan.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Military Garrisons",
+   "marker": "point",
+   "x_pct": 54.0,
+   "y_pct": 55.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "Pakistani security forces"
+   ],
+   "event_type": "base",
+   "date": null,
+   "description": "Military garrison in central Pakistan.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Military Garrisons",
+   "marker": "point",
+   "x_pct": 62.5,
+   "y_pct": 56.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "Pakistani security forces"
+   ],
+   "event_type": "base",
+   "date": null,
+   "description": "Military garrison in central Pakistan.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Military Garrisons",
+   "marker": "point",
+   "x_pct": 48.0,
+   "y_pct": 58.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "Pakistani security forces"
+   ],
+   "event_type": "base",
+   "date": null,
+   "description": "Military garrison in central-western Pakistan.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Military Garrisons",
+   "marker": "point",
+   "x_pct": 55.0,
+   "y_pct": 63.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "Pakistani security forces"
+   ],
+   "event_type": "base",
+   "date": null,
+   "description": "Military garrison in southern-central Pakistan.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Military Garrisons",
+   "marker": "point",
+   "x_pct": 44.0,
+   "y_pct": 65.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "Pakistani security forces"
+   ],
+   "event_type": "base",
+   "date": null,
+   "description": "Military garrison in southern-western Pakistan.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Military Garrisons",
+   "marker": "point",
+   "x_pct": 53.0,
+   "y_pct": 66.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "Pakistani security forces"
+   ],
+   "event_type": "base",
+   "date": null,
+   "description": "Military garrison in southern-central Pakistan.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Military Garrisons",
+   "marker": "point",
+   "x_pct": 14.0,
+   "y_pct": 75.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "Pakistani security forces"
+   ],
+   "event_type": "base",
+   "date": null,
+   "description": "Military garrison in southwestern Pakistan (Balochistan).",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Military Garrisons",
+   "marker": "point",
+   "x_pct": 45.5,
+   "y_pct": 77.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "Pakistani security forces"
+   ],
+   "event_type": "base",
+   "date": null,
+   "description": "Military garrison in southern Pakistan.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Military Garrisons",
+   "marker": "point",
+   "x_pct": 64.5,
+   "y_pct": 75.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "Pakistani security forces"
+   ],
+   "event_type": "base",
+   "date": null,
+   "description": "Military garrison in southern Pakistan.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Military Garrisons",
+   "marker": "point",
+   "x_pct": 42.5,
+   "y_pct": 79.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "Pakistani security forces"
+   ],
+   "event_type": "base",
+   "date": null,
+   "description": "Military garrison in southern Pakistan.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Military Garrisons",
+   "marker": "point",
+   "x_pct": 44.5,
+   "y_pct": 80.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "Pakistani security forces"
+   ],
+   "event_type": "base",
+   "date": null,
+   "description": "Military garrison in southern Pakistan.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Military Garrisons",
+   "marker": "point",
+   "x_pct": 57.5,
+   "y_pct": 79.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "PK",
+   "actors": [
+    "Pakistani security forces"
+   ],
+   "event_type": "base",
+   "date": null,
+   "description": "Military garrison in southern Pakistan.",
+   "confidence": "high"
+  }
+ ],
+ "named_persons": [
+  {
+   "name": "Kathryn Tyson",
+   "role": "Cartographer",
+   "affiliation": "Critical Threats Project at the American Enterprise Institute",
+   "place": null,
+   "x_pct": null,
+   "y_pct": null
+  }
+ ],
+ "named_orgs": [
+  "Critical Threats Project",
+  "American Enterprise Institute"
+ ],
+ "text_blocks": [
+  "Pakistan has small outposts in Chitral, but major military bases are located far outside the district, signaling Pakistan does not give priority to this area.",
+  "Map by Kathryn Tyson © Critical Threats Project at the American Enterprise Institute, September 14, 2023",
+  "Esri, FAO, NOAA, USGS, Esri, © OpenStreetMap contributors, HERE, Garmin, FAO, NOAA, USGS, Esri, USGSWGS1984 Web Mercator (Auxiliary Sphere)"
+ ],
+ "_extraction": {
+  "model": "claude-opus-4-6",
+  "n_images": 1,
+  "image_px": [
+   1430,
+   1851
+  ],
+  "ts": "2026-10-12T16:54:29Z"
+ }
+}

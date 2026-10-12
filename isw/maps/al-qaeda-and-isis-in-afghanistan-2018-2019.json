@@ -1,0 +1,927 @@
+{
+ "source": {
+  "slug": "al-qaeda-and-isis-in-afghanistan-2018-2019",
+  "url": "https://understandingwar.org/map/al-qaeda-and-isis-in-afghanistan-2018-2019/",
+  "title": "Al Qaeda and ISIS in Afghanistan 2018–2019",
+  "page_date": "October 22, 2019",
+  "isw_map_id": "63945",
+  "image_url": "https://understandingwar.org/wp-content/uploads/2019/10/ISWMap-AlQaedaISISAfghanistan20182019.png",
+  "image_file": "al-qaeda-and-isis-in-afghanistan-2018-2019.png",
+  "tags": [
+   "Afghanistan",
+   "Afghanistan Surge and Drawdown",
+   "Middle East"
+  ]
+ },
+ "map": {
+  "title_on_map": "Al Qaeda and ISIS in Afghanistan 2018-2019",
+  "subtitle": null,
+  "as_of_date": "2019-09-25",
+  "period_start": "2018-01-01",
+  "period_end": "2019-09-25",
+  "date_precision": "day",
+  "geographic_extent": "Afghanistan",
+  "map_type": "event_points",
+  "producer": "Institute for the Study of War",
+  "cartographer": null,
+  "caption_text": "Map last updated September 25, 2019",
+  "notes": "2019 © Institute for the Study of War."
+ },
+ "legend": [
+  {
+   "label": "Incident demonstrating al Qaeda presence or activity in 2018 or 2019",
+   "symbol": "black circle with white dot",
+   "kind": "point"
+  },
+  {
+   "label": "ISIS support zone",
+   "symbol": "large orange/red area",
+   "kind": "area"
+  },
+  {
+   "label": "ISIS presence",
+   "symbol": "small red/orange dot",
+   "kind": "area"
+  },
+  {
+   "label": "Provincial Capital attacked by Taliban in 2018 or 2019",
+   "symbol": "yellow square",
+   "kind": "point"
+  },
+  {
+   "label": "Highway 1",
+   "symbol": "black line",
+   "kind": "line"
+  },
+  {
+   "label": "U.S. Base",
+   "symbol": "green airplane",
+   "kind": "point"
+  }
+ ],
+ "anchors": [
+  {
+   "name": "Kabul",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 63.5,
+   "y_pct": 47.5
+  },
+  {
+   "name": "BALKH",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 46.0,
+   "y_pct": 31.0
+  },
+  {
+   "name": "KUNDUZ",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 57.0,
+   "y_pct": 26.0
+  },
+  {
+   "name": "BADAKHSHAN",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 82.0,
+   "y_pct": 27.0
+  },
+  {
+   "name": "TAKHAR",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 66.0,
+   "y_pct": 31.0
+  },
+  {
+   "name": "BAGHLAN",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 64.0,
+   "y_pct": 35.0
+  },
+  {
+   "name": "SAMANGAN",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 53.0,
+   "y_pct": 37.0
+  },
+  {
+   "name": "JOWZJAN",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 43.0,
+   "y_pct": 23.0
+  },
+  {
+   "name": "FARYAB",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 33.0,
+   "y_pct": 37.0
+  },
+  {
+   "name": "BADGHIS",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 26.0,
+   "y_pct": 42.0
+  },
+  {
+   "name": "SAR-E PUL",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 43.0,
+   "y_pct": 41.0
+  },
+  {
+   "name": "BAMYAN",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 50.0,
+   "y_pct": 44.5
+  },
+  {
+   "name": "PARWAN",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 58.0,
+   "y_pct": 45.0
+  },
+  {
+   "name": "KAPISA",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 68.0,
+   "y_pct": 44.5
+  },
+  {
+   "name": "LAGHMAN",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 73.5,
+   "y_pct": 44.5
+  },
+  {
+   "name": "KUNAR",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 80.0,
+   "y_pct": 44.0
+  },
+  {
+   "name": "NURISTAN",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 79.0,
+   "y_pct": 40.0
+  },
+  {
+   "name": "PANJSHIR",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 73.5,
+   "y_pct": 38.0
+  },
+  {
+   "name": "NANGARHAR",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 82.0,
+   "y_pct": 50.0
+  },
+  {
+   "name": "LOGAR",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 66.0,
+   "y_pct": 52.5
+  },
+  {
+   "name": "WARDAK",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 57.0,
+   "y_pct": 49.0
+  },
+  {
+   "name": "GHAZNI",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 56.0,
+   "y_pct": 57.0
+  },
+  {
+   "name": "PAKTIYA",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 68.0,
+   "y_pct": 55.0
+  },
+  {
+   "name": "KHOST",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 73.0,
+   "y_pct": 56.0
+  },
+  {
+   "name": "PAKTIKA",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 66.0,
+   "y_pct": 67.0
+  },
+  {
+   "name": "DAYKUNDI",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 43.0,
+   "y_pct": 57.0
+  },
+  {
+   "name": "URUZGAN",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 44.0,
+   "y_pct": 62.0
+  },
+  {
+   "name": "ZABUL",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 50.0,
+   "y_pct": 63.0
+  },
+  {
+   "name": "GHOR",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 33.0,
+   "y_pct": 50.0
+  },
+  {
+   "name": "HERAT",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 17.0,
+   "y_pct": 53.0
+  },
+  {
+   "name": "FARAH",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 20.0,
+   "y_pct": 65.0
+  },
+  {
+   "name": "NIMROZ",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 17.0,
+   "y_pct": 78.0
+  },
+  {
+   "name": "HELMAND",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 29.0,
+   "y_pct": 82.0
+  },
+  {
+   "name": "KANDAHAR",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 41.0,
+   "y_pct": 79.0
+  }
+ ],
+ "plots": [
+  {
+   "legend_class": "Incident demonstrating al Qaeda presence or activity in 2018 or 2019",
+   "marker": "point",
+   "x_pct": 78.0,
+   "y_pct": 18.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Badakhshan",
+   "country": "AF",
+   "actors": [
+    "Al Qaeda"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "Incident demonstrating al Qaeda presence or activity in Badakhshan province in 2018 or 2019.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Incident demonstrating al Qaeda presence or activity in 2018 or 2019",
+   "marker": "point",
+   "x_pct": 82.5,
+   "y_pct": 41.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Nuristan",
+   "country": "AF",
+   "actors": [
+    "Al Qaeda"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "Incident demonstrating al Qaeda presence or activity in Nuristan province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Incident demonstrating al Qaeda presence or activity in 2018 or 2019",
+   "marker": "point",
+   "x_pct": 84.0,
+   "y_pct": 43.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Nuristan",
+   "country": "AF",
+   "actors": [
+    "Al Qaeda"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "Incident demonstrating al Qaeda presence or activity in eastern Nuristan province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Incident demonstrating al Qaeda presence or activity in 2018 or 2019",
+   "marker": "point",
+   "x_pct": 74.0,
+   "y_pct": 46.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Laghman",
+   "country": "AF",
+   "actors": [
+    "Al Qaeda"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "Incident demonstrating al Qaeda presence or activity in Laghman province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Incident demonstrating al Qaeda presence or activity in 2018 or 2019",
+   "marker": "point",
+   "x_pct": 76.5,
+   "y_pct": 47.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Kunar",
+   "country": "AF",
+   "actors": [
+    "Al Qaeda"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "Incident demonstrating al Qaeda presence or activity in Kunar province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Incident demonstrating al Qaeda presence or activity in 2018 or 2019",
+   "marker": "point",
+   "x_pct": 79.5,
+   "y_pct": 47.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Nangarhar",
+   "country": "AF",
+   "actors": [
+    "Al Qaeda"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "Incident demonstrating al Qaeda presence or activity in Nangarhar province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Incident demonstrating al Qaeda presence or activity in 2018 or 2019",
+   "marker": "point",
+   "x_pct": 63.0,
+   "y_pct": 53.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Logar",
+   "country": "AF",
+   "actors": [
+    "Al Qaeda"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "Incident demonstrating al Qaeda presence or activity in Logar province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Incident demonstrating al Qaeda presence or activity in 2018 or 2019",
+   "marker": "point",
+   "x_pct": 59.0,
+   "y_pct": 55.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Ghazni",
+   "country": "AF",
+   "actors": [
+    "Al Qaeda"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "Incident demonstrating al Qaeda presence or activity in Ghazni province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Incident demonstrating al Qaeda presence or activity in 2018 or 2019",
+   "marker": "point",
+   "x_pct": 73.5,
+   "y_pct": 62.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Paktika",
+   "country": "AF",
+   "actors": [
+    "Al Qaeda"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "Incident demonstrating al Qaeda presence or activity in Paktika province area.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Incident demonstrating al Qaeda presence or activity in 2018 or 2019",
+   "marker": "point",
+   "x_pct": 67.0,
+   "y_pct": 64.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Paktika",
+   "country": "AF",
+   "actors": [
+    "Al Qaeda"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "Incident demonstrating al Qaeda presence or activity in western Paktika province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Incident demonstrating al Qaeda presence or activity in 2018 or 2019",
+   "marker": "point",
+   "x_pct": 71.0,
+   "y_pct": 64.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Paktika",
+   "country": "AF",
+   "actors": [
+    "Al Qaeda"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "Incident demonstrating al Qaeda presence or activity in Paktika province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Incident demonstrating al Qaeda presence or activity in 2018 or 2019",
+   "marker": "point",
+   "x_pct": 31.0,
+   "y_pct": 72.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Helmand",
+   "country": "AF",
+   "actors": [
+    "Al Qaeda"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "Incident demonstrating al Qaeda presence or activity in Helmand province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Incident demonstrating al Qaeda presence or activity in 2018 or 2019",
+   "marker": "point",
+   "x_pct": 35.0,
+   "y_pct": 72.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Helmand",
+   "country": "AF",
+   "actors": [
+    "Al Qaeda"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "Incident demonstrating al Qaeda presence or activity in northern Helmand province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Incident demonstrating al Qaeda presence or activity in 2018 or 2019",
+   "marker": "point",
+   "x_pct": 35.0,
+   "y_pct": 90.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Helmand",
+   "country": "AF",
+   "actors": [
+    "Al Qaeda"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "Incident demonstrating al Qaeda presence or activity in southern Helmand province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ISIS support zone",
+   "marker": "area",
+   "x_pct": 81.0,
+   "y_pct": 48.5,
+   "extent_pct": 5.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Nangarhar",
+   "country": "AF",
+   "actors": [
+    "ISIS",
+    "ISKP"
+   ],
+   "event_type": "support_zone",
+   "date": null,
+   "description": "ISIS support zone covering parts of Nangarhar province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ISIS presence",
+   "marker": "area",
+   "x_pct": 42.0,
+   "y_pct": 25.0,
+   "extent_pct": 1.5,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Jowzjan",
+   "country": "AF",
+   "actors": [
+    "ISIS",
+    "ISKP"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "ISIS presence in Jowzjan province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ISIS presence",
+   "marker": "area",
+   "x_pct": 34.0,
+   "y_pct": 30.0,
+   "extent_pct": 1.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Faryab",
+   "country": "AF",
+   "actors": [
+    "ISIS",
+    "ISKP"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "ISIS presence in Faryab province.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "ISIS presence",
+   "marker": "area",
+   "x_pct": 72.0,
+   "y_pct": 42.0,
+   "extent_pct": 1.5,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Kunar",
+   "country": "AF",
+   "actors": [
+    "ISIS",
+    "ISKP"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "ISIS presence in Kunar province area.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "ISIS presence",
+   "marker": "area",
+   "x_pct": 62.0,
+   "y_pct": 55.0,
+   "extent_pct": 1.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Ghazni",
+   "country": "AF",
+   "actors": [
+    "ISIS",
+    "ISKP"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "ISIS presence in Ghazni province area.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "ISIS presence",
+   "marker": "area",
+   "x_pct": 66.5,
+   "y_pct": 63.0,
+   "extent_pct": 1.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Paktika",
+   "country": "AF",
+   "actors": [
+    "ISIS",
+    "ISKP"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "ISIS presence in Paktika province.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "ISIS presence",
+   "marker": "area",
+   "x_pct": 68.0,
+   "y_pct": 47.0,
+   "extent_pct": 1.0,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Kabul",
+   "country": "AF",
+   "actors": [
+    "ISIS",
+    "ISKP"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "ISIS presence near Kabul.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Provincial Capital attacked by Taliban in 2018 or 2019",
+   "marker": "point",
+   "x_pct": 59.0,
+   "y_pct": 26.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Kunduz",
+   "admin_area": "Kunduz",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "Kunduz provincial capital attacked by Taliban in 2018 or 2019.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Provincial Capital attacked by Taliban in 2018 or 2019",
+   "marker": "point",
+   "x_pct": 57.5,
+   "y_pct": 37.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Samangan",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "Provincial capital in Samangan/Baghlan area attacked by Taliban in 2018 or 2019.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "Provincial Capital attacked by Taliban in 2018 or 2019",
+   "marker": "point",
+   "x_pct": 57.0,
+   "y_pct": 57.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Ghazni",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "Ghazni provincial capital attacked by Taliban in 2018 or 2019.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Provincial Capital attacked by Taliban in 2018 or 2019",
+   "marker": "point",
+   "x_pct": 14.0,
+   "y_pct": 65.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Farah",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "Farah provincial capital attacked by Taliban in 2018 or 2019.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "U.S. Base",
+   "marker": "point",
+   "x_pct": 62.5,
+   "y_pct": 45.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Parwan",
+   "country": "AF",
+   "actors": [
+    "U.S."
+   ],
+   "event_type": "base",
+   "date": null,
+   "description": "U.S. base in Parwan province, likely Bagram Airfield.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "U.S. Base",
+   "marker": "point",
+   "x_pct": 25.0,
+   "y_pct": 72.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Helmand",
+   "country": "AF",
+   "actors": [
+    "U.S."
+   ],
+   "event_type": "base",
+   "date": null,
+   "description": "U.S. base in Helmand province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "U.S. Base",
+   "marker": "point",
+   "x_pct": 38.5,
+   "y_pct": 74.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Kandahar",
+   "country": "AF",
+   "actors": [
+    "U.S."
+   ],
+   "event_type": "base",
+   "date": null,
+   "description": "U.S. base in Kandahar province, likely Kandahar Airfield.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Highway 1",
+   "marker": "line",
+   "x_pct": 50.0,
+   "y_pct": 60.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": null,
+   "country": "AF",
+   "actors": [],
+   "event_type": "other",
+   "date": null,
+   "description": "Highway 1 ring road connecting major Afghan cities.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Incident demonstrating al Qaeda presence or activity in 2018 or 2019",
+   "marker": "point",
+   "x_pct": 67.5,
+   "y_pct": 56.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Paktiya",
+   "country": "AF",
+   "actors": [
+    "Al Qaeda"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "Incident demonstrating al Qaeda presence or activity in Paktiya province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Incident demonstrating al Qaeda presence or activity in 2018 or 2019",
+   "marker": "point",
+   "x_pct": 71.0,
+   "y_pct": 56.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Khost",
+   "country": "AF",
+   "actors": [
+    "Al Qaeda"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "Incident demonstrating al Qaeda presence or activity in Khost province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "ISIS presence",
+   "marker": "area",
+   "x_pct": 46.0,
+   "y_pct": 21.0,
+   "extent_pct": 1.5,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Jowzjan",
+   "country": "AF",
+   "actors": [
+    "ISIS",
+    "ISKP"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "ISIS presence in northern Jowzjan province area.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "ISIS presence",
+   "marker": "area",
+   "x_pct": 21.0,
+   "y_pct": 48.0,
+   "extent_pct": 1.5,
+   "label": null,
+   "place_name": null,
+   "admin_area": "Herat",
+   "country": "AF",
+   "actors": [
+    "ISIS",
+    "ISKP"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "ISIS presence in Herat province.",
+   "confidence": "medium"
+  }
+ ],
+ "named_persons": [],
+ "named_orgs": [
+  "Al Qaeda",
+  "ISIS",
+  "Taliban",
+  "U.S.",
+  "Institute for the Study of War",
+  "ISW"
+ ],
+ "text_blocks": [
+  "Map last updated September 25, 2019",
+  "2019 © Institute for the Study of War."
+ ],
+ "_extraction": {
+  "model": "claude-opus-4-6",
+  "n_images": 1,
+  "image_px": [
+   1600,
+   1237
+  ],
+  "ts": "2026-10-12T16:51:44Z"
+ }
+}

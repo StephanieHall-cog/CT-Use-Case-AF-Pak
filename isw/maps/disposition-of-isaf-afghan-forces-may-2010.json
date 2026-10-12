@@ -1,0 +1,496 @@
+{
+ "source": {
+  "slug": "disposition-of-isaf-afghan-forces-may-2010",
+  "url": "https://understandingwar.org/map/disposition-of-isaf-afghan-forces-may-2010/",
+  "title": "Disposition of ISAF and Afghan Forces – May 2010",
+  "page_date": "December 15, 2010",
+  "isw_map_id": null,
+  "image_url": null,
+  "image_file": "disposition-of-isaf-afghan-forces-may-2010.gif",
+  "tags": [
+   "Afghanistan",
+   "Afghanistan Surge and Drawdown",
+   "Middle East"
+  ]
+ },
+ "map": {
+  "title_on_map": "DISPOSITION OF ISAF AND AFGHAN FORCES - MAY 2010",
+  "subtitle": null,
+  "as_of_date": "2010-05-01",
+  "period_start": "2010-05-01",
+  "period_end": "2010-05-31",
+  "date_precision": "month",
+  "geographic_extent": "Kandahar Province, Afghanistan — Zhari, Panjwai, Dand districts and Kandahar city area",
+  "map_type": "force_disposition",
+  "producer": "Institute for the Study of War (ISW) / AEI Critical Threats Project",
+  "cartographer": null,
+  "caption_text": null,
+  "notes": "Map shows positions of U.S., Afghan (ANA/ANP), and Canadian battalions in the Kandahar area as of May 2010."
+ },
+ "legend": [
+  {
+   "label": "U.S. Battalion",
+   "symbol": "U.S. flag icon",
+   "kind": "point"
+  },
+  {
+   "label": "Afghan Battalion",
+   "symbol": "Afghan flag icon",
+   "kind": "point"
+  },
+  {
+   "label": "Canadian Battalion",
+   "symbol": "Canadian flag icon",
+   "kind": "point"
+  },
+  {
+   "label": "Primary roads",
+   "symbol": "solid line",
+   "kind": "line"
+  },
+  {
+   "label": "Secondary roads",
+   "symbol": "thinner solid line",
+   "kind": "line"
+  },
+  {
+   "label": "Dirt trails",
+   "symbol": "dashed thin line",
+   "kind": "line"
+  },
+  {
+   "label": "Provincial boundary",
+   "symbol": "dotted/dashed line",
+   "kind": "line"
+  },
+  {
+   "label": "District boundary",
+   "symbol": "dashed line",
+   "kind": "line"
+  }
+ ],
+ "anchors": [
+  {
+   "name": "Chaharqulba",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 47.0,
+   "y_pct": 7.0
+  },
+  {
+   "name": "Zhari",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 14.0,
+   "y_pct": 22.0
+  },
+  {
+   "name": "Kohako",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 42.0,
+   "y_pct": 18.0
+  },
+  {
+   "name": "KANDAHAR",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 62.0,
+   "y_pct": 24.0
+  },
+  {
+   "name": "Mirwais Mena",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 50.0,
+   "y_pct": 30.0
+  },
+  {
+   "name": "Dehe Bagh",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 56.0,
+   "y_pct": 30.0
+  },
+  {
+   "name": "Karz",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 70.0,
+   "y_pct": 30.0
+  },
+  {
+   "name": "Lakokhel",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 10.0,
+   "y_pct": 40.0
+  },
+  {
+   "name": "Talukan",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 82.0,
+   "y_pct": 38.0
+  },
+  {
+   "name": "Manji Sar",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 92.0,
+   "y_pct": 38.0
+  },
+  {
+   "name": "Jaiz-e Madad",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 6.0,
+   "y_pct": 40.0
+  },
+  {
+   "name": "Anizallo",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 13.0,
+   "y_pct": 42.0
+  },
+  {
+   "name": "Pashmu",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 27.0,
+   "y_pct": 38.0
+  },
+  {
+   "name": "Bazaar-e Panjwai",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 31.0,
+   "y_pct": 38.0
+  },
+  {
+   "name": "Nalgham",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 13.0,
+   "y_pct": 48.0
+  },
+  {
+   "name": "Dahek",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 24.0,
+   "y_pct": 45.0
+  },
+  {
+   "name": "Salawat",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 35.0,
+   "y_pct": 45.0
+  },
+  {
+   "name": "Zalaykhan",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 42.0,
+   "y_pct": 38.0
+  },
+  {
+   "name": "Belanday",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 53.0,
+   "y_pct": 42.0
+  },
+  {
+   "name": "Nadvoi",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 8.0,
+   "y_pct": 46.0
+  },
+  {
+   "name": "Sperwan",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 22.0,
+   "y_pct": 52.0
+  },
+  {
+   "name": "Nakhonay",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 42.0,
+   "y_pct": 52.0
+  },
+  {
+   "name": "Rawanay",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 60.0,
+   "y_pct": 55.0
+  },
+  {
+   "name": "Kandahar Airfield",
+   "kind": "base",
+   "country": "AF",
+   "x_pct": 78.0,
+   "y_pct": 52.0
+  },
+  {
+   "name": "Zakar Kalay",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 73.0,
+   "y_pct": 55.0
+  },
+  {
+   "name": "Ghaws Kalay",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 65.0,
+   "y_pct": 60.0
+  },
+  {
+   "name": "Mushkezi",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 10.0,
+   "y_pct": 58.0
+  },
+  {
+   "name": "Dand",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 65.0,
+   "y_pct": 44.0
+  },
+  {
+   "name": "Panjwai",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 20.0,
+   "y_pct": 68.0
+  },
+  {
+   "name": "Dowry",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 2.0,
+   "y_pct": 60.0
+  },
+  {
+   "name": "Molla Dust",
+   "kind": "town",
+   "country": "AF",
+   "x_pct": 23.0,
+   "y_pct": 62.0
+  },
+  {
+   "name": "Daman",
+   "kind": "district",
+   "country": "AF",
+   "x_pct": 87.0,
+   "y_pct": 88.0
+  }
+ ],
+ "plots": [
+  {
+   "legend_class": "Afghan Battalion",
+   "marker": "point",
+   "x_pct": 39.0,
+   "y_pct": 15.0,
+   "extent_pct": null,
+   "label": "ANA 2-508",
+   "place_name": "Kohako",
+   "admin_area": "Zhari",
+   "country": "AF",
+   "actors": [
+    "ANA",
+    "2-508"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "Afghan National Army battalion (ANA 2-508) positioned near Kohako in Zhari district.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "U.S. Battalion",
+   "marker": "point",
+   "x_pct": 37.0,
+   "y_pct": 15.0,
+   "extent_pct": null,
+   "label": "ANA 2-508",
+   "place_name": "Kohako",
+   "admin_area": "Zhari",
+   "country": "AF",
+   "actors": [
+    "U.S. Army",
+    "2-508"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "U.S. battalion (2-508) co-located with ANA near Kohako in Zhari district.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "U.S. Battalion",
+   "marker": "point",
+   "x_pct": 22.0,
+   "y_pct": 30.0,
+   "extent_pct": null,
+   "label": "1-12",
+   "place_name": null,
+   "admin_area": "Zhari",
+   "country": "AF",
+   "actors": [
+    "U.S. Army",
+    "1-12"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "U.S. battalion (1-12) positioned in western Zhari district.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "U.S. Battalion",
+   "marker": "point",
+   "x_pct": 72.0,
+   "y_pct": 34.0,
+   "extent_pct": null,
+   "label": "1-71",
+   "place_name": "Karz",
+   "admin_area": "Dand",
+   "country": "AF",
+   "actors": [
+    "U.S. Army",
+    "1-71"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "U.S. battalion (1-71) positioned near Karz in Dand district.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Afghan Battalion",
+   "marker": "point",
+   "x_pct": 78.0,
+   "y_pct": 34.0,
+   "extent_pct": null,
+   "label": "ANP",
+   "place_name": "Karz",
+   "admin_area": "Dand",
+   "country": "AF",
+   "actors": [
+    "ANP"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "Afghan National Police (ANP) battalion positioned near Karz in Dand district.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Afghan Battalion",
+   "marker": "point",
+   "x_pct": 30.0,
+   "y_pct": 54.0,
+   "extent_pct": null,
+   "label": "ANA",
+   "place_name": "Sperwan",
+   "admin_area": "Panjwai",
+   "country": "AF",
+   "actors": [
+    "ANA"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "Afghan National Army battalion positioned near Sperwan in Panjwai district.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Canadian Battalion",
+   "marker": "point",
+   "x_pct": 45.0,
+   "y_pct": 54.0,
+   "extent_pct": null,
+   "label": "1 PPCU",
+   "place_name": "Nakhonay",
+   "admin_area": "Panjwai",
+   "country": "AF",
+   "actors": [
+    "Canadian Forces",
+    "1 PPCLI"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "Canadian battalion (1 PPCLI) positioned near Nakhonay in Panjwai district.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "U.S. Battalion",
+   "marker": "point",
+   "x_pct": 50.0,
+   "y_pct": 54.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Nakhonay",
+   "admin_area": "Panjwai",
+   "country": "AF",
+   "actors": [
+    "U.S. Army"
+   ],
+   "event_type": "presence",
+   "date": null,
+   "description": "U.S. battalion positioned near Nakhonay alongside Canadian forces in Panjwai district.",
+   "confidence": "medium"
+  },
+  {
+   "legend_class": "unlabelled",
+   "marker": "point",
+   "x_pct": 78.0,
+   "y_pct": 50.0,
+   "extent_pct": 2.0,
+   "label": "Kandahar Airfield",
+   "place_name": "Kandahar Airfield",
+   "admin_area": "Dand",
+   "country": "AF",
+   "actors": [
+    "ISAF"
+   ],
+   "event_type": "base",
+   "date": null,
+   "description": "Kandahar Airfield, major ISAF base in Dand district, marked with airfield symbol.",
+   "confidence": "high"
+  }
+ ],
+ "named_persons": [],
+ "named_orgs": [
+  "ISAF",
+  "ANA",
+  "ANP",
+  "2-508",
+  "1-12",
+  "1-71",
+  "1 PPCLI"
+ ],
+ "text_blocks": [
+  "Primary roads",
+  "Secondary roads",
+  "Dirt trails",
+  "Provincial boundary",
+  "District boundary",
+  "U.S. Battalion",
+  "Afghan Battalion",
+  "Canadian Battalion"
+ ],
+ "_extraction": {
+  "model": "claude-opus-4-6",
+  "n_images": 1,
+  "image_px": [
+   511,
+   423
+  ],
+  "ts": "2026-10-12T16:52:25Z"
+ }
+}

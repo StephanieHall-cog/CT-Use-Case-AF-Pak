@@ -1,0 +1,244 @@
+{
+ "source": {
+  "slug": "afghanistan-in-the-region-november-20-december-8-2021",
+  "url": "https://understandingwar.org/map/afghanistan-in-the-region-november-20-december-8-2021/",
+  "title": "Afghanistan in the Region: November 20-December 8, 2021",
+  "page_date": "December 13, 2021",
+  "isw_map_id": null,
+  "image_url": null,
+  "image_file": "afghanistan-in-the-region-november-20-december-8-2021.png",
+  "tags": [
+   "Afghanistan",
+   "Afghanistan US Withdrawal and Aftermath",
+   "Middle East"
+  ]
+ },
+ "map": {
+  "title_on_map": "Afghanistan in the Region",
+  "subtitle": null,
+  "as_of_date": null,
+  "period_start": "2021-11-20",
+  "period_end": "2021-12-08",
+  "date_precision": "day",
+  "geographic_extent": "Afghanistan and surrounding region including Pakistan, Iran, Turkmenistan, Tajikistan, and parts of India",
+  "map_type": "event_points",
+  "producer": "Institute for the Study of War (ISW)",
+  "cartographer": null,
+  "caption_text": null,
+  "notes": "Basemap credits: Esri, HERE, Garmin, FAO, NOAA, USGS. Map shows numbered events (1-5) during the period November 20 - December 8, 2021."
+ },
+ "legend": [
+  {
+   "label": "Event marker",
+   "symbol": "red-orange circle with pin",
+   "kind": "point"
+  }
+ ],
+ "anchors": [
+  {
+   "name": "TURKMENISTAN",
+   "kind": "country",
+   "country": "TM",
+   "x_pct": 27.0,
+   "y_pct": 19.0
+  },
+  {
+   "name": "Ashgabat",
+   "kind": "city",
+   "country": "TM",
+   "x_pct": 20.0,
+   "y_pct": 28.0
+  },
+  {
+   "name": "TAJIKISTAN",
+   "kind": "country",
+   "country": "TJ",
+   "x_pct": 68.0,
+   "y_pct": 21.0
+  },
+  {
+   "name": "Dushanbe",
+   "kind": "city",
+   "country": "TJ",
+   "x_pct": 56.0,
+   "y_pct": 24.0
+  },
+  {
+   "name": "Mashhad",
+   "kind": "city",
+   "country": "IR",
+   "x_pct": 24.0,
+   "y_pct": 38.0
+  },
+  {
+   "name": "Kabul",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 58.0,
+   "y_pct": 48.0
+  },
+  {
+   "name": "AFGHANISTAN",
+   "kind": "country",
+   "country": "AF",
+   "x_pct": 44.0,
+   "y_pct": 52.0
+  },
+  {
+   "name": "IRAN",
+   "kind": "country",
+   "country": "IR",
+   "x_pct": 10.0,
+   "y_pct": 58.0
+  },
+  {
+   "name": "Kerman",
+   "kind": "city",
+   "country": "IR",
+   "x_pct": 14.0,
+   "y_pct": 73.0
+  },
+  {
+   "name": "Zahedan",
+   "kind": "city",
+   "country": "IR",
+   "x_pct": 28.0,
+   "y_pct": 76.0
+  },
+  {
+   "name": "Quetta",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 50.0,
+   "y_pct": 73.0
+  },
+  {
+   "name": "Multan",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 68.0,
+   "y_pct": 73.0
+  },
+  {
+   "name": "Rawalpindi",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 72.0,
+   "y_pct": 53.0
+  },
+  {
+   "name": "Srinagar",
+   "kind": "city",
+   "country": "IN",
+   "x_pct": 82.0,
+   "y_pct": 50.0
+  },
+  {
+   "name": "Lahore",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 78.0,
+   "y_pct": 65.0
+  },
+  {
+   "name": "PAKISTAN",
+   "kind": "country",
+   "country": "PK",
+   "x_pct": 58.0,
+   "y_pct": 80.0
+  },
+  {
+   "name": "New Delhi",
+   "kind": "city",
+   "country": "IN",
+   "x_pct": 93.0,
+   "y_pct": 80.0
+  },
+  {
+   "name": "Meerut",
+   "kind": "city",
+   "country": "IN",
+   "x_pct": 94.0,
+   "y_pct": 78.0
+  },
+  {
+   "name": "Agra",
+   "kind": "city",
+   "country": "IN",
+   "x_pct": 96.0,
+   "y_pct": 90.0
+  }
+ ],
+ "plots": [
+  {
+   "legend_class": "Event marker",
+   "marker": "point",
+   "x_pct": 34.0,
+   "y_pct": 66.0,
+   "extent_pct": null,
+   "label": "1 Kaang District, Nimroz Province",
+   "place_name": "Kaang District",
+   "admin_area": "Nimroz Province",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "other",
+   "date": null,
+   "description": "Event 1 located in Kaang District, Nimroz Province, Afghanistan.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Event marker",
+   "marker": "point",
+   "x_pct": 57.5,
+   "y_pct": 44.0,
+   "extent_pct": null,
+   "label": "2, 3, and 4 Kabul",
+   "place_name": "Kabul",
+   "admin_area": "Kabul",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "other",
+   "date": null,
+   "description": "Events 2, 3, and 4 located in Kabul, Afghanistan.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Event marker",
+   "marker": "point",
+   "x_pct": 63.0,
+   "y_pct": 46.5,
+   "extent_pct": null,
+   "label": "5 Jalalabad City, Nangarhar Province",
+   "place_name": "Jalalabad City",
+   "admin_area": "Nangarhar Province",
+   "country": "AF",
+   "actors": [
+    "Taliban"
+   ],
+   "event_type": "other",
+   "date": null,
+   "description": "Event 5 located in Jalalabad City, Nangarhar Province, Afghanistan.",
+   "confidence": "high"
+  }
+ ],
+ "named_persons": [],
+ "named_orgs": [
+  "Institute for the Study of War (ISW)"
+ ],
+ "text_blocks": [
+  "Esri, HERE, Garmin, FAO, NOAA, USGS"
+ ],
+ "_extraction": {
+  "model": "claude-opus-4-6",
+  "n_images": 5,
+  "image_px": [
+   3300,
+   2550
+  ],
+  "ts": "2026-10-12T16:44:25Z"
+ }
+}

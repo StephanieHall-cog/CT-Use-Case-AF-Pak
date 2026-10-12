@@ -1,0 +1,205 @@
+{
+ "source": {
+  "slug": "haqqani-network-affiliated-governors-in-afghanistan-september-20-2023",
+  "url": "https://understandingwar.org/map/haqqani-network-affiliated-governors-in-afghanistan-september-20-2023/",
+  "title": "Haqqani Network–affiliated Governors in Afghanistan September 20, 2023",
+  "page_date": "September 29, 2023",
+  "isw_map_id": "71295",
+  "image_url": "https://understandingwar.org/wp-content/uploads/2025/05/Picture5_12.png",
+  "image_file": "haqqani-network-affiliated-governors-in-afghanistan-september-20-2023.png",
+  "tags": [
+   "Afghanistan",
+   "Middle East",
+   "Salafi Jihadi Weekly Update"
+  ]
+ },
+ "map": {
+  "title_on_map": "Haqqani Network–Affiliated Governors in Afghanistan",
+  "subtitle": null,
+  "as_of_date": "2023-09-20",
+  "period_start": null,
+  "period_end": null,
+  "date_precision": "day",
+  "geographic_extent": "Northeastern Afghanistan and northwestern Pakistan",
+  "map_type": "thematic",
+  "producer": "AEI's Critical Threats Project and Institute for the Study of War",
+  "cartographer": "Peter Mills",
+  "caption_text": null,
+  "notes": "Map by Peter Mills. Copyright AEI's Critical Threats Project and Institute for the Study of War. September 20, 2023."
+ },
+ "legend": [
+  {
+   "label": "Haqqani Network Affiliated-Governors",
+   "symbol": "black star",
+   "kind": "point"
+  },
+  {
+   "label": "TTP Cross-Border Raids",
+   "symbol": "red triangle",
+   "kind": "point"
+  }
+ ],
+ "anchors": [
+  {
+   "name": "Badakhshan",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 40.0,
+   "y_pct": 29.5
+  },
+  {
+   "name": "Takhar",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 18.0,
+   "y_pct": 38.0
+  },
+  {
+   "name": "Nuristan",
+   "kind": "province",
+   "country": "AF",
+   "x_pct": 42.0,
+   "y_pct": 57.5
+  },
+  {
+   "name": "Afghanistan",
+   "kind": "country",
+   "country": "AF",
+   "x_pct": 22.0,
+   "y_pct": 62.0
+  },
+  {
+   "name": "Pakistan",
+   "kind": "country",
+   "country": "PK",
+   "x_pct": 76.0,
+   "y_pct": 62.0
+  },
+  {
+   "name": "Kabul",
+   "kind": "city",
+   "country": "AF",
+   "x_pct": 17.0,
+   "y_pct": 75.0
+  },
+  {
+   "name": "Peshawar",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 56.0,
+   "y_pct": 81.0
+  },
+  {
+   "name": "Chitral",
+   "kind": "city",
+   "country": "PK",
+   "x_pct": 55.0,
+   "y_pct": 51.0
+  }
+ ],
+ "plots": [
+  {
+   "legend_class": "Haqqani Network Affiliated-Governors",
+   "marker": "point",
+   "x_pct": 33.0,
+   "y_pct": 33.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Badakhshan",
+   "admin_area": "Badakhshan",
+   "country": "AF",
+   "actors": [
+    "Haqqani Network"
+   ],
+   "event_type": "governor_appointment",
+   "date": null,
+   "description": "Haqqani Network–affiliated governor in Badakhshan province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Haqqani Network Affiliated-Governors",
+   "marker": "point",
+   "x_pct": 19.0,
+   "y_pct": 41.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Takhar",
+   "admin_area": "Takhar",
+   "country": "AF",
+   "actors": [
+    "Haqqani Network"
+   ],
+   "event_type": "governor_appointment",
+   "date": null,
+   "description": "Haqqani Network–affiliated governor in Takhar province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "Haqqani Network Affiliated-Governors",
+   "marker": "point",
+   "x_pct": 40.0,
+   "y_pct": 61.0,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Nuristan",
+   "admin_area": "Nuristan",
+   "country": "AF",
+   "actors": [
+    "Haqqani Network"
+   ],
+   "event_type": "governor_appointment",
+   "date": null,
+   "description": "Haqqani Network–affiliated governor in Nuristan province.",
+   "confidence": "high"
+  },
+  {
+   "legend_class": "TTP Cross-Border Raids",
+   "marker": "point",
+   "x_pct": 55.5,
+   "y_pct": 53.5,
+   "extent_pct": null,
+   "label": null,
+   "place_name": "Chitral",
+   "admin_area": "Chitral",
+   "country": "PK",
+   "actors": [
+    "TTP"
+   ],
+   "event_type": "attack",
+   "date": null,
+   "description": "TTP cross-border raid near Chitral, Pakistan.",
+   "confidence": "high"
+  }
+ ],
+ "named_persons": [
+  {
+   "name": "Peter Mills",
+   "role": "Cartographer",
+   "affiliation": "AEI's Critical Threats Project / Institute for the Study of War",
+   "place": null,
+   "x_pct": null,
+   "y_pct": null
+  }
+ ],
+ "named_orgs": [
+  "Haqqani Network",
+  "TTP",
+  "AEI's Critical Threats Project",
+  "Institute for the Study of War",
+  "The Dr. Jack London Geospatial Fund",
+  "ISW"
+ ],
+ "text_blocks": [
+  "Map by Peter Mills\nCopyright AEI's Critical Threats Project and Institute for the Study of War\nSeptember 20, 2023",
+  "Esri, FAO, NOAA, USGS, Esri, © OpenStreetMap contributors, HERE, Garmin, FAO, NOAA, USGS, Esri, USGS\nWGS1984 Web Mercator (Auxiliary Sphere)"
+ ],
+ "_extraction": {
+  "model": "claude-opus-4-6",
+  "n_images": 1,
+  "image_px": [
+   1430,
+   1851
+  ],
+  "ts": "2026-10-12T16:54:19Z"
+ }
+}
