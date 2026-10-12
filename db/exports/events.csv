@@ -101,7 +101,7 @@ id,date,date_precision,type,description,place_text,actors,episode_idx,timestamp,
 325,2009-12,month,statement,Obama speech announcing an 18-month surge to build up Afghan capacity.,Afghanistan,Barack Obama,56,11:33,real
 133,2010,approx,other,AQAP ruled large areas of southern Yemen for about a year (2010-11).,Yemen,al-Qaeda in the Arabian Peninsula,17,27:31,real
 145,2010,year,bounty,News report that Iran was paying bounties for American soldiers in Afghanistan.,Afghanistan,Iran,19,28:35,real
-264,2010,year,offensive,"US Afghan surge, which the hosts criticized; they say more US soldiers were killed and wounded during it than in the rest of the war combined.",Afghanistan,US military,43,24:47,real
+264,2010,year,offensive,"US Afghan surge, which the hosts criticized; they say more US soldiers were killed and wounded during it than in the rest of the war combined.",Afghanistan,US forces,43,24:47,real
 267,2010,year,other,"Afghan surge, which the hosts criticized and say caused heavy US casualties.",Afghanistan,United States,43,24:47,real
 322,2010,approx,statement,A bin Laden file from mid-2010 recounts Atiyah's report that al-Qaeda had strong military activity across eight Afghan provinces.,Afghanistan,al-Qaeda; Osama bin Laden; Atiyah Abd al-Rahman,56,08:24,real
 343,2010,year,other,al-Qaeda ransom exchange for an Afghan ambassador yields $5 million; Ibrahim Haqqani identified as key guarantor/mediator,,al-Qaeda; Ibrahim Haqqani,57,33:47,real
@@ -186,13 +186,13 @@ id,date,date_precision,type,description,place_text,actors,episode_idx,timestamp,
 16,2015,year,strike,"US raid on two al-Qaeda camps in Shorabak, Kandahar; one was described as al-Qaeda's largest since 9/11, with 150-200 fighters killed.",Shorabak,United States; al-Qaeda,7,23:47,real
 84,2015,year,appointment,"Mullah Mansour was formally named Taliban emir overall; Zawahiri pledged allegiance and Mansour publicly accepted it in a speech, later taken down.",,Taliban; Akhtar Mohammad Mansour; Ayman al-Zawahiri,14,21:12,real
 164,2015,year,other,Al-Qaeda kidnapped an Iranian diplomat; he was reportedly exchanged for al-Qaeda detainees in Iran. Three of them left and were killed in Syria; Saif al-Adel and Abu Muhammad al-Masri stayed.,Iran,Iran; al-Qaeda; Abu Muhammad al-Masri; Saif al-Adel,20,45:46,real
-216,2015,approx,strike,"US killed Nasser al-Wuhayshi, AQAP emir and al-Qaeda general manager (hosts say 2015 or 2016).",Yemen,Nasser al-Wuhayshi,27,61:29,real
+216,2015,approx,strike,"US killed Nasser al-Wuhayshi, AQAP emir and al-Qaeda general manager (hosts say 2015 or 2016).",Yemen,Nasir al-Wuhayshi,27,61:29,real
 250,2015,year,release,"Five senior al-Qaeda leaders, including Abu Muhammad al-Masri and Saif al-Adel, freed by Iran after al-Qaeda kidnapped an Iranian diplomat; three went to Syria and were killed.",Iran,Iranian regime; al-Qaeda; Abu Muhammad al-Masri; Saif al-Adel,41,55:43,real
 274,2015,approx,appointment,"Mullah Mansour was appointed Taliban leader after Mullah Omar's death was disclosed, causing a schism. Sirajuddin and Jalaluddin Haqqani helped bring the factions back together.",Afghanistan,Sirajuddin Haqqani; Akhtar Mohammad Mansour; Jalaluddin Haqqani,43,47:44,real
 410,2015,year,other,"ISKP formed from ex-TTP fighters, disaffected Afghan Taliban and some al-Qaeda members.",Afghanistan,Islamic State Khorasan Province,70,05:23,real
-443,2015,year,attack,US Rangers and Afghan forces raid Shorabak al-Qaeda training camp.,Shorabak,al-Qaeda; US Army,79,30:52,real
-483,2015,year,strike,"U.S. raid on an al-Qaeda camp in Burmal district, Paktika killed Abu Khalil al-Sudani; intelligence found led to the Shorabak camps",Burmal district,U.S. forces; Haqqani Network; Abu Khalil al-Sudani,84,20:37,real
-484,2015,approx,offensive,"Several months after the Paktika raid, U.S. and Afghan forces raided two large AQ training camps in Shorabak, killing 150-200 fighters",Shorabak district,U.S. forces; al-Qaeda,84,21:31,real
+443,2015,year,attack,US Rangers and Afghan forces raid Shorabak al-Qaeda training camp.,Shorabak,US Army; al-Qaeda,79,30:52,real
+483,2015,year,strike,"U.S. raid on an al-Qaeda camp in Burmal district, Paktika killed Abu Khalil al-Sudani; intelligence found led to the Shorabak camps",Burmal district,Haqqani Network; US forces; Abu Khalil al-Sudani,84,20:37,real
+484,2015,approx,offensive,"Several months after the Paktika raid, U.S. and Afghan forces raided two large AQ training camps in Shorabak, killing 150-200 fighters",Shorabak district,US forces; al-Qaeda,84,21:31,real
 487,2015,year,strike,"US raid on an al-Qaeda camp in Barmal district, Paktika, killed Abu Khalil al-Sudani; documents found revealed two large training camps in Shorabak, Kandahar.","Barmal, Paktika",Haqqani Network; US forces; Abu Khalil al-Sudani,84,20:37,real
 524,2015,year,other,"After exposure of Omar's death, factions incl. Mullah Yaqoob briefly broke away; Sirajuddin and Jalaluddin Haqqani reunited the Taliban behind Hibatullah's predecessor/new leadership",,Sirajuddin Haqqani; Jalaluddin Haqqani; Mullah Mohammad Yaqoob,95,073:32,real
 567,2015,year,agreement,Tuareg rebel groups signed a peace agreement with Bamako that was never well implemented,Mali,Coordination of Azawad Movements; Government of Mali,101,10:40,real
@@ -262,7 +262,7 @@ id,date,date_precision,type,description,place_text,actors,episode_idx,timestamp,
 186,2018-08,month,statement,Hibatullah Akhundzada statement that Mattis described as a Taliban peace plan.,,Hibatullah Akhundzada; James Mattis,22,38:09,real
 622,2018-09,month,appointment,Khalilzad appointed Special Representative for Afghanistan Reconciliation; decision to withdraw already made by Aug 2018,Washington,Mike Pompeo; Zalmay Khalilzad; Donald Trump,166,003:45,real
 36,2018-10,approx,attack,Taliban attack at a Kandahar provincial council meeting killed Gen. Raziq. Gen. Miller was nearly killed.,Kandahar,Taliban; Abdul Raziq Achakzai; Austin Scott Miller,11,35:41,real
-313,2018-10,month,statement,US/Resolute Support discontinued the district control and population metrics as of 'limited decision-making value'. Gen. Austin Miller shifted the success measure to a political settlement.,Afghanistan,Resolute Support Mission; US military; Austin Scott Miller,53,43:20,real
+313,2018-10,month,statement,US/Resolute Support discontinued the district control and population metrics as of 'limited decision-making value'. Gen. Austin Miller shifted the success measure to a political settlement.,Afghanistan,Resolute Support Mission; US forces; Austin Scott Miller,53,43:20,real
 316,2018-10,month,statement,"NATO, Resolute Support and U.S. Forces Afghanistan said district-control data was of limited decision-making value.",Afghanistan,Resolute Support Mission; U.S. Forces Afghanistan; NATO,53,49:08,real
 623,2018-10,month,statement,"Joscelyn publishes 'The War in Afghanistan is Over, We Lost'",,Long War Journal,166,004:18,real
 77,2018-12,approx,statement,"Trump declares the Islamic State defeated (earlier in April 2018, and again in December; the host misspeaks the year as 2009).",,Donald Trump,13,29:21,real
@@ -500,7 +500,7 @@ id,date,date_precision,type,description,place_text,actors,episode_idx,timestamp,
 336,2021-07,approx,statement,Milley said in late July that the Afghans had the capacity to defend their country.,,Mark Milley,56,25:05,real
 348,2021-07,month,death,"Abdul Haq, son of Mohammad Nabi Omari, killed in fighting in Khost and celebrated by the Taliban",Khost,Taliban; Mohammad Nabi Omari; Abdul Haq Omari,57,43:07,real
 403,2021-07,approx,appointment,The Taliban put the Tajik leader of Jamaat Ansarullah in control of five districts in northern Afghanistan (summer 2021).,Northern Afghanistan,Taliban; Jamaat Ansarullah,70,01:40,real
-557,2021-07,month,other,US abandons Bagram Airfield in early July with al-Logari and thousands of ISKP/al-Qaeda/Taliban prisoners still held there,Bagram Airfield,US military,100,58:23,real
+557,2021-07,month,other,US abandons Bagram Airfield in early July with al-Logari and thousands of ISKP/al-Qaeda/Taliban prisoners still held there,Bagram Airfield,US forces,100,58:23,real
 639,2021-07,approx,other,Miller relinquished command in Afghanistan.,Afghanistan,Austin Scott Miller,172,27:47,real
 332,2021-07-08,day,statement,"Biden claims about 300,000 ANDSF personnel capable of defending the country.",,Joe Biden,56,24:49,real
 335,2021-07-08,approx,statement,"Biden claimed 300,000 ANDSF personnel were capable of defending the country.",,Joe Biden,56,24:52,real
@@ -533,13 +533,13 @@ id,date,date_precision,type,description,place_text,actors,episode_idx,timestamp,
 663,2021-08-15,approx,release,"Taliban open Bagram/Parwan prison, freeing thousands of Taliban, al-Qaeda and ISIS-K prisoners including al-Logari",Bagram,Taliban; Abdul Rahman al-Logari,197,036:18,real
 727,2021-08-15,day,offensive,"Kabul falls; Massoud refuses evacuation offers (Macron, Pakistan, Tajikistan) and moves to Panjshir; makes last call for peace, refused by Taliban; founds NRF and calls uprising",Kabul,Taliban; National Resistance Front; Ahmad Massoud,227,005:32,real
 764,2021-08-15,day,other,"Taliban took control of Bagram and, as one of its first official acts, emptied the prisons there, releasing thousands of al-Qaeda, Taliban and Islamic State fighters.",Bagram Air Base,Taliban; Islamic State Khorasan Province; al-Qaeda,272,13:39,real
-559,2021-08-19,day,other,US military and CIA begin tracking a potential ISIS attack on Kabul airport,Hamid Karzai International Airport,Islamic State Khorasan Province; Central Intelligence Agency; US military,100,56:33,real
+559,2021-08-19,day,other,US military and CIA begin tracking a potential ISIS attack on Kabul airport,Hamid Karzai International Airport,Islamic State Khorasan Province; Central Intelligence Agency; US forces,100,56:33,real
 560,2021-08-26,day,attack,"ISKP suicide bomber Abdul Rahman al-Logari attacks Abbey Gate, killing 13 US troops and ~170 Afghan civilians while Haqqani Badri 313 provided outer security",Abbey Gate,Islamic State Khorasan Province; Badri 313; Abdul Rahman al-Logari,100,56:10,real
 627,2021-08-26,approx,attack,Kabul airport attack kills 13 Americans during chaotic withdrawal,Kabul,Islamic State Khorasan Province; United States,166,009:19,real
 662,2021-08-26,day,attack,"ISIS-K suicide bombing at Abbey Gate, Kabul airport, by Abdul Rahman al-Logari; 13 US service members killed",Abbey Gate,Islamic State Khorasan Province; Abdul Rahman al-Logari,197,036:18,real
 765,2021-08-26,day,attack,"Islamic State fighter released from prison 11 days earlier conducted a suicide attack at Abbey Gate, Kabul airport, killing 182 people including 13 US service members (hosts' figures).",Abbey Gate,Islamic State Khorasan Province; Abdul Rahman al-Logari,272,14:09,real
 664,2021-08-27,day,strike,US strike kills ISIS-K facilitator Kabir Aidi in Nangarhar; a strike request days before Abbey Gate had been denied due to Taliban objection,Nangarhar,Taliban; United States; Kabir Aidi,197,038:32,real
-561,2021-08-30,day,other,US withdrawal from Afghanistan completed,Kabul,US military,100,00:19,real
+561,2021-08-30,day,other,US withdrawal from Afghanistan completed,Kabul,US forces,100,00:19,real
 355,2021-09,approx,appointment,"Hassan Akhund became head of state of the Taliban's regime, a promotion from his previous foreign minister post.",Afghanistan,Taliban; Mohammad Hassan Akhund,57,47:44,real
 356,2021-09,approx,statement,A Taliban spokesman recently said there was no evidence that bin Laden or al-Qaeda was responsible for 9/11.,,Taliban,57,53:09,real
 378,2021-09,month,death,Unconfirmed reports that Barnawi was killed.,,Abu Musab al-Barnawi,62,56:53,real
@@ -570,7 +570,7 @@ id,date,date_precision,type,description,place_text,actors,episode_idx,timestamp,
 375,2022-02,approx,death,"ISIS emir Abu Ibrahim al-Hashimi al-Qurashi killed ('we just had the death of the Islamic State's emir', episode published 15 Feb 2022).",,Abu Ibrahim al-Hashimi al-Qurashi,62,01:53,real
 380,2022-02,approx,statement,"The UN Monitoring Team's 29th (1267) report was released, covering June–December 2021.",,UN 1267 Analytical Support and Sanctions Monitoring Team,62,01:07,real
 394,2022-02,approx,attack,Recent Baloch militant attacks on military facilities in Balochistan.,Balochistan,Baloch militants; Pakistan Army,64,24:40,real
-397,2022-02,approx,other,Washington Post reported a US Army assessment of the withdrawal in which commanders said Biden officials did not understand the situation on the ground.,,US military,64,46:14,real
+397,2022-02,approx,other,Washington Post reported a US Army assessment of the withdrawal in which commanders said Biden officials did not understand the situation on the ground.,,US forces,64,46:14,real
 398,2022-02,approx,other,President Biden allocated $3.5 billion of the $7-9 billion frozen Afghan reserves for humanitarian aid ('just last week').,,Joe Biden,64,63:03,real
 562,2022-02,month,offensive,Russia launches full-scale invasion of Ukraine; hosts argue the Kabul debacle was the final push for Putin,Ukraine,Vladimir Putin,100,70:31,real
 680,2022-02,month,other,Russian invasion of Ukraine ended real press criticism of the Afghanistan withdrawal,,Biden administration,202,50:22,real
@@ -676,7 +676,7 @@ id,date,date_precision,type,description,place_text,actors,episode_idx,timestamp,
 682,2024-08-22,day,statement,"Taliban issued new vice-and-virtue decrees: full face covering, no loud speech in public or at home, no travel without a mahram, restrictions on men's dress; female spies used to police women",Afghanistan,Taliban,202,38:42,real
 683,2024-08-28,approx,statement,CIA deputy director publicly described the Taliban as an effective counterterrorism partner taking the fight to al-Qaeda,United States,Taliban; Central Intelligence Agency,202,32:15,real
 685,2024-09,approx,other,Britain closing the Afghan embassy after the Taliban dismissed its staff,United Kingdom,Taliban; Islamic Republic of Afghanistan,202,53:05,real
-695,2024-09,approx,strike,US raid kills very senior Islamic State leaders inside Iraq ('a couple of weeks ago'),Iraq,Islamic State; US military,207,78:22,real
+695,2024-09,approx,strike,US raid kills very senior Islamic State leaders inside Iraq ('a couple of weeks ago'),Iraq,Islamic State; US forces,207,78:22,real
 696,2024-09,month,statement,Fitton-Brown publishes CTC commentary 'The Global Jihadi Terror Threat in September 2024' describing a 'third era' of the threat,,Edmund Fitton-Brown,207,01:12,real
 697,2024-09,approx,other,"Reports that Russia may be supplying missiles to the Houthis, facilitated by Iran",Yemen,Iran; Houthis; Russia,207,47:15,real
 684,2024-09-10,day,statement,Presidential debate: Harris stood by the withdrawal; Trump misnamed the Taliban leader; no mention of Afghans left behind,United States,Kamala Harris; Donald Trump,202,45:03,real
@@ -781,8 +781,8 @@ id,date,date_precision,type,description,place_text,actors,episode_idx,timestamp,
 243,approx 2012,approx,meeting,Roggio and Joscelyn debate Peter Bergen at the New America Foundation about al-Qaeda's supposed defeat.,,New America Foundation; Peter Bergen,41,29:12,real
 457,approx 2012,approx,statement,"Zawahiri, as al-Qaeda emir, decides to make the Shabaab oath of allegiance public, against bin Laden's earlier policy. The year is inferred, not stated.",,Shabaab; Ayman al-Zawahiri,83,24:14,real
 845,approx 2014,approx,other,Al-Qaeda ejected the Islamic State after the disagreement between Baghdadi and al-Jolani (al-Sharaa).,Syria,Islamic State; al-Qaeda; Abu Mohammad al-Jolani; Abu Bakr al-Baghdadi,337,25:14,real
-170,approx 2015,approx,raid,"US and Afghan forces raided two massive al-Qaeda training camps in Shorabak, Kandahar, forcing revision of the 50-100 estimate.","Shorabak district, Kandahar",al-Qaeda; US military,20,10:55,real
-488,approx 2015,approx,attack,"Several months after the Paktika raid, US and Afghan forces raided the Shorabak camps and killed 150-200 al-Qaeda fighters.","Shorabak, Kandahar",Afghan forces; al-Qaeda; US forces,84,21:31,real
+170,approx 2015,approx,raid,"US and Afghan forces raided two massive al-Qaeda training camps in Shorabak, Kandahar, forcing revision of the 50-100 estimate.","Shorabak district, Kandahar",US forces; al-Qaeda,20,10:55,real
+488,approx 2015,approx,attack,"Several months after the Paktika raid, US and Afghan forces raided the Shorabak camps and killed 150-200 al-Qaeda fighters.","Shorabak, Kandahar",Afghan forces; US forces; al-Qaeda,84,21:31,real
 551,approx 2015,approx,other,"Taliban nearly disintegrate after Omar's death is exposed; Mullah Yaqoob, his uncle and other factions leave; Sirajuddin and Jalaluddin Haqqani reassemble the Taliban and are rewarded",Afghanistan,Taliban; Sirajuddin Haqqani; Jalaluddin Haqqani; Mullah Mohammad Yaqoob,100,35:08,real
 706,approx 2015,approx,other,"After Mullah Omar's death was revealed and the Taliban nearly fell apart, Siraj and his father put the Taliban back together.",,Sirajuddin Haqqani; Jalaluddin Haqqani; Mullah Mohammad Yaqoob,213,14:58,real
 769,approx 2015,approx,statement,Taliban statement (2015 or 2016 per Roggio): 'The Islamic Emirate has not readily embraced this death and destruction for the sake of some silly ministerial posts or a share of the power.',,Taliban,272,09:48,real

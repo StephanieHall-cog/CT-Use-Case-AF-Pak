@@ -761,13 +761,13 @@
 "country": null
 },
 {
-"id": "O-ef8c31d464",
+"id": "O-ba6a4003b3",
 "kind": "organization",
-"name": "US military",
+"name": "US forces",
 "dataset": "real",
 "role": null,
 "status": null,
-"n_episodes": 18,
+"n_episodes": 20,
 "country": "United States"
 },
 {
@@ -1317,7 +1317,7 @@
 "dataset": "real",
 "role": null,
 "status": null,
-"n_episodes": 3,
+"n_episodes": 4,
 "country": null
 },
 {
@@ -2767,7 +2767,7 @@
 "dataset": "real",
 "role": "Former al-Qaeda general manager and later deputy emir of al-Qaeda; AQAP co-founder; former aide to bin Laden",
 "status": "dead",
-"n_episodes": 10,
+"n_episodes": 11,
 "country": null
 },
 {
@@ -2787,7 +2787,7 @@
 "dataset": "real",
 "role": "Al-Qaeda external operations leader; negotiated GSPC merger into al-Qaeda",
 "status": "released",
-"n_episodes": 1,
+"n_episodes": 2,
 "country": null
 },
 {
@@ -3291,13 +3291,13 @@
 "country": null
 },
 {
-"id": "P-7e43f77dd0",
+"id": "P-80a9ba6ca9",
 "kind": "person",
-"name": "Mohammed Islambouli",
+"name": "Muhammad Islambouli",
 "dataset": "real",
 "role": "Senior al-Qaeda operative who documented travels in Istanbul on Facebook; Senior al-Qaeda operative who lived in Turkey and travelled around Istanbul (name uncertain; machine transcript)",
 "status": "alive",
-"n_episodes": 1,
+"n_episodes": 2,
 "country": null
 },
 {
@@ -4951,36 +4951,6 @@
 "country": null
 },
 {
-"id": "P-d6f74a4ce7",
-"kind": "person",
-"name": "Nasser al-Wuhayshi",
-"dataset": "real",
-"role": "Emir of AQAP; al-Qaeda general manager; deputy emir to Zawahiri",
-"status": "dead",
-"n_episodes": 1,
-"country": null
-},
-{
-"id": "P-916c49c0f5",
-"kind": "person",
-"name": "Yunis al-Mauritani",
-"dataset": "real",
-"role": "Al-Qaeda external operations chief; negotiated the AQIM predecessor's merger with al-Qaeda",
-"status": "unknown",
-"n_episodes": 1,
-"country": null
-},
-{
-"id": "P-80a9ba6ca9",
-"kind": "person",
-"name": "Muhammad Islambouli",
-"dataset": "real",
-"role": "Al-Qaeda veteran involved in terror plotting",
-"status": "alive",
-"n_episodes": 1,
-"country": null
-},
-{
 "id": "P-356eb8c080",
 "kind": "person",
 "name": "Marie Harf",
@@ -5091,8 +5061,8 @@
 "country": "Yemen"
 },
 {
-"id": "P-0db75dac06",
-"kind": "person",
+"id": "O-d17bdbf354",
+"kind": "organization",
 "name": "Afghan and US forces",
 "dataset": "real",
 "role": null,
@@ -5627,7 +5597,7 @@
 "dataset": "real",
 "role": "US Secretary of State",
 "status": "alive",
-"n_episodes": 3,
+"n_episodes": 4,
 "country": null
 },
 {
@@ -5657,7 +5627,7 @@
 "dataset": "real",
 "role": null,
 "status": null,
-"n_episodes": 7,
+"n_episodes": 8,
 "country": null
 },
 {
@@ -6158,16 +6128,6 @@
 "role": "Head of state (prime minister) of the new Taliban regime; former foreign minister",
 "status": "alive",
 "n_episodes": 3,
-"country": null
-},
-{
-"id": "P-a99db669f5",
-"kind": "person",
-"name": "Anthony Blinken",
-"dataset": "real",
-"role": "US Secretary of State",
-"status": "alive",
-"n_episodes": 1,
 "country": null
 },
 {
@@ -7701,16 +7661,6 @@
 "country": "Afghanistan"
 },
 {
-"id": "P-26912d202d",
-"kind": "person",
-"name": "US Army",
-"dataset": "real",
-"role": null,
-"status": null,
-"n_episodes": 1,
-"country": null
-},
-{
 "id": "P-b976cdb3f4",
 "kind": "person",
 "name": "Sulayman Abu Nafan",
@@ -8401,29 +8351,9 @@
 "country": "Sudan"
 },
 {
-"id": "O-0774fa23b6",
-"kind": "organization",
-"name": "U.S. forces",
-"dataset": "real",
-"role": null,
-"status": null,
-"n_episodes": 1,
-"country": null
-},
-{
 "id": "L-81097b7bc9",
 "kind": "place",
 "name": "Barmal, Paktika",
-"dataset": "real",
-"role": null,
-"status": null,
-"n_episodes": 1,
-"country": null
-},
-{
-"id": "P-9d28ee76bf",
-"kind": "person",
-"name": "US forces",
 "dataset": "real",
 "role": null,
 "status": null,
@@ -10301,16 +10231,6 @@
 "country": "United States"
 },
 {
-"id": "O-b381a8ae11",
-"kind": "organization",
-"name": "U.S. Army",
-"dataset": "real",
-"role": null,
-"status": null,
-"n_episodes": 1,
-"country": null
-},
-{
 "id": "P-e53d123662",
 "kind": "person",
 "name": "unnamed son (serving in the military, received calls during the withdrawal)",
@@ -10911,13 +10831,13 @@
 "country": null
 },
 {
-"id": "P-4463f2bfe3",
+"id": "P-694eb693d1",
 "kind": "person",
-"name": "Haibatullah Alizai",
+"name": "Hibatullah Alizai",
 "dataset": "real",
 "role": "Last Afghan army chief of staff (Aug 2021)",
 "status": "alive",
-"n_episodes": 2,
+"n_episodes": 3,
 "country": null
 },
 {
@@ -11321,16 +11241,6 @@
 "country": "Afghanistan"
 },
 {
-"id": "P-bf982cdb9c",
-"kind": "person",
-"name": "US Senate",
-"dataset": "real",
-"role": null,
-"status": null,
-"n_episodes": 1,
-"country": null
-},
-{
 "id": "L-a1f31d59ef",
 "kind": "place",
 "name": "Camp Bucca",
@@ -11464,16 +11374,6 @@
 "id": "O-9ac984c930",
 "kind": "organization",
 "name": "Iran (special groups)",
-"dataset": "real",
-"role": null,
-"status": null,
-"n_episodes": 1,
-"country": null
-},
-{
-"id": "O-ba6a4003b3",
-"kind": "organization",
-"name": "US forces",
 "dataset": "real",
 "role": null,
 "status": null,
@@ -11828,16 +11728,6 @@
 "role": null,
 "status": null,
 "n_episodes": 2,
-"country": null
-},
-{
-"id": "P-694eb693d1",
-"kind": "person",
-"name": "Hibatullah Alizai",
-"dataset": "real",
-"role": "Guest; lieutenant general, last Chief of General Staff of the Afghan National Army; formerly NDS (2016–Jan 2019), Ministry of Interior and Special Operations Corps commander; co-founder of the Afghan American Veterans Alliance",
-"status": "alive",
-"n_episodes": 1,
 "country": null
 },
 {
@@ -14138,6 +14028,17 @@
 },
 {
 "source": "O-03898888bd",
+"target": "O-ba6a4003b3",
+"type": "rival_of",
+"n": 1,
+"episodes": [
+124
+],
+"confidence": "stated",
+"detail": "derived:organization.rivals"
+},
+{
+"source": "O-03898888bd",
 "target": "O-bdfe2191b8",
 "type": "rival_of",
 "n": 1,
@@ -14361,17 +14262,6 @@
 ],
 "confidence": "stated",
 "detail": "derived:organization.parent_or_allies"
-},
-{
-"source": "O-03898888bd",
-"target": "O-ef8c31d464",
-"type": "rival_of",
-"n": 1,
-"episodes": [
-124
-],
-"confidence": "stated",
-"detail": "derived:organization.rivals"
 },
 {
 "source": "O-03898888bd",
@@ -15279,7 +15169,7 @@
 },
 {
 "source": "O-14e210b113",
-"target": "O-ef8c31d464",
+"target": "O-ba6a4003b3",
 "type": "rival_of",
 "n": 1,
 "episodes": [
@@ -15539,6 +15429,17 @@
 },
 {
 "source": "O-1b60d4f469",
+"target": "O-ba6a4003b3",
+"type": "allied_with",
+"n": 1,
+"episodes": [
+53
+],
+"confidence": "stated",
+"detail": "derived:organization.parent_or_allies"
+},
+{
+"source": "O-1b60d4f469",
 "target": "O-e08247748c",
 "type": "other",
 "n": 1,
@@ -15547,17 +15448,6 @@
 ],
 "confidence": "stated",
 "detail": "Rejected/refuted the Monitoring Team report on al-Qaeda in Afghanistan"
-},
-{
-"source": "O-1b60d4f469",
-"target": "O-ef8c31d464",
-"type": "allied_with",
-"n": 1,
-"episodes": [
-53
-],
-"confidence": "stated",
-"detail": "derived:organization.parent_or_allies"
 },
 {
 "source": "O-1bb3d0fcf7",
@@ -15761,6 +15651,17 @@
 },
 {
 "source": "O-27009e72c2",
+"target": "O-ba6a4003b3",
+"type": "allied_with",
+"n": 1,
+"episodes": [
+53
+],
+"confidence": "stated",
+"detail": "derived:organization.parent_or_allies"
+},
+{
+"source": "O-27009e72c2",
 "target": "O-bf8c8b2e18",
 "type": "allied_with",
 "n": 10,
@@ -15775,17 +15676,6 @@
 166,
 197,
 227
-],
-"confidence": "stated",
-"detail": "derived:organization.parent_or_allies"
-},
-{
-"source": "O-27009e72c2",
-"target": "O-ef8c31d464",
-"type": "allied_with",
-"n": 1,
-"episodes": [
-53
 ],
 "confidence": "stated",
 "detail": "derived:organization.parent_or_allies"
@@ -16281,6 +16171,17 @@
 },
 {
 "source": "O-2b3e54b76e",
+"target": "O-ba6a4003b3",
+"type": "allied_with",
+"n": 1,
+"episodes": [
+19
+],
+"confidence": "stated",
+"detail": "derived:organization.parent_or_allies"
+},
+{
+"source": "O-2b3e54b76e",
 "target": "O-bf8c8b2e18",
 "type": "allied_with",
 "n": 1,
@@ -16301,17 +16202,6 @@
 ],
 "confidence": "stated",
 "detail": "derived:organization.rivals"
-},
-{
-"source": "O-2b3e54b76e",
-"target": "O-ef8c31d464",
-"type": "allied_with",
-"n": 1,
-"episodes": [
-19
-],
-"confidence": "stated",
-"detail": "derived:organization.parent_or_allies"
 },
 {
 "source": "O-2b3e54b76e",
@@ -16812,7 +16702,7 @@
 },
 {
 "source": "O-31ddb87a33",
-"target": "O-ef8c31d464",
+"target": "O-ba6a4003b3",
 "type": "allied_with",
 "n": 1,
 "episodes": [
@@ -18158,6 +18048,17 @@
 },
 {
 "source": "O-46fe31543c",
+"target": "O-ba6a4003b3",
+"type": "rival_of",
+"n": 1,
+"episodes": [
+11
+],
+"confidence": "stated",
+"detail": "derived:organization.rivals"
+},
+{
+"source": "O-46fe31543c",
 "target": "O-c74761bdcd",
 "type": "allied_with",
 "n": 4,
@@ -18189,17 +18090,6 @@
 "episodes": [
 72,
 124
-],
-"confidence": "stated",
-"detail": "derived:organization.rivals"
-},
-{
-"source": "O-46fe31543c",
-"target": "O-ef8c31d464",
-"type": "rival_of",
-"n": 1,
-"episodes": [
-11
 ],
 "confidence": "stated",
 "detail": "derived:organization.rivals"
@@ -21085,7 +20975,7 @@
 },
 {
 "source": "O-81c430b0bb",
-"target": "O-ef8c31d464",
+"target": "O-ba6a4003b3",
 "type": "allied_with",
 "n": 1,
 "episodes": [
@@ -21682,6 +21572,17 @@
 },
 {
 "source": "O-91b320fe4f",
+"target": "O-ba6a4003b3",
+"type": "allied_with",
+"n": 1,
+"episodes": [
+124
+],
+"confidence": "stated",
+"detail": "derived:organization.parent_or_allies"
+},
+{
+"source": "O-91b320fe4f",
 "target": "O-bf8c8b2e18",
 "type": "allied_with",
 "n": 7,
@@ -21703,17 +21604,6 @@
 "n": 1,
 "episodes": [
 202
-],
-"confidence": "stated",
-"detail": "derived:organization.parent_or_allies"
-},
-{
-"source": "O-91b320fe4f",
-"target": "O-ef8c31d464",
-"type": "allied_with",
-"n": 1,
-"episodes": [
-124
 ],
 "confidence": "stated",
 "detail": "derived:organization.parent_or_allies"
@@ -23407,22 +23297,22 @@
 },
 {
 "source": "O-a71cbfcf07",
-"target": "O-bf8c8b2e18",
+"target": "O-ba6a4003b3",
 "type": "allied_with",
 "n": 1,
 "episodes": [
-15
+11
 ],
 "confidence": "stated",
 "detail": "derived:organization.parent_or_allies"
 },
 {
 "source": "O-a71cbfcf07",
-"target": "O-ef8c31d464",
+"target": "O-bf8c8b2e18",
 "type": "allied_with",
 "n": 1,
 "episodes": [
-11
+15
 ],
 "confidence": "stated",
 "detail": "derived:organization.parent_or_allies"
@@ -24183,23 +24073,23 @@
 },
 {
 "source": "O-b8ce55491f",
-"target": "O-bf8c8b2e18",
+"target": "O-ba6a4003b3",
 "type": "allied_with",
-"n": 2,
+"n": 1,
 "episodes": [
-56,
-100
+53
 ],
 "confidence": "stated",
 "detail": "derived:organization.parent_or_allies"
 },
 {
 "source": "O-b8ce55491f",
-"target": "O-ef8c31d464",
+"target": "O-bf8c8b2e18",
 "type": "allied_with",
-"n": 1,
+"n": 2,
 "episodes": [
-53
+56,
+100
 ],
 "confidence": "stated",
 "detail": "derived:organization.parent_or_allies"
@@ -24235,6 +24125,28 @@
 "n": 1,
 "episodes": [
 57
+],
+"confidence": "stated",
+"detail": "derived:organization.parent_or_allies"
+},
+{
+"source": "O-ba6a4003b3",
+"target": "O-b8ce55491f",
+"type": "allied_with",
+"n": 1,
+"episodes": [
+53
+],
+"confidence": "stated",
+"detail": "derived:organization.parent_or_allies"
+},
+{
+"source": "O-ba6a4003b3",
+"target": "O-f7222bb9d2",
+"type": "allied_with",
+"n": 1,
+"episodes": [
+53
 ],
 "confidence": "stated",
 "detail": "derived:organization.parent_or_allies"
@@ -24823,6 +24735,17 @@
 },
 {
 "source": "O-bf8c8b2e18",
+"target": "P-6adf4bf81b",
+"type": "killed",
+"n": 1,
+"episodes": [
+27
+],
+"confidence": "stated",
+"detail": "US killed Wuhayshi several years earlier."
+},
+{
+"source": "O-bf8c8b2e18",
 "target": "P-89b4869dd4",
 "type": "killed",
 "n": 1,
@@ -24892,17 +24815,6 @@
 ],
 "confidence": "stated",
 "detail": "Killed in a US raid on an al-Qaeda camp in Barmal."
-},
-{
-"source": "O-bf8c8b2e18",
-"target": "P-d6f74a4ce7",
-"type": "killed",
-"n": 1,
-"episodes": [
-27
-],
-"confidence": "stated",
-"detail": "US killed Wuhayshi several years earlier."
 },
 {
 "source": "O-bf8c8b2e18",
@@ -27818,7 +27730,7 @@
 },
 {
 "source": "O-eb194bafa4",
-"target": "O-ef8c31d464",
+"target": "O-ba6a4003b3",
 "type": "allied_with",
 "n": 1,
 "episodes": [
@@ -27922,28 +27834,6 @@
 "n": 1,
 "episodes": [
 272
-],
-"confidence": "stated",
-"detail": "derived:organization.parent_or_allies"
-},
-{
-"source": "O-ef8c31d464",
-"target": "O-b8ce55491f",
-"type": "allied_with",
-"n": 1,
-"episodes": [
-53
-],
-"confidence": "stated",
-"detail": "derived:organization.parent_or_allies"
-},
-{
-"source": "O-ef8c31d464",
-"target": "O-f7222bb9d2",
-"type": "allied_with",
-"n": 1,
-"episodes": [
-53
 ],
 "confidence": "stated",
 "detail": "derived:organization.parent_or_allies"
@@ -30789,6 +30679,17 @@
 },
 {
 "source": "P-33814e2c5d",
+"target": "O-e8d954e798",
+"type": "other",
+"n": 1,
+"episodes": [
+27
+],
+"confidence": "stated",
+"detail": "Negotiated the merger of AQIM's predecessor with al-Qaeda senior leadership and later became a top external operations figure."
+},
+{
+"source": "P-33814e2c5d",
 "target": "P-1432049818",
 "type": "reports_to",
 "n": 1,
@@ -31366,17 +31267,6 @@
 ],
 "confidence": "stated",
 "detail": "Second spokesman, serving 2016 to Oct 2019."
-},
-{
-"source": "P-4463f2bfe3",
-"target": "O-91b320fe4f",
-"type": "member_of",
-"n": 1,
-"episodes": [
-202
-],
-"confidence": "stated",
-"detail": "Western-trained Afghan lieutenant general"
 },
 {
 "source": "P-44c1b2fa3e",
@@ -32037,7 +31927,7 @@
 },
 {
 "source": "P-5e36b496d9",
-"target": "P-0db75dac06",
+"target": "O-d17bdbf354",
 "type": "other",
 "n": 1,
 "episodes": [
@@ -32204,6 +32094,17 @@
 "detail": "Last Chief of General Staff of the ANA."
 },
 {
+"source": "P-694eb693d1",
+"target": "O-91b320fe4f",
+"type": "member_of",
+"n": 1,
+"episodes": [
+202
+],
+"confidence": "stated",
+"detail": "Western-trained Afghan lieutenant general"
+},
+{
 "source": "P-6957408306",
 "target": "L-d3993907e3",
 "type": "located_in",
@@ -32262,10 +32163,11 @@
 "source": "P-6adf4bf81b",
 "target": "O-9bb6536200",
 "type": "leads",
-"n": 6,
+"n": 7,
 "episodes": [
 15,
 20,
+27,
 84,
 97,
 295,
@@ -32335,13 +32237,14 @@
 "source": "P-6adf4bf81b",
 "target": "P-babae3a4fe",
 "type": "deputy_of",
-"n": 2,
+"n": 3,
 "episodes": [
 20,
+27,
 41
 ],
 "confidence": "stated",
-"detail": "Was AQAP emir, al-Qaeda deputy emir and general manager."
+"detail": "Wuhayshi was AQAP head and general manager, and deputy emir to Zawahiri at his death."
 },
 {
 "source": "P-6adf4bf81b",
@@ -32947,39 +32850,6 @@
 "detail": "Succeeded Zawahiri as al-Qaeda leader one year earlier"
 },
 {
-"source": "P-7e43f77dd0",
-"target": "O-056774fed0",
-"type": "sheltered_by",
-"n": 1,
-"episodes": [
-17
-],
-"confidence": "inferred",
-"detail": "Senior al-Qaeda operative lived openly in Istanbul."
-},
-{
-"source": "P-7e43f77dd0",
-"target": "O-09cfa1028a",
-"type": "sheltered_by",
-"n": 1,
-"episodes": [
-17
-],
-"confidence": "inferred",
-"detail": "He lived and traveled in Istanbul, enjoying Turkey's permissive attitude."
-},
-{
-"source": "P-7e43f77dd0",
-"target": "P-18f78f3620",
-"type": "allied_with",
-"n": 1,
-"episodes": [
-17
-],
-"confidence": "stated",
-"detail": "Described as comrades."
-},
-{
 "source": "P-7e4f688386",
 "target": "O-03898888bd",
 "type": "member_of",
@@ -32992,6 +32862,28 @@
 },
 {
 "source": "P-80a9ba6ca9",
+"target": "O-056774fed0",
+"type": "sheltered_by",
+"n": 1,
+"episodes": [
+17
+],
+"confidence": "inferred",
+"detail": "Senior al-Qaeda operative lived openly in Istanbul."
+},
+{
+"source": "P-80a9ba6ca9",
+"target": "O-09cfa1028a",
+"type": "sheltered_by",
+"n": 1,
+"episodes": [
+17
+],
+"confidence": "inferred",
+"detail": "He lived and traveled in Istanbul, enjoying Turkey's permissive attitude."
+},
+{
+"source": "P-80a9ba6ca9",
 "target": "O-c74761bdcd",
 "type": "member_of",
 "n": 1,
@@ -33000,6 +32892,17 @@
 ],
 "confidence": "stated",
 "detail": "Veteran with a dossier of involvement in terror plotting."
+},
+{
+"source": "P-80a9ba6ca9",
+"target": "P-18f78f3620",
+"type": "allied_with",
+"n": 1,
+"episodes": [
+17
+],
+"confidence": "stated",
+"detail": "Described as comrades."
 },
 {
 "source": "P-80b9db8208",
@@ -33212,17 +33115,6 @@
 ],
 "confidence": "stated",
 "detail": "In 2009 Flynn described the Haqqanis as a criminal group that could be negotiated with, later backed off."
-},
-{
-"source": "P-916c49c0f5",
-"target": "O-e8d954e798",
-"type": "other",
-"n": 1,
-"episodes": [
-27
-],
-"confidence": "stated",
-"detail": "Negotiated the merger of AQIM's predecessor with al-Qaeda senior leadership and later became a top external operations figure."
 },
 {
 "source": "P-9238ef3783",
@@ -34749,7 +34641,7 @@
 },
 {
 "source": "P-bda652b86c",
-"target": "O-ef8c31d464",
+"target": "O-ba6a4003b3",
 "type": "killed",
 "n": 1,
 "episodes": [
@@ -35320,7 +35212,7 @@
 },
 {
 "source": "P-d65694b68f",
-"target": "O-ef8c31d464",
+"target": "O-ba6a4003b3",
 "type": "member_of",
 "n": 1,
 "episodes": [
@@ -35339,28 +35231,6 @@
 ],
 "confidence": "stated",
 "detail": "Milley phoned McCaul to get the hearing title changed, removing implication of generals' responsibility."
-},
-{
-"source": "P-d6f74a4ce7",
-"target": "O-9bb6536200",
-"type": "leads",
-"n": 1,
-"episodes": [
-27
-],
-"confidence": "stated",
-"detail": "Head of al-Qaeda in the Arabian Peninsula."
-},
-{
-"source": "P-d6f74a4ce7",
-"target": "P-babae3a4fe",
-"type": "deputy_of",
-"n": 1,
-"episodes": [
-27
-],
-"confidence": "stated",
-"detail": "Wuhayshi was AQAP head and general manager, and deputy emir to Zawahiri at his death."
 },
 {
 "source": "P-d7342839e5",
@@ -36247,23 +36117,23 @@
 },
 {
 "source": "P-07db84cf30",
-"target": "O-bf8c8b2e18",
+"target": "O-ba6a4003b3",
 "type": "member_of",
-"n": 1,
+"n": 2,
 "episodes": [
-11
+19,
+56
 ],
 "confidence": "stated",
 "detail": null
 },
 {
 "source": "P-07db84cf30",
-"target": "O-ef8c31d464",
+"target": "O-bf8c8b2e18",
 "type": "member_of",
-"n": 2,
+"n": 1,
 "episodes": [
-19,
-56
+11
 ],
 "confidence": "stated",
 "detail": null
@@ -37045,22 +36915,22 @@
 },
 {
 "source": "P-172a3f603c",
-"target": "O-bf8c8b2e18",
+"target": "O-ba6a4003b3",
 "type": "member_of",
 "n": 1,
 "episodes": [
-11
+56
 ],
 "confidence": "stated",
 "detail": null
 },
 {
 "source": "P-172a3f603c",
-"target": "O-ef8c31d464",
+"target": "O-bf8c8b2e18",
 "type": "member_of",
 "n": 1,
 "episodes": [
-56
+11
 ],
 "confidence": "stated",
 "detail": null
@@ -37224,7 +37094,7 @@
 },
 {
 "source": "P-1c6b2e2acb",
-"target": "O-ef8c31d464",
+"target": "O-ba6a4003b3",
 "type": "member_of",
 "n": 1,
 "episodes": [
@@ -37636,7 +37506,7 @@
 },
 {
 "source": "P-2825acc75e",
-"target": "O-ef8c31d464",
+"target": "O-ba6a4003b3",
 "type": "member_of",
 "n": 1,
 "episodes": [
@@ -37969,9 +37839,21 @@
 "source": "P-33814e2c5d",
 "target": "O-c74761bdcd",
 "type": "member_of",
+"n": 2,
+"episodes": [
+15,
+27
+],
+"confidence": "stated",
+"detail": null
+},
+{
+"source": "P-33814e2c5d",
+"target": "O-d0597c5043",
+"type": "member_of",
 "n": 1,
 "episodes": [
-15
+27
 ],
 "confidence": "stated",
 "detail": null
@@ -38467,18 +38349,6 @@
 "n": 1,
 "episodes": [
 13
-],
-"confidence": "stated",
-"detail": null
-},
-{
-"source": "P-4463f2bfe3",
-"target": "O-91b320fe4f",
-"type": "member_of",
-"n": 2,
-"episodes": [
-197,
-202
 ],
 "confidence": "stated",
 "detail": null
@@ -39247,7 +39117,7 @@
 },
 {
 "source": "P-5f68796a9d",
-"target": "O-ef8c31d464",
+"target": "O-ba6a4003b3",
 "type": "member_of",
 "n": 2,
 "episodes": [
@@ -39418,8 +39288,10 @@
 "source": "P-694eb693d1",
 "target": "O-91b320fe4f",
 "type": "member_of",
-"n": 1,
+"n": 3,
 "episodes": [
+197,
+202,
 257
 ],
 "confidence": "stated",
@@ -39452,11 +39324,12 @@
 "source": "P-6adf4bf81b",
 "target": "O-9bb6536200",
 "type": "member_of",
-"n": 10,
+"n": 11,
 "episodes": [
 15,
 17,
 20,
+27,
 41,
 72,
 84,
@@ -39472,11 +39345,12 @@
 "source": "P-6adf4bf81b",
 "target": "O-c74761bdcd",
 "type": "member_of",
-"n": 10,
+"n": 11,
 "episodes": [
 15,
 17,
 20,
+27,
 41,
 72,
 84,
@@ -39942,17 +39816,6 @@
 "detail": null
 },
 {
-"source": "P-7e43f77dd0",
-"target": "O-c74761bdcd",
-"type": "member_of",
-"n": 1,
-"episodes": [
-17
-],
-"confidence": "stated",
-"detail": null
-},
-{
 "source": "P-7e4f688386",
 "target": "O-03898888bd",
 "type": "member_of",
@@ -39967,8 +39830,9 @@
 "source": "P-80a9ba6ca9",
 "target": "O-c74761bdcd",
 "type": "member_of",
-"n": 1,
+"n": 2,
 "episodes": [
+17,
 27
 ],
 "confidence": "stated",
@@ -40279,35 +40143,13 @@
 },
 {
 "source": "P-90601f4c40",
-"target": "O-ef8c31d464",
+"target": "O-ba6a4003b3",
 "type": "member_of",
 "n": 3,
 "episodes": [
 20,
 57,
 166
-],
-"confidence": "stated",
-"detail": null
-},
-{
-"source": "P-916c49c0f5",
-"target": "O-c74761bdcd",
-"type": "member_of",
-"n": 1,
-"episodes": [
-27
-],
-"confidence": "stated",
-"detail": null
-},
-{
-"source": "P-916c49c0f5",
-"target": "O-d0597c5043",
-"type": "member_of",
-"n": 1,
-"episodes": [
-27
 ],
 "confidence": "stated",
 "detail": null
@@ -40641,22 +40483,22 @@
 },
 {
 "source": "P-a140c98489",
-"target": "O-c8798c205e",
+"target": "O-ba6a4003b3",
 "type": "member_of",
 "n": 1,
 "episodes": [
-202
+257
 ],
 "confidence": "stated",
 "detail": null
 },
 {
 "source": "P-a140c98489",
-"target": "O-ef8c31d464",
+"target": "O-c8798c205e",
 "type": "member_of",
 "n": 1,
 "episodes": [
-257
+202
 ],
 "confidence": "stated",
 "detail": null
@@ -40796,17 +40638,6 @@
 "detail": null
 },
 {
-"source": "P-a99db669f5",
-"target": "O-bf8c8b2e18",
-"type": "member_of",
-"n": 1,
-"episodes": [
-57
-],
-"confidence": "stated",
-"detail": null
-},
-{
 "source": "P-aa69619c83",
 "target": "O-c74761bdcd",
 "type": "member_of",
@@ -40899,7 +40730,7 @@
 },
 {
 "source": "P-ab0f38bf7f",
-"target": "O-ef8c31d464",
+"target": "O-ba6a4003b3",
 "type": "member_of",
 "n": 2,
 "episodes": [
@@ -42294,35 +42125,13 @@
 },
 {
 "source": "P-d65694b68f",
-"target": "O-ef8c31d464",
+"target": "O-ba6a4003b3",
 "type": "member_of",
 "n": 3,
 "episodes": [
 53,
 56,
 197
-],
-"confidence": "stated",
-"detail": null
-},
-{
-"source": "P-d6f74a4ce7",
-"target": "O-9bb6536200",
-"type": "member_of",
-"n": 1,
-"episodes": [
-27
-],
-"confidence": "stated",
-"detail": null
-},
-{
-"source": "P-d6f74a4ce7",
-"target": "O-c74761bdcd",
-"type": "member_of",
-"n": 1,
-"episodes": [
-27
 ],
 "confidence": "stated",
 "detail": null
@@ -42703,19 +42512,7 @@
 },
 {
 "source": "P-e99e14c247",
-"target": "O-bf8c8b2e18",
-"type": "member_of",
-"n": 2,
-"episodes": [
-11,
-12
-],
-"confidence": "stated",
-"detail": null
-},
-{
-"source": "P-e99e14c247",
-"target": "O-ef8c31d464",
+"target": "O-ba6a4003b3",
 "type": "member_of",
 "n": 5,
 "episodes": [
@@ -42724,6 +42521,18 @@
 56,
 57,
 166
+],
+"confidence": "stated",
+"detail": null
+},
+{
+"source": "P-e99e14c247",
+"target": "O-bf8c8b2e18",
+"type": "member_of",
+"n": 2,
+"episodes": [
+11,
+12
 ],
 "confidence": "stated",
 "detail": null
@@ -42832,6 +42641,17 @@
 "detail": null
 },
 {
+"source": "P-f024999ca6",
+"target": "O-bf8c8b2e18",
+"type": "member_of",
+"n": 1,
+"episodes": [
+57
+],
+"confidence": "stated",
+"detail": null
+},
+{
 "source": "P-f28c788410",
 "target": "O-9bb6536200",
 "type": "member_of",
@@ -42857,11 +42677,12 @@
 "source": "P-f3725b3f90",
 "target": "O-11145719a7",
 "type": "member_of",
-"n": 3,
+"n": 4,
 "episodes": [
 56,
 79,
-124
+124,
+172
 ],
 "confidence": "stated",
 "detail": null
@@ -42881,23 +42702,29 @@
 },
 {
 "source": "P-f3725b3f90",
-"target": "O-b381a8ae11",
-"type": "member_of",
-"n": 1,
-"episodes": [
-172
-],
-"confidence": "stated",
-"detail": null
-},
-{
-"source": "P-f3725b3f90",
 "target": "O-b8ce55491f",
 "type": "member_of",
 "n": 2,
 "episodes": [
 22,
 56
+],
+"confidence": "stated",
+"detail": null
+},
+{
+"source": "P-f3725b3f90",
+"target": "O-ba6a4003b3",
+"type": "member_of",
+"n": 7,
+"episodes": [
+13,
+22,
+43,
+53,
+56,
+57,
+64
 ],
 "confidence": "stated",
 "detail": null
@@ -42920,23 +42747,6 @@
 "type": "member_of",
 "n": 1,
 "episodes": [
-64
-],
-"confidence": "stated",
-"detail": null
-},
-{
-"source": "P-f3725b3f90",
-"target": "O-ef8c31d464",
-"type": "member_of",
-"n": 7,
-"episodes": [
-13,
-22,
-43,
-53,
-56,
-57,
 64
 ],
 "confidence": "stated",
