@@ -1,6 +1,5 @@
 entity_id,name,alias
 O-3c29a914a7,3rd Special Forces Group,"1st BN, 3rd SFG"
-O-24232d9dec,9/11 Commission,9-11 Commission
 O-24232d9dec,9/11 Commission,9-11 Commission report
 O-d76c92cbba,AFRICOM,Afriqam
 O-d76c92cbba,AFRICOM,U.S. Africa Command
@@ -22,11 +21,22 @@ O-e2192e7275,ATMIS,Atmos
 P-ed8f030879,Aafia Siddiqui,Afa Siddiqui
 P-ed8f030879,Aafia Siddiqui,Afia Sadiqi
 O-2ad54f2648,Abbey Gate Gold Star families,Gold Star families
+P-6720603a83,Abd al Aziz Awda,Abd Al Aziz Odeh
+P-6720603a83,Abd al Aziz Awda,Abdel Aziz Odeh
+P-6720603a83,Abd al Aziz Awda,Abed Al Aziz Odeh
+P-6720603a83,Abd al Aziz Awda,Abu Ahmed
+P-6720603a83,Abd al Aziz Awda,Al Sheik
+P-6720603a83,Abd al Aziz Awda,Fadl Abu Ahmed
+P-6720603a83,Abd al Aziz Awda,Mawlana
+P-6720603a83,Abd al Aziz Awda,Sheik Awda
+P-6720603a83,Abd al Aziz Awda,Sheik Odeh
+P-6720603a83,Abd al Aziz Awda,The Sheik
+P-84dd83860c,Abd al-Rahman al-Maghrebi,Abd al Rahman al Maghribi
 P-84dd83860c,Abd al-Rahman al-Maghrebi,Abd al-Maghdhaqman al-Magrebbe
 P-84dd83860c,Abd al-Rahman al-Maghrebi,Abd al-Rahman al-Maghrabi
-P-84dd83860c,Abd al-Rahman al-Maghrebi,Abd al-Rahman al-Maghrebi
 P-84dd83860c,Abd al-Rahman al-Maghrebi,Abd al-Rahman al-Maghribi
 P-84dd83860c,Abd al-Rahman al-Maghrebi,Abd al-Rahman al-Magrabi
+P-84dd83860c,Abd al-Rahman al-Maghrebi,Abdel Rahman al-Maghrib
 P-84dd83860c,Abd al-Rahman al-Maghrebi,Abderhaman al-Magrabi
 P-84dd83860c,Abd al-Rahman al-Maghrebi,Abdu al-Magrabi
 P-84dd83860c,Abd al-Rahman al-Maghrebi,Abdu-Rachman al-Magrebbe
@@ -51,6 +61,8 @@ P-84dd83860c,Abd al-Rahman al-Maghrebi,McGreby
 P-84dd83860c,Abd al-Rahman al-Maghrebi,McGregby
 P-84dd83860c,Abd al-Rahman al-Maghrebi,McRebbie
 P-84dd83860c,Abd al-Rahman al-Maghrebi,Mcgrby
+P-84dd83860c,Abd al-Rahman al-Maghrebi,Muhammad Abbatay
+P-84dd83860c,Abd al-Rahman al-Maghrebi,Muhammed Abaytah
 P-84dd83860c,Abd al-Rahman al-Maghrebi,al-Magrape
 P-5bbb8cbd84,Abdalla Hamdok,Hamdak
 P-5bbb8cbd84,Abdalla Hamdok,Humduck
@@ -90,6 +102,12 @@ P-d30ca18f6b,Abdelmalek Droukdel,Drukdale
 P-d30ca18f6b,Abdelmalek Droukdel,Drukdel
 P-d30ca18f6b,Abdelmalek Droukdel,Drup Del
 P-d30ca18f6b,Abdelmalek Droukdel,Drutel
+P-cbde977f76,Abderraouf Jdey,A. Raouf Jdey
+P-cbde977f76,Abderraouf Jdey,Abd Al-Rauf Bin Al-Habib Bin Yousef Al-Jiddi
+P-cbde977f76,Abderraouf Jdey,Abdal Ra'Of Bin Muhammed Bin Yousef Al-Jadi
+P-cbde977f76,Abderraouf Jdey,Abderraouf Ben Habib Jeday
+P-cbde977f76,Abderraouf Jdey,Abderraouf Dey
+P-cbde977f76,Abderraouf Jdey,Farouq Al-Tunisi
 P-1c07d27fdc,Abdirahman Fahiye,Abdharahman Fahir
 P-1c07d27fdc,Abdirahman Fahiye,Fahia
 P-6a5f347ebf,Abdrabbuh Mansur Hadi,Abd Rabbuh Mansur Hadi
@@ -98,22 +116,55 @@ P-6a5f347ebf,Abdrabbuh Mansur Hadi,Hadi
 P-6a5f347ebf,Abdrabbuh Mansur Hadi,President Hedy
 P-6a5f347ebf,Abdrabbuh Mansur Hadi,President of Hades government
 P-d5296cdd1b,Abdul Ali Mazari,Abdul Ali Mazzari
+P-bd81aad9c0,Abdul Aziz Abbasin,Abdul Aziz Mahsud
+P-bd81aad9c0,Abdul Aziz Abbasin,عبد العزيز عباسین
+P-fe0d7e64f6,Abdul Baqi Basir Awal Shah,ABDUL BAQI HAQQANI
+P-fe0d7e64f6,Abdul Baqi Basir Awal Shah,Abdul Baqi
+P-fe0d7e64f6,Abdul Baqi Basir Awal Shah,عبد الباقي بصير أول شاه
+P-ff74e4604d,Abdul Bari Akhund,Haji Mullah Sahib
+P-ff74e4604d,Abdul Bari Akhund,Zakir
+P-ff74e4604d,Abdul Bari Akhund,عبد الباری ﺁخوند
+P-dfc7b8e060,Abdul Basir Noorzai,Abdul Baseer
+P-dfc7b8e060,Abdul Basir Noorzai,Abdul Basir
+P-dfc7b8e060,Abdul Basir Noorzai,Haji Abdul Basir
+P-dfc7b8e060,Abdul Basir Noorzai,Haji Basir Noorzai
+P-dfc7b8e060,Abdul Basir Noorzai,Haji ‘Abd Al-Basir
+P-dfc7b8e060,Abdul Basir Noorzai,عبد البصیر نورزی
+P-035b84dac2,Abdul Ghafar Qurishi Abdul Ghani,Abdul Ghaffar Qureshi
+P-035b84dac2,Abdul Ghafar Qurishi Abdul Ghani,عبدالغفار قریشی عبد الغنی
+P-32b5b5663e,Abdul Ghafar Shinwari,عبدالغفار شینواری
+P-b939f27792,Abdul Ghani Baradar,ABDUL GHANI BARADAR ABDUL AHMAD TURK
 P-b939f27792,Abdul Ghani Baradar,Baradar
 P-b939f27792,Abdul Ghani Baradar,Berator
 P-b939f27792,Abdul Ghani Baradar,Molon Bar-Dar
 P-b939f27792,Abdul Ghani Baradar,Mullabarad
-P-b939f27792,Abdul Ghani Baradar,Mullah Abdul Ghani Baradar
 P-b939f27792,Abdul Ghani Baradar,Mullah Bar-Dar
 P-b939f27792,Abdul Ghani Baradar,Mullah Baradar
+P-b939f27792,Abdul Ghani Baradar,Mullah Baradar Akhund
 P-b939f27792,Abdul Ghani Baradar,Mullah Baradur
 P-b939f27792,Abdul Ghani Baradar,Mullah Baratar
+P-b939f27792,Abdul Ghani Baradar,عبدالغنی برادر عبد الاحمد ترک
+P-60ca5179ab,Abdul Habib Alizai,Abdul Habib
+P-60ca5179ab,Abdul Habib Alizai,Agha Jan Alazai
+P-60ca5179ab,Abdul Habib Alizai,Agha Jan Alizai اغا جان عالیزی
+P-60ca5179ab,Abdul Habib Alizai,Haji Agha Jan Alizai
+P-60ca5179ab,Abdul Habib Alizai,Haji Loi Lala
+P-60ca5179ab,Abdul Habib Alizai,Hajji Agha Jan
+P-60ca5179ab,Abdul Habib Alizai,Loi Agha
+P-60ca5179ab,Abdul Habib Alizai,عبد الحبیب عالیزی
 P-da2608611a,Abdul Hadi Muhammad Haji Ali,Abdul Hadi Muhammad Haji Ali (CENTCOM spelling)
 P-811ff7c636,Abdul Hadi al-Iraqi,Abd al-Hadi al-Iraqi
 P-811ff7c636,Abdul Hadi al-Iraqi,Abdel Hadeo-Aa-A-Raki
 P-811ff7c636,Abdul Hadi al-Iraqi,Abdul Adi al-Raki
+P-88b2d67e3e,Abdul Hai Hazem Abdul Qader,Abdul Hai Hazem
+P-88b2d67e3e,Abdul Hai Hazem Abdul Qader,عبد الحی عظیم عبد القادر
 P-917ce74062,Abdul Hakim Haqqani,chief justice Haqqani
 P-d993c8103a,Abdul Haq Omari,Abdul Haq (son of Mohammad Nabi Omari)
+P-7a9e68d660,Abdul Haq Wasiq,ABDUL-HAQ WASSIQ
+P-7a9e68d660,Abdul Haq Wasiq,ABDULHAQ WASEEQ
+P-7a9e68d660,Abdul Haq Wasiq,Abdul-Haq Wasseq
 P-7a9e68d660,Abdul Haq Wasiq,Abdulahq Wasek
+P-7a9e68d660,Abdul Haq Wasiq,عبد الحق وثيق
 P-bc1a9dad7c,Abdul Haq al-Turkistani,Abdel Haq al-Turkestani
 P-bc1a9dad7c,Abdul Haq al-Turkistani,Abdu-Hak al-Turkistani
 P-bc1a9dad7c,Abdul Haq al-Turkistani,Abdul Hakal Turkestani
@@ -130,12 +181,38 @@ P-bc1a9dad7c,Abdul Haq al-Turkistani,Abu Hakal Turkestani
 P-bc1a9dad7c,Abdul Haq al-Turkistani,Lakho Turkestani
 P-bc1a9dad7c,Abdul Haq al-Turkistani,TIP leader
 P-bc1a9dad7c,Abdul Haq al-Turkistani,leader of the Turkestan Islamic Party (unnamed in transcript; identity inferred from other episodes)
+P-9a6a2d9c45,Abdul Jabbar Omari,Muawin Jabbar
+P-9a6a2d9c45,Abdul Jabbar Omari,Mullah Jabbar
+P-9a6a2d9c45,Abdul Jabbar Omari,عبدالجبار عمری
+P-0ff55c687a,Abdul Jalil Haqqani Wali Mohammad,Abdul Jalil Akhund
+P-0ff55c687a,Abdul Jalil Haqqani Wali Mohammad,Abdul Jalil Haqqani
+P-0ff55c687a,Abdul Jalil Haqqani Wali Mohammad,"Akhter Mohmad son of Noor Mohmad (اختر محمد ولد نور محمد ),"
+P-0ff55c687a,Abdul Jalil Haqqani Wali Mohammad,Haji Gulab Gul (حاجی گلاب گل ولد حاجی حضرت گل )
+P-0ff55c687a,Abdul Jalil Haqqani Wali Mohammad,Nazar Jan
+P-0ff55c687a,Abdul Jalil Haqqani Wali Mohammad,عبد الجليل حقانی ولی محمد
+P-e0190040e2,Abdul Kabir Mohammad Jan,A. Kabir
+P-e0190040e2,Abdul Kabir Mohammad Jan,ABDUL KABIR MUHAMMAD JAN
+P-e0190040e2,Abdul Kabir Mohammad Jan,عبد الکبیر محمد جان
+P-e5f853fea2,Abdul Latif Mansur,Abdul Latif Mansoor
+P-e5f853fea2,Abdul Latif Mansur,Wali Mohammad
+P-e5f853fea2,Abdul Latif Mansur,عبد اللطيف منصور
 P-2f75131585,Abdul Majid al-Zindani,Abdul Majeed al-Zindani
 P-2f75131585,Abdul Majid al-Zindani,Shakespeare Zandani
 P-2f75131585,Abdul Majid al-Zindani,Sheikh Abdul Majeed Zindani
 P-2f75131585,Abdul Majid al-Zindani,Zendani
 P-2f75131585,Abdul Majid al-Zindani,Zindani
 P-5446d86a6d,Abdul Malik al-Houthi,Abdul Malika Houthi
+P-0af87360cb,Abdul Manan Mohammad Ishak,عبدالمنان محمد اسحاق
+P-2441b32c42,Abdul Manan Nyazi,Abdul Manan Nayazi
+P-2441b32c42,Abdul Manan Nyazi,Abdul Manan Niazi
+P-2441b32c42,Abdul Manan Nyazi,Baryalai
+P-2441b32c42,Abdul Manan Nyazi,Baryaly
+P-2441b32c42,Abdul Manan Nyazi,عبدالمنان نیازی
+P-e8e6b1b5fb,Abdul Qadeer Basir Abdul Baseer,Abdul Qadir
+P-e8e6b1b5fb,Abdul Qadeer Basir Abdul Baseer,Abdul Qadir Basir
+P-e8e6b1b5fb,Abdul Qadeer Basir Abdul Baseer,Abdul Qadir Haqqani
+P-e8e6b1b5fb,Abdul Qadeer Basir Abdul Baseer,Ahmad Haji
+P-e8e6b1b5fb,Abdul Qadeer Basir Abdul Baseer,عبدالقدیر بصیر عبد البصير
 P-c243311d05,Abdul Qadir,Ajik Adir
 P-c243311d05,Abdul Qadir,Hajji Qadir
 P-986ee156fa,Abdul Qahar Balkhi,Abdul Qaalkeh
@@ -144,17 +221,33 @@ P-a48e1ac517,Abdul Qayyum Zakir,Mullah Abdul Qayum Zakir
 P-a48e1ac517,Abdul Qayyum Zakir,Mullah Zakir
 P-a48e1ac517,Abdul Qayyum Zakir,Mullet-Secir
 P-a48e1ac517,Abdul Qayyum Zakir,zikir
+P-066429089f,Abdul Quddus Mazhari,Akhtar Mohammad Maz-hari
+P-066429089f,Abdul Quddus Mazhari,عبد القدوس مظهری
+P-89550ee4e5,Abdul Rahman Agha,عبدالرحمان آغا
+P-c6ec0ca5ae,Abdul Rahman Ahmad Hottak,Hottak Sahib
+P-c6ec0ca5ae,Abdul Rahman Ahmad Hottak,عبدالرحمان احمد هوتک
+P-69ef117765,Abdul Rahman Yasin,Abdul Rahman S. Taha
+P-69ef117765,Abdul Rahman Yasin,Abdul Rahman S. Taher
+P-69ef117765,Abdul Rahman Yasin,Abdul Rahman Said Yasin
+P-69ef117765,Abdul Rahman Yasin,Aboud Yasin
+P-a1e2fd4d71,Abdul Rahman Zahed,Abdul Rehman Zahid
+P-a1e2fd4d71,Abdul Rahman Zahed,عبدالرحمان زاهد
 P-bda652b86c,Abdul Rahman al-Logari,Abdul Rahman Aligari
 P-bda652b86c,Abdul Rahman al-Logari,Abdul Rahman al-A-Loggi
 P-bda652b86c,Abdul Rahman al-Logari,Abdulrahman al-Lagri
 P-bda652b86c,Abdul Rahman al-Logari,Abdurama and Al-Ali-Gari
 P-bda652b86c,Abdul Rahman al-Logari,Abdurovman al-Wagri
 P-bda652b86c,Abdul Rahman al-Logari,adolf rabbi (as transcribed; canonical name inferred from public reporting on the Abbey Gate bomber)
-P-0e5468cc81,Abdul Rashid Baluch,Abdul Rashid Baluch
+P-8687fd377e,Abdul Raqib Takhari,عبدالرقیب تخاری
 P-512f0f94c5,Abdul Rashid Dostum,Abdul Rashid al-Dhastam
 P-512f0f94c5,Abdul Rashid Dostum,Dostom
 P-512f0f94c5,Abdul Rashid Dostum,Field Marshal Dostum
 P-6170300d09,Abdul Rasul Sayyaf,Abdul Razul Saif
+P-ea490b95f0,Abdul Rauf Khadem,Mullah Abdul Rauf Aliza
+P-ea490b95f0,Abdul Rauf Khadem,عبدالروف خادم
+P-f362c4ce42,Abdul Rauf Zakir,Qari Zakir
+P-f362c4ce42,Abdul Rauf Zakir,عبد الروف ذاکر
+P-9aa9eb9c3d,Abdul Razaq Akhund Lala Akhund,عبد الرزاق آخوند لا لا آخوند
 P-dbd3fab111,Abdul Raziq,General Razik
 P-dbd3fab111,Abdul Raziq,General Zeke
 P-dbd3fab111,Abdul Raziq,Raseek
@@ -164,7 +257,23 @@ P-4253ffb173,Abdul Raziq Achakzai,General Razak
 P-4253ffb173,Abdul Raziq Achakzai,General Razik
 P-4253ffb173,Abdul Raziq Achakzai,Razik
 P-4253ffb173,Abdul Raziq Achakzai,Rizak
+P-c9f0575124,Abdul Salam Hanafi Ali Mardan Qul,ABDUL SALAM HANAFI
+P-c9f0575124,Abdul Salam Hanafi Ali Mardan Qul,Abdussalam Hanifi
+P-c9f0575124,Abdul Salam Hanafi Ali Mardan Qul,Hanafi Saheb
+P-c9f0575124,Abdul Salam Hanafi Ali Mardan Qul,عبدالسلام حنفی علی مردان قل
+P-4a19bc4231,Abdul Samad Achekzai,Abdul Samad
+P-4a19bc4231,Abdul Samad Achekzai,عبد الصمد اچکزی
+P-59d7c47cd9,Abdul Satar Abdul Manan,Abdulasattar
+P-59d7c47cd9,Abdul Satar Abdul Manan,Haji Abdul Satar
+P-59d7c47cd9,Abdul Satar Abdul Manan,Haji Abdul Sattar Barakzai
+P-59d7c47cd9,Abdul Satar Abdul Manan,Haji Satar Barakzai
+P-59d7c47cd9,Abdul Satar Abdul Manan,عبد الستار عبد المنان
 P-bf3b478db6,Abdul Sattar Sirat,Satar Sirat
+P-346916ac79,Abdul Wahed Shafiq,عبد الواحد شفيق
+P-e87f8b8e0f,Abdul Wali Seddiqi,عبدالولی صدیقی
+P-dae41e43da,Abdulhai Motmaen,Abdul Haq son of M. Anwar Khan (عبد الحق ولد محمد انور خان)
+P-dae41e43da,Abdulhai Motmaen,عبدالحی مطمئن
+P-6b72b397f2,Abdulhai Salek,عبدالحی سالک
 P-d1cdda4431,Abdullah Abdullah,Abdullah
 P-d1cdda4431,Abdullah Abdullah,Duel
 P-f6fcff9ff8,Abdullah Azzam,Abdul Azam
@@ -173,10 +282,13 @@ P-f6fcff9ff8,Abdullah Azzam,Abdullah Azam
 P-f6fcff9ff8,Abdullah Azzam,Azam
 P-f6fcff9ff8,Abdullah Azzam,Dr. Azam
 P-f6fcff9ff8,Abdullah Azzam,Sheikh Abdulazam
+P-f4c6246b83,Abdullah Hamad Mohammad Karim,al-Hammad
+P-f4c6246b83,Abdullah Hamad Mohammad Karim,عبد الله حماد ﻤﺤﻤﺪ ﻛﺮﻴﻡ
 P-c5642739a8,Abdullah Makki Muslih al-Rifai,"Abdul Maki, Moslin, al-Rafi"
 P-c5642739a8,Abdullah Makki Muslih al-Rifai,Abu Khadijah
 P-c5642739a8,Abdullah Makki Muslih al-Rifai,Abu Qajada
 P-f8ed73b9d9,Abdullah Mehsud,Abdul Massoud
+P-38afd0367e,Abdullah Shair Khan,Abdullah ShairKhan
 P-0a493e36cc,Abdullah Yare,Abdullah Hayare
 P-f28c788410,Abdullah al-Maliki,Abdul al-Maliki
 P-f28c788410,Abdullah al-Maliki,Abdullah al-Malke
@@ -184,6 +296,12 @@ P-2a05a47edd,Abdullah al-Muhaysini,Abdulahazni
 P-2a05a47edd,Abdullah al-Muhaysini,Mahesney
 P-2a05a47edd,Abdullah al-Muhaysini,Muhaysini
 P-2a05a47edd,Abdullah al-Muhaysini,Sheikh Mahasney
+P-b3faebbde8,Abdullah al-Rimi,Abdallah Ahmad Saleh Ahmad Al-Rimi
+P-b3faebbde8,Abdullah al-Rimi,Abdallah Ahmad Salid Al-Rimi
+P-b3faebbde8,Abdullah al-Rimi,Awaiss
+P-b3faebbde8,Abdullah al-Rimi,Owaiss
+P-b3faebbde8,Abdullah al-Rimi,Uwayss
+P-b3faebbde8,Abdullah al-Rimi,Zubayr Al-Rimi (possible)
 P-cfbb4bed1e,Abdulqadir Mumin,Abd al-Qadir Mumin
 P-cfbb4bed1e,Abdulqadir Mumin,Abdul Qadir Mumin
 P-cfbb4bed1e,Abdulqadir Mumin,Abdul Qadr movement
@@ -218,7 +336,6 @@ P-6d1c27de99,Abu Bakr al-Baghdadi,Abu Baker Al-Baghdadi
 P-6d1c27de99,Abu Bakr al-Baghdadi,Abu Baker al-Baghdadi
 P-6d1c27de99,Abu Bakr al-Baghdadi,Abu Baker-Avaddi
 P-6d1c27de99,Abu Bakr al-Baghdadi,Abu Baker-Avdadi
-P-6d1c27de99,Abu Bakr al-Baghdadi,Abu Bakr Baghdadi
 P-6d1c27de99,Abu Bakr al-Baghdadi,Abu Bakradi
 P-6d1c27de99,Abu Bakr al-Baghdadi,Al-Baghdadi
 P-6d1c27de99,Abu Bakr al-Baghdadi,Bagdad
@@ -262,7 +379,6 @@ P-a34885576a,Abu Hamza al-Qurashi,Abel Hamza
 P-a34885576a,Abu Hamza al-Qurashi,Abelhamza
 P-a34885576a,Abu Hamza al-Qurashi,Abu Hamz al-Karechi
 P-a34885576a,Abu Hamza al-Qurashi,Abu Hamz al-Qurashi
-P-a34885576a,Abu Hamza al-Qurashi,Abu Hamza al-Qurashi
 P-a34885576a,Abu Hamza al-Qurashi,Abu Hamzal Qureshi
 P-a34885576a,Abu Hamza al-Qurashi,"Abu Hamzal, Kureshi"
 P-2dda38e177,Abu Hassam,Abou Hassam
@@ -281,7 +397,6 @@ P-064ace146c,Abu Huzaifah al-Sudani,Abel-Husufo
 P-064ace146c,Abu Huzaifah al-Sudani,Abu Hudhayfah al-Sudani
 P-064ace146c,Abu Huzaifah al-Sudani,Abu Husefa
 P-064ace146c,Abu Huzaifah al-Sudani,Abu Huzaifa al-Sudani
-P-064ace146c,Abu Huzaifah al-Sudani,Abu Huzaifah al Sudani
 P-064ace146c,Abu Huzaifah al-Sudani,Abu Zafa
 P-064ace146c,Abu Huzaifah al-Sudani,Abu Zafah
 P-064ace146c,Abu Huzaifah al-Sudani,Abu Zedha al-Sudani
@@ -342,11 +457,9 @@ P-5a36842de0,Abu Mahdi al-Muhandis,Mohandis
 P-53e9b1385f,Abu Maryam al-Nuki,Manuki
 P-53e9b1385f,Abu Maryam al-Nuki,Maynuki
 P-53e9b1385f,Abu Maryam al-Nuki,Minuki
-P-ae9ca91bd1,Abu Maynuki,Al-Maynuki
 P-ae9ca91bd1,Abu Maynuki,Myniki's Asai
 P-399c8414c5,Abu Mohammad al-Jolani,Abidjulani
 P-399c8414c5,Abu Mohammad al-Jolani,Abou Hamida Jalana
-P-399c8414c5,Abu Mohammad al-Jolani,Abu Mohammad al-Jolani
 P-399c8414c5,Abu Mohammad al-Jolani,Abu Mohammad al-Julani
 P-399c8414c5,Abu Mohammad al-Jolani,Abu Muhammad Al Jalani
 P-399c8414c5,Abu Mohammad al-Jolani,Abu Muhammad al-Jalani
@@ -429,7 +542,6 @@ P-5320a155d1,Abu Obeida Yusuf al-Annabi,Abuobeda Al-Nabi
 P-5320a155d1,Abu Obeida Yusuf al-Annabi,Anabi
 P-7d3907839f,Abu Omar al-Baghdadi,Abu Amar al-Baghdadi
 P-257c1fbd15,Abu Omar al-Khorasani,Abu Amar al-Khorasani
-P-0ed522f2e9,Abu Osman,Osman
 P-0be9ebeb66,Abu Qasim al-Urduni,Abu Qasem Orduni
 P-0be9ebeb66,Abu Qasim al-Urduni,Abu Qasem Oroduni
 P-c2b3d277c6,Abu Qatada al-Filistini,Abil Katata
@@ -473,7 +585,6 @@ P-5eed861be2,Abu al-Hussein al-Husseini al-Qurashi,Goreshi
 P-e4b777af1b,Abu al-Khayr al-Masri,Abou caro mazri
 P-e4b777af1b,Abu al-Khayr al-Masri,Abu Al-Carr-Mazri
 P-e4b777af1b,Abu al-Khayr al-Masri,Abu Al-Qarra Amazri
-P-e4b777af1b,Abu al-Khayr al-Masri,Abu Khayr al-Masri
 P-e4b777af1b,Abu al-Khayr al-Masri,Abu Qaerra-Aa-Masri
 P-e4b777af1b,Abu al-Khayr al-Masri,Abu al-Kara Masary
 P-e4b777af1b,Abu al-Khayr al-Masri,Abu al-Khair al-Masri
@@ -489,10 +600,12 @@ P-8f252e1100,Abubakar Shekau,the checkout (machine-transcription error)
 O-8657f3e845,Achakzai tribe,Czech side
 P-55a3ba8df5,Adam Alsahli,Adam Al-Alsali
 P-a4d599dc6d,Adam Gadahn,Abdullah-Zam-Ameriki
-P-a4d599dc6d,Adam Gadahn,Adam Gadahn
 P-a4d599dc6d,Adam Gadahn,Adam Godan
 P-a4d599dc6d,Adam Gadahn,Adam Godin
 P-a4d599dc6d,Adam Gadahn,Azzam al-Amriki
+P-37e4404b2d,Adam Khan Achekzai,Maulavi Adam
+P-37e4404b2d,Adam Khan Achekzai,Maulavi Adam Khan
+P-37e4404b2d,Adam Khan Achekzai,آدم خان اچکزی
 O-fb83732316,Afghan Evac community,Afghan evac volunteers
 O-af011e8695,Afghan Freedom Front,AFF
 O-3a89e9120e,Afghan Local Police,ALP
@@ -565,8 +678,32 @@ O-c0e28d58fc,African Union Transition Mission in Somalia,Atmos
 O-d960b1e16f,African Union mission in Somalia,AU
 O-d960b1e16f,African Union mission in Somalia,African Union
 O-2e60d57227,African Union troops in Somalia,AU troops
+P-012a9e6317,Ahlam Ahmad al-Tamimi,Achlam Tamimmi
+P-012a9e6317,Ahlam Ahmad al-Tamimi,Ahlam Araf Ahmad Tamimi
+P-012a9e6317,Ahlam Ahmad al-Tamimi,Ahlam Araf Ahmed Tmimi
+P-012a9e6317,Ahlam Ahmad al-Tamimi,Ahlam Arafat Mazin Al Tamimi
+P-012a9e6317,Ahlam Ahmad al-Tamimi,Ahlam Aref Ahmad Al-Tamimi
+P-012a9e6317,Ahlam Ahmad al-Tamimi,Ahlam Aref Ahmad Altamimi
+P-012a9e6317,Ahlam Ahmad al-Tamimi,Ahlam Aref Ahmad Tamimi
+P-012a9e6317,Ahlam Ahmad al-Tamimi,Ahlam Aref Ahmed Tamimi
+P-012a9e6317,Ahlam Ahmad al-Tamimi,Ahlam Arif Ahmad Al Tamimi
+P-012a9e6317,Ahlam Ahmad al-Tamimi,Ahlam Arif Ahmad Altamimi
+P-012a9e6317,Ahlam Ahmad al-Tamimi,Ihlam Araf Ahmad Tamimi
+P-012a9e6317,Ahlam Ahmad al-Tamimi,“Halati”
+P-012a9e6317,Ahlam Ahmad al-Tamimi,“Khalti”
+P-e6ee39fbfd,Ahmad Abousamra,Abu Fadl
+P-e6ee39fbfd,Ahmad Abousamra,Ahmad Abou
+P-e6ee39fbfd,Ahmad Abousamra,Ahmad Abou Samira
+P-e6ee39fbfd,Ahmad Abousamra,Ahmad Abou Samra
+P-e6ee39fbfd,Ahmad Abousamra,Ahmad Abou-Samra
+P-e6ee39fbfd,Ahmad Abousamra,Ahmad Abu Samra
+P-e6ee39fbfd,Ahmad Abousamra,Ahmad Samra
 P-866ad1819f,Ahmad Hamid Husayn al-Ithawi,Ahmad Hamid Hussein Alethwawi
 P-866ad1819f,Ahmad Hamid Husayn al-Ithawi,Ahmad Hamid Hussein al-Jaburi (as transcribed: 'Alethwawi')
+P-8c64847868,Ahmad Ibrahim al-Mughassil,Abu Omran
+P-d16587a6ab,Ahmad Jan Akhundzada Shukoor Akhundzada,Ahmad Jan Akhund Zada
+P-d16587a6ab,Ahmad Jan Akhundzada Shukoor Akhundzada,Ahmad Jan Akhunzada
+P-d16587a6ab,Ahmad Jan Akhundzada Shukoor Akhundzada,احمد جان آخوند زاده شكور آخوند زاده
 P-5908cf2f03,Ahmad Massoud,Ahmad Massud
 P-5908cf2f03,Ahmad Massoud,Ahmad Mousad
 P-5908cf2f03,Ahmad Massoud,Ahmed Massoud
@@ -589,6 +726,13 @@ P-9612d43eee,Ahmad Shah Massoud,Lion of the Panjshir
 P-9612d43eee,Ahmad Shah Massoud,Masoud
 P-9612d43eee,Ahmad Shah Massoud,father Massoud
 P-9612d43eee,Ahmad Shah Massoud,the lion of Panjshir
+P-9988f559ad,Ahmad Taha Khalid Abdul Qadir,احمد طه خالد عبد القادر
+P-2f52c208df,Ahmad Zia Agha,NOOR AHMAD AGHA
+P-2f52c208df,Ahmad Zia Agha,Noor Ahmad
+P-2f52c208df,Ahmad Zia Agha,Noor Ahmed
+P-2f52c208df,Ahmad Zia Agha,Sia Agha Sayeed
+P-2f52c208df,Ahmad Zia Agha,Zia Agha
+P-2f52c208df,Ahmad Zia Agha,احمد ضیا آغا
 P-b4c42edfa3,Ahmad Zia Saraj,Mr. Saraj
 P-b4c42edfa3,Ahmad Zia Saraj,head of the NDS
 P-38dd558873,Ahmad al-Tajiki,Ahmad al-Thijiki
@@ -608,16 +752,32 @@ P-96f4db50ab,Ahmed Diriye,Ahmed Umar
 P-96f4db50ab,Ahmed Diriye,Ahmed Umar (Abu Ubaidah)
 P-96f4db50ab,Ahmed Diriye,Deary
 P-96f4db50ab,Ahmed Diriye,Durya
+P-29754bb9ff,Ahmed Jan Akhundzada Wazir,Ahmed Jan Akhund
+P-29754bb9ff,Ahmed Jan Akhundzada Wazir,Haji Ahmad Jan
+P-29754bb9ff,Ahmed Jan Akhundzada Wazir,احمد جان آخوندزاده وزیر
+P-8c2817424f,Ahmed Jan Wazir Akhtar Mohammad,Ahmed Jan Kuchi
+P-8c2817424f,Ahmed Jan Wazir Akhtar Mohammad,Ahmed Jan Zadran
+P-8c2817424f,Ahmed Jan Wazir Akhtar Mohammad,احمد جان وزیر اختر محمد
 P-063db6b193,Ahmed Madobe,Afamadobai
 P-063db6b193,Ahmed Madobe,Ahma Madobe
 P-063db6b193,Ahmed Madobe,Ahmed Doba
 P-063db6b193,Ahmed Madobe,Madobe
 P-97b44a4fda,Ahmed Moalim Fiqi,Ahmed Fiki
+P-bba7730db2,Ahmed Shah Noorzai Obaidullah,Haji Ahmad Shah
+P-bba7730db2,Ahmed Shah Noorzai Obaidullah,Haji Mullah Ahmad Shah
+P-bba7730db2,Ahmed Shah Noorzai Obaidullah,Maulawi Ahmed Shah
+P-bba7730db2,Ahmed Shah Noorzai Obaidullah,Mullah Ahmed Shah Noorzai
+P-bba7730db2,Ahmed Shah Noorzai Obaidullah,Mullah Mohammed Shah
+P-bba7730db2,Ahmed Shah Noorzai Obaidullah,احمد شاه نورزی عبیدالله
 P-a4f607dcf4,Ahmed Yassin,Yassin
 P-b411851ced,Ahmed al-Qatari,Ahmed al-Katari
 O-a9606145fd,Ahrar al-Sham,Ahr al-Sham
 O-a9606145fd,Ahrar al-Sham,Orr al-Shan
 O-9cf4f58bf2,Ajnad al-Kavkaz,Ajna al-Kaukaz
+P-3cdd916edc,Akhtar Mohammad Mansour,AKHTAR MOHAMMAD MANSOUR SHAH MOHAMMED
+P-3cdd916edc,Akhtar Mohammad Mansour,Akhtar Mohammad Mansoor
+P-3cdd916edc,Akhtar Mohammad Mansour,Akhtar Mohammad Mansour Khan Muhammad
+P-3cdd916edc,Akhtar Mohammad Mansour,Akhtar Muhammad Mansoor
 P-3cdd916edc,Akhtar Mohammad Mansour,Malo Monsor
 P-3cdd916edc,Akhtar Mohammad Mansour,Monsor
 P-3cdd916edc,Akhtar Mohammad Mansour,Mouinsur
@@ -625,6 +785,8 @@ P-3cdd916edc,Akhtar Mohammad Mansour,Muammu Mansur
 P-3cdd916edc,Akhtar Mohammad Mansour,Muammu Monsor
 P-3cdd916edc,Akhtar Mohammad Mansour,Mullah Mansour
 P-3cdd916edc,Akhtar Mohammad Mansour,Mullah Monsor
+P-3cdd916edc,Akhtar Mohammad Mansour,Naib Imam
+P-3cdd916edc,Akhtar Mohammad Mansour,اختر محمد منصور شاه محمد
 P-4aeb32830f,Akram al-Kaabi,Akramakabi
 O-12206c9324,Al Jazeera,Salazarra
 O-12206c9324,Al Jazeera,Zahua-Zera
@@ -659,7 +821,6 @@ O-1b14cafc61,Al-Siddiq Office,Al-Sidik office
 O-1b14cafc61,Al-Siddiq Office,Al-Sidique office
 O-1b14cafc61,Al-Siddiq Office,al-Sadik
 P-380298301c,Al-Somali,Al-Somali (al-Qaeda emissary to Iraq)
-P-380298301c,Al-Somali,Somali
 P-e47bf01d91,Al-Suri (unidentified),Surrey
 O-befded3101,Alawite community,Alawites
 O-befded3101,Alawite community,Aloites
@@ -670,6 +831,8 @@ P-684adf56bf,Ali Abdullah Saleh,Salai
 P-684adf56bf,Ali Abdullah Saleh,Saleh
 P-684adf56bf,Ali Abdullah Saleh,Salek
 P-684adf56bf,Ali Abdullah Saleh,former president Saleh
+P-70978db31a,Ali Atwa,Ammar Mansour Bouslim
+P-70978db31a,Ali Atwa,Hassan Rostom Salim
 P-dcaeae5ab4,Ali Khamenei,Khamene
 P-9238ef3783,Ali Mohamud Rage,Ali Dheere
 P-9238ef3783,Ali Mohamud Rage,Ali Raji
@@ -683,23 +846,42 @@ P-eb9329586f,Ali Qasim Salam al-Jaburi,Abu Sara al-Iraqi
 P-eb9329586f,Ali Qasim Salam al-Jaburi,Abusara Aliiraki
 P-eb9329586f,Ali Qasim Salam al-Jaburi,Djiburi
 P-eb9329586f,Ali Qasim Salam al-Jaburi,aljaburi
+P-996b006d64,Ali Saed bin Ali el-Hoorie,Ali Saed Bin Ali Al-Houri
+P-295093252d,Allah Dad Matin,Akhund
+P-295093252d,Allah Dad Matin,Allahdad
+P-295093252d,Allah Dad Matin,Shahidwror
+P-295093252d,Allah Dad Matin,الله داد متین
+P-d89ed8b566,Allah Dad Tayeb Wali Muhammad,Allah Dad Tabeeb
+P-d89ed8b566,Allah Dad Tayeb Wali Muhammad,Allah Dad Tayyab
+P-d89ed8b566,Allah Dad Tayeb Wali Muhammad,الله داد طیب ولی محمد
 O-405d3e8dde,Allied Democratic Forces,ADF
 O-405d3e8dde,Allied Democratic Forces,Islamic State Central Africa Province
 O-2168f30a0b,Allied Democratic Forces (ADF),ADF
 O-55cd567b6d,Amaq News Agency,Amok
 O-55cd567b6d,Amaq News Agency,Amok News
-P-f6bf71b286,Amin ul-Haq,Amin al-Haq
-P-f6bf71b286,Amin ul-Haq,Amin ul-Haq
+P-f7a6315af9,Ambrose Henry Montfort,"""Knight Stallion"""
+P-f7a6315af9,Ambrose Henry Montfort,Ambrose H. Montfort
+P-f7a6315af9,Ambrose Henry Montfort,Ambrose Montford
+P-f7a6315af9,Ambrose Henry Montfort,Ambrose Montfort
+P-3285b4fe41,Amer el-Maati,Amro Badr Abouelmaati
+P-3285b4fe41,Amer el-Maati,Amro Badr Eldin Abou El-Maati
 P-f6bf71b286,Amin ul-Haq,Amina al-Hak
 P-f6bf71b286,Amin ul-Haq,Aminal Hack
 P-f6bf71b286,Amin ul-Haq,Amino Haq
 P-f6bf71b286,Amin ul-Haq,Aminul Haq
 P-f6bf71b286,Amin ul-Haq,Dr. Amin Al-Hak
-P-f6bf71b286,Amin ul-Haq,Dr. Amin al-Haq
 P-f6bf71b286,Amin ul-Haq,Hamad Amin al-Hak Sam Khan
+P-a70a9914ff,Aminullah Amin Quddus,Aminullah Amin
+P-a70a9914ff,Aminullah Amin Quddus,Muhammad Yusuf
+P-a70a9914ff,Aminullah Amin Quddus,امین الله امین قدوس
 P-fe9c492abc,Aminullah Peshwari,Amanullah Peshwari
+P-765205efa2,Amir Abdullah,Amir Abdullah Sahib
+P-765205efa2,Amir Abdullah,امیر عبد الله
+P-9becaccc1b,Amir Khan Muttaqi,AMIR KHAN MOTAQI
+P-9becaccc1b,Amir Khan Muttaqi,AMIR KHAN MUTAQI
 P-9becaccc1b,Amir Khan Muttaqi,Mataki
 P-9becaccc1b,Amir Khan Muttaqi,Mutaki
+P-9becaccc1b,Amir Khan Muttaqi,امیر خان متقی
 P-318cddab0f,Amir Muhammad Said Abd al-Rahman al-Mawla,Al-Muller
 P-318cddab0f,Amir Muhammad Said Abd al-Rahman al-Mawla,Almol
 P-318cddab0f,Amir Muhammad Said Abd al-Rahman al-Mawla,Amala
@@ -730,7 +912,6 @@ O-4c805289e0,Ansar al-Sunna wa Jama'a,ASWJ
 O-4c805289e0,Ansar al-Sunna wa Jama'a,"Al-Shabab (Mozambique, local name)"
 O-8df4ad4e65,Ansar al-Sunna wa Jama'a (ASWJ),ASWJ
 O-8df4ad4e65,Ansar al-Sunna wa Jama'a (ASWJ),"Al-Shabaab (Mozambique, local name)"
-O-c0fc8bd5a7,Ansar al-Tahrid,Ansar Tahrid
 O-61b4541363,Ansar al-Tawhid,Ansar al-Tohid
 O-61b4541363,Ansar al-Tawhid,Ansar al-Tuid
 O-ab18af099b,Ansaru,Anceru
@@ -742,7 +923,6 @@ O-7a33e709f6,Ansarullah Bangla Team,Ansarola Bangla
 O-7a33e709f6,Ansarullah Bangla Team,Ansarul Islam
 O-67f37b3aa5,Anti-ISIS international coalition,Global Coalition
 P-f024999ca6,Antony Blinken,Anthony Blinken
-P-f024999ca6,Antony Blinken,Antony Blinken
 P-f024999ca6,Antony Blinken,Blinkin
 P-f024999ca6,Antony Blinken,Secretary Blinken
 P-f024999ca6,Antony Blinken,Secretary Blinkin
@@ -768,6 +948,8 @@ P-3683584ede,Anwar al-Awlaki,Oalaki
 P-3683584ede,Anwar al-Awlaki,Ollaki
 P-3683584ede,Anwar al-Awlaki,Ralaouki
 O-e266ad70c1,Anwar al-Awlaki Battalion,Batya Ar-Ira-Lakian
+P-ba4d40cbed,Arefullah Aref Ghazi Mohammad,Arefullah Aref
+P-ba4d40cbed,Arefullah Aref Ghazi Mohammad,عارف الله عارف غازی محمد
 O-136c392892,Armed Islamic Group,GIA
 O-568c63b2fb,Armed Islamic Group (GIA),GIA
 O-bdd97cb007,As-Sahab,Ah Sahab
@@ -790,11 +972,9 @@ P-a91ef284f9,Ashraf Ghani,Ghana
 P-a91ef284f9,Ashraf Ghani,Ghanai
 P-a91ef284f9,Ashraf Ghani,Ghani
 P-a91ef284f9,Ashraf Ghani,Gotti
-P-a91ef284f9,Ashraf Ghani,Mr. Ashraf Ghani
 P-a91ef284f9,Ashraf Ghani,President Ghani
 P-a91ef284f9,Ashraf Ghani,Rani
 P-5e36b496d9,Asim Omar,Asim Marr
-P-5e36b496d9,Asim Omar,Asim Omar
 P-5e36b496d9,Asim Omar,Asim Umar
 P-5e36b496d9,Asim Omar,Asim-M-R
 P-5e36b496d9,Asim Omar,Asimamar
@@ -819,6 +999,8 @@ P-5e36b496d9,Asim Omar,Simumar
 P-5e36b496d9,Asim Omar,Usimumar
 P-22a4a9b0e1,Aslam Farooqi,Oslam Faruqi
 O-08fa393a2f,Assad regime,Assad-Russia-Iran coalition
+P-e54f6a58e6,Atiqullah Wali Mohammad,Atiqullah
+P-e54f6a58e6,Atiqullah Wali Mohammad,عتیق الله ولی محمد
 P-ab0c0145fd,Atiyah Abd al-Rahman,Abutia Libby
 P-ab0c0145fd,Atiyah Abd al-Rahman,Ati-Del-Rachman
 P-ab0c0145fd,Atiyah Abd al-Rahman,Atiel Del Rokman
@@ -844,6 +1026,7 @@ P-ab0c0145fd,Atiyah Abd al-Rahman,Tia Abdul-Rachman
 P-62b86f62c2,Atta Mohammad Noor,Atah Muhammad Nour
 P-62b86f62c2,Atta Mohammad Noor,Muhammad Adonore
 P-62b86f62c2,Atta Mohammad Noor,Otto Mohamed Noor
+P-eddea4ac3c,Attiqullah Akhund,عتیق الله آخوند
 P-2825acc75e,Austin Miller,General Miller
 P-f3725b3f90,Austin Scott Miller,Austin Miller
 P-f3725b3f90,Austin Scott Miller,Gen. Miller
@@ -946,6 +1129,8 @@ P-babae3a4fe,Ayman al-Zawahiri,iman al-zahuburi
 P-babae3a4fe,Ayman al-Zawahiri,the old Egyptian
 P-babae3a4fe,Ayman al-Zawahiri,the old man
 P-babae3a4fe,Ayman al-Zawahiri,zahahiri
+P-2a0e860b5e,Azizirahman Abdul Ahad,AZIZURAHMAN ABDUL AHAD
+P-2a0e860b5e,Azizirahman Abdul Ahad,عزیز الرحمان عبد الاحد
 O-e0a2e81800,Badri 313,Badri 313 Battalion
 O-e0a2e81800,Badri 313,Badri 313 Brigade
 O-e0a2e81800,Badri 313,Hakani Special Forces unit
@@ -955,6 +1140,10 @@ P-2049ca445f,Baitullah Mehsud,Batua Mousud
 P-2049ca445f,Baitullah Mehsud,Beitoula Massoud
 P-2049ca445f,Baitullah Mehsud,Betul and Massoud
 P-2049ca445f,Baitullah Mehsud,Betula Masu
+P-b0eba29ae5,Bakht Gul,Bakht Gul Bahar
+P-b0eba29ae5,Bakht Gul,Bakhta Gul
+P-b0eba29ae5,Bakht Gul,Shuqib
+P-b0eba29ae5,Bakht Gul,بخت گل
 O-6c1ed75737,Baloch separatists,Balochie separatism
 O-57f0eb0c27,Balochistan Liberation Army,BLA
 O-57f0eb0c27,Balochistan Liberation Army,Beluch Liberation Army
@@ -1004,7 +1193,6 @@ P-7a724f07a8,Burhanuddin Rabbani,Professor Abani
 P-7a724f07a8,Burhanuddin Rabbani,Professor Rabbani
 O-cb0f142e67,Burundian troops,Burundi National Defence Force
 O-2b3e54b76e,CENTCOM,ARCENT
-O-2b3e54b76e,CENTCOM,CENTCOM
 O-2b3e54b76e,CENTCOM,Central Command
 O-2b3e54b76e,CENTCOM,SENTCOM
 O-2b3e54b76e,CENTCOM,SINCOM
@@ -1024,9 +1212,25 @@ O-2b3e54b76e,CENTCOM,sentcom
 O-2b3e54b76e,CENTCOM,sitcom
 O-f366d405b2,CIA,Central Intelligence Agency
 P-be1b928471,Captain Keating,Ben Keating
+P-f647ad4869,Catherine Marie Kerkow,Janice Ann Forte
+P-f647ad4869,Catherine Marie Kerkow,Katherine Marie Kerkow
+P-f647ad4869,Catherine Marie Kerkow,Odile Ann Pesse
+P-f647ad4869,Catherine Marie Kerkow,Odile Pesse
 O-d1575d7367,Caucasus Emirate,Islamic Caucasus Emirate
 O-7911a59fc1,Central Intelligence Agency,CIA
 P-6f6c699826,Charlie Wilson,Congressman Charlie Wilson
+P-8aa14df9b1,Cheri Laverne Dalton,"""Flame"""
+P-8aa14df9b1,Cheri Laverne Dalton,Betty Carter
+P-8aa14df9b1,Cheri Laverne Dalton,Betty W. Carter
+P-8aa14df9b1,Cheri Laverne Dalton,Cheri Cotton
+P-8aa14df9b1,Cheri Laverne Dalton,Cheri Dalton
+P-8aa14df9b1,Cheri Laverne Dalton,Elizabeth Carter
+P-8aa14df9b1,Cheri Laverne Dalton,Laverne Cheri Dalton
+P-8aa14df9b1,Cheri Laverne Dalton,Laverne Dalton
+P-8aa14df9b1,Cheri Laverne Dalton,Nahanda Abiodun
+P-8aa14df9b1,Cheri Laverne Dalton,Nahanda Obafemi
+P-8aa14df9b1,Cheri Laverne Dalton,Nahanda Obatemi
+P-8aa14df9b1,Cheri Laverne Dalton,Nehanda Abiodun
 O-76e0819fb8,China,Beijing
 O-76e0819fb8,China,Chinese government
 O-76e0819fb8,China,the Chinese
@@ -1069,6 +1273,10 @@ O-444bd1ef4c,Department of Defense Office of Inspector General,DoD IG
 O-593ab1c1dd,Department of Justice,DOJ
 P-20e8df8323,Dian Triansyah Djani,Dionne Triangsa Johnny
 P-988bd2cbf2,Dick Cheney,Vice President Cheney
+P-648a4d977d,Din Mohammad Hanif,IADENAMOHAMMAD NAZRI MOHAMMAD
+P-648a4d977d,Din Mohammad Hanif,Iadena Mohammad
+P-648a4d977d,Din Mohammad Hanif,Qari Din Mohammad
+P-648a4d977d,Din Mohammad Hanif,دین محمد حنیف
 P-b2873fccec,Doku Umarov,Dokku Umorov
 P-534924e830,Donald Bolduc,Colonel Bulldack
 P-c53df57d2b,Donald Rumsfeld,Don Rumsfeld
@@ -1078,6 +1286,11 @@ P-b325e17488,Donald Trump,President Trump
 P-b325e17488,Donald Trump,Trump
 P-b325e17488,Donald Trump,Trump administration
 P-b325e17488,Donald Trump,the previous president
+P-5c079b24d7,Donna Joan Borup,Donna Austopchuk
+P-5c079b24d7,Donna Joan Borup,Donna Borup
+P-5c079b24d7,Donna Joan Borup,Rebecca Ann Morgan
+P-6a5d1c1539,Dost Mohammad,Doost Mohammad
+P-6a5d1c1539,Dost Mohammad,دوست محمد
 P-0553da160b,Douglas MacArthur,McArthur
 O-70396eeefb,Druze community,Druze
 L-0ccbe171b1,Durand Line,Afghanistan-Pakistan border
@@ -1089,15 +1302,21 @@ P-0d8d794cd9,Edmund Fitton-Brown,Edmund Finn Brown
 P-0d8d794cd9,Edmund Fitton-Brown,Edmund Fit and Brown
 P-0d8d794cd9,Edmund Fitton-Brown,Edmund Fitness Brown
 P-0d8d794cd9,Edmund Fitton-Brown,Edmund Fitten Brown
-P-0d8d794cd9,Edmund Fitton-Brown,Edmund Fitton Brown
 P-0d8d794cd9,Edmund Fitton-Brown,Edomac
 P-0d8d794cd9,Edmund Fitton-Brown,Fiton Brown
 O-c490cc9f04,Egyptian Islamic Jihad,EIJ
 O-c490cc9f04,Egyptian Islamic Jihad,IJ
 O-c490cc9f04,Egyptian Islamic Jihad,Islamic Jihad
 O-1738268948,Egyptian government,Egypt
+P-5c78989d3e,Ehsanullah Sarfida Hesamuddin Akhundzada,Ehsanullah Sarfadi
+P-5c78989d3e,Ehsanullah Sarfida Hesamuddin Akhundzada,Ehsanullah Sarfida
+P-5c78989d3e,Ehsanullah Sarfida Hesamuddin Akhundzada,احسان الله سرفدا حسام الدین آخوندزاده
 P-73deba732e,Ehud Olmert,Ed Wood Olmert
 P-73deba732e,Ehud Olmert,Ulmer
+P-1ea307811a,Elizabeth Anna Duke,"""Betty Ann"""
+P-1ea307811a,Elizabeth Anna Duke,Betty Ann Duke
+P-1ea307811a,Elizabeth Anna Duke,Betty Weir
+P-1ea307811a,Elizabeth Anna Duke,Elizabeth Ann Duke
 P-d91c7bcd46,Elizabeth Warren,Senator Warren
 P-932bf2fcbf,Emmanuel Macron,President Macron
 P-1827622eff,Emomali Rahmon,President of Tajikistan
@@ -1106,6 +1325,8 @@ O-d8b8b630c3,England and Wales Cricket Board,England Cricket Board
 P-ada0876d7e,Erik Prince,Eric Prince
 O-63a5e8b8f4,Ethiopia,Ethiopians
 O-27fff6481c,European Union,EU
+P-0a93324ca1,Ezatullah Haqqani Khan Sayyid,Ezatullah Haqqani (previously listed as)
+P-0a93324ca1,Ezatullah Haqqani Khan Sayyid,عزت الله حقاني خان سيد
 O-6316cf663c,FDD,FDD's Long War Journal
 O-6316cf663c,FDD,Foundation for Defense of Democracies
 O-8fd2000407,FDD's Long War Journal,FDD
@@ -1117,11 +1338,26 @@ P-30f48bc14b,Faisal Shahzad,Faisal Shazad
 P-30f48bc14b,Faisal Shahzad,Faisal Shazade
 P-30f48bc14b,Faisal Shahzad,Times Square bomber
 P-30f48bc14b,Faisal Shahzad,the Times Square plotter
+P-77b366ef62,Faiz,فيض
+P-476e82c37d,Faizullah Khan Noorzai Na,Faizullah Noorzai Akhtar Mohammed Mira Khan
+P-476e82c37d,Faizullah Khan Noorzai Na,Haji Faizullah Noor
+P-476e82c37d,Faizullah Khan Noorzai Na,Haji Faizullah Noori
+P-476e82c37d,Faizullah Khan Noorzai Na,Haji Mullah Faizullah
+P-476e82c37d,Faizullah Khan Noorzai Na,Haji Pazullah Noorzai
+P-476e82c37d,Faizullah Khan Noorzai Na,حاجى فیض الله خان نورزى
+P-476e82c37d,Faizullah Khan Noorzai Na,فیض الله خان نورزی
+P-3c56593ee7,Faker Ben Abdelazziz Boussora,Abdulaziz
+P-3c56593ee7,Faker Ben Abdelazziz Boussora,Abu Yusif Al-Tunisi
+P-3c56593ee7,Faker Ben Abdelazziz Boussora,Boussoura
+P-3c56593ee7,Faker Ben Abdelazziz Boussora,Faker Boussora
+P-3c56593ee7,Faker Ben Abdelazziz Boussora,Fakeroun
+P-3c56593ee7,Faker Ben Abdelazziz Boussora,Fakerrou
+P-3c56593ee7,Faker Ben Abdelazziz Boussora,Fakr Abdul Aziz Bosura
+P-3c56593ee7,Faker Ben Abdelazziz Boussora,Yusuf Al-Tunisi
 P-6c4a02a3f6,Faqir Mohammad,Fakir Mohammed
 P-6c4a02a3f6,Faqir Mohammad,Faqir Muhammad
 P-1af3e5c281,Farido,Farido Arunae
 P-1b02f9dd46,Farouq al-Qahtani,Faroucah Khatani
-P-1b02f9dd46,Farouq al-Qahtani,Farouq al-Qahtani
 P-1b02f9dd46,Farouq al-Qahtani,Faruk al-Katani
 P-1b02f9dd46,Farouq al-Qahtani,Faruq al-Katani
 P-1b02f9dd46,Farouq al-Qahtani,Faruq al-Qahtani
@@ -1132,6 +1368,10 @@ P-1b02f9dd46,Farouq al-Qahtani,fruq al-Katani
 P-7e4f688386,Fasihuddin Fitrat,Muli Fasi Houdin
 P-7e4f688386,Fasihuddin Fitrat,Qari Fasihuddin
 P-ff82aa8885,Fawzia Koofi,Fausia Kufi
+P-a567b61d8e,Fazl Rabi,Faisal Rabbi
+P-a567b61d8e,Fazl Rabi,Fazal Rabi
+P-a567b61d8e,Fazl Rabi,Fazl Rabbi
+P-a567b61d8e,Fazl Rabi,فضل ربيع
 O-f88bdfc884,Federal Bureau of Investigation,FBI
 O-015c455948,Federal Government of Somalia,Somali federal government
 O-b2b9367747,Financial Action Task Force,Grey list
@@ -1149,7 +1389,6 @@ O-8ece535939,French military (Operation Serval),Operation Serval
 P-ae4736c6d9,Fuad Shukr,Fuad Shakur
 O-e768b7b5f7,GRU,Russian military intelligence
 O-8037164914,GSPC,GSP
-O-8037164914,GSPC,GSPC
 O-8037164914,GSPC,Salafist Group for Preaching and Combat
 O-8037164914,GSPC,Salafist Group for Preaching and Combat (GSPC)
 P-656e6e4ee2,Gamal Abdel Nasser,Gamal Abdul-Nasar
@@ -1164,6 +1403,13 @@ O-067c5404d9,General Directorate of Provinces,GDP
 O-067c5404d9,General Directorate of Provinces,general director of the provinces
 P-d6c8dab81f,General Yazdani,General Yuzdani
 P-c20723d38a,George Crile,George Krill
+P-f251d092da,George Edward Wright,George E. Wright
+P-f251d092da,George Edward Wright,George Wright
+P-f251d092da,George Edward Wright,Jack Ragland
+P-f251d092da,George Edward Wright,Larry Burgess
+P-f251d092da,George Edward Wright,Larry Darnell Burgess
+P-f251d092da,George Edward Wright,Reverend Burgess
+P-f251d092da,George Edward Wright,Reverend L. Burgess
 P-e7e8cdc6c7,George W. Bush,Bush
 P-e7e8cdc6c7,George W. Bush,Bush administration
 P-e7e8cdc6c7,George W. Bush,President Bush
@@ -1193,7 +1439,17 @@ O-d68b790a76,Green Trend,Rawand-e-Sabz
 O-71e823dd0d,Group for the Support of Muslims and Islam (JNIM),Group for the Support of Islam and Muslims
 O-71e823dd0d,Group for the Support of Muslims and Islam (JNIM),JNIM
 P-770e97d81a,Guido,Guido (TIC)
+P-83a69ead35,Gul Agha Ishakzai,HEDAYATULLAH BADRI
+P-83a69ead35,Gul Agha Ishakzai,HEDAYATULLAH HEDAYAT
+P-83a69ead35,Gul Agha Ishakzai,HIDAYATULLAH BADRI
+P-83a69ead35,Gul Agha Ishakzai,Haji Hidayatullah
+P-83a69ead35,Gul Agha Ishakzai,Hayadatullah
+P-83a69ead35,Gul Agha Ishakzai,Hidayatullah
+P-83a69ead35,Gul Agha Ishakzai,Mullah Gul Agha
+P-83a69ead35,Gul Agha Ishakzai,Mullah Gul Agha Akhund
+P-83a69ead35,Gul Agha Ishakzai,كُل آغا اسحاقزی
 P-c5eabe90ad,Gul Agha Sherzai,Golaga Shirzai
+P-fd0ee50233,Gul Ahmad Hakimi,گل احمد حكيمى
 P-af6a331634,Gulbuddin Hekmatyar,Gubaldine Hekmatier
 P-af6a331634,Gulbuddin Hekmatyar,Heck Mottier
 P-af6a331634,Gulbuddin Hekmatyar,Hekmatir
@@ -1201,10 +1457,8 @@ P-af6a331634,Gulbuddin Hekmatyar,Hesbi Islami Gubernideen leader
 O-a612454686,Gulf Cooperation Council,GCC
 P-d7342839e5,H. R. McMaster,General HR McMaster
 P-d7342839e5,H. R. McMaster,General McMaster
-P-d7342839e5,H. R. McMaster,H. R. McMaster
 P-d7342839e5,H. R. McMaster,HR
-P-d7342839e5,H. R. McMaster,Lieutenant General H.R. McMaster
-P-d7342839e5,H. R. McMaster,Lt. Gen. H.R. McMaster
+P-d2de44466e,Habibullah Reshad,حبیب الله رشاد
 P-583fabe384,Hafez al-Assad,Haafas
 P-583fabe384,Hafez al-Assad,Hafiz al-Hafzada
 O-65d04b00dc,Hafiz Gul Bahadur,HGB
@@ -1225,6 +1479,23 @@ P-4acb13c912,Hafiz Saeed,Hefez Saeed
 P-158923b76d,Hafiz Saeed Khan,Urukzai
 P-158923b76d,Hafiz Saeed Khan,the Orakzai
 P-2465326a74,Haji Bashar Noorzai,Haji Bashar Narazi
+O-73f8ebc2c6,Haji Basir and Zarjmil Company Hawala,Haji Abdul Basir Exchange Shop
+O-73f8ebc2c6,Haji Basir and Zarjmil Company Hawala,Haji Abdul Basir and Zar Jameel Hawala
+O-73f8ebc2c6,Haji Basir and Zarjmil Company Hawala,Haji Baseer Hawala
+O-73f8ebc2c6,Haji Basir and Zarjmil Company Hawala,Haji Bashir and Zarjmil Hawala Company
+O-73f8ebc2c6,Haji Basir and Zarjmil Company Hawala,Haji Basir Hawala
+O-73f8ebc2c6,Haji Basir and Zarjmil Company Hawala,Haji Basir and Zarjamil Currency Exchange
+O-73f8ebc2c6,Haji Basir and Zarjmil Company Hawala,"Haji Zar Jamil, Haji Abdul Baseer Money Changer"
+O-73f8ebc2c6,Haji Basir and Zarjmil Company Hawala,د حاجی بصیر او ضرجمیل کمپنی حواله
+O-298de2d00f,Haji Khairullah Haji Sattar Money Exchange,Haji Alim Hawala
+O-298de2d00f,Haji Khairullah Haji Sattar Money Exchange,Haji Hakim Hawala
+O-298de2d00f,Haji Khairullah Haji Sattar Money Exchange,Haji Khair Ullah Money Service
+O-298de2d00f,Haji Khairullah Haji Sattar Money Exchange,Haji Khairullah Money Exchange
+O-298de2d00f,Haji Khairullah Haji Sattar Money Exchange,Haji Khairullah and Abdul Sattar and Company
+O-298de2d00f,Haji Khairullah Haji Sattar Money Exchange,Haji Khairullah-Haji Sattar Sarafi
+O-298de2d00f,Haji Khairullah Haji Sattar Money Exchange,Haji Salam Hawala
+O-298de2d00f,Haji Khairullah Haji Sattar Money Exchange,Sarafi-yi Haji Khairullah Haji Satar Haji Esmatullah
+O-298de2d00f,Haji Khairullah Haji Sattar Money Exchange,حاجی خيرالله و حاجی ستار صرافی
 P-aaa00b60a8,Haji Taysir,Haji Tazeer
 P-b357a3edf2,Haji Uthman,Haji Utman
 P-101e88bea1,Hakimullah Mehsud,Hakamu Musu
@@ -1244,11 +1515,23 @@ P-101e88bea1,Hakimullah Mehsud,Hockey Mule and Masseuse
 P-101e88bea1,Hakimullah Mehsud,Hockey Mullah
 P-101e88bea1,Hakimullah Mehsud,Hucka Malo Mousoud
 O-8c02aab81f,Hamas,Amasa
+P-21770f2715,Hamdullah Allah Noor,حمد الله الله نور
+P-18c3ea49c8,Hamdullah Nomani,HAMDULLAH NUMANI
+P-18c3ea49c8,Hamdullah Nomani,حمد الله نعمانى
+P-49a0925063,Hamdullah Sunani,Sanani
+P-49a0925063,Hamdullah Sunani,حمد الله سنانی
 P-3812ce4e07,Hamid Karzai,Karzai
 P-3812ce4e07,Hamid Karzai,President Karzai
 P-3812ce4e07,Hamid Karzai,"me, Karzai"
+P-296aadc4b8,Hamidullah Akhund Sher Mohammad,Hamidullah Akhund
+P-296aadc4b8,Hamidullah Akhund Sher Mohammad,Janat Gul
+P-296aadc4b8,Hamidullah Akhund Sher Mohammad,SAEED HAMIDULLAH
+P-296aadc4b8,Hamidullah Akhund Sher Mohammad,حمید الله آخوند شیر محمد
+P-fe0f5af298,Hamza al-Ghamdi,Hamza Al Ghamidi
+P-fe0f5af298,Hamza al-Ghamdi,Hamza Salih Bin Sa'id Al-Ghamdi
 P-fe0f5af298,Hamza al-Ghamdi,Hamza al-Gomdi
 P-fe0f5af298,Hamza al-Ghamdi,Hamzaal Agamdi
+P-fe0f5af298,Hamza al-Ghamdi,Salih Saeed Albitaih Alghamdi
 P-5e01e0707e,Hamza bin Laden,Hamsabin Laden
 P-5e01e0707e,Hamza bin Laden,Hamz bin Laden
 P-5e01e0707e,Hamza bin Laden,Hamza
@@ -1283,7 +1566,6 @@ O-a53d7af511,Haqqani Network,Haq Connie Network
 O-a53d7af511,Haqqani Network,Haqani network
 O-a53d7af511,Haqqani Network,Haqani's
 O-a53d7af511,Haqqani Network,Haqanis
-O-a53d7af511,Haqqani Network,Haqqani
 O-a53d7af511,Haqqani Network,Haqqanis
 O-a53d7af511,Haqqani Network,Haqqqani network
 O-a53d7af511,Haqqani Network,Haqqqqqani's
@@ -1300,6 +1582,7 @@ O-a53d7af511,Haqqani Network,Pakhanis
 O-a53d7af511,Haqqani Network,county network
 O-a53d7af511,Haqqani Network,economies
 O-a53d7af511,Haqqani Network,the Haqqanis
+O-a53d7af511,Haqqani Network,شبکه حقانی
 O-3ff93f1d33,Harakat ul-Mujahideen,Harakato Mujahideen
 O-3ff93f1d33,Harakat ul-Mujahideen,Harcardo Mujahideen
 O-3ff93f1d33,Harakat ul-Mujahideen,Harcott-a-Mu-Jedin
@@ -1314,7 +1597,9 @@ O-d52f7682ed,Harakat-ul-Jihad al-Islami,Huzi
 O-cc0216fd13,Harkat-ul-Mujahideen,Harcad al-Muja Dene
 O-cc0216fd13,Harkat-ul-Mujahideen,Harcato and Mujahideen
 O-cc0216fd13,Harkat-ul-Mujahideen,Harkad U of Mujahideen
-P-e1a4870c28,Hassan Hassan,"Hassan, Hassan"
+P-daeac0b4f3,Hasan Izz-al-din,Ahmed Garbaya
+P-daeac0b4f3,Hasan Izz-al-din,Sa-id
+P-daeac0b4f3,Hasan Izz-al-din,Samir Salwwan
 P-ba590244d9,Hassan Mahsum,Hassan Mahzum
 P-106865ed51,Hassan Sheikh Mohamud,Hassan Shake
 P-106865ed51,Hassan Sheikh Mohamud,Hassan Sheikh
@@ -1330,7 +1615,6 @@ O-78f561d34e,Hay'at Tahrir al-Sham,Al-Nusra front
 O-78f561d34e,Hay'at Tahrir al-Sham,El Nusur front
 O-78f561d34e,Hay'at Tahrir al-Sham,HDS
 O-78f561d34e,Hay'at Tahrir al-Sham,HTS
-O-78f561d34e,Hay'at Tahrir al-Sham,Hay'at Tahrir al-Sham
 O-78f561d34e,Hay'at Tahrir al-Sham,Hayat Tahir al-Sham
 O-78f561d34e,Hay'at Tahrir al-Sham,Hayat Tahrir al-Sham
 O-78f561d34e,Hay'at Tahrir al-Sham,Hayat Terrier al-Sham
@@ -1477,6 +1761,8 @@ P-694eb693d1,Hibatullah Alizai,Hibatila Alazai
 P-694eb693d1,Hibatullah Alizai,Hibatula Al-Zai
 P-694eb693d1,Hibatullah Alizai,Lieutenant General Al-Zai
 P-694eb693d1,Hibatullah Alizai,Lieutenant General Alizai
+P-caf48409c4,Hidayatullah,Abu Turab
+P-caf48409c4,Hidayatullah,هدايت الله
 O-92f011c1d5,High Council for the Unity of Azawad,H-C-U-A
 O-92f011c1d5,High Council for the Unity of Azawad,HCUA
 O-09cb51dbe7,Hittin Committee,Hattin Committee
@@ -1556,6 +1842,9 @@ P-bfc078c5d5,Husam Abd al-Rauf,Raouf
 P-bfc078c5d5,Husam Abd al-Rauf,Roof
 P-bfc078c5d5,Husam Abd al-Rauf,Rove
 P-bfc078c5d5,Husam Abd al-Rauf,Ruf
+P-fcbbe5d2b6,Husayn Muhammad al-Umari,"""The Bomb Man"""
+P-fcbbe5d2b6,Husayn Muhammad al-Umari,Abu Ibrahim
+P-fcbbe5d2b6,Husayn Muhammad al-Umari,Hussein Mohammed Al-Umari
 O-c8798c205e,ISAF,International Security Assistance Force
 O-c8798c205e,ISAF,NATO
 O-c8798c205e,ISAF,Resolute Support
@@ -1593,7 +1882,6 @@ O-a504c4fa2b,ISIS-Somalia,ISSP
 O-608d036397,ISWAP,I-Swap
 O-608d036397,ISWAP,IS West Africa Province
 O-608d036397,ISWAP,Islamic State West Africa Province
-O-608d036397,ISWAP,Iswap
 O-b50e321e2f,ISWAP (Islamic State West Africa Province),Iswab
 O-b50e321e2f,ISWAP (Islamic State West Africa Province),Iswap
 O-b50e321e2f,ISWAP (Islamic State West Africa Province),swap
@@ -1601,10 +1889,12 @@ P-bd8998e8a2,Ibn al-Khattab,Abin Katab
 P-5d8cb45224,Ibn al-Shaykh al-Libi,Ibn al-Shikolibi
 P-14eb1719c9,Ibrahim Haqqani,Abraham-Mahani
 P-14eb1719c9,Ibrahim Haqqani,Ibrahim Akani
+P-14eb1719c9,Ibrahim Haqqani,MOHAMMAD IBRAHIM OMARI
 P-14eb1719c9,Ibrahim Haqqani,Mohammad Ibrahim Omari
 P-14eb1719c9,Ibrahim Haqqani,Muhammad Ibrahim Omari
 P-14eb1719c9,Ibrahim Haqqani,Omar (Siraj's uncle)
 P-14eb1719c9,Ibrahim Haqqani,Omari Haqqani
+P-14eb1719c9,Ibrahim Haqqani,محمد ابراهیم عمری
 P-fecff9c653,Ibrahim al-Asiri,Assyri
 P-fecff9c653,Ibrahim al-Asiri,Assyria
 P-fecff9c653,Ibrahim al-Asiri,Ibrahim al-Azeri
@@ -1632,7 +1922,6 @@ O-c1f3c6a9f8,Indian Mujahideen,Injun Mujah Dean
 O-de23e6ade9,Indian government,India
 O-de23e6ade9,Indian government,the Indians
 O-029afd53f1,Inter-Services Intelligence,ISI
-O-029afd53f1,Inter-Services Intelligence,Inter-Services Intelligence
 O-029afd53f1,Inter-Services Intelligence,Pakistan's Inter-Service Intelligence Directorate
 O-029afd53f1,Inter-Services Intelligence,Pakistan's intelligence service
 O-029afd53f1,Inter-Services Intelligence,Pakistan's inter-service intelligence directorate
@@ -1672,6 +1961,11 @@ O-d06295438d,Iranian-backed Shia militias in Iraq,Promised Day Brigade
 O-d06295438d,Iranian-backed Shia militias in Iraq,Saraya Awliya al-Dam
 O-26e569b6a9,Iraqi Counter Terrorism Service,CTS
 O-0d8c98a591,Iraqi Shia militias,Iraqi extremist militias
+P-b2802ee26e,Ishmail Muslim Ali,Ishmael LaBeet
+P-b2802ee26e,Ishmail Muslim Ali,Ishmael Muslim Ali
+P-b2802ee26e,Ishmail Muslim Ali,Ismael LaBeet
+P-b2802ee26e,Ishmail Muslim Ali,Ismail Muslim Ali
+P-b2802ee26e,Ishmail Muslim Ali,Ronald LaBeet
 O-e0da05d2f4,Islamic Caucasus Emirate,Caucasus Emirate
 O-e0da05d2f4,Islamic Caucasus Emirate,Imarat Kavkaz
 O-e0da05d2f4,Islamic Caucasus Emirate,Islamic Caucus Emirate
@@ -1688,7 +1982,6 @@ O-134622cb10,Islamic Resistance in Iraq,Iraqi militias
 O-134622cb10,Islamic Resistance in Iraq,Shia militias
 O-60e7834568,Islamic Revolutionary Guard Corps,IRGC
 O-60e7834568,Islamic Revolutionary Guard Corps,Iran
-O-60e7834568,Islamic Revolutionary Guard Corps,Islamic Revolutionary Guard Corps
 O-60e7834568,Islamic Revolutionary Guard Corps,Kuds Force
 O-60e7834568,Islamic Revolutionary Guard Corps,Quds Force
 O-c2b5842706,Islamic Revolutionary Guard Corps Quds Force,Cuds Force
@@ -1701,7 +1994,6 @@ O-6e0f19f16b,Islamic State,IS Central
 O-6e0f19f16b,Islamic State,ISIL
 O-6e0f19f16b,Islamic State,ISIS
 O-6e0f19f16b,Islamic State,ISKP
-O-6e0f19f16b,Islamic State,Islamic State
 O-6e0f19f16b,Islamic State,Islamic State Khorasan Province
 O-6e0f19f16b,Islamic State,Islamic State central
 O-6e0f19f16b,Islamic State,Islamic State in Iraq
@@ -1749,8 +2041,6 @@ O-3c539938bb,Islamic State Khorasan Province,ISK
 O-3c539938bb,Islamic State Khorasan Province,ISKP
 O-3c539938bb,Islamic State Khorasan Province,Islamic State
 O-3c539938bb,Islamic State Khorasan Province,Islamic State Horosan province
-O-3c539938bb,Islamic State Khorasan Province,Islamic State Khorasan
-O-3c539938bb,Islamic State Khorasan Province,Islamic State Khorasan Province
 O-3c539938bb,Islamic State Khorasan Province,Islamic State in Afghanistan and Pakistan
 O-3c539938bb,Islamic State Khorasan Province,Islamic State's Khorasan province
 O-3c539938bb,Islamic State Khorasan Province,Islamic State-Hurisand Province
@@ -1772,7 +2062,6 @@ O-27c2b3d150,Islamic State Mozambique Province,ISCAP Mozambique
 O-27c2b3d150,Islamic State Mozambique Province,ISIS Mozambique
 O-27c2b3d150,Islamic State Mozambique Province,ISIS in Mozambique
 O-27c2b3d150,Islamic State Mozambique Province,ISM
-O-27c2b3d150,Islamic State Mozambique Province,Islamic State Mozambique
 O-ad244aeee2,Islamic State Sahel Province,Ayas Sahel
 O-ad244aeee2,Islamic State Sahel Province,IS Sahel
 O-ad244aeee2,Islamic State Sahel Province,ISGS
@@ -1815,6 +2104,8 @@ O-0bb75b1807,Israel (assassination team),Israeli assassins
 O-c69ce83380,Israel Defense Forces,IDF
 O-c69ce83380,Israel Defense Forces,Israelis
 O-4f9420e9c5,Israeli government,Israel
+P-d0c783804b,Issa Barrey,Abou Zoubeir
+P-d0c783804b,Issa Barrey,Issa Barre
 O-82bf3b9471,Ittehad-ul-Mujahideen Pakistan,Etihad al-Mujahideen in Pakistan
 O-82bf3b9471,Ittehad-ul-Mujahideen Pakistan,IMP
 O-82bf3b9471,Ittehad-ul-Mujahideen Pakistan,Ittiyadh al-Mujahidin Pakistan
@@ -1839,6 +2130,12 @@ O-d16240537d,JNIM,Jane I'm
 O-d16240537d,JNIM,Janim
 O-d16240537d,JNIM,Janin
 O-d16240537d,JNIM,Jay and I
+P-24a328d188,Jaber A. Elbaneh,"""Jubair"""
+P-24a328d188,Jaber A. Elbaneh,Abu Jubaer
+P-24a328d188,Jaber A. Elbaneh,Jaben A. Elbanelt
+P-24a328d188,Jaber A. Elbaneh,Jaber A. Elbanelt
+P-24a328d188,Jaber A. Elbaneh,Jabor Elbaneh
+P-24a328d188,Jaber A. Elbaneh,Jubaer Elbaneh
 O-3b10ccdd22,Jabhat al-Nasr wing (Victory Front),Jabhat al-Nazer
 O-3b10ccdd22,Jabhat al-Nasr wing (Victory Front),Jaboth al-Nazer
 P-11c7857693,Jack Letts,Jihadi Jack
@@ -1878,6 +2175,9 @@ P-93287685d4,Jalaluddin Haqqani,Jalaloun Hakani
 P-93287685d4,Jalaluddin Haqqani,Jalaloun Hikani
 P-93287685d4,Jalaluddin Haqqani,Jalaluddin Akhani
 P-93287685d4,Jalaluddin Haqqani,Jalaluddin Hakani
+P-93287685d4,Jalaluddin Haqqani,Jalaluddin Haqani
+P-93287685d4,Jalaluddin Haqqani,Jallalouddin Haqqani
+P-93287685d4,Jalaluddin Haqqani,Jallalouddine Haqani
 P-93287685d4,Jalaluddin Haqqani,Jalud
 P-93287685d4,Jalaluddin Haqqani,Jaludh Khani
 P-93287685d4,Jalaluddin Haqqani,John and Connie
@@ -1888,6 +2188,7 @@ P-93287685d4,Jalaluddin Haqqani,Jololitan
 P-93287685d4,Jalaluddin Haqqani,Yalal Khani
 P-93287685d4,Jalaluddin Haqqani,his father
 P-93287685d4,Jalaluddin Haqqani,jala loudin hakani
+P-93287685d4,Jalaluddin Haqqani,جلال الدين حقانى
 O-27b2cc8f2c,Jama'at Nusrat al-Islam wal-Muslimin,Al Qaeda in West Africa
 O-27b2cc8f2c,Jama'at Nusrat al-Islam wal-Muslimin,Group for Support of Islam and Muslims
 O-27b2cc8f2c,Jama'at Nusrat al-Islam wal-Muslimin,Group for the Promotion of Islam and Muslims
@@ -1929,22 +2230,35 @@ O-4dc205a658,Jamaat Ansarullah,movement of the Taliban in Tajikistan
 O-db2fba4d09,Jamaat al-Dawa al-Quran,Lashkar or Jammatu Dawa-U-Kuran
 O-65b4ec87a8,Jamaat-ud-Dawa,Jamadu Dawa
 O-65b4ec87a8,Jamaat-ud-Dawa,Lashkar-Aid-Jisha
-O-4c20625f75,Jamaat-ul-Ahrar,Jamaat-ul-Ahrar
 O-4c20625f75,Jamaat-ul-Ahrar,Jamad O'Hara
 O-4c20625f75,Jamaat-ul-Ahrar,TTP Jamato Ahar
 O-17f6e9c0b3,Jamaat-ul-Mujahideen Bangladesh,JMB
 O-17f6e9c0b3,Jamaat-ul-Mujahideen Bangladesh,JUIB
 O-17f6e9c0b3,Jamaat-ul-Mujahideen Bangladesh,Jaysim Islamic Bangladesh
+P-54dc2e8f89,Jamal Saeed Abdul Rahim,Ali Al Jassem Fahd
+P-54dc2e8f89,Jamal Saeed Abdul Rahim,Fahad
+P-54dc2e8f89,Jamal Saeed Abdul Rahim,Fahad Ali al Jasseen
+P-54dc2e8f89,Jamal Saeed Abdul Rahim,Ismael
+P-54dc2e8f89,Jamal Saeed Abdul Rahim,Jamal Saeed Abdulrahman
 P-0c3b702e81,James Hasson,James Hassan
 P-f67fde1492,James Mattis,General Mattis
 P-f67fde1492,James Mattis,Mattis
 P-f67fde1492,James Mattis,Secretary Mattis
 O-acd1acd870,Jamiat-e Islami,Jami'at-i Islami
+P-8f3bc6d3cf,Jan Mohammad Madani Ikram,جان محمد مدنی اکرام
+P-20106cc893,Janan Agha,Abdullah Jan Agha
+P-20106cc893,Janan Agha,جانان آغا
 P-b90af61f4e,Javid Ahmad,Javid Ahmed
 P-34ebf28091,Javid Hamdard,Jouid Hamdard
 O-351124b2e9,Jaysh Ayman,Jashu-Iman
 O-1540610320,Jaysh al-Ummah,J. Shauma
 O-1540610320,Jaysh al-Ummah,Jaisaluma
+P-73fb72ee31,Jehad Serwan Mostafa,"""Ahmed"" (moniker)"
+P-73fb72ee31,Jehad Serwan Mostafa,"""Anwar"" (moniker)"
+P-73fb72ee31,Jehad Serwan Mostafa,Abu Abdullah al-Muhajir
+P-73fb72ee31,Jehad Serwan Mostafa,Ahmed Gurey
+P-73fb72ee31,Jehad Serwan Mostafa,Anwar al-Amriki
+P-73fb72ee31,Jehad Serwan Mostafa,Emir Anwar
 P-73fb72ee31,Jehad Serwan Mostafa,Jihad Mustafa
 P-73fb72ee31,Jehad Serwan Mostafa,Jihad Sir Juan Mustafa
 O-bb2ec1b3a1,Jemaah Islamiyah,Jamada is Islamia
@@ -1971,8 +2285,22 @@ P-65308aa414,John W. Nicholson,Nicholson
 P-0f97254d14,John Walker Lindh,Johnny Walker Lind
 O-e00db5ee46,Joint Special Operations University,JSOU
 O-3a21d9929d,Joint Task Force Guantanamo,JTF Gitmo
+P-3979439e1f,Jose Espinosa Caballero,Jose Espinos Caballero
+P-3979439e1f,Jose Espinosa Caballero,Jose Espinosa
+P-3979439e1f,Jose Espinosa Caballero,Jose Espinosa-Garcia
+P-3979439e1f,Jose Espinosa Caballero,Jose Espinoza
+P-3979439e1f,Jose Espinosa Caballero,Jose Prosada
 P-172a3f603c,Joseph Dunford,General Dunford
 P-5235268f16,Joseph R. Biden,President Biden
+P-2c2183a760,Josephine Sunshine Overaker,"""China"""
+P-2c2183a760,Josephine Sunshine Overaker,"""Jo"""
+P-2c2183a760,Josephine Sunshine Overaker,"""Josie"""
+P-2c2183a760,Josephine Sunshine Overaker,"""Mo"""
+P-2c2183a760,Josephine Sunshine Overaker,"""Osha"""
+P-2c2183a760,Josephine Sunshine Overaker,Lisa R. Quintana
+P-2c2183a760,Josephine Sunshine Overaker,Lisa Rachelle Quintana
+P-2c2183a760,Josephine Sunshine Overaker,Maria Quintana
+P-2c2183a760,Josephine Sunshine Overaker,Maria Rachelle Quintana
 O-28748776d3,Jubaland,Jubaland forces
 O-28748776d3,Jubaland,Jubaland regional force
 O-28748776d3,Jubaland,Jubiland
@@ -1999,18 +2327,28 @@ O-c100ab0179,Katibat Macina,Katibat Masina
 O-ad0a8d2b8c,Katibat al-Ghuraba,Katibat al-Gurabha
 O-d0a2658230,Katibat al-Tawhid wal-Jihad,Katiba tohid while jihad
 O-d0a2658230,Katibat al-Tawhid wal-Jihad,Ketibu al-Tahidu-Jihad
-P-ab0f38bf7f,Kenneth McKenzie,General Kenneth McKenzie
 P-ab0f38bf7f,Kenneth McKenzie,General McKenzie
 P-ab0f38bf7f,Kenneth McKenzie,McKenzie
 P-ab0f38bf7f,Kenneth McKenzie,Sengom commander
 O-77f2db751e,Kenya Defence Forces,KDF
 O-77f2db751e,Kenya Defence Forces,Kenyan troops
+P-5a25ea044d,Khairullah Barakzai Khudai Nazar,Haji Karimullah
+P-5a25ea044d,Khairullah Barakzai Khudai Nazar,Haji Khair Mohammad
+P-5a25ea044d,Khairullah Barakzai Khudai Nazar,Haji Khair Ullah
+P-5a25ea044d,Khairullah Barakzai Khudai Nazar,Haji Khairullah
+P-5a25ea044d,Khairullah Barakzai Khudai Nazar,Haji Kheirullah
+P-5a25ea044d,Khairullah Barakzai Khudai Nazar,خيرالله بارکزی خدای نظر
 P-05d66bab4f,Khairullah Khairkhwa,Carolla Keroua
+P-05d66bab4f,Khairullah Khairkhwa,KHAIRULLAH KHAIRKHWAH
+P-05d66bab4f,Khairullah Khairkhwa,KHIRULLAH KHAIRKHWA
 P-05d66bab4f,Khairullah Khairkhwa,Karula Karqua
 P-05d66bab4f,Khairullah Khairkhwa,Kerkwa
 P-05d66bab4f,Khairullah Khairkhwa,Keroua
 P-05d66bab4f,Khairullah Khairkhwa,Kerrqua
+P-05d66bab4f,Khairullah Khairkhwa,"Khirullah Said Wali Khairkhwa, born in Kandahar on 01 Jan.1967"
 P-05d66bab4f,Khairullah Khairkhwa,Kourla Kira
+P-05d66bab4f,Khairullah Khairkhwa,Mullah Khairullah Khairkhwah
+P-05d66bab4f,Khairullah Khairkhwa,خيرالله خيرخواه
 P-283f179ce3,Khalid Batarfi,Barfi
 P-283f179ce3,Khalid Batarfi,Batafi
 P-283f179ce3,Khalid Batarfi,Batarfi
@@ -2053,22 +2391,25 @@ P-1e21031c29,Khalid Sheikh Mohammed,"Kaliqqqa, Mohammed"
 P-a063cccec6,Khalid al-Aruri,Abu al-Qasim
 P-a063cccec6,Khalid al-Aruri,Abu al-Qassam
 P-a063cccec6,Khalid al-Aruri,Halit Al Ruri
-P-a063cccec6,Khalid al-Aruri,Khalid Aruri
 P-6195af2e21,Khalid al-Mihdhar,Khaled al-Madar
 P-292ae00843,Khalil Haqqani,Cleo O'Khani
 P-292ae00843,Khalil Haqqani,Hakani's uncle
+P-292ae00843,Khalil Haqqani,KHALIL AHMED HAQQANI
+P-292ae00843,Khalil Haqqani,Khaleel Haqqani
 P-292ae00843,Khalil Haqqani,Khalil Akani
+P-292ae00843,Khalil Haqqani,Khalil Al-Rahman Haqqani
 P-292ae00843,Khalil Haqqani,Khalil Hakani
 P-292ae00843,Khalil Haqqani,Khalil Khadhi
 P-292ae00843,Khalil Haqqani,Khalil Ol Rahman
 P-292ae00843,Khalil Haqqani,Khalil al-Rahman Haqqani
+P-292ae00843,Khalil Haqqani,Khalil ur Rahman Haqqani
 P-292ae00843,Khalil Haqqani,Khalil ur-Rahman Haqqani
+P-292ae00843,Khalil Haqqani,خلیل احمد حقانی
 P-cccda6a15c,Khawaja Asif,Pakistani Defence Minister
 O-34a3f53a09,Khorasan (al-Qaeda-affiliated media group),Horosan
 O-e6bee6f239,Khorasan group,Gorson group
 O-e6bee6f239,Khorasan group,Horasan group
 O-e6bee6f239,Khorasan group,Horosun Group
-P-a03f09f2a1,Kim Dozier,Kim Dozier
 P-a03f09f2a1,Kim Dozier,Kim Dozier of time
 P-ef49bfef12,Kim Jong Un,Kim
 O-7ab2d9924c,Kingdom of Bahrain,Bahrain
@@ -2101,8 +2442,14 @@ O-b1256f3a04,Lashkar-e-Taiba,LeT
 O-b1256f3a04,Lashkar-e-Taiba,OET
 P-a5f9b60864,Laurie Bristow,Lori Bresto
 O-8d19b1ef8b,Lead Inspector General for Operation Freedom's Sentinel,Inspector General
+P-4dfc32e15b,Leo Frederick Burt,Eugene Donald Fieldston
 P-c0b2ba12ff,Leon Panetta,Panetta
 P-c0b2ba12ff,Leon Panetta,Pinnetta
+P-9944590780,Liban Haji Mohamed,Abu Ayrow
+P-9944590780,Liban Haji Mohamed,Qatil
+P-9944590780,Liban Haji Mohamed,Qatiluhum
+P-9944590780,Liban Haji Mohamed,Shirwa
+P-9944590780,Liban Haji Mohamed,Shirwac
 O-d105b15e89,Lion's Den,Lions' Den of Nablus
 P-9a232cfcfc,Lloyd Austin,Secretary of Defense Austin
 O-b05833349e,Long War Journal,FDD's Long War Journal
@@ -2135,12 +2482,18 @@ P-cfa3bb02ec,Mahfouz Ould al-Walid,Abu Hafs
 P-cfa3bb02ec,Mahfouz Ould al-Walid,Abu Hafs al-Mauritani
 P-cfa3bb02ec,Mahfouz Ould al-Walid,Abu Hafts-Omarotani
 P-e7f0a14419,Mahmoud Abbas,Mamoud Abbas
+P-cb6e8cfa1b,Majid Dastjani Farahani,Majid Farahani
 O-c067e0c30b,Maktab al-Khidmat,Makhtab al-Khidmat
 O-c067e0c30b,Maktab al-Khidmat,Services Bureau
 O-5e80cd5f4f,Malian army,Malayan Army
 O-a618b56be0,Malian military junta,Bamako
 O-a618b56be0,Malian military junta,Government of Mali
 O-a618b56be0,Malian military junta,Malayan government
+P-3d5adf9467,Malik Noorzai,Allah Muhammad
+P-3d5adf9467,Malik Noorzai,Haji Aminullah
+P-3d5adf9467,Malik Noorzai,Haji Maluk
+P-3d5adf9467,Malik Noorzai,حاجى مالك نورزى (Hajji Malik Noorzai; Hajji Malak Noorzai; Haji Malek Noorzai)
+P-3d5adf9467,Malik Noorzai,مالک نورزى
 O-bc649e9bbb,Manba al-Jihad,Manbaal jihad
 O-bc649e9bbb,Manba al-Jihad,Manbal Jihad
 O-bc649e9bbb,Manba al-Jihad,fountainhead of jihad
@@ -2169,6 +2522,7 @@ P-48af504413,Massoud Andarabi,Massoud-Ud-Andarabi
 P-a6cf743906,Massoud Hossaini,Massoot
 P-a6cf743906,Massoud Hossaini,Massoud Horsani
 P-a6cf743906,Massoud Hossaini,Masud
+P-74873cf9f9,Matiullah,مطيع الله
 P-98f473a8ad,Mawlawi Aminullah,Moli Aminullah
 P-44c1b2fa3e,Mawlawi Peraga,Mowlovi Peraga
 O-6ba96af154,Mehsud clan,Massoud clan
@@ -2193,26 +2547,77 @@ P-bc80443d26,Miriam (daughter of Abu Muhammad al-Masri),Miriam
 P-94edcc4ea7,Mohamed Abdullahi Farmajo,Formajo
 P-8e5c6ceae4,Mohamed Islam,Guy Mohamed Islam
 P-f2f0104c31,Mohamed Mire,Mohammed Mere
+P-69e5928c9b,Mohammad Abbas Akhund,محمد عباس آخوند
+P-2019f8bc82,Mohammad Ahmadi,محمد احمدی
+P-69eaa6a011,Mohammad Aleem Noorani,محمد علیم نورانی
+P-29c2fcf6f7,Mohammad Aman Akhund,Mohammed Aman
+P-29c2fcf6f7,Mohammad Aman Akhund,Mullah Mad Aman Ustad Noorzai
+P-29c2fcf6f7,Mohammad Aman Akhund,Mullah Mohammad Aman Ustad Noorzai
+P-29c2fcf6f7,Mohammad Aman Akhund,Mullah Mohammed Oman
+P-29c2fcf6f7,Mohammad Aman Akhund,Sanaullah
+P-29c2fcf6f7,Mohammad Aman Akhund,محمد امان آخوند
+P-47a17ff4d1,Mohammad Azam Elmi,Muhammad Azami
+P-47a17ff4d1,Mohammad Azam Elmi,محمد اعظم علمی
 P-b3925b608e,Mohammad Bagher Ghalibaf,Galabath
 P-b3925b608e,Mohammad Bagher Ghalibaf,Kalaibaf
+P-6a2b666f35,Mohammad Eshaq Akhunzada,Mohammad Ishaq Akhund born in 1963
+P-6a2b666f35,Mohammad Eshaq Akhunzada,محمد اسحاق آخوند زاده
+P-fb2c0ee045,Mohammad Essa Akhund,MOHAMMAD EISA SANI
+P-fb2c0ee045,Mohammad Essa Akhund,محمد عیسی آخوند
+P-1333ea386c,Mohammad Fazl,FAZL MOHAMMAD MAZLOOM
 P-1333ea386c,Mohammad Fazl,Fasal
 P-1333ea386c,Mohammad Fazl,Fasl
+P-1333ea386c,Mohammad Fazl,Fazel Mohammad Mazloom
+P-1333ea386c,Mohammad Fazl,MOHAMMAD FADEL AAKHUND
 P-1333ea386c,Mohammad Fazl,Mohamed Fasel
+P-1333ea386c,Mohammad Fazl,Molah Fazl
+P-1333ea386c,Mohammad Fazl,فضل محمد مظلوم
+P-7b90cdc6ca,Mohammad Hasan Rahmani,Gud Mullah Mohammad Hassan
+P-7b90cdc6ca,Mohammad Hasan Rahmani,محمد حسن رحمانی
 P-b8a0a475ce,Mohammad Hassan Akhund,Akun
 P-b8a0a475ce,Mohammad Hassan Akhund,Hassan Akhund
 P-b8a0a475ce,Mohammad Hassan Akhund,Hassan Akun
 P-b8a0a475ce,Mohammad Hassan Akhund,Taliban Prime Minister
 P-b8a0a475ce,Mohammad Hassan Akhund,the last prime minister
+P-b8a0a475ce,Mohammad Hassan Akhund,محمد حسن آخوند
+P-5593622015,Mohammad Jawad Waziri,محمد جواد وزیری
+P-fa0c16309a,Mohammad Mahdi Khanpour Ardestani,Ali Akbar Khan Purardestani
 P-8b5c58637a,Mohammad Mohaqiq,Mohammed Makhik
+P-e84a3305e7,Mohammad Moslim Haqqani Muhammadi Gul,Moslim Haqqani
+P-e84a3305e7,Mohammad Moslim Haqqani Muhammadi Gul,محمد مسلم حقانى محمدی گل
 P-374ffcdb3b,Mohammad Nabi Omari,Mahabha Nabi Omari
+P-3debe6276e,Mohammad Rasul Ayyub,Gurg
+P-3debe6276e,Mohammad Rasul Ayyub,محمد رسول ایوب
+P-1ace1e5363,Mohammad Sadiq Amir Mohammad,محمد صادق امیر محمد
+P-a78e01888a,Mohammad Salim Haqqani,محمد سلیم حقانی
+P-f79b6c8d42,Mohammad Sarwar Siddiqmal Mohammad Masood,Mohammad Sarwar Siddiqmal
+P-f79b6c8d42,Mohammad Sarwar Siddiqmal Mohammad Masood,محمد سرور صدیق مل ﻤﺣﻤﺩ ﻤﺴﻌﻮﺩ
+P-53442c5845,Mohammad Shafiq Mohammadi,محمد شفیق محمدی
+P-3eb17d7ac7,Mohammad Shafiqullah Ahmadi Fatih Khan,Mohammad Shafiq Ahmadi
+P-3eb17d7ac7,Mohammad Shafiqullah Ahmadi Fatih Khan,Mullah Shafiqullah
+P-3eb17d7ac7,Mohammad Shafiqullah Ahmadi Fatih Khan,محمد شفیق الله احمدی فاتح خان
+P-439d8d2855,Mohammad Wali Mohammad Ewaz,Mohammad Wali
+P-439d8d2855,Mohammad Wali Mohammad Ewaz,محمد ولی محمد عوض
+P-0095cad86f,Mohammad Yaqoub,محمد يعقوب
 P-f2beaa2a33,Mohammad Yusuf Wafa,Wafa
 P-f2beaa2a33,Mohammad Yusuf Wafa,Wafah in bulk
+P-af62feb7af,Mohammad Zahid,Jan Agha Ahmadzai
+P-af62feb7af,Mohammad Zahid,Zahid Ahmadzai
+P-af62feb7af,Mohammad Zahid,محمد زاهد
+P-8d8f791b7f,Mohammadullah Mati,Mawlawi Nanai
+P-8d8f791b7f,Mohammadullah Mati,محمد الله مطيع
+P-b94c697d18,Mohammed Ali Hamadei,"""Castro"""
+P-b94c697d18,Mohammed Ali Hamadei,Ali Hamadi
+P-b94c697d18,Mohammed Ali Hamadei,Mohammod Ali Hamadei
 P-76b35c5680,Mohammed Deif,Dave
 P-76b35c5680,Mohammed Deif,Mohamed Daif
 P-76b35c5680,Mohammed Deif,Muhammad Dave
 P-c52f09c541,Mohammed Fahim,Marshal Fahim
 P-bf3119d987,Mohammed Haydar Zammar,Mohammed Zamar
 P-bf3119d987,Mohammed Haydar Zammar,Muhammad Zimar
+P-50ebca777c,Mohammed Qasim Mir Wali Khudai Rahim,Abdul Salam
+P-50ebca777c,Mohammed Qasim Mir Wali Khudai Rahim,Muhammad Qasim
+P-50ebca777c,Mohammed Qasim Mir Wali Khudai Rahim,محمد قاسم میر ولی خدايرحيم
 P-3bc7c339d7,Mohammed Saeed al-Shamrani,Al Shemrani
 P-3bc7c339d7,Mohammed Saeed al-Shamrani,Al-Sham Rani
 P-3bc7c339d7,Mohammed Saeed al-Shamrani,Elsham Ronnie
@@ -2237,6 +2642,19 @@ P-61513c9f08,Mokhtar Belmokhtar,Bal Mukdar
 P-61513c9f08,Mokhtar Belmokhtar,Bumuktar
 P-61513c9f08,Mokhtar Belmokhtar,Mukhtar-Bel-Muktar
 P-b58da9d105,Muammar Gaddafi,Qaddafi
+P-4bc655b108,Muhammad Abdullah Khalil Hussain Ar-Rahayyal,Abdullah Khalil Muhammad
+P-4bc655b108,Muhammad Abdullah Khalil Hussain Ar-Rahayyal,Abdullah Muhammad Khalil
+P-4bc655b108,Muhammad Abdullah Khalil Hussain Ar-Rahayyal,Antawan Kaiwan Khalil
+P-4bc655b108,Muhammad Abdullah Khalil Hussain Ar-Rahayyal,Khalil Alid
+P-4bc655b108,Muhammad Abdullah Khalil Hussain Ar-Rahayyal,Khalil Antwan Iwan
+P-df40e06d5e,Muhammad Ahmed al-Munawar,Abdarhman Al Rashid Mansour
+P-df40e06d5e,Muhammad Ahmed al-Munawar,Abdul Rahman Al-Rashid Mansoor
+P-df40e06d5e,Muhammad Ahmed al-Munawar,Abdur Rehman Rashad Mansur
+P-df40e06d5e,Muhammad Ahmed al-Munawar,Ahmed Khalid Zubair
+P-df40e06d5e,Muhammad Ahmed al-Munawar,Al Rashad Mansur
+P-df40e06d5e,Muhammad Ahmed al-Munawar,Ashraf Naeem Mansoor
+P-df40e06d5e,Muhammad Ahmed al-Munawar,Shamed Khalil Zubair
+P-df40e06d5e,Muhammad Ahmed al-Munawar,Zubair
 P-af466a1d9d,Muhammad Atef,Abu Hafs al-Masri
 P-af466a1d9d,Muhammad Atef,Muhammad Attef
 P-80a9ba6ca9,Muhammad Islambouli,Mohamed Islambouli
@@ -2247,7 +2665,6 @@ P-80a9ba6ca9,Muhammad Islambouli,Muhammad Islam Bully
 P-80a9ba6ca9,Muhammad Islambouli,"Muhammad Islam, Bully"
 P-80a9ba6ca9,Muhammad Islambouli,Muhammad Islambuli
 P-837161b3b3,Muhammad Jamal,Mahamah Jamal
-O-2a59da08e2,Muhammad Jamal Network,Muhammad Jamal group
 P-6e6e606c86,Muhammad Kadir Musa Ramadan,Abu Bakir Al-Garab
 P-6e6e606c86,Muhammad Kadir Musa Ramadan,Abu Bakr al-Gharib
 P-6e6e606c86,Muhammad Kadir Musa Ramadan,Abu Ghareb
@@ -2256,6 +2673,13 @@ P-11b45f4269,Muhammad Kawtharani,Kauartharni
 P-11b45f4269,Muhammad Kawtharani,Kawatharni
 P-11b45f4269,Muhammad Kawtharani,Kawhirani
 P-11b45f4269,Muhammad Kawtharani,Kowthrani
+P-4606a1fe48,Muhammad Omar Zadran,Mohammad-Omar Jadran
+P-4606a1fe48,Muhammad Omar Zadran,محمد عمر ځدران
+P-86cf9e6e76,Muhammad Taher Anwari,Haji Mudir
+P-86cf9e6e76,Muhammad Taher Anwari,Mohammad Taher Anwari
+P-86cf9e6e76,Muhammad Taher Anwari,Mohammad Tahre Anwari
+P-86cf9e6e76,Muhammad Taher Anwari,Muhammad Tahir Anwari
+P-86cf9e6e76,Muhammad Taher Anwari,محمد طاهر أنوري
 P-ea9c2b4daf,Muhsin al-Fadhli,Sanofodli
 P-ea9c2b4daf,Muhsin al-Fadhli,Sanofodli the Kuwaiti
 P-b480752f99,Mujib Mashal,Michal
@@ -2271,7 +2695,6 @@ P-a2b9d9459f,Mullah Dadullah,Mullah Adulalang
 P-790ea462eb,Mullah Fazlullah,Fizula
 P-790ea462eb,Mullah Fazlullah,Fizzula
 P-790ea462eb,Mullah Fazlullah,Malifizullah
-P-790ea462eb,Mullah Fazlullah,Maulvi Fazlullah
 P-790ea462eb,Mullah Fazlullah,Mullah Fazula
 P-790ea462eb,Mullah Fazlullah,Mullah Nazir
 P-790ea462eb,Mullah Fazlullah,Mullah Radio
@@ -2279,6 +2702,7 @@ P-790ea462eb,Mullah Fazlullah,Mullah of Radio
 P-60cd958501,Mullah Ghalab,Taliban commander at Helmand
 P-f8deeb3102,Mullah Mohammad Omar,Bul Omar
 P-f8deeb3102,Mullah Mohammad Omar,Ibn Omar
+P-f8deeb3102,Mullah Mohammad Omar,MOHAMMED OMAR GHULAM NABI
 P-f8deeb3102,Mullah Mohammad Omar,Malamar
 P-f8deeb3102,Mullah Mohammad Omar,Malamur
 P-f8deeb3102,Mullah Mohammad Omar,Malo Omar
@@ -2300,7 +2724,6 @@ P-f8deeb3102,Mullah Mohammad Omar,Mulamar
 P-f8deeb3102,Mullah Mohammad Omar,Mulamur
 P-f8deeb3102,Mullah Mohammad Omar,Mule Omar
 P-f8deeb3102,Mullah Mohammad Omar,Mullah Al-Mar
-P-f8deeb3102,Mullah Mohammad Omar,Mullah Mohammad Omar
 P-f8deeb3102,Mullah Mohammad Omar,Mullah Mohammed Omar
 P-f8deeb3102,Mullah Mohammad Omar,Mullah Omar
 P-f8deeb3102,Mullah Mohammad Omar,Mullah al-Omar
@@ -2309,6 +2732,7 @@ P-f8deeb3102,Mullah Mohammad Omar,Muul Omar
 P-f8deeb3102,Mullah Mohammad Omar,So of Omar
 P-f8deeb3102,Mullah Mohammad Omar,even Omar
 P-f8deeb3102,Mullah Mohammad Omar,will Omar
+P-f8deeb3102,Mullah Mohammad Omar,محمد عمر غلام نبی
 P-f9015bfd20,Mullah Mohammad Yaqoob,Jakub
 P-f9015bfd20,Mullah Mohammad Yaqoob,Malayakou
 P-f9015bfd20,Mullah Mohammad Yaqoob,Malikou
@@ -2332,8 +2756,24 @@ P-f9015bfd20,Mullah Mohammad Yaqoob,Yakub
 P-f9015bfd20,Mullah Mohammad Yaqoob,Yikub
 P-f9015bfd20,Mullah Mohammad Yaqoob,Yikubb
 P-f9015bfd20,Mullah Mohammad Yaqoob,Yucb
+P-b192dade05,Mullah Naim Barich,Gul Mohammad
+P-b192dade05,Mullah Naim Barich,Gul Mohammad Kamran
+P-b192dade05,Mullah Naim Barich,Haji Ghul Mohammad
+P-b192dade05,Mullah Naim Barich,Haji Gul Mohammed Naim Barich
+P-b192dade05,Mullah Naim Barich,MOHAMMAD NAIM BARICH KHUDAIDAD
+P-b192dade05,Mullah Naim Barich,Mawlawi Gul Mohammad
+P-b192dade05,Mullah Naim Barich,Mohammad Naim
 P-b192dade05,Mullah Naim Barich,Moliname Baruch
+P-b192dade05,Mullah Naim Barich,Mullah Naeem Baraich
+P-b192dade05,Mullah Naim Barich,Mullah Naeem Barech
+P-b192dade05,Mullah Naim Barich,Mullah Naeem Baric
 P-b192dade05,Mullah Naim Barich,Mullah Naim Barech
+P-b192dade05,Mullah Naim Barich,Mullah Naim Barech Akhund
+P-b192dade05,Mullah Naim Barich,Mullah Naim Bareh
+P-b192dade05,Mullah Naim Barich,Mullah Naimullah
+P-b192dade05,Mullah Naim Barich,Naim Berich
+P-b192dade05,Mullah Naim Barich,Spen Zrae
+P-b192dade05,Mullah Naim Barich,محمد نعيم بريخ خدايداد
 P-fbc7c1e1ce,Mullah Nazir,Mullahazir
 O-71d73a9c9b,Mullah Nazir group,Mullahazir group
 P-4945daf987,Mullah Sangeen Zadran,Mullah San Guine Zadrin
@@ -2347,14 +2787,19 @@ P-4baf452bb9,Musa Ali Daqduq,Musa Ali Daktuk
 P-4baf452bb9,Musa Ali Daqduq,Musa Ali Daku
 P-54cdc574bc,Musa Baluku,Baluku
 P-20f1bffcac,Mustafa Abu al-Yazid,Mustafa Abu Zaid
-P-20f1bffcac,Mustafa Abu al-Yazid,Mustafa Yazid
 P-20f1bffcac,Mustafa Abu al-Yazid,Mustafaizade
 P-20f1bffcac,Mustafa Abu al-Yazid,Saeed al-Masri
 P-20f1bffcac,Mustafa Abu al-Yazid,Saeed al-Mazeri
 P-20f1bffcac,Mustafa Abu al-Yazid,Yazid
+P-dd6ac13249,Mu’min al-Mawji Mahmud Salim,“Taqni al-Mujahedeen”
 O-b8ce55491f,NATO,NATO headquarters
 P-c024852876,Naheed Farid,Ms. Fare
 P-c024852876,Naheed Farid,Nahed Farid
+P-9810259ba2,Najibullah Haqqani Hidayatullah,NAJEEBULLAH HAYAT
+P-9810259ba2,Najibullah Haqqani Hidayatullah,Najibullah Haqani
+P-9810259ba2,Najibullah Haqqani Hidayatullah,نجیب الله حقانی هدايت الله
+P-a7709dc409,Najibullah Muhammad Juma,Najib Ullah
+P-a7709dc409,Najibullah Muhammad Juma,نجيب الله محمد جمعه
 P-1511f22d13,Naqib Mirzada,Major Merzad
 P-1511f22d13,Naqib Mirzada,Major Mirzada
 P-1511f22d13,Naqib Mirzada,Nikib Mirzada
@@ -2363,7 +2808,6 @@ P-6adf4bf81b,Nasir al-Wuhayshi,Hashi
 P-6adf4bf81b,Nasir al-Wuhayshi,Nasar al-Qaishi
 P-6adf4bf81b,Nasir al-Wuhayshi,Nasar al-Wahashi
 P-6adf4bf81b,Nasir al-Wuhayshi,Nasir al-Wehishi
-P-6adf4bf81b,Nasir al-Wuhayshi,Nasir al-Wuhayshi
 P-6adf4bf81b,Nasir al-Wuhayshi,Nassar
 P-6adf4bf81b,Nasir al-Wuhayshi,Nassar al-Hahashi
 P-6adf4bf81b,Nasir al-Wuhayshi,Nassar al-Qaishu
@@ -2395,6 +2839,13 @@ P-6adf4bf81b,Nasir al-Wuhayshi,Wahehi
 P-6adf4bf81b,Nasir al-Wuhayshi,Wahishi
 P-6adf4bf81b,Nasir al-Wuhayshi,Wahisi
 P-6adf4bf81b,Nasir al-Wuhayshi,Wuhayshi
+P-d618028181,Nasiruddin Haqqani,Dr. Alim Ghair
+P-d618028181,Nasiruddin Haqqani,Dr. Naseer Haqqani
+P-d618028181,Nasiruddin Haqqani,Naseer Haqqani
+P-d618028181,Nasiruddin Haqqani,Naseruddin
+P-d618028181,Nasiruddin Haqqani,Nashir Haqqani
+P-d618028181,Nasiruddin Haqqani,Nassir Haqqani
+P-d618028181,Nasiruddin Haqqani,نصیر الدین حقانی
 P-0f992ec3e5,Nasser al-Bahri,Abu Jandal
 P-0f992ec3e5,Nasser al-Bahri,Nasser Barre
 O-0c016d470d,National Counterterrorism Center,NCTC
@@ -2420,6 +2871,10 @@ O-227e292de0,National Resistance Front (NRF),National Resistance Front
 O-c164248eca,Nawa-i-Ghazwat-ul-Hind,Nahuahazwa-Ihinged
 P-409238848a,Nawaf al-Hazmi,Oafal-Hasmi
 P-409238848a,Nawaf al-Hazmi,Wafal-Hasmi
+P-28a42396c8,Nazir Mohammad Abdul Basir,Nazar Mohammad
+P-28a42396c8,Nazir Mohammad Abdul Basir,نظر محمدعبد البصیر
+P-165caee779,Nazirullah Hanafi Waliullah,Nazirullah Aanafi Waliullah
+P-165caee779,Nazirullah Hanafi Waliullah,نذیر الله حنفى ولى الله
 P-d3ab3d49fd,Nek Muhammad,Neck Muhammad
 P-d3ab3d49fd,Nek Muhammad,Nick Muhammad
 O-68f435a2bd,New America Foundation,New American Foundation
@@ -2428,6 +2883,10 @@ O-e3caa0f484,New York Times,The Times
 O-e3caa0f484,New York Times,Times
 O-e3caa0f484,New York Times,the Times
 P-3d301aae54,Nidal Hasan,Nadal Hassan
+P-d0cc9da626,Nik Mohammad Dost Mohammad,Nik Mohammad
+P-d0cc9da626,Nik Mohammad Dost Mohammad,نیک محمد دوست محمد
+P-85d7480a9e,Noor Mohammad Saqib,NOOR MOHAMMED SAQEB
+P-85d7480a9e,Noor Mohammad Saqib,نور محمد ثاقب
 P-b88ab17a30,Noor Wali Mehsud,Massoud
 P-b88ab17a30,Noor Wali Mehsud,Noor Wali Massoud
 P-b88ab17a30,Noor Wali Mehsud,Nor Wally Massoud
@@ -2435,6 +2894,10 @@ P-b88ab17a30,Noor Wali Mehsud,Norwali Massoud
 P-b88ab17a30,Noor Wali Mehsud,Noura Wally Massoud
 P-b88ab17a30,Noor Wali Mehsud,Nurwali Massoud
 P-b88ab17a30,Noor Wali Mehsud,Wali
+P-9ce9b52b07,Nooruddin Turabi Muhammad Qasim,Haji Karim
+P-9ce9b52b07,Nooruddin Turabi Muhammad Qasim,MULLAH NOORDIN TORABI
+P-9ce9b52b07,Nooruddin Turabi Muhammad Qasim,Noor ud Din Turabi
+P-9ce9b52b07,Nooruddin Turabi Muhammad Qasim,نورالدین ترابی محمد قاسم
 P-a3df54c8c1,Noorullah Noori,Nurun Nauri
 O-f7899abb43,Noorzai tribe,Norzai
 O-0725a2a96b,Northern Alliance,United Front
@@ -2442,14 +2905,14 @@ O-0725a2a96b,Northern Alliance,resistance
 O-059f19c281,Nour al-Din al-Zenki,Noreldine al-Zinke movement
 O-059f19c281,Nour al-Din al-Zenki,Nur-Din al-Zinki
 P-b90e8a2df2,Nouri al-Maliki,Maliki
+P-c79a6a99a6,Nurullah Nuri,Norullah Noori
+P-c79a6a99a6,Nurullah Nuri,نور الله نوری
 O-8b08f65cbc,Office of the Director of National Intelligence,ODNI
 O-c921062eaa,Office of the Director of National Intelligence (ODNI),ODNI
 O-cbd956ad93,Omani government,Muscat
 O-cbd956ad93,Omani government,Oman
 P-5e07f3d50f,Omar Hammami,Abu Mansour al-Amriki
 P-5e07f3d50f,Omar Hammami,Omar Hamami
-P-1fe5f6327b,Omar Khalid Khorasani,Omar Khalid al-Khorasani
-P-28c30e7c15,Omar Saeed Sheikh,Omar Saeed Sheikh
 P-296f8d7889,Omar al-Bashir,Bashir
 P-296f8d7889,Omar al-Bashir,Omar al-Bashid
 P-296f8d7889,Omar al-Bashir,Omar al-Bashire
@@ -2501,7 +2964,6 @@ O-f20f68a6b1,Pakistan,Pakistani police
 O-f20f68a6b1,Pakistan,Pakistani state
 O-f20f68a6b1,Pakistan,Pakistanis
 O-c31ce4e70e,Pakistan Army,Pakistan
-O-c31ce4e70e,Pakistan Army,Pakistan Army
 O-c31ce4e70e,Pakistan Army,Pakistani Army
 O-c31ce4e70e,Pakistan Army,Pakistani government
 O-c31ce4e70e,Pakistan Army,Pakistani military
@@ -2552,9 +3014,11 @@ P-3d30dba2e5,Qari Baryal,Kari Barial
 P-3d30dba2e5,Qari Baryal,Kari Bariel
 P-3d30dba2e5,Qari Baryal,Kariabariel
 P-18b7cf1ac9,Qari Fasihuddin,Fasihuddin Fitrat
-P-18b7cf1ac9,Qari Fasihuddin,Mullah Fasihuddin
 P-2f1b74a023,Qari Hamdullah,Ahmadullah
 P-2f1b74a023,Qari Hamdullah,Carrie Ahmedullah
+P-c2b4692b17,Qari Saifullah Tokhi,Qari Sahab
+P-c2b4692b17,Qari Saifullah Tokhi,Qari Saifullah
+P-c2b4692b17,Qari Saifullah Tokhi,قاري سیف الله توخى
 P-4f5e2a474e,Qari Zia Rahman,Kar-Zya-Raman
 P-4f5e2a474e,Qari Zia Rahman,Kari Zia Rahman
 P-4f5e2a474e,Qari Zia Rahman,Kari Ziyah Raman
@@ -2591,12 +3055,29 @@ P-b89c97e733,Qasim al-Rimi,Rimi
 P-89b4869dd4,Qassem Soleimani,Kassam Soleimani
 P-89b4869dd4,Qassem Soleimani,Klysm Soleimani
 P-89b4869dd4,Qassem Soleimani,Qasem Soleimani
-P-89b4869dd4,Qassem Soleimani,Qassem Soleimani
 O-2e80a68a8a,Qatar,Qatari government
 O-7e853f3655,Qatari government,the Qataris
+P-52452845e4,Qudratullah Jamal,Haji Sahib
+P-52452845e4,Qudratullah Jamal,قدرت الله جمال
 O-5d6e7934e3,Quetta Shura,Ketashura
 O-5d6e7934e3,Quetta Shura,Quetta Shire Council
+P-24d8df1042,Raddulan Sahiron,Commander Putol
+P-24d8df1042,Raddulan Sahiron,Raddulan Sahirun
+P-24d8df1042,Raddulan Sahiron,Radulan Sahiron
+P-24d8df1042,Raddulan Sahiron,Radullan Sahiron
 O-ba3503bead,Radio Television Afghanistan,RTA
+O-32d47407ab,Rahat Ltd.,Haji Muhammad Qasim Sarafi
+O-32d47407ab,Rahat Ltd.,Musa Kalim Hawala
+O-32d47407ab,Rahat Ltd.,New Chagai Trading
+O-32d47407ab,Rahat Ltd.,Rahat Trading Company
+O-32d47407ab,Rahat Ltd.,راحت لمتد
+P-b9c1a0e64b,Rahmatullah Kakazada,Kakazada
+P-b9c1a0e64b,Rahmatullah Kakazada,Mullah Nasir
+P-b9c1a0e64b,Rahmatullah Kakazada,Rehmatullah
+P-b9c1a0e64b,Rahmatullah Kakazada,رحمت الله کاکا زاده
+P-e9bd4c9a9e,Rahmatullah Shah Nawaz,Kari Rahmat
+P-e9bd4c9a9e,Rahmatullah Shah Nawaz,Qari Rahmat
+P-e9bd4c9a9e,Rahmatullah Shah Nawaz,رحمت الله شاه نواز
 P-1153c76b2f,Rajib Karim,Rajiv Karim
 O-f69b29e57c,Rapid Support Forces,RSF
 P-1874810a35,Rashid Rauf,Rashid Ruf
@@ -2616,12 +3097,23 @@ O-4cc87182d8,Rewards for Justice,Rewards for Justice program
 P-d4daa40748,Reyaad Khan,Riyad Khan
 P-d4daa40748,Reyaad Khan,Riyadh Khan
 P-d4daa40748,Reyaad Khan,Ryad Khan
+P-59f74ed28d,Reza Amiri Moghadam,Ahmad Amirinia
+P-33ee775eef,Reza Hamidi Ravari,Akbar Faraji
 P-9003e470f7,Richard Armitage,Dick Armitage
 P-1278df4e2b,Richard Holbrooke,Richard Hallbrook
 P-18f78f3620,Rifai Ahmed Taha,Rifai Ahmed Taha Musa
 P-18f78f3620,Rifai Ahmed Taha,Rifai Taha Ahmed Musa
 P-18f78f3620,Rifai Ahmed Taha,Rufa Taha Ahmed Musa
 P-e6fc75ac2e,Robert Gates,Bob Gates
+O-f270544ebf,Roshan Money Exchange,Ahmad Shah Hawala
+O-f270544ebf,Roshan Money Exchange,Haji Ahmad Shah Hawala
+O-f270544ebf,Roshan Money Exchange,Maulawi Ahmed Shah Hawala
+O-f270544ebf,Roshan Money Exchange,Mullah Ahmed Shah Hawala
+O-f270544ebf,Roshan Money Exchange,Roshan Sarafi
+O-f270544ebf,Roshan Money Exchange,Roshan Shirkat
+O-f270544ebf,Roshan Money Exchange,Roshan Trading Company
+O-f270544ebf,Roshan Money Exchange,Rushaan Trading Company
+O-f270544ebf,Roshan Money Exchange,صرافی روشان
 P-d325c361c1,Roy Grindvis,Roy
 P-0c01e82683,Rudy Giuliani,Giuliani
 P-ef1f53e544,Rukmini Callimachi,Mini Kalamaki
@@ -2637,6 +3129,9 @@ O-d5c3cb401e,Russian government,Kremlin
 O-d5c3cb401e,Russian government,Moscow
 O-d5c3cb401e,Russian government,Russia
 O-d5c3cb401e,Russian government,Russians
+P-65576b5d21,Rustum Hanafi Habibullah,Hanafi Sahib
+P-65576b5d21,Rustum Hanafi Habibullah,Rostam Nuristani
+P-65576b5d21,Rustum Hanafi Habibullah,رستم حنفی حبیب الله
 O-725eeaa95f,SIGAR,Special Inspector General for Afghanistan Reconstruction
 O-cea3055d2a,SITE Intelligence Group,Cite Intelligence Group
 P-71835da534,Saad bin Atef al-Awlaki,Al-Aulaki
@@ -2654,11 +3149,21 @@ P-71835da534,Saad bin Atef al-Awlaki,Saad al-Awlaki
 P-71835da534,Saad bin Atef al-Awlaki,Said bin Nataf Al-Awaki
 P-71835da534,Saad bin Atef al-Awlaki,al-Awlaki
 P-24a23a99e7,Saddam Hussein,Saddam
+P-b9f6924697,Saduddin Sayyed,Sadruddin
+P-b9f6924697,Saduddin Sayyed,Sadudin Sayed
+P-b9f6924697,Saduddin Sayyed,سعد الدين سيد
+P-4bcc0c9def,Saeed Tavakoli,Sardar Ammar
+P-0a47bd6c4d,Said Ahmed Shahidkhel,سيد أحمد شهيد خيل
+P-b14bba9aa5,Saidullah Jan,Abid Khan
+P-b14bba9aa5,Saidullah Jan,سعيدالله جان
 P-7cdd19eb28,Saif al-Adel,Adel
 P-7cdd19eb28,Saif al-Adel,Balaid
 P-7cdd19eb28,Saif al-Adel,Fal-Aid
 P-7cdd19eb28,Saif al-Adel,Fal-Aidl
 P-7cdd19eb28,Saif al-Adel,Falado
+P-7cdd19eb28,Saif al-Adel,Ibrahim Al-Madani
+P-7cdd19eb28,Saif al-Adel,Muhamad Ibrahim Makkawi
+P-7cdd19eb28,Saif al-Adel,Muhamad Salah al-din al-Halim Zaydan
 P-7cdd19eb28,Saif al-Adel,Muhammad Salah al-Din Zeidan
 P-7cdd19eb28,Saif al-Adel,Muhammad Salahedin al-Halim Zindane
 P-7cdd19eb28,Saif al-Adel,Philattle
@@ -2741,6 +3246,7 @@ P-7cdd19eb28,Saif al-Adel,Say Paladal
 P-7cdd19eb28,Saif al-Adel,Say if Alva
 P-7cdd19eb28,Saif al-Adel,"Say, Val Ato"
 P-7cdd19eb28,Saif al-Adel,Sef al-Aidl
+P-7cdd19eb28,Saif al-Adel,Seif Al Adel
 P-7cdd19eb28,Saif al-Adel,Seif Al-Adle
 P-7cdd19eb28,Saif al-Adel,Seif Al-Aidl
 P-7cdd19eb28,Saif al-Adel,Seif al-Adle
@@ -2772,19 +3278,33 @@ P-7cdd19eb28,Saif al-Adel,safety Falado
 P-7cdd19eb28,Saif al-Adel,say Fal-Aid al
 P-7cdd19eb28,Saif al-Adel,seyffaladles
 P-7cdd19eb28,Saif al-Adel,sipholato
+P-8680adbfb6,Sajid Mir,"""Ibrahim"""
+P-8680adbfb6,Sajid Mir,"""Wasi"""
+P-8680adbfb6,Sajid Mir,Ali Bhai
+P-8680adbfb6,Sajid Mir,Bhai Ali
+P-8680adbfb6,Sajid Mir,Bhai Moosa
+P-8680adbfb6,Sajid Mir,Ibrahim Shah
 P-8680adbfb6,Sajid Mir,Mir
+P-8680adbfb6,Sajid Mir,Moosa Bhai
+P-8680adbfb6,Sajid Mir,Sajid	 Majeed
 P-8680adbfb6,Sajid Mir,Sajid Mere
+P-8680adbfb6,Sajid Mir,Sajjid Mir
+P-8680adbfb6,Sajid Mir,Wasi Bhai
+P-8680adbfb6,Sajid Mir,Wasi Ibrahim
+P-8680adbfb6,Sajid Mir,“Khalid”
+P-8680adbfb6,Sajid Mir,“Vashibhai”
+P-8680adbfb6,Sajid Mir,“Vashi”
 O-f5e15b256e,Salafist Group for Preaching and Combat,GSPC
 O-61037e2563,Salafist Group for Preaching and Combat (GSPC),GSP
 O-61037e2563,Salafist Group for Preaching and Combat (GSPC),GSPC
 O-61037e2563,Salafist Group for Preaching and Combat (GSPC),Salafist Group for Preaching and Combat
+P-136e41e3c4,Saleh Mohammad Kakar Akhtar Muhammad,Saleh Mohammad
+P-136e41e3c4,Saleh Mohammad Kakar Akhtar Muhammad,ﺻﺍﻠﺡ ﻤﺣﻤﺩ ﻛﺍﻛﺭ اختر محمد
 P-5f5e254270,Sami Jasim al-Jaburi,Al-Jaburi
 P-5f5e254270,Sami Jasim al-Jaburi,Samuel Gibori
 P-5f5e254270,Sami Jasim al-Jaburi,Samuel Jabori
 P-5f5e254270,Sami Jasim al-Jaburi,Samuel Jaburi
 P-5f5e254270,Sami Jasim al-Jaburi,Samuel al-Jaburi
-P-10466e450b,Sami Sadat,General Sami Sadat
-P-10466e450b,Sami Sadat,Lieutenant General Sami Sadat
 P-10466e450b,Sami Sadat,Lieutenant General Sammy Sadat
 P-10466e450b,Sami Sadat,Sam Lee Sadat
 P-10466e450b,Sami Sadat,Sami Siddat
@@ -2824,38 +3344,68 @@ P-9a368bed82,Sara Harmouch,Sarah Hodder-Much
 O-6bbdf0eb17,Saudi Arabia,Saudi government
 O-03a38e5df4,Saudi government,the Saudis
 O-6c7a845376,Saudi/UAE-led Arab coalition,Arab-led coalition
+P-5399ed1e08,Sayed Esmatullah Asem Abdul Quddus,Asmatullah Asem
+P-5399ed1e08,Sayed Esmatullah Asem Abdul Quddus,Esmatullah Asem
+P-5399ed1e08,Sayed Esmatullah Asem Abdul Quddus,Sayed Esmatullah Asem
+P-5399ed1e08,Sayed Esmatullah Asem Abdul Quddus,سید عصمت الله عاصم عبد القدوس
+P-b800fa5ff8,Sayed Mohammad Azim Agha,Agha Saheb
+P-b800fa5ff8,Sayed Mohammad Azim Agha,سید محمد عظیم ﺁغا
+P-7e5276e807,Sayyed Ghiassouddine Agha,Sayed Ghias
+P-7e5276e807,Sayyed Ghiassouddine Agha,Sayed Ghiasuddin Sayed Ghousuddin
+P-7e5276e807,Sayyed Ghiassouddine Agha,Sayyed Ghayasudin
+P-7e5276e807,Sayyed Ghiassouddine Agha,سيد غیاث الدین آغا
+P-330577243f,Sayyed Mohammed Haqqani,Sayyed Mohammad Haqqani
+P-330577243f,Sayyed Mohammed Haqqani,سيد محمد حقانی
 P-5f68796a9d,Scott Miller,General Miller
 P-5f68796a9d,Scott Miller,General Scottie Miller
 O-ee9255aebf,Senate Select Committee on Intelligence,Senate intelligence committee
+P-fcb4c3ed12,Seyed Yahya Hosseiny Panjaki,Seyed Yahya Hamidi
 O-a039a6198e,Shabaab,AQ in Somalia
 O-a039a6198e,Shabaab,Al-Shabaam
 O-a039a6198e,Shabaab,El Shabab
 O-a039a6198e,Shabaab,Shab
-O-a039a6198e,Shabaab,Shabaab
 O-a039a6198e,Shabaab,Shabab
 O-a039a6198e,Shabaab,Shababab
 O-a039a6198e,Shabaab,Shabah
 O-a039a6198e,Shabaab,Shabh
 O-a039a6198e,Shabaab,Shabob
 O-a039a6198e,Shabaab,al-Qaeda in East Africa
-O-a039a6198e,Shabaab,al-Shabaab
 O-a039a6198e,Shabaab,subabs (garbled)
+P-91ecbe36c5,Shahabuddin Delawar,شهاب الدين دلاور
+P-d5a05331ad,Shams ur-Rahman Abdul Zahir,Shams ur-Rahman Sher Alam
+P-d5a05331ad,Shams ur-Rahman Abdul Zahir,Shams-u-Rahman
+P-d5a05331ad,Shams ur-Rahman Abdul Zahir,Shamsurrahman
+P-d5a05331ad,Shams ur-Rahman Abdul Zahir,Shamsurrahman Abdurahman
+P-d5a05331ad,Shams ur-Rahman Abdul Zahir,شمس الرحمن عبد الظاهر
+P-d508ffaf6e,Shamsuddin,Pahlawan Shamsuddin
+P-d508ffaf6e,Shamsuddin,شمس الدین
 O-08eadd3d29,Shanghai Cooperation Organisation Regional Anti-Terrorist Structure,SCO RATS
 P-812604c7ea,Sheikh Abdul Rahman,Sheikh Abdul-Rakhman
+P-c60de63144,Sher Mohammad Abbas Stanikzai,SHER MOHAMMAD ABBAS STANEKZAI PADSHAH KHAN
 P-c60de63144,Sher Mohammad Abbas Stanikzai,Stanek Zai
 P-c60de63144,Sher Mohammad Abbas Stanikzai,Stanikzai
 P-c60de63144,Sher Mohammad Abbas Stanikzai,Stanix-I
+P-c60de63144,Sher Mohammad Abbas Stanikzai,شیر محمد عباس استانکزی پادشاه خان
 P-ed46bc5050,Shuja Jamal,Shudja Jamal
+P-0cfdd63b7d,Sirajuddin Haqqani,ABDUL SATAR ABDULLAH
+P-0cfdd63b7d,Sirajuddin Haqqani,Ahmed Zia
 P-0cfdd63b7d,Sirajuddin Haqqani,Akani
 P-0cfdd63b7d,Sirajuddin Haqqani,Akhani
+P-0cfdd63b7d,Sirajuddin Haqqani,Arkani
+P-0cfdd63b7d,Sirajuddin Haqqani,Cirodjiddin
 P-0cfdd63b7d,Sirajuddin Haqqani,Hacani
 P-0cfdd63b7d,Sirajuddin Haqqani,Hacqani
 P-0cfdd63b7d,Sirajuddin Haqqani,Haji Sirajuddin
 P-0cfdd63b7d,Sirajuddin Haqqani,Hakani
 P-0cfdd63b7d,Sirajuddin Haqqani,Hakani Sarajuddin
+P-0cfdd63b7d,Sirajuddin Haqqani,Halifa
 P-0cfdd63b7d,Sirajuddin Haqqani,Haqani
 P-0cfdd63b7d,Sirajuddin Haqqani,Harajudan Haqqqani
+P-0cfdd63b7d,Sirajuddin Haqqani,Khalifa
+P-0cfdd63b7d,Sirajuddin Haqqani,Khalifa (Boss) Shahib
+P-0cfdd63b7d,Sirajuddin Haqqani,Mohammad Siraj
 P-0cfdd63b7d,Sirajuddin Haqqani,Rajah County
+P-0cfdd63b7d,Sirajuddin Haqqani,SIRAJUDDIN JALLALOUDINE HAQQANI
 P-0cfdd63b7d,Sirajuddin Haqqani,Sarah John and Hukuni
 P-0cfdd63b7d,Sirajuddin Haqqani,Sarah Juden Hacani
 P-0cfdd63b7d,Sirajuddin Haqqani,Sarah Juden a Connie
@@ -2867,6 +3417,7 @@ P-0cfdd63b7d,Sirajuddin Haqqani,Saraj
 P-0cfdd63b7d,Sirajuddin Haqqani,Saraj Akani
 P-0cfdd63b7d,Sirajuddin Haqqani,Saraj Akhani
 P-0cfdd63b7d,Sirajuddin Haqqani,Saraj Akkadini
+P-0cfdd63b7d,Sirajuddin Haqqani,Saraj Haqani
 P-0cfdd63b7d,Sirajuddin Haqqani,Saraj Haqqani
 P-0cfdd63b7d,Sirajuddin Haqqani,Saraj Khan
 P-0cfdd63b7d,Sirajuddin Haqqani,Saraj Khani
@@ -2878,6 +3429,7 @@ P-0cfdd63b7d,Sirajuddin Haqqani,Saraja Dean Hacconi
 P-0cfdd63b7d,Sirajuddin Haqqani,Sarajaddin Hakani
 P-0cfdd63b7d,Sirajuddin Haqqani,Sarajaddin Hakkani
 P-0cfdd63b7d,Sirajuddin Haqqani,Sarajaddin Haqqqani
+P-0cfdd63b7d,Sirajuddin Haqqani,Sarajadin
 P-0cfdd63b7d,Sirajuddin Haqqani,Sarajadine Hakani
 P-0cfdd63b7d,Sirajuddin Haqqani,Sarajakhani
 P-0cfdd63b7d,Sirajuddin Haqqani,Sarajan Akani
@@ -2907,6 +3459,8 @@ P-0cfdd63b7d,Sirajuddin Haqqani,Sarjean Hakani
 P-0cfdd63b7d,Sirajuddin Haqqani,Sarjouin
 P-0cfdd63b7d,Sirajuddin Haqqani,Sarjudh Nakani
 P-0cfdd63b7d,Sirajuddin Haqqani,Sarjun Haqani
+P-0cfdd63b7d,Sirajuddin Haqqani,Seraj
+P-0cfdd63b7d,Sirajuddin Haqqani,Serajuddin Haqani
 P-0cfdd63b7d,Sirajuddin Haqqani,Sergeant hecani
 P-0cfdd63b7d,Sirajuddin Haqqani,Serjan Nakani
 P-0cfdd63b7d,Sirajuddin Haqqani,Serjean Khani
@@ -2936,6 +3490,7 @@ P-0cfdd63b7d,Sirajuddin Haqqani,Siraj Akkad
 P-0cfdd63b7d,Sirajuddin Haqqani,Siraj Dina Hacani
 P-0cfdd63b7d,Sirajuddin Haqqani,Siraj Dine
 P-0cfdd63b7d,Sirajuddin Haqqani,Siraj Hakani
+P-0cfdd63b7d,Sirajuddin Haqqani,Siraj Haqani
 P-0cfdd63b7d,Sirajuddin Haqqani,Siraj Haqqani
 P-0cfdd63b7d,Sirajuddin Haqqani,Siraj Khani
 P-0cfdd63b7d,Sirajuddin Haqqani,Siraj O'Connie
@@ -2948,6 +3503,7 @@ P-0cfdd63b7d,Sirajuddin Haqqani,Sirajideen
 P-0cfdd63b7d,Sirajuddin Haqqani,Sirajud and Haqani
 P-0cfdd63b7d,Sirajuddin Haqqani,Sirajuddin Akhani
 P-0cfdd63b7d,Sirajuddin Haqqani,Sirajuddin Hakani
+P-0cfdd63b7d,Sirajuddin Haqqani,Sirajuddin Jallaloudine Haqqani
 P-0cfdd63b7d,Sirajuddin Haqqani,Sirajun Hakani
 P-0cfdd63b7d,Sirajuddin Haqqani,Sirajun Haqani
 P-0cfdd63b7d,Sirajuddin Haqqani,Sirajun Haqqani
@@ -2958,6 +3514,7 @@ P-0cfdd63b7d,Sirajuddin Haqqani,Surajud Haqani
 P-0cfdd63b7d,Sirajuddin Haqqani,Surajun
 P-0cfdd63b7d,Sirajuddin Haqqani,Syriuddin Hakani
 P-0cfdd63b7d,Sirajuddin Haqqani,Zerajikani
+P-0cfdd63b7d,Sirajuddin Haqqani,سراج الدين جلال الدين حقانى
 O-f30d2c93dd,Small Gaza AQ-affiliated group,"J. Sha'uuma (transcript spelling, uncertain)"
 P-7bd43fb2ef,Sohrab Azimi,Saurabazimi
 P-7bd43fb2ef,Sohrab Azimi,Sora Abizimi
@@ -3013,6 +3570,8 @@ O-a6119f6ad9,TAAC-South,Train Advise Assist Command-South
 O-16af7f7697,TNSM,Tehreek-e-Nafaz-e-Shariat-e-Mohammadi
 P-66f8c9600a,Tadin Khan,General Zeke's brother
 P-66f8c9600a,Tadin Khan,Raseek brothers
+P-a354c74bf0,Taghi Daneshvar,Sayyed Taghi Gha'emi
+P-a354c74bf0,Taghi Daneshvar,Sayyed Taghi Ghaemi
 P-70b9603be3,Tahir Yuldashev,Tihir Yulashv
 P-70b9603be3,Tahir Yuldashev,Yul Dishav
 O-1bb3d0fcf7,Tajikistan,Tajik government
@@ -3031,7 +3590,6 @@ O-03898888bd,Taliban,Kalaband
 O-03898888bd,Taliban,Kandahar Taliban
 O-03898888bd,Taliban,Kandahari Taliban
 O-03898888bd,Taliban,Palavan
-O-03898888bd,Taliban,Taliban
 O-03898888bd,Taliban,Taliban 2.0
 O-03898888bd,Taliban,Taliban Inc.
 O-03898888bd,Taliban,Taliban government
@@ -3073,7 +3631,6 @@ O-c61aaaee0a,Tehrik-i-Taliban Pakistan,Tariqa Taliban Pakistan
 O-c61aaaee0a,Tehrik-i-Taliban Pakistan,Tehrik-e Taliban Pakistan
 O-c61aaaee0a,Tehrik-i-Taliban Pakistan,Tehrik-e-Taliban Pakistan
 O-c61aaaee0a,Tehrik-i-Taliban Pakistan,Tehrik-e-Taliban Pakistan (TTP)
-O-c61aaaee0a,Tehrik-i-Taliban Pakistan,Tehrik-i-Taliban Pakistan
 O-c61aaaee0a,Tehrik-i-Taliban Pakistan,bad Taliban
 O-c61aaaee0a,Tehrik-i-Taliban Pakistan,movement of the Taliban Pakistan
 O-c61aaaee0a,Tehrik-i-Taliban Pakistan,movement of the Taliban and Pakistan
@@ -3081,10 +3638,14 @@ O-c61aaaee0a,Tehrik-i-Taliban Pakistan,movement of the Taliban in Pakistan
 O-c61aaaee0a,Tehrik-i-Taliban Pakistan,the movement of the Taliban in Pakistan
 P-1a24e24fb5,Thomas Gibbons-Neff,Gimmons Neff
 P-1a24e24fb5,Thomas Gibbons-Neff,Neff
-P-1a24e24fb5,Thomas Gibbons-Neff,Thomas Gibbons Neff
 O-5919c90a9b,Thubot media,Thabat
 P-138411c6ee,Tom Cotton,Senator Tom Cotton
 P-5fb8e957a1,Tore Hamming,Torahamming
+P-d6855c9703,Torek Agha,Sayed Mohammed Hashan
+P-d6855c9703,Torek Agha,Torak Agha
+P-d6855c9703,Torek Agha,Toriq Agha
+P-d6855c9703,Torek Agha,Toriq Agha Sayed
+P-d6855c9703,Torek Agha,تورک آغا
 P-dd81c7c029,Tracey Jacobson,Tracy Jacobson
 O-3d3ba270cf,Transatlantic Intelligence Consortium,TIC
 O-3d3ba270cf,Transatlantic Intelligence Consortium,Transatlantic Intelligence Council
@@ -3139,11 +3700,9 @@ O-e08247748c,UN Monitoring Team,U.N. monitoring team
 O-e08247748c,UN Monitoring Team,UN
 O-e08247748c,UN Monitoring Team,UN Analytical Support and Sanctions Monitoring Team
 O-e08247748c,UN Monitoring Team,UN Analytical Support and Sanctions Monitoring Team (Monitoring Team)
-O-e08247748c,UN Monitoring Team,UN Monitoring Team
 O-e08247748c,UN Monitoring Team,UN Security Council Analytical Support and Sanctions Monitoring Team
 O-e08247748c,UN Monitoring Team,UN Security Council Monitoring Team
 O-e08247748c,UN Monitoring Team,UN analytical support and sanctions monitoring team
-O-e08247748c,UN Monitoring Team,UN monitoring team
 O-e08247748c,UN Monitoring Team,UN sanctions monitoring team
 O-e08247748c,UN Monitoring Team,United Nations Monitoring Team
 O-e08247748c,UN Monitoring Team,monitoring team
@@ -3215,6 +3774,9 @@ O-ba6a4003b3,US forces,US Special Operations Forces
 O-ba6a4003b3,US forces,US generals
 O-ba6a4003b3,US forces,US military
 O-ba6a4003b3,US forces,United States
+P-5161cbe640,Ubaidullah Akhund Yar Mohammad Akhund,Obaid Ullah Akhund
+P-5161cbe640,Ubaidullah Akhund Yar Mohammad Akhund,Obaidullah Akhund
+P-5161cbe640,Ubaidullah Akhund Yar Mohammad Akhund,عبیدالله آخوند یار محمد آخوند
 O-9360037614,Ukrainian government,Ukraine
 P-b6e04f2293,Umar Farouk Abdulmutallab,Abdul Matalb
 P-b6e04f2293,Umar Farouk Abdulmutallab,Umar Faruq Abdulmatalab
@@ -3253,7 +3815,6 @@ O-bf8c8b2e18,United States,US Special Forces
 O-bf8c8b2e18,United States,US government
 O-bf8c8b2e18,United States,US intelligence and counterterrorism officials
 O-bf8c8b2e18,United States,US military
-O-bf8c8b2e18,United States,United States
 O-bf8c8b2e18,United States,United States Government
 O-bf8c8b2e18,United States,United States government
 O-c2aac6168e,United States Department of Defense,Pentagon
@@ -3270,6 +3831,11 @@ P-434c30630a,Victoria Nuland,Victoria Newland
 P-4eb8c3b52c,Vladimir Putin,Putin
 P-feca043d8a,Vladimir Voronkov,Mr. Voronkov
 O-9ac96be316,Voice of America,VOA
+P-ac4408d3fc,Wadoud Muhammad Hafiz al-Turki,Bou Baker Muhammad
+P-ac4408d3fc,Wadoud Muhammad Hafiz al-Turki,Salman Ali El Turki
+P-ac4408d3fc,Wadoud Muhammad Hafiz al-Turki,Sliman Ali Ahmad El Turki
+P-ac4408d3fc,Wadoud Muhammad Hafiz al-Turki,Sulaiman Alturki
+P-ac4408d3fc,Wadoud Muhammad Hafiz al-Turki,Sulaiman Turki
 O-71fe1321b5,Wagner Group,Africa Corps
 O-71fe1321b5,Wagner Group,Fogna Group
 O-71fe1321b5,Wagner Group,Russia
@@ -3278,7 +3844,7 @@ O-71fe1321b5,Wagner Group,Russian Wagner group
 O-71fe1321b5,Wagner Group,Russian mercenaries
 O-71fe1321b5,Wagner Group,Russians
 O-71fe1321b5,Wagner Group,Vagner
-O-71fe1321b5,Wagner Group,Wagner
+P-ba43d105a5,Walijan,ولی جان
 P-2e8fa033f0,Will Selber,Captain Selber
 P-2e8fa033f0,Will Selber,Captain Will Selber
 P-2e8fa033f0,Will Selber,Will Selberg
@@ -3288,11 +3854,14 @@ P-ceb8c0596a,William Burns,CIA director William Burns
 P-8db43f3cce,William Shawcross,short cross
 P-8db43f3cce,William Shawcross,sure cross
 P-df1db1e819,Xi Jinping,Xi
+P-295b42d596,Yahya Haqqani,Qari Sahab
+P-295b42d596,Yahya Haqqani,Yaya
 P-295b42d596,Yahya Haqqani,Yaya Hakani
+P-295b42d596,Yahya Haqqani,يحيى حقانی
 P-4b3c2effa2,Yahya Sinwar,Sinwar
 P-4b3c2effa2,Yahya Sinwar,Yachia Sinwa
 P-4b3c2effa2,Yahya Sinwar,Yachshin-War
-P-0825b8d80e,Yasin Zia,Dr. Yasin Zia
+P-2feb6876b7,Yar Mohammad Rahimi,یار محمد رحیمی
 P-0825b8d80e,Yasin Zia,Dr. Yossin Zia
 P-0825b8d80e,Yasin Zia,Dr. Zia
 P-0825b8d80e,Yasin Zia,General Yassan Zia
@@ -3423,22 +3992,23 @@ P-4e12469aee,Zalmay Khalilzad,Zao
 P-4e12469aee,Zalmay Khalilzad,Zau
 P-4e12469aee,Zalmay Khalilzad,Zelle
 P-4e12469aee,Zalmay Khalilzad,Zelmei-Klilazot
+P-3d0134e61a,Zia-Ur-Rahman Madani,Diya’ al-Rahman Madani
+P-3d0134e61a,Zia-Ur-Rahman Madani,Madani Saheb
+P-3d0134e61a,Zia-Ur-Rahman Madani,Zaia u Rahman Madani
+P-3d0134e61a,Zia-Ur-Rahman Madani,Ziaurrahman Madani
+P-3d0134e61a,Zia-Ur-Rahman Madani,ضیا الرحمان مدنی
 P-820113c570,Zohran Mamdani,Mamdani
 O-242628edee,al-Aqsa Martyrs Brigades,al-Marder's brigades
-O-43351dcd42,al-Islah,Islah
 O-64acda4994,al-Naba,Al-Naba newsletter
 O-64acda4994,al-Naba,Al-Nava
-O-64acda4994,al-Naba,El Naba
 O-c74761bdcd,al-Qaeda,AQ
 O-c74761bdcd,al-Qaeda,AQ central leadership
 O-c74761bdcd,al-Qaeda,AQ core
 O-c74761bdcd,al-Qaeda,AQ senior leadership
 O-c74761bdcd,al-Qaeda,AQSL
-O-c74761bdcd,al-Qaeda,Al Qaeda
 O-c74761bdcd,al-Qaeda,Al Qaeda Central Command
 O-c74761bdcd,al-Qaeda,Al Qaeda command structure
 O-c74761bdcd,al-Qaeda,Al Qaeda senior leadership
-O-c74761bdcd,al-Qaeda,Al-Qaeda
 O-c74761bdcd,al-Qaeda,Al-Qaeda Central
 O-c74761bdcd,al-Qaeda,Al-Qaeda Core
 O-c74761bdcd,al-Qaeda,Al-Qaeda Corps
@@ -3454,7 +4024,6 @@ O-c74761bdcd,al-Qaeda,Heiata
 O-c74761bdcd,al-Qaeda,Kida
 O-c74761bdcd,al-Qaeda,Okai
 O-c74761bdcd,al-Qaeda,Qaidat al-Jihad
-O-c74761bdcd,al-Qaeda,al Qaeda
 O-c74761bdcd,al-Qaeda,al-Qaeda Central
 O-c74761bdcd,al-Qaeda,al-Qaeda General Command
 O-c74761bdcd,al-Qaeda,al-Qaeda Shura
@@ -3483,24 +4052,18 @@ O-9bb6536200,al-Qaeda in the Arabian Peninsula,AKAP
 O-9bb6536200,al-Qaeda in the Arabian Peninsula,AKP
 O-9bb6536200,al-Qaeda in the Arabian Peninsula,AQAP
 O-9bb6536200,al-Qaeda in the Arabian Peninsula,AQAPE
-O-9bb6536200,al-Qaeda in the Arabian Peninsula,Al Qaeda in the Arabian Peninsula
 O-9bb6536200,al-Qaeda in the Arabian Peninsula,Al Qaeda in the Arabian Peninsula (AQAP)
 O-9bb6536200,al-Qaeda in the Arabian Peninsula,Al-Qaeda Indian Peninsula
-O-9bb6536200,al-Qaeda in the Arabian Peninsula,Al-Qaeda in the Arabian Peninsula
 O-9bb6536200,al-Qaeda in the Arabian Peninsula,EQAP
 O-9bb6536200,al-Qaeda in the Arabian Peninsula,H-UAP
 O-9bb6536200,al-Qaeda in the Arabian Peninsula,HUAP
 O-9bb6536200,al-Qaeda in the Arabian Peninsula,a QAP
-O-9bb6536200,al-Qaeda in the Arabian Peninsula,al-Qaeda in the Arabian Peninsula
 O-9bb6536200,al-Qaeda in the Arabian Peninsula,al-Qaeda in the Arabian Peninsula (AQAP)
 O-9bb6536200,al-Qaeda in the Arabian Peninsula,aquap
 O-6e8004155e,al-Qaeda in the Indian Subcontinent,AQAS
 O-6e8004155e,al-Qaeda in the Indian Subcontinent,AQIS
-O-6e8004155e,al-Qaeda in the Indian Subcontinent,Al Qaeda in the Indian Subcontinent
-O-6e8004155e,al-Qaeda in the Indian Subcontinent,Al-Qaeda in the Indian Subcontinent
 O-6e8004155e,al-Qaeda in the Indian Subcontinent,EQIS
 O-6e8004155e,al-Qaeda in the Indian Subcontinent,al-Qaeda for the Indian subcontinent
-O-6e8004155e,al-Qaeda in the Indian Subcontinent,al-Qaeda in the Indian Subcontinent
 O-6e8004155e,al-Qaeda in the Indian Subcontinent,al-Qaeda in the Indian Subcontinent (AQIS)
 O-1613d226ee,al-Qaeda in the Indian Subcontinent (AQIS),AQAS
 O-1613d226ee,al-Qaeda in the Indian Subcontinent (AQIS),AQIS
@@ -3517,7 +4080,6 @@ O-d2560fb641,al-Qaeda in the Islamic Maghreb (AQIM),AQI-M
 O-d2560fb641,al-Qaeda in the Islamic Maghreb (AQIM),AQI.M
 O-d2560fb641,al-Qaeda in the Islamic Maghreb (AQIM),AQIM
 O-d2560fb641,al-Qaeda in the Islamic Maghreb (AQIM),Al Qaeda in the Islamic Maghreb
-O-d2560fb641,al-Qaeda in the Islamic Maghreb (AQIM),Al Qaeda in the Islamic Maghreb (AQIM)
 O-d2560fb641,al-Qaeda in the Islamic Maghreb (AQIM),aQIM
 O-58428b36fc,al-Qaeda military committee,military commission
 O-58428b36fc,al-Qaeda military committee,military committee
