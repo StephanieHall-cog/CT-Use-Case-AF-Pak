@@ -2471,13 +2471,13 @@
 "country": null
 },
 {
-"id": "P-e99e14c247",
+"id": "P-65308aa414",
 "kind": "person",
-"name": "John Nicholson",
+"name": "John W. Nicholson",
 "dataset": "real",
 "role": "former commander of US forces in Afghanistan",
 "status": "alive",
-"n_episodes": 11,
+"n_episodes": 12,
 "country": null
 },
 {
@@ -4917,7 +4917,7 @@
 "dataset": "real",
 "role": "Yemeni cleric, al-Iman University founder, designated by the US in 2004, bin Laden mentor",
 "status": "alive",
-"n_episodes": 1,
+"n_episodes": 2,
 "country": null
 },
 {
@@ -5791,16 +5791,6 @@
 "country": null
 },
 {
-"id": "P-d800a2e730",
-"kind": "person",
-"name": "Bush administration",
-"dataset": "real",
-"role": null,
-"status": null,
-"n_episodes": 1,
-"country": null
-},
-{
 "id": "L-e77dbbb24c",
 "kind": "place",
 "name": "Russia (detained mid-1990s)",
@@ -6086,16 +6076,6 @@
 "name": "Patrick Meegan",
 "dataset": "real",
 "role": "Former Foundation for Defense of Democracies colleague of Bill Roggio; co-mapped ISAF raids in May 2014",
-"status": "alive",
-"n_episodes": 1,
-"country": null
-},
-{
-"id": "P-65308aa414",
-"kind": "person",
-"name": "John W. Nicholson",
-"dataset": "real",
-"role": "Commander of Resolute Support and U.S. Forces Afghanistan (2016)",
 "status": "alive",
 "n_episodes": 1,
 "country": null
@@ -8227,7 +8207,7 @@
 "dataset": "real",
 "role": "Guest; Pakistan's ambassador to the United States Apr 2008–Nov 2011; senior fellow and director for South and Central Asia, Hudson Institute; co-editor of Current Trends in Islamist Ideology",
 "status": "alive",
-"n_episodes": 1,
+"n_episodes": 2,
 "country": null
 },
 {
@@ -9856,16 +9836,6 @@
 "name": "Sami al-Raddi",
 "dataset": "real",
 "role": "Al-Qaeda ideologue in Syria and senior commander of Hurras al-Din; US-designated",
-"status": "alive",
-"n_episodes": 1,
-"country": null
-},
-{
-"id": "P-1739f16f4d",
-"kind": "person",
-"name": "Hussain Haqqani",
-"dataset": "real",
-"role": "Former Pakistani ambassador to the US; critic of the Pakistani government",
 "status": "alive",
 "n_episodes": 1,
 "country": null
@@ -14756,16 +14726,6 @@
 "name": "Charles Farr",
 "dataset": "real",
 "role": "Senior UK Home Office official who co-authored the Muslim Brotherhood Review",
-"status": "dead",
-"n_episodes": 1,
-"country": null
-},
-{
-"id": "P-42de8b6653",
-"kind": "person",
-"name": "Abdul Majeed al-Zindani",
-"dataset": "real",
-"role": "Yemeni Islah/Muslim Brotherhood figure designated for al-Qaeda ties; died a couple of years ago",
 "status": "dead",
 "n_episodes": 1,
 "country": null
@@ -39138,17 +39098,6 @@
 "detail": "Dunford led US forces in Afghanistan and then became Chairman of the Joint Chiefs."
 },
 {
-"source": "P-1739f16f4d",
-"target": "O-c1d786cb0f",
-"type": "other",
-"n": 1,
-"episodes": [
-92
-],
-"confidence": "stated",
-"detail": "Haqqani, a former ambassador, says Pakistan prioritizes strategic depth in Afghanistan over its citizens' welfare."
-},
-{
 "source": "P-17b7aa55e2",
 "target": "O-455195f939",
 "type": "member_of",
@@ -40276,6 +40225,17 @@
 "detail": "Credited with finding the Corpus Christi shooter's accounts."
 },
 {
+"source": "P-2f75131585",
+"target": "O-43351dcd42",
+"type": "member_of",
+"n": 1,
+"episodes": [
+321
+],
+"confidence": "inferred",
+"detail": "Islah figure who was effectively al-Qaeda and US-designated"
+},
+{
 "source": "P-300d3cc188",
 "target": "O-61fa3002f5",
 "type": "leads",
@@ -41000,17 +40960,6 @@
 ],
 "confidence": "stated",
 "detail": "Razik had a feud with the Noorzai over smuggling access across the border."
-},
-{
-"source": "P-42de8b6653",
-"target": "O-43351dcd42",
-"type": "member_of",
-"n": 1,
-"episodes": [
-321
-],
-"confidence": "inferred",
-"detail": "Islah figure who was effectively al-Qaeda and US-designated"
 },
 {
 "source": "P-43508e00ed",
@@ -42224,6 +42173,40 @@
 },
 {
 "source": "P-65308aa414",
+"target": "O-31ddb87a33",
+"type": "leads",
+"n": 2,
+"episodes": [
+53,
+79
+],
+"confidence": "stated",
+"detail": "Nicholson was commander of Resolute Support and US Forces Afghanistan in 2017."
+},
+{
+"source": "P-65308aa414",
+"target": "O-a164f4e126",
+"type": "member_of",
+"n": 1,
+"episodes": [
+124
+],
+"confidence": "stated",
+"detail": "Nicholson is now Lockheed Martin Middle East chief executive."
+},
+{
+"source": "P-65308aa414",
+"target": "O-a53d7af511",
+"type": "other",
+"n": 1,
+"episodes": [
+22
+],
+"confidence": "stated",
+"detail": "In 2018 he attributed the Interior Ministry attack to the Taliban or Haqqanis, though ISIS then claimed it."
+},
+{
+"source": "P-65308aa414",
 "target": "O-f7222bb9d2",
 "type": "leads",
 "n": 1,
@@ -42232,6 +42215,17 @@
 ],
 "confidence": "stated",
 "detail": "Commanded Resolute Support and USFOR-A."
+},
+{
+"source": "P-65308aa414",
+"target": "P-700e58c82e",
+"type": "met_with",
+"n": 1,
+"episodes": [
+124
+],
+"confidence": "stated",
+"detail": "Nicholson testified to McCain on stalemate and Taliban gains."
 },
 {
 "source": "P-663dda86cf",
@@ -44574,6 +44568,17 @@
 "detail": "Senior fellow and director for South and Central Asia."
 },
 {
+"source": "P-b18c648762",
+"target": "O-c1d786cb0f",
+"type": "other",
+"n": 1,
+"episodes": [
+92
+],
+"confidence": "stated",
+"detail": "Haqqani, a former ambassador, says Pakistan prioritizes strategic depth in Afghanistan over its citizens' welfare."
+},
+{
 "source": "P-b192dade05",
 "target": "O-c2b5842706",
 "type": "allied_with",
@@ -46701,51 +46706,6 @@
 "detail": "Leader of JNIM, 'al-Qaeda's man in the Sahel'"
 },
 {
-"source": "P-e99e14c247",
-"target": "O-31ddb87a33",
-"type": "leads",
-"n": 2,
-"episodes": [
-53,
-79
-],
-"confidence": "stated",
-"detail": "Nicholson was commander of Resolute Support and US Forces Afghanistan in 2017."
-},
-{
-"source": "P-e99e14c247",
-"target": "O-a164f4e126",
-"type": "member_of",
-"n": 1,
-"episodes": [
-124
-],
-"confidence": "stated",
-"detail": "Nicholson is now Lockheed Martin Middle East chief executive."
-},
-{
-"source": "P-e99e14c247",
-"target": "O-a53d7af511",
-"type": "other",
-"n": 1,
-"episodes": [
-22
-],
-"confidence": "stated",
-"detail": "In 2018 he attributed the Interior Ministry attack to the Taliban or Haqqanis, though ISIS then claimed it."
-},
-{
-"source": "P-e99e14c247",
-"target": "P-700e58c82e",
-"type": "met_with",
-"n": 1,
-"episodes": [
-124
-],
-"confidence": "stated",
-"detail": "Nicholson testified to McCain on stalemate and Taliban gains."
-},
-{
 "source": "P-eb9329586f",
 "target": "O-067c5404d9",
 "type": "leads",
@@ -46980,6 +46940,19 @@
 },
 {
 "source": "P-f3725b3f90",
+"target": "P-65308aa414",
+"type": "succeeded",
+"n": 3,
+"episodes": [
+53,
+56,
+79
+],
+"confidence": "inferred",
+"detail": "Miller succeeded Nicholson as commander."
+},
+{
+"source": "P-f3725b3f90",
 "target": "P-ab0f38bf7f",
 "type": "reports_to",
 "n": 1,
@@ -46999,19 +46972,6 @@
 ],
 "confidence": "stated",
 "detail": "derived:person.family — son (unnamed son (serving in the military, received calls during the withdrawal) is son of Austin Scott Miller)"
-},
-{
-"source": "P-f3725b3f90",
-"target": "P-e99e14c247",
-"type": "succeeded",
-"n": 3,
-"episodes": [
-53,
-56,
-79
-],
-"confidence": "inferred",
-"detail": "Miller succeeded Nicholson as commander."
 },
 {
 "source": "P-f438dbe9c2",
@@ -49737,6 +49697,28 @@
 },
 {
 "source": "P-2f75131585",
+"target": "O-43351dcd42",
+"type": "member_of",
+"n": 1,
+"episodes": [
+321
+],
+"confidence": "stated",
+"detail": null
+},
+{
+"source": "P-2f75131585",
+"target": "O-c74761bdcd",
+"type": "member_of",
+"n": 1,
+"episodes": [
+321
+],
+"confidence": "stated",
+"detail": null
+},
+{
+"source": "P-2f75131585",
 "target": "O-def52bfe83",
 "type": "member_of",
 "n": 1,
@@ -50345,28 +50327,6 @@
 "n": 1,
 "episodes": [
 124
-],
-"confidence": "stated",
-"detail": null
-},
-{
-"source": "P-42de8b6653",
-"target": "O-43351dcd42",
-"type": "member_of",
-"n": 1,
-"episodes": [
-321
-],
-"confidence": "stated",
-"detail": null
-},
-{
-"source": "P-42de8b6653",
-"target": "O-c74761bdcd",
-"type": "member_of",
-"n": 1,
-"episodes": [
-321
 ],
 "confidence": "stated",
 "detail": null
@@ -51563,11 +51523,76 @@
 },
 {
 "source": "P-65308aa414",
+"target": "O-11145719a7",
+"type": "member_of",
+"n": 3,
+"episodes": [
+56,
+79,
+124
+],
+"confidence": "stated",
+"detail": null
+},
+{
+"source": "P-65308aa414",
 "target": "O-1eefdcf68e",
+"type": "member_of",
+"n": 2,
+"episodes": [
+28,
+172
+],
+"confidence": "stated",
+"detail": null
+},
+{
+"source": "P-65308aa414",
+"target": "O-31ddb87a33",
+"type": "member_of",
+"n": 2,
+"episodes": [
+53,
+79
+],
+"confidence": "stated",
+"detail": null
+},
+{
+"source": "P-65308aa414",
+"target": "O-a164f4e126",
 "type": "member_of",
 "n": 1,
 "episodes": [
-28
+124
+],
+"confidence": "stated",
+"detail": null
+},
+{
+"source": "P-65308aa414",
+"target": "O-ba6a4003b3",
+"type": "member_of",
+"n": 6,
+"episodes": [
+22,
+53,
+56,
+57,
+166,
+332
+],
+"confidence": "stated",
+"detail": null
+},
+{
+"source": "P-65308aa414",
+"target": "O-bf8c8b2e18",
+"type": "member_of",
+"n": 2,
+"episodes": [
+11,
+12
 ],
 "confidence": "stated",
 "detail": null
@@ -51576,9 +51601,10 @@
 "source": "P-65308aa414",
 "target": "O-f7222bb9d2",
 "type": "member_of",
-"n": 1,
+"n": 2,
 "episodes": [
-28
+28,
+124
 ],
 "confidence": "stated",
 "detail": null
@@ -55598,92 +55624,6 @@
 "episodes": [
 17,
 101
-],
-"confidence": "stated",
-"detail": null
-},
-{
-"source": "P-e99e14c247",
-"target": "O-11145719a7",
-"type": "member_of",
-"n": 3,
-"episodes": [
-56,
-79,
-124
-],
-"confidence": "stated",
-"detail": null
-},
-{
-"source": "P-e99e14c247",
-"target": "O-1eefdcf68e",
-"type": "member_of",
-"n": 1,
-"episodes": [
-172
-],
-"confidence": "stated",
-"detail": null
-},
-{
-"source": "P-e99e14c247",
-"target": "O-31ddb87a33",
-"type": "member_of",
-"n": 2,
-"episodes": [
-53,
-79
-],
-"confidence": "stated",
-"detail": null
-},
-{
-"source": "P-e99e14c247",
-"target": "O-a164f4e126",
-"type": "member_of",
-"n": 1,
-"episodes": [
-124
-],
-"confidence": "stated",
-"detail": null
-},
-{
-"source": "P-e99e14c247",
-"target": "O-ba6a4003b3",
-"type": "member_of",
-"n": 6,
-"episodes": [
-22,
-53,
-56,
-57,
-166,
-332
-],
-"confidence": "stated",
-"detail": null
-},
-{
-"source": "P-e99e14c247",
-"target": "O-bf8c8b2e18",
-"type": "member_of",
-"n": 2,
-"episodes": [
-11,
-12
-],
-"confidence": "stated",
-"detail": null
-},
-{
-"source": "P-e99e14c247",
-"target": "O-f7222bb9d2",
-"type": "member_of",
-"n": 1,
-"episodes": [
-124
 ],
 "confidence": "stated",
 "detail": null

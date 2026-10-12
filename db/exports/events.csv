@@ -36,7 +36,7 @@ id,date,date_precision,type,description,place_text,actors,episode_idx,timestamp,
 892,2001,approx,travel,Jalaluddin Haqqani helped Osama bin Laden escape Afghanistan.,Afghanistan,Osama bin Laden; Jalaluddin Haqqani,213,30:06,real
 443,2001-01,month,designation,UN sanctions four of the five future Guantanamo swap detainees (January or February 2001),,United Nations Security Council 1267 sanctions,57,40:55,real
 100,2001-08,month,arrest,Zacarias Moussaoui arrested.,United States,Zacarias Moussaoui,12,27:25,real
-239,2001-08-06,day,other,President's Daily Brief warning bin Laden determined to strike in US,United States,Osama bin Laden; Bush administration,23,11:54,real
+239,2001-08-06,day,other,President's Daily Brief warning bin Laden determined to strike in US,United States,Bush administration; Osama bin Laden,23,11:54,real
 31,2001-09,approx,agreement,"After 9/11, Powell and Armitage present seven demands to Pakistan; Musharraf reportedly agrees.",Pakistan,Pervez Musharraf; Colin Powell; Richard Armitage,6,12:13,real
 494,2001-09,month,agreement,After 9/11 Musharraf let US troops and flights transit Pakistan; Washington wrongly assumed Pakistan had changed its worldview.,Pakistan,United States; Pervez Musharraf,64,16:10,real
 444,2001-09-09,day,death,al-Qaeda kills Ahmad Shah Massoud; Fazl then coordinates with Abdul Hadi al-Iraqi on an offensive against the Northern Alliance,Afghanistan,al-Qaeda; Mohammad Fazl; Abdul Hadi al-Iraqi; Ahmad Shah Massoud,57,40:24,real
@@ -321,14 +321,14 @@ id,date,date_precision,type,description,place_text,actors,episode_idx,timestamp,
 897,2017,year,release,"Bin Laden files released after advocacy by Joscelyn and Roggio; the Haqqanis, especially Siraj, feature in them.",,Sirajuddin Haqqani; Osama bin Laden,213,44:43,real
 1071,2017,year,other,Roggio and Fitton-Brown began discussing the UN Monitoring Team reports together.,,,313,02:00,real
 173,2017-02,approx,strike,"Abu al-Khayr al-Masri, Zawahiri's deputy, was killed in a US drone strike using an R-9X missile in Idlib.",Idlib,United States; Abu al-Khayr al-Masri,17,43:19,real
-722,2017-02,month,statement,Gen. Nicholson tells Sen. McCain the war is a stalemate and the Taliban gained ~15% territory since 2015.,Washington,John McCain; John Nicholson,124,26:57,real
+722,2017-02,month,statement,Gen. Nicholson tells Sen. McCain the war is a stalemate and the Taliban gained ~15% territory since 2015.,Washington,John W. Nicholson; John McCain,124,26:57,real
 547,2017-04,month,travel,McMaster visits Afghanistan and meets Ghani.,Afghanistan,Ashraf Ghani; H. R. McMaster,79,15:50,real
 431,2017-08,month,statement,"Trump reluctantly signs off on a strategy to achieve 'victory' in Afghanistan, including a modest troop increase and getting tough on Pakistan.",Afghanistan,Donald Trump,56,18:39,real
 548,2017-08,month,other,"Trump announces Afghanistan strategy relying on Afghan forces, more advisors and air support.",Afghanistan,Donald Trump,79,03:50,real
 866,2017-08,approx,other,Trump-era decision point on Afghanistan ('third day of August 2017'),United States,Donald Trump,202,51:12,real
 159,2017-10,month,agreement,"Al-Qaeda's global network established a reconciliation initiative for the Syrian infighting, overseen by Abu Abdul Karim al-Masri.",Syria,Shabaab; al-Qaeda; AQIM; Abu Abd al-Karim al-Masri,17,09:52,real
 689,2017-10,month,attack,Tongo Tongo ambush killed four US Special Forces service members in Niger,Tongo Tongo,Islamic State Sahel Province; United States,101,31:57,real
-415,2017-11,month,statement,Gen. Nicholson called population control the 'most telling' metric for success in Afghanistan.,Afghanistan,John Nicholson,53,42:44,real
+415,2017-11,month,statement,Gen. Nicholson called population control the 'most telling' metric for success in Afghanistan.,Afghanistan,John W. Nicholson,53,42:44,real
 35,2018,year,death,Taliban announce the death of Jalaluddin Haqqani; al-Qaeda leadership and Taliban eulogize him.,,Taliban; al-Qaeda; Jalaluddin Haqqani,6,07:36,real
 160,2018,year,agreement,"HTS and Hurras al-Din reached an accord in early 2018, followed by another bout of infighting later in 2018.",Syria,Hurras al-Din; Hay'at Tahrir al-Sham,17,11:34,real
 399,2018,year,statement,Bill Roggio published 'The War in Afghanistan is over. We had lost.',,Long War Journal,49,027:07,real
@@ -338,8 +338,8 @@ id,date,date_precision,type,description,place_text,actors,episode_idx,timestamp,
 604,2018,approx,other,"AQAP published an earlier Sudani book on al-Qaeda in Mali (2018 or 2019), which drew lessons from 2012.",,al-Qaeda in the Arabian Peninsula; Abu Huzaifah al-Sudani,84,50:46,real
 724,2018,approx,death,General Razik killed by the Taliban (hosts unsure whether 2018 or 2019).,Kandahar,Taliban; Abdul Raziq Achakzai,124,35:04,real
 752,2018,year,statement,Gen. Miller said district security status was 'immaterial' and the true metric was peace talks with the Taliban; Milley appointed CJCS (per host),Afghanistan,Mark Milley; Austin Scott Miller,153,06:46,real
-222,2018-05,month,attack,Ten young ISIS-K gunmen assaulted the Afghan Interior Ministry offices in Kabul after Gen. Nicholson blamed the Taliban/Haqqanis. ISIS then claimed the attack with a photo and video.,Kabul,Islamic State Khorasan Province; John Nicholson,22,26:31,real
-784,2018-06,approx,agreement,Short-lived Taliban ceasefire (Eid) which Gen. Nicholson took pride in; Taliban claim it was unilateral,Afghanistan,Taliban; John Nicholson,166,053:39,real
+222,2018-05,month,attack,Ten young ISIS-K gunmen assaulted the Afghan Interior Ministry offices in Kabul after Gen. Nicholson blamed the Taliban/Haqqanis. ISIS then claimed the attack with a photo and video.,Kabul,Islamic State Khorasan Province; John W. Nicholson,22,26:31,real
+784,2018-06,approx,agreement,Short-lived Taliban ceasefire (Eid) which Gen. Nicholson took pride in; Taliban claim it was unilateral,Afghanistan,Taliban; John W. Nicholson,166,053:39,real
 63,2018-07,month,attack,"Five young Tajik men rammed and stabbed foreign cyclists in Tajikistan, killing four including two Americans; ISIS released a video via Amaq.",Tajikistan,Amaq News Agency; Islamic State,7,40:07,real
 224,2018-08,month,statement,Hibatullah Akhundzada statement that Mattis described as a Taliban peace plan.,,Hibatullah Akhundzada; James Mattis,22,38:09,real
 773,2018-09,month,appointment,Khalilzad appointed Special Representative for Afghanistan Reconciliation; decision to withdraw already made by Aug 2018,Washington,Mike Pompeo; Zalmay Khalilzad; Donald Trump,166,003:45,real
@@ -364,7 +364,7 @@ id,date,date_precision,type,description,place_text,actors,episode_idx,timestamp,
 592,2019,year,other,Omar al-Bashir's dictatorship was deposed in Sudan; Abdalla Hamdok led the new government.,Sudan,Omar al-Bashir; Abdalla Hamdok,84,23:48,real
 735,2019,year,statement,"Al-Shabaab and JNIM 'Jerusalem will not be Judaized' propaganda campaigns, indicating central al-Qaeda direction",,Shabaab; al-Qaeda; JNIM,141,27:29,real
 750,2019,year,statement,"Gen. Miller said al-Qaeda was operating 'across the country' in Afghanistan, contradicting earlier estimates of 50-100 confined to Kunar/Nuristan",Afghanistan,al-Qaeda; Austin Scott Miller,153,05:31,real
-789,2019,year,statement,"The U.S. military stopped releasing district-control data, calling it of limited decision-making value and saying the goal was a political settlement.",Afghanistan,John Nicholson; Austin Scott Miller,172,18:22,real
+789,2019,year,statement,"The U.S. military stopped releasing district-control data, calling it of limited decision-making value and saying the goal was a political settlement.",Afghanistan,John W. Nicholson; Austin Scott Miller,172,18:22,real
 61,2019-01,month,other,Four Tajik suspects allegedly joined ISIS; their ringleader was imprisoned in March 2019.,Tajikistan,Islamic State,7,37:13,real
 161,2019-02,month,statement,Long War Journal published an analysis of Karim's role in the HTS–Hurras al-Din accord.,,Long War Journal,17,11:19,real
 125,2019-04,approx,meeting,"Per the UN report, Hamza bin Laden met a Taliban delegation in spring 2019 and received assurances that the Taliban would not betray al-Qaeda.",,Taliban; Hamza bin Laden,14,29:54,real
