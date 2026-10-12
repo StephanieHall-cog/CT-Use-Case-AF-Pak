@@ -39,7 +39,9 @@ def test_build_real_and_synthetic():
     rows = q("select r.dataset, t.dataset from relationships r join entities t on t.id=r.target_id join entities s on s.id=r.source_id where s.name='Zubair Kohistani' and t.name='al-Qaeda'")
     assert rows and rows[0] == ("synthetic", "real")
     # every real relationship has provenance
-    assert q("select count(*) from relationships where dataset='real' and (episode_idx is null or quote is null or quote='')")[0][0] == 0
+    assert q("select count(*) from relationships where dataset='real' and episode_idx is null")[0][0] == 0
+    # every real edge is either quoted from the transcript or explicitly derived from a structured field
+    assert q("select count(*) from relationships where dataset='real' and (quote is null or quote='') and (detail is null or detail not like 'derived:%')")[0][0] == 0
     g = json.load(open(f"{ROOT}/db/exports/graph.json"))
     ids = {n["id"] for n in g["nodes"]}
     assert all(e["source"] in ids and e["target"] in ids for e in g["edges"])

@@ -92,8 +92,8 @@ def main():
             for fam in p.get("family", []) or []:
                 fi = ent("persons", fam.get("name"), dataset, ep)
                 if fi: con.execute("INSERT INTO relationships(source_id,target_id,type,detail,confidence,episode_idx,dataset) VALUES(?,?,?,?,?,?,?)",
-                                   (i, fi, "family", f"{fam.get('relation')} ({ents[i]['name']} is {fam.get('relation')} of {ents[fi]['name']})"
-                                    if fam.get("relation") else "family", "stated", idx, dataset))
+                                   (i, fi, "family", "derived:person.family — " + (f"{fam.get('relation')} ({ents[i]['name']} is {fam.get('relation')} of {ents[fi]['name']})"
+                                    if fam.get("relation") else "family"), "stated", idx, dataset))
             locs = ", ".join(p.get("locations", []) or [])
             for l in p.get("locations", []) or []: ent("places", l, dataset, ep)
             ms = p.get("mentions", []) or [{}]
@@ -108,10 +108,10 @@ def main():
             for al in o.get("aliases", []) or []: ents[i]["aliases"].add(al)
             for pa in o.get("parent_or_allies", []) or []:
                 pi = ent("organizations", pa, dataset, ep)
-                if pi and pi != i: con.execute("INSERT INTO relationships(source_id,target_id,type,confidence,episode_idx,dataset) VALUES(?,?,?,?,?,?)", (i, pi, "allied_with", "stated", idx, dataset))
+                if pi and pi != i: con.execute("INSERT INTO relationships(source_id,target_id,type,detail,confidence,episode_idx,dataset) VALUES(?,?,?,?,?,?,?)", (i, pi, "allied_with", "derived:organization.parent_or_allies", "stated", idx, dataset))
             for rv in o.get("rivals", []) or []:
                 ri = ent("organizations", rv, dataset, ep)
-                if ri and ri != i: con.execute("INSERT INTO relationships(source_id,target_id,type,confidence,episode_idx,dataset) VALUES(?,?,?,?,?,?)", (i, ri, "rival_of", "stated", idx, dataset))
+                if ri and ri != i: con.execute("INSERT INTO relationships(source_id,target_id,type,detail,confidence,episode_idx,dataset) VALUES(?,?,?,?,?,?,?)", (i, ri, "rival_of", "derived:organization.rivals", "stated", idx, dataset))
         for pl in d.get("places", []) or []:
             ent("places", pl.get("name"), dataset, ep, place_type=pl.get("type"), country=pl.get("country"), parent_place=pl.get("parent"), notes=pl.get("significance"))
         for r in d.get("relationships", []) or []:
