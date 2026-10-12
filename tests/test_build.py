@@ -38,8 +38,9 @@ def test_build_real_and_synthetic():
     # synthetic edge to a real org is allowed but must be flagged synthetic
     rows = q("select r.dataset, t.dataset from relationships r join entities t on t.id=r.target_id join entities s on s.id=r.source_id where s.name='Zubair Kohistani' and t.name='al-Qaeda'")
     assert rows and rows[0] == ("synthetic", "real")
-    # every real relationship has provenance
-    assert q("select count(*) from relationships where dataset='real' and episode_idx is null")[0][0] == 0
+    # every real relationship has provenance: a podcast episode or an open-source document
+    assert q("select count(*) from relationships where dataset='real' and episode_idx is null and doc_id is null")[0][0] == 0
+    assert q("select count(*) from relationships r where r.doc_id is not null and r.doc_id not in (select doc_id from documents)")[0][0] == 0
     # every real edge is either quoted from the transcript or explicitly derived from a structured field
     assert q("select count(*) from relationships where dataset='real' and (quote is null or quote='') and (detail is null or detail not like 'derived:%')")[0][0] == 0
     g = json.load(open(f"{ROOT}/db/exports/graph.json"))
@@ -47,3 +48,16 @@ def test_build_real_and_synthetic():
     assert all(e["source"] in ids and e["target"] in ids for e in g["edges"])
     assert any(n.get("dataset") == "synthetic" for n in g["nodes"])
     _build([])  # leave the repo DB real-only
+
+
+def test_document_sources():
+    con = sqlite3.connect(f"{ROOT}/db/afpak.sqlite")
+    q = lambda s: con.execute(s).fetchall()
+    assert q("select count(*) from documents where doc_id='ctc-2011-haqqani-nexus'")[0][0] == 1
+    # document-sourced edges carry a page/paragraph reference and a quote unless explicitly derived
+    assert q("select count(*) from relationships where doc_id is not null and (quote is null or quote='') and (detail is null or detail not like 'derived:%')")[0][0] == 0
+    assert q("select count(*) from relationships where doc_id is not null and quote<>'' and (timestamp is null or timestamp='')")[0][0] == 0
+    # document authors are not entities
+    assert q("select count(*) from entities where kind='person' and name in ('Don Rassler','Vahid Brown')")[0][0] == 0
+    # the CTC report and the podcast corpus overlap on the Haqqani core
+    assert q("select count(*) from entities where name='Jalaluddin Haqqani' and n_episodes>0 and n_documents>0")[0][0] == 1
