@@ -295,7 +295,7 @@ id,date,date_precision,type,description,place_text,actors,episode_idx,timestamp,
 166,2015,year,appointment,"Mullah Mansour was formally named Taliban emir overall; Zawahiri pledged allegiance and Mansour publicly accepted it in a speech, later taken down.",,Taliban; Akhtar Mohammad Mansour; Ayman al-Zawahiri,14,21:12,real
 246,2015,year,other,Al-Qaeda kidnapped an Iranian diplomat; he was reportedly exchanged for al-Qaeda detainees in Iran. Three of them left and were killed in Syria; Saif al-Adel and Abu Muhammad al-Masri stayed.,Iran,Iran; al-Qaeda; Abu Muhammad al-Masri; Saif al-Adel,20,45:46,real
 307,2015,approx,strike,"US killed Nasser al-Wuhayshi, AQAP emir and al-Qaeda general manager (hosts say 2015 or 2016).",Yemen,Nasir al-Wuhayshi,27,61:29,real
-332,2015,year,death,"Qari Ziyaur Rahman was reported dead, but later reappeared to deny it.",Kunar,Qari Ziyaur Rahman,29,13:55,real
+332,2015,year,death,"Qari Ziyaur Rahman was reported dead, but later reappeared to deny it.",Kunar,Qari Zia Rahman,29,13:55,real
 367,2015,year,release,"Masri, Saif al-Adel and three other senior al-Qaeda figures were released from Iranian detention in exchange for an Iranian diplomat kidnapped by AQAP; several then went to Syria and were killed.",Iran,al-Qaeda in the Arabian Peninsula; Government of Iran; Abu Muhammad al-Masri; Saif al-Adel,35,21:08,real
 415,2015,year,release,"Five senior al-Qaeda leaders, including Abu Muhammad al-Masri and Saif al-Adel, freed by Iran after al-Qaeda kidnapped an Iranian diplomat; three went to Syria and were killed.",Iran,Iranian regime; al-Qaeda; Abu Muhammad al-Masri; Saif al-Adel,41,55:43,real
 439,2015,approx,appointment,"Mullah Mansour was appointed Taliban leader after Mullah Omar's death was disclosed, causing a schism. Sirajuddin and Jalaluddin Haqqani helped bring the factions back together.",Afghanistan,Sirajuddin Haqqani; Akhtar Mohammad Mansour; Jalaluddin Haqqani,43,47:44,real
@@ -318,7 +318,7 @@ id,date,date_precision,type,description,place_text,actors,episode_idx,timestamp,
 1250,2015,year,killing,US raid in Barmal district kills a top al-Qaeda Shura member at an al-Qaeda encampment; intelligence reveals Shorabak camp,Barmal,United States; al-Qaeda,344,27:57,real
 29,2015-01,month,attack,"Two AQAP brothers stormed Charlie Hebdo office in Paris (hosts said January 2011 in intro, likely misstatement).",Paris,al-Qaeda in the Arabian Peninsula (AQAP),4,03:29,real
 141,2015-01,month,attack,"Charlie Hebdo attack, facilitated and executed by AQAP.",Paris,al-Qaeda in the Arabian Peninsula,12,24:43,real
-348,2015-02,month,other,UK and US embassies evacuate Sanaa on the same day; UK mission to Yemen relocates to Jeddah,Sanaa,Edmund Fitton-Brown; UK Foreign and Commonwealth Office,30,03:34,real
+348,2015-02,month,other,UK and US embassies evacuate Sanaa on the same day; UK mission to Yemen relocates to Jeddah,Sanaa,UK Foreign and Commonwealth Office; Edmund Fitton-Brown,30,03:34,real
 344,2015-03,month,travel,"Imran Ali and his family moved to Syria to join ISIS, per charging documents.",Syria,Islamic State; Imran Ali; Jihad Ali,29,51:16,real
 341,2015-05,month,statement,General Campbell said the Taliban were tired from 14 years of fighting and wanted to get on with their lives.,Afghanistan,Taliban; John Campbell,29,49:39,real
 96,2015-06,month,strike,"Nasir al-Wuhayshi killed in a US drone strike, with at least three senior lieutenants.",Yemen,al-Qaeda in the Arabian Peninsula; Nasir al-Wuhayshi,10,45:55,real
@@ -900,7 +900,7 @@ id,date,date_precision,type,description,place_text,actors,episode_idx,timestamp,
 713,2023-02-20,approx,statement,Zalmay Khalilzad tweets that cooperation with the Taliban against ISIS can be a key part of future relations.,,Zalmay Khalilzad,89,39:54,real
 719,2023-04,approx,strike,"CENTCOM announced a helicopter raid in Aleppo targeting senior Islamic State official Abdul Hadi Muhammad Haji Ali, accused of plotting attacks in Europe and the region.",Aleppo,CENTCOM; Islamic State; Abdul Hadi Muhammad Haji Ali,92,02:07,real
 720,2023-04,approx,strike,The previous week CENTCOM announced action against a Yemeni IS official in eastern Syria.,Syria,CENTCOM; Islamic State,92,06:16,real
-721,2023-04,approx,designation,The US designated al-Qaeda ideologue and Hurras al-Din commander Sami al-Raddi.,Syria,Hurras al-Din; Sami al-Raddi,92,11:30,real
+721,2023-04,approx,designation,The US designated al-Qaeda ideologue and Hurras al-Din commander Sami al-Raddi.,Syria,Hurras al-Din; Sami al-Uraydi,92,11:30,real
 731,2023-04,approx,announcement,"President Hassan Sheikh announced the end of phase one and the start of phase two of the counteroffensive in southern Somalia, involving federal troops.",Jubaland,Ahmed Madobe; Hassan Sheikh Mohamud,92,43:12,real
 732,2023-04,approx,other,"Kenya, Ethiopia and Djibouti announced additional troops to Somalia outside African Union command, as part of a joint force.",Somalia,Djibouti; Kenya; Ethiopia; Hassan Sheikh Mohamud,92,49:00,real
 733,2023-04,approx,other,"Al-Shabaab overran a small Somali military base and published photos of dozens of dead troops, while the Somali government denied it.",Somalia,Somali government; Shabaab,92,47:13,real
@@ -955,14 +955,14 @@ id,date,date_precision,type,description,place_text,actors,episode_idx,timestamp,
 996,2024,year,attack,"Islamic State attacked Moscow, Russia and Iran this year; multiple plots inside the US homeland.",Moscow,Islamic State Khorasan Province,213,19:29,real
 1022,2024,approx,statement,"Taliban-run Afghanistan reportedly building ~5 jihadi madrasas per district (~2,000 total)",Afghanistan,Taliban; al-Qaeda,227,028:18,real
 1031,2024,year,travel,"Sirajuddin Haqqani travelled to the UAE and performed the Hajj in summer 2024, livestreaming it; required a UNSC travel-ban exemption.",United Arab Emirates,UN Security Council; Sirajuddin Haqqani,231,52:37,real
-1041,2024,year,strike,Iraqi operation in Anbar killed the ISIS deputy governor who facilitated communication between Abu Khadija al-Iraqi and Mumin,Anbar,Islamic State; Abu Khadija al-Iraqi; Abdul Qadir Mumin,238,21:50,real
+1041,2024,year,strike,Iraqi operation in Anbar killed the ISIS deputy governor who facilitated communication between Abu Khadija al-Iraqi and Mumin,Anbar,Islamic State; Abu Khadija al-Iraqi; Abdulqadir Mumin,238,21:50,real
 1043,2024,year,other,"IS-Somalia almost doubled in size from foreign terrorist fighters (Horn/East Africa, Yemen, Tunisia, Libya, Sudan, even Israeli Arabs)",Somalia,ISIL-Somalia,238,32:45,real
 1044,2024,year,meeting,Meetings between Houthi and al-Shabaab leaders: weapons (incl. UAV technology) in exchange for increased piracy in the Gulf of Aden/Red Sea,Yemen,Houthis; Shabaab,238,39:30,real
 1045,2024,year,agreement,"AQAP–Houthi 'pragmatic agreement': mutual non-aggression, prisoner exchanges, movement of weapons",Yemen,Houthis; al-Qaeda in the Arabian Peninsula,238,73:05,real
 1047,2024,year,other,Al-Qaeda operative deployed to Kunar to manage al-Qaeda's finances from Iran into Afghanistan,Kunar,Government of Iran; al-Qaeda,238,61:46,real
 1048,2024,year,other,"TTP established camps in Kunar, Nangarhar, Khost and Paktika; Jamaat Ansarullah camps in Kunduz and Khost",Afghanistan,Taliban; Jamaat Ansarullah; Tehrik-i-Taliban Pakistan,238,63:45,real
 1049,2024,year,attack,TTP carried out 600 attacks in the six-month reporting period (more than three a day),Pakistan,Tehrik-i-Taliban Pakistan,238,67:11,real
-1051,2024,year,other,Six months earlier the UN report had similar language doubting Mumin's appointment as caliph; more member states now accept it,,UN Monitoring Team; Abdul Qadir Mumin,238,23:06,real
+1051,2024,year,other,Six months earlier the UN report had similar language doubting Mumin's appointment as caliph; more member states now accept it,,UN Monitoring Team; Abdulqadir Mumin,238,23:06,real
 1082,2024,year,statement,Amrullah Saleh said he would no longer be president ('last year').,,Amrullah Saleh,257,40:38,real
 1095,2024,year,killing,Senior al-Shabaab leader Mohamed Mire killed late 2024,Somalia,Shabaab; Mohamed Mire,265,54:12,real
 1219,2024,approx,death,"Death of AQAP emir Khalid Batarfi and, at about the same time, of Saif al-Adel's son in Yemen while working with AQAP.",Yemen,Khalid Batarfi; Saif al-Adel,336,77:15,real
@@ -988,7 +988,7 @@ id,date,date_precision,type,description,place_text,actors,episode_idx,timestamp,
 885,2024-04,approx,statement,"Miller testified in a closed-door session of about nine to ten hours before the House Foreign Affairs Committee, producing more than 200 pages of transcript.","Washington, D.C.",House Foreign Affairs Committee; Austin Scott Miller,172,02:03,real
 917,2024-04,month,strike,"Iranian IRGC general killed in Syria (Damascus), name not recalled by hosts",Damascus,Islamic Revolutionary Guard Corps; Israel Defense Forces,194,22:13,real
 916,2024-04-13,day,attack,"Iran's missile and drone attack on Israel; ~95% intercepted by Israel, US, UK, France, Jordan (and probably Saudis); Israel hit an air-defense site in response",Iran,Government of Iran; US forces; Israel Defense Forces,194,21:05,real
-1055,2024-05,month,strike,US attempted to kill Abdul Qadir Mumin in Somalia but failed; Puntland counteroffensive against IS Somalia began afterwards.,Puntland,United States; Abdul Qadir Mumin,242,27:07,real
+1055,2024-05,month,strike,US attempted to kill Abdul Qadir Mumin in Somalia but failed; Puntland counteroffensive against IS Somalia began afterwards.,Puntland,United States; Abdulqadir Mumin,242,27:07,real
 870,2024-05-01,day,statement,HFAC releases 284-page transcript of Khalilzad interview,Washington,House Foreign Affairs Committee,166,001:19,real
 900,2024-05-31,day,statement,"UN Monitoring Team Taliban report went to press (published shortly before the episode); documents two additional provinces (Kandahar, Takhar) with al-Qaeda training camps, 12 of 34 provinces total.",,UN Monitoring Team,189,25:04,real
 901,2024-06,approx,statement,Saif al-Adel called for al-Qaeda fighters to migrate to Afghanistan (after the report's 31 May press date).,Tehran,al-Qaeda; Saif al-Adel,189,25:12,real
@@ -1244,7 +1244,7 @@ id,date,date_precision,type,description,place_text,actors,episode_idx,timestamp,
 1021,approx 2023,approx,other,"Taliban repeatedly offer Massoud the foreign minister post; he conditions acceptance on elections, Taliban say that is against Islam",,Taliban; Ahmad Massoud,227,058:05,real
 1077,approx 2023,approx,death,"Balkh governor and other lower-ranking Taliban leaders killed; one or two claimed by ISIS, the rest unattributed.",Balkh,Taliban; Islamic State Khorasan Province,257,16:14,real
 1162,approx 2023,approx,offensive,"ISIS Mozambique captured Mocimboa da Praia, a port in Cabo Delgado ('a couple of years ago')",Mocimboa da Praia,Islamic State Mozambique Province,295,85:14,real
-933,approx 2024,approx,strike,US attempted a strike/operation against Mumin during the reporting period; the outcome is unclear and he is reportedly alive,Somalia,United States; Abdul Qadir Mumin,196,11:35,real
+933,approx 2024,approx,strike,US attempted a strike/operation against Mumin during the reporting period; the outcome is unclear and he is reportedly alive,Somalia,United States; Abdulqadir Mumin,196,11:35,real
 1000,approx 2024,approx,travel,Sirajuddin Haqqani 'popped up' in the UAE; The Diplomat quoted Rubin saying he no longer poses a threat to Americans (date not given by hosts).,United Arab Emirates,Sirajuddin Haqqani; Barnett Rubin,213,22:45,real
 1153,approx 2025,approx,attack,"ISIS attack on Jewish revelers at Bondi Beach, Sydney; assailants had spent time in southern Philippines before the attack",Bondi Beach,Islamic State,295,23:36,real
 1155,approx 2025,approx,other,JNIM instituted a fuel blockade around Bamako and expanded territory; a single ransom payment of around $50 million reported,Bamako,Jama'at Nusrat al-Islam wal-Muslimin,295,48:07,real

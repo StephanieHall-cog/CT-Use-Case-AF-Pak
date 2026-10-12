@@ -897,7 +897,7 @@
 "dataset": "real",
 "role": "Internationally-backed Yemeni president ousted by the Houthis",
 "status": "unknown",
-"n_episodes": 1,
+"n_episodes": 2,
 "country": null
 },
 {
@@ -6367,7 +6367,7 @@
 "dataset": "real",
 "role": "Dual-hatted al-Qaeda/Taliban commander, also linked to TTP; ran a training camp in Pakistan producing female suicide bombers",
 "status": "unknown",
-"n_episodes": 1,
+"n_episodes": 2,
 "country": null
 },
 {
@@ -6419,16 +6419,6 @@
 "status": null,
 "n_episodes": 3,
 "country": "Afghanistan"
-},
-{
-"id": "P-6d4b0696df",
-"kind": "person",
-"name": "Qari Ziyaur Rahman",
-"dataset": "real",
-"role": "Dual-hatted al-Qaeda/Taliban commander operating on both sides of the Afghanistan-Pakistan border in Kunar and Nuristan",
-"status": "unknown",
-"n_episodes": 1,
-"country": null
 },
 {
 "id": "P-1d2c725f2c",
@@ -6731,16 +6721,6 @@
 "country": "Saudi Arabia"
 },
 {
-"id": "P-e79b43eb92",
-"kind": "person",
-"name": "Abd Rabbuh Mansur Hadi",
-"dataset": "real",
-"role": "President of Yemen; received Fitton-Brown's credentials in Aden before being forced out of the country",
-"status": "alive",
-"n_episodes": 1,
-"country": null
-},
-{
 "id": "L-9e4fd3ed49",
 "kind": "place",
 "name": "Aden",
@@ -6849,16 +6829,6 @@
 "status": null,
 "n_episodes": 9,
 "country": "Nigeria"
-},
-{
-"id": "P-1f91c356bd",
-"kind": "person",
-"name": "UK Foreign and Commonwealth Office",
-"dataset": "real",
-"role": null,
-"status": null,
-"n_episodes": 1,
-"country": null
 },
 {
 "id": "P-d13e0d769b",
@@ -7717,7 +7687,7 @@
 "dataset": "real",
 "role": "Senior sharia official and cleric of Hurras al-Din (Syria); issued a video on the Israel-Hamas conflict",
 "status": "alive",
-"n_episodes": 1,
+"n_episodes": 2,
 "country": null
 },
 {
@@ -10521,16 +10491,6 @@
 "country": "Syria"
 },
 {
-"id": "P-4d0268f2c2",
-"kind": "person",
-"name": "Sami al-Raddi",
-"dataset": "real",
-"role": "Al-Qaeda ideologue in Syria and senior commander of Hurras al-Din; US-designated",
-"status": "alive",
-"n_episodes": 1,
-"country": null
-},
-{
 "id": "O-948439e355",
 "kind": "organization",
 "name": "Somali government",
@@ -12871,13 +12831,13 @@
 "country": "Ukraine"
 },
 {
-"id": "P-b75cb1b6ce",
+"id": "P-cfbb4bed1e",
 "kind": "person",
-"name": "Abdul Qadir Mumin",
+"name": "Abdulqadir Mumin",
 "dataset": "real",
 "role": "Head of ISIS-Somalia and head of the Al-Karrar office; per US intel reporting, possibly the overall ISIS caliph (disputed)",
 "status": "alive",
-"n_episodes": 5,
+"n_episodes": 6,
 "country": null
 },
 {
@@ -14719,16 +14679,6 @@
 "status": null,
 "n_episodes": 1,
 "country": "United States"
-},
-{
-"id": "P-cfbb4bed1e",
-"kind": "person",
-"name": "Abdulqadir Mumin",
-"dataset": "real",
-"role": "Head of ISIS in Somalia and the al-Karrar regional office; widely believed to be the Islamic State caliph though not established",
-"status": "alive",
-"n_episodes": 1,
-"country": null
 },
 {
 "id": "O-2a9410db82",
@@ -33803,17 +33753,6 @@
 },
 {
 "source": "O-bf8c8b2e18",
-"target": "P-b75cb1b6ce",
-"type": "other",
-"n": 1,
-"episodes": [
-242
-],
-"confidence": "stated",
-"detail": "Failed US strike attempting to kill him in May 2024."
-},
-{
-"source": "O-bf8c8b2e18",
 "target": "P-b89c97e733",
 "type": "killed",
 "n": 3,
@@ -33856,6 +33795,17 @@
 ],
 "confidence": "stated",
 "detail": "The US killed Shishani."
+},
+{
+"source": "O-bf8c8b2e18",
+"target": "P-cfbb4bed1e",
+"type": "other",
+"n": 1,
+"episodes": [
+242
+],
+"confidence": "stated",
+"detail": "Failed US strike attempting to kill him in May 2024."
 },
 {
 "source": "O-bf8c8b2e18",
@@ -41371,7 +41321,7 @@
 },
 {
 "source": "P-1c07d27fdc",
-"target": "P-b75cb1b6ce",
+"target": "P-cfbb4bed1e",
 "type": "deputy_of",
 "n": 1,
 "episodes": [
@@ -41740,7 +41690,7 @@
 },
 {
 "source": "P-2076f2318f",
-"target": "P-b75cb1b6ce",
+"target": "P-cfbb4bed1e",
 "type": "met_with",
 "n": 1,
 "episodes": [
@@ -43550,28 +43500,6 @@
 "detail": "Barnawi split from Shekau and ISWAP later defeated him."
 },
 {
-"source": "P-4d0268f2c2",
-"target": "O-455195f939",
-"type": "leads",
-"n": 1,
-"episodes": [
-92
-],
-"confidence": "stated",
-"detail": "He is an ideologue and senior commander of Hurras al-Din."
-},
-{
-"source": "P-4d0268f2c2",
-"target": "O-c74761bdcd",
-"type": "member_of",
-"n": 1,
-"episodes": [
-92
-],
-"confidence": "stated",
-"detail": "An al-Qaeda loyalist featured in As-Sahab propaganda."
-},
-{
 "source": "P-4dec95a23d",
 "target": "O-bb189daba9",
 "type": "rival_of",
@@ -43662,9 +43590,10 @@
 "source": "P-4f5e2a474e",
 "target": "O-03898888bd",
 "type": "member_of",
-"n": 1,
+"n": 2,
 "episodes": [
-28
+28,
+29
 ],
 "confidence": "stated",
 "detail": "Dual-hatted Taliban/al-Qaeda commander, also believed TTP member."
@@ -43684,9 +43613,10 @@
 "source": "P-4f5e2a474e",
 "target": "O-c74761bdcd",
 "type": "member_of",
-"n": 1,
+"n": 2,
 "episodes": [
-28
+28,
+29
 ],
 "confidence": "stated",
 "detail": "Identified by military as al-Qaeda leader."
@@ -43939,7 +43869,7 @@
 },
 {
 "source": "P-53e9b1385f",
-"target": "P-b75cb1b6ce",
+"target": "P-cfbb4bed1e",
 "type": "deputy_of",
 "n": 1,
 "episodes": [
@@ -44592,7 +44522,7 @@
 },
 {
 "source": "P-61bd6cd482",
-"target": "P-b75cb1b6ce",
+"target": "P-cfbb4bed1e",
 "type": "reports_to",
 "n": 1,
 "episodes": [
@@ -45151,28 +45081,6 @@
 ],
 "confidence": "stated",
 "detail": "Leader and spokesman of the Islamic State, both virulently anti-al-Qaeda."
-},
-{
-"source": "P-6d4b0696df",
-"target": "O-03898888bd",
-"type": "member_of",
-"n": 1,
-"episodes": [
-29
-],
-"confidence": "stated",
-"detail": "Dual-hatted Taliban commander."
-},
-{
-"source": "P-6d4b0696df",
-"target": "O-c74761bdcd",
-"type": "member_of",
-"n": 1,
-"episodes": [
-29
-],
-"confidence": "stated",
-"detail": "Described as a dual-hatted al-Qaeda/Taliban commander."
 },
 {
 "source": "P-6de1f5258b",
@@ -46762,6 +46670,17 @@
 {
 "source": "P-9ff8029597",
 "target": "O-455195f939",
+"type": "leads",
+"n": 1,
+"episodes": [
+92
+],
+"confidence": "stated",
+"detail": "He is an ideologue and senior commander of Hurras al-Din."
+},
+{
+"source": "P-9ff8029597",
+"target": "O-455195f939",
 "type": "member_of",
 "n": 1,
 "episodes": [
@@ -46769,6 +46688,17 @@
 ],
 "confidence": "stated",
 "detail": "Senior sharia official and cleric of Hurras al-Din"
+},
+{
+"source": "P-9ff8029597",
+"target": "O-c74761bdcd",
+"type": "member_of",
+"n": 1,
+"episodes": [
+92
+],
+"confidence": "stated",
+"detail": "An al-Qaeda loyalist featured in As-Sahab propaganda."
 },
 {
 "source": "P-a140c98489",
@@ -47360,133 +47290,6 @@
 ],
 "confidence": "stated",
 "detail": "Head of NDS in 2021."
-},
-{
-"source": "P-b75cb1b6ce",
-"target": "L-33c69b82b5",
-"type": "located_in",
-"n": 1,
-"episodes": [
-242
-],
-"confidence": "stated",
-"detail": "Based in Puntland; reportedly travels to Yemen."
-},
-{
-"source": "P-b75cb1b6ce",
-"target": "L-7e4fe6f53b",
-"type": "located_in",
-"n": 1,
-"episodes": [
-238
-],
-"confidence": "stated",
-"detail": "Cave strongholds in Puntland's Bari region"
-},
-{
-"source": "P-b75cb1b6ce",
-"target": "O-185e642636",
-"type": "leads",
-"n": 1,
-"episodes": [
-238
-],
-"confidence": "stated",
-"detail": "Head of ISIL in Somalia per member states"
-},
-{
-"source": "P-b75cb1b6ce",
-"target": "O-27c2b3d150",
-"type": "leads",
-"n": 1,
-"episodes": [
-295
-],
-"confidence": "stated",
-"detail": "Mumin is the 'overlord' of ISIS elements in Mozambique and DRC"
-},
-{
-"source": "P-b75cb1b6ce",
-"target": "O-2a31b31990",
-"type": "leads",
-"n": 1,
-"episodes": [
-242
-],
-"confidence": "stated",
-"detail": "Leader of IS Somalia; US view he may be overall caliph."
-},
-{
-"source": "P-b75cb1b6ce",
-"target": "O-6e0f19f16b",
-"type": "leads",
-"n": 4,
-"episodes": [
-238,
-242,
-295,
-336
-],
-"confidence": "inferred",
-"detail": "UN confirms the head of IS Somalia is the overall IS leader; Roggio skeptical."
-},
-{
-"source": "P-b75cb1b6ce",
-"target": "O-6e0f19f16b",
-"type": "member_of",
-"n": 1,
-"episodes": [
-196
-],
-"confidence": "stated",
-"detail": "Possibly head of the General Directorate of Provinces; disputed as caliph."
-},
-{
-"source": "P-b75cb1b6ce",
-"target": "O-75abaa7599",
-"type": "member_of",
-"n": 1,
-"episodes": [
-196
-],
-"confidence": "stated",
-"detail": "Mumin comes from the wider Darod Somali clan family, which claims Qurayshi descent."
-},
-{
-"source": "P-b75cb1b6ce",
-"target": "O-99b11129a2",
-"type": "leads",
-"n": 3,
-"episodes": [
-196,
-238,
-295
-],
-"confidence": "stated",
-"detail": "Mumin heads the Al-Karrar office."
-},
-{
-"source": "P-b75cb1b6ce",
-"target": "O-a039a6198e",
-"type": "member_of",
-"n": 1,
-"episodes": [
-295
-],
-"confidence": "stated",
-"detail": "Formerly a crucial member of al-Shabaab who defected to ISIS"
-},
-{
-"source": "P-b75cb1b6ce",
-"target": "O-a504c4fa2b",
-"type": "leads",
-"n": 2,
-"episodes": [
-196,
-295
-],
-"confidence": "stated",
-"detail": "Mumin leads ISIS-Somalia."
 },
 {
 "source": "P-b760dff79d",
@@ -48124,17 +47927,6 @@
 },
 {
 "source": "P-babae3a4fe",
-"target": "P-4d0268f2c2",
-"type": "other",
-"n": 1,
-"episodes": [
-92
-],
-"confidence": "stated",
-"detail": "Zawahiri quoted him in propaganda on at least two occasions."
-},
-{
-"source": "P-babae3a4fe",
 "target": "P-5224f98669",
 "type": "other",
 "n": 1,
@@ -48213,6 +48005,17 @@
 ],
 "confidence": "stated",
 "detail": "Rebuked Zarqawi personally by letter over his harshness toward Shia."
+},
+{
+"source": "P-babae3a4fe",
+"target": "P-9ff8029597",
+"type": "other",
+"n": 1,
+"episodes": [
+92
+],
+"confidence": "stated",
+"detail": "Zawahiri quoted him in propaganda on at least two occasions."
 },
 {
 "source": "P-babae3a4fe",
@@ -48846,25 +48649,132 @@
 },
 {
 "source": "P-cfbb4bed1e",
-"target": "O-2a31b31990",
+"target": "L-33c69b82b5",
+"type": "located_in",
+"n": 1,
+"episodes": [
+242
+],
+"confidence": "stated",
+"detail": "Based in Puntland; reportedly travels to Yemen."
+},
+{
+"source": "P-cfbb4bed1e",
+"target": "L-7e4fe6f53b",
+"type": "located_in",
+"n": 1,
+"episodes": [
+238
+],
+"confidence": "stated",
+"detail": "Cave strongholds in Puntland's Bari region"
+},
+{
+"source": "P-cfbb4bed1e",
+"target": "O-185e642636",
 "type": "leads",
 "n": 1,
 "episodes": [
+238
+],
+"confidence": "stated",
+"detail": "Head of ISIL in Somalia per member states"
+},
+{
+"source": "P-cfbb4bed1e",
+"target": "O-27c2b3d150",
+"type": "leads",
+"n": 1,
+"episodes": [
+295
+],
+"confidence": "stated",
+"detail": "Mumin is the 'overlord' of ISIS elements in Mozambique and DRC"
+},
+{
+"source": "P-cfbb4bed1e",
+"target": "O-2a31b31990",
+"type": "leads",
+"n": 2,
+"episodes": [
+242,
 265
 ],
 "confidence": "stated",
-"detail": "Head of ISIS Somalia and al-Karrar office"
+"detail": "Leader of IS Somalia; US view he may be overall caliph."
 },
 {
 "source": "P-cfbb4bed1e",
 "target": "O-6e0f19f16b",
 "type": "leads",
-"n": 1,
+"n": 5,
 "episodes": [
-265
+238,
+242,
+265,
+295,
+336
 ],
 "confidence": "inferred",
 "detail": "Widely believed to be the caliph, not established"
+},
+{
+"source": "P-cfbb4bed1e",
+"target": "O-6e0f19f16b",
+"type": "member_of",
+"n": 1,
+"episodes": [
+196
+],
+"confidence": "stated",
+"detail": "Possibly head of the General Directorate of Provinces; disputed as caliph."
+},
+{
+"source": "P-cfbb4bed1e",
+"target": "O-75abaa7599",
+"type": "member_of",
+"n": 1,
+"episodes": [
+196
+],
+"confidence": "stated",
+"detail": "Mumin comes from the wider Darod Somali clan family, which claims Qurayshi descent."
+},
+{
+"source": "P-cfbb4bed1e",
+"target": "O-99b11129a2",
+"type": "leads",
+"n": 3,
+"episodes": [
+196,
+238,
+295
+],
+"confidence": "stated",
+"detail": "Mumin heads the Al-Karrar office."
+},
+{
+"source": "P-cfbb4bed1e",
+"target": "O-a039a6198e",
+"type": "member_of",
+"n": 1,
+"episodes": [
+295
+],
+"confidence": "stated",
+"detail": "Formerly a crucial member of al-Shabaab who defected to ISIS"
+},
+{
+"source": "P-cfbb4bed1e",
+"target": "O-a504c4fa2b",
+"type": "leads",
+"n": 2,
+"episodes": [
+196,
+295
+],
+"confidence": "stated",
+"detail": "Mumin leads ISIS-Somalia."
 },
 {
 "source": "P-d033283004",
@@ -53710,28 +53620,6 @@
 "detail": null
 },
 {
-"source": "P-4d0268f2c2",
-"target": "O-455195f939",
-"type": "member_of",
-"n": 1,
-"episodes": [
-92
-],
-"confidence": "stated",
-"detail": null
-},
-{
-"source": "P-4d0268f2c2",
-"target": "O-c74761bdcd",
-"type": "member_of",
-"n": 1,
-"episodes": [
-92
-],
-"confidence": "stated",
-"detail": null
-},
-{
 "source": "P-4dec95a23d",
 "target": "O-6e0f19f16b",
 "type": "member_of",
@@ -53866,9 +53754,10 @@
 "source": "P-4f5e2a474e",
 "target": "O-03898888bd",
 "type": "member_of",
-"n": 1,
+"n": 2,
 "episodes": [
-28
+28,
+29
 ],
 "confidence": "stated",
 "detail": null
@@ -53888,9 +53777,10 @@
 "source": "P-4f5e2a474e",
 "target": "O-c74761bdcd",
 "type": "member_of",
-"n": 1,
+"n": 2,
 "episodes": [
-28
+28,
+29
 ],
 "confidence": "stated",
 "detail": null
@@ -54982,9 +54872,10 @@
 "source": "P-6a5f347ebf",
 "target": "O-84c60fe81a",
 "type": "member_of",
-"n": 1,
+"n": 2,
 "episodes": [
-4
+4,
+30
 ],
 "confidence": "stated",
 "detail": null
@@ -55136,28 +55027,6 @@
 "n": 1,
 "episodes": [
 343
-],
-"confidence": "stated",
-"detail": null
-},
-{
-"source": "P-6d4b0696df",
-"target": "O-03898888bd",
-"type": "member_of",
-"n": 1,
-"episodes": [
-29
-],
-"confidence": "stated",
-"detail": null
-},
-{
-"source": "P-6d4b0696df",
-"target": "O-c74761bdcd",
-"type": "member_of",
-"n": 1,
-"episodes": [
-29
 ],
 "confidence": "stated",
 "detail": null
@@ -56508,9 +56377,10 @@
 "source": "P-9ff8029597",
 "target": "O-455195f939",
 "type": "member_of",
-"n": 1,
+"n": 2,
 "episodes": [
-50
+50,
+92
 ],
 "confidence": "stated",
 "detail": null
@@ -56519,9 +56389,10 @@
 "source": "P-9ff8029597",
 "target": "O-c74761bdcd",
 "type": "member_of",
-"n": 1,
+"n": 2,
 "episodes": [
-50
+50,
+92
 ],
 "confidence": "stated",
 "detail": null
@@ -57242,80 +57113,6 @@
 "n": 1,
 "episodes": [
 4
-],
-"confidence": "stated",
-"detail": null
-},
-{
-"source": "P-b75cb1b6ce",
-"target": "O-185e642636",
-"type": "member_of",
-"n": 1,
-"episodes": [
-238
-],
-"confidence": "stated",
-"detail": null
-},
-{
-"source": "P-b75cb1b6ce",
-"target": "O-2a31b31990",
-"type": "member_of",
-"n": 2,
-"episodes": [
-242,
-336
-],
-"confidence": "stated",
-"detail": null
-},
-{
-"source": "P-b75cb1b6ce",
-"target": "O-6e0f19f16b",
-"type": "member_of",
-"n": 5,
-"episodes": [
-196,
-238,
-242,
-295,
-336
-],
-"confidence": "stated",
-"detail": null
-},
-{
-"source": "P-b75cb1b6ce",
-"target": "O-8519099cf1",
-"type": "member_of",
-"n": 1,
-"episodes": [
-295
-],
-"confidence": "stated",
-"detail": null
-},
-{
-"source": "P-b75cb1b6ce",
-"target": "O-99b11129a2",
-"type": "member_of",
-"n": 3,
-"episodes": [
-196,
-238,
-295
-],
-"confidence": "stated",
-"detail": null
-},
-{
-"source": "P-b75cb1b6ce",
-"target": "O-a504c4fa2b",
-"type": "member_of",
-"n": 2,
-"episodes": [
-196,
-295
 ],
 "confidence": "stated",
 "detail": null
@@ -58225,11 +58022,24 @@
 },
 {
 "source": "P-cfbb4bed1e",
-"target": "O-2a31b31990",
+"target": "O-185e642636",
 "type": "member_of",
 "n": 1,
 "episodes": [
-265
+238
+],
+"confidence": "stated",
+"detail": null
+},
+{
+"source": "P-cfbb4bed1e",
+"target": "O-2a31b31990",
+"type": "member_of",
+"n": 3,
+"episodes": [
+242,
+265,
+336
 ],
 "confidence": "stated",
 "detail": null
@@ -58238,9 +58048,50 @@
 "source": "P-cfbb4bed1e",
 "target": "O-6e0f19f16b",
 "type": "member_of",
+"n": 6,
+"episodes": [
+196,
+238,
+242,
+265,
+295,
+336
+],
+"confidence": "stated",
+"detail": null
+},
+{
+"source": "P-cfbb4bed1e",
+"target": "O-8519099cf1",
+"type": "member_of",
 "n": 1,
 "episodes": [
-265
+295
+],
+"confidence": "stated",
+"detail": null
+},
+{
+"source": "P-cfbb4bed1e",
+"target": "O-99b11129a2",
+"type": "member_of",
+"n": 3,
+"episodes": [
+196,
+238,
+295
+],
+"confidence": "stated",
+"detail": null
+},
+{
+"source": "P-cfbb4bed1e",
+"target": "O-a504c4fa2b",
+"type": "member_of",
+"n": 2,
+"episodes": [
+196,
+295
 ],
 "confidence": "stated",
 "detail": null
@@ -58977,17 +58828,6 @@
 "episodes": [
 286,
 344
-],
-"confidence": "stated",
-"detail": null
-},
-{
-"source": "P-e79b43eb92",
-"target": "O-84c60fe81a",
-"type": "member_of",
-"n": 1,
-"episodes": [
-30
 ],
 "confidence": "stated",
 "detail": null
