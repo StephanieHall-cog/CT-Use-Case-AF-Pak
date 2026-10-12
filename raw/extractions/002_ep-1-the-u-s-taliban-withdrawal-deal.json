@@ -1,0 +1,1275 @@
+{
+ "episode": {
+  "idx": 2,
+  "title": "Ep. 1 - The U.S.-Taliban Withdrawal Deal",
+  "published": "Tue, 17 Mar 2020 11:00:00 +0000",
+  "guid": "cdfa159f-2bb9-4076-b112-f625e7a80386"
+ },
+ "persons": [
+  {
+   "name": "Mullah Omar",
+   "aliases": [
+    "Mullah Omar",
+    "Mu Omar",
+    "Mulamar",
+    "Mullah Mohammad Omar"
+   ],
+   "role": "Founding emir of the Taliban ('Amir of the faithful'), head of the Islamic Emirate of Afghanistan",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "dead",
+   "status_detail": "Died in 2013, per the hosts",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "00:32",
+     "quote": "the Taliban's leader, Mu, Omar, and others, rejected these requests, these demands"
+    },
+    {
+     "timestamp": "12:58",
+     "quote": "Osama bin Laden swore his blood oath... known as a Baya to Mullah Omar"
+    },
+    {
+     "timestamp": "13:36",
+     "quote": "after Mul Omar died in 2013, the al-Qaeda continued to maintain this oath"
+    }
+   ]
+  },
+  {
+   "name": "Osama bin Laden",
+   "aliases": [
+    "Osam bin Laden"
+   ],
+   "role": "Founder and leader of al-Qaeda",
+   "organizations": [
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "dead",
+   "status_detail": "Killed in 2011",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "00:26",
+     "quote": "tried to get the Taliban... to turn over bin Laden"
+    },
+    {
+     "timestamp": "12:58",
+     "quote": "Osam bin Laden swore his blood oath... to Mullah Omar"
+    },
+    {
+     "timestamp": "26:34",
+     "quote": "one of the chief benefactors for Osama bin Laden and Al Qaeda"
+    }
+   ]
+  },
+  {
+   "name": "Ayman al-Zawahiri",
+   "aliases": [
+    "Zawahiri",
+    "Zawiri",
+    "Zawahari"
+   ],
+   "role": "Emir of al-Qaeda",
+   "organizations": [
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Egyptian",
+   "status": "alive",
+   "status_detail": "Alive as of the recording (Mar 2020); his oath to the Taliban emir remains in effect",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "12:26",
+     "quote": "the leader of al-Qaeda, Zawahiri, pledged allegiance to the new leader of the Taliban"
+    },
+    {
+     "timestamp": "13:49",
+     "quote": "in 2015, for example, Iman al-Zawahiri swore his allegiance to Mullah Monsor"
+    },
+    {
+     "timestamp": "14:02",
+     "quote": "Zawahiri reupped his oath of allegiance to Habatul al-Aqunzada"
+    }
+   ]
+  },
+  {
+   "name": "Mullah Akhtar Mohammad Mansour",
+   "aliases": [
+    "Mullah Monsor",
+    "Mullah Mansour"
+   ],
+   "role": "Taliban emir, successor to Mullah Omar",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "dead",
+   "status_detail": "Killed in a U.S. drone strike in Pakistan in 2016",
+   "family": [],
+   "locations": [
+    "Pakistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "13:49",
+     "quote": "Zawahiri swore his allegiance to Mullah Monsor, who was the successor to Mullah al-Mar"
+    },
+    {
+     "timestamp": "13:56",
+     "quote": "Mullah Monsor was killed in a U.S. drone strike in Pakistan"
+    }
+   ]
+  },
+  {
+   "name": "Hibatullah Akhundzada",
+   "aliases": [
+    "Habatul al-Aqunzada",
+    "Akunzada",
+    "Mullah Habitullah Al-Qaeda",
+    "Mullahabatula",
+    "Akenzada",
+    "Akunzada",
+    "Haibatullah Akhundzada"
+   ],
+   "role": "Current emir of the Taliban",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "Issued a public statement on the day the withdrawal deal was signed; has not disavowed Zawahiri's oath",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "14:02",
+     "quote": "Zawahiri reupped his oath of allegiance to Habatul al-Aqunzada, the current emir of the Taliban"
+    },
+    {
+     "timestamp": "16:38",
+     "quote": "Akenzada did mention, and the day that this withdrawal deal was signed... issued a public statement"
+    },
+    {
+     "timestamp": "17:58",
+     "quote": "Akunzada has to release a statement disavowing Zawahiri"
+    }
+   ]
+  },
+  {
+   "name": "Sirajuddin Haqqani",
+   "aliases": [
+    "Saraj Haqqani",
+    "Saraj Akani",
+    "Sarajikani",
+    "Sir Judin Akani",
+    "Siraj Hakani"
+   ],
+   "role": "Leader of the Haqqani Network and deputy emir of the Afghan Taliban",
+   "organizations": [
+    "Haqqani Network",
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "An op-ed attributed to him appeared in the New York Times (hosts doubt he wrote it); it did not mention al-Qaeda",
+   "family": [
+    {
+     "relation": "father",
+     "name": "Jalaluddin Haqqani"
+    }
+   ],
+   "locations": [
+    "Pakistan",
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "09:09",
+     "quote": "its Amir, Saraj Haqqqani is one of the deputy emirs of the Afghan Taliban"
+    },
+    {
+     "timestamp": "11:34",
+     "quote": "Saraj Akani... their designations explicitly link them to al-Qaeda"
+    },
+    {
+     "timestamp": "26:06",
+     "quote": "Saraj Akani is the air of this network. His father, Jalalidan"
+    }
+   ]
+  },
+  {
+   "name": "Jalaluddin Haqqani",
+   "aliases": [
+    "Jalalidan",
+    "Jalaladin"
+   ],
+   "role": "Founder of the Haqqani Network; anti-Soviet jihad commander; benefactor of Osama bin Laden and al-Qaeda",
+   "organizations": [
+    "Haqqani Network"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "Status not discussed in this chunk",
+   "family": [
+    {
+     "relation": "son",
+     "name": "Sirajuddin Haqqani"
+    }
+   ],
+   "locations": [
+    "eastern Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "26:09",
+     "quote": "His father, Jalalidan, of course, was originally he worked with the CIA, actually. He worked with the Pakistani intelligence."
+    },
+    {
+     "timestamp": "26:29",
+     "quote": "became one of the chief benefactors for Osama bin Laden and Al Qaeda"
+    }
+   ]
+  },
+  {
+   "name": "Zalmay Khalilzad",
+   "aliases": [
+    "Zalmei Kalilazad",
+    "Kalilazade",
+    "Calazid",
+    "Calaisade",
+    "Klozad"
+   ],
+   "role": "U.S. Special Representative for Afghanistan Reconciliation; chief negotiator of the U.S.-Taliban deal",
+   "organizations": [
+    "U.S. State Department"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "In 2016 he was a private citizen who testified to the House Foreign Affairs subcommittee that Pakistan is a state sponsor of terror",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "06:13",
+     "quote": "Special Representative Zalmei Kalilazad, who was leading these talks"
+    },
+    {
+     "timestamp": "08:35",
+     "quote": "first, Pakistan is now a state sponsor of terror"
+    },
+    {
+     "timestamp": "10:38",
+     "quote": "Calazade has praised the Pakistanis for its help in striking the deal"
+    }
+   ]
+  },
+  {
+   "name": "Mike Pompeo",
+   "aliases": [
+    "Secretary Pompeo"
+   ],
+   "role": "U.S. Secretary of State",
+   "organizations": [
+    "U.S. State Department"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "Vouched for the Taliban's commitment to break with al-Qaeda",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "06:13",
+     "quote": "the State Department, including Secretary Mike Pompeo... decided to endorse the Taliban as America's counterterrorism partner"
+    },
+    {
+     "timestamp": "18:12",
+     "quote": "secretary Pompeo promised that the Taliban would vigorously target al-Qaeda elements"
+    },
+    {
+     "timestamp": "31:27",
+     "quote": "a few weeks after Secretary Pompeo got on TV... and vouched for the Taliban's commitment"
+    }
+   ]
+  },
+  {
+   "name": "Donald Trump",
+   "aliases": [
+    "President Trump"
+   ],
+   "role": "U.S. President",
+   "organizations": [],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "Increased the force posture, then drew down toward 8,600 troops and sought a deal with the Taliban",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "03:59",
+     "quote": "President Trump came into office with a situation where the U.S. didn't really have a plan or a desire to try and defeat the Taliban"
+    },
+    {
+     "timestamp": "11:03",
+     "quote": "the Trump administration withheld aid from Pakistan because of its support for the Hacani Network"
+    }
+   ]
+  },
+  {
+   "name": "Barack Obama",
+   "aliases": [
+    "President Obama"
+   ],
+   "role": "Former U.S. President; left a residual force in Afghanistan",
+   "organizations": [],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "03:59",
+     "quote": "a residual force left in place by President Obama"
+    }
+   ]
+  },
+  {
+   "name": "Abu Bakr al-Baghdadi",
+   "aliases": [
+    "Abu Bakradi"
+   ],
+   "role": "Leader of ISIS who declared the caliphate",
+   "organizations": [
+    "ISIS"
+   ],
+   "nationality_or_origin": "Iraqi",
+   "status": "unknown",
+   "status_detail": "Status not discussed in this chunk",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "13:14",
+     "quote": "whether or not Abu Bakradi, the leader of ISIS broke his Baya to Al-Zawahiri when he... declared the caliphate"
+    }
+   ]
+  },
+  {
+   "name": "Nasir al-Wuhayshi",
+   "aliases": [
+    "Nasser al-Wahishi"
+   ],
+   "role": "Head of al-Qaeda in the Arabian Peninsula; formerly Osama bin Laden's aide-de-camp",
+   "organizations": [
+    "AQAP",
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Yemeni",
+   "status": "dead",
+   "status_detail": "Shown as a martyr on the Taliban video banner",
+   "family": [],
+   "locations": [
+    "Yemen"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "24:05",
+     "quote": "Nasser al-Wahishi, who was the head of al-Qaeda in the Arabian Peninsula and who previously had served as Osama bin Laden's aide-de-camp"
+    }
+   ]
+  },
+  {
+   "name": "Asim Umar",
+   "aliases": [
+    "Osir Samumar",
+    "Osir Mammu R",
+    "Sima Mar"
+   ],
+   "role": "Senior al-Qaeda leader; first emir of al-Qaeda in the Indian Subcontinent",
+   "organizations": [
+    "AQIS",
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "",
+   "status": "dead",
+   "status_detail": "Killed in a joint U.S.-Afghan raid in Helmand in September 2019",
+   "family": [],
+   "locations": [
+    "Helmand"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "31:01",
+     "quote": "in Southern Hellman, a top al-Qaeda leader named Osir Samumar was discovered living in a Taliban stronghold"
+    },
+    {
+     "timestamp": "31:17",
+     "quote": "the first Emir of Al Qaeda in the Indian subcontinent, he was killed by a joint U.S. and Afghan raid"
+    }
+   ]
+  },
+  {
+   "name": "General Lynch",
+   "aliases": [],
+   "role": "U.S. military officer who described the Haqqani Network as merely a criminal organization",
+   "organizations": [
+    "U.S. military"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "20:00",
+     "quote": "people like general lynch telling us that the haconi network was merely a criminal organization"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Taliban",
+   "aliases": [
+    "Islamic Emirate of Afghanistan",
+    "Afghan Taliban"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda",
+    "Haqqani Network",
+    "AQIS",
+    "Pakistani military/ISI"
+   ],
+   "rivals": [
+    "Afghan government",
+    "U.S."
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Signed the 29 Feb 2020 withdrawal agreement with the U.S.; the Taliban's goal remains restoring the Islamic Emirate; has not renounced al-Qaeda's oath."
+  },
+  {
+   "name": "Haqqani Network",
+   "aliases": [
+    "Hakani network",
+    "Hacani Network",
+    "Akhanis"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban",
+    "al-Qaeda",
+    "ISI"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Integral branch of the Taliban; originally operated in Paktia, Paktika and Khost; hosts say it trains suicide bombers; 15+ leaders designated by Treasury."
+  },
+  {
+   "name": "al-Qaeda",
+   "aliases": [
+    "Al Qaeda"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban",
+    "Haqqani Network"
+   ],
+   "rivals": [
+    "ISIS"
+   ],
+   "country_base": "Afghanistan/Pakistan",
+   "notes": "Maintains an oath of allegiance (bayah) to the Taliban emir; has branches in West Africa, East Africa, Syria, Yemen and the Indian subcontinent."
+  },
+  {
+   "name": "al-Qaeda in the Indian Subcontinent",
+   "aliases": [
+    "AQIS",
+    "AQAS"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda",
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Founded in 2014 to help the Taliban resurrect the Islamic Emirate; fights alongside the Taliban; recruits from Pakistani groups."
+  },
+  {
+   "name": "al-Qaeda in the Arabian Peninsula",
+   "aliases": [
+    "AQAP"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda"
+   ],
+   "rivals": [],
+   "country_base": "Yemen",
+   "notes": "Led by Nasir al-Wuhayshi, who appears on the Taliban video banner."
+  },
+  {
+   "name": "ISIS",
+   "aliases": [
+    "Islamic State"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [
+    "al-Qaeda"
+   ],
+   "country_base": "",
+   "notes": "Argued with al-Qaeda over whether al-Baghdadi broke his bayah to Zawahiri."
+  },
+  {
+   "name": "Inter-Services Intelligence",
+   "aliases": [
+    "ISI",
+    "Pakistani intelligence"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Pakistani military",
+    "Haqqani Network",
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Supports the Haqqani Network, called a 'virtual arm of the ISI' by a former chairman of the Joint Chiefs."
+  },
+  {
+   "name": "Pakistani military",
+   "aliases": [
+    "Pakistan"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "ISI",
+    "Taliban",
+    "Haqqani Network"
+   ],
+   "rivals": [
+    "TTP"
+   ],
+   "country_base": "Pakistan",
+   "notes": "Hosts distinguish 'good Taliban' (supported) from 'bad Taliban' (fought); has not killed or captured senior Haqqani leaders."
+  },
+  {
+   "name": "Tehrik-e-Taliban Pakistan",
+   "aliases": [
+    "TTP",
+    "movement of the Taliban in Pakistan",
+    "bad Taliban"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [
+    "Pakistani military"
+   ],
+   "country_base": "Pakistan",
+   "notes": "The Pakistani state fights it."
+  },
+  {
+   "name": "Islamic Movement of Uzbekistan",
+   "aliases": [
+    "IMU"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [
+    "Pakistani military"
+   ],
+   "country_base": "Afghanistan/Pakistan",
+   "notes": "Classed by Pakistan among the 'bad Taliban'."
+  },
+  {
+   "name": "Manba al-Jihad",
+   "aliases": [
+    "Manbal Jihad",
+    "fountainhead of jihad"
+   ],
+   "type": "other",
+   "parent_or_allies": [
+    "Haqqani Network",
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Haqqani propaganda wing, fully integrated into the Taliban; Dec 2016."
+  },
+  {
+   "name": "Kabul attack network",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Haqqani Network"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Military term for a network the Haqqanis helped build to stage suicide attacks in Kabul."
+  },
+  {
+   "name": "U.S. State Department",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Negotiated the deal and vouches for the Taliban as a counterterrorism partner."
+  },
+  {
+   "name": "Afghan government",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [
+    "U.S."
+   ],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Excluded from the U.S.-Taliban negotiations."
+  },
+  {
+   "name": "House Foreign Affairs Committee subcommittee",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Heard testimony from Khalilzad and Bill Roggio in summer 2016."
+  },
+  {
+   "name": "UN Security Council Monitoring Team",
+   "aliases": [
+    "UN Security Council report"
+   ],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Reported on Asim Umar living in a Taliban stronghold."
+  },
+  {
+   "name": "U.S. Treasury Department",
+   "aliases": [
+    "Treasury"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [
+    "Haqqani Network"
+   ],
+   "country_base": "United States",
+   "notes": "Designated 15+ senior Haqqani leaders."
+  },
+  {
+   "name": "United States",
+   "aliases": [
+    "U.S.",
+    "US"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "US government/military as actor"
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Site of the U.S. war and the withdrawal; Taliban operations in 27 of 34 provinces."
+  },
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Safe haven for the Haqqanis and Taliban leadership; Mansour was killed there."
+  },
+  {
+   "name": "Kabul",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Target of the Kabul attack network's suicide attacks."
+  },
+  {
+   "name": "Paktia",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Original Haqqani operating area."
+  },
+  {
+   "name": "Paktika",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Original Haqqani operating area."
+  },
+  {
+   "name": "Khost",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Original Haqqani operating area."
+  },
+  {
+   "name": "Helmand",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Asim Umar found living in a Taliban stronghold and killed there in September 2019."
+  },
+  {
+   "name": "Jalalabad",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Nangarhar",
+   "significance": "Hosts speculate about an al-Qaeda victory parade there."
+  },
+  {
+   "name": "eastern Afghanistan",
+   "type": "region",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Early al-Qaeda cadres went through Haqqani camps here."
+  },
+  {
+   "name": "Indian subcontinent",
+   "type": "region",
+   "country": "",
+   "parent": "",
+   "significance": "AQIS's area; includes India, Bangladesh and Burma."
+  }
+ ],
+ "events": [
+  {
+   "date": "2020-02-29",
+   "date_precision": "day",
+   "type": "agreement",
+   "description": "U.S. and Taliban sign the withdrawal agreement; the U.S. is to withdraw within 14 months, with a prisoner exchange and sanctions relief for Taliban figures.",
+   "place": "",
+   "actors": [
+    "Taliban",
+    "U.S. State Department",
+    "Zalmay Khalilzad",
+    "Mike Pompeo"
+   ],
+   "timestamp": "01:44"
+  },
+  {
+   "date": "2001-10",
+   "date_precision": "month",
+   "type": "offensive",
+   "description": "U.S. goes to war in Afghanistan weeks after 9/11, after the Taliban refused to hand over bin Laden.",
+   "place": "Afghanistan",
+   "actors": [
+    "U.S.",
+    "Taliban"
+   ],
+   "timestamp": "02:11"
+  },
+  {
+   "date": "2011",
+   "date_precision": "year",
+   "type": "death",
+   "description": "Osama bin Laden is killed.",
+   "place": "",
+   "actors": [
+    "Osama bin Laden"
+   ],
+   "timestamp": "13:36"
+  },
+  {
+   "date": "2013",
+   "date_precision": "year",
+   "type": "death",
+   "description": "Mullah Omar dies; al-Qaeda maintains its oath to the Taliban emir.",
+   "place": "",
+   "actors": [
+    "Mullah Omar"
+   ],
+   "timestamp": "13:36"
+  },
+  {
+   "date": "2014",
+   "date_precision": "year",
+   "type": "other",
+   "description": "al-Qaeda in the Indian Subcontinent is founded to help the Taliban resurrect the Islamic Emirate.",
+   "place": "Indian subcontinent",
+   "actors": [
+    "AQIS",
+    "al-Qaeda"
+   ],
+   "timestamp": "28:08"
+  },
+  {
+   "date": "2015",
+   "date_precision": "year",
+   "type": "statement",
+   "description": "Zawahiri swears allegiance to Mullah Mansour; the Taliban publish the acceptance in English on their website and later remove the page.",
+   "place": "",
+   "actors": [
+    "Ayman al-Zawahiri",
+    "Mullah Akhtar Mohammad Mansour",
+    "Taliban"
+   ],
+   "timestamp": "13:49"
+  },
+  {
+   "date": "2016",
+   "date_precision": "year",
+   "type": "death",
+   "description": "Mullah Mansour is killed in a U.S. drone strike in Pakistan.",
+   "place": "Pakistan",
+   "actors": [
+    "Mullah Akhtar Mohammad Mansour",
+    "U.S."
+   ],
+   "timestamp": "13:56"
+  },
+  {
+   "date": "2016",
+   "date_precision": "year",
+   "type": "statement",
+   "description": "Zawahiri renews his oath of allegiance to Hibatullah Akhundzada.",
+   "place": "",
+   "actors": [
+    "Ayman al-Zawahiri",
+    "Hibatullah Akhundzada"
+   ],
+   "timestamp": "14:02"
+  },
+  {
+   "date": "2016",
+   "date_precision": "year",
+   "type": "meeting",
+   "description": "Khalilzad, then a private citizen, and Bill Roggio testify before a House Foreign Affairs subcommittee; Khalilzad calls Pakistan a state sponsor of terror.",
+   "place": "Washington, D.C.",
+   "actors": [
+    "Zalmay Khalilzad",
+    "House Foreign Affairs Committee subcommittee"
+   ],
+   "timestamp": "07:13"
+  },
+  {
+   "date": "2016-12",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Manba al-Jihad releases an hour-plus video, 'Bond of the Nation with the Mujahideen', celebrating the Taliban-al-Qaeda relationship.",
+   "place": "",
+   "actors": [
+    "Manba al-Jihad",
+    "Haqqani Network",
+    "Taliban"
+   ],
+   "timestamp": "22:47"
+  },
+  {
+   "date": "2019-07",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "During talks with the State Department, the Taliban release an English-subtitled video justifying the 9/11 attacks.",
+   "place": "",
+   "actors": [
+    "Taliban"
+   ],
+   "timestamp": "32:34"
+  },
+  {
+   "date": "2019-09",
+   "date_precision": "month",
+   "type": "strike",
+   "description": "Asim Umar, found housed by a Taliban shadow governor, is killed in a joint U.S.-Afghan raid.",
+   "place": "Helmand",
+   "actors": [
+    "Asim Umar",
+    "U.S.",
+    "Afghan government"
+   ],
+   "timestamp": "31:01"
+  },
+  {
+   "date": "2020-02",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "A New York Times op-ed is attributed to Sirajuddin Haqqani and does not mention al-Qaeda.",
+   "place": "",
+   "actors": [
+    "Sirajuddin Haqqani"
+   ],
+   "timestamp": "26:00"
+  },
+  {
+   "date": "2020-03-13",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Recording date: 13-14 days after the agreement, with no Taliban disavowal of al-Qaeda and Taliban operations resumed in 27 of 34 provinces.",
+   "place": "Afghanistan",
+   "actors": [
+    "Taliban"
+   ],
+   "timestamp": "18:06"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Sirajuddin Haqqani",
+   "target": "Jalaluddin Haqqani",
+   "type": "family",
+   "detail": "Sirajuddin is the son of Jalaluddin Haqqani, founder of the network.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "26:09",
+   "quote": "Saraj Akani is the air of this network. His father, Jalalidan"
+  },
+  {
+   "source": "Sirajuddin Haqqani",
+   "target": "Haqqani Network",
+   "type": "leads",
+   "detail": "Sirajuddin leads the Haqqani Network.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "11:34",
+   "quote": "not only the leader of the Khash Khani Network, but a deputy mayor of the Afghan Taliban"
+  },
+  {
+   "source": "Sirajuddin Haqqani",
+   "target": "Hibatullah Akhundzada",
+   "type": "deputy_of",
+   "detail": "Sirajuddin is one of the deputy emirs of the Taliban.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "09:09",
+   "quote": "Saraj Haqqqani is one of the deputy emirs of the Afghan Taliban"
+  },
+  {
+   "source": "Haqqani Network",
+   "target": "Taliban",
+   "type": "member_of",
+   "detail": "The Haqqani Network is a key branch and integral part of the Taliban command structure.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "22:51",
+   "quote": "the Haqqani network is fully integrated part of the command structure of the Taliban"
+  },
+  {
+   "source": "Manba al-Jihad",
+   "target": "Haqqani Network",
+   "type": "member_of",
+   "detail": "Manba al-Jihad is the Haqqani propaganda wing, integrated into the Taliban.",
+   "date": "2016-12",
+   "confidence": "stated",
+   "timestamp": "22:47",
+   "quote": "the Akhanis have a propaganda wing known as Manbal Jihad"
+  },
+  {
+   "source": "Haqqani Network",
+   "target": "Inter-Services Intelligence",
+   "type": "funded_by",
+   "detail": "The ISI and Pakistani military support the Haqqani Network, called a 'virtual arm of the ISI'.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "08:46",
+   "quote": "the Pakistani military and the Pakistani intelligence agency, the ISI... supports the Hacconi network"
+  },
+  {
+   "source": "Haqqani Network",
+   "target": "Pakistan",
+   "type": "sheltered_by",
+   "detail": "The Haqqani Network is based in Pakistan and supported by the military and intelligence service.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "21:40",
+   "quote": "it is based in Pakistan and it's closely supported by Pakistan's military and intelligence service"
+  },
+  {
+   "source": "Taliban",
+   "target": "Pakistan",
+   "type": "sheltered_by",
+   "detail": "Pakistan provides sanctuary to the Taliban senior leadership.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "12:12",
+   "quote": "Pakistani military and Pakistani intelligence provide sanctuary in support for the Taliban"
+  },
+  {
+   "source": "Osama bin Laden",
+   "target": "Mullah Omar",
+   "type": "reports_to",
+   "detail": "Bin Laden swore a bayah (oath of allegiance) to Mullah Omar before 9/11.",
+   "date": "pre-2001",
+   "confidence": "stated",
+   "timestamp": "12:58",
+   "quote": "Osam bin Laden swore his blood oath... known as a Baya to Mullah Omar"
+  },
+  {
+   "source": "Ayman al-Zawahiri",
+   "target": "Mullah Akhtar Mohammad Mansour",
+   "type": "reports_to",
+   "detail": "Zawahiri swore allegiance to Mansour as Omar's successor.",
+   "date": "2015",
+   "confidence": "stated",
+   "timestamp": "13:49",
+   "quote": "Iman al-Zawahiri swore his allegiance to Mullah Monsor"
+  },
+  {
+   "source": "Ayman al-Zawahiri",
+   "target": "Hibatullah Akhundzada",
+   "type": "reports_to",
+   "detail": "Zawahiri renewed his oath to Akhundzada after Mansour's death; it remains in effect.",
+   "date": "2016",
+   "confidence": "stated",
+   "timestamp": "14:02",
+   "quote": "Zawahiri reupped his oath of allegiance to Habatul al-Aqunzada"
+  },
+  {
+   "source": "Mullah Akhtar Mohammad Mansour",
+   "target": "Mullah Omar",
+   "type": "succeeded",
+   "detail": "Mansour succeeded Omar as Taliban emir.",
+   "date": "2013",
+   "confidence": "stated",
+   "timestamp": "13:49",
+   "quote": "Mullah Monsor, who was the successor to Mullah al-Mar"
+  },
+  {
+   "source": "Hibatullah Akhundzada",
+   "target": "Mullah Akhtar Mohammad Mansour",
+   "type": "succeeded",
+   "detail": "Akhundzada became emir after Mansour's death; Zawahiri renewed his oath to him.",
+   "date": "2016",
+   "confidence": "inferred",
+   "timestamp": "14:02",
+   "quote": "Mullah Monsor was killed... Zawahiri reupped his oath of allegiance to Habatul al-Aqunzada, the current emir"
+  },
+  {
+   "source": "United States",
+   "target": "Mullah Akhtar Mohammad Mansour",
+   "type": "killed",
+   "detail": "Mansour was killed in a U.S. drone strike in Pakistan.",
+   "date": "2016",
+   "confidence": "stated",
+   "timestamp": "13:56",
+   "quote": "Mullah Monsor was killed in a U.S. drone strike in Pakistan"
+  },
+  {
+   "source": "al-Qaeda",
+   "target": "Taliban",
+   "type": "allied_with",
+   "detail": "Al-Qaeda has maintained its oath of allegiance to the Taliban emir since before 9/11 and fights under the Taliban banner.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "13:25",
+   "quote": "al-Qaeda has maintained its own oath of allegiance to the head of the Taliban since before 9-11"
+  },
+  {
+   "source": "Haqqani Network",
+   "target": "al-Qaeda",
+   "type": "allied_with",
+   "detail": "The Haqqanis have a decades-long alliance with al-Qaeda, including training foreign suicide bombers.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "26:50",
+   "quote": "the Akhanis remained deeply in bed with al-Qaeda"
+  },
+  {
+   "source": "Jalaluddin Haqqani",
+   "target": "Osama bin Laden",
+   "type": "other",
+   "detail": "Jalaluddin was a chief benefactor of bin Laden and al-Qaeda; early al-Qaeda cadres went through Haqqani camps.",
+   "date": "1980s-",
+   "confidence": "stated",
+   "timestamp": "26:29",
+   "quote": "became one of the chief benefactors for Osama bin Laden and Al Qaeda"
+  },
+  {
+   "source": "Jalaluddin Haqqani",
+   "target": "Inter-Services Intelligence",
+   "type": "allied_with",
+   "detail": "Jalaluddin worked with the CIA and Pakistani intelligence and had Saudi support in the anti-Soviet jihad.",
+   "date": "1980s",
+   "confidence": "stated",
+   "timestamp": "26:09",
+   "quote": "he worked with the CIA, actually. He worked with the Pakistani intelligence."
+  },
+  {
+   "source": "al-Qaeda in the Indian Subcontinent",
+   "target": "Taliban",
+   "type": "allied_with",
+   "detail": "AQIS fights alongside the Taliban as insurgents, including as recently as September 2019.",
+   "date": "2019-09",
+   "confidence": "stated",
+   "timestamp": "29:18",
+   "quote": "al-Qaeda in the Indian subcontinent is fighting alongside of the Taliban"
+  },
+  {
+   "source": "Asim Umar",
+   "target": "al-Qaeda in the Indian Subcontinent",
+   "type": "leads",
+   "detail": "Asim Umar was the first emir of AQIS and a senior al-Qaeda manager.",
+   "date": "2014",
+   "confidence": "stated",
+   "timestamp": "31:17",
+   "quote": "the first Emir of Al Qaeda in the Indian subcontinent"
+  },
+  {
+   "source": "Asim Umar",
+   "target": "Taliban",
+   "type": "sheltered_by",
+   "detail": "A Taliban shadow governor housed Asim Umar in southern Helmand.",
+   "date": "2019-09",
+   "confidence": "stated",
+   "timestamp": "31:07",
+   "quote": "a Taliban shadow governor was actually housing Osir Mammu R there"
+  },
+  {
+   "source": "Asim Umar",
+   "target": "Helmand",
+   "type": "located_in",
+   "detail": "Asim Umar lived in a Taliban stronghold in southern Helmand.",
+   "date": "2019-09",
+   "confidence": "stated",
+   "timestamp": "31:01",
+   "quote": "in Southern Hellman, a top al-Qaeda leader named Osir Samumar was discovered living in a Taliban stronghold"
+  },
+  {
+   "source": "United States",
+   "target": "Asim Umar",
+   "type": "killed",
+   "detail": "Asim Umar was killed in a joint U.S.-Afghan raid in September 2019.",
+   "date": "2019-09",
+   "confidence": "stated",
+   "timestamp": "31:21",
+   "quote": "he was killed by a joint U.S. and Afghan raid in September of last year"
+  },
+  {
+   "source": "Nasir al-Wuhayshi",
+   "target": "Osama bin Laden",
+   "type": "other",
+   "detail": "Wuhayshi served as bin Laden's aide-de-camp before heading AQAP.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "24:05",
+   "quote": "previously had served as Osama bin Laden's aide-de-camp"
+  },
+  {
+   "source": "Nasir al-Wuhayshi",
+   "target": "al-Qaeda in the Arabian Peninsula",
+   "type": "leads",
+   "detail": "Wuhayshi was the head of AQAP.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "24:05",
+   "quote": "the head of al-Qaeda in the Arabian Peninsula"
+  },
+  {
+   "source": "Zalmay Khalilzad",
+   "target": "Taliban",
+   "type": "negotiated_with",
+   "detail": "Khalilzad led the U.S. side of the talks that produced the 29 Feb 2020 agreement.",
+   "date": "2020-02-29",
+   "confidence": "stated",
+   "timestamp": "06:13",
+   "quote": "Special Representative Zalmei Kalilazad, who was leading these talks"
+  },
+  {
+   "source": "Mike Pompeo",
+   "target": "Zalmay Khalilzad",
+   "type": "allied_with",
+   "detail": "Pompeo and Khalilzad jointly endorsed the Taliban as a counterterrorism partner.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "06:13",
+   "quote": "Secretary Mike Pompeo and Special Representative Zalmei Kalilazad... decided to endorse the Taliban"
+  },
+  {
+   "source": "Abu Bakr al-Baghdadi",
+   "target": "ISIS",
+   "type": "leads",
+   "detail": "Al-Baghdadi led ISIS and declared the caliphate.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "13:14",
+   "quote": "Abu Bakradi, the leader of ISIS"
+  },
+  {
+   "source": "Pakistani military",
+   "target": "Tehrik-e-Taliban Pakistan",
+   "type": "rival_of",
+   "detail": "Pakistan fights the 'bad Taliban' but not the Afghan Taliban or Haqqanis.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "09:43",
+   "quote": "the bad Taliban would be considered the Taliban that fought the Pakistani state"
+  },
+  {
+   "source": "Tehrik-e-Taliban Pakistan",
+   "target": "Taliban",
+   "type": "sheltered_by",
+   "detail": "The hosts say the 'good Taliban' shelter, support, train and fight alongside the 'bad Taliban'.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "10:00",
+   "quote": "the good Taliban shelters, supports, trains, fights alongside the bad Taliban"
+  }
+ ],
+ "sources_cited": [
+  "Zalmay Khalilzad's 2016 testimony to the House Foreign Affairs subcommittee",
+  "U.S. State Department reporting that Pakistan remains a safe haven for the Haqqanis and Taliban leadership",
+  "U.S. Treasury designations of 15+ Haqqani Network leaders",
+  "UN Security Council report on Asim Umar in Helmand",
+  "Taliban propaganda video 'Bond of the Nation with the Mujahideen' (Dec 2016, Manba al-Jihad)",
+  "Taliban video of July 2019 justifying 9/11",
+  "Taliban website post accepting Zawahiri's bayah (2015, later removed)",
+  "Sirajuddin Haqqani New York Times op-ed (attributed)"
+ ],
+ "key_claims": [
+  "The Feb 29, 2020 U.S.-Taliban agreement is a withdrawal deal rather than a peace deal, and it is lopsided in the Taliban's favor.",
+  "Al-Qaeda's bayah to the Taliban emir has been maintained from Omar through Mansour to Akhundzada, and the Taliban has not renounced it.",
+  "The Haqqani Network is an integral part of the Taliban command structure, closely tied to al-Qaeda, based in Pakistan and supported by the Pakistani military and ISI.",
+  "Pakistan has handed over no senior or mid-level Haqqani leaders, and the deal does not mention Pakistan despite Khalilzad's 2016 testimony.",
+  "Asim Umar, AQIS's first emir, was found living in a Taliban stronghold in Helmand and killed in September 2019, which the hosts cite as evidence against Taliban commitments.",
+  "AQIS was formed in 2014 to help the Taliban resurrect the Islamic Emirate, and the deal does not require the Taliban to act against it unless it plots against the West.",
+  "The deal has no verification or enforcement mechanisms, and no Taliban raids on al-Qaeda have been seen since signing.",
+  "The Taliban's July 2019 English-subtitled video justifying 9/11 shows it has not changed its stance."
+ ]
+}

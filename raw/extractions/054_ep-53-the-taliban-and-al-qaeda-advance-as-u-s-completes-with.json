@@ -1,0 +1,608 @@
+{
+ "episode": {
+  "idx": 54,
+  "title": "Ep. 53 - The Taliban and al Qaeda advance as U.S. completes withdrawal",
+  "published": "Tue, 13 Jul 2021 00:00:00 +0000",
+  "guid": ""
+ },
+ "persons": [
+  {
+   "name": "Joe Biden",
+   "aliases": [
+    "President Biden"
+   ],
+   "role": "US President; April 14 and July 8, 2021 speeches defending full withdrawal; floated partition of Afghanistan; downplayed al-Qaeda presence",
+   "organizations": [
+    "Biden administration"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "00:43",
+     "quote": "on July 8th, President Biden gave a follow-up speech on his decision to withdraw from Afghanistan"
+    },
+    {
+     "timestamp": "02:58",
+     "quote": "President Biden basically floated the partition of Afghanistan"
+    }
+   ]
+  },
+  {
+   "name": "Ayman al-Zawahiri",
+   "aliases": [
+    "al-Sahiri"
+   ],
+   "role": "Al-Qaeda's deputy emir on 9/11 and its leader today; believed in Afghan-Pakistan region, Roggio believes in Pakistan",
+   "organizations": [
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Egyptian",
+   "status": "alive",
+   "status_detail": "Alive as of July 2021; may relocate to Afghanistan as Taliban advances",
+   "family": [],
+   "locations": [
+    "Pakistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "33:15",
+     "quote": "al-Sahiri al-Qaeda's deputy emir in 9-11 and its leader today is still alive and he's believed to be in the Afghan-Pakistan region. I believe he's in Pakistan"
+    }
+   ]
+  },
+  {
+   "name": "Osama bin Laden",
+   "aliases": [],
+   "role": "Al-Qaeda founder killed 2011; Biden treats his death as the end of the mission",
+   "organizations": [
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "dead",
+   "status_detail": "Killed 2011",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "02:27",
+     "quote": "with the killing of Osama bin Laden in 2011, that was it"
+    }
+   ]
+  },
+  {
+   "name": "Tadin Khan",
+   "aliases": [
+    "General Zeke's brother",
+    "Raseek brothers"
+   ],
+   "role": "Brother of the late General Abdul Raziq; secures Kandahar; base of power and revenue at Spin Boldak border crossing",
+   "organizations": [
+    "Afghan government"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "",
+   "family": [
+    {
+     "relation": "brother",
+     "name": "Abdul Raziq"
+    }
+   ],
+   "locations": [
+    "Kandahar",
+    "Spin Boldak"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "11:05",
+     "quote": "General Zeke's brother, who basically secures Kandahar, his base of power is at Spin Baldak. That's where he collects his money"
+    }
+   ]
+  },
+  {
+   "name": "Abdul Raziq",
+   "aliases": [
+    "General Zeke",
+    "Raseek"
+   ],
+   "role": "Late Kandahar police chief; the Raziq brothers were relied on to secure Kandahar City and Spin Boldak",
+   "organizations": [
+    "Afghan government"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "dead",
+   "status_detail": "Referred to as the general whose brother now secures Kandahar",
+   "family": [
+    {
+     "relation": "brother",
+     "name": "Tadin Khan"
+    }
+   ],
+   "locations": [
+    "Kandahar"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "11:29",
+     "quote": "The Raseek brothers would have been relied to secure Kandahar City and it's been Baldak"
+    }
+   ]
+  },
+  {
+   "name": "Atta Mohammad Noor",
+   "aliases": [
+    "Muhammad Adonore"
+   ],
+   "role": "Powerful warlord in Mazar-i-Sharif commanding thousands of militia fighters as the Afghan military collapses",
+   "organizations": [
+    "Afghan government"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Mazar-i-Sharif"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "25:00",
+     "quote": "interview by Muhammad Adonore, the powerful warlord in Mazur Sharif... He commands thousands of fighters in his militia"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Taliban",
+   "aliases": [
+    "Islamic Emirate of Afghanistan",
+    "Islamic Emirate"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda"
+   ],
+   "rivals": [
+    "Afghan government",
+    "United States"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Seized border crossings/dry ports in Herat, Kunduz, Badakhshan, Takhar; assaulting Kandahar City and Spin Boldak; outside Mazar-i-Sharif; wants all of Afghanistan, not partition; stronger than any time since 2001"
+  },
+  {
+   "name": "al-Qaeda",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [
+    "United States"
+   ],
+   "country_base": "Afghanistan/Pakistan",
+   "notes": "Presence in Afghanistan consistently underestimated; Shorabak training camp found 2015; Biden made no mention of al-Qaeda in Afghanistan"
+  },
+  {
+   "name": "Islamic State",
+   "aliases": [
+    "ISIS"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Hosts say US also low-balled ISIS estimates in Afghanistan"
+  },
+  {
+   "name": "Afghan government",
+   "aliases": [
+    "Afghan security forces",
+    "Afghan military"
+   ],
+   "type": "other",
+   "parent_or_allies": [
+    "United States"
+   ],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Collapsing; nominal 300,000 forces overstated; est. 20-25% have left the battlefield, some fleeing to Iran, Tajikistan, Uzbekistan"
+  },
+  {
+   "name": "United States",
+   "aliases": [
+    "U.S.",
+    "US military",
+    "Biden administration"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Afghan government"
+   ],
+   "rivals": [
+    "Taliban",
+    "al-Qaeda"
+   ],
+   "country_base": "United States",
+   "notes": "Completing withdrawal; small residual presence to protect embassy; 'Fortress Kabul'"
+  },
+  {
+   "name": "Special Inspector General for Afghanistan Reconstruction",
+   "aliases": [
+    "SIGAR",
+    "cigar"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Documented waste and fraud in nation-building"
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Taliban offensive since May 1, 2021; US withdrawal"
+  },
+  {
+   "name": "Kandahar",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Kandahar",
+   "significance": "Taliban assault on the provincial capital, July 9, 2021"
+  },
+  {
+   "name": "Spin Boldak",
+   "type": "town",
+   "country": "Afghanistan",
+   "parent": "Kandahar",
+   "significance": "Border crossing with Pakistan; Tadin Khan's power base; Taliban advancing"
+  },
+  {
+   "name": "Herat",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Two border crossings/dry ports seized by Taliban"
+  },
+  {
+   "name": "Kunduz",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Border crossing/dry port seized by Taliban"
+  },
+  {
+   "name": "Badakhshan",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Smaller crossings seized"
+  },
+  {
+   "name": "Takhar",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Smaller crossings seized"
+  },
+  {
+   "name": "Mazar-i-Sharif",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Balkh",
+   "significance": "Taliban outside the gates; Atta Noor's militia"
+  },
+  {
+   "name": "Kabul",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Potential 'Fortress Kabul' residual US presence"
+  },
+  {
+   "name": "Shorabak",
+   "type": "district",
+   "country": "Afghanistan",
+   "parent": "Kandahar",
+   "significance": "Massive al-Qaeda training camp found 2015"
+  },
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Roggio believes Zawahiri is in Pakistan; threats tied to Afghanistan"
+  },
+  {
+   "name": "Iran",
+   "type": "country",
+   "country": "Iran",
+   "parent": "",
+   "significance": "Afghan forces fleeing across border"
+  },
+  {
+   "name": "Tajikistan",
+   "type": "country",
+   "country": "Tajikistan",
+   "parent": "",
+   "significance": "Afghan forces fleeing across border"
+  },
+  {
+   "name": "Uzbekistan",
+   "type": "country",
+   "country": "Uzbekistan",
+   "parent": "",
+   "significance": "Afghan forces fleeing across border"
+  }
+ ],
+ "events": [
+  {
+   "date": "2021-04-14",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Biden's first speech announcing full withdrawal from Afghanistan",
+   "place": "",
+   "actors": [
+    "Joe Biden"
+   ],
+   "timestamp": "00:54"
+  },
+  {
+   "date": "2021-07-08",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Biden follow-up speech defending withdrawal; floats partition; says Taliban strongest since 2001; makes no mention of al-Qaeda in Afghanistan",
+   "place": "",
+   "actors": [
+    "Joe Biden"
+   ],
+   "timestamp": "00:43"
+  },
+  {
+   "date": "2021-07",
+   "date_precision": "month",
+   "type": "offensive",
+   "description": "Taliban seize border crossings/dry ports: two in Herat, one in Kunduz, plus smaller crossings in Badakhshan and Takhar",
+   "place": "Herat",
+   "actors": [
+    "Taliban"
+   ],
+   "timestamp": "08:52"
+  },
+  {
+   "date": "2021-07-09",
+   "date_precision": "day",
+   "type": "offensive",
+   "description": "Taliban launch assault into Kandahar City after taking governor's office, police HQ and jailbreak in another provincial capital",
+   "place": "Kandahar",
+   "actors": [
+    "Taliban"
+   ],
+   "timestamp": "10:16"
+  },
+  {
+   "date": "2021-07",
+   "date_precision": "month",
+   "type": "offensive",
+   "description": "Taliban advance on Spin Boldak border crossing, forcing Tadin Khan to choose between defending Kandahar or Spin Boldak",
+   "place": "Spin Boldak",
+   "actors": [
+    "Taliban",
+    "Tadin Khan"
+   ],
+   "timestamp": "11:02"
+  },
+  {
+   "date": "2021-07",
+   "date_precision": "month",
+   "type": "offensive",
+   "description": "Taliban outside the gates of Mazar-i-Sharif; Atta Noor organizing militia",
+   "place": "Mazar-i-Sharif",
+   "actors": [
+    "Taliban",
+    "Atta Mohammad Noor"
+   ],
+   "timestamp": "25:13"
+  },
+  {
+   "date": "2015",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Massive al-Qaeda training camp found in Shorabak",
+   "place": "Shorabak",
+   "actors": [
+    "al-Qaeda",
+    "United States"
+   ],
+   "timestamp": "30:42"
+  },
+  {
+   "date": "2011",
+   "date_precision": "year",
+   "type": "killing",
+   "description": "Killing of Osama bin Laden",
+   "place": "",
+   "actors": [
+    "Osama bin Laden",
+    "United States"
+   ],
+   "timestamp": "02:27"
+  },
+  {
+   "date": "2001",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Islamic Emirate of Afghanistan overthrown after 9/11",
+   "place": "Afghanistan",
+   "actors": [
+    "Taliban",
+    "United States"
+   ],
+   "timestamp": "40:58"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Ayman al-Zawahiri",
+   "target": "al-Qaeda",
+   "type": "leads",
+   "detail": "Deputy emir on 9/11, leader today",
+   "date": "2021",
+   "confidence": "stated",
+   "timestamp": "33:15",
+   "quote": "al-Sahiri al-Qaeda's deputy emir in 9-11 and its leader today is still alive"
+  },
+  {
+   "source": "Ayman al-Zawahiri",
+   "target": "Pakistan",
+   "type": "located_in",
+   "detail": "Believed in Afghan-Pakistan region; Roggio believes Pakistan",
+   "date": "2021-07",
+   "confidence": "stated",
+   "timestamp": "33:15",
+   "quote": "he's believed to be in the Afghan-Pakistan region. I believe he's in Pakistan"
+  },
+  {
+   "source": "Tadin Khan",
+   "target": "Abdul Raziq",
+   "type": "family",
+   "detail": "Brother of General Raziq",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "11:05",
+   "quote": "General Zeke's brother, who basically secures Kandahar"
+  },
+  {
+   "source": "Tadin Khan",
+   "target": "Spin Boldak",
+   "type": "located_in",
+   "detail": "Base of power and revenue at Spin Boldak",
+   "date": "2021",
+   "confidence": "stated",
+   "timestamp": "11:12",
+   "quote": "his base of power is at Spin Baldak. That's where he collects his money"
+  },
+  {
+   "source": "Tadin Khan",
+   "target": "Kandahar",
+   "type": "controls",
+   "detail": "Secures Kandahar for the government",
+   "date": "2021",
+   "confidence": "stated",
+   "timestamp": "11:05",
+   "quote": "who basically secures Kandahar"
+  },
+  {
+   "source": "Atta Mohammad Noor",
+   "target": "Mazar-i-Sharif",
+   "type": "located_in",
+   "detail": "Powerful warlord in Mazar-i-Sharif with thousands of militia fighters",
+   "date": "2021-07",
+   "confidence": "stated",
+   "timestamp": "25:00",
+   "quote": "the powerful warlord in Mazur Sharif... He commands thousands of fighters in his militia"
+  },
+  {
+   "source": "Taliban",
+   "target": "Afghan government",
+   "type": "rival_of",
+   "detail": "Afghan forces surrendering/retreating; Taliban seizing crossings and attacking provincial capitals",
+   "date": "2021-07",
+   "confidence": "stated",
+   "timestamp": "11:37",
+   "quote": "we're just seeing Afghan forces surrendering or retreating from the Taliban"
+  },
+  {
+   "source": "Taliban",
+   "target": "al-Qaeda",
+   "type": "allied_with",
+   "detail": "Episode frames Taliban and al-Qaeda advancing together; al-Qaeda presence in Afghanistan tied to Taliban areas",
+   "date": "2021",
+   "confidence": "inferred",
+   "timestamp": "46:10",
+   "quote": "He made no mention of al-Qaeda today in Afghanistan, which I think is telling"
+  },
+  {
+   "source": "Taliban",
+   "target": "Herat",
+   "type": "controls",
+   "detail": "Seized two border crossings/dry ports in Herat",
+   "date": "2021-07",
+   "confidence": "stated",
+   "timestamp": "09:08",
+   "quote": "Two of them in Harat and one of them in Kunduz"
+  },
+  {
+   "source": "Taliban",
+   "target": "Kunduz",
+   "type": "controls",
+   "detail": "Seized border crossing/dry port in Kunduz",
+   "date": "2021-07",
+   "confidence": "stated",
+   "timestamp": "09:14",
+   "quote": "one of them in Kunduz"
+  },
+  {
+   "source": "Taliban",
+   "target": "Kandahar",
+   "type": "other",
+   "detail": "Assault into Kandahar City",
+   "date": "2021-07-09",
+   "confidence": "stated",
+   "timestamp": "10:16",
+   "quote": "this morning they launched an assault into kandahar city the provincial capital"
+  },
+  {
+   "source": "United States",
+   "target": "Afghan government",
+   "type": "supports",
+   "detail": "Years of training mission to build Afghan capacity",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "21:52",
+   "quote": "the training mission that's been going on Afghanistan is to build up the Afghan capacity to fight for and hold on to their country"
+  },
+  {
+   "source": "Joe Biden",
+   "target": "United States",
+   "type": "leads",
+   "detail": "US President ordering complete withdrawal",
+   "date": "2021",
+   "confidence": "stated",
+   "timestamp": "02:01",
+   "quote": "President Biden is ordering the complete withdrawal from Afghanistan"
+  }
+ ],
+ "sources_cited": [
+  "Biden speech, July 8, 2021",
+  "Biden speech, April 14, 2021",
+  "Interview with Atta Mohammad Noor",
+  "SIGAR reporting on waste and fraud",
+  "Twitter videos of Afghan soldiers surrendering"
+ ],
+ "key_claims": [
+  "Biden's July 8, 2021 speech floated partition of Afghanistan; the Taliban wants the whole Islamic Emirate of Afghanistan, not a southern/eastern rump, as shown by seizing northern and western border crossings.",
+  "Taliban launched an assault into Kandahar City on July 9, 2021 and threatens Spin Boldak, Tadin Khan's revenue base.",
+  "The nominal 300,000 Afghan security forces figure is overstated; 20-25% have left the battlefield, some fleeing to Iran, Tajikistan and Uzbekistan.",
+  "Zawahiri is alive, believed in the Afghan-Pakistan region (Roggio: Pakistan), and may move to Afghanistan as the Taliban advances.",
+  "US intelligence persistently underestimated al-Qaeda in Afghanistan (e.g., Shorabak camp 2015) to support the case for withdrawal; Biden made no mention of al-Qaeda in Afghanistan.",
+  "Hosts agree with Biden that the Taliban is stronger than at any time since 2001.",
+  "The residual US presence in Kabul risks becoming 'Fortress Kabul'."
+ ]
+}

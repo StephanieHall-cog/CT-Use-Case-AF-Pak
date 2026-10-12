@@ -1,0 +1,797 @@
+{
+ "episode": {
+  "idx": 344,
+  "title": "The Taliban vs Pakistan: Can they both lose?",
+  "published": "Thu, 08 Oct 2026 00:00:00 +0000",
+  "guid": ""
+ },
+ "persons": [
+  {
+   "name": "Will Selber",
+   "aliases": [],
+   "role": "Guest; retired USAF lieutenant colonel, Middle East FAO and intelligence officer, LWJ contributor covering Pakistan/Afghanistan; served at US Embassy Kabul in final year",
+   "organizations": [
+    "FDD's Long War Journal",
+    "US Air Force"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": true,
+   "mentions": [
+    {
+     "timestamp": "00:34",
+     "quote": "my good friend and colleague Will Selber. Will is a retired U.S. Air Force lieutenant colonel"
+    }
+   ]
+  },
+  {
+   "name": "Sirajuddin Haqqani",
+   "aliases": [
+    "Sourajuddin Hacconi",
+    "Saraj",
+    "Saraj Khan",
+    "Sirjan Nakani",
+    "Haqani"
+   ],
+   "role": "Taliban interior minister and Haqqani Network leader; son of Jalaluddin Haqqani; supposed 'moderate faction' rift with Akhundzada dismissed by hosts",
+   "organizations": [
+    "Taliban",
+    "Haqqani Network"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "",
+   "family": [
+    {
+     "relation": "father",
+     "name": "Jalaluddin Haqqani"
+    }
+   ],
+   "locations": [
+    "Kabul"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "14:36",
+     "quote": "They have an interior ministry led by our friend... Sourajuddin, Hacconi, Jal Lund, of course, is his father"
+    },
+    {
+     "timestamp": "12:50",
+     "quote": "these divisions between Haqani and Akunzada"
+    }
+   ]
+  },
+  {
+   "name": "Jalaluddin Haqqani",
+   "aliases": [
+    "Jal Lund",
+    "Jahu Lutin"
+   ],
+   "role": "Founder of the Haqqani Network; father of Sirajuddin",
+   "organizations": [
+    "Haqqani Network"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "dead",
+   "status_detail": "",
+   "family": [
+    {
+     "relation": "son",
+     "name": "Sirajuddin Haqqani"
+    }
+   ],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "14:43",
+     "quote": "Sourajuddin, Hacconi, Jal Lund, of course, is his father"
+    }
+   ]
+  },
+  {
+   "name": "Hibatullah Akhundzada",
+   "aliases": [
+    "Akunzada"
+   ],
+   "role": "Taliban emir; reported divisions with Haqqani dismissed as a trope that 'won't die'",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "12:50",
+     "quote": "these divisions between Haqani and Akunzada"
+    }
+   ]
+  },
+  {
+   "name": "Amir Khan Muttaqi",
+   "aliases": [
+    "Mataki"
+   ],
+   "role": "Taliban foreign minister; rumored physical confrontation with Sirajuddin Haqqani after takeover, which hosts find implausible",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "15:16",
+     "quote": "He's the foreign minister now... Mataki, is that what you're talking about?"
+    }
+   ]
+  },
+  {
+   "name": "Hafiz Gul Bahadur",
+   "aliases": [
+    "Hafiz Ghal Bahadar",
+    "Haphis Bokoahadar"
+   ],
+   "role": "Powerful Pakistani Taliban commander in North Waziristan; long a 'good Taliban' conduit for Pakistani support into Afghanistan; now turned on the Pakistani state as part of Ittehad al-Mujahideen Pakistan",
+   "organizations": [
+    "Ittehad al-Mujahideen Pakistan",
+    "Hafiz Gul Bahadur Group"
+   ],
+   "nationality_or_origin": "Pakistani",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "North Waziristan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "33:00",
+     "quote": "Hafiz Ghal Bahadar. He was a Pakistani Taliban leader... he's turned on the Pakistani state"
+    },
+    {
+     "timestamp": "33:49",
+     "quote": "he's a very powerful Taliban commander that operates in North Waziristan... he's part of the IMP"
+    }
+   ]
+  },
+  {
+   "name": "Ayman al-Zawahiri",
+   "aliases": [
+    "Zawahiri"
+   ],
+   "role": "Al-Qaeda emir killed by US strike in Kabul; Taliban suffered no blowback",
+   "organizations": [
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Egyptian",
+   "status": "dead",
+   "status_detail": "Killed in Kabul by US strike",
+   "family": [],
+   "locations": [
+    "Kabul"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "29:08",
+     "quote": "what type of blowback did they have with us doing a strike that killed Zawahiri and Kabul?"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Taliban",
+   "aliases": [
+    "Afghan Taliban",
+    "Islamic Emirate of Afghanistan"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda",
+    "Tehrik-e-Taliban Pakistan",
+    "Ittehad al-Mujahideen Pakistan",
+    "Russia",
+    "China"
+   ],
+   "rivals": [
+    "Pakistan",
+    "Islamic State Khorasan Province",
+    "National Resistance Front"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Controls every district and all ministries five years after US withdrawal; pre-9/11 controlled ~80-85%; recognized by China, Russia and others; hosts TTP/IMP/al-Qaeda as auxiliary forces; absorbing Pakistani airstrikes as price of doing business"
+  },
+  {
+   "name": "Haqqani Network",
+   "aliases": [
+    "Hakanis",
+    "Haqanis"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Runs interior ministry; 'moderate faction' narrative rejected"
+  },
+  {
+   "name": "al-Qaeda",
+   "aliases": [
+    "al-Qaeda Shura"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban",
+    "Ittehad al-Mujahideen Pakistan"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Operates under Taliban protection; Shorabak camp; subgroups within IMP"
+  },
+  {
+   "name": "al-Qaeda in the Indian Subcontinent",
+   "aliases": [
+    "AQIS"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda",
+    "Ittehad al-Mujahideen Pakistan"
+   ],
+   "rivals": [
+    "Pakistan"
+   ],
+   "country_base": "Afghanistan/Pakistan",
+   "notes": "Did not condemn IMP police attack, only that it began inside a mosque"
+  },
+  {
+   "name": "Tehrik-e-Taliban Pakistan",
+   "aliases": [
+    "TTP",
+    "Movement of the Taliban in Pakistan",
+    "Islamic Emirate of Pakistan"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban",
+    "al-Qaeda"
+   ],
+   "rivals": [
+    "Pakistan"
+   ],
+   "country_base": "Afghanistan/Pakistan",
+   "notes": "Attack on checkpoint with follow-on car bomb on first responders; declared Islamic Emirate of Pakistan; emboldened rather than subdued by Taliban victory"
+  },
+  {
+   "name": "Ittehad al-Mujahideen Pakistan",
+   "aliases": [
+    "IMP",
+    "Etihad al-Mujahideen in Pakistan"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Tehrik-e-Taliban Pakistan",
+    "al-Qaeda",
+    "Hafiz Gul Bahadur Group"
+   ],
+   "rivals": [
+    "Pakistan"
+   ],
+   "country_base": "Pakistan/Afghanistan",
+   "notes": "Splinter/umbrella of TTP; Sept 18 suicide attack on police compound mosque in NW Pakistan; includes Gul Bahadur and al-Qaeda subgroups"
+  },
+  {
+   "name": "Pakistan",
+   "aliases": [
+    "Pakistani state",
+    "Pakistani Air Force",
+    "Pakistani police"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [
+    "Tehrik-e-Taliban Pakistan",
+    "Ittehad al-Mujahideen Pakistan",
+    "Taliban",
+    "India"
+   ],
+   "country_base": "Pakistan",
+   "notes": "Three rounds of airstrikes in eastern/southern Afghanistan; 'good Taliban/bad Taliban' policy backfiring; learning price of supporting jihadists"
+  },
+  {
+   "name": "Islamic State Khorasan Province",
+   "aliases": [
+    "Islamic State",
+    "ISIS"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Claimed Faizabad attack; not defeated but reduced threat"
+  },
+  {
+   "name": "National Resistance Front",
+   "aliases": [
+    "NRF"
+   ],
+   "type": "militia",
+   "parent_or_allies": [],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Also claimed Faizabad attack"
+  },
+  {
+   "name": "Russia",
+   "aliases": [
+    "Russian embassy in Kabul"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Russia",
+   "notes": "Recognizes Taliban government; embassy sided with Taliban over Pakistan"
+  },
+  {
+   "name": "China",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "China",
+   "notes": "Recognizes Taliban as government of Afghanistan"
+  },
+  {
+   "name": "India",
+   "aliases": [
+    "Indians"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [
+    "Pakistan"
+   ],
+   "country_base": "India",
+   "notes": "Only winner of Pakistan-Taliban fighting per hosts"
+  },
+  {
+   "name": "United States",
+   "aliases": [
+    "U.S.",
+    "US Embassy Kabul"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [
+    "Taliban",
+    "al-Qaeda"
+   ],
+   "country_base": "United States",
+   "notes": "6,500 strikes/17,500 munitions in 2001; 7,423 munitions in 2019; killed Zawahiri in Kabul"
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Fully Taliban-controlled; sanctuary for TTP/IMP/al-Qaeda; target of Pakistani airstrikes"
+  },
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Spike in TTP/IMP attacks; airstrikes into Afghanistan"
+  },
+  {
+   "name": "Kabul",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Zawahiri strike; Russian embassy; Taliban ministries"
+  },
+  {
+   "name": "Faizabad",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Badakhshan",
+   "significance": "Attack killing mid-level Taliban member claimed by NRF and ISIS"
+  },
+  {
+   "name": "Badakhshan",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Faizabad attack; not Taliban-controlled pre-9/11"
+  },
+  {
+   "name": "Takhar",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Not Taliban-controlled pre-9/11"
+  },
+  {
+   "name": "North Waziristan",
+   "type": "region",
+   "country": "Pakistan",
+   "parent": "Khyber Pakhtunkhwa",
+   "significance": "Hafiz Gul Bahadur's area of operations"
+  },
+  {
+   "name": "Shorabak",
+   "type": "district",
+   "country": "Afghanistan",
+   "parent": "Kandahar",
+   "significance": "2015 al-Qaeda camp"
+  },
+  {
+   "name": "Barmal",
+   "type": "district",
+   "country": "Afghanistan",
+   "parent": "Paktika",
+   "significance": "Raid killing al-Qaeda Shura member led to Shorabak discovery"
+  },
+  {
+   "name": "Northwestern Pakistan",
+   "type": "region",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "IMP suicide attack on police compound, Sept 18"
+  }
+ ],
+ "events": [
+  {
+   "date": "2026-09-18",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "Ittehad al-Mujahideen Pakistan suicide attack on a police compound mosque in northwestern Pakistan, becoming a gun battle with police",
+   "place": "Northwestern Pakistan",
+   "actors": [
+    "Ittehad al-Mujahideen Pakistan",
+    "Pakistan"
+   ],
+   "timestamp": "30:46"
+  },
+  {
+   "date": "2026-09",
+   "date_precision": "month",
+   "type": "attack",
+   "description": "TTP assault on a checkpoint followed by car bomb on first responders",
+   "place": "Pakistan",
+   "actors": [
+    "Tehrik-e-Taliban Pakistan",
+    "Pakistan"
+   ],
+   "timestamp": "32:40"
+  },
+  {
+   "date": "2026-09",
+   "date_precision": "month",
+   "type": "offensive",
+   "description": "Three rounds of Pakistani airstrikes in eastern and southern Afghanistan; Pakistan claims terrorist hideouts hit, Taliban says only civilians",
+   "place": "Afghanistan",
+   "actors": [
+    "Pakistan",
+    "Taliban"
+   ],
+   "timestamp": "32:22"
+  },
+  {
+   "date": "2026-10",
+   "date_precision": "approx",
+   "type": "attack",
+   "description": "Attack in Faizabad, Badakhshan kills mid-level Taliban member; claimed by both NRF and Islamic State",
+   "place": "Faizabad",
+   "actors": [
+    "National Resistance Front",
+    "Islamic State Khorasan Province",
+    "Taliban"
+   ],
+   "timestamp": "23:12"
+  },
+  {
+   "date": "2015",
+   "date_precision": "year",
+   "type": "killing",
+   "description": "US raid in Barmal district kills a top al-Qaeda Shura member at an al-Qaeda encampment; intelligence reveals Shorabak camp",
+   "place": "Barmal",
+   "actors": [
+    "United States",
+    "al-Qaeda"
+   ],
+   "timestamp": "27:57"
+  },
+  {
+   "date": "2022",
+   "date_precision": "approx",
+   "type": "killing",
+   "description": "US strike kills Zawahiri in Kabul with no blowback on the Taliban",
+   "place": "Kabul",
+   "actors": [
+    "United States",
+    "Ayman al-Zawahiri",
+    "Taliban"
+   ],
+   "timestamp": "29:08"
+  },
+  {
+   "date": "2001",
+   "date_precision": "year",
+   "type": "offensive",
+   "description": "First year of US war: 6,500 airstrikes, 17,500 munitions on Taliban targets",
+   "place": "Afghanistan",
+   "actors": [
+    "United States",
+    "Taliban"
+   ],
+   "timestamp": "38:28"
+  },
+  {
+   "date": "2019",
+   "date_precision": "year",
+   "type": "offensive",
+   "description": "7,423 US munitions dropped in Afghanistan",
+   "place": "Afghanistan",
+   "actors": [
+    "United States"
+   ],
+   "timestamp": "38:46"
+  },
+  {
+   "date": "2021-08",
+   "date_precision": "month",
+   "type": "other",
+   "description": "US withdrawal; Taliban seize American weapons systems",
+   "place": "Afghanistan",
+   "actors": [
+    "Taliban",
+    "United States"
+   ],
+   "timestamp": "14:28"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Sirajuddin Haqqani",
+   "target": "Jalaluddin Haqqani",
+   "type": "family",
+   "detail": "Jalaluddin is Sirajuddin's father",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "14:43",
+   "quote": "Sourajuddin, Hacconi, Jal Lund, of course, is his father"
+  },
+  {
+   "source": "Sirajuddin Haqqani",
+   "target": "Taliban",
+   "type": "leads",
+   "detail": "Leads the Taliban interior ministry",
+   "date": "2026",
+   "confidence": "stated",
+   "timestamp": "14:36",
+   "quote": "They have an interior ministry led by our friend... Sourajuddin, Hacconi"
+  },
+  {
+   "source": "Sirajuddin Haqqani",
+   "target": "Hibatullah Akhundzada",
+   "type": "other",
+   "detail": "Reported divisions between Haqqani and Akhundzada; hosts dismiss moderate-faction narrative",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "12:50",
+   "quote": "these divisions between Haqani and Akunzada... the Hakanis are really, there's this moderate faction"
+  },
+  {
+   "source": "Sirajuddin Haqqani",
+   "target": "Amir Khan Muttaqi",
+   "type": "other",
+   "detail": "Rumored physical confrontation days after takeover; hosts doubt it",
+   "date": "2021",
+   "confidence": "stated",
+   "timestamp": "15:03",
+   "quote": "we were told days after the Taliban took control that that Saraj and... He's the foreign minister now... they actually had a physical confrontation"
+  },
+  {
+   "source": "Amir Khan Muttaqi",
+   "target": "Taliban",
+   "type": "member_of",
+   "detail": "Foreign minister",
+   "date": "2026",
+   "confidence": "stated",
+   "timestamp": "15:16",
+   "quote": "He's the foreign minister now"
+  },
+  {
+   "source": "Taliban",
+   "target": "China",
+   "type": "other",
+   "detail": "Recognized as government of Afghanistan by China",
+   "date": "2026",
+   "confidence": "stated",
+   "timestamp": "14:46",
+   "quote": "recognized, internationally recognized, as the government of Afghanistan by countries like China and Russia"
+  },
+  {
+   "source": "Taliban",
+   "target": "Russia",
+   "type": "supported_by",
+   "detail": "Recognized by Russia; Russian embassy in Kabul sided with Taliban over Pakistan",
+   "date": "2026",
+   "confidence": "stated",
+   "timestamp": "37:59",
+   "quote": "you had the Russian embassy in Kabul taking the side of the Afghan Taliban over Pakistan"
+  },
+  {
+   "source": "al-Qaeda",
+   "target": "Taliban",
+   "type": "sheltered_by",
+   "detail": "Taliban has learned there is little to no cost to allowing al-Qaeda in Afghanistan",
+   "date": "2026",
+   "confidence": "stated",
+   "timestamp": "28:44",
+   "quote": "The Taliban have learned that there is little to no cost for them to allow al-Qaeda"
+  },
+  {
+   "source": "Tehrik-e-Taliban Pakistan",
+   "target": "Taliban",
+   "type": "sheltered_by",
+   "detail": "Afghan sanctuary insurgent groups (TTP, IMP) operate from Afghanistan as Taliban auxiliaries",
+   "date": "2026",
+   "confidence": "stated",
+   "timestamp": "32:32",
+   "quote": "two... Afghan sanctuary insurgent groups that have done attacks. One is the IMP and then the TTP"
+  },
+  {
+   "source": "Ittehad al-Mujahideen Pakistan",
+   "target": "Tehrik-e-Taliban Pakistan",
+   "type": "splinter_of",
+   "detail": "Described as a splinter of the TTP",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "30:53",
+   "quote": "Etihad al-Mujahideen in Pakistan, kind of a splenner group... of the Taliban and Pakistan, the TTP"
+  },
+  {
+   "source": "Hafiz Gul Bahadur",
+   "target": "Ittehad al-Mujahideen Pakistan",
+   "type": "member_of",
+   "detail": "Part of IMP, which also includes al-Qaeda subgroups",
+   "date": "2026",
+   "confidence": "stated",
+   "timestamp": "34:00",
+   "quote": "he's part of the IMP, which also... includes al-Qaeda subgroups"
+  },
+  {
+   "source": "Hafiz Gul Bahadur",
+   "target": "Pakistan",
+   "type": "rival_of",
+   "detail": "Former 'good Taliban' conduit for Pakistani support into Afghanistan has turned on the Pakistani state",
+   "date": "2026",
+   "confidence": "stated",
+   "timestamp": "33:29",
+   "quote": "he's turned on the Pakistani state... he was a conduit, right, for Pakistani support"
+  },
+  {
+   "source": "Hafiz Gul Bahadur",
+   "target": "North Waziristan",
+   "type": "located_in",
+   "detail": "Operates in North Waziristan",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "33:49",
+   "quote": "a very powerful Taliban commander that operates in North Waziristan"
+  },
+  {
+   "source": "Hafiz Gul Bahadur",
+   "target": "Pakistan",
+   "type": "supported_by",
+   "detail": "Historically treated as 'good Taliban' conduit for Pakistani support into Afghanistan",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "33:36",
+   "quote": "he was a conduit, right, for Pakistani support, one of many, for Pakistani support into Afghanistan"
+  },
+  {
+   "source": "al-Qaeda",
+   "target": "Ittehad al-Mujahideen Pakistan",
+   "type": "member_of",
+   "detail": "IMP includes al-Qaeda subgroups",
+   "date": "2026",
+   "confidence": "stated",
+   "timestamp": "34:00",
+   "quote": "the IMP, which also, based on what I could tell, includes al-Qaeda subgroups"
+  },
+  {
+   "source": "al-Qaeda in the Indian Subcontinent",
+   "target": "Ittehad al-Mujahideen Pakistan",
+   "type": "other",
+   "detail": "AQIS did not condemn the IMP attack, only that it began inside a mosque",
+   "date": "2026-09",
+   "confidence": "stated",
+   "timestamp": "31:35",
+   "quote": "al-Qaeda and the Indian subcontinent. They didn't condemn the attack. They just condemned the fact that the attack occurred the beginning inside of a mosque"
+  },
+  {
+   "source": "Pakistan",
+   "target": "Taliban",
+   "type": "rival_of",
+   "detail": "Three rounds of airstrikes into Afghanistan",
+   "date": "2026-09",
+   "confidence": "stated",
+   "timestamp": "32:22",
+   "quote": "there's been three rounds of Pakistani airstrikes throughout Afghanistan"
+  },
+  {
+   "source": "United States",
+   "target": "Ayman al-Zawahiri",
+   "type": "killed",
+   "detail": "Strike in Kabul",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "29:08",
+   "quote": "us doing a strike that killed Zawahiri and Kabul"
+  },
+  {
+   "source": "Ayman al-Zawahiri",
+   "target": "Kabul",
+   "type": "located_in",
+   "detail": "Killed in Kabul",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "29:08",
+   "quote": "a strike that killed Zawahiri and Kabul"
+  },
+  {
+   "source": "National Resistance Front",
+   "target": "Taliban",
+   "type": "rival_of",
+   "detail": "Claimed Faizabad attack killing Taliban member",
+   "date": "2026-10",
+   "confidence": "stated",
+   "timestamp": "23:24",
+   "quote": "the National Resistance Front claimed it. And then the Islamic State claimed it as well"
+  }
+ ],
+ "sources_cited": [
+  "Pakistani military claims of precision strikes",
+  "Taliban statements denying hideouts hit",
+  "AQIS statement on IMP attack",
+  "US airstrike/munitions statistics 2001-2019",
+  "Will Selber's Substack 'Grumpy Combat Veteran'"
+ ],
+ "key_claims": [
+  "Five years after the withdrawal the Taliban controls every district and all ministries, is recognized by China and Russia, and is morphing into the state; the 'moderate Haqqani faction vs Akhundzada' narrative is a trope that won't die.",
+  "Pakistan's good-Taliban/bad-Taliban policy has backfired: Hafiz Gul Bahadur, long a conduit for Pakistani support into Afghanistan, has turned on the state as part of Ittehad al-Mujahideen Pakistan.",
+  "The Taliban's victory made the Pakistani Taliban hungrier, not quieter; the TTP declared an Islamic Emirate of Pakistan.",
+  "The Taliban accepts Pakistani airstrikes as the price of hosting TTP/IMP/al-Qaeda auxiliaries; Pakistan should know the limits of air power from 20 years of US strikes.",
+  "Al-Qaeda operates under Taliban protection at little cost, as shown by the lack of blowback after the Zawahiri strike in Kabul.",
+  "ISKP and the NRF persist in the northeast (Faizabad attack) but are not a major threat to Taliban rule.",
+  "India is the only beneficiary of Pakistan-Taliban fighting."
+ ]
+}
