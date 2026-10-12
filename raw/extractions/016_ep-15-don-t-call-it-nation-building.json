@@ -1,0 +1,1760 @@
+{
+ "episode": {
+  "idx": 16,
+  "title": "Ep. 15 - Don’t Call It Nation-Building",
+  "published": "Tue, 23 Jun 2020 13:22:00 +0000",
+  "guid": "5c194829-7ec6-4382-a9cc-1a45b82e1a1f"
+ },
+ "persons": [
+  {
+   "name": "Donald Trump",
+   "aliases": [
+    "President Trump"
+   ],
+   "role": "President of the United States",
+   "organizations": [
+    "US Government",
+    "US government"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "West Point",
+    "Afghanistan",
+    "Camp David"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "00:50",
+     "quote": "President Trump recently gave a speech at the West Point graduation ceremony"
+    },
+    {
+     "timestamp": "04:01",
+     "quote": "what President Trump said on August 21st, 2017. This is when he announced his strategy for Afghanistan"
+    },
+    {
+     "timestamp": "06:15",
+     "quote": "President Trump last year wanted to invite the Taliban to Camp David"
+    },
+    {
+     "timestamp": "56:06",
+     "quote": "President Trump's speech at 2017, he said he was going to give the armed servicemen... a plan for victory"
+    },
+    {
+     "timestamp": "56:20",
+     "quote": "he's trying to invite the Taliban to Camp David"
+    }
+   ]
+  },
+  {
+   "name": "Barack Obama",
+   "aliases": [],
+   "role": "Former US President",
+   "organizations": [
+    "US Government"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Iraq",
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "14:14",
+     "quote": "Obama's elected and the first thing he says is we're getting the hell out of Iraq"
+    },
+    {
+     "timestamp": "15:16",
+     "quote": "late December 2009... at West Point where he says... we got to commit to the effort and we got to win"
+    }
+   ]
+  },
+  {
+   "name": "George W. Bush",
+   "aliases": [],
+   "role": "Former US President",
+   "organizations": [
+    "US Government"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Iraq"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "14:00",
+     "quote": "the Bush administration decides it's going to nation-build in Iraq"
+    }
+   ]
+  },
+  {
+   "name": "David Petraeus",
+   "aliases": [
+    "General Petraeus"
+   ],
+   "role": "Former commander of US forces in Afghanistan, later CIA director",
+   "organizations": [
+    "US Army",
+    "CIA"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Iraq",
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "19:25",
+     "quote": "General Petraeus... made his name on counterinsurgency. He implemented it in Iraq"
+    },
+    {
+     "timestamp": "19:54",
+     "quote": "Did he resign in protest? Nope. He took CIA."
+    }
+   ]
+  },
+  {
+   "name": "Douglas MacArthur",
+   "aliases": [
+    "McArthur"
+   ],
+   "role": "US general quoted by Trump ('no substitute for victory')",
+   "organizations": [],
+   "nationality_or_origin": "American",
+   "status": "dead",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "03:39",
+     "quote": "As McArthur said, in war, there is no substitute for victory"
+    }
+   ]
+  },
+  {
+   "name": "Abu Bakr al-Baghdadi",
+   "aliases": [
+    "al-Baghdadi"
+   ],
+   "role": "Leader of the Islamic State",
+   "organizations": [
+    "Islamic State"
+   ],
+   "nationality_or_origin": "Iraqi",
+   "status": "dead",
+   "status_detail": "Killed during the Trump administration, per Trump's West Point speech",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "23:24",
+     "quote": "its barbaric leader, al-Baghdadi, is gone, killed"
+    }
+   ]
+  },
+  {
+   "name": "Qasem Soleimani",
+   "aliases": [
+    "Kassam Soleimani"
+   ],
+   "role": "Iranian commander described by Trump as 'world's number one terrorist'",
+   "organizations": [
+    "Iran"
+   ],
+   "nationality_or_origin": "Iranian",
+   "status": "dead",
+   "status_detail": "Killed (per Trump's speech)",
+   "family": [],
+   "locations": [
+    "Iran"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "23:28",
+     "quote": "the world's number one terrorist Qasem Soleimani is likewise dead"
+    },
+    {
+     "timestamp": "24:10",
+     "quote": "Iran has worked through proxies to kill Americans"
+    }
+   ]
+  },
+  {
+   "name": "Khalid al-Aruri",
+   "aliases": [
+    "Abu al-Qasim",
+    "Halit Al Ruri",
+    "Khalid Aruri",
+    "Abu al-Qassam"
+   ],
+   "role": "Senior al-Qaeda official in Syria; longtime comrade of Zarqawi",
+   "organizations": [
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Jordanian",
+   "status": "dead",
+   "status_detail": "killed in US R9X strike in Idlib, Syria, June 2020",
+   "family": [],
+   "locations": [
+    "Idlib",
+    "Syria",
+    "Jordan",
+    "Afghanistan",
+    "Iran",
+    "Iraq"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "26:53",
+     "quote": "Abu al-Kasim, whose real name is Khalid Aruri. He goes way back to the 1990s"
+    },
+    {
+     "timestamp": "27:05",
+     "quote": "followed Zarkawi from Jordan to Afghanistan, through Iran to Iraq, then was detained for a while in Iran... ends up in Syria"
+    }
+   ]
+  },
+  {
+   "name": "Abu Musab al-Zarqawi",
+   "aliases": [
+    "Zarkawi"
+   ],
+   "role": "Former leader of al-Qaeda in Iraq",
+   "organizations": [
+    "al-Qaeda in Iraq"
+   ],
+   "nationality_or_origin": "Jordanian",
+   "status": "dead",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Jordan",
+    "Afghanistan",
+    "Iraq"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "27:02",
+     "quote": "He was a close comrade of Abu Musab al-Zarkawi"
+    }
+   ]
+  },
+  {
+   "name": "Abdelmalek Droukdel",
+   "aliases": [
+    "Abdul Malik Drupdel",
+    "Abdul Malik Drukdel",
+    "Drickdale",
+    "Drutel",
+    "Dirkdel"
+   ],
+   "role": "Emir of al-Qaeda in the Islamic Maghreb (~14 years); second deputy to Zawahiri and member of al-Qaeda management committee per the French",
+   "organizations": [
+    "AQIM",
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Algerian",
+   "status": "dead",
+   "status_detail": "Killed in Mali by French forces with US ISR support, June 2020; AQIM confirmed in ~12-minute video",
+   "family": [],
+   "locations": [
+    "Mali",
+    "North Africa"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "29:40",
+     "quote": "confirming the death of Abdul Malik Drupdel in Mali"
+    },
+    {
+     "timestamp": "31:15",
+     "quote": "he led al-Qaeda's branch in North Africa for, what, 14 years"
+    },
+    {
+     "timestamp": "32:11",
+     "quote": "reporting directly to Osama bin Laden, was directly loyal to Osama bin Laden, and then Zawahiri"
+    },
+    {
+     "timestamp": "33:39",
+     "quote": "Drickdel was a second deputy to Zawahiri... part of Al Qaeda's management committee"
+    }
+   ]
+  },
+  {
+   "name": "Osama bin Laden",
+   "aliases": [
+    "bin Laden"
+   ],
+   "role": "Founder and former leader of al-Qaeda",
+   "organizations": [
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "dead",
+   "status_detail": "Documents from his Abbottabad cache are cited",
+   "family": [],
+   "locations": [
+    "North Waziristan",
+    "Kunar",
+    "Nuristan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "32:11",
+     "quote": "reporting directly to Osama bin Laden"
+    },
+    {
+     "timestamp": "44:39",
+     "quote": "bin Laden's right-hand man in 2010"
+    },
+    {
+     "timestamp": "49:56",
+     "quote": "bin Laden ordered his guys out of Pakistan... around mid-2010 to hide the drone campaign"
+    }
+   ]
+  },
+  {
+   "name": "Ayman al-Zawahiri",
+   "aliases": [
+    "Zawahiri",
+    "Imanel Zahouir",
+    "Iman Al-Zawahiri",
+    "Imal-Zohiri",
+    "Iman-Al-Zawahiri"
+   ],
+   "role": "Emir of al-Qaeda",
+   "organizations": [
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Egyptian",
+   "status": "alive",
+   "status_detail": "Per CENTCOM's Gen. McKenzie (June 2020), in eastern Afghanistan",
+   "family": [],
+   "locations": [
+    "eastern Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "46:52",
+     "quote": "he said that Iman Al-Zawahiri himself is in eastern Afghanistan"
+    },
+    {
+     "timestamp": "47:30",
+     "quote": "give me Iman-Al-Zawahiri's head on a platter"
+    }
+   ]
+  },
+  {
+   "name": "Qasim al-Raymi",
+   "aliases": [
+    "Kassim Al Ramey",
+    "Kassimul Arameh",
+    "Qasemoremi"
+   ],
+   "role": "Leader of al-Qaeda in the Arabian Peninsula (AQAP)",
+   "organizations": [
+    "AQAP",
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Yemeni",
+   "status": "dead",
+   "status_detail": "Killed in Yemen in January 2020 (probably a drone strike); White House announced his death",
+   "family": [],
+   "locations": [
+    "Yemen"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "35:56",
+     "quote": "How do we kill Kassim Al Ramey? Probably a drone strike."
+    },
+    {
+     "timestamp": "36:39",
+     "quote": "Kassimul Arameh was killed in Yemen in January... the month after AQAP executed this attack in Pensacola"
+    }
+   ]
+  },
+  {
+   "name": "Asim Umar",
+   "aliases": [
+    "Asim Omar",
+    "Assimumar",
+    "Asim Marr",
+    "Assamumar"
+   ],
+   "role": "First emir of al-Qaeda in the Indian Subcontinent (AQIS)",
+   "organizations": [
+    "AQIS",
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Indian",
+   "status": "dead",
+   "status_detail": "Killed in joint US-Afghan raid on a Taliban stronghold in Musa Qala, Helmand, September 2019",
+   "family": [],
+   "locations": [
+    "Musa Qala",
+    "Helmand",
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "37:37",
+     "quote": "Asim Omar who was killed in a joint U.S. Afghan raid in a Taliban stronghold in Musakala Helmand"
+    },
+    {
+     "timestamp": "38:13",
+     "quote": "was the first Emir of Al-Qaeda, the Indian subcontinent"
+    },
+    {
+     "timestamp": "53:59",
+     "quote": "I queried... about the death of Assimumar"
+    },
+    {
+     "timestamp": "54:18",
+     "quote": "he was killed alongside Taliban commanders"
+    },
+    {
+     "timestamp": "55:03",
+     "quote": "the killing of a senior Al Qaeda leader in Afghanistan in late 2019"
+    }
+   ]
+  },
+  {
+   "name": "Yasin al-Suri",
+   "aliases": [
+    "Asin al-Suri"
+   ],
+   "role": "Al-Qaeda facilitator operating in Iran, pushing fighters to Afghanistan (listed first in 2005-06 bin Laden-files fitness report)",
+   "organizations": [
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Syrian",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Iran",
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "41:10",
+     "quote": "number one on the list was the Asin al-Suri, a guy who was operating in Iran and pushing persons into the battlefields in Afghanistan"
+    }
+   ]
+  },
+  {
+   "name": "Abu Hafs al-Shahri",
+   "aliases": [
+    "Abu Haft-Shal-Sheri"
+   ],
+   "role": "Al-Qaeda operations chief for Pakistan, based in Afghanistan",
+   "organizations": [
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan",
+    "Pakistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "41:21",
+     "quote": "Abu Hafs al-Shahri. He became al-Qaeda's operations chief for Pakistan, but he was based in Afghanistan"
+    }
+   ]
+  },
+  {
+   "name": "Sufian al-Maghrebi",
+   "aliases": [
+    "Sufian al-Magrebi"
+   ],
+   "role": "Al-Qaeda military commander for Afghanistan and Pakistan",
+   "organizations": [
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan",
+    "Pakistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "41:27",
+     "quote": "Sufian al-Magrebi... became al-Qaeda's military commander for Afghanistan and Pakistan"
+    }
+   ]
+  },
+  {
+   "name": "Abu Yahya al-Libi",
+   "aliases": [
+    "Abu Yehiyah Libby"
+   ],
+   "role": "Al-Qaeda figure; escaped (Bagram) with others listed in the file",
+   "organizations": [
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Libyan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "41:37",
+     "quote": "one of the guys who escaped with Abu Yehiyah, Libby"
+    }
+   ]
+  },
+  {
+   "name": "Mustafa Abu al-Yazid",
+   "aliases": [
+    "Mustafa Yazid",
+    "Yazid"
+   ],
+   "role": "Bin Laden's right-hand man; top finance guy and operator; eulogized by the Islamic Emirate in 2010",
+   "organizations": [
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Egyptian",
+   "status": "dead",
+   "status_detail": "Eulogy issued by the Taliban's Islamic Emirate in 2010",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "44:39",
+     "quote": "the eulogy that came out for bin Laden's right-hand man in 2010 when basically the Taliban... Islamic Emirate"
+    },
+    {
+     "timestamp": "44:44",
+     "quote": "glowing eulogy for Yazid, Mustafa Yazid, top finance guys and top operators"
+    }
+   ]
+  },
+  {
+   "name": "Abd al-Hadi al-Iraqi",
+   "aliases": [
+    "Abdul Adi al-Raki"
+   ],
+   "role": "Major bin Laden lieutenant; organized guerrilla warfare in Afghanistan; led joint fighting force with the Taliban",
+   "organizations": [
+    "al-Qaeda",
+    "Taliban"
+   ],
+   "nationality_or_origin": "Iraqi",
+   "status": "detained",
+   "status_detail": "Facing delayed military commission trial",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "44:58",
+     "quote": "Abdul Adi al-Raki, who was a major lieutenant for bin Laden... chief responsibility was organizing guerrilla warfare in Afghanistan"
+    },
+    {
+     "timestamp": "45:11",
+     "quote": "working with the Taliban and leading this joint fighting force against their common enemies"
+    }
+   ]
+  },
+  {
+   "name": "Zalmay Khalilzad",
+   "aliases": [
+    "Khalilazad",
+    "Kalozad",
+    "Calazade",
+    "Kolozad",
+    "Khalilzad"
+   ],
+   "role": "US Special Representative for Afghanistan Reconciliation",
+   "organizations": [
+    "US State Department"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Doha",
+    "Islamabad"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "45:27",
+     "quote": "Special Representative Zalemi Khalilazad had a special meeting in Doha or Islamabad"
+    },
+    {
+     "timestamp": "48:04",
+     "quote": "rolling over and accepting and endorsing them as a counter-terrorism partner, which is what Kolozad and Pompeo have done"
+    }
+   ]
+  },
+  {
+   "name": "Mike Pompeo",
+   "aliases": [
+    "Pompey",
+    "Pompeo"
+   ],
+   "role": "US Secretary of State; former CIA director",
+   "organizations": [
+    "US State Department"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "45:41",
+     "quote": "Do you think Secretary Pompeo held them into account for this"
+    },
+    {
+     "timestamp": "40:50",
+     "quote": "CIA then under now Secretary Pompeo's command. He was the director at the time"
+    },
+    {
+     "timestamp": "48:09",
+     "quote": "which is what Kolozad and Pompeo have done so far publicly"
+    }
+   ]
+  },
+  {
+   "name": "Kenneth McKenzie",
+   "aliases": [
+    "General McKenzie",
+    "McKenzie"
+   ],
+   "role": "CENTCOM commander",
+   "organizations": [
+    "CENTCOM",
+    "US Military",
+    "CENTCOM",
+    "US military"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "eastern Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "46:20",
+     "quote": "General McKenzie the Sankham commander... pointed to the al-Qaeda presence of eastern Afghanistan"
+    },
+    {
+     "timestamp": "47:56",
+     "quote": "we know that the Taliban fights ISIS, but we still have to see some proof that they're willing to fight al-Qaeda"
+    },
+    {
+     "timestamp": "46:44",
+     "quote": "he dropped a bombshell... Zawahiri himself is in eastern Afghanistan"
+    },
+    {
+     "timestamp": "47:56",
+     "quote": "McKenzie said, look, we know that the Taliban fights ISIS, but we still have to see some proof... they're willing to fight al-Qaeda"
+    }
+   ]
+  },
+  {
+   "name": "Sirajuddin Haqqani",
+   "aliases": [
+    "Saraj Akani"
+   ],
+   "role": "Taliban deputy leader ('number two')",
+   "organizations": [
+    "Taliban",
+    "Haqqani Network"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "47:43",
+     "quote": "give me Saraj Akani's head on a platter... he's your number two, somebody's been deeply in bed with al-Qaeda"
+    },
+    {
+     "timestamp": "47:43",
+     "quote": "give me Saraj Akani's hat on a platter, he's your number two, somebody's been deeply in bed with al-Qaeda"
+    }
+   ]
+  },
+  {
+   "name": "Faruq al-Qahtani",
+   "aliases": [
+    "Faruk al-Katani",
+    "Fruko katani",
+    "Katani",
+    "Farouq al-Qahtani"
+   ],
+   "role": "al-Qaeda commander of one of its main brigades/battalions in eastern Afghanistan",
+   "organizations": [
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Qatari",
+   "status": "dead",
+   "status_detail": "killed in US drone strike in eastern Afghanistan (Kunar), October 2016",
+   "family": [],
+   "locations": [
+    "eastern Afghanistan",
+    "Kunar",
+    "Nuristan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "50:20",
+     "quote": "Faruk al-Katani, who was the head of one of their main brigades or battalions... was in eastern Afghanistan"
+    },
+    {
+     "timestamp": "50:32",
+     "quote": "was killed just days ahead of the 2016 presidential election in eastern Afghanistan"
+    },
+    {
+     "timestamp": "51:02",
+     "quote": "al-Qaeda issued a martyrdom statement for Katani"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Taliban",
+   "aliases": [
+    "Islamic Emirate"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda",
+    "Haqqani Network"
+   ],
+   "rivals": [
+    "ISKP",
+    "Islamic State",
+    "United States"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Signed 29 Feb 2020 withdrawal deal with US in Doha; issued Pashto statement denying al-Qaeda presence in Afghanistan, blasting McKenzie."
+  },
+  {
+   "name": "al-Qaeda",
+   "aliases": [
+    "AQ",
+    "Al-Qaeda"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [
+    "Islamic State",
+    "United States"
+   ],
+   "country_base": "Afghanistan/Pakistan",
+   "notes": "Founded late 1980s; internal files show decades of presence in Afghanistan."
+  },
+  {
+   "name": "AQIM",
+   "aliases": [
+    "al-Qaeda in the Islamic Maghreb",
+    "Al-Qaeda and the Islamic Greb"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda"
+   ],
+   "rivals": [
+    "France"
+   ],
+   "country_base": "Mali / North Africa",
+   "notes": "Led by Droukdel ~14 years; confirmed his death by video."
+  },
+  {
+   "name": "AQAP",
+   "aliases": [
+    "al-Qaeda in the Arabian Peninsula"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda"
+   ],
+   "rivals": [
+    "United States"
+   ],
+   "country_base": "Yemen",
+   "notes": "Executed the Pensacola attack (Dec 2019)."
+  },
+  {
+   "name": "AQIS",
+   "aliases": [
+    "al-Qaeda in the Indian Subcontinent"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan/Pakistan",
+   "notes": "First emir Asim Umar."
+  },
+  {
+   "name": "Islamic State",
+   "aliases": [
+    "ISIS"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [
+    "Taliban",
+    "al-Qaeda",
+    "United States"
+   ],
+   "country_base": "Iraq/Syria",
+   "notes": "Territorial caliphate gone but insurgency continues; three commanders killed in strikes mid-May 2020. McKenzie noted the Taliban fight it."
+  },
+  {
+   "name": "Haqqani Network",
+   "aliases": [
+    "economies"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban",
+    "al-Qaeda"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan/Pakistan",
+   "notes": "Implied via Sirajuddin Haqqani."
+  },
+  {
+   "name": "US Africa Command",
+   "aliases": [
+    "AFRICOM"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "France"
+   ],
+   "rivals": [
+    "AQIM"
+   ],
+   "country_base": "United States",
+   "notes": "Supported French operation against Droukdel; declined to confirm his al-Qaeda role."
+  },
+  {
+   "name": "CENTCOM",
+   "aliases": [
+    "Sankham",
+    "USCENTCOM",
+    "US Central Command"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "US Department of Defense"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Commander McKenzie said Zawahiri is in eastern Afghanistan. McKenzie's command."
+  },
+  {
+   "name": "French military",
+   "aliases": [
+    "France"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "US Africa Command"
+   ],
+   "rivals": [
+    "AQIM"
+   ],
+   "country_base": "France",
+   "notes": "Killed Droukdel in Mali; stated he was Zawahiri's second deputy."
+  },
+  {
+   "name": "CIA",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Petraeus later headed it; released bin Laden files."
+  },
+  {
+   "name": "US State Department",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Pursues withdrawal deal with Taliban."
+  },
+  {
+   "name": "US Department of Defense",
+   "aliases": [
+    "DOD",
+    "DoD",
+    "Pentagon"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Bureaucracy described as preferring big-war preparation over small wars."
+  },
+  {
+   "name": "Afghan military",
+   "aliases": [
+    "Afghan security forces"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "United States"
+   ],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Operates defensively; commandos go out with US special operations forces."
+  },
+  {
+   "name": "Resolute Support",
+   "aliases": [
+    "USFOR-A"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "NATO"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Told Roggio a press release on Asim Umar's death was ready; it was buried."
+  },
+  {
+   "name": "US Treasury Department",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Designated Faruq al-Qahtani after an interagency intelligence review."
+  },
+  {
+   "name": "NATO",
+   "aliases": [],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Recently made remarks about the Taliban needing to show proof against al-Qaeda."
+  },
+  {
+   "name": "Voice of Jihad",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Taliban's website, published in five languages."
+  }
+ ],
+ "places": [
+  {
+   "name": "West Point",
+   "type": "base",
+   "country": "United States",
+   "parent": "New York",
+   "significance": "Site of Trump's June 2020 graduation speech and Obama's 2009 Afghanistan speech."
+  },
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Main theater; al-Qaeda presence and US-Taliban deal."
+  },
+  {
+   "name": "eastern Afghanistan",
+   "type": "region",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Where McKenzie said Zawahiri is located."
+  },
+  {
+   "name": "Musa Qala",
+   "type": "district",
+   "country": "Afghanistan",
+   "parent": "Helmand",
+   "significance": "Taliban stronghold where Asim Umar was killed Sept 2019."
+  },
+  {
+   "name": "Helmand",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Province of Musa Qala."
+  },
+  {
+   "name": "Doha",
+   "type": "city",
+   "country": "Qatar",
+   "parent": "Qatar",
+   "significance": "Where US-Taliban deal was signed 29 Feb 2020."
+  },
+  {
+   "name": "Islamabad",
+   "type": "city",
+   "country": "Pakistan",
+   "parent": "Pakistan",
+   "significance": "Mentioned as a possible venue for Khalilzad meeting."
+  },
+  {
+   "name": "Idlib",
+   "type": "province",
+   "country": "Syria",
+   "parent": "Syria",
+   "significance": "R9X strike killing Khalid al-Aruri and another al-Qaeda official."
+  },
+  {
+   "name": "Mali",
+   "type": "country",
+   "country": "Mali",
+   "parent": "",
+   "significance": "Where Droukdel was killed."
+  },
+  {
+   "name": "Yemen",
+   "type": "country",
+   "country": "Yemen",
+   "parent": "",
+   "significance": "Where Qasim al-Raymi was killed January 2020."
+  },
+  {
+   "name": "Pensacola",
+   "type": "city",
+   "country": "United States",
+   "parent": "Florida",
+   "significance": "AQAP-linked attack in Dec 2019."
+  },
+  {
+   "name": "Iraq",
+   "type": "country",
+   "country": "Iraq",
+   "parent": "",
+   "significance": "US withdrawal 2011; Islamic State rise forced redeployment."
+  },
+  {
+   "name": "Syria",
+   "type": "country",
+   "country": "Syria",
+   "parent": "",
+   "significance": "Islamic State and al-Qaeda presence; US counterterrorism strikes."
+  },
+  {
+   "name": "Iran",
+   "type": "country",
+   "country": "Iran",
+   "parent": "",
+   "significance": "Al-Qaeda facilitation/detention there (al-Aruri, Yasin al-Suri); Soleimani."
+  },
+  {
+   "name": "Camp David",
+   "type": "base",
+   "country": "United States",
+   "parent": "Maryland",
+   "significance": "Trump wanted to invite the Taliban there in 2019."
+  },
+  {
+   "name": "Jordan",
+   "type": "country",
+   "country": "Jordan",
+   "parent": "",
+   "significance": "Origin point of Zarqawi/al-Aruri journey."
+  },
+  {
+   "name": "Kunar",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "One of the provinces bin Laden named as a destination for his men."
+  },
+  {
+   "name": "Nuristan",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "One of the provinces bin Laden named as a destination for his men (transcribed 'Uristan')."
+  },
+  {
+   "name": "North Waziristan",
+   "type": "region",
+   "country": "Pakistan",
+   "parent": "Pakistan",
+   "significance": "Bin Laden moved his men out of it back into Afghanistan around mid-2010."
+  },
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Hosts say Taliban leadership is there."
+  }
+ ],
+ "events": [
+  {
+   "date": "2017-08-21",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Trump announces Afghanistan strategy promising a 'plan for victory' and warning against hasty withdrawal.",
+   "place": "United States",
+   "actors": [
+    "Donald Trump"
+   ],
+   "timestamp": "04:01"
+  },
+  {
+   "date": "2018",
+   "date_precision": "approx",
+   "type": "meeting",
+   "description": "About a year after the Aug 2017 speech, Trump administration began negotiating with the Taliban.",
+   "place": "",
+   "actors": [
+    "Donald Trump",
+    "Taliban"
+   ],
+   "timestamp": "08:34"
+  },
+  {
+   "date": "2019",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Trump wanted to invite the Taliban to Camp David.",
+   "place": "Camp David",
+   "actors": [
+    "Donald Trump",
+    "Taliban"
+   ],
+   "timestamp": "06:15"
+  },
+  {
+   "date": "2009-12",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Obama's West Point speech committing to win in Afghanistan, later followed by negotiation with the Taliban.",
+   "place": "West Point",
+   "actors": [
+    "Barack Obama"
+   ],
+   "timestamp": "15:16"
+  },
+  {
+   "date": "2011",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Obama pulled all US troops out of Iraq; US later redeployed because of the Islamic State.",
+   "place": "Iraq",
+   "actors": [
+    "Barack Obama"
+   ],
+   "timestamp": "17:03"
+  },
+  {
+   "date": "2020-06-13",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Trump's West Point graduation speech on ending 'endless wars'; no mention of al-Qaeda.",
+   "place": "West Point",
+   "actors": [
+    "Donald Trump"
+   ],
+   "timestamp": "00:54"
+  },
+  {
+   "date": "2020-06",
+   "date_precision": "approx",
+   "type": "strike",
+   "description": "US R9X Hellfire strike on a vehicle in Idlib, Syria killed Khalid al-Aruri (Abu al-Qasim) and another senior al-Qaeda official.",
+   "place": "Idlib",
+   "actors": [
+    "United States",
+    "Khalid al-Aruri"
+   ],
+   "timestamp": "26:05"
+  },
+  {
+   "date": "2020-06",
+   "date_precision": "approx",
+   "type": "death",
+   "description": "Abdelmalek Droukdel killed in Mali by French forces with US ISR support; AQIM later confirmed in a ~12 minute video.",
+   "place": "Mali",
+   "actors": [
+    "Abdelmalek Droukdel",
+    "French military",
+    "US Africa Command",
+    "AQIM"
+   ],
+   "timestamp": "29:40"
+  },
+  {
+   "date": "2020-05",
+   "date_precision": "approx",
+   "type": "strike",
+   "description": "Strikes killed three Islamic State commanders in mid-May.",
+   "place": "",
+   "actors": [
+    "United States",
+    "Islamic State"
+   ],
+   "timestamp": "28:06"
+  },
+  {
+   "date": "2020-01",
+   "date_precision": "month",
+   "type": "strike",
+   "description": "Qasim al-Raymi killed in Yemen; White House issued statement.",
+   "place": "Yemen",
+   "actors": [
+    "Qasim al-Raymi",
+    "United States"
+   ],
+   "timestamp": "36:39"
+  },
+  {
+   "date": "2019-12",
+   "date_precision": "month",
+   "type": "attack",
+   "description": "AQAP-linked attack in Pensacola, the month before al-Raymi's death.",
+   "place": "Pensacola",
+   "actors": [
+    "AQAP"
+   ],
+   "timestamp": "36:45"
+  },
+  {
+   "date": "2019-09",
+   "date_precision": "month",
+   "type": "strike",
+   "description": "Joint US-Afghan raid on a Taliban stronghold in Musa Qala killed AQIS emir Asim Umar.",
+   "place": "Musa Qala",
+   "actors": [
+    "Asim Umar",
+    "United States",
+    "Afghan military"
+   ],
+   "timestamp": "37:37"
+  },
+  {
+   "date": "2020-02-29",
+   "date_precision": "day",
+   "type": "agreement",
+   "description": "US-Taliban withdrawal deal signed in Doha; Taliban did not renounce al-Qaeda.",
+   "place": "Doha",
+   "actors": [
+    "United States",
+    "Taliban"
+   ],
+   "timestamp": "38:46"
+  },
+  {
+   "date": "2020-06",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "Taliban Pashto statement claiming al-Qaeda does not exist in Afghanistan (said not present since days of the Islamic Emirate, 2001), issued after McKenzie's remarks.",
+   "place": "Afghanistan",
+   "actors": [
+    "Taliban"
+   ],
+   "timestamp": "39:06"
+  },
+  {
+   "date": "2020-06",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "CENTCOM's McKenzie said Zawahiri is in eastern Afghanistan and the Taliban must show proof they will fight al-Qaeda.",
+   "place": "eastern Afghanistan",
+   "actors": [
+    "Kenneth McKenzie"
+   ],
+   "timestamp": "46:52"
+  },
+  {
+   "date": "2005/2006",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Internal al-Qaeda 'fitness report' on 19 up-and-coming leaders found in bin Laden files, showing al-Qaeda cadres operating in Afghanistan/Pakistan.",
+   "place": "Afghanistan",
+   "actors": [
+    "al-Qaeda"
+   ],
+   "timestamp": "41:46"
+  },
+  {
+   "date": "2010",
+   "date_precision": "year",
+   "type": "statement",
+   "description": "Taliban's Islamic Emirate issued glowing eulogy for Mustafa Abu al-Yazid.",
+   "place": "Afghanistan",
+   "actors": [
+    "Taliban",
+    "Mustafa Abu al-Yazid"
+   ],
+   "timestamp": "44:39"
+  },
+  {
+   "date": "2010",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Bin Laden ordered al-Qaeda members out of North Waziristan back into Afghan provinces such as Kunar and Nuristan, to avoid the drone campaign.",
+   "place": "North Waziristan",
+   "actors": [
+    "Osama bin Laden",
+    "al-Qaeda"
+   ],
+   "timestamp": "49:56"
+  },
+  {
+   "date": "2016-10",
+   "date_precision": "approx",
+   "type": "strike",
+   "description": "Faruq al-Qahtani was killed in a US drone strike in eastern Afghanistan days before the 2016 US presidential election. Al-Qaeda then issued a martyrdom statement.",
+   "place": "Eastern Afghanistan",
+   "actors": [
+    "Faruq al-Qahtani",
+    "al-Qaeda",
+    "US military"
+   ],
+   "timestamp": "50:32"
+  },
+  {
+   "date": "2017-08-21",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Trump's speech on Afghanistan strategy in which he promised troops a plan for victory.",
+   "place": "United States",
+   "actors": [
+    "Donald Trump"
+   ],
+   "timestamp": "56:14"
+  },
+  {
+   "date": "2019",
+   "date_precision": "approx",
+   "type": "death",
+   "description": "Asim Umar was killed in Afghanistan alongside Taliban commanders in late 2019. The DoD declined to publicize it.",
+   "place": "Afghanistan",
+   "actors": [
+    "Asim Umar",
+    "Taliban",
+    "US military"
+   ],
+   "timestamp": "54:18"
+  },
+  {
+   "date": "2020",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "McKenzie said Zawahiri is in eastern Afghanistan and that the Taliban must show evidence they will fight al-Qaeda. The Taliban then publicly denied al-Qaeda's presence and blasted McKenzie.",
+   "place": "Afghanistan",
+   "actors": [
+    "Kenneth McKenzie",
+    "Taliban"
+   ],
+   "timestamp": "46:52"
+  },
+  {
+   "date": "2020",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "A Resolute Support press release on Asim Umar's death was buried and the DoD chose not to release it (per Roggio, roughly a couple of months before the episode).",
+   "place": "",
+   "actors": [
+    "Resolute Support",
+    "US Department of Defense"
+   ],
+   "timestamp": "53:59"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Khalid al-Aruri",
+   "target": "Abu Musab al-Zarqawi",
+   "type": "other",
+   "detail": "Al-Aruri was a close comrade of Zarqawi and followed him from Jordan to Afghanistan to Iran to Iraq.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "27:02",
+   "quote": "He was a close comrade of Abu Musab al-Zarkawi"
+  },
+  {
+   "source": "United States",
+   "target": "Khalid al-Aruri",
+   "type": "killed",
+   "detail": "US R9X Hellfire strike on a car in Idlib killed him.",
+   "date": "2020-06",
+   "confidence": "stated",
+   "timestamp": "26:05",
+   "quote": "targeted airstrike in Idlib, Syria that killed two senior Al Qaeda officials"
+  },
+  {
+   "source": "Khalid al-Aruri",
+   "target": "Iran",
+   "type": "other",
+   "detail": "Detained for a time in Iran, released, then went to Syria.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "27:10",
+   "quote": "was detained for a while in Iran and then gets released and he ends up in Syria"
+  },
+  {
+   "source": "Khalid al-Aruri",
+   "target": "al-Qaeda",
+   "type": "member_of",
+   "detail": "Described as very important within al-Qaeda's ranks.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "27:15",
+   "quote": "a guy who was very important within al-Qaeda's ranks"
+  },
+  {
+   "source": "French military",
+   "target": "Abdelmalek Droukdel",
+   "type": "killed",
+   "detail": "French forces killed Droukdel (and some of his men) in Mali with US help.",
+   "date": "2020-06",
+   "confidence": "stated",
+   "timestamp": "30:00",
+   "quote": "the U.S. helped the French hunt down Abdul Malik Dirkdel"
+  },
+  {
+   "source": "US Africa Command",
+   "target": "French military",
+   "type": "allied_with",
+   "detail": "US provided ISR support to French operation in Mali.",
+   "date": "2020-06",
+   "confidence": "stated",
+   "timestamp": "35:49",
+   "quote": "How did we kill Drew Delt with some ISR support with the French?"
+  },
+  {
+   "source": "Abdelmalek Droukdel",
+   "target": "AQIM",
+   "type": "leads",
+   "detail": "Led al-Qaeda's North Africa branch for about 14 years.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "31:15",
+   "quote": "he led al-Qaeda's branch in North Africa for, what, 14 years"
+  },
+  {
+   "source": "Abdelmalek Droukdel",
+   "target": "Osama bin Laden",
+   "type": "reports_to",
+   "detail": "Droukdel reported directly to and was loyal to bin Laden, then Zawahiri.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "32:11",
+   "quote": "reporting directly to Osama bin Laden, was directly loyal to Osama bin Laden"
+  },
+  {
+   "source": "Abdelmalek Droukdel",
+   "target": "Ayman al-Zawahiri",
+   "type": "deputy_of",
+   "detail": "French said Droukdel was a second deputy to Zawahiri and part of al-Qaeda's management committee.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "33:39",
+   "quote": "Drickdel was, you know, a second deputy to Imanel Zahouir"
+  },
+  {
+   "source": "Qasim al-Raymi",
+   "target": "AQAP",
+   "type": "leads",
+   "detail": "Al-Raymi headed AQAP, killed in Yemen in January 2020 after the Pensacola attack.",
+   "date": "2020-01",
+   "confidence": "inferred",
+   "timestamp": "36:39",
+   "quote": "Kassimul Arameh was killed in Yemen in January"
+  },
+  {
+   "source": "United States",
+   "target": "Qasim al-Raymi",
+   "type": "killed",
+   "detail": "Probably a US drone strike killed him; White House trumpeted it.",
+   "date": "2020-01",
+   "confidence": "stated",
+   "timestamp": "37:04",
+   "quote": "Qasemoremi was killed in Yemen. The White House issued a statement, trumpeting his death"
+  },
+  {
+   "source": "United States",
+   "target": "Asim Umar",
+   "type": "killed",
+   "detail": "Joint US-Afghan raid killed him in Musa Qala.",
+   "date": "2019-09",
+   "confidence": "stated",
+   "timestamp": "37:37",
+   "quote": "Asim Omar who was killed in a joint U.S. Afghan raid"
+  },
+  {
+   "source": "Asim Umar",
+   "target": "AQIS",
+   "type": "leads",
+   "detail": "First emir of AQIS.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "38:13",
+   "quote": "was the first Emir of Al-Qaeda, the Indian subcontinent"
+  },
+  {
+   "source": "Asim Umar",
+   "target": "Taliban",
+   "type": "sheltered_by",
+   "detail": "Killed in a Taliban stronghold in Musa Qala, Helmand.",
+   "date": "2019-09",
+   "confidence": "inferred",
+   "timestamp": "37:41",
+   "quote": "a Taliban stronghold in Musakala Helmand"
+  },
+  {
+   "source": "Kenneth McKenzie",
+   "target": "Ayman al-Zawahiri",
+   "type": "other",
+   "detail": "McKenzie stated Zawahiri is in eastern Afghanistan.",
+   "date": "2020",
+   "confidence": "stated",
+   "timestamp": "46:52",
+   "quote": "he said that Iman Al-Zawahiri himself is in eastern Afghanistan"
+  },
+  {
+   "source": "Ayman al-Zawahiri",
+   "target": "Eastern Afghanistan",
+   "type": "located_in",
+   "detail": "Zawahiri reportedly located in eastern Afghanistan per McKenzie.",
+   "date": "2020",
+   "confidence": "stated",
+   "timestamp": "46:52",
+   "quote": "Zawahiri himself is in eastern Afghanistan"
+  },
+  {
+   "source": "Sirajuddin Haqqani",
+   "target": "Taliban",
+   "type": "deputy_of",
+   "detail": "Described as the Taliban's number two.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "47:47",
+   "quote": "he's your number two, somebody's been deeply in bed with al-Qaeda"
+  },
+  {
+   "source": "Sirajuddin Haqqani",
+   "target": "al-Qaeda",
+   "type": "allied_with",
+   "detail": "Hosts say Haqqani has been deeply tied to al-Qaeda.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "47:47",
+   "quote": "somebody's been deeply in bed with al-Qaeda"
+  },
+  {
+   "source": "Sirajuddin Haqqani",
+   "target": "Haqqani Network",
+   "type": "member_of",
+   "detail": "Implied by mention of Taliban units and factions fighting in eastern Afghanistan.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "47:30",
+   "quote": "the economies and other Taliban units and factions are fighting there"
+  },
+  {
+   "source": "al-Qaeda",
+   "target": "Taliban",
+   "type": "sheltered_by",
+   "detail": "Hosts argue the Taliban host al-Qaeda and falsely deny its presence in Afghanistan.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "48:37",
+   "quote": "the Taliban made this statement that al-Qaeda isn't in Afghanistan after McKenzie"
+  },
+  {
+   "source": "Osama bin Laden",
+   "target": "Faruq al-Qahtani",
+   "type": "other",
+   "detail": "Bin Laden's files mention Qahtani as head of a main al-Qaeda brigade/battalion in eastern Afghanistan.",
+   "date": "2010",
+   "confidence": "stated",
+   "timestamp": "50:20",
+   "quote": "he mentioned that Faruk al-Katani, who was the head of one of their main brigades"
+  },
+  {
+   "source": "Faruq al-Qahtani",
+   "target": "al-Qaeda",
+   "type": "member_of",
+   "detail": "Commander of a main al-Qaeda brigade/battalion in eastern Afghanistan.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "50:20",
+   "quote": "head of one of their main brigades or battalions"
+  },
+  {
+   "source": "US military",
+   "target": "Faruq al-Qahtani",
+   "type": "killed",
+   "detail": "Killed in a drone strike in eastern Afghanistan in 2016.",
+   "date": "2016",
+   "confidence": "stated",
+   "timestamp": "51:13",
+   "quote": "we have the actual death of him in a drone strike in eastern Afghanistan"
+  },
+  {
+   "source": "US Treasury Department",
+   "target": "Faruq al-Qahtani",
+   "type": "other",
+   "detail": "Treasury designated Qahtani based on an interagency intelligence review.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "51:19",
+   "quote": "the Treasury Department's designations of them"
+  },
+  {
+   "source": "Asim Umar",
+   "target": "Taliban",
+   "type": "other",
+   "detail": "Killed alongside Taliban commanders, showing al-Qaeda-Taliban ties.",
+   "date": "2019",
+   "confidence": "stated",
+   "timestamp": "54:18",
+   "quote": "he was killed alongside Taliban commanders"
+  },
+  {
+   "source": "Asim Umar",
+   "target": "Ayman al-Zawahiri",
+   "type": "reports_to",
+   "detail": "Garbled transcript suggests Umar was tied to Zawahiri, probably as a subordinate or sworn follower.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "54:25",
+   "quote": "guess who was with him, his career to Iman El Zawahiri"
+  },
+  {
+   "source": "Asim Umar",
+   "target": "al-Qaeda",
+   "type": "member_of",
+   "detail": "Described as a senior al-Qaeda leader killed in Afghanistan in late 2019.",
+   "date": "2019",
+   "confidence": "stated",
+   "timestamp": "55:03",
+   "quote": "the killing of a senior Al Qaeda leader in Afghanistan in late 2019"
+  },
+  {
+   "source": "Zalmay Khalilzad",
+   "target": "Taliban",
+   "type": "negotiated_with",
+   "detail": "Hosts say Khalilzad and Pompeo have publicly endorsed the Taliban as a counterterrorism partner.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "48:04",
+   "quote": "endorsing them as a counter-terrorism partner, which is what Kolozad and Pompeo have done so far publicly"
+  },
+  {
+   "source": "Mike Pompeo",
+   "target": "Taliban",
+   "type": "negotiated_with",
+   "detail": "Publicly accepted the Taliban as a counterterrorism partner.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "48:04",
+   "quote": "Kolozad and Pompeo have done so far publicly"
+  },
+  {
+   "source": "Donald Trump",
+   "target": "Taliban",
+   "type": "other",
+   "detail": "Tried to invite the Taliban to Camp David in 2019.",
+   "date": "2019",
+   "confidence": "stated",
+   "timestamp": "56:20",
+   "quote": "he's trying to invite the Taliban to Camp David"
+  },
+  {
+   "source": "Taliban",
+   "target": "Islamic State",
+   "type": "rival_of",
+   "detail": "McKenzie noted the Taliban fight ISIS.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "47:56",
+   "quote": "we know that the Taliban fights ISIS"
+  }
+ ],
+ "sources_cited": [
+  "Bin Laden files (Abbottabad documents)",
+  "US Treasury Department designations of Faruq al-Qahtani",
+  "al-Qaeda martyrdom statement for Faruq al-Qahtani",
+  "Gen. Kenneth McKenzie's remarks on Zawahiri in eastern Afghanistan",
+  "Taliban statement denying al-Qaeda presence in Afghanistan",
+  "Resolute Support (unreleased press release on Asim Umar's death)"
+ ],
+ "key_claims": [
+  "Gen. McKenzie said Zawahiri is in eastern Afghanistan, and the hosts see this as a major development that drew little attention.",
+  "The hosts argue the Taliban should prove their break with al-Qaeda by handing over Zawahiri, and they treat Sirajuddin Haqqani, the Taliban's number two, as deeply tied to al-Qaeda.",
+  "Bin Laden's files show he moved al-Qaeda fighters from North Waziristan to Afghan provinces including Kunar and Nuristan around mid-2010, which matches al-Qaeda's later presence in eastern Afghanistan.",
+  "Faruq al-Qahtani, an al-Qaeda brigade/battalion head, was killed in eastern Afghanistan in 2016, which they cite as primary-source proof of al-Qaeda's presence there.",
+  "The Taliban publicly denied al-Qaeda's presence and blasted McKenzie, and the hosts say the US government made no counter-messaging effort to rebut them.",
+  "Asim Umar was killed in late 2019 alongside Taliban commanders, and the DoD buried a Resolute Support press release, which the hosts say would have exposed Taliban-al-Qaeda ties.",
+  "The hosts describe a failure of US political and military leadership that whitewashes the Taliban and has lost any plan for victory."
+ ]
+}
