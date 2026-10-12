@@ -160,7 +160,7 @@ def main():
     for r in con.execute("""SELECT source_id,target_id,type,count(*),group_concat(DISTINCT episode_idx),min(confidence),max(detail) FROM relationships GROUP BY source_id,target_id,type"""):
         edges.append(dict(source=r[0], target=r[1], type=r[2], n=r[3], episodes=[int(x) for x in str(r[4] or "").split(",") if x not in ("", "None")], confidence=r[5], detail=r[6]))
     for r in con.execute("SELECT entity_id, org_id, count(DISTINCT episode_idx), group_concat(DISTINCT episode_idx) FROM memberships GROUP BY entity_id, org_id"):
-        edges.append(dict(source=r[0], target=r[1], type="member_of", n=r[2], episodes=[int(x) for x in str(r[3]).split(",")], confidence="stated", detail=None))
+        edges.append(dict(source=r[0], target=r[1], type="member_of", n=r[2], episodes=[int(x) for x in str(r[3] or "").split(",") if x not in ("", "None")], confidence="stated", detail=None))
     json.dump({"nodes": nodes, "edges": edges}, open(f"{ROOT}/db/exports/graph.json", "w"), indent=0, ensure_ascii=False)
     n = {k: con.execute(f"SELECT count(*) FROM {k}").fetchone()[0] for k in ["episodes","entities","aliases","relationships","events","mentions","memberships"]}
     print(n); print({k: v for k, v in con.execute("SELECT kind, count(*) FROM entities GROUP BY kind")})
