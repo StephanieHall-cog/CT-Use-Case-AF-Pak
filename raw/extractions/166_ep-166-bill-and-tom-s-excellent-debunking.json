@@ -1,0 +1,1229 @@
+{
+ "episode": {
+  "idx": 166,
+  "title": "Ep, 166 — Bill and Tom's Excellent Debunking",
+  "published": "Fri, 10 May 2024 01:00:00 +0000",
+  "guid": "51e466b3-5386-4883-9d60-0d34362bdace"
+ },
+ "persons": [
+  {
+   "name": "Zalmay Khalilzad",
+   "aliases": [
+    "Zal",
+    "Azamai Kalisade",
+    "Calazade",
+    "Zalmei Klozad",
+    "Kalaalazade",
+    "Glouazade",
+    "Pulazade",
+    "Gullesad",
+    "Kulazat",
+    "Dalmat Khalizad"
+   ],
+   "role": "US Special Representative for Afghanistan Reconciliation (Sept 2018-2021); architect of the Doha agreement; interviewed by House Foreign Affairs Committee 8 Nov 2023",
+   "organizations": [
+    "US State Department"
+   ],
+   "nationality_or_origin": "Afghan-American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Doha",
+    "Washington"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "001:19",
+     "quote": "the key architect of the Doha agreement, which aided the Taliban's takeover of Afghanistan. On November 8 ... Calazade was interviewed by the House Committee on Foreign Affairs, and the transcript of that interview was released on May 1st"
+    },
+    {
+     "timestamp": "013:02",
+     "quote": "I have to say for the record, looking back that al-Qaeda in the Indian subcontinent has been dismantled. It doesn't exist anymore, according to our intelligence, since the Taliban took over"
+    },
+    {
+     "timestamp": "019:34",
+     "quote": "his own personal judgment ... maybe two years or more ... to have negotiations between the Afghan government and the Taliban"
+    },
+    {
+     "timestamp": "041:52",
+     "quote": "In ... July, 2016, I testified alongside Zalmei Kalisade ... Calisade made the argument that the Taliban would never break from Al-Qaeda"
+    }
+   ]
+  },
+  {
+   "name": "Ayman al-Zawahiri",
+   "aliases": [
+    "Zawahiri",
+    "Zawiri",
+    "Zahiri"
+   ],
+   "role": "al-Qaeda emir killed by US drone strike in Kabul, July 2022",
+   "organizations": [
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Egyptian",
+   "status": "dead",
+   "status_detail": "killed by US drone strike in a Haqqani safe house ('victory villa') in Kabul, July 2022",
+   "family": [],
+   "locations": [
+    "Kabul"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "026:52",
+     "quote": "after the U.S. had to use a drone strike to kill Iman al-Zawahiri in his victory villa in the middle of Kabul ... in July of 2022"
+    },
+    {
+     "timestamp": "027:54",
+     "quote": "Zawahiri was found in an Akani safe house in Kabul. And Pulazad responds, yeah, right ... a violation, full and complete ... that's all I can say in this setting"
+    }
+   ]
+  },
+  {
+   "name": "Sirajuddin Haqqani",
+   "aliases": [
+    "Saraj Akhani",
+    "Siraj"
+   ],
+   "role": "Taliban deputy emir and interior minister; Haqqani Network leader; one of two senior Taliban who knew of Zawahiri's safe house",
+   "organizations": [
+    "Haqqani Network",
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Kabul"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "030:34",
+     "quote": "the two people who knew about Zawahiri safe house in the senior most Taliban ranks ... were Saraj Akhani, which we would expect, because he and his family protected senior al-Qaeda leaders for so many years, decades, really. And number two, Mullahouye Kup."
+    }
+   ]
+  },
+  {
+   "name": "Mullah Yaqoob",
+   "aliases": [
+    "Mulyakou",
+    "Mullahouye Kup",
+    "Yikub",
+    "Yikubb"
+   ],
+   "role": "Taliban defense minister and deputy emir; son of Mullah Omar; Kandahari Taliban; sent letter to Khalilzad saying 'no military solution'; knew of Zawahiri's presence",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "",
+   "family": [
+    {
+     "relation": "father",
+     "name": "Mullah Omar"
+    }
+   ],
+   "locations": [
+    "Kandahar",
+    "Kabul"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "029:22",
+     "quote": "he received a letter from Mulyakou ... current, you know, high-level defense minister in the Taliban's emirate, son of Mullah Al-Mar, the founder and chief of the Taliban"
+    },
+    {
+     "timestamp": "031:32",
+     "quote": "Yikub is also deputy emir ... Yikubb's Kandahari Taliban. I hate to tell you."
+    }
+   ]
+  },
+  {
+   "name": "Mullah Omar",
+   "aliases": [
+    "Mullah Al-Mar"
+   ],
+   "role": "Founder and first emir of the Taliban",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "dead",
+   "status_detail": "",
+   "family": [
+    {
+     "relation": "son",
+     "name": "Mullah Yaqoob"
+    }
+   ],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "029:22",
+     "quote": "son of Mullah Al-Mar, the founder and chief of the Taliban"
+    }
+   ]
+  },
+  {
+   "name": "Hibatullah Akhundzada",
+   "aliases": [
+    "Mullahabia Tullah Al-Qanzada"
+   ],
+   "role": "Taliban emir; hosts infer he knew Zawahiri was in Kabul",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Kandahar"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "031:32",
+     "quote": "if those two knew, you can be certain that the Taliban's Amir, Mullahabia, Tullah Al-Qanzada, knew that Zahiri was there"
+    }
+   ]
+  },
+  {
+   "name": "Saif al-Adel",
+   "aliases": [
+    "sipholato"
+   ],
+   "role": "Thought to be Zawahiri's successor as al-Qaeda leader; not publicly announced",
+   "organizations": [
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Egyptian",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "034:56",
+     "quote": "we don't even have an official public announcement of Zawiri's successor, let alone have that person who's thought to be sipholato ... communicating with the public in any way"
+    }
+   ]
+  },
+  {
+   "name": "Mike Pompeo",
+   "aliases": [
+    "Secretary Pompeo"
+   ],
+   "role": "US Secretary of State who hired Khalilzad and sold the Doha CT assurances",
+   "organizations": [
+    "US State Department"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "026:52",
+     "quote": "as Zal and others and Secretary Pompeo who hired him and others, as, you know, as promised"
+    }
+   ]
+  },
+  {
+   "name": "Donald Trump",
+   "aliases": [
+    "President Trump"
+   ],
+   "role": "US President 2017-21; decided by Aug 2018 to withdraw from Afghanistan",
+   "organizations": [
+    "US government"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "003:45",
+     "quote": "he's appointed in September of 2018. and he explains that by August 2018, the decision had been made to withdraw from Afghanistan"
+    }
+   ]
+  },
+  {
+   "name": "Joe Biden",
+   "aliases": [
+    "President Biden"
+   ],
+   "role": "US President; chose to follow through on Doha rather than discard it; owns final withdrawal",
+   "organizations": [
+    "US government"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "055:48",
+     "quote": "Biden could have discarded the deal ... Or he followed through. he says the decision was made to follow through."
+    }
+   ]
+  },
+  {
+   "name": "Barack Obama",
+   "aliases": [
+    "President Obama"
+   ],
+   "role": "US President who pursued but declined a negotiated settlement with the Taliban",
+   "organizations": [
+    "US government"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "009:49",
+     "quote": "The Obama administration wanted out. It went down this path to try to get a negotiated settlement. It recognized it wasn't going to get it. So it kicked the can down to the Trump administration."
+    }
+   ]
+  },
+  {
+   "name": "Ashraf Ghani",
+   "aliases": [
+    "Ghani"
+   ],
+   "role": "Afghan president; 'not a real leader' per hosts",
+   "organizations": [
+    "Afghan government"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Kabul"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "011:49",
+     "quote": "find a real leader, other than Ghani, who is not a real leader"
+    }
+   ]
+  },
+  {
+   "name": "Michael Kurilla",
+   "aliases": [
+    "General Michael Corrilla"
+   ],
+   "role": "CENTCOM commander; testified March 2024 that reduced ISR challenges campaign against AQ and ISIS-K",
+   "organizations": [
+    "US Central Command"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "033:01",
+     "quote": "General Michael Corrilla, the commander used Central Command ... the reduction in collection, analytical resources, and intelligence surveillance reconnaissance assets means our campaign against al-Qaeda and ISIS-Khorasan is challenged"
+    }
+   ]
+  },
+  {
+   "name": "Kenneth McKenzie",
+   "aliases": [
+    "General McKenzie"
+   ],
+   "role": "Former CENTCOM commander; said Dec 2021 US intel capacity in Afghanistan fell to 1-2%",
+   "organizations": [
+    "US Central Command"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "033:43",
+     "quote": "General McKenzie ... said that our intelligence capacity was reduced ... to 1 to 2% of what it was ... He said that in December 2021."
+    }
+   ]
+  },
+  {
+   "name": "Scott Miller",
+   "aliases": [
+    "General Scottie Miller"
+   ],
+   "role": "Former commander of US forces in Afghanistan",
+   "organizations": [
+    "US military"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "053:09",
+     "quote": "the general before General Scottie Miller, was very proud about this temporary ceasefire"
+    }
+   ]
+  },
+  {
+   "name": "John Nicholson",
+   "aliases": [
+    "General Nicholson"
+   ],
+   "role": "Former commander of US forces in Afghanistan; took pride in short 2018 ceasefire",
+   "organizations": [
+    "US military"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "053:39",
+     "quote": "I think he's talking about General Nicholson. It's General Nicholson, yes."
+    }
+   ]
+  },
+  {
+   "name": "Michael Flynn",
+   "aliases": [],
+   "role": "Former US intelligence general who characterised Haqqanis as separate pragmatic 'gangsters'",
+   "organizations": [
+    "US military"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "028:56",
+     "quote": "the Khani's, you have to think of them as separate from the Taliban. They're pragmatic. They're just gangsters. Remember that one from, it was Michael Flynn and there was a British general?"
+    }
+   ]
+  },
+  {
+   "name": "H.R. McMaster",
+   "aliases": [
+    "General HR McMaster"
+   ],
+   "role": "US National Security Advisor behind 2017 South Asia strategy aiming for a path to victory, abandoned a year later",
+   "organizations": [
+    "US government"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "056:51",
+     "quote": "in 2017 there was a national security strategy under General HR McMaster that was all about ... give a path to victory. And how that was just over a year later, completely abandoned"
+    }
+   ]
+  },
+  {
+   "name": "Dian Triansyah Djani",
+   "aliases": [
+    "Dionne Triangsa Johnny"
+   ],
+   "role": "Indonesian chair of the UN Security Council 1988 sanctions committee who signed off the Monitoring Team report; Khalilzad questioned his nationality",
+   "organizations": [
+    "UN Security Council"
+   ],
+   "nationality_or_origin": "Indonesian",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "038:01",
+     "quote": "he questions the nationality of the ... chairman of the United Nations Security Council ... 'it'd be good to see his nationality and where he's worked before'"
+    },
+    {
+     "timestamp": "039:57",
+     "quote": "Dionne Triangsa Johnny. He's Indonesian, FYI."
+    }
+   ]
+  },
+  {
+   "name": "Edmund Fitton-Brown",
+   "aliases": [],
+   "role": "Former UN Monitoring Team coordinator; hosts vouch for his team's work",
+   "organizations": [
+    "UN Monitoring Team"
+   ],
+   "nationality_or_origin": "British",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": true,
+   "mentions": [
+    {
+     "timestamp": "038:29",
+     "quote": "our friend Edmund Fitton Brown, who was the previous director of the monitoring team, we know the quality of his work"
+    }
+   ]
+  },
+  {
+   "name": "Henry Kissinger",
+   "aliases": [],
+   "role": "Former US Secretary of State; Khalilzad reportedly hopes legacy matches his",
+   "organizations": [
+    "US State Department"
+   ],
+   "nationality_or_origin": "American",
+   "status": "dead",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "024:15",
+     "quote": "a political article not too long ago about Glouzod worrying about his legacy and hoping it lives up to Henry Kissinger"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Taliban",
+   "aliases": [
+    "Islamic Emirate of Afghanistan",
+    "Kandahari Taliban"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda",
+    "Haqqani Network",
+    "AQIS",
+    "Pakistan"
+   ],
+   "rivals": [
+    "Islamic State Khorasan Province",
+    "Afghan government"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Never intended to share power (2016 statement); had a 'military solution' and won; hosts: no false dichotomy between Kandahari Taliban and Haqqanis."
+  },
+  {
+   "name": "al-Qaeda",
+   "aliases": [
+    "AQ"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban",
+    "Haqqani Network"
+   ],
+   "rivals": [
+    "Islamic State"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "UN: training camps in 10 provinces (hosts: at least 13); weapons storage in Panjshir; madrasas; safe houses; successor to Zawahiri unannounced."
+  },
+  {
+   "name": "al-Qaeda in the Indian Subcontinent",
+   "aliases": [
+    "AQIS"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda",
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan/Pakistan",
+   "notes": "Khalilzad claims 'dismantled'; hosts: it has a seat at the table in the emirate, operates in Pakistan and Central Asia too."
+  },
+  {
+   "name": "Haqqani Network",
+   "aliases": [
+    "Hacconi network",
+    "Akani",
+    "Khanis"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban",
+    "al-Qaeda"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan/Pakistan",
+   "notes": "Integral, inseparable part of Taliban; strongholds Paktika, Paktia, Khost where AQ's first camps were; Zawahiri found in a Haqqani safe house."
+  },
+  {
+   "name": "Islamic State Khorasan Province",
+   "aliases": [
+    "ISIS-K",
+    "ISIS"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Islamic State"
+   ],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Taliban fight it as bitter rivals, unrelated to Doha; CENTCOM lacks granularity on it."
+  },
+  {
+   "name": "Afghan government",
+   "aliases": [
+    "Islamic Republic of Afghanistan"
+   ],
+   "type": "other",
+   "parent_or_allies": [
+    "United States"
+   ],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Cut out of Doha talks, delegitimised, forced to release 5,000 prisoners; collapsed 15 Aug 2021."
+  },
+  {
+   "name": "National Resistance Front",
+   "aliases": [
+    "NRF"
+   ],
+   "type": "militia",
+   "parent_or_allies": [],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan (Panjshir)",
+   "notes": "Panjshir is its home; AQ weapons storage there is 'a message'."
+  },
+  {
+   "name": "US State Department",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Khalilzad's employer; Pompeo hired him."
+  },
+  {
+   "name": "US Central Command",
+   "aliases": [
+    "CENTCOM"
+   ],
+   "type": "military",
+   "parent_or_allies": [],
+   "rivals": [
+    "al-Qaeda",
+    "Islamic State Khorasan Province"
+   ],
+   "country_base": "United States",
+   "notes": "Kurilla/McKenzie statements on degraded intelligence."
+  },
+  {
+   "name": "House Foreign Affairs Committee",
+   "aliases": [
+    "HFAC",
+    "House Committee on Foreign Affairs"
+   ],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Interviewed Khalilzad 8 Nov 2023 (284-page transcript released 1 May 2024); 2016 hearing 'Pakistan: friend or foe' where Roggio and Khalilzad testified."
+  },
+  {
+   "name": "UN Monitoring Team",
+   "aliases": [
+    "Analytical Support and Sanctions Monitoring Team"
+   ],
+   "type": "international body",
+   "parent_or_allies": [
+    "UN Security Council"
+   ],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Reports on AQ camps in 10 provinces; hosts trust its track record over US assessments; Khalilzad dismissed it."
+  },
+  {
+   "name": "Pakistan",
+   "aliases": [
+    "Pakistanis"
+   ],
+   "type": "other",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Khalilzad in 2016 said Pakistan would support the Taliban forever; later said Pakistan supported peace; strategy predicated on strategic depth."
+  },
+  {
+   "name": "Long War Journal",
+   "aliases": [
+    "FDD's Long War Journal",
+    "LWJ"
+   ],
+   "type": "other",
+   "parent_or_allies": [
+    "Foundation for Defense of Democracies"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Its article prompted HFAC question to Khalilzad about AQ."
+  },
+  {
+   "name": "Just Security",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Tom Joscelyn is senior fellow."
+  }
+ ],
+ "places": [
+  {
+   "name": "Doha",
+   "type": "city",
+   "country": "Qatar",
+   "parent": "",
+   "significance": "Site of US–Taliban agreement, Feb 2020"
+  },
+  {
+   "name": "Kabul",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Zawahiri's Haqqani safe house; fell 15 Aug 2021; airport attack killed 13 Americans"
+  },
+  {
+   "name": "Paktika",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Haqqani stronghold; AQ's earliest camps; not covered in UN data"
+  },
+  {
+   "name": "Paktia",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Haqqani stronghold; AQ's earliest camps"
+  },
+  {
+   "name": "Khost",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Haqqani stronghold; AQ camps"
+  },
+  {
+   "name": "Panjshir",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "AQ weapons storage facility and madrasa in NRF's home province"
+  },
+  {
+   "name": "Shorabak",
+   "type": "district",
+   "country": "Afghanistan",
+   "parent": "Kandahar",
+   "significance": "US raid Oct 2015 on AQ camp killed 150-200 fighters, disproving 50-100 estimate"
+  },
+  {
+   "name": "Kandahar",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Home of Kandahari Taliban (Yaqoob, Hibatullah); Shorabak raid"
+  },
+  {
+   "name": "Jordan",
+   "type": "country",
+   "country": "Jordan",
+   "parent": "",
+   "significance": "Attack killing three US troops (Tower 22) cited as analogy"
+  }
+ ],
+ "events": [
+  {
+   "date": "2023-11-08",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Zalmay Khalilzad gives 9-10 hour transcribed interview to House Foreign Affairs Committee; claims AQIS 'dismantled', Afghan government expected to last 2+ years, calls Zawahiri in Haqqani house 'a violation, full and complete'",
+   "place": "Washington",
+   "actors": [
+    "Zalmay Khalilzad",
+    "House Foreign Affairs Committee"
+   ],
+   "timestamp": "001:19"
+  },
+  {
+   "date": "2024-05-01",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "HFAC releases 284-page transcript of Khalilzad interview",
+   "place": "Washington",
+   "actors": [
+    "House Foreign Affairs Committee"
+   ],
+   "timestamp": "001:19"
+  },
+  {
+   "date": "2018-09",
+   "date_precision": "month",
+   "type": "appointment",
+   "description": "Khalilzad appointed Special Representative for Afghanistan Reconciliation; decision to withdraw already made by Aug 2018",
+   "place": "Washington",
+   "actors": [
+    "Zalmay Khalilzad",
+    "Donald Trump",
+    "Mike Pompeo"
+   ],
+   "timestamp": "003:45"
+  },
+  {
+   "date": "2018-10",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Joscelyn publishes 'The War in Afghanistan is Over, We Lost'",
+   "place": "",
+   "actors": [
+    "Long War Journal"
+   ],
+   "timestamp": "004:18"
+  },
+  {
+   "date": "2022-07-31",
+   "date_precision": "month",
+   "type": "strike",
+   "description": "US drone strike kills Zawahiri in Haqqani safe house in Kabul",
+   "place": "Kabul",
+   "actors": [
+    "United States",
+    "Ayman al-Zawahiri",
+    "Haqqani Network"
+   ],
+   "timestamp": "026:52"
+  },
+  {
+   "date": "2023-09-14",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Khalilzad tweets that Taliban are delivering on Doha commitments to fight ISIS and prevent AQ use of Afghan soil",
+   "place": "",
+   "actors": [
+    "Zalmay Khalilzad"
+   ],
+   "timestamp": "025:48"
+  },
+  {
+   "date": "2021-08-15",
+   "date_precision": "day",
+   "type": "offensive",
+   "description": "Kabul falls to Taliban; Roggio had predicted government would not survive the summer",
+   "place": "Kabul",
+   "actors": [
+    "Taliban",
+    "Afghan government"
+   ],
+   "timestamp": "021:07"
+  },
+  {
+   "date": "2021-08-26",
+   "date_precision": "approx",
+   "type": "attack",
+   "description": "Kabul airport attack kills 13 Americans during chaotic withdrawal",
+   "place": "Kabul",
+   "actors": [
+    "Islamic State Khorasan Province",
+    "United States"
+   ],
+   "timestamp": "009:19"
+  },
+  {
+   "date": "2016-07",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Roggio and Khalilzad testify at HFAC subcommittee hearing 'Pakistan: friend or foe'; Khalilzad says Taliban will never break with AQ and Pakistan will always support Taliban",
+   "place": "Washington",
+   "actors": [
+    "Zalmay Khalilzad",
+    "House Foreign Affairs Committee"
+   ],
+   "timestamp": "041:52"
+  },
+  {
+   "date": "2016",
+   "date_precision": "year",
+   "type": "statement",
+   "description": "Taliban publicly state they will not share power with the Afghan government",
+   "place": "",
+   "actors": [
+    "Taliban"
+   ],
+   "timestamp": "023:06"
+  },
+  {
+   "date": "2024-03",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "CENTCOM commander Kurilla testifies reduced ISR means campaign against AQ and ISIS-K 'is challenged'",
+   "place": "Washington",
+   "actors": [
+    "Michael Kurilla",
+    "US Central Command"
+   ],
+   "timestamp": "033:01"
+  },
+  {
+   "date": "2021-12",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Gen. McKenzie says US intelligence capacity in Afghanistan reduced to 1-2% of pre-withdrawal",
+   "place": "",
+   "actors": [
+    "Kenneth McKenzie"
+   ],
+   "timestamp": "033:43"
+  },
+  {
+   "date": "2015-10",
+   "date_precision": "approx",
+   "type": "strike",
+   "description": "US raid on AQ camp at Shorabak, Kandahar kills 150-200 AQ fighters, contradicting DoD 50-100 estimate confined to northeast",
+   "place": "Shorabak",
+   "actors": [
+    "United States",
+    "al-Qaeda"
+   ],
+   "timestamp": "034:21"
+  },
+  {
+   "date": "2018-06",
+   "date_precision": "approx",
+   "type": "agreement",
+   "description": "Short-lived Taliban ceasefire (Eid) which Gen. Nicholson took pride in; Taliban claim it was unilateral",
+   "place": "Afghanistan",
+   "actors": [
+    "Taliban",
+    "John Nicholson"
+   ],
+   "timestamp": "053:39"
+  },
+  {
+   "date": "2017",
+   "date_precision": "year",
+   "type": "statement",
+   "description": "McMaster-era South Asia strategy promising a path to victory; abandoned by 2018",
+   "place": "Washington",
+   "actors": [
+    "H.R. McMaster",
+    "Donald Trump"
+   ],
+   "timestamp": "056:51"
+  },
+  {
+   "date": "2020-02",
+   "date_precision": "month",
+   "type": "agreement",
+   "description": "Doha agreement signed; 5,000 Taliban prisoners released; 'window dressing' for a decided withdrawal",
+   "place": "Doha",
+   "actors": [
+    "United States",
+    "Taliban",
+    "Zalmay Khalilzad"
+   ],
+   "timestamp": "012:27"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Mullah Yaqoob",
+   "target": "Mullah Omar",
+   "type": "family",
+   "detail": "Yaqoob is Mullah Omar's son.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "029:22",
+   "quote": "son of Mullah Al-Mar, the founder and chief of the Taliban"
+  },
+  {
+   "source": "Mullah Yaqoob",
+   "target": "Taliban",
+   "type": "deputy_of",
+   "detail": "Deputy emir and defense minister.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "031:32",
+   "quote": "Yikub is also deputy emir ... their interior and their defense minister"
+  },
+  {
+   "source": "Sirajuddin Haqqani",
+   "target": "Taliban",
+   "type": "deputy_of",
+   "detail": "Deputy emir and interior minister.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "031:32",
+   "quote": "you have both deputy emir of the Taliban as well as their interior and their defense minister"
+  },
+  {
+   "source": "Ayman al-Zawahiri",
+   "target": "Haqqani Network",
+   "type": "sheltered_by",
+   "detail": "Zawahiri found in a Haqqani safe house in Kabul.",
+   "date": "2022-07",
+   "confidence": "stated",
+   "timestamp": "027:54",
+   "quote": "Zawahiri was found in an Akani safe house in Kabul"
+  },
+  {
+   "source": "Ayman al-Zawahiri",
+   "target": "Sirajuddin Haqqani",
+   "type": "sheltered_by",
+   "detail": "Siraj Haqqani was one of two senior Taliban who knew of Zawahiri's safe house; his family protected AQ leaders for decades.",
+   "date": "2022",
+   "confidence": "stated",
+   "timestamp": "030:34",
+   "quote": "Saraj Akhani ... he and his family protected senior al-Qaeda leaders for so many years, decades, really"
+  },
+  {
+   "source": "Mullah Yaqoob",
+   "target": "Ayman al-Zawahiri",
+   "type": "other",
+   "detail": "Yaqoob was reportedly the second senior Taliban who knew about Zawahiri's safe house.",
+   "date": "2022",
+   "confidence": "stated",
+   "timestamp": "030:34",
+   "quote": "And number two, Mullahouye Kup. The guy supposedly supposed to set this letter to Kulazad."
+  },
+  {
+   "source": "Hibatullah Akhundzada",
+   "target": "Ayman al-Zawahiri",
+   "type": "other",
+   "detail": "Hosts infer Hibatullah knew Zawahiri was in Kabul if Siraj and Yaqoob knew.",
+   "date": "2022",
+   "confidence": "inferred",
+   "timestamp": "031:32",
+   "quote": "if those two knew, you can be certain that the Taliban's Amir ... knew that Zahiri was there"
+  },
+  {
+   "source": "Mullah Yaqoob",
+   "target": "Zalmay Khalilzad",
+   "type": "other",
+   "detail": "Yaqoob sent Khalilzad a letter saying there was no military solution and seeking a way out.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "029:59",
+   "quote": "he received a letter from Mulyakou ... there was no military solution to what was going on and they're interested for a way out"
+  },
+  {
+   "source": "Haqqani Network",
+   "target": "Taliban",
+   "type": "member_of",
+   "detail": "Haqqanis are an integral, inseparable part of the Taliban, contrary to earlier US military 'separate gangsters' narrative.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "028:56",
+   "quote": "the Khonis are integral part of the Taliban that can't be separated"
+  },
+  {
+   "source": "Zalmay Khalilzad",
+   "target": "Taliban",
+   "type": "negotiated_with",
+   "detail": "Negotiated the Doha agreement as Special Representative.",
+   "date": "2018-2020",
+   "confidence": "stated",
+   "timestamp": "001:19",
+   "quote": "the key architect of the Doha agreement, which aided the Taliban's takeover of Afghanistan"
+  },
+  {
+   "source": "Zalmay Khalilzad",
+   "target": "Mike Pompeo",
+   "type": "reports_to",
+   "detail": "Pompeo hired Khalilzad.",
+   "date": "2018-09",
+   "confidence": "stated",
+   "timestamp": "026:52",
+   "quote": "Secretary Pompeo who hired him"
+  },
+  {
+   "source": "Taliban",
+   "target": "al-Qaeda",
+   "type": "allied_with",
+   "detail": "Taliban never broke with AQ; Khalilzad himself said so in 2016; Zawahiri's presence shows CT assurances unmet.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "041:52",
+   "quote": "Calisade made the argument that the Taliban would never break from Al-Qaeda"
+  },
+  {
+   "source": "al-Qaeda in the Indian Subcontinent",
+   "target": "Taliban",
+   "type": "member_of",
+   "detail": "AQIS has a share/seat at the table inside the Taliban emirate rather than being dismantled.",
+   "date": "2024",
+   "confidence": "inferred",
+   "timestamp": "013:32",
+   "quote": "AQIS ... was always going to have a share of the Taliban's Emirate. So maybe it functionally doesn't act as a separate actor anymore because it simply got to see at the table inside the emirate"
+  },
+  {
+   "source": "al-Qaeda",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "UN: AQ training camps in 10 provinces; hosts say at least 13 incl. Paktika, Paktia, Khost; weapons storage in Panjshir.",
+   "date": "2024",
+   "confidence": "stated",
+   "timestamp": "015:00",
+   "quote": "When you combine them together, Al-Qaeda is operating training camps in 10 provinces"
+  },
+  {
+   "source": "Haqqani Network",
+   "target": "Paktika",
+   "type": "located_in",
+   "detail": "Paktika, Paktia and Khost are Haqqani strongholds where AQ's first camps were.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "016:01",
+   "quote": "These are Hacconi network strongholds where Al-Qaeda has traditionally ... their first camps ever were"
+  },
+  {
+   "source": "Pakistan",
+   "target": "Taliban",
+   "type": "allied_with",
+   "detail": "Khalilzad (2016): Pakistan supported and would always support the Taliban.",
+   "date": "2016",
+   "confidence": "stated",
+   "timestamp": "042:56",
+   "quote": "that Pakistan was supporting the Taliban and it would always support the Taliban"
+  },
+  {
+   "source": "Taliban",
+   "target": "Islamic State Khorasan Province",
+   "type": "rival_of",
+   "detail": "Taliban have always fought ISIS as bitter rivals, unrelated to Doha.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "026:18",
+   "quote": "The Taliban has always fought ISIS ... because they're bitter rivals. They hate each other. There's nothing to do with the Doha agreement."
+  },
+  {
+   "source": "Taliban",
+   "target": "Afghan government",
+   "type": "rival_of",
+   "detail": "Taliban had no interest in power sharing; US diplomacy sided with Taliban against Kabul.",
+   "date": "2020-2021",
+   "confidence": "stated",
+   "timestamp": "010:56",
+   "quote": "the U.S. ends up diplomatically siding with the Taliban against the Afghan government and throws the Afghan government under the bus"
+  },
+  {
+   "source": "Zalmay Khalilzad",
+   "target": "UN Monitoring Team",
+   "type": "other",
+   "detail": "Khalilzad dismissed the UN Monitoring Team report and questioned the nationality of committee chair Dian Triansyah Djani.",
+   "date": "2023-11-08",
+   "confidence": "stated",
+   "timestamp": "038:01",
+   "quote": "it'd be good to see his nationality and where he's worked before and all the committee members that worked on it"
+  },
+  {
+   "source": "United States",
+   "target": "Ayman al-Zawahiri",
+   "type": "killed",
+   "detail": "US drone strike in Kabul, July 2022.",
+   "date": "2022-07",
+   "confidence": "stated",
+   "timestamp": "026:52",
+   "quote": "the U.S. had to use a drone strike to kill Iman al-Zawahiri in his victory villa in the middle of Kabul"
+  },
+  {
+   "source": "Saif al-Adel",
+   "target": "al-Qaeda",
+   "type": "leads",
+   "detail": "Thought to be Zawahiri's successor; no public announcement.",
+   "date": "2024",
+   "confidence": "inferred",
+   "timestamp": "034:56",
+   "quote": "that person who's thought to be sipholato"
+  },
+  {
+   "source": "Michael Kurilla",
+   "target": "US Central Command",
+   "type": "leads",
+   "detail": "CENTCOM commander.",
+   "date": "2024",
+   "confidence": "stated",
+   "timestamp": "033:01",
+   "quote": "General Michael Corrilla, the commander used Central Command"
+  }
+ ],
+ "sources_cited": [
+  "House Foreign Affairs Committee transcribed interview of Zalmay Khalilzad (8 Nov 2023, released 1 May 2024, 284 pages)",
+  "UN Monitoring Team reports on Afghanistan (AQ camps in 10 provinces)",
+  "Khalilzad tweet 14 Sept 2023",
+  "Long War Journal article on Khalilzad's 'al-Qaeda doesn't exist' claim",
+  "Joscelyn, 'The War in Afghanistan is Over, We Lost' (Oct 2018)",
+  "Roggio 2016 LWJ article on Taliban refusal to share power",
+  "CENTCOM Gen. Kurilla posture statement March 2024",
+  "Gen. McKenzie Dec 2021 remarks on 1-2% intelligence capacity",
+  "Politico article on Khalilzad's legacy/Kissinger",
+  "Hur report (Biden)",
+  "HFAC 2016 hearing 'Pakistan: Friend or Foe'"
+ ],
+ "key_claims": [
+  "The US decision to withdraw was made by Aug 2018; Khalilzad's Doha process was 'window dressing' that became complicit in selling the lie that the Taliban would break with al-Qaeda and negotiate with Kabul.",
+  "Khalilzad's claim that AQIS has been 'dismantled' is contradicted by UN reporting of AQ camps in 10 (hosts: at least 13) provinces; AQIS is simply absorbed into the emirate.",
+  "Khalilzad's own assessment that the Afghan government would last 2+ years is a 'game-ender' for his credibility; Kabul fell within months.",
+  "The Haqqanis are an integral part of the Taliban: Siraj Haqqani and Mullah Yaqoob (Kandahari) both knew of Zawahiri's Kabul safe house, so Hibatullah almost certainly did too; the Kandahari-vs-Haqqani dichotomy is false.",
+  "Taliban fighting ISIS has nothing to do with Doha; the real test, breaking with al-Qaeda, was failed.",
+  "In 2016 Khalilzad testified the Taliban would never break with AQ and Pakistan would always back the Taliban; by 2018 he claimed the opposite without explanation.",
+  "Khalilzad dismissed the UN Monitoring Team and questioned the (Indonesian) committee chair's nationality; hosts trust UN reports' track record over US assessments.",
+  "US intelligence on Afghanistan is now 1-2% of pre-withdrawal capacity; past assessments (50-100 AQ, confined to northeast) were disproven by the 2015 Shorabak raid.",
+  "Biden could have discarded the Doha deal (Khalilzad admits it was an option) but chose to follow through; Biden owns the final act."
+ ]
+}
