@@ -48,6 +48,8 @@ def main():
         if not canon: return None
         if kind == "persons" and fold(canon) in PRESENTERS: return None
         i = eid(kind, canon, dataset)
+        if dataset == "synthetic" and kind != "persons" and eid(kind, canon, "real") in ents:
+            i = eid(kind, canon, "real")   # synthetic rows may attach to real orgs/places; never to real persons
         row = ents.setdefault(i, {"id": i, "kind": kind[:-1], "name": canon, "dataset": dataset, "aliases": set(), "eps": set(), "pubs": []})
         if fold(name) != fold(canon): row["aliases"].add(name.strip())
         if ep is not None:
