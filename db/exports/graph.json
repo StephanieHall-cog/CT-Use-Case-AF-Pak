@@ -1,0 +1,769 @@
+{
+"nodes": [
+{
+"id": "P-3ad7c1f7b5",
+"kind": "person",
+"name": "Mark Esper",
+"dataset": "real",
+"role": "U.S. Secretary of Defense",
+"status": "alive",
+"n_episodes": 1,
+"country": null
+},
+{
+"id": "O-92f2a5483e",
+"kind": "organization",
+"name": "U.S. Department of Defense",
+"dataset": "real",
+"role": null,
+"status": null,
+"n_episodes": 1,
+"country": "United States"
+},
+{
+"id": "P-ab0f38bf7f",
+"kind": "person",
+"name": "Kenneth McKenzie",
+"dataset": "real",
+"role": "Commander, U.S. Central Command (CENTCOM)",
+"status": "alive",
+"n_episodes": 1,
+"country": null
+},
+{
+"id": "O-2b3e54b76e",
+"kind": "organization",
+"name": "CENTCOM",
+"dataset": "real",
+"role": null,
+"status": null,
+"n_episodes": 1,
+"country": "United States"
+},
+{
+"id": "P-1ee6b26794",
+"kind": "person",
+"name": "Mike Pompeo",
+"dataset": "real",
+"role": "U.S. Secretary of State",
+"status": "alive",
+"n_episodes": 1,
+"country": null
+},
+{
+"id": "O-d8f6d5bbb1",
+"kind": "organization",
+"name": "U.S. State Department",
+"dataset": "real",
+"role": null,
+"status": null,
+"n_episodes": 1,
+"country": "United States"
+},
+{
+"id": "P-4e12469aee",
+"kind": "person",
+"name": "Zalmay Khalilzad",
+"dataset": "real",
+"role": "U.S. Special Representative for Afghanistan Reconciliation; chief negotiator of the U.S.-Taliban deal",
+"status": "alive",
+"n_episodes": 1,
+"country": null
+},
+{
+"id": "P-1046c018fc",
+"kind": "person",
+"name": "Zabihullah Mujahid",
+"dataset": "real",
+"role": "Taliban spokesman (identification inferred from garbled transcript)",
+"status": "alive",
+"n_episodes": 1,
+"country": null
+},
+{
+"id": "O-03898888bd",
+"kind": "organization",
+"name": "Taliban",
+"dataset": "real",
+"role": null,
+"status": null,
+"n_episodes": 1,
+"country": "Afghanistan"
+},
+{
+"id": "P-22984a5721",
+"kind": "person",
+"name": "Suhail Shaheen",
+"dataset": "real",
+"role": "Taliban spokesman",
+"status": "alive",
+"n_episodes": 1,
+"country": null
+},
+{
+"id": "P-5224f98669",
+"kind": "person",
+"name": "Hibatullah Akhundzada",
+"dataset": "real",
+"role": "Emir / supreme leader of the Taliban",
+"status": "alive",
+"n_episodes": 1,
+"country": null
+},
+{
+"id": "L-5066194008",
+"kind": "place",
+"name": "Afghanistan",
+"dataset": "real",
+"role": null,
+"status": null,
+"n_episodes": 1,
+"country": "Afghanistan"
+},
+{
+"id": "P-3cdd916edc",
+"kind": "person",
+"name": "Akhtar Mohammad Mansour",
+"dataset": "real",
+"role": "Second emir of the Taliban",
+"status": "dead",
+"n_episodes": 1,
+"country": null
+},
+{
+"id": "P-6d1c27de99",
+"kind": "person",
+"name": "Abu Bakr al-Baghdadi",
+"dataset": "real",
+"role": "Leader of the Islamic State (ISIS); self-styled caliph",
+"status": "dead",
+"n_episodes": 1,
+"country": null
+},
+{
+"id": "O-6e0f19f16b",
+"kind": "organization",
+"name": "Islamic State",
+"dataset": "real",
+"role": null,
+"status": null,
+"n_episodes": 1,
+"country": "Afghanistan"
+},
+{
+"id": "P-1432049818",
+"kind": "person",
+"name": "Osama bin Laden",
+"dataset": "real",
+"role": "Founder of al-Qaeda; subject of a planned future episode on his seized files",
+"status": "dead",
+"n_episodes": 1,
+"country": null
+},
+{
+"id": "O-c74761bdcd",
+"kind": "organization",
+"name": "al-Qaeda",
+"dataset": "real",
+"role": null,
+"status": null,
+"n_episodes": 1,
+"country": null
+},
+{
+"id": "O-27009e72c2",
+"kind": "organization",
+"name": "Afghan government",
+"dataset": "real",
+"role": null,
+"status": null,
+"n_episodes": 1,
+"country": "Afghanistan"
+},
+{
+"id": "O-62daa06d2b",
+"kind": "organization",
+"name": "Group for the Support of Islam and Muslims",
+"dataset": "real",
+"role": null,
+"status": null,
+"n_episodes": 1,
+"country": "Mali"
+},
+{
+"id": "O-d0597c5043",
+"kind": "organization",
+"name": "al-Qaeda in the Islamic Maghreb",
+"dataset": "real",
+"role": null,
+"status": null,
+"n_episodes": 1,
+"country": null
+},
+{
+"id": "O-ba30b33412",
+"kind": "organization",
+"name": "Voice of Jihad",
+"dataset": "real",
+"role": null,
+"status": null,
+"n_episodes": 1,
+"country": "Afghanistan"
+},
+{
+"id": "O-e2de5f5c64",
+"kind": "organization",
+"name": "Senate Armed Services Committee",
+"dataset": "real",
+"role": null,
+"status": null,
+"n_episodes": 1,
+"country": "United States"
+},
+{
+"id": "L-7cf8505035",
+"kind": "place",
+"name": "Kunar",
+"dataset": "real",
+"role": null,
+"status": null,
+"n_episodes": 1,
+"country": "Afghanistan"
+},
+{
+"id": "L-62720f2b1e",
+"kind": "place",
+"name": "Mali",
+"dataset": "real",
+"role": null,
+"status": null,
+"n_episodes": 1,
+"country": "Mali"
+},
+{
+"id": "L-6af238b941",
+"kind": "place",
+"name": "West Africa",
+"dataset": "real",
+"role": null,
+"status": null,
+"n_episodes": 1,
+"country": null
+},
+{
+"id": "L-6d2ce32d3a",
+"kind": "place",
+"name": "Yemen",
+"dataset": "real",
+"role": null,
+"status": null,
+"n_episodes": 1,
+"country": "Yemen"
+},
+{
+"id": "L-0e13eaad71",
+"kind": "place",
+"name": "Syria",
+"dataset": "real",
+"role": null,
+"status": null,
+"n_episodes": 1,
+"country": "Syria"
+},
+{
+"id": "L-8271b5e459",
+"kind": "place",
+"name": "East Africa",
+"dataset": "real",
+"role": null,
+"status": null,
+"n_episodes": 1,
+"country": null
+},
+{
+"id": "L-dec66d2486",
+"kind": "place",
+"name": "France",
+"dataset": "real",
+"role": null,
+"status": null,
+"n_episodes": 1,
+"country": "France"
+}
+],
+"edges": [
+{
+"source": "O-03898888bd",
+"target": "O-27009e72c2",
+"type": "rival_of",
+"n": 2,
+"episodes": [
+3
+],
+"confidence": "stated",
+"detail": "Taliban continued attacks on Afghan forces after the deal; 248 claimed attacks to March 15."
+},
+{
+"source": "O-03898888bd",
+"target": "O-6e0f19f16b",
+"type": "other",
+"n": 1,
+"episodes": [
+3
+],
+"confidence": "stated",
+"detail": "Taliban launched an offensive against ISIS in Kunar province."
+},
+{
+"source": "O-03898888bd",
+"target": "O-6e0f19f16b",
+"type": "rival_of",
+"n": 2,
+"episodes": [
+3
+],
+"confidence": "stated",
+"detail": "The Taliban routinely fight and denounce ISIS, which rejects the Islamic Emirate."
+},
+{
+"source": "O-03898888bd",
+"target": "O-ba30b33412",
+"type": "other",
+"n": 1,
+"episodes": [
+3
+],
+"confidence": "stated",
+"detail": "The Taliban publish attack claims on Voice of Jihad."
+},
+{
+"source": "O-03898888bd",
+"target": "O-c74761bdcd",
+"type": "allied_with",
+"n": 1,
+"episodes": [
+3
+],
+"confidence": "stated",
+"detail": null
+},
+{
+"source": "O-27009e72c2",
+"target": "O-03898888bd",
+"type": "rival_of",
+"n": 1,
+"episodes": [
+3
+],
+"confidence": "stated",
+"detail": null
+},
+{
+"source": "O-2b3e54b76e",
+"target": "O-92f2a5483e",
+"type": "allied_with",
+"n": 1,
+"episodes": [
+3
+],
+"confidence": "stated",
+"detail": null
+},
+{
+"source": "O-62daa06d2b",
+"target": "L-62720f2b1e",
+"type": "located_in",
+"n": 1,
+"episodes": [
+3
+],
+"confidence": "stated",
+"detail": "Centered in Mali and surrounding countries."
+},
+{
+"source": "O-62daa06d2b",
+"target": "O-c74761bdcd",
+"type": "allied_with",
+"n": 1,
+"episodes": [
+3
+],
+"confidence": "stated",
+"detail": null
+},
+{
+"source": "O-62daa06d2b",
+"target": "O-c74761bdcd",
+"type": "member_of",
+"n": 1,
+"episodes": [
+3
+],
+"confidence": "stated",
+"detail": "JNIM is al-Qaeda's West African branch, centered in Mali."
+},
+{
+"source": "O-6e0f19f16b",
+"target": "O-03898888bd",
+"type": "rival_of",
+"n": 1,
+"episodes": [
+3
+],
+"confidence": "stated",
+"detail": null
+},
+{
+"source": "O-6e0f19f16b",
+"target": "O-c74761bdcd",
+"type": "rival_of",
+"n": 1,
+"episodes": [
+3
+],
+"confidence": "stated",
+"detail": null
+},
+{
+"source": "O-ba30b33412",
+"target": "O-03898888bd",
+"type": "allied_with",
+"n": 1,
+"episodes": [
+3
+],
+"confidence": "stated",
+"detail": null
+},
+{
+"source": "O-c74761bdcd",
+"target": "O-03898888bd",
+"type": "allied_with",
+"n": 2,
+"episodes": [
+3
+],
+"confidence": "stated",
+"detail": "Al-Qaeda has been loyal to the Islamic Emirate since the 1990s; no Taliban attacks on al-Qaeda since the deal."
+},
+{
+"source": "O-c74761bdcd",
+"target": "O-6e0f19f16b",
+"type": "rival_of",
+"n": 2,
+"episodes": [
+3
+],
+"confidence": "inferred",
+"detail": "Implied: al-Qaeda stays loyal to the Emirate while ISIS rejects it and wants power for itself."
+},
+{
+"source": "O-c74761bdcd",
+"target": "P-5224f98669",
+"type": "allied_with",
+"n": 1,
+"episodes": [
+3
+],
+"confidence": "stated",
+"detail": "Al-Qaeda calls him emir of the faithful; its head has pledged allegiance to him."
+},
+{
+"source": "O-d0597c5043",
+"target": "O-c74761bdcd",
+"type": "allied_with",
+"n": 1,
+"episodes": [
+3
+],
+"confidence": "stated",
+"detail": null
+},
+{
+"source": "O-d0597c5043",
+"target": "O-c74761bdcd",
+"type": "member_of",
+"n": 1,
+"episodes": [
+3
+],
+"confidence": "stated",
+"detail": "AQIM is an al-Qaeda affiliate whose emir echoed the JNIM position."
+},
+{
+"source": "P-1046c018fc",
+"target": "O-03898888bd",
+"type": "member_of",
+"n": 1,
+"episodes": [
+3
+],
+"confidence": "inferred",
+"detail": "Taliban spokesman with a long-running Twitter account (identity inferred from garbled name)."
+},
+{
+"source": "P-1432049818",
+"target": "O-c74761bdcd",
+"type": "leads",
+"n": 1,
+"episodes": [
+3
+],
+"confidence": "inferred",
+"detail": "Bin Laden's files are the subject of a planned episode; his role as al-Qaeda head is implied."
+},
+{
+"source": "P-22984a5721",
+"target": "O-03898888bd",
+"type": "member_of",
+"n": 1,
+"episodes": [
+3
+],
+"confidence": "stated",
+"detail": "Taliban spokesman who rebutted Khalilzad."
+},
+{
+"source": "P-22984a5721",
+"target": "P-4e12469aee",
+"type": "rival_of",
+"n": 1,
+"episodes": [
+3
+],
+"confidence": "stated",
+"detail": "Publicly rebutted Khalilzad's framing of the Taliban anti-ISIS offensive."
+},
+{
+"source": "P-3cdd916edc",
+"target": "O-03898888bd",
+"type": "leads",
+"n": 1,
+"episodes": [
+3
+],
+"confidence": "stated",
+"detail": "Mansour was the second emir of the Taliban."
+},
+{
+"source": "P-3cdd916edc",
+"target": "O-6e0f19f16b",
+"type": "rival_of",
+"n": 1,
+"episodes": [
+3
+],
+"confidence": "stated",
+"detail": "Mansour issued a statement rejecting ISIS's intrusion into the Afghan jihad."
+},
+{
+"source": "P-3cdd916edc",
+"target": "O-c74761bdcd",
+"type": "allied_with",
+"n": 1,
+"episodes": [
+3
+],
+"confidence": "stated",
+"detail": "Described as an al-Qaeda man, very fond of al-Qaeda."
+},
+{
+"source": "P-3cdd916edc",
+"target": "P-5224f98669",
+"type": "other",
+"n": 1,
+"episodes": [
+3
+],
+"confidence": "inferred",
+"detail": "Akhundzada is the current emir; Mansour was the earlier (second) emir (implied succession)."
+},
+{
+"source": "P-4e12469aee",
+"target": "O-03898888bd",
+"type": "negotiated_with",
+"n": 1,
+"episodes": [
+3
+],
+"confidence": "stated",
+"detail": "Khalilzad was chief negotiator of the withdrawal deal with the Taliban."
+},
+{
+"source": "P-4e12469aee",
+"target": "P-1ee6b26794",
+"type": "reports_to",
+"n": 1,
+"episodes": [
+3
+],
+"confidence": "inferred",
+"detail": "Both sold the deal as a Taliban-al-Qaeda break; Khalilzad works under the Secretary of State (inferred)."
+},
+{
+"source": "P-5224f98669",
+"target": "O-03898888bd",
+"type": "leads",
+"n": 1,
+"episodes": [
+3
+],
+"confidence": "stated",
+"detail": "Akhundzada is the Taliban's emir and supreme leader."
+},
+{
+"source": "P-6d1c27de99",
+"target": "O-6e0f19f16b",
+"type": "leads",
+"n": 1,
+"episodes": [
+3
+],
+"confidence": "stated",
+"detail": "Baghdadi held the 'emir of the faithful' title as would-be caliph of ISIS."
+},
+{
+"source": "P-ab0f38bf7f",
+"target": "O-2b3e54b76e",
+"type": "leads",
+"n": 1,
+"episodes": [
+3
+],
+"confidence": "stated",
+"detail": "McKenzie is head of CENTCOM."
+},
+{
+"source": "P-ab0f38bf7f",
+"target": "P-3ad7c1f7b5",
+"type": "reports_to",
+"n": 1,
+"episodes": [
+3
+],
+"confidence": "inferred",
+"detail": "CENTCOM commander under the Secretary of Defense (inferred); both made the splinter/hardliner argument."
+},
+{
+"source": "P-1046c018fc",
+"target": "O-03898888bd",
+"type": "member_of",
+"n": 1,
+"episodes": [
+3
+],
+"confidence": "stated",
+"detail": null
+},
+{
+"source": "P-1432049818",
+"target": "O-c74761bdcd",
+"type": "member_of",
+"n": 1,
+"episodes": [
+3
+],
+"confidence": "stated",
+"detail": null
+},
+{
+"source": "P-1ee6b26794",
+"target": "O-d8f6d5bbb1",
+"type": "member_of",
+"n": 1,
+"episodes": [
+3
+],
+"confidence": "stated",
+"detail": null
+},
+{
+"source": "P-22984a5721",
+"target": "O-03898888bd",
+"type": "member_of",
+"n": 1,
+"episodes": [
+3
+],
+"confidence": "stated",
+"detail": null
+},
+{
+"source": "P-3ad7c1f7b5",
+"target": "O-92f2a5483e",
+"type": "member_of",
+"n": 1,
+"episodes": [
+3
+],
+"confidence": "stated",
+"detail": null
+},
+{
+"source": "P-3cdd916edc",
+"target": "O-03898888bd",
+"type": "member_of",
+"n": 1,
+"episodes": [
+3
+],
+"confidence": "stated",
+"detail": null
+},
+{
+"source": "P-4e12469aee",
+"target": "O-d8f6d5bbb1",
+"type": "member_of",
+"n": 1,
+"episodes": [
+3
+],
+"confidence": "stated",
+"detail": null
+},
+{
+"source": "P-5224f98669",
+"target": "O-03898888bd",
+"type": "member_of",
+"n": 1,
+"episodes": [
+3
+],
+"confidence": "stated",
+"detail": null
+},
+{
+"source": "P-6d1c27de99",
+"target": "O-6e0f19f16b",
+"type": "member_of",
+"n": 1,
+"episodes": [
+3
+],
+"confidence": "stated",
+"detail": null
+},
+{
+"source": "P-ab0f38bf7f",
+"target": "O-2b3e54b76e",
+"type": "member_of",
+"n": 1,
+"episodes": [
+3
+],
+"confidence": "stated",
+"detail": null
+},
+{
+"source": "P-ab0f38bf7f",
+"target": "O-92f2a5483e",
+"type": "member_of",
+"n": 1,
+"episodes": [
+3
+],
+"confidence": "stated",
+"detail": null
+}
+]
+}

@@ -1,0 +1,37 @@
+{
+  "episode": {"idx": 0, "title": "", "published": "", "guid": ""},
+  "persons": [
+    {
+      "name": "canonical full name as best known in English transliteration",
+      "aliases": ["kunya / nom de guerre / alt spellings mentioned"],
+      "role": "position/title at the time discussed (e.g. 'Taliban interior minister', 'al-Qaeda general manager')",
+      "organizations": ["Haqqani Network", "Taliban", "al-Qaeda"],
+      "nationality_or_origin": "e.g. Afghan, Pakistani, Egyptian, Saudi; '' if unknown",
+      "status": "alive|dead|detained|released|unknown",
+      "status_detail": "e.g. 'killed in US drone strike in Kabul 31 Jul 2022'",
+      "family": [{"relation": "son|father|brother|uncle|son-in-law|nephew|wife|cousin", "name": "..."}],
+      "locations": ["places this person is associated with in this episode"],
+      "is_presenter_or_guest": false,
+      "mentions": [{"timestamp": "MM:SS", "quote": "short verbatim-ish quote giving context"}]
+    }
+  ],
+  "organizations": [
+    {"name": "", "aliases": [], "type": "jihadist group|state agency|militia|political movement|international body|military|other",
+     "parent_or_allies": ["Taliban"], "rivals": ["ISKP"], "country_base": "", "notes": ""}
+  ],
+  "places": [
+    {"name": "", "type": "country|province|district|city|town|valley|base|border crossing|region", "country": "", "parent": "province or country",
+     "significance": "why it comes up in this episode"}
+  ],
+  "events": [
+    {"date": "YYYY-MM-DD or YYYY-MM or YYYY or 'approx 2021'", "date_precision": "day|month|year|approx", "type": "strike|attack|meeting|appointment|death|arrest|release|statement|offensive|agreement|designation|bounty|travel|other",
+     "description": "", "place": "", "actors": ["person or org names"], "timestamp": "MM:SS"}
+  ],
+  "relationships": [
+    {"source": "person/org name", "target": "person/org name",
+     "type": "family|member_of|leads|deputy_of|reports_to|allied_with|rival_of|hosted_by|sheltered_by|funded_by|trained_by|married_into|succeeded|killed|captured|negotiated_with|located_in|met_with|other",
+     "detail": "one sentence", "date": "if stated", "confidence": "stated|inferred", "timestamp": "MM:SS", "quote": "short supporting quote"}
+  ],
+  "sources_cited": ["documents/reports the hosts cite, e.g. 'UN Monitoring Team 34th report', 'US Treasury designation'"],
+  "key_claims": ["3-8 one-sentence analytic claims the hosts make about the network (who shelters whom, who controls what, etc.)"]
+}

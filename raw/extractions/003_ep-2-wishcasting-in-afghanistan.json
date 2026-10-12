@@ -1,0 +1,861 @@
+{
+ "episode": {
+  "idx": 3,
+  "title": "Ep. 2 - Wishcasting in Afghanistan",
+  "published": "Tue, 24 Mar 2020 11:00:00 +0000",
+  "guid": "7284c30b-3074-415d-bae5-35a83ca58cbf"
+ },
+ "persons": [
+  {
+   "name": "Mark Esper",
+   "aliases": [
+    "Esperds"
+   ],
+   "role": "U.S. Secretary of Defense",
+   "organizations": [
+    "U.S. Department of Defense"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "02:24",
+     "quote": "Esper suggested that the Taliban, quote, heartliners, end quote, were failing to honor an agreement to reduce violence"
+    },
+    {
+     "timestamp": "04:35",
+     "quote": "you have Esperds suggesting, right, that that rogue Taliban commanders are carrying out attacks"
+    }
+   ]
+  },
+  {
+   "name": "Kenneth McKenzie",
+   "aliases": [
+    "General Kenneth McKenzie",
+    "McKenzie"
+   ],
+   "role": "Commander, U.S. Central Command (CENTCOM)",
+   "organizations": [
+    "CENTCOM",
+    "U.S. Department of Defense"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "02:42",
+     "quote": "in testimony to the Senate Armed Services Committee, CENTCOM Commander McKenzie took this argument to the next level by claiming that it was possible for a, quote, splinter, end quote, Taliban faction to be carrying out these attacks"
+    },
+    {
+     "timestamp": "06:14",
+     "quote": "the most crazy thing that McKenzie says, he says, we're still assessing that"
+    }
+   ]
+  },
+  {
+   "name": "Mike Pompeo",
+   "aliases": [
+    "Secretary Pompeo"
+   ],
+   "role": "U.S. Secretary of State",
+   "organizations": [
+    "U.S. State Department"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "07:46",
+     "quote": "Secretary of State Mike Pompeo and Zalmae Calazade... both claim that this agreement calls for the Taliban to renounce and even target al-Qaeda"
+    },
+    {
+     "timestamp": "13:10",
+     "quote": "the Secretary of State... goes on national TV and tries to sell the people on the idea that the Taliban is now going to destroy... al-Qaeda in Afghanistan"
+    }
+   ]
+  },
+  {
+   "name": "Zalmay Khalilzad",
+   "aliases": [
+    "Zalmae Calazade",
+    "Zalem Kolosad",
+    "Klozad",
+    "Kalizad",
+    "Calizade"
+   ],
+   "role": "U.S. Special Representative for Afghanistan Reconciliation; chief negotiator of the U.S.-Taliban deal",
+   "organizations": [
+    "U.S. State Department"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "07:51",
+     "quote": "Zalmae Calazade, who's the U.S. Special Representative for... Peace in Afghanistan"
+    },
+    {
+     "timestamp": "09:57",
+     "quote": "Zalmei Klozad gets on Twitter and he praises the Taliban... taking the fight to ISIS"
+    },
+    {
+     "timestamp": "08:10",
+     "quote": "He's the chief negotiator for this horrible deal with the Taliban"
+    }
+   ]
+  },
+  {
+   "name": "Zabihullah Mujahid",
+   "aliases": [
+    "Zabi Bulimu Jadid"
+   ],
+   "role": "Taliban spokesman (identification inferred from garbled transcript)",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "11:06",
+     "quote": "Zabi Bulimu Jadid, his Twitter account, has been active for at least two years now"
+    }
+   ]
+  },
+  {
+   "name": "Suhail Shaheen",
+   "aliases": [
+    "Sohail Shaheen"
+   ],
+   "role": "Taliban spokesman",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "11:27",
+     "quote": "Suhail Shaheen, one of the Taliban's mouthpieces, gets on Twitter and basically rebuts Kalizad"
+    },
+    {
+     "timestamp": "11:36",
+     "quote": "we've been fighting ISIS all along"
+    }
+   ]
+  },
+  {
+   "name": "Hibatullah Akhundzada",
+   "aliases": [
+    "Habatul Akunzata",
+    "Abutu al-Aqanzada",
+    "Habatul Akinsata",
+    "emir of the faithful"
+   ],
+   "role": "Emir / supreme leader of the Taliban",
+   "organizations": [
+    "Taliban",
+    "Islamic Emirate of Afghanistan"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "12:27",
+     "quote": "they refer to habatul akunzata who is the emir of the taliban the supreme leader of the taliban"
+    },
+    {
+     "timestamp": "16:57",
+     "quote": "the current emir of the Taliban, Habatul Akinsata... We're still waiting for anything from him showing that he disapproves of al-Qaeda"
+    }
+   ]
+  },
+  {
+   "name": "Akhtar Mohammad Mansour",
+   "aliases": [
+    "Muammu Monsor",
+    "Muammu-Mansur",
+    "Mullah Mansour"
+   ],
+   "role": "Second emir of the Taliban",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "dead",
+   "status_detail": "Death not discussed in this chunk (background: killed in a 2016 U.S. strike)",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "16:32",
+     "quote": "Muammu, Monsor, the second emir of the Taliban, released a statement... rejecting basically ISIS's intrusion into the jihad"
+    },
+    {
+     "timestamp": "16:44",
+     "quote": "Muammu-Mansur, as we documented, of course, was an al-Qaeda man. He was very fond of al-Qaeda"
+    }
+   ]
+  },
+  {
+   "name": "Abu Bakr al-Baghdadi",
+   "aliases": [],
+   "role": "Leader of the Islamic State (ISIS); self-styled caliph",
+   "organizations": [
+    "ISIS"
+   ],
+   "nationality_or_origin": "Iraqi",
+   "status": "dead",
+   "status_detail": "Death not discussed in this chunk (background: died October 2019)",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "12:33",
+     "quote": "this is the same term that ISIS adopted for Abu Bakr al-Baghdadi... the would-be caliph"
+    }
+   ]
+  },
+  {
+   "name": "Osama bin Laden",
+   "aliases": [],
+   "role": "Founder of al-Qaeda; subject of a planned future episode on his seized files",
+   "organizations": [
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "dead",
+   "status_detail": "Death not discussed in this chunk",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "20:58",
+     "quote": "one about Osama bin Laden's files and our quest to get those released and what they say and what they don't say"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Taliban",
+   "aliases": [
+    "Islamic Emirate of Afghanistan",
+    "Islamic Emirate"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda"
+   ],
+   "rivals": [
+    "ISIS",
+    "Afghan government"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Signed the U.S. withdrawal agreement; continued full-scale attacks on Afghan forces afterward; publishes claims on Voice of Jihad; has fought ISIS but never al-Qaeda."
+  },
+  {
+   "name": "al-Qaeda",
+   "aliases": [
+    "Al-Qaeda",
+    "Kida",
+    "Elkida"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [
+    "ISIS"
+   ],
+   "country_base": "",
+   "notes": "Issued a three-page Arabic statement praising the Taliban's victory and calling on mujahideen to abide by the deal; loyal to the Islamic Emirate since the 1990s; affiliates in Yemen, Syria, East Africa, West Africa, Maghreb."
+  },
+  {
+   "name": "ISIS",
+   "aliases": [
+    "Islamic State",
+    "ISIS in Kunar",
+    "Islamic State Khorasan Province"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [
+    "Taliban",
+    "al-Qaeda"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Rejects the Taliban's Emirate; appeared in Afghanistan about six years before 2020; Taliban conducted an offensive against it in Kunar."
+  },
+  {
+   "name": "Group for the Support of Islam and Muslims",
+   "aliases": [
+    "JNIM"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda"
+   ],
+   "rivals": [],
+   "country_base": "Mali",
+   "notes": "Al-Qaeda's West African branch; said it would negotiate with the Malian government if France leaves the region."
+  },
+  {
+   "name": "al-Qaeda in the Islamic Maghreb",
+   "aliases": [
+    "AQIM"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda"
+   ],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Its emir released a video saying AQIM would talk to regional governments if France withdraws."
+  },
+  {
+   "name": "Voice of Jihad",
+   "aliases": [
+    "Voice of Jihad website"
+   ],
+   "type": "other",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Taliban propaganda site publishing daily attack claims; used by Bill Roggio to track attacks."
+  },
+  {
+   "name": "U.S. Central Command",
+   "aliases": [
+    "CENTCOM",
+    "SENTCOM"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "U.S. Department of Defense"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Commander McKenzie questioned whether Taliban attacks come from a splinter."
+  },
+  {
+   "name": "U.S. Department of Defense",
+   "aliases": [
+    "Pentagon"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Led by Mark Esper."
+  },
+  {
+   "name": "U.S. State Department",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Pompeo and Khalilzad sold the deal as a Taliban-al-Qaeda break."
+  },
+  {
+   "name": "Senate Armed Services Committee",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Venue for McKenzie's testimony."
+  },
+  {
+   "name": "Afghan government",
+   "aliases": [
+    "Afghan forces",
+    "Afghan military"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Target of 248 claimed Taliban attacks through March 15, 2020."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Taliban attacks in 28 of 34 provinces after the deal."
+  },
+  {
+   "name": "Kunar",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Site of a Taliban offensive against ISIS praised by Khalilzad."
+  },
+  {
+   "name": "Mali",
+   "type": "country",
+   "country": "Mali",
+   "parent": "",
+   "significance": "Base of al-Qaeda's West African branch JNIM."
+  },
+  {
+   "name": "West Africa",
+   "type": "region",
+   "country": "",
+   "parent": "",
+   "significance": "Al-Qaeda branch operates there."
+  },
+  {
+   "name": "Yemen",
+   "type": "country",
+   "country": "Yemen",
+   "parent": "",
+   "significance": "Al-Qaeda affiliate location; no critique of the deal."
+  },
+  {
+   "name": "Syria",
+   "type": "country",
+   "country": "Syria",
+   "parent": "",
+   "significance": "Al-Qaeda affiliate location; no critique of the deal."
+  },
+  {
+   "name": "East Africa",
+   "type": "region",
+   "country": "",
+   "parent": "",
+   "significance": "Al-Qaeda affiliate location."
+  },
+  {
+   "name": "France",
+   "type": "country",
+   "country": "France",
+   "parent": "",
+   "significance": "AQ affiliates in the Sahel/Maghreb demand French withdrawal before negotiating."
+  }
+ ],
+ "events": [
+  {
+   "date": "2020-02",
+   "date_precision": "approx",
+   "type": "agreement",
+   "description": "U.S.-Taliban withdrawal agreement signed (about three weeks before recording). Two Taliban spokesmen said the same day that attacks on the Afghan government would continue.",
+   "place": "",
+   "actors": [
+    "Taliban",
+    "Zalmay Khalilzad",
+    "Mike Pompeo"
+   ],
+   "timestamp": "01:19"
+  },
+  {
+   "date": "2020-03",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "Esper, days after the Taliban stepped up attacks, suggested Taliban 'hardliners' were failing to honor an agreement to reduce violence.",
+   "place": "",
+   "actors": [
+    "Mark Esper"
+   ],
+   "timestamp": "02:24"
+  },
+  {
+   "date": "2020-03-17",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "McKenzie told the Senate Armed Services Committee that a Taliban 'splinter' might be carrying out the attacks ('last week').",
+   "place": "",
+   "actors": [
+    "Kenneth McKenzie",
+    "Senate Armed Services Committee"
+   ],
+   "timestamp": "02:42"
+  },
+  {
+   "date": "2020-03-15",
+   "date_precision": "day",
+   "type": "other",
+   "description": "Cutoff date of Roggio's tally: 248 Taliban-claimed attacks on Afghan forces in 28 of 34 provinces since the deal, and zero on al-Qaeda.",
+   "place": "Afghanistan",
+   "actors": [
+    "Taliban"
+   ],
+   "timestamp": "05:50"
+  },
+  {
+   "date": "2020-03",
+   "date_precision": "approx",
+   "type": "offensive",
+   "description": "Taliban statement announced an offensive against ISIS in Kunar province.",
+   "place": "Kunar",
+   "actors": [
+    "Taliban",
+    "ISIS"
+   ],
+   "timestamp": "09:51"
+  },
+  {
+   "date": "2020-03",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "Khalilzad tweeted praise for the Taliban offensive against ISIS in Kunar.",
+   "place": "",
+   "actors": [
+    "Zalmay Khalilzad"
+   ],
+   "timestamp": "09:57"
+  },
+  {
+   "date": "2020-03",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "Suhail Shaheen replied on Twitter that the Taliban had always fought ISIS and the fight was not part of the U.S. deal.",
+   "place": "",
+   "actors": [
+    "Suhail Shaheen"
+   ],
+   "timestamp": "11:27"
+  },
+  {
+   "date": "2020-03",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "Al-Qaeda released a three-page Arabic statement praising the Taliban victory, calling Akhundzada 'emir of the faithful', and urging all mujahideen to abide by the deal.",
+   "place": "",
+   "actors": [
+    "al-Qaeda",
+    "Hibatullah Akhundzada"
+   ],
+   "timestamp": "12:08"
+  },
+  {
+   "date": "2020-03",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "JNIM said it would negotiate with the Malian government if France leaves the region.",
+   "place": "Mali",
+   "actors": [
+    "Group for the Support of Islam and Muslims"
+   ],
+   "timestamp": "19:43"
+  },
+  {
+   "date": "2020-03",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "AQIM's emir released a video offering to talk to regional governments if France withdraws.",
+   "place": "",
+   "actors": [
+    "al-Qaeda in the Islamic Maghreb"
+   ],
+   "timestamp": "20:03"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Hibatullah Akhundzada",
+   "target": "Taliban",
+   "type": "leads",
+   "detail": "Akhundzada is the Taliban's emir and supreme leader.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "12:27",
+   "quote": "habatul akunzata who is the emir of the taliban the supreme leader of the taliban"
+  },
+  {
+   "source": "Akhtar Mohammad Mansour",
+   "target": "Taliban",
+   "type": "leads",
+   "detail": "Mansour was the second emir of the Taliban.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "16:32",
+   "quote": "Muammu, Monsor, the second emir of the Taliban"
+  },
+  {
+   "source": "Akhtar Mohammad Mansour",
+   "target": "Hibatullah Akhundzada",
+   "type": "other",
+   "detail": "Akhundzada is the current emir; Mansour was the earlier (second) emir (implied succession).",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "16:49",
+   "quote": "the current emir of the Taliban, Habatul Akinsata"
+  },
+  {
+   "source": "Akhtar Mohammad Mansour",
+   "target": "al-Qaeda",
+   "type": "allied_with",
+   "detail": "Described as an al-Qaeda man, very fond of al-Qaeda.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "16:47",
+   "quote": "Muammu-Mansur, as we documented, of course, was an al-Qaeda man"
+  },
+  {
+   "source": "Akhtar Mohammad Mansour",
+   "target": "ISIS",
+   "type": "rival_of",
+   "detail": "Mansour issued a statement rejecting ISIS's intrusion into the Afghan jihad.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "16:44",
+   "quote": "released a statement, you know, rejecting basically ISIS's intrusion into the jihad"
+  },
+  {
+   "source": "al-Qaeda",
+   "target": "Hibatullah Akhundzada",
+   "type": "allied_with",
+   "detail": "Al-Qaeda calls him emir of the faithful; its head has pledged allegiance to him.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "12:33",
+   "quote": "Al Qaeda refers to him as the emir of the faithful"
+  },
+  {
+   "source": "al-Qaeda",
+   "target": "Taliban",
+   "type": "allied_with",
+   "detail": "Al-Qaeda has been loyal to the Islamic Emirate since the 1990s; no Taliban attacks on al-Qaeda since the deal.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "10:31",
+   "quote": "Kida's been loyal to the Islamic Emirate Afghanistan since the 1990s"
+  },
+  {
+   "source": "Taliban",
+   "target": "ISIS",
+   "type": "rival_of",
+   "detail": "The Taliban routinely fight and denounce ISIS, which rejects the Islamic Emirate.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "10:12",
+   "quote": "the Taliban, of course, has denounced ISIS and fought ISIS routinely"
+  },
+  {
+   "source": "al-Qaeda",
+   "target": "ISIS",
+   "type": "rival_of",
+   "detail": "Implied: al-Qaeda stays loyal to the Emirate while ISIS rejects it and wants power for itself.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "10:27",
+   "quote": "ISIS wants power for itself. Al-Qaeda doesn't reject it at all."
+  },
+  {
+   "source": "Taliban",
+   "target": "Afghan government",
+   "type": "rival_of",
+   "detail": "Taliban continued attacks on Afghan forces after the deal; 248 claimed attacks to March 15.",
+   "date": "2020-03-15",
+   "confidence": "stated",
+   "timestamp": "05:50",
+   "quote": "248 attacks in 28 of Afghanistan's 34 provinces"
+  },
+  {
+   "source": "Taliban",
+   "target": "Voice of Jihad",
+   "type": "other",
+   "detail": "The Taliban publish attack claims on Voice of Jihad.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "05:29",
+   "quote": "these attacks are published on voice of jihad"
+  },
+  {
+   "source": "Zalmay Khalilzad",
+   "target": "Taliban",
+   "type": "negotiated_with",
+   "detail": "Khalilzad was chief negotiator of the withdrawal deal with the Taliban.",
+   "date": "2020-02",
+   "confidence": "stated",
+   "timestamp": "08:10",
+   "quote": "He's the chief negotiator for this horrible deal with the Taliban"
+  },
+  {
+   "source": "Zalmay Khalilzad",
+   "target": "Mike Pompeo",
+   "type": "reports_to",
+   "detail": "Both sold the deal as a Taliban-al-Qaeda break; Khalilzad works under the Secretary of State (inferred).",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "09:07",
+   "quote": "Secretary Pompeo and Zalem Kolosad basically sold the American public on the idea"
+  },
+  {
+   "source": "Kenneth McKenzie",
+   "target": "Mark Esper",
+   "type": "reports_to",
+   "detail": "CENTCOM commander under the Secretary of Defense (inferred); both made the splinter/hardliner argument.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "04:48",
+   "quote": "they're basically saying the same thing"
+  },
+  {
+   "source": "Suhail Shaheen",
+   "target": "Taliban",
+   "type": "member_of",
+   "detail": "Taliban spokesman who rebutted Khalilzad.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "11:27",
+   "quote": "Suhail Shaheen, one of the Taliban's mouthpieces"
+  },
+  {
+   "source": "Suhail Shaheen",
+   "target": "Zalmay Khalilzad",
+   "type": "rival_of",
+   "detail": "Publicly rebutted Khalilzad's framing of the Taliban anti-ISIS offensive.",
+   "date": "2020-03",
+   "confidence": "stated",
+   "timestamp": "11:33",
+   "quote": "gets on Twitter and basically rebuts Kalizad"
+  },
+  {
+   "source": "Zabihullah Mujahid",
+   "target": "Taliban",
+   "type": "member_of",
+   "detail": "Taliban spokesman with a long-running Twitter account (identity inferred from garbled name).",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "11:06",
+   "quote": "Zabi Bulimu Jadid, his Twitter account, has been active for at least two years now"
+  },
+  {
+   "source": "Kenneth McKenzie",
+   "target": "U.S. Central Command",
+   "type": "leads",
+   "detail": "McKenzie is head of CENTCOM.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "02:24",
+   "quote": "General Kenneth McKenzie, the head of U.S. Central Command"
+  },
+  {
+   "source": "Group for the Support of Islam and Muslims",
+   "target": "al-Qaeda",
+   "type": "member_of",
+   "detail": "JNIM is al-Qaeda's West African branch, centered in Mali.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "19:41",
+   "quote": "it is Al-Qaeda's branch in West Africa. They're centered in Mali"
+  },
+  {
+   "source": "Group for the Support of Islam and Muslims",
+   "target": "Mali",
+   "type": "located_in",
+   "detail": "Centered in Mali and surrounding countries.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "19:43",
+   "quote": "They're centered in Mali in the surrounding countries"
+  },
+  {
+   "source": "al-Qaeda in the Islamic Maghreb",
+   "target": "al-Qaeda",
+   "type": "member_of",
+   "detail": "AQIM is an al-Qaeda affiliate whose emir echoed the JNIM position.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "20:03",
+   "quote": "the emir of al-Qaeda and Islamic Maghreb. And he says basically the same thing"
+  },
+  {
+   "source": "Abu Bakr al-Baghdadi",
+   "target": "ISIS",
+   "type": "leads",
+   "detail": "Baghdadi held the 'emir of the faithful' title as would-be caliph of ISIS.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "12:33",
+   "quote": "the same term that ISIS adopted for Abu Bakr al-Baghdadi"
+  },
+  {
+   "source": "Taliban",
+   "target": "ISIS",
+   "type": "other",
+   "detail": "Taliban launched an offensive against ISIS in Kunar province.",
+   "date": "2020-03",
+   "confidence": "stated",
+   "timestamp": "09:51",
+   "quote": "another offensive against ISIS in Kuna province in eastern Afghanistan"
+  },
+  {
+   "source": "Osama bin Laden",
+   "target": "al-Qaeda",
+   "type": "leads",
+   "detail": "Bin Laden's files are the subject of a planned episode; his role as al-Qaeda head is implied.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "20:58",
+   "quote": "Osama bin Laden's files and our quest to get those released"
+  }
+ ],
+ "sources_cited": [
+  "U.S.-Taliban withdrawal agreement (public text, about three and a half pages, posted on Long War Journal)",
+  "Secret annexes to the agreement (as described by U.S. congressmen)",
+  "Mark Esper's remarks on Taliban 'hardliners'",
+  "General Kenneth McKenzie's testimony to the Senate Armed Services Committee",
+  "Taliban Voice of Jihad reports of attacks (Bill Roggio's spreadsheet through March 15, 2020)",
+  "Taliban statement on its offensive against ISIS in Kunar",
+  "Zalmay Khalilzad tweet praising the Taliban anti-ISIS offensive",
+  "Suhail Shaheen tweet rebutting Khalilzad",
+  "Al-Qaeda three-page Arabic statement praising the Taliban's victory",
+  "JNIM statement on negotiating with the Malian government if France leaves",
+  "AQIM emir video"
+ ],
+ "key_claims": [
+  "The U.S. military and officials are 'wishcasting': portraying Taliban attacks as the work of splinters or hardliners, even though the Taliban claim them publicly.",
+  "The agreement contains no ceasefire or reduction-in-violence commitment; the Taliban said so the day it was signed and resumed full-scale operations (248 claimed attacks in 28 of 34 provinces as of March 15).",
+  "The only specific al-Qaeda provision is that the Taliban will not let al-Qaeda plan attacks against the U.S. or its allies; there is no sign the Taliban have denounced or targeted al-Qaeda, with zero attacks on it.",
+  "The Taliban fight ISIS because ISIS rejects the Islamic Emirate, while al-Qaeda is loyal to the Emirate, so the anti-ISIS fight does not mirror any al-Qaeda commitment.",
+  "Al-Qaeda sees the deal as an unequivocal win, calls Hibatullah Akhundzada 'emir of the faithful', and urged all mujahideen to abide by it.",
+  "Akhtar Mansour, the second Taliban emir, was pro-al-Qaeda, and Akhundzada has not disavowed al-Qaeda or its leader's allegiance to him.",
+  "Al-Qaeda affiliates, including JNIM in West Africa and AQIM, are using the deal as a template to demand French withdrawal and negotiate with governments on their own terms."
+ ]
+}
