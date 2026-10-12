@@ -1,0 +1,125 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc19-1997-03-18-terrorism-usama-bin-ladin-s-attempts-to-acquire-ur",
+  "title": "Terrorism: Usama Bin Ladin's Attempts to Acquire Uranium",
+  "authors": "CIA",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "1997-03-18",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7wuu-jeagl/1997-03-18-terrorism-usama-bin-ladins-attempts.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 7,
+  "kind": "intelligence report",
+  "note": "CIA Intelligence Report on bin Ladin's attempts to acquire uranium. Source: 9/11 Commission Report, Chapter 2, Endnote 49; Chapter 4, Endnote 3.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 19",
+  "relevance": "high",
+  "ocr": 4
+ },
+ "persons": [
+  {
+   "name": "Usama Bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Usama bin Ladin",
+    "Bin Ladin"
+   ],
+   "role": "Leader of an Islamic network reported to be seeking to acquire uranium; the document describes his attempts and explorations",
+   "organizations": [
+    "Islamic Army"
+   ],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "SUBJ: TERRORISM: USAMA BIN LADIN'S ATTEMPTS TO ACQUIRE URANIUM"
+    },
+    {
+     "timestamp": "p.5",
+     "quote": "BIN LADIN WAS EXPLORING THE POSSIBILITY OF MOUNTI"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Islamic Army",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Name is partly illegible in the OCR ('ISU,MIC ABMV'). It is read as Bin Ladin's 'Islamic Army' with low confidence. The source is reported to have advised that a former cabinet minister was selling uranium."
+  }
+ ],
+ "places": [],
+ "events": [
+  {
+   "date": "1997-03-18",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA cable (TOT 182258Z MAR 97) distributed to US agencies reporting on Usama Bin Ladin's attempts to acquire uranium. The cable discusses a report that a former cabinet minister was selling uranium, and that the report should be investigated and the offer on the uranium verified. The text is heavily redacted and garbled.",
+   "place": "",
+   "actors": [
+    "Usama Bin Ladin"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1997-03-18",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA cable (TOT 182258Z MAR 97) reports Bin Ladin's Islamic Army learned that a former cabinet minister was selling uranium. It advises that the information be investigated and, if true, that contact be made about the offer on the uranium. Large parts of the text are redacted or garbled.",
+   "place": "",
+   "actors": [
+    "Usama Bin Ladin",
+    "Islamic Army"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "approx 1997",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Reported attempt by Bin Ladin's network to acquire uranium, with a cylinder mentioned in a price or product context. The text is fragmentary.",
+   "place": "",
+   "actors": [
+    "Usama Bin Ladin",
+    "Islamic Army"
+   ],
+   "timestamp": "p.2"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Usama Bin Ladin",
+   "target": "Islamic Army",
+   "type": "leads",
+   "detail": "The garbled text links an 'Islamic' body to Bin Ladin with a possessive ('Bin Ladin's'). The link is weak and inferred.",
+   "date": "1997-03",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "BIN LADIN} ) 's ISU,MIC ABMV ::;VISED THAT THE ISLAMIC"
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "Islamic Army",
+   "type": "leads",
+   "detail": "The cable refers to 'Bin Ladin's Islamic Army', which indicates he controls or leads it. The text is heavily garbled and redacted.",
+   "date": "1997",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "(BIN LADIN} ) 's ISU,MIC ABMV ::;VISED THAT THE ISLAMIC"
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "A March 1997 CIA cable reports that Usama Bin Ladin sought to acquire uranium.",
+  "A report in the cable says a former cabinet minister was selling uranium. The cable says this should be investigated to see if it was true and if the offer was real.",
+  "The cable says Bin Ladin was exploring the possibility of mounting operations. The rest of the sentence is illegible."
+ ]
+}

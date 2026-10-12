@@ -1,0 +1,235 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc58-2000-01-07-update-islamic-extremist-terrorist-threat",
+  "title": "Update, Islamic Extremist Terrorist Threat",
+  "authors": "Central Intelligence Agency",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "2000-01-07",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7xbr-uusml/2000-01-07-update-islamic-extremist-terrorist.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 3,
+  "kind": "briefing",
+  "note": "[Top Secret] Top Secret briefing to the DCI. Says disruption operations against the Millennium plot \"bought time… weeks… months… but no more than one year\" before al-Qaeda would strike. Cited in 9/11 Commission Report Chapter 6, Endnote 55.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 58",
+  "relevance": "high",
+  "ocr": 0
+ },
+ "persons": [
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "UBL",
+    "Usama bin Laden"
+   ],
+   "role": "Leader of the Islamic extremist terrorist threat; target of CIA operations",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "",
+   "status": "alive",
+   "status_detail": "Alive and being targeted as of January 2000",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.3",
+     "quote": "Targeting UBL"
+    }
+   ]
+  },
+  {
+   "name": "Ahmad Shah Masood",
+   "aliases": [
+    "Masood",
+    "Ahmad Shah Massoud"
+   ],
+   "role": "Afghan opposition commander; the CIA was reviewing the Afghan situation around him",
+   "organizations": [],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "Alive as of January 2000",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.3",
+     "quote": "Masood"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Author of the briefing. The slide says operations conducted by the CIA and foreign services disrupted terrorist plans."
+  },
+  {
+   "name": "Director of Central Intelligence",
+   "aliases": [
+    "DCI"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Central Intelligence Agency"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Issued a message that the threat was a top priority."
+  },
+  {
+   "name": "CICTC",
+   "aliases": [
+    "CTC",
+    "Counterterrorist Center"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Central Intelligence Agency"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Garbled in the OCR; the slide says it was looking for funding for the effort."
+  },
+  {
+   "name": "al-Qa'ida",
+   "aliases": [
+    "al-Qaeda"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Implied by UBL targeting. The organization is not named explicitly in the legible text."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "The CIA was reviewing the 'Afghan situation' and Masood."
+  }
+ ],
+ "events": [
+  {
+   "date": "2000-01",
+   "date_precision": "month",
+   "type": "other",
+   "description": "The Millennium celebrations were intended as the 'kick off' for a possible period of extended terrorist attacks. Terrorists delayed their plans because of extensive disruption operations conducted by the CIA and foreign services.",
+   "place": "",
+   "actors": [
+    "Central Intelligence Agency"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "approx 1999-12",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "The Millennium celebrations were intended as the 'kick off' for a possible period of extended terrorist attacks. This is the briefing's assessment of the planned attacks.",
+   "place": "",
+   "actors": [
+    "al-Qa'ida"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "approx 1999-12",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "CIA and foreign services conducted extensive disruption operations. The terrorists delayed their plans as a result, which bought time of 'weeks or months' but not more than one year.",
+   "place": "",
+   "actors": [
+    "Central Intelligence Agency"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "2000-01-07",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "The CIA briefing 'Update, Islamic Extremist Terrorist Threat' was produced. It lists increased activity, the DCI message, targeting UBL, and a relook at the Afghan situation including Masood.",
+   "place": "Afghanistan",
+   "actors": [
+    "Central Intelligence Agency",
+    "Director of Central Intelligence",
+    "Usama bin Ladin",
+    "Ahmad Shah Masood"
+   ],
+   "timestamp": "p.3"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Central Intelligence Agency",
+   "target": "Usama bin Ladin",
+   "type": "other",
+   "detail": "The CIA lists targeting UBL as an action item in its response to the threat.",
+   "date": "2000-01",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "Targeting UBL"
+  },
+  {
+   "source": "Director of Central Intelligence",
+   "target": "Central Intelligence Agency",
+   "type": "leads",
+   "detail": "The DCI sent a message directing the Agency's counterterrorism effort.",
+   "date": "2000-01",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "DCI messag"
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "Ahmad Shah Masood",
+   "type": "other",
+   "detail": "The slide lists a relook at the Afghan situation, with Masood named beneath it. This suggests a review of CIA engagement with Masood.",
+   "date": "2000-01",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "Masood"
+  },
+  {
+   "source": "Ahmad Shah Masood",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Masood is named under the heading about the Afghan situation.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "Masood"
+  },
+  {
+   "source": "CICTC",
+   "target": "Central Intelligence Agency",
+   "type": "member_of",
+   "detail": "CICTC appears on the CIA's list of counterterrorism actions. The slide text about its funding is garbled.",
+   "date": "2000-01",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "CICTC"
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "The CIA assessed that the Millennium celebrations were intended as the start of a possible period of extended terrorist attacks.",
+  "Terrorists delayed their plans because of extensive disruption operations by the CIA, other agencies and foreign services.",
+  "The disruption bought time of weeks or months, but probably no more than one year.",
+  "The CIA responded with a DCI message, more personnel working the issue, funding for the counterterrorism center, a review of the Afghan situation (including Masood), and targeting UBL."
+ ]
+}

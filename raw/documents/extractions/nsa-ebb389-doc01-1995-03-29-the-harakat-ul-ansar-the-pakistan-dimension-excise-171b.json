@@ -1,0 +1,740 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb389-doc01-1995-03-29-the-harakat-ul-ansar-the-pakistan-dimension-excise-171b",
+  "title": "The Harakat-ul-Ansar - The Pakistan Dimension [Excised] (Karachi 01617)",
+  "authors": "U.S. Consulate Karachi",
+  "publisher": "National Security Archive (GWU), The Haqqani History: Bin Ladin's Advocate Inside the Taliban",
+  "published": "1995-03-29",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qzhd37-t2nqd/01.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB389/",
+  "pages": 14,
+  "kind": "cable",
+  "note": "[Secret] Report on the Kashmiri militant group Harakat-ul-Ansar. Many of its activists are Afghan war veterans who fought with Maulana Jalaluddin Haqqani in Paktia. A significant portion of the membership is non-Pakistani, including veterans from Algeria, Tunisia, Sudan, Egypt and elsewhere. Three sources say the membership also includes a small number of American Muslims, with estimates ranging from six to sixteen.",
+  "collection": "NSAEBB389",
+  "doc_number": "Document 1",
+  "relevance": "high",
+  "ocr": 0
+ },
+ "persons": [
+  {
+   "name": "Jalauddin Haqqani",
+   "aliases": [
+    "Maulana Jalauddin Haqqani",
+    "Jalaluddin Haqqani",
+    "Maulana Haqqani"
+   ],
+   "role": "Afghan mujahideen commander in Paktia; veterans who fought with him are reported among HuA activists, and former mujahideen associated with him reportedly conduct HuA training",
+   "organizations": [
+    "Harakat ul Ansar"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Paktia Province",
+    "Miran Shah"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.6",
+     "quote": "VETERANS OF THE AFGHAN WAR WHO FOUGHT ALONG WITH MAULANA JALAUDDIN HAQQANI IN PAK.TIA PROVINCE"
+    },
+    {
+     "timestamp": "p.9",
+     "quote": "BY FORMER AFGHAN MUJAHIDEEN; ASSOCIATED WITH MAULANA HAQQANI."
+    }
+   ]
+  },
+  {
+   "name": "Fazil ur-Rehman Khalil",
+   "aliases": [
+    "Fazlur Rehman Khalil",
+    "Fazlur Rahman Khalil"
+   ],
+   "role": "Reported leader of Harakat ul Ansar (per two sources)",
+   "organizations": [
+    "Harakat ul Ansar"
+   ],
+   "nationality_or_origin": "Pakistani (Punjab)",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Karachi",
+    "Punjab"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.10",
+     "quote": "THE NAME GIVEN BY TWO SOURCES AS THE LEADER OF HARAKAT IS FAZIL UR-REHMAN KHALIL."
+    },
+    {
+     "timestamp": "p.10",
+     "quote": "KHALIL, WHO IS EVIDENTLY FROM PUNJAB, REPORTEDLY CAME TO KARACHI IN THE AFTERMATH OF THE FEBRUARY 5 SHOOTINGS"
+    }
+   ]
+  },
+  {
+   "name": "Maulana Farooq Kashmiri",
+   "aliases": [
+    "Farooq Kashmiri"
+   ],
+   "role": "Named in other information as leader of HuA",
+   "organizations": [
+    "Harakat ul Ansar"
+   ],
+   "nationality_or_origin": "Kashmiri",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.10",
+     "quote": "OTHER INFORMATION INDICATES THAT A MAULANA FAROOQ KASHMIRI IS THE LEADER OF HUA."
+    }
+   ]
+  },
+  {
+   "name": "Pir Wijahad Ali",
+   "aliases": [
+    "Pir Wajahat Ali"
+   ],
+   "role": "Pakistani pir in Rawalpindi reportedly with an American Muslim following, linked to HuA members",
+   "organizations": [],
+   "nationality_or_origin": "Pakistani",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Rawalpindi"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.6",
+     "quote": "SOURCE NAMED A PIR WIJAHAD ALI IN RAWALPINDI AS THE PIR WITH AN AMERICAN FOLLOWING."
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Harakat ul Ansar",
+   "aliases": [
+    "Harakat-ul-Ansar",
+    "HuA",
+    "Harkat ul Ansar",
+    "Barakat ul Ansar"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Jamiat Ulema-e-Islam (JUI/F)",
+    "Sipah-e-Sahaba (SSP)",
+    "Tablighi Jamaat"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Deobandi Sunni group, 2,000-10,000 activists; active in Kashmir since 1993 and kidnapped two British citizens in 1994; trains near Miran Shah; Feb 5 1995 Karachi fundraising; funded by private donors."
+  },
+  {
+   "name": "Jamiat Ulema-e-Islam (JUI/F)",
+   "aliases": [
+    "JUI",
+    "JUI/F"
+   ],
+   "type": "political movement",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Reported sponsor of HuA, using it to gain political and financial support."
+  },
+  {
+   "name": "Sipah-e-Sahaba",
+   "aliases": [
+    "SSP"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Linked to HuA; HuA called its foreign wing."
+  },
+  {
+   "name": "Tablighi Jamaat",
+   "aliases": [
+    "Tablighi Jamaat"
+   ],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Non-political missionary organization from which HuA's original activists reportedly came; annual meeting at Raiwind."
+  },
+  {
+   "name": "U.S. Consulate Karachi",
+   "aliases": [
+    "AMCONSUL KARACHI"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Author of the cable."
+  }
+ ],
+ "places": [
+  {
+   "name": "Karachi",
+   "type": "city",
+   "country": "Pakistan",
+   "parent": "Sindh",
+   "significance": "Site of Feb 5 1995 violence and HuA fundraising pavilions."
+  },
+  {
+   "name": "Liaquatabad",
+   "type": "district",
+   "country": "Pakistan",
+   "parent": "Karachi",
+   "significance": "Site of drive-by shooting at HuA fundraising pavilion."
+  },
+  {
+   "name": "Miran Shah",
+   "type": "town",
+   "country": "Pakistan",
+   "parent": "North Waziristan",
+   "significance": "HuA training camps located west of it near Afghan border."
+  },
+  {
+   "name": "Paktia Province",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Where HuA veterans fought with Haqqani."
+  },
+  {
+   "name": "Raiwind",
+   "type": "town",
+   "country": "Pakistan",
+   "parent": "Punjab",
+   "significance": "Tablighi annual meeting attended by HuA activists."
+  },
+  {
+   "name": "Rawalpindi",
+   "type": "city",
+   "country": "Pakistan",
+   "parent": "Punjab",
+   "significance": "Home of Pir Wijahad Ali."
+  },
+  {
+   "name": "Kashmir",
+   "type": "region",
+   "country": "India",
+   "parent": "",
+   "significance": "Primary focus of HuA jihad."
+  },
+  {
+   "name": "London",
+   "type": "city",
+   "country": "United Kingdom",
+   "parent": "",
+   "significance": "Base of Gujarati Indian Muslim donors to HuA."
+  },
+  {
+   "name": "Central Punjab",
+   "type": "region",
+   "country": "Pakistan",
+   "parent": "Punjab",
+   "significance": "Where HuA was first organized in mid-1980s."
+  }
+ ],
+ "events": [
+  {
+   "date": "1995-02-05",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "Violence in Karachi killed 23; drive-by shooting of HuA fundraising pavilion in Liaquatabad.",
+   "place": "Karachi",
+   "actors": [
+    "Harakat ul Ansar"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1995-03-08",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "Shooting of two U.S. Consulate employees in Karachi.",
+   "place": "Karachi",
+   "actors": [
+    "U.S. Consulate Karachi"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1994",
+   "date_precision": "year",
+   "type": "other",
+   "description": "HuA kidnapped two British citizens in Indian-controlled Kashmir.",
+   "place": "Kashmir",
+   "actors": [
+    "Harakat ul Ansar"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1995-03-29",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Karachi consulate cable on HuA sent to State Department.",
+   "place": "Karachi",
+   "actors": [
+    "U.S. Consulate Karachi"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1995-02-05",
+   "date_precision": "day",
+   "type": "attack",
+   "detail": "",
+   "description": "Violence in Karachi killed 23 including a drive-by shooting on an HUA fundraising pavilion in Liaquatabad.",
+   "place": "Karachi",
+   "actors": [
+    "Harakat ul Ansar"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1995-02-05",
+   "date_precision": "day",
+   "type": "other",
+   "description": "HUA organized five tented pavilions in Karachi to collect funds for Kashmir jihad.",
+   "place": "Karachi",
+   "actors": [
+    "Harakat ul Ansar"
+   ],
+   "timestamp": "p.5"
+  },
+  {
+   "date": "1995-03-08",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "Two U.S. Consulate employees shot in Karachi.",
+   "place": "Karachi",
+   "actors": [
+    "U.S. Consulate Karachi"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "approx 1994",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "HUA kidnapped two British citizens in Indian-controlled Kashmir.",
+   "place": "Kashmir",
+   "actors": [
+    "Harakat ul Ansar"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1995-03-29",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "U.S. Consulate Karachi cable on HUA's Pakistan dimension sent.",
+   "place": "Karachi",
+   "actors": [
+    "U.S. Consulate Karachi"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "mid-1980s",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Harakat ul Ansar reportedly first organized in Central Punjab to assist Afghan mujahideen.",
+   "place": "Central Punjab",
+   "actors": [
+    "Harakat ul Ansar",
+    "Tablighi Jamaat"
+   ],
+   "timestamp": "p.10"
+  },
+  {
+   "date": "1995-02-05",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "Drive-by shootings in Karachi, with a Harakat fund-raising drive held the same day.",
+   "place": "Karachi",
+   "actors": [
+    "Harakat ul Ansar"
+   ],
+   "timestamp": "p.10"
+  },
+  {
+   "date": "1995-02",
+   "date_precision": "approx",
+   "type": "travel",
+   "description": "Fazil ur-Rehman Khalil came to Karachi after the Feb 5 shootings to offer condolences to victims' families.",
+   "place": "Karachi",
+   "actors": [
+    "Fazil ur-Rehman Khalil"
+   ],
+   "timestamp": "p.10"
+  },
+  {
+   "date": "1995-03-13",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "A source told a US Consulate political officer that Harakat has publicly solicited donations in Pakistani cities before.",
+   "place": "Karachi",
+   "actors": [
+    "U.S. Consulate Karachi",
+    "Harakat ul Ansar"
+   ],
+   "timestamp": "p.14"
+  },
+  {
+   "date": "1995-03-29",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "U.S. Consulate Karachi sends cable on Harakat ul Ansar's Pakistan dimension.",
+   "place": "Karachi",
+   "actors": [
+    "U.S. Consulate Karachi"
+   ],
+   "timestamp": "p.12"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Harakat ul Ansar",
+   "target": "Jamiat Ulema-e-Islam (JUI/F)",
+   "type": "funded_by",
+   "detail": "HuA reportedly sponsored by JUI, which uses it for political and financial support.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "HARAKAT UL ANSAR WAS SPONSORED BY THE JUI"
+  },
+  {
+   "source": "Harakat ul Ansar",
+   "target": "Sipah-e-Sahaba",
+   "type": "allied_with",
+   "detail": "HuA had links with SSP, described as its foreign wing.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "ALSO HAD LINKS WITH THE SIPAH-E-SAHABA (SSP)"
+  },
+  {
+   "source": "Fazil ur-Rehman Khalil",
+   "target": "Harakat ul Ansar",
+   "type": "leads",
+   "detail": "Named by two sources as HuA leader.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.10",
+   "quote": "AS THE LEADER OF HARAKAT IS FAZIL UR-REHMAN KHALIL"
+  },
+  {
+   "source": "Maulana Farooq Kashmiri",
+   "target": "Harakat ul Ansar",
+   "type": "leads",
+   "detail": "Other information names him as HuA leader.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.10",
+   "quote": "A MAULANA FAROOQ KASHMIRI IS THE LEADER OF HUA"
+  },
+  {
+   "source": "Harakat ul Ansar",
+   "target": "Jalauddin Haqqani",
+   "type": "trained_by",
+   "detail": "Training by former Afghan mujahideen associated with Haqqani; many HuA veterans fought with him.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.9",
+   "quote": "BY FORMER AFGHAN MUJAHIDEEN; ASSOCIATED WITH MAULANA HAQQANI."
+  },
+  {
+   "source": "Harakat ul Ansar",
+   "target": "Tablighi Jamaat",
+   "type": "other",
+   "detail": "Original activists reportedly came from Tablighi Jamaat.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.10",
+   "quote": "THE ORIGINAL HARAKAT ACTIVISTS CAME FROM A NON-POLITICAL ISLAMIC MISSIONARY ORGANIZATION, THE TABLIGHI JAMAAT"
+  },
+  {
+   "source": "Harakat ul Ansar",
+   "target": "Miran Shah",
+   "type": "located_in",
+   "detail": "Training camps west of Miran Shah and across the border.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "CAMPS LOCATED WEST OF MIRAN SHAH, NEAR THE AFGHAN BORDER"
+  },
+  {
+   "source": "Pir Wijahad Ali",
+   "target": "Rawalpindi",
+   "type": "located_in",
+   "detail": "Pir based in Rawalpindi with American followers.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.6",
+   "quote": "A PIR WIJAHAD ALI IN RAWALPINDI AS THE PIR WITH AN AMERICAN FOLLOWING"
+  },
+  {
+   "source": "Harakat ul Ansar",
+   "target": "Kashmir",
+   "type": "located_in",
+   "detail": "HUA has participated in the militancy in Kashmir since at least 1993.",
+   "date": "1993",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "THE HUA HAs BEEN PARTICIPATING IN THE MILITANCY IN KASHMIR AT LEAST SINCE 1993"
+  },
+  {
+   "source": "Harakat ul Ansar",
+   "target": "Karachi",
+   "type": "located_in",
+   "detail": "HUA organized five fundraising pavilions around Karachi on 5 February.",
+   "date": "1995-02-05",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "ORGANIZED FIVE SEPARATE TENTED PAVILIONS IN DIVERSE LOCATIONS AROUND KARACHI TO COLLECT FUNDS ON FEBRUARY 5"
+  },
+  {
+   "source": "Harakat ul Ansar",
+   "target": "Liaquatabad",
+   "type": "located_in",
+   "detail": "A pavilion collecting funds for Kashmir jihad in central Liaquatabad, reportedly organized by HUA, was shot at.",
+   "date": "1995-02-05",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "DRIVE-BY SHOOTING OF A LARGE TENTED PAVILION IN CENTRAL LIAQUATABAD, AT WHICH FUNDS WERE BEING COLLECTED"
+  },
+  {
+   "source": "Harakat ul Ansar",
+   "target": "Jalauddin Haqqani",
+   "type": "other",
+   "detail": "Many HUA activists are Afghan war veterans who fought alongside Haqqani in Paktia.",
+   "confidence": "stated",
+   "timestamp": "p.6",
+   "quote": "VETERANS OF THE AFGHAN WAR WHO FOUGHT ALONG WITH MAULANA JALAUDDIN HAQQANI IN PAKTIA PROVINCE"
+  },
+  {
+   "source": "Jalauddin Haqqani",
+   "target": "Paktia Province",
+   "type": "located_in",
+   "detail": "Haqqani's forces operated in Paktia Province.",
+   "confidence": "stated",
+   "timestamp": "p.6",
+   "quote": "FOUGHT ALONG WITH MAULANA JALAUDDIN HAQQANI IN PAKTIA PROVINCE"
+  },
+  {
+   "source": "Harakat ul Ansar",
+   "target": "Pir Wijahad Ali",
+   "type": "other",
+   "detail": "American Muslim HUA members are adherents of a Pakistani pir; one source named Pir Wijahad Ali as the pir with an American following.",
+   "confidence": "inferred",
+   "timestamp": "p.6",
+   "quote": "SOURCE NAMED A PIR WIJAHAD ALI IN RAWALPINDI AS THE PIR WITH AN AMERICAN FOLLOWING"
+  },
+  {
+   "source": "Pir Wijahad Ali",
+   "target": "Rawalpindi",
+   "type": "located_in",
+   "detail": "Pir Wijahad Ali is based in Rawalpindi.",
+   "confidence": "stated",
+   "timestamp": "p.6",
+   "quote": "A PIR WIJAHAD ALI IN RAWALPINDI"
+  },
+  {
+   "source": "Harakat ul Ansar",
+   "target": "Jamiat Ulema-e-Islam (JUI/F)",
+   "type": "funded_by",
+   "detail": "JUI/F sponsors HUA and uses the group to gain political and financial support.",
+   "confidence": "stated",
+   "timestamp": "p.6",
+   "quote": "SPONSORS THE HARAKAT AND USES THE GROUP PRIMARILY TO GET MORE POLITICAL AND FINANCIAL SUPPORT FOR THE JUI/F"
+  },
+  {
+   "source": "Harakat ul Ansar",
+   "target": "Sipah-e-Sahaba",
+   "type": "allied_with",
+   "detail": "HUA had links with the SSP.",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "HARAKAT UL ANSAR WAS SPONSORED BY THE JUI, AND ALSO HAD LINKS WITH THE SIPAH-E-SAHABA (SSP)"
+  },
+  {
+   "source": "Harakat ul Ansar",
+   "target": "Sipah-e-Sahaba",
+   "type": "other",
+   "detail": "HUA described as the foreign wing of the SSP, which focused on domestic scene.",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "REFERRED TO BARAKAT AS BEING THE \"FOREIGN WING\" OF THE SSP"
+  },
+  {
+   "source": "Harakat ul Ansar",
+   "target": "Miran Shah",
+   "type": "located_in",
+   "detail": "HUA training camps are located west of Miran Shah near the Afghan border and just over the border.",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "TRAINING FOR HARAKAT UL ANSAR ACTIVISTS REPORTEDLY TAKES PLACE AT CAMPS LOCATED WEST OF MIRAN SHAH"
+  },
+  {
+   "source": "Harakat ul Ansar",
+   "target": "Jalauddin Haqqani",
+   "type": "trained_by",
+   "detail": "Training is conducted by former Afghan mujahideen associated with Haqqani.",
+   "confidence": "stated",
+   "timestamp": "p.9",
+   "quote": "BY FORMER AFGHAN MUJAHIDEEN; ASSOCIATED WITH MAULANA HAQQANI."
+  },
+  {
+   "source": "Harakat ul Ansar",
+   "target": "Jalauddin Haqqani",
+   "type": "other",
+   "detail": "Harakat training camps are run by former Afghan mujahideen associated with Maulana Haqqani (partly excised context).",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.9",
+   "quote": "BY FORMER AFGHAN MUJAHIDEEN; ASSOCIATED WITH MAULANA HAQQANI."
+  },
+  {
+   "source": "Harakat ul Ansar",
+   "target": "Kashmir",
+   "type": "other",
+   "detail": "Two sources claimed Barakat (Harakat) activists manufacture firearms in Kashmir.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.9",
+   "quote": "FIREARMS ARE BEING MANUFACTURED IN KASHMIR BY BARAKAT ACTIVISTS."
+  },
+  {
+   "source": "Harakat ul Ansar",
+   "target": "Central Punjab",
+   "type": "located_in",
+   "detail": "Harakat ul Ansar was first organized in Central Punjab in the mid-1980s to assist Afghan mujahideen.",
+   "date": "mid-1980s",
+   "confidence": "stated",
+   "timestamp": "p.10",
+   "quote": "HARAKAT UL ANSAR WAS REPORTEDLY FIRST ORGANIZED ·IN CENTRAL PUNJAB IN THE MID-1980'S"
+  },
+  {
+   "source": "Harakat ul Ansar",
+   "target": "Raiwind",
+   "type": "other",
+   "detail": "Harakat activists still attend the Tablighi annual meeting in Raiwind.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.10",
+   "quote": "ACTIVISTS STILL ATTEND THE TABLIGHI ANNUAL MEETING IN RAIWIND."
+  },
+  {
+   "source": "Fazil ur-Rehman Khalil",
+   "target": "Harakat ul Ansar",
+   "type": "leads",
+   "detail": "Two sources named Khalil as leader of Harakat.",
+   "date": "1995",
+   "confidence": "stated",
+   "timestamp": "p.10",
+   "quote": "THE NAME GIVEN BY TWO SOURCES. AS THE LEADER OF HARAKAT IS FAZIL UR-REHMAN KHALIL."
+  },
+  {
+   "source": "Maulana Farooq Kashmiri",
+   "target": "Harakat ul Ansar",
+   "type": "leads",
+   "detail": "Other information indicates Farooq Kashmiri is leader of HUA.",
+   "date": "1995",
+   "confidence": "stated",
+   "timestamp": "p.10",
+   "quote": "A MAULANA FAROOQ KASHMIR! IS THE LEAOER OF HUA."
+  },
+  {
+   "source": "Fazil ur-Rehman Khalil",
+   "target": "Karachi",
+   "type": "other",
+   "detail": "Khalil reportedly came to Karachi after the Feb 5 shootings to offer condolences to victims' families.",
+   "date": "1995-02",
+   "confidence": "stated",
+   "timestamp": "p.10",
+   "quote": "CAME TO KARACHI IN THE AFTERMATH OF THE FEBRUARY 5 SHOOTINGS TO OFFER CONDOLENCES"
+  },
+  {
+   "source": "Harakat ul Ansar",
+   "target": "Karachi",
+   "type": "funded_by",
+   "detail": "Fund-raising in Karachi on Feb 5 was highly successful, with many small individual donations.",
+   "date": "1995-02-05",
+   "confidence": "stated",
+   "timestamp": "p.10",
+   "quote": "THE FUND- RAISING EFFORT IN KARACHI ON FEBRUARY 5 WAS HIGHLY SUCCESSFUL"
+  },
+  {
+   "source": "Harakat ul Ansar",
+   "target": "Egypt",
+   "type": "funded_by",
+   "detail": "Private sources in Egypt, Algeria and Sudan reportedly donate to Harakat.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.11",
+   "quote": "PRIVATE SOURCES IN A VARIETY OF COUNTRIES, INCLUDING EGYPT, ALGERIA, AND SUDAN."
+  },
+  {
+   "source": "Harakat ul Ansar",
+   "target": "Gujarati Indian Muslims in London",
+   "type": "funded_by",
+   "detail": "A group of Indian Muslims originally from Gujarat, now in London, is a highly significant source of support.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.11",
+   "quote": "A GROUP OF INDIAN MUSLIMS, ORIGINALLY FROM GUJARAT BUT NOW BASED IN LONDON."
+  },
+  {
+   "source": "Gujarati Indian Muslims in London",
+   "target": "London",
+   "type": "located_in",
+   "detail": "The Gujarati-origin supporters are based in London.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.11",
+   "quote": "ORIGINALLY FROM GUJARAT BUT NOW BASED IN LONDON."
+  },
+  {
+   "source": "Harakat ul Ansar",
+   "target": "Kashmir",
+   "type": "other",
+   "detail": "Kashmir is Harakat's primary interest and most resources are targeted there.",
+   "date": "1995",
+   "confidence": "stated",
+   "timestamp": "p.13",
+   "quote": "ITS PRIMARY INTEREST AT THIS STAGE IS CLEARLY KASHMIR"
+  }
+ ],
+ "sources_cited": [
+  "Karachi consulate contacts in business, press and political parties",
+  "Islamabad POLOFF conversation",
+  "Reftels A, D, E, G, H"
+ ],
+ "key_claims": [
+  "HuA has 2,000-10,000 Deobandi activists, many Afghan war veterans who fought with Jalauddin Haqqani in Paktia.",
+  "HuA training camps near Miran Shah are run by former mujahideen associated with Haqqani.",
+  "HuA is sponsored by JUI/F and linked to SSP.",
+  "HuA is well-financed through private donations from Pakistan, Egypt, Algeria, Sudan and Gujarati Muslims in London.",
+  "Membership includes Arab/North African Afghan war veterans and a few American Muslims.",
+  "Sources saw no threat to the US from HuA."
+ ]
+}

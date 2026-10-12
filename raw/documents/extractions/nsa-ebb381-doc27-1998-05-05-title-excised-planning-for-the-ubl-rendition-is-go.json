@@ -1,0 +1,164 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc27-1998-05-05-title-excised-planning-for-the-ubl-rendition-is-go",
+  "title": "[Title Excised] \"Planning for the UBL Rendition is Going Very Well\"",
+  "authors": "CIA (email to Michael F. Scheuer, from [Excised])",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "1998-05-05",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7x7g-tbo1k/1998-05-05-title-excised-planning-for-the-ubl.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 1,
+  "kind": "other",
+  "note": "CIA email to Michael F. Scheuer, cited in the 9/11 Commission Report as \"Capture Op,\" \"[Gary] Schroen to Mike.\" Source: 9/11 Commission Report, Chapter 4, Endnote 22.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 27",
+  "relevance": "high",
+  "ocr": 0
+ },
+ "persons": [
+  {
+   "name": "Michael F. Scheuer",
+   "aliases": [
+    "Michael Scheuer",
+    "Mike Scheuer"
+   ],
+   "role": "Recipient of the email; CIA officer (addressee) involved in the UBL rendition effort",
+   "organizations": [
+    "Central Intelligence Agency"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "To: Michael F. Scheue~"
+    }
+   ]
+  },
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "UBL",
+    "Usama bin Laden"
+   ],
+   "role": "Target of the planned rendition/capture operation",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "unknown",
+   "status_detail": "Status as of 1998 not stated in document; he is the target of the planned operation",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "odds it will succeed 40-00 (U·we detme success as ubl either in custody or dead)"
+    },
+    {
+     "timestamp": "p.1",
+     "quote": "!tannin~ for the ubl rendition is going very w~1:\\"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Author of the email; planning a rendition of UBL; the team is described as enthusiastic."
+  }
+ ],
+ "places": [],
+ "events": [
+  {
+   "date": "1998-05-05",
+   "date_precision": "day",
+   "type": "other",
+   "description": "CIA email to Michael Scheuer reporting that planning for the UBL rendition is going very well, a detailed and realistic plan with 50-50 odds of getting a green light and 40-percent odds of success (UBL in custody or dead).",
+   "place": "",
+   "actors": [
+    "Central Intelligence Agency",
+    "Michael F. Scheuer",
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998-05-05",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "An email to Michael Scheuer reports that planning for the UBL rendition is going very well. The plan is described as detailed and realistic, with risks addressed. The writer puts the odds of the operation getting a green light at 50-50 and the odds of success at 40-60 (as the OCR reads, '40-00'), with success defined as UBL in custody or dead.",
+   "place": "",
+   "actors": [
+    "Michael F. Scheuer",
+    "Usama bin Ladin",
+    "Central Intelligence Agency"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998-05",
+   "date_precision": "month",
+   "type": "other",
+   "description": "A planning team presents a military-style plan for a special-operations raid to render UBL. The email says odds of success are 'iffy' and the operation could fail at any point.",
+   "place": "",
+   "actors": [
+    "Central Intelligence Agency",
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Central Intelligence Agency",
+   "target": "Usama bin Ladin",
+   "type": "other",
+   "detail": "CIA is planning a rendition/capture operation targeting UBL.",
+   "date": "1998-05-05",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Planning for the ubl rendition is going very well"
+  },
+  {
+   "source": "Michael F. Scheuer",
+   "target": "Central Intelligence Agency",
+   "type": "member_of",
+   "detail": "Scheuer is the addressee of the internal CIA email about the UBL rendition planning. His CIA membership is inferred from the document provenance.",
+   "date": "1998-05-05",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "To: Michael F. Scheue~"
+  },
+  {
+   "source": "Michael F. Scheuer",
+   "target": "Usama bin Ladin",
+   "type": "other",
+   "detail": "Scheuer is the recipient of an update on the operation to render UBL, with success defined as UBL either in custody or dead.",
+   "date": "1998-05-05",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "odds it will succeed 40-00 (U·we detme success as ubl either in custody or dead)"
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "The CIA rendition plan for UBL was described in May 1998 as detailed, thoughtful and realistic, fitting a military model.",
+  "The author estimated roughly 50-50 odds the operation would receive a green light.",
+  "The author estimated roughly 40 percent odds of success, defined as UBL in custody or dead.",
+  "The operation was characterized as a special ops raid with hundreds of variables that could cause it to blow up at any point."
+ ]
+}

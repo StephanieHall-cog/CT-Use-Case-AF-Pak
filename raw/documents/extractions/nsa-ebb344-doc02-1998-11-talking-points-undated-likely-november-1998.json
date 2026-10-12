@@ -1,0 +1,405 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb344-doc02-1998-11-talking-points-undated-likely-november-1998",
+  "title": "Talking Points (undated, likely November 1998)",
+  "authors": "U.S. Department of State",
+  "publisher": "National Security Archive (GWU), Pakistan's Bin Laden Policy",
+  "published": "1998-11",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB344/osama_bin_laden_file_pakistan_02.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB344/index.htm",
+  "pages": 2,
+  "kind": "memo",
+  "note": "[Secret/NODIS] State Department talking points say the U.S. has pressed the Taliban directly and through Pakistan to expel bin Laden, without success. The issue is to be raised at the December 2, 1998 Clinton-Sharif meeting. The Taliban will not surrender him, partly because of his close ties to Mullah Omar, and Pakistan has not been supportive. The time for a diplomatic solution may be running out. Excised.",
+  "collection": "NSAEBB344",
+  "doc_number": "Document 2",
+  "relevance": "high",
+  "ocr": 2
+ },
+ "persons": [
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Bin Laden",
+    "UBL"
+   ],
+   "role": "leader of a terrorist network sheltered in Afghanistan by the Taliban",
+   "organizations": [
+    "al-Qa'ida",
+    "Taliban"
+   ],
+   "nationality_or_origin": "",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Bin Laden and his network continue to threaten U.S. interests and American lives."
+    },
+    {
+     "timestamp": "p.1",
+     "quote": "UBL's close ties to key Taliban leaders, including Taliban supreme leader Mullah Omar, have preserved his position."
+    }
+   ]
+  },
+  {
+   "name": "Mullah Omar",
+   "aliases": [
+    "Mullah Mohammed Omar",
+    "Mohammad Omar"
+   ],
+   "role": "Taliban supreme leader",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "close ties to key Taliban leaders, including Taliban supreme leader Mullah Omar"
+    }
+   ]
+  },
+  {
+   "name": "Nawaz Sharif",
+   "aliases": [
+    "Mian Muhammad Nawaz Sharif"
+   ],
+   "role": "Prime Minister of Pakistan, due to meet the US President on 2 December",
+   "organizations": [
+    "Government of Pakistan"
+   ],
+   "nationality_or_origin": "Pakistani",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Pakistan",
+    "United States"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Prime Minister Nawaz Sharif's upcoming December 2 meeting with the President provides an opportunity to get this message across"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Taliban",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Accused of giving word to prevent terrorism from Afghan soil and then breaking it; provides sanctuary to Bin Laden; internal divisions on this."
+  },
+  {
+   "name": "al-Qa'ida",
+   "aliases": [
+    "al-Qaeda",
+    "Bin Laden network"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Referred to as Bin Laden and his network."
+  },
+  {
+   "name": "Government of Pakistan",
+   "aliases": [
+    "Pakistanis"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "US pressed Taliban indirectly through the Pakistanis to expel Bin Laden."
+  },
+  {
+   "name": "Government of Saudi Arabia",
+   "aliases": [
+    "Saudi Arabian"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Saudi Arabia",
+   "notes": "Saudi efforts to compel Bin Laden's expulsion referenced (partially redacted)."
+  },
+  {
+   "name": "United States Department of State",
+   "aliases": [
+    "US Government"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "United States",
+   "notes": "Author of the talking points."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Sanctuary for Bin Laden and his network under the Taliban."
+  },
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Channel for diplomatic pressure on the Taliban."
+  }
+ ],
+ "events": [
+  {
+   "date": "1998-12-02",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "Planned meeting of Prime Minister Nawaz Sharif with the US President, seen as an opportunity to press the Bin Laden message.",
+   "place": "United States",
+   "actors": [
+    "Nawaz Sharif"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "US exerted diplomatic pressure on the Taliban, directly and through Pakistan, to expel Bin Laden; unsuccessful so far.",
+   "place": "Afghanistan",
+   "actors": [
+    "United States Department of State",
+    "Taliban",
+    "Government of Pakistan"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "US indictment of Bin Laden was brushed off by the Taliban.",
+   "place": "Afghanistan",
+   "actors": [
+    "Taliban",
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1998-12-02",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "Planned meeting between Prime Minister Nawaz Sharif and the U.S. President, seen as an opportunity to press the message on the Taliban and Bin Ladin.",
+   "place": "United States",
+   "actors": [
+    "Nawaz Sharif",
+    "United States Department of State"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998",
+   "date_precision": "year",
+   "type": "statement",
+   "description": "The Taliban gave the U.S. their word they would prevent terrorism from Afghan soil but broke the promise.",
+   "place": "Afghanistan",
+   "actors": [
+    "Taliban",
+    "United States Department of State"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998",
+   "date_precision": "year",
+   "type": "statement",
+   "description": "The Taliban brushed off the U.S. indictment of Bin Ladin and other evidence.",
+   "place": "Afghanistan",
+   "actors": [
+    "Taliban",
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.2"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Usama bin Ladin",
+   "target": "Taliban",
+   "type": "sheltered_by",
+   "detail": "Taliban provide sanctuary to Bin Laden and his network.",
+   "date": "1998",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "they are providing sanctuary to him and his network."
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Mullah Omar",
+   "type": "other",
+   "detail": "Bin Laden's close ties to Omar and other key Taliban leaders have preserved his position.",
+   "date": "1998",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "UBL's close ties to key Taliban leaders, including Taliban supreme leader Mullah Omar, have preserved his position."
+  },
+  {
+   "source": "Mullah Omar",
+   "target": "Taliban",
+   "type": "leads",
+   "detail": "Described as Taliban supreme leader.",
+   "date": "1998",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Taliban supreme leader Mullah Omar"
+  },
+  {
+   "source": "United States Department of State",
+   "target": "Government of Pakistan",
+   "type": "negotiated_with",
+   "detail": "US pressed the Taliban through the Pakistanis to expel Bin Laden.",
+   "date": "1998",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "directly and through the Pakistanis to expel Bin Laden"
+  },
+  {
+   "source": "United States Department of State",
+   "target": "Taliban",
+   "type": "negotiated_with",
+   "detail": "US urged the Taliban to prevent terrorism from Afghan soil and to expel Bin Laden.",
+   "date": "1998",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "We have long urged the Taliban to prevent acts of terrorism from being staged from Afghan soil."
+  },
+  {
+   "source": "al-Qa'ida",
+   "target": "Taliban",
+   "type": "sheltered_by",
+   "detail": "Bin Ladin's network is given sanctuary by the Taliban.",
+   "date": "1998",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "they are providing sanctuary to him and his network."
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "al-Qa'ida",
+   "type": "leads",
+   "detail": "Bin Ladin is described as heading a network threatening U.S. interests.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Bin Laden and his network continue to threaten U.S. interests and American lives."
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Mullah Omar",
+   "type": "allied_with",
+   "detail": "UBL's close ties to key Taliban leaders, including Mullah Omar, preserved his position.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "UBL's close ties to key Taliban leaders, including Taliban supreme leader Mullah Omar, have preserved his position."
+  },
+  {
+   "source": "Mullah Omar",
+   "target": "Taliban",
+   "type": "leads",
+   "detail": "Mullah Omar is the Taliban supreme leader.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Taliban supreme leader Mullah Omar"
+  },
+  {
+   "source": "United States Department of State",
+   "target": "Taliban",
+   "type": "negotiated_with",
+   "detail": "The U.S. exerted diplomatic pressure on the Taliban directly to expel Bin Ladin.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "We have exerted diplomatic pressure on the Taliban directly and through the Pakistanis to expel Bin Laden"
+  },
+  {
+   "source": "United States Department of State",
+   "target": "Government of Pakistan",
+   "type": "negotiated_with",
+   "detail": "The U.S. used Pakistan as a channel for pressure on the Taliban.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "directly and through the Pakistanis to expel Bin Laden"
+  },
+  {
+   "source": "Nawaz Sharif",
+   "target": "Government of Pakistan",
+   "type": "leads",
+   "detail": "Nawaz Sharif is Prime Minister of Pakistan.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Prime Minister Nawaz Sharif's upcoming December 2 meeting with the President"
+  },
+  {
+   "source": "Government of Saudi Arabia",
+   "target": "Usama bin Ladin",
+   "type": "other",
+   "detail": "Saudi Arabian efforts to compel Bin Ladin's expulsion are mentioned.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Saudi Arabian efforts to Compel Bin Laden's expulsion"
+  },
+  {
+   "source": "Taliban",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Terrorism is staged from Afghan soil, which the Taliban control.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "prevent acts of terrorism from being staged from Afghan soil"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Bin Ladin is sheltered on Afghan soil under Taliban protection.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "providing sanctuary to him and his network"
+  }
+ ],
+ "sources_cited": [
+  "US indictment of Bin Laden"
+ ],
+ "key_claims": [
+  "The Taliban promised to prevent terrorism from Afghan soil but broke that promise.",
+  "The Taliban provide sanctuary to Bin Laden and his network.",
+  "The US pressed the Taliban directly and via Pakistan to expel Bin Laden, without success.",
+  "Bin Laden's close ties to Mullah Omar and other key leaders preserve his position despite Taliban divisions.",
+  "The Taliban's desire for international contact gives the US leverage.",
+  "The Taliban's brush-off of the indictment may signal a shift from tolerance to more active support of Bin Laden."
+ ]
+}

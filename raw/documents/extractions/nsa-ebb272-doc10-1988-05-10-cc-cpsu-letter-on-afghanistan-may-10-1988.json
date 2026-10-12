@@ -1,0 +1,263 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb272-doc10-1988-05-10-cc-cpsu-letter-on-afghanistan-may-10-1988",
+  "title": "CC CPSU Letter on Afghanistan, May 10, 1988",
+  "authors": "Central Committee of the CPSU",
+  "publisher": "National Security Archive (GWU), Afghanistan and the Soviet Withdrawal 1989 20 Years Later",
+  "published": "1988-05-10",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB272/Doc%2010%201988-05-10%20CCCPSULetter%20Afghanistan.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB272/index.htm",
+  "pages": 2,
+  "kind": "letter",
+  "note": "Closed internal letter to all Party members on withdrawal of troops from Afghanistan, analyzing events, Soviet actions, problems faced by troops, overlooked historic and ethnic factors, Soviet interests and reasons for withdrawal.",
+  "collection": "NSAEBB272",
+  "doc_number": "Document 10",
+  "relevance": "medium",
+  "ocr": 0
+ },
+ "persons": [
+  {
+   "name": "Babrak Karmal",
+   "aliases": [
+    "Babrak Karmal"
+   ],
+   "role": "Head of the Afghan government after the Soviet entry (PDPA leader)",
+   "organizations": [
+    "PDPA"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Babrak Karmal became head of the Afghan government at the time."
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Central Committee of the Communist Party of the Soviet Union",
+   "aliases": [
+    "CC CPSU"
+   ],
+   "type": "political movement",
+   "parent_or_allies": [
+    "PDPA"
+   ],
+   "rivals": [],
+   "country_base": "USSR",
+   "notes": "Issued the closed letter of 10 May 1988 to all party members on the withdrawal of troops from Afghanistan."
+  },
+  {
+   "name": "PDPA",
+   "aliases": [
+    "People's Democratic Party of Afghanistan"
+   ],
+   "type": "political movement",
+   "parent_or_allies": [
+    "Central Committee of the Communist Party of the Soviet Union"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Ruling Afghan party that Soviet advisers worked to strengthen; the letter calls it the 'people's regime'."
+  },
+  {
+   "name": "Soviet troops",
+   "aliases": [
+    "Soviet forces in Afghanistan",
+    "Soviet Army"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "Central Committee of the Communist Party of the Soviet Union"
+   ],
+   "rivals": [],
+   "country_base": "USSR",
+   "notes": "The letter reports losses of 13,310 dead, 35,478 wounded and 301 missing by May 1988."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Country of the Soviet intervention and planned troop withdrawal."
+  },
+  {
+   "name": "Soviet Union",
+   "type": "country",
+   "country": "USSR",
+   "parent": "",
+   "significance": "Country of the letter's authors and of the troops deployed in Afghanistan."
+  }
+ ],
+ "events": [
+  {
+   "date": "1988-05-10",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CC CPSU issued a closed letter to all Soviet Communist Party members on the withdrawal of troops from Afghanistan. It assessed the war and reported Soviet casualties and costs.",
+   "place": "Soviet Union",
+   "actors": [
+    "Central Committee of the Communist Party of the Soviet Union"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1988-05",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Soviet casualty tally as of early May 1988: 13,310 dead, 35,478 wounded, 301 missing.",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet troops"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1988-05-10",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CC CPSU issued a closed letter to all Soviet Communist Party members on the withdrawal of troops from Afghanistan, critically assessing the war.",
+   "place": "Soviet Union",
+   "actors": [
+    "Central Committee of the Communist Party of the Soviet Union"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "approx 1979",
+   "date_precision": "approx",
+   "type": "appointment",
+   "description": "Babrak Karmal became head of the Afghan government when Soviet troops entered Afghanistan.",
+   "place": "Afghanistan",
+   "actors": [
+    "Babrak Karmal",
+    "Soviet troops"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1988-05",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "CC CPSU reported by early May 1988 Soviet losses of 13,310 dead, 35,478 wounded and 301 missing in Afghanistan.",
+   "place": "Afghanistan",
+   "actors": [
+    "Central Committee of the Communist Party of the Soviet Union",
+    "Soviet troops"
+   ],
+   "timestamp": "p.2"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Babrak Karmal",
+   "target": "PDPA",
+   "type": "leads",
+   "detail": "Karmal became head of the Afghan government when Soviet troops entered. The letter links him to the PDPA regime that Soviet advisers supported.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Babrak Karmal became head of the Afghan government at the time."
+  },
+  {
+   "source": "Soviet troops",
+   "target": "PDPA",
+   "type": "allied_with",
+   "detail": "Soviet advisers worked to strengthen the PDPA and the people's regime.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "It did many things to provide assistance in strengthening the PDPA and the people’s regime."
+  },
+  {
+   "source": "Babrak Karmal",
+   "target": "Afghanistan",
+   "type": "leads",
+   "detail": "Babrak Karmal became head of the Afghan government after Soviet troops entered.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Babrak Karmal became head of the Afghan government at the time."
+  },
+  {
+   "source": "Central Committee of the Communist Party of the Soviet Union",
+   "target": "Soviet troops",
+   "type": "leads",
+   "detail": "The CC CPSU issued the letter on the withdrawal of troops and assessed their actions in Afghanistan.",
+   "date": "1988-05-10",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "issued a “closed” (internal use) letter to all Communist Party members of the Soviet Union on the issue of withdrawal of troops from Afghanistan."
+  },
+  {
+   "source": "Soviet troops",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Soviet troops were deployed and fought in Afghanistan.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "this is how it happened when our troops entered [Afghanistan], even though they came there with honest and noble goals."
+  },
+  {
+   "source": "Soviet troops",
+   "target": "Soviet Union",
+   "type": "member_of",
+   "detail": "The troops are described as Soviet officers and soldiers, forces of the USSR.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "35,478 Soviet officers and soldiers were wounded"
+  },
+  {
+   "source": "PDPA",
+   "target": "Soviet Union",
+   "type": "funded_by",
+   "detail": "Soviet advisers assisted in strengthening the PDPA and its regime, creating dependency on the Soviet Union.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "It did many things to provide assistance in strengthening the PDPA and the people’s regime."
+  },
+  {
+   "source": "PDPA",
+   "target": "Soviet Union",
+   "type": "trained_by",
+   "detail": "The Soviet adviser apparatus in Afghanistan tried to transplant Soviet approaches onto the Afghans.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "tried to transplant the approached we are accustomed to onto the Afghan soil, encouraged the Afghans to copy our ways."
+  },
+  {
+   "source": "Babrak Karmal",
+   "target": "PDPA",
+   "type": "member_of",
+   "detail": "Karmal headed the regime that the PDPA and people's regime represented; implied party leadership.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Babrak Karmal became head of the Afghan government at the time."
+  }
+ ],
+ "sources_cited": [
+  "Alexander Lyakhovsky, Tragedy and Valor of Afghan, Iskon, Moscow 1995, Appendix 8"
+ ],
+ "key_claims": [
+  "The CC CPSU admits that Soviet leaders overlooked national and historical factors, above all that armed foreigners in Afghanistan have always been resisted with arms.",
+  "The letter concedes the USSR essentially bet on a military solution, suppressing the counterrevolution by force.",
+  "Soviet advisers tried to transplant Soviet approaches to Afghanistan, which bred dependency among Afghan leaders.",
+  "By early May 1988 the USSR had lost 13,310 dead, 35,478 wounded and 301 missing in Afghanistan.",
+  "The war cost the USSR 5 billion rubles a year, while the opposing side received weapons worth hundreds of millions and later billions of dollars."
+ ]
+}

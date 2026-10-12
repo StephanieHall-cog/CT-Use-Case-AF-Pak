@@ -1,0 +1,371 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc99-2001-11-29-terrorism-extremists-planning-attacks-against-us-i",
+  "title": "Terrorism: Extremists Planning Attacks Against US Interests in Pakistan",
+  "authors": "CIA",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "2001-11-29",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7xl1-j1w1s/2001-11-29-terrorism-extremists-planning-attacks.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 12,
+  "kind": "report",
+  "note": "CIA analytic report on extremists planning attacks against US interests in Pakistan. Source: 9/11 Commission Report, Chapter 2, Endnote 80.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 99",
+  "relevance": "high",
+  "ocr": 6
+ },
+ "persons": [
+  {
+   "name": "Usama Bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Usama bin Ladin",
+    "Bin Ladin"
+   ],
+   "role": "al-Qa'ida leader, strongly encouraging attacks on US interests in Pakistan",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan",
+    "Pakistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "Usama Bin Ladin is strongly encouraging these attacks. Since his return to Afghanistan in 1996, Bin Ladin has forged close ties to several Pakistani militant groups"
+    },
+    {
+     "timestamp": "p.4",
+     "quote": "Bin Ladin, Taliban Strongly Encourage Attacks"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "al-Qa'ida",
+   "aliases": [
+    "al-Qaeda"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban",
+    "Pakistani militant groups"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Linked to Pakistani militant groups; Arab extremists based in Afghanistan may also be threatening attacks."
+  },
+  {
+   "name": "Taliban",
+   "aliases": [
+    "Taleban"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qa'ida"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Took control of militant training camps in Afghanistan in 1996 and provided increased access to Pakistani militants."
+  },
+  {
+   "name": "Pakistani militant groups",
+   "aliases": [
+    "Kashmiri militant groups"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qa'ida",
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Unnamed in this chunk; share ideology, training facilities and the Kashmir cause with Bin Ladin and the Taliban."
+  },
+  {
+   "name": "DCI Counterterrorist Center, Office of Terrorism Analysis",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [
+    "CIA"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Co-prepared the assessment."
+  },
+  {
+   "name": "Office of Near Eastern, South Asian and African Analysis",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [
+    "CIA"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Co-prepared the assessment."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Bin Ladin returned there in 1996; Taliban-controlled training camps and Arab extremists located there"
+  },
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Target of planned attacks on US interests; home of the militant groups"
+  },
+  {
+   "name": "Islamabad",
+   "type": "city",
+   "country": "Pakistan",
+   "parent": "Pakistan",
+   "significance": "Government took steps after 11 September to limit the influence of radical militant groups"
+  },
+  {
+   "name": "Kashmir",
+   "type": "region",
+   "country": "India/Pakistan",
+   "parent": "",
+   "significance": "Militants' struggle to wrest control from India"
+  }
+ ],
+ "events": [
+  {
+   "date": "1996",
+   "date_precision": "year",
+   "type": "travel",
+   "description": "Bin Ladin returned to Afghanistan and began forging close ties to Pakistani militant groups.",
+   "place": "Afghanistan",
+   "actors": [
+    "Usama Bin Ladin"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1996",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Taliban came to power in Afghanistan and took control of militant training camps, increasing access for Pakistani militants.",
+   "place": "Afghanistan",
+   "actors": [
+    "Taliban"
+   ],
+   "timestamp": "p.11"
+  },
+  {
+   "date": "2001-09-11",
+   "date_precision": "day",
+   "type": "other",
+   "description": "After 11 September, Islamabad took steps to bolster domestic stability and limit the influence of radical militant groups.",
+   "place": "Islamabad",
+   "actors": [
+    "Pakistan government"
+   ],
+   "timestamp": "p.5"
+  },
+  {
+   "date": "1996",
+   "date_precision": "year",
+   "type": "travel",
+   "description": "Usama Bin Ladin returned to Afghanistan.",
+   "place": "Afghanistan",
+   "actors": [
+    "Usama Bin Ladin"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1996",
+   "date_precision": "year",
+   "type": "other",
+   "description": "The Taliban came to power in Afghanistan and took control of militant training camps there.",
+   "place": "Afghanistan",
+   "actors": [
+    "Taliban"
+   ],
+   "timestamp": "p.11"
+  },
+  {
+   "date": "2001-09-11",
+   "date_precision": "day",
+   "type": "other",
+   "description": "After 11 September, Islamabad took steps to bolster domestic stability and limit radical militant groups' influence.",
+   "place": "Islamabad",
+   "actors": [
+    "Pakistani militant groups"
+   ],
+   "timestamp": "p.5"
+  },
+  {
+   "date": "2001-11-29",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA assessment of extremists threatening US diplomatic, commercial and civilian interests in Pakistan, encouraged by Bin Ladin.",
+   "place": "Pakistan",
+   "actors": [
+    "Usama Bin Ladin",
+    "Pakistani militant groups",
+    "al-Qa'ida",
+    "Taliban"
+   ],
+   "timestamp": "p.2"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Usama Bin Ladin",
+   "target": "Pakistani militant groups",
+   "type": "allied_with",
+   "detail": "Bin Ladin forged close ties to several Pakistani militant groups, particularly those connected to the Taliban.",
+   "date": "since 1996",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Bin Ladin has forged close ties to several Pakistani militant groups, particularly those with connections to the Taliban."
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "al-Qa'ida",
+   "type": "leads",
+   "detail": "Bin Ladin is the leader of al-Qa'ida; document pairs him with al-Qa'ida ties to Pakistani groups.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "several Pakistani militant groups, with al-Oa •ida and"
+  },
+  {
+   "source": "Pakistani militant groups",
+   "target": "Taliban",
+   "type": "trained_by",
+   "detail": "Taliban control of training camps gave Pakistani militants increased access to camps in Afghanistan.",
+   "date": "1996",
+   "confidence": "stated",
+   "timestamp": "p.11",
+   "quote": "When the Tahoan came to power in Afghanistan in 1996, it took control of militant training camps in the country and provided increased access"
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "Pakistani militant groups",
+   "type": "allied_with",
+   "detail": "Since returning to Afghanistan in 1996, Bin Ladin forged close ties to several Pakistani militant groups, particularly those connected to the Taliban.",
+   "date": "1996",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Since his return to Afghanistan in 1996, Bin La!lin has forged close ties to several Pakistani militant groups, particularlr those .wit.h connections to the Tab'ban."
+  },
+  {
+   "source": "Pakistani militant groups",
+   "target": "Taliban",
+   "type": "allied_with",
+   "detail": "Pakistani militant groups, particularly some with Taliban connections, have close ties to Bin Ladin and the Taliban.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "particularlr those .wit.h connections to the Tab'ban."
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "Taliban",
+   "type": "allied_with",
+   "detail": "Bin Ladin and the Taliban are encouraging attacks and share common cause with militant groups.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "Bin Ladin, Taliban Strongly Encourage Attacks"
+  },
+  {
+   "source": "Pakistani militant groups",
+   "target": "Usama Bin Ladin",
+   "type": "allied_with",
+   "detail": "Militant groups have close ties to Bin Ladin.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "Bin :r.,adin. who has close ties to several Pakistani militant groui:~"
+  },
+  {
+   "source": "Pakistani militant groups",
+   "target": "al-Qa'ida",
+   "type": "allied_with",
+   "detail": "Several Pakistani militant groups are linked with al-Qa'ida and the Taliban in the threat context.",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "several Pakistani militant groups, with al-Oa •ida and"
+  },
+  {
+   "source": "Pakistani militant groups",
+   "target": "Kashmir",
+   "type": "other",
+   "detail": "Militant groups, with Bin Ladin and the Taliban, struggle to wrest control of Kashmir from India.",
+   "confidence": "stated",
+   "timestamp": "p.11",
+   "quote": "struggle to wrest control of Kashmir from India, which fits into the global Islamic jihad espoused by Bin Ladin."
+  },
+  {
+   "source": "Taliban",
+   "target": "Pakistani militant groups",
+   "type": "other",
+   "detail": "On taking power in 1996 the Taliban took control of militant training camps and provided increased access to militants.",
+   "date": "1996",
+   "confidence": "stated",
+   "timestamp": "p.11",
+   "quote": "When the Tahoan came to power in· Afghanistan in 1996, it took control of militant"
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "al-Qa'ida",
+   "type": "leads",
+   "detail": "Bin Ladin is al-Qa'ida's leader (implied by the context).",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "with al-Oa •ida and"
+  },
+  {
+   "source": "al-Qa'ida",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Arab extremists based in Afghanistan may also be involved in attacks.",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "Arab extremists based in Afghanistan also may be"
+  },
+  {
+   "source": "Taliban",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "The Taliban governed Afghanistan from 1996.",
+   "confidence": "stated",
+   "timestamp": "p.11",
+   "quote": "came to power in· Afghanistan in 1996"
+  },
+  {
+   "source": "Office of Near Eastern, South Asian and African Analysis",
+   "target": "DCI Counterterrorist Center, Office of Terrorism Analysis",
+   "type": "other",
+   "detail": "The assessment was jointly prepared by both offices.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "This assessment was prepared by the DCI Counterterrorlst Center's Office of Terrorism Analysis and the Office ofNeat ~ern. South Asian and African Ana.Mis"
+  }
+ ],
+ "sources_cited": [
+  "Press reports (referenced on p.2)"
+ ],
+ "key_claims": [
+  "Bin Ladin is strongly encouraging attacks on US diplomatic, civilian and commercial interests in Pakistan.",
+  "Since 1996 Bin Ladin has forged close ties to Pakistani militant groups, particularly those connected to the Taliban.",
+  "The Taliban takeover in 1996 gave Pakistani militants increased access to training camps in Afghanistan.",
+  "Pakistani militants share ideology and the Kashmir cause with Bin Ladin and the Taliban.",
+  "Arab extremists based in Afghanistan may also threaten attacks in Pakistan."
+ ]
+}

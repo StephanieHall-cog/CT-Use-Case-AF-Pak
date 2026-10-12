@@ -1,0 +1,80 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc90-2001-07-13-terrorism-bin-ladin-plans-delayed-but-not-abandone",
+  "title": "Terrorism: Bin Ladin Plans Delayed but Not Abandoned [Excised]",
+  "authors": "CIA",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "2001-07-13",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7xl1-j1w1s/2001-07-13-terrorism-bin-ladin-plans-delayed-but.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 1,
+  "kind": "intelligence report",
+  "note": "Senior Executive Intelligence Brief. Source: 9/11 Commission Report, Chapter 8, Endnote 28. One of a series of June-September 2001 SEIBs warning of al-Qaeda attacks.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 90",
+  "relevance": "medium",
+  "ocr": 0
+ },
+ "persons": [
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Bin Ladin",
+    "Bin Laden"
+   ],
+   "role": "Subject of the CIA Senior Executive Intelligence Brief; leader of planned attacks, per the title",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Terroris~: . Bin Lattin Plans Delayed but Not AbandonedJ~-~"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Author of the Senior Executive Intelligence Brief dated 13 July 2001; document approved for release 25 April 2012."
+  }
+ ],
+ "places": [],
+ "events": [
+  {
+   "date": "2001-07-13",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA Senior Executive Intelligence Brief issued, assessing that Bin Ladin's attack plans were delayed but not abandoned. Most of the text is excised.",
+   "place": "",
+   "actors": [
+    "Central Intelligence Agency",
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [],
+ "sources_cited": [
+  "CIA Senior Executive Intelligence Brief, 13 July 2001"
+ ],
+ "key_claims": [
+  "The CIA assessed in July 2001 that Bin Ladin's attack plans were delayed but not abandoned.",
+  "The brief says plans to attack were still in train, though the text is heavily excised."
+ ]
+}

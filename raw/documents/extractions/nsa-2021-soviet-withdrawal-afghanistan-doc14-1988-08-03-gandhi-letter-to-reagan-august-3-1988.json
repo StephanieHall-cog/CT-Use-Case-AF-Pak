@@ -1,0 +1,539 @@
+{
+ "document": {
+  "doc_id": "nsa-2021-soviet-withdrawal-afghanistan-doc14-1988-08-03-gandhi-letter-to-reagan-august-3-1988",
+  "title": "Gandhi Letter to Reagan, August 3, 1988",
+  "authors": "Rajiv Gandhi, Prime Minister of India",
+  "publisher": "National Security Archive (GWU), The Soviet Withdrawal from Afghanistan 1989 | National Security Archive",
+  "published": "1988-08-03",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/5752898/National-Security-Archive-Doc-14-Gandhi-Letter.pdf",
+  "source_page": "https://nsarchive.gwu.edu/briefing-book/afghanistan-russia-programs/2019-02-27/soviet-withdrawal-afghanistan-1989",
+  "pages": 3,
+  "kind": "letter",
+  "note": "As the Soviets finished withdrawing half their troops, the radical resistance was organizing and less willing to negotiate. Gandhi warns Reagan against 'encouragement of fundamentalism', saying a fundamentalist regime in Kabul would not serve India or the US and cannot be reconciled with democracy and human rights.",
+  "collection": "new-soviet-withdrawal-afghanistan-1989",
+  "doc_number": "Document 14",
+  "relevance": "medium",
+  "ocr": 2
+ },
+ "persons": [
+  {
+   "name": "Rajiv Gandhi",
+   "aliases": [
+    "Rajiv Gandhi"
+   ],
+   "role": "Prime Minister of India; author of letter to President Reagan (dated New Delhi, 28 July 1988)",
+   "organizations": [
+    "Government of India"
+   ],
+   "nationality_or_origin": "Indian",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "New Delhi",
+    "New York"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "THE LETTER IS DATED NEV DELHI, JULY 28, 1968. TEXT FOLLOWS."
+    },
+    {
+     "timestamp": "p.1",
+     "quote": "AT TERE UNITED NATIONS SPECIAL SESSION ON DISARMAMENT, WE OUTLINED A COMPREHENSIVE ACTION PLAN FOR DISARMAMENT"
+    }
+   ]
+  },
+  {
+   "name": "Ronald Reagan",
+   "aliases": [
+    "Ron",
+    "Ronald Reagan"
+   ],
+   "role": "US President; recipient of Gandhi's letter; wrote letter of 9 June and held Moscow summit with Gorbachev",
+   "organizations": [
+    "US Government"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Moscow",
+    "Washington DC"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "DEAR RON, THANK YOU FOR YOUR LETTER OF 9 JUNE"
+    },
+    {
+     "timestamp": "p.1",
+     "quote": "OUTCOME OF YOUR SUMMIT MEETING IN MOSCO LTH ERAL SECRETARY GORBACHEV"
+    }
+   ]
+  },
+  {
+   "name": "Mikhail Gorbachev",
+   "aliases": [
+    "Gorbachev",
+    "General Secretary Gorbachev"
+   ],
+   "role": "Soviet General Secretary; met Reagan at Moscow summit",
+   "organizations": [
+    "Soviet Union"
+   ],
+   "nationality_or_origin": "Soviet",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Moscow"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "YOUR SUMMIT MEETING IN MOSCO LTH ERAL SECRETARY GORBACHEV"
+    }
+   ]
+  },
+  {
+   "name": "Michael Armacost",
+   "aliases": [
+    "Mr. Armacost",
+    "Armacost"
+   ],
+   "role": "US Under Secretary of State; delivered Reagan's letter to Gandhi and briefed him on the Moscow summit; discussed Afghanistan",
+   "organizations": [
+    "US Department of State"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "New Delhi"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "MR. ARMACOST AND I ALSO HAD A USEFUL EXCHANGE OF VIEWS ON AFGHANISTAN."
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Government of India",
+   "aliases": [
+    "Indian Government"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "India",
+   "notes": "Gandhi's government; sent disarmament action plan to US; views on Afghanistan"
+  },
+  {
+   "name": "Indian Embassy (Washington)",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Government of India"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Passed a copy of the letter to the State Department"
+  },
+  {
+   "name": "US Department of State",
+   "aliases": [
+    "SECSTATE",
+    "NEA/INS"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "US Government"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Originated cable 249966 to Embassy New Delhi transmitting the letter text"
+  },
+  {
+   "name": "US Embassy New Delhi",
+   "aliases": [
+    "AMEMBASSY NEW DELHI"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "US Department of State"
+   ],
+   "rivals": [],
+   "country_base": "India",
+   "notes": "Recipient of the cable"
+  },
+  {
+   "name": "United Nations",
+   "aliases": [
+    "UN Special Session on Disarmament"
+   ],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Venue of Gandhi's disarmament speech and action plan"
+  },
+  {
+   "name": "Soviet Union",
+   "aliases": [
+    "USSR"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Soviet Union",
+   "notes": "Gorbachev's state; Moscow summit host"
+  },
+  {
+   "name": "Geneva Accords",
+   "aliases": [],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Agreements on Afghanistan that Gandhi hopes will be implemented faithfully by all parties"
+  }
+ ],
+ "places": [
+  {
+   "name": "New Delhi",
+   "type": "city",
+   "country": "India",
+   "parent": "India",
+   "significance": "Place of letter's writing and US Embassy destination"
+  },
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Subject of discussion; Geneva Accords; need for broad-based non-aligned government"
+  },
+  {
+   "name": "Kabul",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Gandhi warns a fundamentalist regime there would not serve Indian or US interests"
+  },
+  {
+   "name": "Moscow",
+   "type": "city",
+   "country": "Soviet Union",
+   "parent": "Soviet Union",
+   "significance": "Site of Reagan-Gorbachev summit"
+  },
+  {
+   "name": "New York",
+   "type": "city",
+   "country": "United States",
+   "parent": "United States",
+   "significance": "Where Gandhi was when a call with Reagan could not be arranged"
+  }
+ ],
+ "events": [
+  {
+   "date": "1988-06-09",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Reagan writes to Gandhi; letter delivered by Armacost",
+   "place": "Washington DC",
+   "actors": [
+    "Ronald Reagan",
+    "Michael Armacost",
+    "Rajiv Gandhi"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1988-07-28",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Gandhi writes letter to Reagan on disarmament and Afghanistan",
+   "place": "New Delhi",
+   "actors": [
+    "Rajiv Gandhi",
+    "Ronald Reagan"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1988-08-03",
+   "date_precision": "day",
+   "type": "other",
+   "description": "State Department cable 249966 transmits text of Gandhi's letter to Embassy New Delhi",
+   "place": "Washington DC",
+   "actors": [
+    "US Department of State",
+    "US Embassy New Delhi"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1988",
+   "date_precision": "year",
+   "type": "meeting",
+   "description": "Armacost and Gandhi exchange views on Afghanistan and Armacost briefs Gandhi on Moscow summit",
+   "place": "New Delhi",
+   "actors": [
+    "Michael Armacost",
+    "Rajiv Gandhi"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1988",
+   "date_precision": "year",
+   "type": "meeting",
+   "description": "Reagan-Gorbachev summit in Moscow",
+   "place": "Moscow",
+   "actors": [
+    "Ronald Reagan",
+    "Mikhail Gorbachev"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1988-06-09",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Reagan sent a letter to Gandhi, delivered by Armacost.",
+   "place": "",
+   "actors": [
+    "Ronald Reagan",
+    "Michael Armacost",
+    "Rajiv Gandhi"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1988",
+   "date_precision": "year",
+   "type": "meeting",
+   "description": "Reagan–Gorbachev summit meeting in Moscow, on which Armacost briefed Gandhi.",
+   "place": "Moscow",
+   "actors": [
+    "Ronald Reagan",
+    "Mikhail Gorbachev"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1988",
+   "date_precision": "year",
+   "type": "meeting",
+   "description": "Armacost delivered Reagan's letter and exchanged views with Gandhi on Afghanistan and the summit.",
+   "place": "New Delhi",
+   "actors": [
+    "Michael Armacost",
+    "Rajiv Gandhi"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1988",
+   "date_precision": "year",
+   "type": "statement",
+   "description": "Gandhi addressed the UN Special Session on Disarmament and presented a comprehensive disarmament action plan.",
+   "place": "New York",
+   "actors": [
+    "Rajiv Gandhi",
+    "Government of India",
+    "United Nations"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1988-07-28",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Gandhi's letter to Reagan, dated New Delhi, calling for faithful implementation of the Geneva Accords and a nonaligned Afghan government.",
+   "place": "New Delhi",
+   "actors": [
+    "Rajiv Gandhi",
+    "Ronald Reagan"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1988-08-03",
+   "date_precision": "day",
+   "type": "other",
+   "description": "State Department cable 249966 relayed the text of the Gandhi letter to the US Embassy New Delhi.",
+   "place": "New Delhi",
+   "actors": [
+    "US Department of State",
+    "US Embassy New Delhi",
+    "Indian Embassy (Washington)"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Michael Armacost",
+   "target": "Rajiv Gandhi",
+   "type": "met_with",
+   "detail": "Armacost delivered Reagan's letter and discussed the Moscow summit and Afghanistan.",
+   "date": "1988",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "MR. ARMACOST AND I ALSO HAD A USEFUL EXCHANGE OF VIEWS ON AFGHANISTAN."
+  },
+  {
+   "source": "Ronald Reagan",
+   "target": "Mikhail Gorbachev",
+   "type": "met_with",
+   "detail": "Summit meeting in Moscow.",
+   "date": "1988",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "OUTCOME OF YOUR SUMMIT MEETING IN MOSCO LTH ERAL SECRETARY GORBACHEV"
+  },
+  {
+   "source": "Rajiv Gandhi",
+   "target": "Ronald Reagan",
+   "type": "other",
+   "detail": "Gandhi corresponds with Reagan and continues dialogue on Afghanistan and disarmament.",
+   "date": "1988-07-28",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "I VALUE OUR CONTINUING DIALOGUE ON TAHFSF AND OTHER MATTERS OF MUTUAL INTEREST."
+  },
+  {
+   "source": "US Department of State",
+   "target": "US Embassy New Delhi",
+   "type": "other",
+   "detail": "State Department (SECSTATE) sent a priority cable to the US Embassy in New Delhi relaying the text of the Gandhi letter.",
+   "date": "1988-08-03",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "FM SECSTATE WASHDC TO AMEMBASSY NEW DELHI PRIORITY"
+  },
+  {
+   "source": "Indian Embassy (Washington)",
+   "target": "US Department of State",
+   "type": "other",
+   "detail": "The Indian Embassy passed the State Department a copy of Gandhi's latest letter to Reagan.",
+   "date": "1988-08",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "THE INDIAN EMBASSY PASSED US A COPY OF THE LATEST INSTALLMENT IN THE GANDHI - REAGAN CORRESPONDENCE."
+  },
+  {
+   "source": "Rajiv Gandhi",
+   "target": "Michael Armacost",
+   "type": "met_with",
+   "detail": "Armacost delivered Reagan's letter to Gandhi and they exchanged views on Afghanistan.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "MR. ARMACOST AND I ALSO HAD A USEFUL EXCHANGE OF VIEWS ON AFGHANISTAN."
+  },
+  {
+   "source": "Michael Armacost",
+   "target": "Ronald Reagan",
+   "type": "other",
+   "detail": "Reagan asked Armacost to brief Gandhi on the outcome of the Moscow summit.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "YOUR THOUGHTFUL GESTURE IN ASKING MR. ARMACOST TO BRIEF ME ON THE OUTCOME OF YOUR SUMMIT"
+  },
+  {
+   "source": "Ronald Reagan",
+   "target": "Mikhail Gorbachev",
+   "type": "met_with",
+   "detail": "Reagan and Gorbachev held a summit meeting in Moscow.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "SUMMIT MEETING IN MOSCOW WITH GENERAL SECRETARY GORBACHEV"
+  },
+  {
+   "source": "Mikhail Gorbachev",
+   "target": "Soviet Union",
+   "type": "leads",
+   "detail": "Gorbachev is General Secretary, leader of the Soviet Union.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "GENERAL SECRETARY GORBACHEV"
+  },
+  {
+   "source": "Rajiv Gandhi",
+   "target": "Government of India",
+   "type": "leads",
+   "detail": "Gandhi is Prime Minister speaking for India's government, which outlined a disarmament plan.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "WE OUTLINED A COMPREHENSIVE ACTION PLAN FOR DISARMAMENT"
+  },
+  {
+   "source": "Government of India",
+   "target": "United Nations",
+   "type": "other",
+   "detail": "India presented a comprehensive disarmament action plan at the UN Special Session on Disarmament.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "AT THE UNITED NATIONS SPECIAL SESSION ON DISARMAMENT, WE OUTLINED A COMPREHENSIVE ACTION PLAN"
+  },
+  {
+   "source": "Government of India",
+   "target": "Geneva Accords",
+   "type": "other",
+   "detail": "India hopes the Geneva Accords will be implemented faithfully by all parties.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "WE HOPE THAT THE GENEVA ACCORDS WILL BE IMPLEMENTED FAITHFULLY BY ALL THE PARTIES CONCERNED"
+  },
+  {
+   "source": "Government of India",
+   "target": "Afghanistan",
+   "type": "other",
+   "detail": "India advocates a broad-based, nonaligned government of national consensus in Afghanistan without outside interference, and opposes a fundamentalist regime in Kabul.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "AFGHANISTAN NEEDS A BROAD-BASED GOVERNMENT OF NATIONAL CONSENSUS"
+  },
+  {
+   "source": "Kabul",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Kabul is the capital of Afghanistan, where a fundamentalist regime is warned against.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "FUNDAMENTALIST REGIME IN KABUL WOULD NOT BE IN THE"
+  },
+  {
+   "source": "Indian Embassy (Washington)",
+   "target": "Government of India",
+   "type": "member_of",
+   "detail": "The Indian Embassy is a mission of the Government of India.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "THE INDIAN EMBASSY PASSED US A COPY"
+  }
+ ],
+ "sources_cited": [
+  "Reagan letter to Gandhi of 9 June 1988",
+  "Gandhi speech and Action Plan for disarmament at UN Special Session on Disarmament",
+  "Geneva Accords on Afghanistan"
+ ],
+ "key_claims": [
+  "Gandhi urges faithful implementation of the Geneva Accords by all parties.",
+  "Gandhi argues Afghanistan needs a broad-based government of national consensus that stays nonaligned.",
+  "Gandhi says Afghans should be left free of outside intervention and interference.",
+  "Gandhi asserts a fundamentalist regime in Kabul would not serve Indian or US interests."
+ ]
+}

@@ -1,0 +1,219 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc104-2002-11-14-saudi-based-financial-support-for-terrorist-organi",
+  "title": "Saudi Based Financial Support for Terrorist Organizations (CTC 2002-40117CH)",
+  "authors": "CIA Counterterrorist Center",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "2002-11-14",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7xqj-swjpt/2002-11-14-saudi-based-financial-support-for.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 16,
+  "kind": "report",
+  "note": "CIA analytic report on Saudi-based financial support for terrorist organizations. Source: Chapter 2, Endnote 77.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 104",
+  "relevance": "high",
+  "ocr": 10
+ },
+ "persons": [],
+ "organizations": [
+  {
+   "name": "al-Qa'ida",
+   "aliases": [
+    "al-Qaeda",
+    "Bin Ladin's network"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Described as relying on Saudi Arabia for the bulk of its fundraising for several years; part of its income derives from legitimate religious contributions and diversions from NGOs."
+  },
+  {
+   "name": "SAMA",
+   "aliases": [
+    "Saudi Arabian Monetary Agency"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Saudi Arabia",
+   "notes": "Saudi Arabia's central bank and chief financial enforcement agency; oversees local banks' efforts to freeze and seize terrorist-linked assets."
+  },
+  {
+   "name": "DCI Counterterrorist Center, Office of Terrorism Analysis",
+   "aliases": [
+    "CIA Counterterrorist Center",
+    "CTC"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Central Intelligence Agency"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Prepared this assessment."
+  },
+  {
+   "name": "Islamic NGOs and charities (Saudi-based)",
+   "aliases": [
+    "NGOs"
+   ],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Saudi Arabia",
+   "notes": "al-Qa'ida has been able to exploit them by diverting funds from legitimate activities. Specific NGO names are redacted in this chunk."
+  }
+ ],
+ "places": [
+  {
+   "name": "Saudi Arabia",
+   "type": "country",
+   "country": "Saudi Arabia",
+   "parent": "",
+   "significance": "Key financial base for al-Qa'ida; source of donations from wealthy individuals, fundraisers and NGOs."
+  },
+  {
+   "name": "Riyadh",
+   "type": "city",
+   "country": "Saudi Arabia",
+   "parent": "Saudi Arabia",
+   "significance": "Used as metonym for the Saudi government, which since 9/11 responded to US requests to staunch the flow of funds to terrorists."
+  }
+ ],
+ "events": [
+  {
+   "date": "2001-09-11",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "9/11 attacks cited as the starting point after which Riyadh responded to US requests to curb terrorist financing, reducing money flowing from Saudi Arabia to al-Qa'ida.",
+   "place": "Saudi Arabia",
+   "actors": [
+    "al-Qa'ida",
+    "SAMA"
+   ],
+   "timestamp": "p.12"
+  },
+  {
+   "date": "2001-09-11",
+   "date_precision": "day",
+   "type": "other",
+   "description": "After 9/11, Riyadh responded to US requests to staunch the flow of funds to terrorists, leading to a drop in money flowing from Saudi Arabia to al-Qa'ida.",
+   "place": "Saudi Arabia",
+   "actors": [
+    "Saudi Arabia",
+    "Riyadh",
+    "al-Qa'ida"
+   ],
+   "timestamp": "p.12"
+  },
+  {
+   "date": "2002-11-14",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA Counterterrorist Center assessment 'Saudi-Based Financial Support for Terrorist Organizations' issued.",
+   "place": "",
+   "actors": [
+    "DCI Counterterrorist Center, Office of Terrorism Analysis"
+   ],
+   "timestamp": "p.5"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "al-Qa'ida",
+   "target": "Saudi Arabia",
+   "type": "funded_by",
+   "detail": "Bin Ladin's network relied on Saudi Arabia for the bulk of its fundraising for several years.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.6",
+   "quote": "Bin Ladin's network ... Arabia for the bulk of its fundraising for several years"
+  },
+  {
+   "source": "al-Qa'ida",
+   "target": "Islamic NGOs and charities (Saudi-based)",
+   "type": "funded_by",
+   "detail": "Al-Qa'ida exploited Saudi-based NGOs by diverting funds from legitimate activities to finance operations.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "based NGOs that al-Qaida has been able to exploit by diverting funds from legitimate activities to finance"
+  },
+  {
+   "source": "SAMA",
+   "target": "Saudi Arabia",
+   "type": "member_of",
+   "detail": "SAMA is Saudi Arabia's central bank and financial enforcement agency, overseeing efforts to freeze terrorist-linked assets.",
+   "date": "2002",
+   "confidence": "stated",
+   "timestamp": "p.12",
+   "quote": "SAMA-Saudi Arabia's central bank and chief financial enforcement agency-overseees local banks' efforts to freeze and seize terrorist-linked assets."
+  },
+  {
+   "source": "al-Qa'ida",
+   "target": "Saudi Arabia",
+   "type": "funded_by",
+   "detail": "Most al-Qa'ida money originates from Saudi wealthy individuals, fundraisers and NGO diversions; Bin Ladin's network relied on Saudi Arabia for the bulk of its fundraising.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Saudi Arabia is a ke[y]... ost of the money originates from wealthy individuals, fundraisers who solicit smaller donations, and diversions from non-governmental organizations (NGOs)"
+  },
+  {
+   "source": "al-Qa'ida",
+   "target": "Islamic NGOs and charities (Saudi-based)",
+   "type": "funded_by",
+   "detail": "Al-Qa'ida has exploited Saudi-based NGOs by diverting funds from legitimate activities to finance terrorism.",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "based NGOs that al-Qaida has been able to exploit by diverting funds from legitimate activities to finance"
+  },
+  {
+   "source": "SAMA",
+   "target": "Saudi Arabia",
+   "type": "located_in",
+   "detail": "SAMA is Saudi Arabia's central bank and chief financial enforcement agency.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "SAMA-Saudi Arabia's central batik and chief financial enforcement agency"
+  },
+  {
+   "source": "SAMA",
+   "target": "Saudi Arabia",
+   "type": "member_of",
+   "detail": "SAMA is a Saudi state institution (central bank) overseeing local banks' efforts to freeze terrorist-linked assets.",
+   "confidence": "stated",
+   "timestamp": "p.12",
+   "quote": "SAMA-Saudi Arabia'$ central bank and chief financial enforcement agency-oversees local banks' efforts to freeze and seize terrorist-linked assets."
+  },
+  {
+   "source": "Riyadh",
+   "target": "Saudi Arabia",
+   "type": "located_in",
+   "detail": "Riyadh is used as metonym for the Saudi government, which responded to US requests.",
+   "confidence": "inferred",
+   "timestamp": "p.12",
+   "quote": "Since 9/11, Riyadh has responded to a number of US requests to staunch the flow of funds to terrorists"
+  },
+  {
+   "source": "DCI Counterterrorist Center, Office of Terrorism Analysis",
+   "target": "al-Qa'ida",
+   "type": "other",
+   "detail": "The Office of Terrorism Analysis prepared this assessment of Saudi financial support for al-Qa'ida and other terrorist groups.",
+   "confidence": "inferred",
+   "timestamp": "p.5",
+   "quote": "This assessment was prepared by the DCI Counterterrorist Center's Office of Terrorism Analysis."
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "Saudi Arabia is a key financial base for al-Qa'ida and other terrorist groups.",
+  "Most terrorist money from Saudi Arabia originates from wealthy individuals, fundraisers soliciting smaller donations, and diversions from NGOs.",
+  "Part of al-Qa'ida's income derives from legitimate religious contributions where donors are unwitting, misled or look the other way.",
+  "Some fundraisers knowingly donate to al-Qa'ida and know the money finances terrorist activity.",
+  "Since 9/11 Riyadh has acted on US requests, and with donors' fear of US/international action, money flowing to al-Qa'ida has dropped.",
+  "SAMA oversees Saudi banks' freezing and seizing of terrorist-linked assets.",
+  "Tens of millions of dollars of Saudi donations remain a concern, and targeting donors, fundraisers, banks and NGOs is key."
+ ]
+}

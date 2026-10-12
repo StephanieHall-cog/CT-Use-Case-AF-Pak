@@ -1,0 +1,542 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc08-1996-12-18-title-excised-the-following-was-the-structure-of-u",
+  "title": "[Title Excised] The Following Was the Structure of Usama Bin Ladin's Islamic Army",
+  "authors": "CIA",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "1996-12-18",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7wuu-jeagl/1996-12-18-title-excised-the-following-was-the.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 5,
+  "kind": "intelligence report",
+  "note": "CIA Intelligence Report on the structure of bin Ladin's Islamic Army. Source: 9/11 Commission Report, Chapter 4, Endnote 3.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 8",
+  "relevance": "high",
+  "ocr": 1
+ },
+ "persons": [
+  {
+   "name": "Usama Bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Usama bin Ladin"
+   ],
+   "role": "Commander-in-chief of the Islamic Army (as of early 1996); appoints Shura Council members",
+   "organizations": [
+    "Islamic Army",
+    "General Shura Council"
+   ],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "AS OF EARLY 1996, THE FOLLOWING WAS THE STRUCTURE OF USAMA ((BIN LADIN))'S ISLAMIC ARMY."
+    },
+    {
+     "timestamp": "p.2",
+     "quote": "SHURA COUNCIL MEMBERS ARE APPOINTED BY BIN LADIN"
+    }
+   ]
+  },
+  {
+   "name": "Abu Hajir al-Iraqi",
+   "aliases": [
+    "Abu Hajir al-'Iraqi",
+    "Mamdouh Salim",
+    "Mamdouh (Salim)"
+   ],
+   "role": "Managed Bin Ladin's overseas financial dealings, purchases, and investments; listed in the Shura Council context",
+   "organizations": [
+    "Islamic Army",
+    "General Shura Council"
+   ],
+   "nationality_or_origin": "Iraqi (per name)",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "ABU HAJIR AL-IRAQI MANAGED BIN LADIN'S OVERSEAS FINANCIAL DEALINGS, PURCHASES, AND INVESTMENTS."
+    }
+   ]
+  },
+  {
+   "name": "Abu Hafs al-Masri",
+   "aliases": [],
+   "role": "Listed in the Islamic Army structure (text partly excised; likely Shura member or committee figure)",
+   "organizations": [
+    "Islamic Army"
+   ],
+   "nationality_or_origin": "Egyptian (per name)",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.3",
+     "quote": "ABU HAFS AL-MASRI"
+    }
+   ]
+  },
+  {
+   "name": "Ayman al-Zawahiri",
+   "aliases": [
+    "Ayman al-Zawahri"
+   ],
+   "role": "Listed in the Islamic Army structure (text partly excised)",
+   "organizations": [
+    "Islamic Army"
+   ],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.3",
+     "quote": "AYMAN AL- ((ZAWAHIRI));"
+    }
+   ]
+  },
+  {
+   "name": "Madini al-Tayyib",
+   "aliases": [
+    "Madani al-Tayyib",
+    "Madiini al-Tayyib"
+   ],
+   "role": "Overall supervisor of the Financial and Administrative Committee; responsible for all Islamic Army finances",
+   "organizations": [
+    "Islamic Army",
+    "Financial and Administrative Committee"
+   ],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.3",
+     "quote": "MADIINI AL-TAYYIB IS THE OVERALL SUPERVISOR FOR THIS COMMITTEE"
+    }
+   ]
+  },
+  {
+   "name": "Abu 'Ubayda al-Banshiri",
+   "aliases": [
+    "Abu Ubaidah al-Banshiri"
+   ],
+   "role": "Overall leader of the Military Committee",
+   "organizations": [
+    "Islamic Army",
+    "Military Committee"
+   ],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.4",
+     "quote": "ABU 'UBAYDA AL-BANSHIRI IS THE OVERALL LEADER OF THE MILITARY COMMITTEE"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Islamic Army",
+   "aliases": [
+    "Usama Bin Ladin's Islamic Army"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Bin Ladin's organization as structured in early 1996 with a Shura Council and committees."
+  },
+  {
+   "name": "General Shura Council",
+   "aliases": [
+    "Shura Council"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Islamic Army"
+   ],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Members appointed by Bin Ladin; oversees committees."
+  },
+  {
+   "name": "Political and Sharia Committee",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "General Shura Council"
+   ],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Committee overseen by the Shura Council."
+  },
+  {
+   "name": "Financial and Administrative Committee",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "General Shura Council"
+   ],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Supervised by Madini al-Tayyib; responsible for all Islamic Army finances."
+  },
+  {
+   "name": "Information Committee",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "General Shura Council"
+   ],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Committee overseen by the Shura Council."
+  },
+  {
+   "name": "Military Committee",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "General Shura Council"
+   ],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Led by Abu 'Ubayda al-Banshiri."
+  }
+ ],
+ "places": [],
+ "events": [
+  {
+   "date": "1996",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Structure of Bin Ladin's Islamic Army as of early 1996, with Shura Council and four committees.",
+   "place": "",
+   "actors": [
+    "Usama Bin Ladin",
+    "Islamic Army"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1996-12-08",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA report dated 8 Dec 1996 describing the Islamic Army structure.",
+   "place": "",
+   "actors": [
+    "CIA"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1996-12-18",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA report describing the structure of Bin Ladin's Islamic Army as of early 1996.",
+   "place": "",
+   "actors": [
+    "Usama Bin Ladin",
+    "Islamic Army"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "approx 1996",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Structure of the Islamic Army: commander Bin Ladin, General Shura Council, and four committees (Political/Sharia, Financial/Administrative, Information, Military).",
+   "place": "",
+   "actors": [
+    "Usama Bin Ladin",
+    "General Shura Council",
+    "Military Committee",
+    "Information Committee",
+    "Political and Sharia Committee",
+    "Financial and Administrative Committee"
+   ],
+   "timestamp": "p.2"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Usama Bin Ladin",
+   "target": "Islamic Army",
+   "type": "leads",
+   "detail": "Bin Ladin is commander-in-chief of the Islamic Army.",
+   "date": "early 1996",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "COMMANDER-IN-CHIEF IS BIN LADIN"
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "General Shura Council",
+   "type": "leads",
+   "detail": "Bin Ladin appoints the Shura Council members.",
+   "date": "early 1996",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "SHURA COUNCIL MEMBERS ARE APPOINTED BY BIN LADIN"
+  },
+  {
+   "source": "Abu Hajir al-Iraqi",
+   "target": "Usama Bin Ladin",
+   "type": "reports_to",
+   "detail": "Managed Bin Ladin's overseas finances, purchases and investments.",
+   "date": "early 1996",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "ABU HAJIR AL-IRAQI MANAGED BIN LADIN'S OVERSEAS FINANCIAL DEALINGS, PURCHASES, AND INVESTMENTS."
+  },
+  {
+   "source": "Abu Hajir al-Iraqi",
+   "target": "General Shura Council",
+   "type": "member_of",
+   "detail": "Named in the Shura Council section; membership partly inferred from excised text.",
+   "date": "early 1996",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "ABU HAJIR AL-'IRAQI ), AKA MAMDOUH ((SALIM))"
+  },
+  {
+   "source": "Abu Hafs al-Masri",
+   "target": "General Shura Council",
+   "type": "member_of",
+   "detail": "Listed among names in the Shura section; inferred.",
+   "date": "early 1996",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "ABU HAFS AL-MASRI"
+  },
+  {
+   "source": "Ayman al-Zawahiri",
+   "target": "General Shura Council",
+   "type": "member_of",
+   "detail": "Listed among names in the Shura section; inferred.",
+   "date": "early 1996",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "AYMAN AL- ((ZAWAHIRI));"
+  },
+  {
+   "source": "General Shura Council",
+   "target": "Financial and Administrative Committee",
+   "type": "leads",
+   "detail": "Committee is overseen by the Shura Council.",
+   "date": "early 1996",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "THE FOLLOWING ARE COMMITTEES OVERSEEN BY THE SHURA COUNCIL"
+  },
+  {
+   "source": "Madini al-Tayyib",
+   "target": "Financial and Administrative Committee",
+   "type": "leads",
+   "detail": "Overall supervisor of the committee.",
+   "date": "early 1996",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "MADIINI AL-TAYYIB IS THE OVERALL SUPERVISOR FOR THIS COMMITTEE"
+  },
+  {
+   "source": "Abu 'Ubayda al-Banshiri",
+   "target": "Military Committee",
+   "type": "leads",
+   "detail": "Overall leader of the Military Committee.",
+   "date": "early 1996",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "ABU 'UBAYDA AL-BANSHIRI IS THE OVERALL LEADER OF THE MILITARY COMMITTEE"
+  },
+  {
+   "source": "Political and Sharia Committee",
+   "target": "General Shura Council",
+   "type": "reports_to",
+   "detail": "Overseen by the Shura Council.",
+   "date": "early 1996",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "POLITICAL AND SHARIA COMMITTEE"
+  },
+  {
+   "source": "Information Committee",
+   "target": "General Shura Council",
+   "type": "reports_to",
+   "detail": "Overseen by the Shura Council.",
+   "date": "early 1996",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "INFORMATION COMMITTEE"
+  },
+  {
+   "source": "Military Committee",
+   "target": "General Shura Council",
+   "type": "reports_to",
+   "detail": "Overseen by the Shura Council.",
+   "date": "early 1996",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "MILITARY COMMITTEE"
+  },
+  {
+   "source": "General Shura Council",
+   "target": "Islamic Army",
+   "type": "member_of",
+   "detail": "The General Shura Council is a body within the Islamic Army structure.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "THE GENERAL SHURA COUNCIL"
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "General Shura Council",
+   "type": "leads",
+   "detail": "Shura Council members are appointed by Bin Ladin.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "SHURA COUNCIL MEMBERS ARE APPOINTED BY BIN LADIN"
+  },
+  {
+   "source": "Abu Hajir al-Iraqi",
+   "target": "General Shura Council",
+   "type": "member_of",
+   "detail": "Abu Hajir al-Iraqi is listed among the Shura Council members (garbled text, inferred from the listing).",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "ABU HAJIR AL-IRAQI), AKA MAMDOUH (SALIM)"
+  },
+  {
+   "source": "Abu Hajir al-Iraqi",
+   "target": "Usama Bin Ladin",
+   "type": "other",
+   "detail": "Abu Hajir al-Iraqi managed Bin Ladin's overseas financial dealings, purchases and investments.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "ABU HAJIR AL-IRAQI MANAGED BIN LADIN'S OVERSEAS FINANCIAL DEALINGS, PURCHASES, AND INVESTMENTS."
+  },
+  {
+   "source": "Abu Hajir al-Iraqi",
+   "target": "Usama Bin Ladin",
+   "type": "reports_to",
+   "detail": "He acted as a financial manager for Bin Ladin and was appointed by him.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "MANAGED BIN LADIN'S OVERSEAS FINANCIAL DEALINGS"
+  },
+  {
+   "source": "Abu Hafs al-Masri",
+   "target": "General Shura Council",
+   "type": "member_of",
+   "detail": "Abu Hafs al-Masri is listed in the Shura Council section.",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "ABU HAFS AL-MASRI"
+  },
+  {
+   "source": "Ayman al-Zawahiri",
+   "target": "General Shura Council",
+   "type": "member_of",
+   "detail": "Ayman al-Zawahiri is listed in the Shura Council section.",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "AYMAN AL-ZAWAHIRI"
+  },
+  {
+   "source": "General Shura Council",
+   "target": "Political and Sharia Committee",
+   "type": "leads",
+   "detail": "The Shura Council oversees this committee.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "THE FOLLOWING ARE COMMITTEES OVERSEEN BY THE SHURA COUNCIL: POLITICAL AND SHARIA COMMITTEE"
+  },
+  {
+   "source": "General Shura Council",
+   "target": "Financial and Administrative Committee",
+   "type": "leads",
+   "detail": "The Shura Council oversees this committee.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "FINANCIAL AND ADMINISTRATIVE COMMITTEE."
+  },
+  {
+   "source": "Madini al-Tayyib",
+   "target": "Financial and Administrative Committee",
+   "type": "leads",
+   "detail": "Madini al-Tayyib is overall supervisor of the committee.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "MADINI AL-TAYYIB IS THE OVERALL SUPERVISOR FOR THIS COMMITTEE"
+  },
+  {
+   "source": "Financial and Administrative Committee",
+   "target": "Islamic Army",
+   "type": "other",
+   "detail": "The committee is responsible for all Islamic Army finances.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "RESPONSIBLE FOR ALL ISLAMIC ARMY FINANCES"
+  },
+  {
+   "source": "General Shura Council",
+   "target": "Information Committee",
+   "type": "leads",
+   "detail": "The Information Committee is listed among the Shura-overseen committees.",
+   "confidence": "inferred",
+   "timestamp": "p.4",
+   "quote": "INFORMATION COMMITTEE"
+  },
+  {
+   "source": "General Shura Council",
+   "target": "Military Committee",
+   "type": "leads",
+   "detail": "The Military Committee is listed among the Shura-overseen committees.",
+   "confidence": "inferred",
+   "timestamp": "p.4",
+   "quote": "MILITARY COMMITTEE"
+  },
+  {
+   "source": "Abu 'Ubayda al-Banshiri",
+   "target": "Military Committee",
+   "type": "leads",
+   "detail": "Abu 'Ubayda al-Banshiri is overall leader of the Military Committee.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "ABU 'UBAYDA AL-BANSHIRI IS THE OVERALL LEADER OF THE MILITARY COMMITTEE"
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "As of early 1996, Bin Ladin was commander-in-chief of an Islamic Army with a General Shura Council whose members he appointed.",
+  "Abu Hajir al-Iraqi (aka Mamdouh Salim) managed Bin Ladin's overseas financial dealings, purchases and investments.",
+  "The Shura Council oversaw four committees: Political and Sharia, Financial and Administrative, Information, and Military.",
+  "Madini al-Tayyib supervised the Financial and Administrative Committee, responsible for all Islamic Army finances.",
+  "Abu 'Ubayda al-Banshiri was overall leader of the Military Committee."
+ ]
+}

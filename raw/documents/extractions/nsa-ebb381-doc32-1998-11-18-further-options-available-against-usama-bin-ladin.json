@@ -1,0 +1,240 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc32-1998-11-18-further-options-available-against-usama-bin-ladin",
+  "title": "Further Options Available Against Usama Bin Ladin",
+  "authors": "Central Intelligence Agency",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "1998-11-18",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7x7g-tbo1k/1998-11-18-further-options-available-against.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 3,
+  "kind": "report",
+  "note": "CIA summary report on further options against bin Laden. Cited in 9/11 Commission Report Chapter 4, Endnote 121.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 32",
+  "relevance": "high",
+  "ocr": 1
+ },
+ "persons": [
+  {
+   "name": "Usama Bin Ladin",
+   "aliases": [
+    "Osama Bin Laden",
+    "Osama Bin Ladin",
+    "UBL",
+    "Bin Ladin"
+   ],
+   "role": "Target of potential US capture or direct assault operations; described as a threat to the United States",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Further options Available Against Osama Bin Ladin"
+    },
+    {
+     "timestamp": "p.1",
+     "quote": "Given the threat posed by UBL to the United States, this is an option worth considering."
+    }
+   ]
+  },
+  {
+   "name": "Ahmed Shah Masood",
+   "aliases": [
+    "Ahmad Shah Massoud",
+    "Masood"
+   ],
+   "role": "Afghan warlord fighting Taliban forces in northern Afghanistan; proposed as a partner against Bin Ladin",
+   "organizations": [],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Northern Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "A second option would be to enlist the support to Afghan war-lord Ahmed Shah Masood."
+    },
+    {
+     "timestamp": "p.1",
+     "quote": "Masood is a soldier and accomplished guerrilla fighter."
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Taliban",
+   "aliases": [],
+   "type": "political movement",
+   "parent_or_allies": [],
+   "rivals": [
+    "Ahmed Shah Masood"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Described as attacking Masood's forces in northern Afghanistan."
+  },
+  {
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Author of the memo; discusses options against Bin Ladin."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Base of Bin Ladin and of the Taliban-Masood conflict."
+  },
+  {
+   "name": "Northern Afghanistan",
+   "type": "region",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Where Masood is fighting Taliban forces."
+  }
+ ],
+ "events": [
+  {
+   "date": "1998",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Memo proposes further options against Bin Ladin, including more direct tracking support to assault his quarters and enlisting Masood.",
+   "place": "Afghanistan",
+   "actors": [
+    "Central Intelligence Agency",
+    "Usama Bin Ladin",
+    "Ahmed Shah Masood"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998",
+   "date_precision": "approx",
+   "type": "offensive",
+   "description": "Taliban forces attack Masood in northern Afghanistan.",
+   "place": "Northern Afghanistan",
+   "actors": [
+    "Taliban",
+    "Ahmed Shah Masood"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998-11-18",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA memo, 'Further Options Available Against Usama Bin Ladin', lays out options including a more direct assault on his quarters and enlisting Ahmed Shah Masood.",
+   "place": "Afghanistan",
+   "actors": [
+    "Central Intelligence Agency",
+    "Usama Bin Ladin",
+    "Ahmed Shah Masood"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998",
+   "date_precision": "year",
+   "type": "offensive",
+   "description": "Taliban forces attacked Ahmed Shah Masood in Northern Afghanistan; Masood was thought able to withstand the attacks.",
+   "place": "Northern Afghanistan",
+   "actors": [
+    "Taliban",
+    "Ahmed Shah Masood"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Taliban",
+   "target": "Ahmed Shah Masood",
+   "type": "rival_of",
+   "detail": "Masood is fighting Taliban forces who are attacking him in northern Afghanistan.",
+   "date": "1998",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Masood is currently in Northern Afghanistan fighting Taliban forces who are attacking him."
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "Ahmed Shah Masood",
+   "type": "other",
+   "detail": "CIA memo proposes enlisting Masood's support against Bin Ladin.",
+   "date": "1998",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "A second option would be to enlist the support to Afghan war-lord Ahmed Shah Masood."
+  },
+  {
+   "source": "Ahmed Shah Masood",
+   "target": "Northern Afghanistan",
+   "type": "located_in",
+   "detail": "Masood is currently in northern Afghanistan.",
+   "date": "1998",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Masood is currently in Northern Afghanistan"
+  },
+  {
+   "source": "Ahmed Shah Masood",
+   "target": "Taliban",
+   "type": "rival_of",
+   "detail": "Masood is fighting Taliban forces who are attacking him in Northern Afghanistan.",
+   "date": "1998",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Masood is currently in Northern Afghanistan fighting Taliban forces who are attacking him."
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "Ahmed Shah Masood",
+   "type": "other",
+   "detail": "The memo proposes enlisting Masood's support as a second option against Bin Ladin; this is a proposal, not an established relationship.",
+   "date": "1998-11-18",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "A second option would be to enlist the support to Afghan war-lord Ahmed Shah Masood."
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "Usama Bin Ladin",
+   "type": "rival_of",
+   "detail": "The CIA is considering options, including a capture attempt and a direct assault, against Bin Ladin as a threat to the United States.",
+   "date": "1998-11-18",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Given the threat posed by UBL to the United States, this is an option worth considering."
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "The CIA considered further options against Bin Ladin, including a direct assault on his quarters.",
+  "The CIA considered enlisting Ahmed Shah Masood as a partner against Bin Ladin.",
+  "The memo judged Masood likely to withstand Taliban attacks and remain a force in Afghanistan.",
+  "Earlier capture attempts were repeatedly not carried out.",
+  "The memo argues that the more options pursued, the greater the chance one will succeed."
+ ]
+}

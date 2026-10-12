@@ -1,0 +1,172 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc82-2001-06-23-international-bin-ladin-attacks-may-be-imminent-ex",
+  "title": "International: Bin Ladin Attacks May Be Imminent [Excised]",
+  "authors": "Central Intelligence Agency (Senior Executive Intelligence Brief)",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "2001-06-23",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7xl1-j1w1s/2001-06-23-international-bin-ladin-attacks-may.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 1,
+  "kind": "briefing",
+  "note": "One of the SEIBs from June-September 2001 warning of imminent al-Qaeda attacks. Cited in 9/11 Commission Report, Chapter 8, Endnote 14; see also p. 257.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 82",
+  "relevance": "high",
+  "ocr": 0
+ },
+ "persons": [
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Bin Ladin",
+    "Usama bin Laden"
+   ],
+   "role": "al-Qa'ida leader, reported in hiding in Afghanistan for fear of a US airstrike",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "alive",
+   "status_detail": "Alive as of the 23 June 2001 brief; reported to have gone into hiding in Afghanistan.",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Bin Ladin had gone into hiding in Afghanistan because he feared a US airstrike"
+    },
+    {
+     "timestamp": "p.1",
+     "quote": "International: Bin Ladin Attacks May Be Imminent"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Produced the Senior Executive Intelligence Brief of 23 June 2001."
+  },
+  {
+   "name": "Arabic news channel (unnamed)",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Name excised. Reported on Monday that Bin Ladin had gone into hiding in Afghanistan."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Where Bin Ladin was reported to be in hiding for fear of a US airstrike."
+  }
+ ],
+ "events": [
+  {
+   "date": "2001-06-23",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA Senior Executive Intelligence Brief warns that Bin Ladin attacks may be imminent. US facilities are warned and are heightening security, which could delay an attack.",
+   "place": "",
+   "actors": [
+    "Central Intelligence Agency",
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-06",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "An Arabic news channel reported on a Monday that Bin Ladin had gone into hiding in Afghanistan because he feared a US airstrike.",
+   "place": "Afghanistan",
+   "actors": [
+    "Usama bin Ladin",
+    "Arabic news channel (unnamed)"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-06-23",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA issues a Senior Executive Intelligence Brief warning that Bin Ladin attacks may be imminent; US facilities have been warned and are heightening security, which could delay an attack.",
+   "place": "",
+   "actors": [
+    "Central Intelligence Agency",
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "approx 2001-06-18",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "An Arabic news channel reports that Bin Ladin had gone into hiding in Afghanistan for fear of a US airstrike (reported on the Monday before the 23 June brief).",
+   "place": "Afghanistan",
+   "actors": [
+    "Arabic news channel (unnamed)",
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Usama bin Ladin",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Bin Ladin was reported to be in hiding in Afghanistan.",
+   "date": "2001-06",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Bin Ladin had gone into hiding in Afghanistan because he feared a US airstrike"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "An Arabic news channel reported that Bin Ladin had gone into hiding in Afghanistan because he feared a US airstrike.",
+   "date": "2001-06 (Monday before 23 June 2001)",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "reported on Monday that Bin Ladin had gone into hiding in Afghanistan because he feared a US airstrike"
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "Usama bin Ladin",
+   "type": "other",
+   "detail": "The CIA Senior Executive Intelligence Brief assesses that Bin Ladin attacks may be imminent.",
+   "date": "2001-06-23",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "International: Bin Ladin Attacks May Be Imminent"
+  }
+ ],
+ "sources_cited": [
+  "Arabic news channel report (name excised)"
+ ],
+ "key_claims": [
+  "Bin Ladin attacks may be imminent as of 23 June 2001.",
+  "An Arabic news channel reported Bin Ladin had gone into hiding in Afghanistan for fear of a US airstrike.",
+  "The attack timeframe may be flexible.",
+  "US facilities have been warned and are heightening security, which could delay an attack because operatives would need to revise their plans."
+ ]
+}

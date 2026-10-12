@@ -1,0 +1,256 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb57-doc03-1982-11-05-afghan-resistance",
+  "title": "Afghan Resistance",
+  "authors": "Defense Intelligence Agency, Directorate for Research",
+  "publisher": "National Security Archive (GWU), Afghanistan: Lessons from the Last War",
+  "published": "1982-11-05",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB57/us3.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB57/us.html",
+  "pages": 2,
+  "kind": "intelligence report",
+  "note": "DIA's analysis of the war indicates it saw the Russians in a very difficult situation: \"We believe the Soviets would have to double their strength to break the current stalemate.\"",
+  "collection": "NSAEBB57",
+  "doc_number": "Document 3",
+  "relevance": "high",
+  "ocr": 2
+ },
+ "persons": [
+  {
+   "name": "Gordon Negus",
+   "aliases": [],
+   "role": "Assistant Vice Director for Research, DIA Directorate for Research (signatory of the memo)",
+   "organizations": [
+    "Defense Intelligence Agency"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "GORDON NEGUS frossistans Vice Director for Research"
+    }
+   ]
+  },
+  {
+   "name": "Chuck Witten",
+   "aliases": [
+    "CPT Chuck Witten, USA"
+   ],
+   "role": "US Army captain at DIA who prepared the memo",
+   "organizations": [
+    "Defense Intelligence Agency"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "Prepared by: CPT Chuck Witten, USA"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Defense Intelligence Agency",
+   "aliases": [
+    "DIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Directorate for Research authored this 5 Nov 1982 assessment of the Afghan resistance."
+  },
+  {
+   "name": "Afghan resistance groups",
+   "aliases": [
+    "Afghan resistance",
+    "insurgents",
+    "mujahideen"
+   ],
+   "type": "militia",
+   "parent_or_allies": [],
+   "rivals": [
+    "Soviet forces",
+    "Afghan government forces"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "The text mentions six major resistance groups without naming them, plus smaller groups in isolated provinces."
+  },
+  {
+   "name": "Soviet forces",
+   "aliases": [
+    "Soviets"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "Afghan government forces"
+   ],
+   "rivals": [
+    "Afghan resistance groups"
+   ],
+   "country_base": "Soviet Union",
+   "notes": "Described as able to disrupt supply flows through mountain passes but not to seal them permanently."
+  },
+  {
+   "name": "Afghan government forces",
+   "aliases": [
+    "Soviet/Afghan commanders"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "Soviet forces"
+   ],
+   "rivals": [
+    "Afghan resistance groups"
+   ],
+   "country_base": "Afghanistan",
+   "notes": ""
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Theater of the insurgency against the Soviets; the memo assesses its borders and passes."
+  }
+ ],
+ "events": [
+  {
+   "date": "1982-11-05",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "DIA Directorate for Research issued an assessment of the Afghan resistance (equipment, deficiencies, Soviet reactions, resolve), responding to a request.",
+   "place": "",
+   "actors": [
+    "Defense Intelligence Agency",
+    "Gordon Negus",
+    "Chuck Witten"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1982-11-05",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "DIA Directorate for Research issues an assessment of the Afghan resistance in response to a request, covering equipment, deficiencies, Soviet reaction, and resistance resolve.",
+   "place": "Afghanistan",
+   "actors": [
+    "Defense Intelligence Agency",
+    "Gordon Negus",
+    "Chuck Witten"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Chuck Witten",
+   "target": "Defense Intelligence Agency",
+   "type": "member_of",
+   "detail": "Army captain who prepared the memo for the DIA Directorate for Research.",
+   "date": "1982-11-05",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Prepared by: CPT Chuck Witten, USA"
+  },
+  {
+   "source": "Gordon Negus",
+   "target": "Defense Intelligence Agency",
+   "type": "member_of",
+   "detail": "Signed the memo as Assistant Vice Director for Research.",
+   "date": "1982-11-05",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "GORDON NEGUS frossistans Vice Director for Research"
+  },
+  {
+   "source": "Soviet forces",
+   "target": "Afghan resistance groups",
+   "type": "other",
+   "detail": "Soviets are in conflict with the resistance and can temporarily but not permanently disrupt its flow of men and supplies.",
+   "date": "1982",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Soviets can and do temporarily disrupt the two-way flow of men and supplies through major mountain passes"
+  },
+  {
+   "source": "Chuck Witten",
+   "target": "Gordon Negus",
+   "type": "reports_to",
+   "detail": "Witten prepared the document that Negus signed.",
+   "date": "1982-11-05",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "GORDON NEGUS ... Prepared by: CPT Chuck Witten, USA"
+  },
+  {
+   "source": "Afghan resistance groups",
+   "target": "Soviet forces",
+   "type": "rival_of",
+   "detail": "The resistance fights the Soviets, who disrupt its flow of men and supplies through mountain passes.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "While Soviets can and do temporarily disrupt the two-way flow of men and supplies through major mountain passes"
+  },
+  {
+   "source": "Afghan resistance groups",
+   "target": "Afghan government forces",
+   "type": "rival_of",
+   "detail": "The resistance opposes Soviet/Afghan commanders and forces.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "limited manpower thus far available to Soviet/Afghan commanders, hostility of the local populace and the resourcefulness of the resistance"
+  },
+  {
+   "source": "Soviet forces",
+   "target": "Afghan government forces",
+   "type": "allied_with",
+   "detail": "Soviet and Afghan commanders operate jointly against the resistance.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Soviet/Afghan commanders"
+  },
+  {
+   "source": "Afghan resistance groups",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "The resistance groups operate in Afghanistan, including isolated provinces.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Smaller groups in isolated provinces, however, are still affected by shortages of small arms and ammunition."
+  },
+  {
+   "source": "Soviet forces",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "The Soviets are trying to seal Afghanistan off from the rest of the world.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "we do not believe the Soviets can permanently seal off Afghanistan from the rest of the world"
+  }
+ ],
+ "sources_cited": [
+  "DIA response to a request, dated 25 [month illegible] 1982 (memo reference S-26553/DB-2C)"
+ ],
+ "key_claims": [
+  "All six major resistance groups appear to have adequate modern assault weapons and ammunition but lack heavier weaponry.",
+  "Smaller groups in isolated provinces still suffer shortages of small arms and ammunition.",
+  "The Soviets cannot permanently seal Afghanistan's passes, owing to terrain, limited manpower, local hostility and resistance resourcefulness.",
+  "Resistance deficiencies include better surface-to-air missiles, anti-aircraft guns, heavy machine guns, antitank missiles and mines, man-pack mortars and tactical radios.",
+  "Soviets would respond to better-equipped resistance with higher-altitude bombing, escorted gunships and heat flares.",
+  "Even a 50,000-man Soviet increase would not significantly alter the situation; the insurgents would reassert control once forces moved on."
+ ]
+}

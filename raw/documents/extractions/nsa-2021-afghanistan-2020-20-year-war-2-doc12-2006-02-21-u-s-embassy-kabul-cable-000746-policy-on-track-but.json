@@ -1,0 +1,673 @@
+{
+ "document": {
+  "doc_id": "nsa-2021-afghanistan-2020-20-year-war-2-doc12-2006-02-21-u-s-embassy-kabul-cable-000746-policy-on-track-but",
+  "title": "U.S. Embassy Kabul Cable 000746, \"Policy on Track, But Violence Will Rise\"",
+  "authors": "U.S. Embassy Kabul (Ambassador Ronald Neumann)",
+  "publisher": "National Security Archive (GWU), Afghanistan 20/20: The 20-Year War in 20 Documents | National Security Archive",
+  "published": "2006-02-21",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qy3fic-cl4be/12.pdf",
+  "source_page": "https://nsarchive.gwu.edu/briefing-book/afghanistan/2021-08-19/afghanistan-2020-20-year-war-20-documents",
+  "pages": 5,
+  "kind": "cable",
+  "note": "[Secret] Neumann warns violence will rise and suicide bombing will be used for propaganda. He attributes the stronger insurgency to four years of Taliban reorganization in a sanctuary in Pakistan's tribal areas, which if unaddressed could revive the strategic threat that prompted OEF.",
+  "collection": "new-afghanistan-2020-20-year-war-20-docu",
+  "doc_number": "Document 12",
+  "relevance": "high",
+  "ocr": 1
+ },
+ "persons": [
+  {
+   "name": "Ronald E. Neumann",
+   "aliases": [
+    "Ronald Neumann",
+    "Ambassador Neumann"
+   ],
+   "role": "U.S. Ambassador to Afghanistan; author of the cable",
+   "organizations": [
+    "U.S. Embassy Kabul",
+    "U.S. Department of State"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Kabul",
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Classified By: Ambassador Ronald E. Neumann for reasons 1.4 (b) and (d)."
+    },
+    {
+     "timestamp": "p.5",
+     "quote": "NEUMANN"
+    }
+   ]
+  },
+  {
+   "name": "Hamid Karzai",
+   "aliases": [
+    "President Karzai"
+   ],
+   "role": "President of Afghanistan",
+   "organizations": [
+    "Government of Afghanistan"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Islamabad",
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.3",
+     "quote": "In the wake of President Karzai's recent visit to Islamabad, there is a growing potential for working with both governments"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Taliban",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [
+    "ISAF",
+    "Coalition",
+    "Government of Afghanistan"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Described as having reorganized over four years in a sanctuary beyond the reach of either government; shifted from large-unit engagements in 2005 to IEDs and suicide bombs."
+  },
+  {
+   "name": "ISAF",
+   "aliases": [
+    "NATO/ISAF",
+    "International Security Assistance Force"
+   ],
+   "type": "international body",
+   "parent_or_allies": [
+    "NATO"
+   ],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Expanding mandate and deploying more troops in the south; casualties among Germans, Poles and Swedes."
+  },
+  {
+   "name": "NATO",
+   "aliases": [],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "",
+   "notes": "Troop density in the south increasing."
+  },
+  {
+   "name": "Government of Afghanistan",
+   "aliases": [
+    "GOA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "United States",
+    "NATO"
+   ],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Focused on narcotics eradication; building provincial governance."
+  },
+  {
+   "name": "CFC-A",
+   "aliases": [
+    "Combined Forces Command-Afghanistan"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "United States"
+   ],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Works with the Embassy on the security fundamentals of counternarcotics operations."
+  },
+  {
+   "name": "U.S. Embassy Kabul",
+   "aliases": [
+    "AMEMBASSY KABUL"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "U.S. Department of State"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Originator of the cable."
+  },
+  {
+   "name": "U.S. Department of State",
+   "aliases": [
+    "SECSTATE"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Cable addressee."
+  },
+  {
+   "name": "Afghan National Security Forces",
+   "aliases": [
+    "ANSF",
+    "Afghan army and police"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "Government of Afghanistan"
+   ],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Police reform program approved six months earlier; not expected to be ready this year."
+  },
+  {
+   "name": "Provincial Reconstruction Teams",
+   "aliases": [
+    "PRTs"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "ISAF",
+    "Coalition"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Being expanded."
+  },
+  {
+   "name": "Tripartite process",
+   "aliases": [
+    "Tripartite Commission"
+   ],
+   "type": "international body",
+   "parent_or_allies": [
+    "Pakistan",
+    "Afghanistan",
+    "US-led Coalition"
+   ],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Building operational and strategic links between the Pakistani, Afghan and US-led Coalition militaries."
+  },
+  {
+   "name": "Coalition",
+   "aliases": [
+    "US-led Coalition",
+    "OEF"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "United States"
+   ],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Targeted by rising violence."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Subject of the cable."
+  },
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Taliban sanctuary and resupply area; increased pressure on the Taliban."
+  },
+  {
+   "name": "Kabul",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Expected site of more suicide bombings."
+  },
+  {
+   "name": "Islamabad",
+   "type": "city",
+   "country": "Pakistan",
+   "parent": "Pakistan",
+   "significance": "Karzai's recent visit."
+  },
+  {
+   "name": "Helmand province",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Counternarcotics operations expected to push into higher-threat areas."
+  },
+  {
+   "name": "Southern Afghanistan",
+   "type": "region",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "NATO troop density increasing."
+  }
+ ],
+ "events": [
+  {
+   "date": "2006-02-21",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Ambassador Neumann cables Washington predicting rising violence over the coming months while arguing the policy is on track.",
+   "place": "Kabul",
+   "actors": [
+    "Ronald E. Neumann",
+    "U.S. Embassy Kabul"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2006",
+   "date_precision": "year",
+   "type": "visit",
+   "description": "Karzai's recent visit to Islamabad (shortly before the cable).",
+   "place": "Islamabad",
+   "actors": [
+    "Hamid Karzai"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "2005",
+   "date_precision": "year",
+   "type": "offensive",
+   "description": "Taliban large-unit, force-on-force engagements in the first part of 2005 failed, leading to more IEDs and suicide bombs.",
+   "place": "Afghanistan",
+   "actors": [
+    "Taliban"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "2006-02-21",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Ambassador Neumann sends cable predicting rising violence over coming months while policy remains on track.",
+   "place": "Kabul",
+   "actors": [
+    "Ronald E. Neumann",
+    "U.S. Embassy Kabul",
+    "U.S. Department of State"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "approx 2006-02",
+   "date_precision": "approx",
+   "type": "travel",
+   "description": "President Karzai's recent visit to Islamabad.",
+   "place": "Islamabad",
+   "actors": [
+    "Hamid Karzai",
+    "Pakistan"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "2005",
+   "date_precision": "year",
+   "type": "attack",
+   "description": "Taliban large-unit, force-on-force engagements in early 2005 failed, leading to increased IED and suicide bomb use.",
+   "place": "Afghanistan",
+   "actors": [
+    "Taliban"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "approx 2005-2006",
+   "date_precision": "approx",
+   "type": "attack",
+   "description": "Increased targeting of ISAF with casualties among Germans, Poles and Swedes.",
+   "place": "Afghanistan",
+   "actors": [
+    "Taliban",
+    "ISAF"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "approx 2005-08",
+   "date_precision": "approx",
+   "type": "agreement",
+   "description": "Comprehensive police reform program approved and resourced about six months before the cable.",
+   "place": "Afghanistan",
+   "actors": [
+    "Afghan National Security Forces",
+    "Government of Afghanistan"
+   ],
+   "timestamp": "p.4"
+  },
+  {
+   "date": "approx 2001",
+   "date_precision": "approx",
+   "type": "offensive",
+   "description": "OEF intervention over 4 years ago prompted by the strategic threat to the US.",
+   "place": "Afghanistan",
+   "actors": [
+    "Coalition"
+   ],
+   "timestamp": "p.3"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Taliban",
+   "target": "ISAF",
+   "type": "rival_of",
+   "detail": "Taliban targeting of ISAF has increased, with casualties among Germans, Poles and Swedes.",
+   "date": "2006",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Targeting of ISAF has already increased, with resulting casualties among the Germans, Poles and Swedes"
+  },
+  {
+   "source": "Taliban",
+   "target": "Pakistan",
+   "type": "sheltered_by",
+   "detail": "Taliban reorganized in a sanctuary beyond the reach of either government and re-supply from current areas.",
+   "date": "2002-2006",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "four years that the Taliban has had to reorganize and think about their approach in a sanctuary beyond the reach of either government"
+  },
+  {
+   "source": "Ronald E. Neumann",
+   "target": "U.S. Embassy Kabul",
+   "type": "leads",
+   "detail": "Neumann is the Ambassador and signs the cable.",
+   "date": "2006-02-21",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Classified By: Ambassador Ronald E. Neumann"
+  },
+  {
+   "source": "Hamid Karzai",
+   "target": "Pakistan",
+   "type": "met_with",
+   "detail": "Karzai recently visited Islamabad.",
+   "date": "2006",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "President Karzai's recent visit to Islamabad"
+  },
+  {
+   "source": "Ronald E. Neumann",
+   "target": "U.S. Embassy Kabul",
+   "type": "leads",
+   "detail": "Neumann is the Ambassador who authored and classified the cable from the Embassy.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Classified By: Ambassador Ronald E. Neumann for reasons 1.4 (b) and (d)."
+  },
+  {
+   "source": "U.S. Embassy Kabul",
+   "target": "U.S. Department of State",
+   "type": "reports_to",
+   "detail": "The embassy sent the cable to the Secretary of State in Washington.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "FM AMEMBASSY KABUL TO SECSTATE WASHDC PRIORITY 8423"
+  },
+  {
+   "source": "Taliban",
+   "target": "ISAF",
+   "type": "rival_of",
+   "detail": "The Taliban are expected to target ISAF to make its deployment politically costly.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "it seems likely that the enemy will do its utmost to make the ISAF deployment politically costly."
+  },
+  {
+   "source": "Taliban",
+   "target": "Coalition",
+   "type": "rival_of",
+   "detail": "Violence is expected to be directed at ISAF and the Coalition.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "It will likely be directed at ISAF as well as the Coalition"
+  },
+  {
+   "source": "Taliban",
+   "target": "Government of Afghanistan",
+   "type": "rival_of",
+   "detail": "The Taliban's long-term strategy depends on keeping the government weak in the provinces.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "their long-term strategy depends on keeping the government weak in the provinces."
+  },
+  {
+   "source": "ISAF",
+   "target": "NATO",
+   "type": "member_of",
+   "detail": "NATO/ISAF is expanding its mandate; ISAF is the NATO-led force.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "NATO/ISAF is ex anding its mandate."
+  },
+  {
+   "source": "U.S. Embassy Kabul",
+   "target": "Government of Afghanistan",
+   "type": "allied_with",
+   "detail": "The Embassy works with the GOA to extend its reach nationwide.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "continue, aggressively, our work with the GOA to extend and deepen its reach nationwide"
+  },
+  {
+   "source": "CFC-A",
+   "target": "Government of Afghanistan",
+   "type": "allied_with",
+   "detail": "Embassy and CFC-A focus energy on ensuring the government gets security fundamentals right for narcotics eradication operations.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "Embassy and CFC-A are maximum energy and attention on ensuring government gets the security fundamentals for these operations right"
+  },
+  {
+   "source": "U.S. Embassy Kabul",
+   "target": "CFC-A",
+   "type": "allied_with",
+   "detail": "Embassy and CFC-A jointly focus on the eradication operations.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "Embassy and CFC-A are"
+  },
+  {
+   "source": "Hamid Karzai",
+   "target": "Islamabad",
+   "type": "other",
+   "detail": "Karzai recently visited Islamabad.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "In the wake of President Karzai's recent visit to Islamabad"
+  },
+  {
+   "source": "Hamid Karzai",
+   "target": "Government of Afghanistan",
+   "type": "leads",
+   "detail": "Karzai is referred to as President.",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "President Karzai's recent visit to Islamabad"
+  },
+  {
+   "source": "Taliban",
+   "target": "Pakistan",
+   "type": "sheltered_by",
+   "detail": "Taliban reorganized in a sanctuary beyond the reach of either government, implying Pakistani territory, and re-supply from their current areas.",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "the Taliban has had to reorganize and think about their approach in a sanctuary beyond the reach of either Government."
+  },
+  {
+   "source": "Pakistan",
+   "target": "Taliban",
+   "type": "rival_of",
+   "detail": "There is more pressure and intent from Pakistan against the Taliban.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "There is more pressure - and intent - from Pakistan against the Taliban"
+  },
+  {
+   "source": "Tripartite process",
+   "target": "Coalition",
+   "type": "other",
+   "detail": "The Tripartite process builds links between the Pakistan, Afghan, and US-led Coalition militaries.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "the Tripartite process is successfully building operational and strategic links between the Pakistan, Afghan, and US- led Coalition militaries."
+  },
+  {
+   "source": "Pakistan",
+   "target": "Tripartite process",
+   "type": "member_of",
+   "detail": "Pakistan is a participant in the Tripartite process.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "building operational and strategic links between the Pakistan, Afghan, and US- led Coalition militaries"
+  },
+  {
+   "source": "Government of Afghanistan",
+   "target": "Tripartite process",
+   "type": "member_of",
+   "detail": "Afghanistan is a participant in the Tripartite process.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "links between the Pakistan, Afghan, and US- led Coalition militaries"
+  },
+  {
+   "source": "Coalition",
+   "target": "Tripartite process",
+   "type": "member_of",
+   "detail": "The Coalition is a participant in the Tripartite process.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "links between the Pakistan, Afghan, and US- led Coalition militaries"
+  },
+  {
+   "source": "Taliban",
+   "target": "Helmand province",
+   "type": "located_in",
+   "detail": "Narcotics eradication will push operations into high-threat areas including Helmand, where the Taliban may be forced to fight.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "Helmand province."
+  },
+  {
+   "source": "Taliban",
+   "target": "Southern Afghanistan",
+   "type": "located_in",
+   "detail": "NATO troop density increases in the south as aggressive operations are conducted against the insurgents.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "As the troop density of NATO in the south increases and we conduct aggressive operations"
+  },
+  {
+   "source": "NATO",
+   "target": "Southern Afghanistan",
+   "type": "located_in",
+   "detail": "NATO increasing troop density in the south.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "As the troop density of NATO in the south increases"
+  },
+  {
+   "source": "U.S. Embassy Kabul",
+   "target": "Provincial Reconstruction Teams",
+   "type": "other",
+   "detail": "The U.S. is expanding PRTs.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "We are expanding PRTs"
+  },
+  {
+   "source": "U.S. Embassy Kabul",
+   "target": "Afghan National Security Forces",
+   "type": "trained_by",
+   "detail": "The US is building the army and reforming the police (the ANSF).",
+   "confidence": "inferred",
+   "timestamp": "p.4",
+   "quote": "We are building a better army and that takes time. We are reforming the police"
+  },
+  {
+   "source": "Taliban",
+   "target": "Afghan National Security Forces",
+   "type": "rival_of",
+   "detail": "The Taliban seek to disrupt schedules by getting ahead of Afghan army and police deployments.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "the Taliban seeks to get ahead of our progress in deploying Afghan army and police"
+  },
+  {
+   "source": "Kabul",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Kabul is in Afghanistan; suicide bombs anticipated there.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "We should anticipate more suicide bombs in Kabul and other major cities."
+  },
+  {
+   "source": "Islamabad",
+   "target": "Pakistan",
+   "type": "located_in",
+   "detail": "Islamabad is in Pakistan.",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "President Karzai's recent visit to Islamabad"
+  },
+  {
+   "source": "U.S. Embassy Kabul",
+   "target": "NATO",
+   "type": "allied_with",
+   "detail": "Proposes working directly with NATO on a strategic overview.",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "working directly with NATO on this."
+  }
+ ],
+ "sources_cited": [
+  "KABUL 611 (referenced cable)"
+ ],
+ "key_claims": [
+  "Neumann expects violence to rise over the next several months, aimed at ISAF, Coalition forces and pro-government officials, with more suicide bombings in Kabul and other cities.",
+  "The shift to IEDs and suicide bombs is attributed to the failure of the Taliban's large-unit engagement tactics in early 2005.",
+  "Counternarcotics operations in Helmand will raise incident levels as the Taliban is forced to defend high-threat areas.",
+  "The Taliban's long-term strategy depends on keeping the Afghan government weak in the provinces.",
+  "The insurgency will continue as long as the Taliban can resupply from sanctuary beyond the reach of both governments.",
+  "Pakistani pressure on the Taliban is increasing, and the Tripartite process is building military links, but concerns about Pakistani capabilities remain.",
+  "The cable argues that rising violence does not indicate a failing policy."
+ ]
+}

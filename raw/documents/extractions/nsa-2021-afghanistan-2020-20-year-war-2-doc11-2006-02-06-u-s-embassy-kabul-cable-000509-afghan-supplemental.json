@@ -1,0 +1,400 @@
+{
+ "document": {
+  "doc_id": "nsa-2021-afghanistan-2020-20-year-war-2-doc11-2006-02-06-u-s-embassy-kabul-cable-000509-afghan-supplemental",
+  "title": "U.S. Embassy Kabul Cable 000509, \"Afghan Supplemental\"",
+  "authors": "U.S. Embassy Kabul (Ambassador Ronald Neumann)",
+  "publisher": "National Security Archive (GWU), Afghanistan 20/20: The 20-Year War in 20 Documents | National Security Archive",
+  "published": "2006-02-06",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qy3fic-cl4be/11.pdf",
+  "source_page": "https://nsarchive.gwu.edu/briefing-book/afghanistan/2021-08-19/afghanistan-2020-20-year-war-20-documents",
+  "pages": 3,
+  "kind": "cable",
+  "note": "[Secret] Framed as a personal letter to Rice, opens with a Taliban quote: 'You have all the clocks but we have all the time.' Neumann pleads for more economic and infrastructure funding to achieve victory, warning that skimping plays into Taliban strategy.",
+  "collection": "new-afghanistan-2020-20-year-war-20-docu",
+  "doc_number": "Document 11",
+  "relevance": "medium",
+  "ocr": 0
+ },
+ "persons": [
+  {
+   "name": "Ronald E. Neumann",
+   "aliases": [
+    "Ronald Neumann"
+   ],
+   "role": "U.S. Ambassador to Afghanistan; author of the cable",
+   "organizations": [
+    "U.S. Department of State",
+    "U.S. Embassy Kabul"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Kabul",
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Classified By: Ambassador Ronald E. Neumann for reason 1.4 (d)"
+    },
+    {
+     "timestamp": "p.3",
+     "quote": "Respectfully, Ronald E. Neumann Ambassador to Afghanistan"
+    }
+   ]
+  },
+  {
+   "name": "Madame Secretary",
+   "aliases": [
+    "U.S. Secretary of State"
+   ],
+   "role": "U.S. Secretary of State; addressee of the cable (not named in the text)",
+   "organizations": [
+    "U.S. Department of State"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "Not named in the text; addressed only as 'Madame Secretary'.",
+   "family": [],
+   "locations": [
+    "Washington DC"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Madame Secretary,"
+    },
+    {
+     "timestamp": "p.2",
+     "quote": "Your support since my appointment has been unflagging."
+    }
+   ]
+  },
+  {
+   "name": "The President",
+   "aliases": [
+    "U.S. President"
+   ],
+   "role": "U.S. President; not named in the text",
+   "organizations": [
+    "U.S. Government"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "Not named in the text.",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "The President told me that I should tell you and him what we need"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Taliban",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [
+    "U.S. Government",
+    "Government of Afghanistan"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "A Taliban leader is quoted: 'You have all the clocks but we have all the time.' The Taliban strategy is described as based on time being on their side."
+  },
+  {
+   "name": "U.S. Embassy Kabul",
+   "aliases": [
+    "AMEMBASSY KABUL"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "U.S. Department of State"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Originator of the cable."
+  },
+  {
+   "name": "U.S. Department of State",
+   "aliases": [
+    "SECSTATE WASHDC"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Recipient; the cable concerns the Afghan supplemental funding request."
+  },
+  {
+   "name": "Government of Afghanistan",
+   "aliases": [
+    "GOA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Cannot tax without business and power."
+  },
+  {
+   "name": "Provincial Reconstruction Teams",
+   "aliases": [
+    "PRTs"
+   ],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Quick impact funding in PRTs would be reduced."
+  },
+  {
+   "name": "U.S. Congress",
+   "aliases": [
+    "Congress"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Members who visited Kabul were said to be persuaded of the need for infrastructure supplemental funding."
+  }
+ ],
+ "places": [
+  {
+   "name": "Kabul",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Location of the U.S. Embassy; the Afghan government outside Kabul is described as slow to build."
+  },
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Subject of the supplemental funding debate."
+  },
+  {
+   "name": "Washington DC",
+   "type": "city",
+   "country": "United States",
+   "parent": "United States",
+   "significance": "Destination of the cable."
+  }
+ ],
+ "events": [
+  {
+   "date": "2006-02-06",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Ambassador Neumann sends a SECRET cable to the Secretary of State objecting to the supplemental decision to minimize economic assistance and omit infrastructure funding.",
+   "place": "Kabul",
+   "actors": [
+    "Ronald E. Neumann",
+    "Madame Secretary"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2005-09",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Neumann recommended more roads, power and agriculture assistance; the FY05 supplemental only began to reach the embassy in September.",
+   "place": "Kabul",
+   "actors": [
+    "Ronald E. Neumann"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "2006-02-06",
+   "date_precision": "day",
+   "type": "statement",
+   "detail": "",
+   "description": "Ambassador Neumann sends an IMMEDIATE cable to the Secretary of State objecting to the supplemental decision to minimize economic aid and exclude infrastructure, and asking for roads, power and agriculture funding.",
+   "place": "Kabul",
+   "actors": [
+    "Ronald E. Neumann",
+    "U.S. Embassy Kabul",
+    "U.S. Department of State",
+    "Madame Secretary"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2005-09",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Neumann recommends more roads, power and agriculture assistance (USD 230 million for roads and energy in the supplemental).",
+   "place": "Kabul",
+   "actors": [
+    "Ronald E. Neumann",
+    "U.S. Embassy Kabul"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2005-09",
+   "date_precision": "month",
+   "type": "other",
+   "description": "The FY05 supplemental funds only began to reach the embassy in September.",
+   "place": "Kabul",
+   "actors": [
+    "U.S. Embassy Kabul",
+    "U.S. Department of State"
+   ],
+   "timestamp": "p.2"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Ronald E. Neumann",
+   "target": "Madame Secretary",
+   "type": "reports_to",
+   "detail": "Neumann addresses the Secretary of State directly to argue for more supplemental funding.",
+   "date": "2006-02-06",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Madame Secretary,"
+  },
+  {
+   "source": "Ronald E. Neumann",
+   "target": "U.S. Embassy Kabul",
+   "type": "leads",
+   "detail": "Neumann is the Ambassador, speaking for 'I and my mission'.",
+   "date": "2006-02-06",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "then I and my mission will do all in our power to win with what we have"
+  },
+  {
+   "source": "Taliban",
+   "target": "Government of Afghanistan",
+   "type": "rival_of",
+   "detail": "The Taliban's message that time is on their side is said to resonate if the GOA and the U.S. lack resources.",
+   "date": "2006-02-06",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "the Taliban message that time is on their side will resonate"
+  },
+  {
+   "source": "Ronald E. Neumann",
+   "target": "Madame Secretary",
+   "type": "reports_to",
+   "detail": "The Ambassador addresses the Secretary of State and pushes back on the supplemental decision, saying he would be 'doing less than my duty' if he did not.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Your support since my appointment has been unflagging."
+  },
+  {
+   "source": "Ronald E. Neumann",
+   "target": "The President",
+   "type": "met_with",
+   "detail": "The President told Neumann to tell him and the Secretary what is needed in Afghanistan.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "The President told me that I should tell you and him what we need"
+  },
+  {
+   "source": "U.S. Embassy Kabul",
+   "target": "U.S. Department of State",
+   "type": "reports_to",
+   "detail": "The cable goes from the embassy to SECSTATE WASHDC marked IMMEDIATE.",
+   "date": "2006-02-06",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "FM AMEMBASSY KABUL TO SECSTATE WASHDC IMMEDIATE 8164"
+  },
+  {
+   "source": "U.S. Embassy Kabul",
+   "target": "Kabul",
+   "type": "located_in",
+   "detail": "The embassy is in Kabul.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "FM AMEMBASSY KABUL"
+  },
+  {
+   "source": "U.S. Department of State",
+   "target": "Washington DC",
+   "type": "located_in",
+   "detail": "SECSTATE is addressed at Washington DC.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "TO SECSTATE WASHDC IMMEDIATE 8164"
+  },
+  {
+   "source": "Taliban",
+   "target": "U.S. Embassy Kabul",
+   "type": "rival_of",
+   "detail": "The Ambassador says the supplemental recommendation plays to the Taliban's time-based strategy, not to the U.S. strategy.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "plays to the Taliban strategy, not to ours."
+  },
+  {
+   "source": "Taliban",
+   "target": "Government of Afghanistan",
+   "type": "rival_of",
+   "detail": "Slow development makes the Taliban's role easier and the building of the Afghan government harder.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "It will make the margin of our victory tighter and the Taliban• s role ·.easier."
+  },
+  {
+   "source": "Provincial Reconstruction Teams",
+   "target": "U.S. Embassy Kabul",
+   "type": "other",
+   "detail": "PRTs receive quick-impact funding that falls short under the supplemental decision, which the Ambassador warns about.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "with less quick impact funding in PRTs"
+  },
+  {
+   "source": "Ronald E. Neumann",
+   "target": "U.S. Congress",
+   "type": "other",
+   "detail": "Neumann says every member of Congress who visited Kabul came away persuaded of the need for infrastructure supplemental funding.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Every member of· Congress who has visited Kabul has left persuaded of the need for supplemental fu~ding"
+  },
+  {
+   "source": "U.S. Congress",
+   "target": "Kabul",
+   "type": "other",
+   "detail": "Congress members visited Kabul.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Every member of· Congress who has visited Kabul"
+  },
+  {
+   "source": "Government of Afghanistan",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "The GOA governs Afghanistan; the cable refers to building the Afghan government outside Kabul.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "It will make it slower to build the Afghan government outside Kabul."
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "A Taliban leader is quoted saying the U.S. has all the clocks but the Taliban have all the time, which frames Taliban strategy as outlasting the coalition.",
+  "Neumann argues that minimizing economic assistance and leaving out infrastructure in the supplemental plays to the Taliban strategy, not the U.S. one.",
+  "Neumann says a shortfall of about USD 400 million will not lose the war but will worsen narcotics, slow Afghan government building outside Kabul, and make the Taliban's role easier.",
+  "Neumann predicts an increase in opium poppy production next year without the proposed USD 75 million in agriculture funding.",
+  "Neumann says that without roads to reach hospitals or markets or to move troops, the Taliban message that time is on their side will resonate."
+ ]
+}

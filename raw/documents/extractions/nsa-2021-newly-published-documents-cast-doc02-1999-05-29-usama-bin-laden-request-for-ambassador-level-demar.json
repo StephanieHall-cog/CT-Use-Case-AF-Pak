@@ -1,0 +1,471 @@
+{
+ "document": {
+  "doc_id": "nsa-2021-newly-published-documents-cast-doc02-1999-05-29-usama-bin-laden-request-for-ambassador-level-demar",
+  "title": "Usama bin Laden: Request for Ambassador Level Demarches (State Department Cable 100503)",
+  "authors": "Department of State (Secretary of State Madeleine Albright)",
+  "publisher": "National Security Archive (GWU), Newly Published Documents Cast Doubt on Claims Taliban Will Give Up al Qaeda | National Security Archive",
+  "published": "1999-05-29",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/2021-09/01.pdf",
+  "source_page": "https://nsarchive.gwu.edu/briefing-book/afghanistan/2021-09-23/newly-published-documents-cast-doubt-claims-taliban-will-give",
+  "pages": 4,
+  "kind": "cable",
+  "note": "[Secret] Albright directs the ambassadors in Abu Dhabi, Riyadh and Islamabad to tell host governments that there is clear and compelling information that bin Laden is planning an attack on US targets. They are to say the Taliban will be held responsible, to urge the Taliban to extradite UBL to a third country, and to ask the UAE to withdraw landing rights for Ariana Airlines until he is extradited.",
+  "collection": "new-newly-published-documents-cast-doubt",
+  "doc_number": "Document 2",
+  "relevance": "high",
+  "ocr": 0
+ },
+ "persons": [
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Usama bin Laden",
+    "UBL",
+    "Bin Ladin"
+   ],
+   "role": "al-Qa'ida leader, alleged to be planning terrorist attacks on US targets while sheltered in Afghanistan",
+   "organizations": [
+    "al-Qa'ida",
+    "Taliban"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "OSAMA BIN LADIN IS CURRENTLY PLANNING A TERRORIST ATTACK AGAINST US TARGETS OR INTERESTS"
+    },
+    {
+     "timestamp": "p.3",
+     "quote": "BIN LADIN AND HIS NETWORK ARE OPERATING FREELY IN AFGHANISTAN"
+    }
+   ]
+  },
+  {
+   "name": "Michael A. Sheehan",
+   "aliases": [
+    "Michael Sheehan"
+   ],
+   "role": "Acting Coordinator for Counterterrorism (S/CT), US State Department",
+   "organizations": [
+    "US Department of State"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Washington"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "CLASSIFIED BY MICHAEL A. SHEEHAN, ACTING COORDINATOR FOR COUNTERTERRORISM, S/CT"
+    },
+    {
+     "timestamp": "p.3",
+     "quote": "S/CT COORDINATOR MICHAEL SHEEHAN MADE CLEAR TO INTERIOR MINISTER HAZZA"
+    }
+   ]
+  },
+  {
+   "name": "Hazza bin Zayid Al Nuhayyan",
+   "aliases": [
+    "Hazza",
+    "Sheikh Hazza bin Zayed"
+   ],
+   "role": "UAE Interior Minister",
+   "organizations": [
+    "UAE government"
+   ],
+   "nationality_or_origin": "Emirati",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Abu Dhabi"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.3",
+     "quote": "MADE CLEAR TO INTERIOR MINISTER HAZZA, WE ARE VERY CONCERNED REGARDING THE TERRORIST USE OF ARIANA AIRLINES"
+    }
+   ]
+  },
+  {
+   "name": "Prince Sultan",
+   "aliases": [
+    "Prince Sultan bin Abd al-Aziz"
+   ],
+   "role": "Saudi official (Defense Minister) scheduled to meet the US Ambassador on 30 May 1999",
+   "organizations": [
+    "Saudi government"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Riyadh"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.3",
+     "quote": "AMBASSADOR'S SCHEDULED MEETING WITH PRINCE SULTAN ON MAY 30"
+    }
+   ]
+  },
+  {
+   "name": "Madeleine Albright",
+   "aliases": [],
+   "role": "US Secretary of State, signatory of cable",
+   "organizations": [
+    "US Department of State"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Washington"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.4",
+     "quote": "ALBRIGHT"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Taliban",
+   "aliases": [
+    "Talib.an"
+   ],
+   "type": "political movement",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Accused of sheltering bin Ladin despite assurances; to be held responsible for any attack."
+  },
+  {
+   "name": "al-Qa'ida",
+   "aliases": [
+    "al-Qaeda",
+    "bin Ladin's network"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Referred to as bin Ladin and his network/terrorist allies."
+  },
+  {
+   "name": "Ariana Afghan Airlines",
+   "aliases": [
+    "Ariana Airlines",
+    "Ariana"
+   ],
+   "type": "other",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Alleged to be used by bin Ladin to facilitate operations; US requests UAE and Saudi withdraw landing rights."
+  },
+  {
+   "name": "US Department of State",
+   "aliases": [
+    "State Department",
+    "S/CT"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [
+    "al-Qa'ida"
+   ],
+   "country_base": "United States",
+   "notes": "Originator of cable; Office of the Coordinator for Counterterrorism."
+  },
+  {
+   "name": "Government of Pakistan",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Asked to press the Taliban to expel bin Ladin."
+  },
+  {
+   "name": "Government of Saudi Arabia",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Saudi Arabia",
+   "notes": "Credited with efforts pressing the Taliban to hand over bin Ladin."
+  },
+  {
+   "name": "Government of the UAE",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United Arab Emirates",
+   "notes": "Asked to withdraw Ariana landing rights."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Where bin Ladin operates freely under Taliban protection"
+  },
+  {
+   "name": "Islamabad",
+   "type": "city",
+   "country": "Pakistan",
+   "parent": "Pakistan",
+   "significance": "US embassy to approach highest-level Taliban official"
+  },
+  {
+   "name": "Abu Dhabi",
+   "type": "city",
+   "country": "United Arab Emirates",
+   "parent": "UAE",
+   "significance": "Demarche on Ariana landing rights"
+  },
+  {
+   "name": "Riyadh",
+   "type": "city",
+   "country": "Saudi Arabia",
+   "parent": "Saudi Arabia",
+   "significance": "Demarche; meeting with Prince Sultan"
+  },
+  {
+   "name": "Jeddah",
+   "type": "city",
+   "country": "Saudi Arabia",
+   "parent": "Saudi Arabia",
+   "significance": "Ariana believed to fly periodically there"
+  }
+ ],
+ "events": [
+  {
+   "date": "1999-05-29",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "State Department cable instructs ambassadors in Abu Dhabi, Riyadh and Islamabad to deliver urgent demarches on bin Ladin's planned attacks and Taliban harboring.",
+   "place": "Washington",
+   "actors": [
+    "Madeleine Albright",
+    "Michael A. Sheehan",
+    "US Department of State"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1999-05-30",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "Scheduled meeting of the US Ambassador with Prince Sultan in Riyadh.",
+   "place": "Riyadh",
+   "actors": [
+    "Prince Sultan"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1999-05-29",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "State Department cable instructs ambassadors in Abu Dhabi, Riyadh and Islamabad to deliver demarches on bin Ladin's planned attacks and Taliban harboring.",
+   "place": "Washington",
+   "actors": [
+    "US Department of State",
+    "Madeleine Albright",
+    "Michael A. Sheehan"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1999-05-30",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "Scheduled US Ambassador meeting with Prince Sultan in Riyadh.",
+   "place": "Riyadh",
+   "actors": [
+    "Prince Sultan"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "approx 1999",
+   "date_precision": "approx",
+   "type": "meeting",
+   "description": "Sheehan earlier told UAE Interior Minister Hazza of US concern over terrorist use of Ariana Airlines.",
+   "place": "Abu Dhabi",
+   "actors": [
+    "Michael A. Sheehan",
+    "Hazza bin Zayid Al Nuhayyan"
+   ],
+   "timestamp": "p.3"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Usama bin Ladin",
+   "target": "Taliban",
+   "type": "sheltered_by",
+   "detail": "US says Taliban provide protection and safehaven to bin Ladin.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "THEIR PROVISION OF PROTECTION AND SAFEHAVEN TO THIS TERRORIST MURDERER IS UNNACEPTABLE."
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "al-Qa'ida",
+   "type": "leads",
+   "detail": "Bin Ladin heads a network of terrorist allies planning attacks.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "MEMBERS OF BIN LADIN'S NETWORK"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Ariana Afghan Airlines",
+   "type": "other",
+   "detail": "Bin Ladin alleged to use Ariana to facilitate operations.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "WE KNOW THAT BIN LADIN USES ARIANA TO FACILITATE HIS OPERATIONS."
+  },
+  {
+   "source": "Michael A. Sheehan",
+   "target": "Hazza bin Zayid Al Nuhayyan",
+   "type": "met_with",
+   "detail": "Sheehan raised concern over terrorist use of Ariana with the UAE Interior Minister.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "S/CT COORDINATOR MICHAEL SHEEHAN MADE CLEAR TO INTERIOR MINISTER HAZZA"
+  },
+  {
+   "source": "Government of Saudi Arabia",
+   "target": "Taliban",
+   "type": "negotiated_with",
+   "detail": "Saudi Arabia pressed the Taliban to turn over bin Ladin.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "WE APPRECIATE VERY MOCH SAUDI EFFORTS IN PRESSING THE TALIBAN TO TURN OVER BIN LADIN"
+  },
+  {
+   "source": "Ariana Afghan Airlines",
+   "target": "Taliban",
+   "type": "other",
+   "detail": "Ariana grouped with bin Ladin's Taliban supporters as a target of measures.",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "AGAINST BIN LADIN AND HIS TALIBAN SUPPORTERS"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Bin Ladin and his network operate freely in Afghanistan despite Taliban assurances.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "BIN LADIN AND HIS NETWORK ARE OPERATING FREELY IN AFGHANISTAN."
+  },
+  {
+   "source": "Taliban",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Taliban are the authorities in Afghanistan, held responsible for bin Ladin's actions there.",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "WE WILL HOLD THE TALIBAN DIRECTLY RESPONSIBLE FOR BIN LADIN'S ACTIONS."
+  },
+  {
+   "source": "Ariana Afghan Airlines",
+   "target": "Jeddah",
+   "type": "other",
+   "detail": "Ariana is believed to fly periodically to Jeddah.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "WE BELIEVE THAT ARIANA FLIES PERIODICALLY TO JEDDAH."
+  },
+  {
+   "source": "Hazza bin Zayid Al Nuhayyan",
+   "target": "Government of the UAE",
+   "type": "member_of",
+   "detail": "Hazza is UAE Interior Minister.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "INTERIOR MINISTER HAZZA"
+  },
+  {
+   "source": "Michael A. Sheehan",
+   "target": "US Department of State",
+   "type": "member_of",
+   "detail": "Sheehan is Acting Coordinator for Counterterrorism, S/CT.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "MICHAEL A. SHEEHAN, ACTING COORDINATOR FOR COUNTERTERRORISM, S/CT."
+  },
+  {
+   "source": "Madeleine Albright",
+   "target": "US Department of State",
+   "type": "leads",
+   "detail": "Cable sent over Albright's name as Secretary of State.",
+   "confidence": "inferred",
+   "timestamp": "p.4",
+   "quote": "ALBRIGHT"
+  },
+  {
+   "source": "Government of Pakistan",
+   "target": "Taliban",
+   "type": "other",
+   "detail": "US asks Saudi Arabia to urge Pakistan to press the Taliban to expel bin Ladin.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "URGE THE PAKISTANI GOVERNMENT IN PARTICULAR TO PRESS THE TALIBAN TO EXPEL BIN LADIN"
+  },
+  {
+   "source": "Prince Sultan",
+   "target": "Government of Saudi Arabia",
+   "type": "member_of",
+   "detail": "Prince Sultan is a Saudi official meeting the US Ambassador.",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "AMBASSADOR'S SCHEDULED MEETING WITH PRINCE SULTAN ON MAY 30"
+  }
+ ],
+ "sources_cited": [
+  "US State Department cable STATE 100503, 29 May 1999"
+ ],
+ "key_claims": [
+  "The US had reliable information that bin Ladin was planning near-term attacks on US facilities in the Arabian Peninsula, Africa, South Asia and/or Southeast Asia.",
+  "Despite Taliban assurances, bin Ladin and his network were operating freely in Afghanistan.",
+  "The US warned it would hold the Taliban directly responsible for any bin Ladin attack and reserved the right to pre-empt or retaliate.",
+  "The US demanded the Taliban expel bin Ladin to a third country for justice.",
+  "The US asked the UAE and Saudi Arabia to withdraw Ariana Airlines landing rights because bin Ladin uses it for operations.",
+  "The US asked Saudi Arabia to urge Pakistan to press the Taliban over bin Ladin."
+ ]
+}

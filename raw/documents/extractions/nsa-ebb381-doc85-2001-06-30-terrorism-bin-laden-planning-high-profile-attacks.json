@@ -1,0 +1,165 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc85-2001-06-30-terrorism-bin-laden-planning-high-profile-attacks",
+  "title": "Terrorism: Bin Laden Planning High Profile Attacks [Excised]",
+  "authors": "Central Intelligence Agency (Senior Executive Intelligence Brief)",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "2001-06-30",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7xl1-j1w1s/2001-06-30-terrorism-bin-laden-planning-high.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 1,
+  "kind": "briefing",
+  "note": "One of the SEIBs from June-September 2001 warning of imminent al-Qaeda attacks. Cited in 9/11 Commission Report, Chapter 8, Endnote 12.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 85",
+  "relevance": "high",
+  "ocr": 0
+ },
+ "persons": [
+  {
+   "name": "Usama Bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Usama bin Laden"
+   ],
+   "role": "Leader of the organization whose operatives were planning high-profile attacks",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Arabian Peninsula"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Operatives linked to Usama Bin Ladin's organization expect the near-term attacks they are planning to have dramatic consequences"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "al-Qa'ida",
+   "aliases": [
+    "al-Qaeda",
+    "Usama Bin Ladin's organization"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Brief describes operatives linked to Bin Ladin's organization planning near-term high-profile attacks with major casualties; text heavily excised."
+  },
+  {
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Author of the Senior Executive Intelligence Brief dated 30 June 2001."
+  }
+ ],
+ "places": [
+  {
+   "name": "Arabian Peninsula",
+   "type": "region",
+   "country": "",
+   "parent": "",
+   "significance": "Mentioned as a likely venue for an anti-US attack."
+  },
+  {
+   "name": "Europe",
+   "type": "region",
+   "country": "",
+   "parent": "",
+   "significance": "Attacks in Europe also could occur."
+  }
+ ],
+ "events": [
+  {
+   "date": "2001-06-30",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA Senior Executive Intelligence Brief warns that Bin Ladin-linked operatives are planning high-profile attacks expected to have dramatic consequences.",
+   "place": "",
+   "actors": [
+    "Central Intelligence Agency",
+    "Usama Bin Ladin"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-06-30",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA Senior Executive Intelligence Brief warns that operatives linked to Bin Ladin's organization are planning high-profile attacks with dramatic consequences and major casualties in the near term.",
+   "place": "",
+   "actors": [
+    "Central Intelligence Agency",
+    "Usama Bin Ladin",
+    "al-Qa'ida"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-06-30",
+   "date_precision": "day",
+   "type": "other",
+   "description": "The brief identifies the Arabian Peninsula as a likely venue for an anti-US attack, with a possible attack in Europe also noted.",
+   "place": "Arabian Peninsula; Europe",
+   "actors": [
+    "Usama Bin Ladin",
+    "al-Qa'ida"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Usama Bin Ladin",
+   "target": "al-Qa'ida",
+   "type": "leads",
+   "detail": "Operatives are described as linked to Bin Ladin's organization.",
+   "date": "2001-06-30",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Operatives linked to Usama Bin Ladin's organization"
+  },
+  {
+   "source": "al-Qa'ida",
+   "target": "Arabian Peninsula",
+   "type": "other",
+   "detail": "The Arabian Peninsula is identified as a likely venue for an anti-US attack by Bin Ladin-linked operatives (text partly excised).",
+   "date": "2001-06-30",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "rabian Peninsula as a like! venue 'Or an anti-US"
+  },
+  {
+   "source": "al-Qa'ida",
+   "target": "Europe",
+   "type": "other",
+   "detail": "The brief says an attack in Europe also could occur (text partly excised).",
+   "date": "2001-06-30",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Europe also could occur."
+  }
+ ],
+ "sources_cited": [
+  "CIA Senior Executive Intelligence Brief, 30 June 2001"
+ ],
+ "key_claims": [
+  "Operatives linked to Bin Ladin's organization expected their planned near-term attacks to have dramatic consequences.",
+  "The Arabian Peninsula was assessed as a likely venue for an anti-US attack.",
+  "Attacks in Europe also could occur."
+ ]
+}

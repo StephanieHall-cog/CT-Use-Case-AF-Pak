@@ -1,0 +1,153 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc105-2002-12-06-fraudulently-acquired-saudi-passports-facilitates",
+  "title": "Fraudulently Acquired Saudi Passports Facilitates Al Qa'ida Travel",
+  "authors": "CIA",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "2002-12-06",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7xqj-swjpt/2002-12-06-fraudulently-acquired-saudi-passports.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 2,
+  "kind": "report",
+  "note": "CIA analytic report on fraudulently acquired Saudi passports facilitating al-Qaeda travel. Source: Chapter 12, Endnote 32.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 105",
+  "relevance": "medium",
+  "ocr": 0
+ },
+ "persons": [],
+ "organizations": [
+  {
+   "name": "Al-Qa'ida",
+   "aliases": [
+    "al-Qaeda",
+    "Al Qa'ida"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Uses fraudulently acquired Saudi passports to document operatives and facilitate international travel."
+  },
+  {
+   "name": "DCI Counterterrorist Center",
+   "aliases": [
+    "CIA Counterterrorist Center",
+    "CTC"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Central Intelligence Agency"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Prepared the report; the OCR reads 'Dr.I Cnuoterterrorist Center'."
+  },
+  {
+   "name": "Saudi Government",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Saudi Arabia",
+   "notes": "Began a transition to new-style, more tamper-resistant passports in late 2001."
+  }
+ ],
+ "places": [
+  {
+   "name": "Saudi Arabia",
+   "type": "country",
+   "country": "Saudi Arabia",
+   "parent": "",
+   "significance": "Issuer of passports that are lost, stolen or fraudulently acquired and used by al-Qa'ida."
+  }
+ ],
+ "events": [
+  {
+   "date": "2001",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Saudi Government began a transition to new-style passports that are harder to fraudulently issue or alter.",
+   "place": "Saudi Arabia",
+   "actors": [
+    "Saudi Government"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "2002-12-06",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA DCI Counterterrorist Center report on fraudulently acquired Saudi passports facilitating al-Qa'ida travel.",
+   "place": "",
+   "actors": [
+    "DCI Counterterrorist Center"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Saudi Government began transition to new-style passports that are harder to fraudulently issue or alter, in response to the fraud problem.",
+   "place": "Saudi Arabia",
+   "actors": [
+    "Saudi Government"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "2002-12-06",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "DCI Counterterrorist Center report on fraudulently acquired Saudi passports facilitating Al-Qa'ida travel.",
+   "place": "",
+   "actors": [
+    "DCI Counterterrorist Center",
+    "Al-Qa'ida"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Al-Qa'ida",
+   "target": "Saudi Arabia",
+   "type": "other",
+   "detail": "Al-Qa'ida uses fraudulently acquired Saudi passports to document operatives and facilitate international travel.",
+   "date": "2002-12-06",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Al-Qa'ida uses fraudulently acquired Saudi passports to. document it.: nneratives and facilitate international travel!"
+  },
+  {
+   "source": "DCI Counterterrorist Center",
+   "target": "Al-Qa'ida",
+   "type": "other",
+   "detail": "The DCI Counterterrorist Center prepared this report assessing Al-Qa'ida's use of fraudulent Saudi passports.",
+   "date": "2002-12-06",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "This renort was nrenared bv the Dr.I Cnuoterterrorist Center"
+  },
+  {
+   "source": "Saudi Government",
+   "target": "Saudi Arabia",
+   "type": "other",
+   "detail": "The Saudi Government issues the passports in question and began a transition to new-style passports.",
+   "date": "2001",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "late 2001, the Saudi Government began a transition to new style passports"
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "Al-Qa'ida uses fraudulently acquired Saudi passports to document operatives and facilitate international travel.",
+  "Some Saudi passports are stolen, and others are issued to terrorists under false pretenses.",
+  "Forgers fraudulently issue or alter passports to create false identities and impersonate other citizens.",
+  "Thousands of Saudi passports were lost or stolen in recent years.",
+  "Saudi blank passports are especially problematic because they lack the document control number used to track them before issuance.",
+  "In late 2001 Saudi Arabia began moving to new-style passports that are harder to fraudulently issue or alter."
+ ]
+}

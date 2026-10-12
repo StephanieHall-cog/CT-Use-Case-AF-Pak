@@ -1,0 +1,248 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc34-1998-11-24-excised-options-for-attacking-the-usama-bin-ladin",
+  "title": "[Excised] Options for Attacking the Usama Bin Ladin Problem",
+  "authors": "Central Intelligence Agency",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "1998-11-24",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7x7g-tbo1k/1998-11-24-excised-options-for-attacking-the.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 5,
+  "kind": "briefing",
+  "note": "CIA talking points on options for attacking the bin Laden problem. Cited in 9/11 Commission Report Chapter 4, Endnote 121.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 34",
+  "relevance": "high",
+  "ocr": 0
+ },
+ "persons": [
+  {
+   "name": "Usama Bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Bin Ladin",
+    "UBL"
+   ],
+   "role": "Target of US policy options; shuffles among residences in Afghanistan",
+   "organizations": [],
+   "nationality_or_origin": "",
+   "status": "alive",
+   "status_detail": "Alive at the time of the 24 Nov 1998 memo",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "Options for Attacking the Usama Bin Ladin Problem"
+    },
+    {
+     "timestamp": "p.3",
+     "quote": "the residences Bin Ladin is shuffling among"
+    }
+   ]
+  },
+  {
+   "name": "Masood",
+   "aliases": [
+    "Ahmad Shah Massoud",
+    "Ahmad Shah Masoud"
+   ],
+   "role": "Opposition figure with an agent network; possible partner for operations against Bin Ladin (text heavily excised)",
+   "organizations": [],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.4",
+     "quote": "Masood agents/operatives might be able"
+    },
+    {
+     "timestamp": "p.4",
+     "quote": "he has an agent network"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA",
+    "the Agency"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Author of the memo; works with tribal assets and supplies target locations to the military"
+  },
+  {
+   "name": "Taliban",
+   "aliases": [],
+   "type": "political movement",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Taliban security forces near Bin Ladin's location could be alerted during a raid"
+  },
+  {
+   "name": "US military",
+   "aliases": [],
+   "type": "military",
+   "parent_or_allies": [
+    "United States"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Option to strike Bin Ladin's residences with simultaneous cruise missile attacks"
+  },
+  {
+   "name": "Tribals",
+   "aliases": [
+    "tribal assets",
+    "tribal clans"
+   ],
+   "type": "other",
+   "parent_or_allies": [
+    "Central Intelligence Agency"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "CIA tribal assets considered for a capture raid; they prefer a raid on a single house to an ambush"
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Bin Ladin is moving among residences protected by Taliban forces; location implied, text excised"
+  }
+ ],
+ "events": [
+  {
+   "date": "1998-11-24",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA memo laying out policy options for dealing with Usama Bin Ladin: continue the current plan, a tribal capture raid, a US military cruise missile strike, and other options.",
+   "place": "",
+   "actors": [
+    "Central Intelligence Agency"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1998-11-24",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA paper circulated setting out the range of options available to US policymakers for addressing the Usama Bin Ladin problem: continue current plan, tribal raid, ambush, cruise missile strike, and others.",
+   "place": "",
+   "actors": [
+    "Central Intelligence Agency",
+    "Usama Bin Ladin"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1998-11",
+   "date_precision": "month",
+   "type": "other",
+   "detail": "",
+   "description": "Option for simultaneous US military cruise missile strikes on residences among which Bin Ladin shuffles, with the CIA providing location data.",
+   "place": "Afghanistan",
+   "actors": [
+    "US military",
+    "Central Intelligence Agency",
+    "Usama Bin Ladin"
+   ],
+   "timestamp": "p.3"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Central Intelligence Agency",
+   "target": "US military",
+   "type": "other",
+   "detail": "CIA is giving the military the locations of residences among which Bin Ladin is shuffling.",
+   "date": "1998-11",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "We are providing the military with the locations of the residences Bin Ladin is shuffling among"
+  },
+  {
+   "source": "Tribals",
+   "target": "Central Intelligence Agency",
+   "type": "other",
+   "detail": "Tribal assets are described as CIA assets for a possible raid on Bin Ladin.",
+   "date": "1998-11",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "The assets, for example, believe they can better control the operational setting"
+  },
+  {
+   "source": "Taliban",
+   "target": "Usama Bin Ladin",
+   "type": "other",
+   "detail": "Taliban security forces are near Bin Ladin's locations and could be alerted during a raid; implies protection.",
+   "date": "1998-11",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "decreasing the chance that nearby Taliban security forces will be alerted"
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "Usama Bin Ladin",
+   "type": "other",
+   "detail": "The CIA's current plan is to continue efforts to bring Bin Ladin to justice; the paper weighs options for attacking him.",
+   "date": "1998-11-24",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "contin~ to~ to brjng B\n Ladiri. toju~tice."
+  },
+  {
+   "source": "Tribals",
+   "target": "Usama Bin Ladin",
+   "type": "other",
+   "detail": "The tribals would carry out an operation (raid or ambush) against Bin Ladin.",
+   "date": "1998-11",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "They also believe that a raid ~s a bett~r chance than an ambush of being executed"
+  },
+  {
+   "source": "Tribals",
+   "target": "Taliban",
+   "type": "rival_of",
+   "detail": "The tribals prefer a quiet raid to reduce the chance that nearby Taliban security forces are alerted.",
+   "date": "1998-11",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "decmasing the chance that nea~y Taliban security forces will be alerted"
+  },
+  {
+   "source": "Masood",
+   "target": "Central Intelligence Agency",
+   "type": "other",
+   "detail": "Masood has an agent network whose operatives might assist in capturing Bin Ladin and offer the CIA new options (garbled text).",
+   "date": "1998-11",
+   "confidence": "inferred",
+   "timestamp": "p.4",
+   "quote": "asood agents/operatives migll( be· a~le."
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "In November 1998 the CIA saw its current plan to bring Bin Ladin to justice as reactive and unlikely to succeed.",
+  "The CIA's tribal assets preferred a raid on a single house to an ambush on a convoy because it was less likely to alert nearby Taliban security forces.",
+  "A simultaneous cruise missile strike on Bin Ladin's residences was seen as having a high chance of success if he was in one of them, but high risk to noncombatants.",
+  "The memo shows a US military strike option, and possible use of Masood's agent network, were under consideration."
+ ]
+}

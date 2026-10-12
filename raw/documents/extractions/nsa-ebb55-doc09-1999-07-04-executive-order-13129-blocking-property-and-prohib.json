@@ -1,0 +1,751 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb55-doc09-1999-07-04-executive-order-13129-blocking-property-and-prohib",
+  "title": "Executive Order 13129, Blocking Property and Prohibiting Transactions With the Taliban",
+  "authors": "President Bill Clinton",
+  "publisher": "National Security Archive (GWU), Terrorism and U.S. Policy",
+  "published": "1999-07-04",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB55/eo13129.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB55/index1.html",
+  "pages": 5,
+  "kind": "other",
+  "note": "[Unclassified] Blocks assets and transactions connected to the Taliban, which controlled most of Afghanistan. It notes the Taliban provides safe haven to Usama bin Ladin and Al-Qaida, who have committed and threaten acts of violence against the U.S., and declares this an extraordinary threat to U.S. national security. Federal Register Vol. 64, No. 129.",
+  "collection": "NSAEBB55",
+  "doc_number": "Section V, Document 9",
+  "relevance": "high",
+  "ocr": 2
+ },
+ "persons": [
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Usama bin Laden"
+   ],
+   "role": "Leader of the Al-Qaida organization, given safe haven and base of operations in Taliban-held Afghanistan",
+   "organizations": [
+    "Al-Qaida"
+   ],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.3",
+     "quote": "allowing territory under its control in Afghanistan to be used as a safe haven and base of operations for Usama bin Ladin and the Al-Qaida organization"
+    }
+   ]
+  },
+  {
+   "name": "Mohammed Omar",
+   "aliases": [
+    "Mullah Mohammed Omar",
+    "Mullah Omar",
+    "Amir al-Mumineen"
+   ],
+   "role": "Taliban leader, Amir al-Mumineen (Commander of the Faithful); listed in the Annex as a Taliban leader whose property is blocked",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Kandahar",
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.5",
+     "quote": "Mohammed Omar (Amir al-Mumineen [Commander of the Faithful]);"
+    }
+   ]
+  },
+  {
+   "name": "William J. Clinton",
+   "aliases": [
+    "Bill Clinton"
+   ],
+   "role": "President of the United States; issued the order and declared a national emergency",
+   "organizations": [
+    "United States Government"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "United States"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.3",
+     "quote": "I, WILLIAM J. CLINTON, President of the United States of America, find that the actions and policies of the Taliban"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Taliban",
+   "aliases": [
+    "Taleban",
+    "Islamic Movement of Taliban",
+    "the Taliban Islamic Movement",
+    "Talibano Islami Tahrik",
+    "Tahrike Islami'a Taliban"
+   ],
+   "type": "political movement",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Defined as the political/military entity headquartered in Kandahar exercising de facto control over much of Afghanistan; assets blocked under the order."
+  },
+  {
+   "name": "Al-Qaida",
+   "aliases": [
+    "Al-Qaeda",
+    "Al-Qa'ida"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Said to have committed and threatened to continue acts of violence against the US and its nationals, using Taliban territory as base."
+  },
+  {
+   "name": "Islamic Emirate of Afghanistan",
+   "aliases": [
+    "de Afghanistan Islami Emarat",
+    "Emarat Islami-e Afghanistan"
+   ],
+   "type": "political movement",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Name of the territory controlled by the Taliban."
+  },
+  {
+   "name": "United States Department of the Treasury",
+   "aliases": [
+    "Secretary of the Treasury"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Authorized to implement the order and designate persons."
+  },
+  {
+   "name": "United States Department of State",
+   "aliases": [
+    "Secretary of State"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Consults on designations; may modify the description of Taliban-controlled territory."
+  },
+  {
+   "name": "United States Department of Justice",
+   "aliases": [
+    "Attorney General"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Consulted on designations."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Territory used as safe haven for bin Ladin and Al-Qaida; Taliban-controlled areas subject to sanctions"
+  },
+  {
+   "name": "Kandahar",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Kandahar province",
+   "significance": "Taliban headquarters; also listed province"
+  },
+  {
+   "name": "Farah",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Listed as Taliban-controlled"
+  },
+  {
+   "name": "Helmund",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Listed as Taliban-controlled"
+  },
+  {
+   "name": "Nimruz",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Listed as Taliban-controlled"
+  },
+  {
+   "name": "Herat",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Listed as Taliban-controlled"
+  },
+  {
+   "name": "Badghis",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Listed as Taliban-controlled"
+  },
+  {
+   "name": "Ghowr",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Listed as Taliban-controlled"
+  },
+  {
+   "name": "Oruzghon",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Listed as Taliban-controlled"
+  },
+  {
+   "name": "Zabol",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Listed as Taliban-controlled"
+  },
+  {
+   "name": "Paktiha",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Listed as Taliban-controlled"
+  },
+  {
+   "name": "Ghazni",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Listed as Taliban-controlled"
+  },
+  {
+   "name": "Nangarhar",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Listed as Taliban-controlled"
+  },
+  {
+   "name": "Lowgar",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Listed as Taliban-controlled"
+  },
+  {
+   "name": "Vardan",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Listed as Taliban-controlled"
+  },
+  {
+   "name": "Faryab",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Listed as Taliban-controlled"
+  },
+  {
+   "name": "Jowlan",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Listed as Taliban-controlled"
+  },
+  {
+   "name": "Balkh",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Listed as Taliban-controlled"
+  },
+  {
+   "name": "Paktika",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Listed as Taliban-controlled"
+  }
+ ],
+ "events": [
+  {
+   "date": "1999-07-04",
+   "date_precision": "day",
+   "type": "designation",
+   "description": "President Clinton signs Executive Order 13129 declaring a national emergency and blocking Taliban property and prohibiting transactions.",
+   "place": "United States",
+   "actors": [
+    "William J. Clinton",
+    "Taliban"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1999-07-06",
+   "date_precision": "day",
+   "type": "other",
+   "description": "Executive Order 13129 takes effect at 12:01 a.m. EDT.",
+   "place": "United States",
+   "actors": [
+    "William J. Clinton"
+   ],
+   "timestamp": "p.5"
+  },
+  {
+   "date": "1999-07-07",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Order published in the Federal Register, Vol. 64, No. 129.",
+   "place": "United States",
+   "actors": [
+    "William J. Clinton"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1999-07-04",
+   "date_precision": "day",
+   "type": "designation",
+   "description": "President Clinton signs Executive Order 13129 declaring a national emergency over the Taliban's harboring of Bin Ladin and Al-Qaida, and blocking Taliban property and prohibiting transactions.",
+   "place": "Washington, D.C. (The White House)",
+   "actors": [
+    "William J. Clinton",
+    "Taliban",
+    "Usama bin Ladin",
+    "Al-Qaida"
+   ],
+   "timestamp": "p.5"
+  },
+  {
+   "date": "1999-07-06",
+   "date_precision": "day",
+   "type": "designation",
+   "description": "Executive Order 13129 takes effect at 12:01 a.m. EDT.",
+   "place": "United States",
+   "actors": [
+    "William J. Clinton",
+    "United States Department of the Treasury"
+   ],
+   "timestamp": "p.5"
+  },
+  {
+   "date": "1999-07-07",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Executive Order 13129 published in the Federal Register (Vol. 64, No. 129).",
+   "place": "United States",
+   "actors": [
+    "William J. Clinton"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1999-07-04",
+   "date_precision": "day",
+   "type": "designation",
+   "description": "Mohammed Omar, styled Amir al-Mumineen, listed in the Annex as a designated Taliban leader.",
+   "place": "Afghanistan",
+   "actors": [
+    "Mohammed Omar",
+    "Taliban"
+   ],
+   "timestamp": "p.5"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Usama bin Ladin",
+   "target": "Taliban",
+   "type": "sheltered_by",
+   "detail": "The order finds the Taliban allowed territory it controls to serve as safe haven and base for bin Ladin and Al-Qaida.",
+   "date": "1999",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "allowing territory under its control in Afghanistan to be used as a safe haven and base of operations for Usama bin Ladin and the Al-Qaida organization"
+  },
+  {
+   "source": "Al-Qaida",
+   "target": "Taliban",
+   "type": "sheltered_by",
+   "detail": "Al-Qaida given safe haven and base of operations in Taliban-controlled territory.",
+   "date": "1999",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "safe haven and base of operations for Usama bin Ladin and the Al-Qaida organization"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Al-Qaida",
+   "type": "leads",
+   "detail": "Bin Ladin is linked with the Al-Qaida organization as its figure of concern.",
+   "date": "1999",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "Usama bin Ladin and the Al-Qaida organization who have committed and threaten to continue to commit acts of violence"
+  },
+  {
+   "source": "Mohammed Omar",
+   "target": "Taliban",
+   "type": "leads",
+   "detail": "Annex lists Mohammed Omar as Amir al-Mumineen among Taliban leaders.",
+   "date": "1999",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "Mohammed Omar (Amir al-Mumineen [Commander of the Faithful]);"
+  },
+  {
+   "source": "Taliban",
+   "target": "Kandahar",
+   "type": "located_in",
+   "detail": "Taliban political/military entity is headquartered in Kandahar.",
+   "date": "1999",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "the political/military entity headquartered in Kandahar, Afghanistan that as of the date of this order exercises de facto control"
+  },
+  {
+   "source": "Taliban",
+   "target": "Usama bin Ladin",
+   "type": "sheltered_by",
+   "detail": "Taliban allowed territory under its control to serve as a safe haven and base of operations for Usama bin Ladin (direction note: Bin Ladin is the recipient of shelter from the Taliban).",
+   "date": "1999-07-04",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "allowing territory under its control in Afghanistan to be used as a safe haven and base of operations for Usama bin Ladin and the Al-Qaida organization"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Taliban",
+   "type": "sheltered_by",
+   "detail": "Bin Ladin was given safe haven and a base of operations in Taliban-controlled Afghanistan.",
+   "date": "1999-07-04",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "safe haven and base of operations for Usama bin Ladin and the Al-Qaida organization"
+  },
+  {
+   "source": "Al-Qaida",
+   "target": "Taliban",
+   "type": "sheltered_by",
+   "detail": "Al-Qaida was given safe haven and a base of operations in Taliban-controlled territory.",
+   "date": "1999-07-04",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "safe haven and base of operations for Usama bin Ladin and the Al-Qaida organization"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Al-Qaida",
+   "type": "member_of",
+   "detail": "Bin Ladin is named together with the Al-Qaida organization as responsible for violence against the US.",
+   "date": "1999-07-04",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "Usama bin Ladin and the Al-Qaida organization who have committed and threaten to continue to commit acts of violence"
+  },
+  {
+   "source": "Mohammed Omar",
+   "target": "Taliban",
+   "type": "leads",
+   "detail": "Annex lists Mohammed Omar as Amir al-Mumineen among the Taliban leaders.",
+   "date": "1999-07-04",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "Mohammed Omar (Amir al-Mumineen [Commander of the Faithful]);"
+  },
+  {
+   "source": "Mohammed Omar",
+   "target": "Islamic Emirate of Afghanistan",
+   "type": "leads",
+   "detail": "Omar, Commander of the Faithful, heads the Taliban entity that governs the Islamic Emirate territory (inferred).",
+   "date": "1999-07-04",
+   "confidence": "inferred",
+   "timestamp": "p.5",
+   "quote": "Mohammed Omar (Amir al-Mumineen [Commander of the Faithful]);"
+  },
+  {
+   "source": "Taliban",
+   "target": "Kandahar",
+   "type": "located_in",
+   "detail": "The Taliban is headquartered in Kandahar.",
+   "date": "1999-07-04",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "political/military entity headquartered in Kandahar, Afghanistan"
+  },
+  {
+   "source": "Taliban",
+   "target": "Islamic Emirate of Afghanistan",
+   "type": "leads",
+   "detail": "The Taliban exercises de facto control over the territory called the Islamic Emirate of Afghanistan.",
+   "date": "1999-07-04",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "exercises de facto control over the territory of Afghanistan described in paragraph (d)"
+  },
+  {
+   "source": "Islamic Emirate of Afghanistan",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "The Islamic Emirate is the territory in Afghanistan controlled by the Taliban.",
+   "date": "1999-07-04",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "the territory referred to as the 'Islamic Emirate of Afghanistan,'"
+  },
+  {
+   "source": "Kandahar",
+   "target": "Islamic Emirate of Afghanistan",
+   "type": "located_in",
+   "detail": "Kandahar province listed within Taliban-controlled territory.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "including the following provinces of the country of Afghanistan: Kandahar, Farah, Helmund"
+  },
+  {
+   "source": "Farah",
+   "target": "Islamic Emirate of Afghanistan",
+   "type": "located_in",
+   "detail": "Province listed as Taliban-controlled.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "Kandahar, Farah, Helmund, Nimruz, Herat"
+  },
+  {
+   "source": "Helmund",
+   "target": "Islamic Emirate of Afghanistan",
+   "type": "located_in",
+   "detail": "Province listed as Taliban-controlled.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "Kandahar, Farah, Helmund, Nimruz, Herat"
+  },
+  {
+   "source": "Nimruz",
+   "target": "Islamic Emirate of Afghanistan",
+   "type": "located_in",
+   "detail": "Province listed as Taliban-controlled.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "Helmund, Nimruz, Herat, Badghis, Ghowr"
+  },
+  {
+   "source": "Herat",
+   "target": "Islamic Emirate of Afghanistan",
+   "type": "located_in",
+   "detail": "Province listed as Taliban-controlled.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "Nimruz, Herat, Badghis, Ghowr, Oruzghon"
+  },
+  {
+   "source": "Badghis",
+   "target": "Islamic Emirate of Afghanistan",
+   "type": "located_in",
+   "detail": "Province listed as Taliban-controlled.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "Herat, Badghis, Ghowr, Oruzghon, Zabol"
+  },
+  {
+   "source": "Ghowr",
+   "target": "Islamic Emirate of Afghanistan",
+   "type": "located_in",
+   "detail": "Province listed as Taliban-controlled.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "Badghis, Ghowr, Oruzghon, Zabol, Paktiha"
+  },
+  {
+   "source": "Oruzghon",
+   "target": "Islamic Emirate of Afghanistan",
+   "type": "located_in",
+   "detail": "Province listed as Taliban-controlled.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "Ghowr, Oruzghon, Zabol, Paktiha, Ghazni"
+  },
+  {
+   "source": "Zabol",
+   "target": "Islamic Emirate of Afghanistan",
+   "type": "located_in",
+   "detail": "Province listed as Taliban-controlled.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "Oruzghon, Zabol, Paktiha, Ghazni, Nangarhar"
+  },
+  {
+   "source": "Paktiha",
+   "target": "Islamic Emirate of Afghanistan",
+   "type": "located_in",
+   "detail": "Province listed as Taliban-controlled.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "Zabol, Paktiha, Ghazni, Nangarhar, Lowgar"
+  },
+  {
+   "source": "Ghazni",
+   "target": "Islamic Emirate of Afghanistan",
+   "type": "located_in",
+   "detail": "Province listed as Taliban-controlled.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "Paktiha, Ghazni, Nangarhar, Lowgar, Vardan"
+  },
+  {
+   "source": "Nangarhar",
+   "target": "Islamic Emirate of Afghanistan",
+   "type": "located_in",
+   "detail": "Province listed as Taliban-controlled.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "Ghazni, Nangarhar, Lowgar, Vardan, Faryab"
+  },
+  {
+   "source": "Lowgar",
+   "target": "Islamic Emirate of Afghanistan",
+   "type": "located_in",
+   "detail": "Province listed as Taliban-controlled.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "Nangarhar, Lowgar, Vardan, Faryab, Jowlan"
+  },
+  {
+   "source": "Vardan",
+   "target": "Islamic Emirate of Afghanistan",
+   "type": "located_in",
+   "detail": "Province listed as Taliban-controlled.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "Lowgar, Vardan, Faryab, Jowlan, Balkh"
+  },
+  {
+   "source": "Faryab",
+   "target": "Islamic Emirate of Afghanistan",
+   "type": "located_in",
+   "detail": "Province listed as Taliban-controlled.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "Vardan, Faryab, Jowlan, Balkh, and Paktika"
+  },
+  {
+   "source": "Jowlan",
+   "target": "Islamic Emirate of Afghanistan",
+   "type": "located_in",
+   "detail": "Province listed as Taliban-controlled.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "Faryab, Jowlan, Balkh, and Paktika"
+  },
+  {
+   "source": "Balkh",
+   "target": "Islamic Emirate of Afghanistan",
+   "type": "located_in",
+   "detail": "Province listed as Taliban-controlled.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "Jowlan, Balkh, and Paktika"
+  },
+  {
+   "source": "Paktika",
+   "target": "Islamic Emirate of Afghanistan",
+   "type": "located_in",
+   "detail": "Province listed as Taliban-controlled.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "Jowlan, Balkh, and Paktika"
+  },
+  {
+   "source": "William J. Clinton",
+   "target": "Taliban",
+   "type": "other",
+   "detail": "Clinton declared a national emergency and blocked Taliban property.",
+   "date": "1999-07-04",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "all property and interests in property of the Taliban; and"
+  },
+  {
+   "source": "United States Department of the Treasury",
+   "target": "Taliban",
+   "type": "other",
+   "detail": "Treasury Secretary, in consultation with State and Justice, determines persons whose property is blocked as Taliban-linked and implements the order.",
+   "date": "1999-07-04",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "persons determined by the Secretary of the Treasury, in consultation with the Secretary of State and the Attorney General"
+  },
+  {
+   "source": "United States Department of State",
+   "target": "Taliban",
+   "type": "other",
+   "detail": "Secretary of State may designate additional Taliban leaders and modify the territory description.",
+   "date": "1999-07-04",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "Taliban leaders listed in the Annex to this order or designated by the Secretary of State"
+  },
+  {
+   "source": "United States Department of Justice",
+   "target": "Taliban",
+   "type": "other",
+   "detail": "Attorney General is consulted on designations of Taliban leaders and affiliated persons.",
+   "date": "1999-07-04",
+   "confidence": "inferred",
+   "timestamp": "p.4",
+   "quote": "in consultation with the Secretary of the Treasury and the Attorney General"
+  }
+ ],
+ "sources_cited": [
+  "International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)",
+  "National Emergencies Act (50 U.S.C. 1601 et seq.)",
+  "Section 301 of title 3, United States Code"
+ ],
+ "key_claims": [
+  "The Taliban allowed territory under its control in Afghanistan to serve as a safe haven and base of operations for Usama bin Ladin and Al-Qaida.",
+  "The US declared a national emergency treating Taliban policies as an extraordinary threat to national security and foreign policy.",
+  "Taliban property and that of persons acting for or supporting it was blocked, and US transactions with Taliban-held territory were prohibited.",
+  "The order defines the Taliban as the Kandahar-headquartered political/military entity with de facto control over the Islamic Emirate of Afghanistan.",
+  "Mohammed Omar, styled Amir al-Mumineen, is the only Taliban leader named in the Annex.",
+  "Commercial sales of agricultural goods and medicine to Taliban-held areas were to be authorized with safeguards against diversion."
+ ]
+}

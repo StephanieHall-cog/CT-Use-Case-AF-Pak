@@ -1,0 +1,252 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc17-1997-02-13-terrorism-possible-islamic-army-foreknowledge-of-a",
+  "title": "Terrorism: Possible Islamic Army Foreknowledge of an Egyptian Operation and Logistical and Security Assistance Provided for the Attackers",
+  "authors": "CIA",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "1997-02-13",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7wuu-jeagl/1997-02-13-terrorism-possible-islamic-army.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 4,
+  "kind": "intelligence report",
+  "note": "CIA Intelligence Report on possible Islamic Army foreknowledge of an Egyptian operation and on logistical and security assistance given to the attackers. Source: 9/11 Commission Report, Chapter 2, Endnote 56.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 17",
+  "relevance": "high",
+  "ocr": 2
+ },
+ "persons": [
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Usama bin Ladin",
+    "Usama Bin Ladin"
+   ],
+   "role": "Figure who discussed mounting an operation against the Egyptian government before the June 1995 assassination attempt",
+   "organizations": [],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Sudan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "OPERATION AGAINST THE EGYPTIAN GOVERNMENT."
+    }
+   ]
+  },
+  {
+   "name": "Husni Mubarak",
+   "aliases": [
+    "Mubarak",
+    "Hosni Mubarak"
+   ],
+   "role": "Egyptian president; target of the June 1995 assassination attempt in Ethiopia",
+   "organizations": [
+    "Egyptian government"
+   ],
+   "nationality_or_origin": "Egyptian",
+   "status": "unknown",
+   "status_detail": "survived the June 1995 attempt",
+   "family": [],
+   "locations": [
+    "Ethiopia",
+    "Egypt"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "EGYPTIAN PRESIDENT (MUBARAK) BY THE EGYPTIAN AL-GAMA'AT AL-ISLAMIYYA (IG) IN ETHIOPIA"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "al-Gama'at al-Islamiyya",
+   "aliases": [
+    "IG",
+    "Egyptian Islamic Group",
+    "al-Jama'a al-Islamiyya"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [
+    "Egyptian government"
+   ],
+   "country_base": "Egypt",
+   "notes": "Carried out the June 1995 attempted assassination of Mubarak in Ethiopia."
+  },
+  {
+   "name": "Islamic Army",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Named in the subject line as possibly having foreknowledge of an 'Egyptian operation' and providing logistical and security help to the attackers. The text is heavily redacted."
+  },
+  {
+   "name": "Egyptian government",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [
+    "al-Gama'at al-Islamiyya"
+   ],
+   "country_base": "Egypt",
+   "notes": "Target of the operation discussed."
+  }
+ ],
+ "places": [
+  {
+   "name": "Sudan",
+   "type": "country",
+   "country": "Sudan",
+   "parent": "",
+   "significance": "Country tag of the report"
+  },
+  {
+   "name": "Egypt",
+   "type": "country",
+   "country": "Egypt",
+   "parent": "",
+   "significance": "Country tag of the report; target government"
+  },
+  {
+   "name": "Ethiopia",
+   "type": "country",
+   "country": "Ethiopia",
+   "parent": "",
+   "significance": "Site of the June 1995 attempted assassination of Mubarak"
+  }
+ ],
+ "events": [
+  {
+   "date": "1995-06",
+   "date_precision": "month",
+   "type": "attack",
+   "description": "Attempted assassination of Egyptian President Mubarak by al-Gama'at al-Islamiyya in Ethiopia.",
+   "place": "Ethiopia",
+   "actors": [
+    "al-Gama'at al-Islamiyya",
+    "Husni Mubarak"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "approx 1995",
+   "date_precision": "approx",
+   "type": "meeting",
+   "description": "Before the June 1995 attempt, Usama bin Ladin discussed mounting an operation against the Egyptian government.",
+   "place": "",
+   "actors": [
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1997-02-13",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Date of the intelligence information report.",
+   "place": "",
+   "actors": [],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "before 1995-06",
+   "date_precision": "approx",
+   "type": "meeting",
+   "description": "Bin Ladin discussed mounting an operation against the Egyptian government before the assassination attempt. The text does not name who took part in the discussion or where it took place.",
+   "place": "",
+   "actors": [
+    "Usama bin Ladin",
+    "Egyptian government"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1997-02-13",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA information report on possible Islamic Army foreknowledge of the Egyptian operation, covering Sudan and Egypt.",
+   "place": "Sudan/Egypt",
+   "actors": [
+    "Islamic Army"
+   ],
+   "timestamp": "p.2"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "al-Gama'at al-Islamiyya",
+   "target": "Husni Mubarak",
+   "type": "other",
+   "detail": "Carried out the June 1995 attempted assassination of Mubarak in Ethiopia.",
+   "date": "1995-06",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "EGYPTIAN AL-GAMA'AT AL-ISLAMIYYA (IG) IN ETHIOPIA"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Egyptian government",
+   "type": "other",
+   "detail": "Bin Ladin discussed mounting an operation against the Egyptian government before the June 1995 attempt.",
+   "date": "1995",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "OPERATION AGAINST THE EGYPTIAN GOVERNMENT."
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Egyptian government",
+   "type": "other",
+   "detail": "Bin Ladin discussed mounting an operation against the Egyptian government before the June 1995 assassination attempt.",
+   "date": "before 1995-06",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "USAMA (BIN LADIN) DISCUSSED MOUNTING AN OPERATION AGAINST THE EGYPTIAN GOVERNMENT."
+  },
+  {
+   "source": "Islamic Army",
+   "target": "al-Gama'at al-Islamiyya",
+   "type": "other",
+   "detail": "The report title suggests the Islamic Army possibly had foreknowledge of the Egyptian operation and provided logistical and security assistance to the attackers. This is a possibility, not a confirmed fact, and the text is heavily redacted.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "POSSIBLE ISLAMIC ARMY FOREKNOWLEDGE OF AN \"EGYPTIAN OPERATION\" AND LOGISTICAL AND SECURITY"
+  },
+  {
+   "source": "Husni Mubarak",
+   "target": "Egypt",
+   "type": "leads",
+   "detail": "Mubarak is identified as Egyptian President.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "EGYPTIAN PRESIDENT HUSNI (MUBARAK)"
+  },
+  {
+   "source": "Egyptian government",
+   "target": "Egypt",
+   "type": "located_in",
+   "detail": "The Egyptian government is the government of Egypt.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "OPERATION AGAINST THE EGYPTIAN GOVERNMENT."
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "The Islamic Army may have known in advance of an 'Egyptian operation' and given logistical and security help to the attackers.",
+  "Before the June 1995 attempt on Mubarak, Usama bin Ladin discussed mounting an operation against the Egyptian government.",
+  "Al-Gama'at al-Islamiyya carried out the June 1995 assassination attempt on Mubarak in Ethiopia."
+ ]
+}

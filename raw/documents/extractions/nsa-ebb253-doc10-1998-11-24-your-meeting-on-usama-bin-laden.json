@@ -1,0 +1,264 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb253-doc10-1998-11-24-your-meeting-on-usama-bin-laden",
+  "title": "Your Meeting on Usama bin Laden",
+  "authors": "Assistant Secretary Karl F. Inderfurth to Secretary of State Madeleine Albright, Department of State",
+  "publisher": "National Security Archive (GWU), 1998 Missile Strikes on Bin Laden May Have Backfired",
+  "published": "1998-11-24",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB253/19981124a.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB253/index.htm",
+  "pages": 3,
+  "kind": "memo",
+  "note": "[Secret] Briefing memorandum outlining key points on bin Laden and how to persuade the Taliban to expel him to a country where he can be brought to justice. The U.S. holds the Taliban responsible, but efforts to get him expelled have been frustrated by his ties to Mullah Omar. Excised.",
+  "collection": "NSAEBB253",
+  "doc_number": "Document 10a",
+  "relevance": "high",
+  "ocr": 3
+ },
+ "persons": [
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Usama Bin Laden",
+    "Osama bin Laden",
+    "UBL"
+   ],
+   "role": "Leader of a terrorist network based in Afghanistan under Taliban protection; target of US efforts to secure his expulsion",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "",
+   "status": "alive",
+   "status_detail": "Alive in Afghanistan as of Nov 1998; US sought his expulsion to a country where he could be brought to justice",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "persuade the Taliban to expel Usama Bin Laden from Afghanistan to a country where he can be brought to justice"
+    },
+    {
+     "timestamp": "p.1",
+     "quote": "Bin Laden and his network continue to threaten U.S. interests."
+    }
+   ]
+  },
+  {
+   "name": "Mullah Omar",
+   "aliases": [
+    "Mullah Muhammad Omar",
+    "Mullah Mohammed Omar"
+   ],
+   "role": "Taliban leader (name truncated or redacted in the OCR text after 'Mullah'; identification inferred)",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "Taliban leader in Nov 1998. The memo says his ties to Bin Laden frustrated efforts to have Bin Laden expelled.",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "frustrated, we believe, by his ties to Taliban leader Mullah"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Taliban",
+   "aliases": [],
+   "type": "political movement",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Held responsible by the US for Bin Laden's activities in Afghanistan. Divided over providing sanctuary to him. Wants more international contacts, especially with the US."
+  },
+  {
+   "name": "Usama bin Ladin's network",
+   "aliases": [
+    "Bin Laden network"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Described as continuing to threaten US interests, with US personnel 'in jeopardy'. Not named as al-Qa'ida in this chunk."
+  },
+  {
+   "name": "US Department of State",
+   "aliases": [
+    "State Department"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Author of the memo. Offices cited: SA (South Asian Affairs), S/CT (Counterterrorism), INR, DS, S/S."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Bin Laden's base under Taliban control; described as a platform for international terrorism"
+  }
+ ],
+ "events": [
+  {
+   "date": "1998-11-24",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "Briefing memorandum prepared for the Secretary of State's meeting on how to persuade the Taliban to expel Bin Laden",
+   "place": "Washington, D.C.",
+   "actors": [
+    "US Department of State",
+    "Usama bin Ladin",
+    "Taliban"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998-11-24",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Assistant Secretary Karl Inderfurth sent a briefing memorandum to the Secretary of State for her meeting on Usama Bin Laden. It sets the goal of persuading the Taliban to expel him from Afghanistan.",
+   "place": "Washington, D.C.",
+   "actors": [
+    "US Department of State",
+    "Usama bin Ladin",
+    "Taliban"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Usama bin Ladin",
+   "target": "Taliban",
+   "type": "sheltered_by",
+   "detail": "Bin Laden is sheltered in Afghanistan by the Taliban, who are divided over providing him sanctuary; the US holds them responsible for his activities.",
+   "date": "1998-11",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "divided on the desirability of providing sanctuary to Bin Laden"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Mullah Omar",
+   "type": "allied_with",
+   "detail": "Bin Laden's ties to the Taliban leader are believed to have frustrated efforts to have him expelled. The leader's name is truncated in the text.",
+   "date": "1998-11",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "frustrated, we believe, by his ties to Taliban leader Mullah"
+  },
+  {
+   "source": "Mullah Omar",
+   "target": "Taliban",
+   "type": "leads",
+   "detail": "Described as the Taliban leader.",
+   "date": "1998-11",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "Taliban leader Mullah"
+  },
+  {
+   "source": "Taliban",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "The memo says the Taliban have not stopped Afghanistan from being a platform for international terrorism, implying they control it.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Taliban have not kept Afghanistan from being a platform for international terrorism."
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Taliban",
+   "type": "sheltered_by",
+   "detail": "Bin Laden is in Afghanistan, and the memo discusses the Taliban providing sanctuary to him and being expected to expel him.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "The Taliban themselves are divided on the desirability of providing sanctuary to Bin Laden"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "The US holds the Taliban responsible for Bin Laden's activities while he is in Afghanistan.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "responsible for Bin Laden's activities while he is in Afghanistan."
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Usama bin Ladin's network",
+   "type": "leads",
+   "detail": "The memo refers to Bin Laden and his network as continuing to threaten US interests.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Bin Laden and his network continue to threaten U.S. interests."
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Mullah Omar",
+   "type": "other",
+   "detail": "Efforts to get Bin Laden expelled were frustrated, the memo says, by his ties to Taliban leader Mullah Omar (name partly truncated in the OCR).",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "frustrated, we believe, by his ties to Taliban leader Mullah"
+  },
+  {
+   "source": "Mullah Omar",
+   "target": "Taliban",
+   "type": "leads",
+   "detail": "Mullah Omar is described as the Taliban leader.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "his ties to Taliban leader Mullah"
+  },
+  {
+   "source": "US Department of State",
+   "target": "Taliban",
+   "type": "negotiated_with",
+   "detail": "The US seeks to persuade the Taliban to expel Bin Laden and sees the Taliban's desire for contacts with the US as an incentive.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "To determine how we can persuade the Taliban to expel Usama Bin Laden from Afghanistan"
+  },
+  {
+   "source": "US Department of State",
+   "target": "Usama bin Ladin",
+   "type": "rival_of",
+   "detail": "The US wants Bin Laden expelled and brought to justice because of the threat he poses to US interests.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "he can be brought to justice or otherwise end or limit the threat he poses to U.S. interests"
+  }
+ ],
+ "sources_cited": [
+  "Tab 1 - Talking Points",
+  "Tab 2 - Background Paper - UBL Finances",
+  "Tab 3 - Recent Reporting"
+ ],
+ "key_claims": [
+  "The Taliban have not prevented Afghanistan from being a platform for international terrorism.",
+  "Bin Laden and his network continue to threaten US interests and personnel.",
+  "The US holds the Taliban, and by implication their supporters, responsible for Bin Laden's activities while he is in Afghanistan.",
+  "The Taliban are internally divided over giving Bin Laden sanctuary.",
+  "Earlier US and Saudi efforts to expel Bin Laden were frustrated, the memo says, by his ties to the Taliban leader.",
+  "The Taliban's desire for international contacts, especially with the US, could be an incentive to move on the issue."
+ ]
+}

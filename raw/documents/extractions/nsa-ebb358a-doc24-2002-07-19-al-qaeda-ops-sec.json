@@ -1,0 +1,260 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb358a-doc24-2002-07-19-al-qaeda-ops-sec",
+  "title": "Al Qaeda Ops Sec",
+  "authors": "Office of the Secretary of Defense (Wolfowitz to Rumsfeld)",
+  "publisher": "National Security Archive (GWU), New Documents Detail America's Strategic Response to 9/11",
+  "published": "2002-07-19",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB358a/doc24.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB358a/index.htm",
+  "pages": 1,
+  "kind": "memo",
+  "note": "[Secret] Intelligence community assumes bin Laden is alive because al-Qaeda could not keep his death secret. Wolfowitz disputes this, arguing al-Qaeda communicates effectively without detection, and warns of overreliance on a classified tracking capability ('the drunk looking for keys under the lamppost').",
+  "collection": "NSAEBB358a",
+  "doc_number": "Document 24",
+  "relevance": "medium",
+  "ocr": 0
+ },
+ "persons": [
+  {
+   "name": "Osama bin Laden",
+   "aliases": [
+    "Usama bin Ladin",
+    "Osama bin Laden"
+   ],
+   "role": "al-Qaeda leader; subject of intelligence community debate over whether he is alive",
+   "organizations": [
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "unknown",
+   "status_detail": "Memo says the intelligence community believes he is still alive but gives no confirmation",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "When pressed on why they believe Osama bin Laden is still alive the main explanation offered by the intelligence community"
+    },
+    {
+     "timestamp": "p.1",
+     "quote": "his death would be too important a fact for them to be able to keep it secret."
+    }
+   ]
+  },
+  {
+   "name": "Paul Wolfowitz",
+   "aliases": [
+    "Paul Wolfowitz"
+   ],
+   "role": "US Deputy Secretary of Defense; author of the memo",
+   "organizations": [
+    "Office of the Secretary of Defense"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "FROM: Paul Wolfowitz"
+    }
+   ]
+  },
+  {
+   "name": "Donald Rumsfeld",
+   "aliases": [
+    "Don",
+    "Secretary Rumsfeld"
+   ],
+   "role": "US Secretary of Defense; memo addressee",
+   "organizations": [
+    "Office of the Secretary of Defense"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Secretary Rumsfeld"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "al-Qaeda",
+   "aliases": [
+    "Al Qaeda",
+    "al-Qa'ida"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Memo argues it can communicate within its organization and that the terrorists know the US monitors those communications."
+  },
+  {
+   "name": "Office of the Secretary of Defense",
+   "aliases": [
+    "OSD"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "US Department of Defense"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Originating office of the memo."
+  },
+  {
+   "name": "US intelligence community",
+   "aliases": [
+    "intelligence community"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Believes bin Laden is alive; criticized in the memo."
+  },
+  {
+   "name": "National Military Command Center",
+   "aliases": [
+    "NMCC"
+   ],
+   "type": "military",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Fax header on the document."
+  }
+ ],
+ "places": [],
+ "events": [
+  {
+   "date": "2002-07-19",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Wolfowitz sends Rumsfeld a memo, 'Al Qaeda Ops Sec', arguing al-Qaeda can communicate internally and that the US may be open to deliberate manipulation by the terrorists. The text gives the date as 2001, which appears to be an OCR or typing error; the document header and publication date point to 2002.",
+   "place": "",
+   "actors": [
+    "Paul Wolfowitz",
+    "Donald Rumsfeld"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2002-07-19",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Wolfowitz sends memo 'Al Qaeda Ops Sec' to Rumsfeld questioning intelligence community assumptions that bin Laden is alive and warning that al-Qaeda may deliberately manipulate US intelligence collection. (Document date typed as 2001 but stamped 2002.)",
+   "place": "",
+   "actors": [
+    "Paul Wolfowitz",
+    "Donald Rumsfeld",
+    "US intelligence community",
+    "Osama bin Laden",
+    "al-Qaeda"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2010-06-30",
+   "date_precision": "day",
+   "type": "other",
+   "description": "Memo declassified by Records & Declass Division, WHS under EO 12958.",
+   "place": "",
+   "actors": [
+    "Office of the Secretary of Defense"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Paul Wolfowitz",
+   "target": "Donald Rumsfeld",
+   "type": "reports_to",
+   "detail": "Wolfowitz addresses a memo to Secretary Rumsfeld (greeting 'Don').",
+   "date": "2002-07-19",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "FROM: Paul Wolfowitz ... Secretary Rumsfeld ... Don,"
+  },
+  {
+   "source": "Paul Wolfowitz",
+   "target": "Office of the Secretary of Defense",
+   "type": "member_of",
+   "detail": "Wolfowitz wrote the memo as part of the OSD leadership; document is OSD-stamped (OSD 1.4).",
+   "date": "2002-07-19",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "OSD 1.4 ( L. )"
+  },
+  {
+   "source": "Donald Rumsfeld",
+   "target": "Office of the Secretary of Defense",
+   "type": "leads",
+   "detail": "Rumsfeld is the Secretary to whom the memo is addressed.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "FROM: SUBJECT: Don, Secretary Rumsfeld"
+  },
+  {
+   "source": "US intelligence community",
+   "target": "Osama bin Laden",
+   "type": "other",
+   "detail": "The intelligence community believes bin Laden is still alive, because his death would be too important to keep secret.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "the main explanation offered by the intelligence community is that his death would be too important a fact for them to be able to keep it secret."
+  },
+  {
+   "source": "Osama bin Laden",
+   "target": "al-Qaeda",
+   "type": "leads",
+   "detail": "Bin Laden is treated as al-Qaeda's central figure, whose death or survival would be communicated within the organization.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "they would have to communicate with one another about bin Laden's death, they would also have to communicate with one another about his survival."
+  },
+  {
+   "source": "al-Qaeda",
+   "target": "US intelligence community",
+   "type": "rival_of",
+   "detail": "Al Qaeda is described as aware of US intelligence collection and potentially able to manipulate it.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "the terrorists know that we do this... we are susceptible to deliberate manipulation by the terrorists"
+  },
+  {
+   "source": "Office of the Secretary of Defense",
+   "target": "National Military Command Center",
+   "type": "other",
+   "detail": "The memo copy was transmitted via the National Military Command Center fax header.",
+   "date": "2002-07-24",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "NATIONAL MILITARY CONNAND CENTER"
+  }
+ ],
+ "sources_cited": [
+  "US intelligence community assessments on bin Laden's survival"
+ ],
+ "key_claims": [
+  "The intelligence community assumes bin Laden is alive because his death could not be kept secret, yet his survival would be equally hard to conceal.",
+  "Wolfowitz argues that if al-Qaeda would have to communicate about bin Laden's death, it would also have to communicate about his survival.",
+  "Al-Qaeda is able to communicate within its organization.",
+  "The terrorists know that the US monitors their communications.",
+  "The US is susceptible to deliberate manipulation by the terrorists."
+ ]
+}

@@ -1,0 +1,294 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc31-1998-09-22-title-excised-terrorism-incorporation-of-ayman-zaw",
+  "title": "[Title Excised]. Terrorism: Incorporation of Ayman Zawahiri's al-Jihad Organization into Usama Bin Ladin's al-Qa'ida; Recent Activities of Egyptian Associates of al-Qa'ida",
+  "authors": "Central Intelligence Agency",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "1998-09-22",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7x7g-tbo1k/1998-09-22-title-excised-terrorism-incorporation.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 4,
+  "kind": "intelligence report",
+  "note": "CIA intelligence report on the incorporation of Zawahiri's al-Jihad organization into bin Laden's al-Qa'ida and on recent activities of al-Qa'ida's Egyptian associates. Cited in 9/11 Commission Report Chapter 2, Endnote 82.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 31",
+  "relevance": "high",
+  "ocr": 3
+ },
+ "persons": [
+  {
+   "name": "Ayman Zawahiri",
+   "aliases": [
+    "Ayman al-Zawahiri",
+    "Ayman Zawahri"
+   ],
+   "role": "Leader of the al-Jihad Organization (Egyptian); reported as increasingly dependent on Bin Ladin's financial assistance",
+   "organizations": [
+    "al-Jihad Organization",
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "Egyptian",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "INCORPORATION OF AYMAN '"
+    },
+    {
+     "timestamp": "p.2",
+     "quote": "INCREASINGLY ON FINANCIAL ASSISTANCE FROM USAMA [((BIN LADIN))"
+    }
+   ]
+  },
+  {
+   "name": "Usama Bin Ladin",
+   "aliases": [
+    "Usama bin Ladin",
+    "Osama bin Laden",
+    "Usama bin Laden"
+   ],
+   "role": "Leader of al-Qa'ida; financial supporter of Zawahiri's al-Jihad Organization",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "RGANIZATION INTO USAMA BIN LADIN’S"
+    },
+    {
+     "timestamp": "p.2",
+     "quote": "INCREASINGLY ON FINANCIAL ASSISTANCE FROM USAMA [((BIN LADIN))"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "al-Jihad Organization",
+   "aliases": [
+    "al-Jihad",
+    "Egyptian Islamic Jihad"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qa'ida"
+   ],
+   "rivals": [],
+   "country_base": "Egypt",
+   "notes": "Led by Ayman Zawahiri; report says it was effectively incorporated into al-Qa'ida for practical purposes owing to shortage of funds."
+  },
+  {
+   "name": "al-Qa'ida",
+   "aliases": [
+    "al-Qaeda",
+    "al-Qa'idah"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Jihad Organization"
+   ],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Led by Usama Bin Ladin; provides financial assistance to Zawahiri's group."
+  },
+  {
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Originator of this information report (22 Sep 1998)."
+  },
+  {
+   "name": "Defense Intelligence Agency",
+   "aliases": [
+    "DIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Addressee on distribution list."
+  },
+  {
+   "name": "Federal Bureau of Investigation",
+   "aliases": [
+    "FBI"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Addressee on distribution list."
+  },
+  {
+   "name": "National Security Agency",
+   "aliases": [
+    "NSA",
+    "DIRNSA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Addressee on distribution list."
+  }
+ ],
+ "places": [],
+ "events": [
+  {
+   "date": "1998-09-22",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA information report disseminated on incorporation of Zawahiri's al-Jihad Organization into Bin Ladin's al-Qa'ida, citing a shortage of funds and dependence on Bin Ladin's financial assistance.",
+   "place": "",
+   "actors": [
+    "Central Intelligence Agency",
+    "Ayman Zawahiri",
+    "Usama Bin Ladin"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998-09-22",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA information report disseminated to DIA, NSA, FBI and other agencies. It assesses that al-Jihad has in practice been incorporated into al-Qa'ida because of its financial dependence on Bin Ladin.",
+   "place": "Washington DC",
+   "actors": [
+    "Central Intelligence Agency",
+    "Defense Intelligence Agency",
+    "National Security Agency",
+    "Federal Bureau of Investigation",
+    "al-Jihad Organization",
+    "al-Qa'ida"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "approx 1998",
+   "date_precision": "approx",
+   "type": "agreement",
+   "description": "De facto incorporation of Zawahiri's al-Jihad Organization into Bin Ladin's al-Qa'ida, driven by financial dependence.",
+   "place": "",
+   "actors": [
+    "Ayman Zawahiri",
+    "Usama Bin Ladin",
+    "al-Jihad Organization",
+    "al-Qa'ida"
+   ],
+   "timestamp": "p.2"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Ayman Zawahiri",
+   "target": "Usama Bin Ladin",
+   "type": "funded_by",
+   "detail": "Zawahiri's organization depends increasingly on Bin Ladin's financial assistance, owing to a shortage of funds.",
+   "date": "1998",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "INCREASINGLY ON FINANCIAL ASSISTANCE FROM USAMA [((BIN LADIN))"
+  },
+  {
+   "source": "al-Jihad Organization",
+   "target": "al-Qa'ida",
+   "type": "member_of",
+   "detail": "The financial dependence resulted, for practical purposes, in al-Jihad's incorporation into al-Qa'ida.",
+   "date": "1998",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "RESULTED, FOR PRACTICAL PURPOSES, IN _ INCORPORATION"
+  },
+  {
+   "source": "Ayman Zawahiri",
+   "target": "al-Jihad Organization",
+   "type": "leads",
+   "detail": "The report refers to Ayman Zawahiri's al-Jihad Organization.",
+   "date": "1998",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "INCORPORATION OF AYMAN '"
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "al-Qa'ida",
+   "type": "leads",
+   "detail": "The report refers to Usama Bin Ladin's al-Qa'ida.",
+   "date": "1998",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "RGANIZATION INTO USAMA BIN LADIN’S"
+  },
+  {
+   "source": "al-Jihad Organization",
+   "target": "Usama Bin Ladin",
+   "type": "funded_by",
+   "detail": "The report says Zawahiri's group relied increasingly on financial assistance from Bin Ladin, apparently because of a shortage of funds. The OCR is garbled, so the subject is inferred from the title.",
+   "date": "1998-09",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "INCREASINGLY ON FINANCIAL ASSISTANCE FROM USAMA [((BIN LADIN))"
+  },
+  {
+   "source": "al-Jihad Organization",
+   "target": "al-Qa'ida",
+   "type": "member_of",
+   "detail": "Reliance on Bin Ladin's funding resulted, for practical purposes, in the incorporation of al-Jihad into al-Qa'ida.",
+   "date": "1998-09",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "WHICH HAS RESULTED, FOR PRACTICAL PURPOSES, IN INCORPORATION"
+  },
+  {
+   "source": "Ayman Zawahiri",
+   "target": "al-Jihad Organization",
+   "type": "leads",
+   "detail": "The title refers to 'Ayman Zawahiri's al-Jihad Organization', which identifies him as its leader.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "INCORPORATION OF AYMAN ' - RGANIZATION INTO USAMA BIN LADIN’S"
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "al-Qa'ida",
+   "type": "leads",
+   "detail": "The title refers to 'Usama Bin Ladin's al-Qa'ida'.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "INTO USAMA BIN LADIN’S . AL-QA’ TDA"
+  },
+  {
+   "source": "Ayman Zawahiri",
+   "target": "Usama Bin Ladin",
+   "type": "funded_by",
+   "detail": "The garbled text suggests Zawahiri's organization faced a shortage of funds and depended on Bin Ladin's financial assistance.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "SHORTAGE OF FUNDS. ZAWABERID ... INCREASINGLY ON FINANCIAL ASSISTANCE FROM USAMA"
+  }
+ ],
+ "sources_cited": [
+  "CIA information report, TOT 221536Z SEP 98"
+ ],
+ "key_claims": [
+  "Zawahiri's al-Jihad Organization faced a shortage of funds as of September 1998.",
+  "Zawahiri increasingly relied on financial assistance from Usama Bin Ladin.",
+  "This dependence resulted, for practical purposes, in al-Jihad's incorporation into al-Qa'ida."
+ ]
+}

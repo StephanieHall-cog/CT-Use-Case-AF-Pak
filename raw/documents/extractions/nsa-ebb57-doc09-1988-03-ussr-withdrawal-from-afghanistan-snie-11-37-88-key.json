@@ -1,0 +1,498 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb57-doc09-1988-03-ussr-withdrawal-from-afghanistan-snie-11-37-88-key",
+  "title": "USSR: Withdrawal from Afghanistan (SNIE 11/37/88, Key Judgments only)",
+  "authors": "CIA, Special National Intelligence Estimate",
+  "publisher": "National Security Archive (GWU), Afghanistan: Lessons from the Last War",
+  "published": "1988-03",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB57/us9.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB57/us.html",
+  "pages": 6,
+  "kind": "intelligence report",
+  "note": "Excerpts from a March 1988 SNIE giving an American assessment of a \"firm\" Soviet decision, based on a \"leadership consensus,\" to withdraw from Afghanistan. Originally published in CIA, At Cold War's End (1999).",
+  "collection": "NSAEBB57",
+  "doc_number": "Document 9",
+  "relevance": "medium",
+  "ocr": 6
+ },
+ "persons": [
+  {
+   "name": "Mikhail Gorbachev",
+   "aliases": [
+    "Gorbachev",
+    "General Secretary Gorbachev"
+   ],
+   "role": "General Secretary of the Soviet Communist Party; built leadership consensus for withdrawal from Afghanistan",
+   "organizations": [
+    "Soviet Politburo",
+    "USSR"
+   ],
+   "nationality_or_origin": "Soviet",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Soviet Union",
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.5",
+     "quote": "we believe General Secretary Gorbachev has built a leadership consensus for withdrawal."
+    },
+    {
+     "timestamp": "p.6",
+     "quote": "ending the war will be a net plus for Gorbachev, boosting his popularity and his reform agenda."
+    }
+   ]
+  },
+  {
+   "name": "Najibullah",
+   "aliases": [
+    "Najib",
+    "Najibullah regime"
+   ],
+   "role": "Head of the Kabul Communist regime",
+   "organizations": [
+    "Kabul regime"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Kabul",
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.5",
+     "quote": "We judge that the Najibullah regime will not long survive the completion of Soviet withdrawal"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Soviet Politburo",
+   "aliases": [
+    "Politburo"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "USSR"
+   ],
+   "rivals": [],
+   "country_base": "USSR",
+   "notes": "Consensus for withdrawal could fracture in an alternative scenario."
+  },
+  {
+   "name": "Kabul regime",
+   "aliases": [
+    "Najibullah regime",
+    "Afghan Communist regime",
+    "Afghan Communist government"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "USSR"
+   ],
+   "rivals": [
+    "Afghan resistance"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Soviet client regime; assessed unlikely to survive long after Soviet withdrawal."
+  },
+  {
+   "name": "Afghan resistance",
+   "aliases": [
+    "resistance groups"
+   ],
+   "type": "militia",
+   "parent_or_allies": [],
+   "rivals": [
+    "Kabul regime"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Assessed to retain supplies and strength despite infighting; coalition of traditionalist and fundamentalist groups expected."
+  },
+  {
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Participated in preparing the Estimate."
+  },
+  {
+   "name": "Defense Intelligence Agency",
+   "aliases": [
+    "DIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Participated in the Estimate."
+  },
+  {
+   "name": "National Security Agency",
+   "aliases": [
+    "NSA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Participated in the Estimate."
+  },
+  {
+   "name": "National Foreign Intelligence Board",
+   "aliases": [
+    "NFIB"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Concurred in and approved the Estimate on 24 March 1988."
+  },
+  {
+   "name": "Geneva accords",
+   "aliases": [
+    "Geneva talks"
+   ],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Switzerland",
+   "notes": "Negotiations under whose cover the Soviets wanted to withdraw."
+  },
+  {
+   "name": "USSR",
+   "aliases": [
+    "Soviet Union",
+    "Moscow"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "USSR",
+   "notes": "Decided to withdraw from Afghanistan."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Country from which the USSR is withdrawing."
+  },
+  {
+   "name": "Kabul",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Seat of the Najibullah regime; new regime's writ expected not to extend far beyond it."
+  },
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "US relations with Pakistan expected to be complicated by the withdrawal."
+  },
+  {
+   "name": "Geneva",
+   "type": "city",
+   "country": "Switzerland",
+   "parent": "Switzerland",
+   "significance": "Venue of the accords/talks on Soviet withdrawal."
+  }
+ ],
+ "events": [
+  {
+   "date": "1988-03-24",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Estimate approved by the National Foreign Intelligence Board; information cutoff date.",
+   "place": "",
+   "actors": [
+    "National Foreign Intelligence Board"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1988",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Soviets expected to begin withdrawal from Afghanistan this year even if the Geneva talks are deadlocked.",
+   "place": "Afghanistan",
+   "actors": [
+    "USSR"
+   ],
+   "timestamp": "p.5"
+  },
+  {
+   "date": "1988-03-24",
+   "date_precision": "day",
+   "type": "agreement",
+   "description": "National Foreign Intelligence Board approved SNIE 11/37-88 on Soviet withdrawal from Afghanistan; information available as of this date was used.",
+   "place": "",
+   "actors": [
+    "National Foreign Intelligence Board",
+    "Central Intelligence Agency",
+    "Defense Intelligence Agency",
+    "National Security Agency"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1988",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Assessed Soviet start of troop withdrawal from Afghanistan this year, even if the Geneva talks are deadlocked.",
+   "place": "Afghanistan",
+   "actors": [
+    "USSR",
+    "Mikhail Gorbachev",
+    "Soviet Politburo"
+   ],
+   "timestamp": "p.5"
+  },
+  {
+   "date": "1988-03",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Estimate judges that the Soviet leadership made a firm decision to withdraw from Afghanistan.",
+   "place": "Afghanistan",
+   "actors": [
+    "USSR",
+    "Mikhail Gorbachev",
+    "Soviet Politburo"
+   ],
+   "timestamp": "p.5"
+  },
+  {
+   "date": "1988-03",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Geneva talks on accords governing withdrawal were ongoing and possibly deadlocked.",
+   "place": "Geneva",
+   "actors": [
+    "USSR",
+    "Pakistan",
+    "Geneva accords"
+   ],
+   "timestamp": "p.5"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Mikhail Gorbachev",
+   "target": "Soviet Politburo",
+   "type": "leads",
+   "detail": "Gorbachev built a leadership consensus for withdrawal.",
+   "date": "1988",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "General Secretary Gorbachev has built a leadership consensus for withdrawal."
+  },
+  {
+   "source": "Najibullah",
+   "target": "Kabul regime",
+   "type": "leads",
+   "detail": "Najibullah regime is the Soviet client government in Kabul.",
+   "date": "1988",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "the Najibullah regime will not long survive the completion of Soviet withdrawal"
+  },
+  {
+   "source": "Kabul regime",
+   "target": "USSR",
+   "type": "allied_with",
+   "detail": "Client regime supported by Soviet assistance.",
+   "date": "1988",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "even with continued Soviet assistance"
+  },
+  {
+   "source": "Afghan resistance",
+   "target": "Kabul regime",
+   "type": "rival_of",
+   "detail": "Resistance expected to ensure the demise of the Communist government.",
+   "date": "1988",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "ensure the demise of the Communist government"
+  },
+  {
+   "source": "Mikhail Gorbachev",
+   "target": "Soviet Politburo",
+   "type": "leads",
+   "detail": "Gorbachev, as General Secretary, built a leadership consensus in favor of withdrawal from Afghanistan.",
+   "date": "1988-03",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "we believe General Secretary Gorbachev has built a leadership consensus for withdrawal."
+  },
+  {
+   "source": "Mikhail Gorbachev",
+   "target": "USSR",
+   "type": "leads",
+   "detail": "Gorbachev is identified as the General Secretary of the Soviet leadership.",
+   "date": "1988-03",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "General Secretary Gorbachev has built a leadership consensus for withdrawal."
+  },
+  {
+   "source": "Najibullah",
+   "target": "Kabul regime",
+   "type": "leads",
+   "detail": "The Kabul regime is referred to as the Najibullah regime.",
+   "date": "1988-03",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "We judge that the Najibullah regime will not long survive the completion of Soviet withdrawal"
+  },
+  {
+   "source": "Kabul regime",
+   "target": "USSR",
+   "type": "funded_by",
+   "detail": "The Kabul regime is a Soviet client that receives Soviet assistance and aid.",
+   "date": "1988-03",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "will not long survive the completion of Soviet withdrawal even with continued Soviet assistance."
+  },
+  {
+   "source": "Kabul regime",
+   "target": "USSR",
+   "type": "allied_with",
+   "detail": "The Kabul regime is described as a Soviet client whose chances of surviving without Soviet troops are poor.",
+   "date": "1988-03",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "The regime is aware that its client's chances of surviving without Soviet troops are poor."
+  },
+  {
+   "source": "Afghan resistance",
+   "target": "Kabul regime",
+   "type": "rival_of",
+   "detail": "The resistance is expected to retain the strength to bring about the demise of the Communist government.",
+   "date": "1988-03",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "the resistance will retain sufficient supplies and military strength to ensure the demise of the Communist government."
+  },
+  {
+   "source": "USSR",
+   "target": "Geneva accords",
+   "type": "other",
+   "detail": "The Soviets want to withdraw under cover of the Geneva accords but would prefer no agreement restricting their aid.",
+   "date": "1988-03",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "The Soviets want to withdraw under the cover of the Geneva accords."
+  },
+  {
+   "source": "USSR",
+   "target": "Afghanistan",
+   "type": "other",
+   "detail": "The USSR has made a firm decision to withdraw its troops from Afghanistan.",
+   "date": "1988-03",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "We believe Moscow has made a firm decision to withdraw from Afghanistan."
+  },
+  {
+   "source": "Geneva accords",
+   "target": "Geneva",
+   "type": "located_in",
+   "detail": "The accords are negotiated in Geneva talks.",
+   "date": "1988-03",
+   "confidence": "inferred",
+   "timestamp": "p.5",
+   "quote": "the Soviets will begin withdrawal this year even if the Geneva talks are deadlocked."
+  },
+  {
+   "source": "Kabul regime",
+   "target": "Kabul",
+   "type": "located_in",
+   "detail": "The regime governs from Kabul; a successor government's writ is not expected to extend far beyond Kabul.",
+   "date": "1988-03",
+   "confidence": "inferred",
+   "timestamp": "p.5",
+   "quote": "whose writ will not extend far beyond Kabul and the leaders' home areas."
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "National Foreign Intelligence Board",
+   "type": "member_of",
+   "detail": "The CIA participated in preparing the Estimate, which the NFIB approved.",
+   "date": "1988-03",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "The Central Intelligence Agency, the Defense Intelligence Agency, the National Security Agency, and the intelligence organization of the Department of State."
+  },
+  {
+   "source": "Defense Intelligence Agency",
+   "target": "National Foreign Intelligence Board",
+   "type": "member_of",
+   "detail": "The DIA participated in preparing the Estimate, which the NFIB approved.",
+   "date": "1988-03",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "The following intelligence organizations participated in the preparation of the Estimate"
+  },
+  {
+   "source": "National Security Agency",
+   "target": "National Foreign Intelligence Board",
+   "type": "member_of",
+   "detail": "The NSA participated in preparing the Estimate, which the NFIB approved.",
+   "date": "1988-03",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "The following intelligence organizations participated in the preparation of the Estimate"
+  },
+  {
+   "source": "National Foreign Intelligence Board",
+   "target": "Central Intelligence Agency",
+   "type": "allied_with",
+   "detail": "The Estimate is issued by the Director of Central Intelligence and the NFIB concurs.",
+   "date": "1988-03",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "THE NATIONAL FOREIGN INTELLIGENCE BOARD CONCURS."
+  },
+  {
+   "source": "Mikhail Gorbachev",
+   "target": "Najibullah",
+   "type": "allied_with",
+   "detail": "Gorbachev's USSR supports the Najibullah client regime, and Gorbachev anticipates positive effects from withdrawal.",
+   "date": "1988-03",
+   "confidence": "inferred",
+   "timestamp": "p.5",
+   "quote": "The regime is aware that its client's chances of surviving without Soviet troops are poor."
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "Moscow has made a firm decision to withdraw from Afghanistan.",
+  "Soviets would likely begin withdrawal in 1988 even if the Geneva talks deadlock, probably with heavy fighting.",
+  "The Najibullah regime will not long survive Soviet withdrawal and may fall before it is complete.",
+  "The resistance will retain sufficient supplies and strength to topple the Communist government despite infighting.",
+  "The successor regime is expected to be an unstable fundamentalist/traditionalist coalition, Islamic but not as extreme as Iran, with ambivalent or hostile orientation toward the West.",
+  "There is under a one-in-three chance of prolonged chaos from resistance infighting.",
+  "Withdrawal is expected to complicate US relations with Pakistan."
+ ]
+}

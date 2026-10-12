@@ -1,0 +1,392 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb227-doc35-2001-11-07-pakistan-poll-shows-strong-and-growing-public-supp",
+  "title": "Pakistan - Poll Shows Strong and Growing Public Support for Taleban",
+  "authors": "Carl W. Ford Jr., Assistant Secretary of State for Intelligence and Research, to Secretary Powell",
+  "publisher": "National Security Archive (GWU), Pakistan: \"The Taliban's Godfather\"?",
+  "published": "2001-11-07",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB227/35.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB227/index.htm",
+  "pages": 3,
+  "kind": "memo",
+  "note": "[Unclassified] A post-9/11 INR poll shows the Pakistani public more pro-Taliban than before September 11, even as the Musharraf government distances Pakistan from its longstanding Taliban alliance.",
+  "collection": "NSAEBB227",
+  "doc_number": "Document 35",
+  "relevance": "medium",
+  "ocr": 3
+ },
+ "persons": [
+  {
+   "name": "Pervez Musharraf",
+   "aliases": [
+    "President Musharraf",
+    "Parvez Musharraf"
+   ],
+   "role": "President of Pakistan",
+   "organizations": [
+    "Government of Pakistan"
+   ],
+   "nationality_or_origin": "Pakistani",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Pakistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "President Musharraf faces a problem with public opinion that goes far beyond the minority of extremist Muslims."
+    }
+   ]
+  },
+  {
+   "name": "Mullah Omar",
+   "aliases": [
+    "Mullah Mohammed Omar",
+    "Mohammed Omar"
+   ],
+   "role": "Leader of the Taliban regime in Afghanistan",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "Favored by a wide margin increasing support for Mullah Omar's regime. (46%, up from 38% last June)"
+    }
+   ]
+  },
+  {
+   "name": "Colin Powell",
+   "aliases": [
+    "The Secretary",
+    "Secretary Powell"
+   ],
+   "role": "US Secretary of State; memo addressee",
+   "organizations": [
+    "US Department of State"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "TO: The Secretary . FROM: INR - Carl W. Ford, Jr."
+    }
+   ]
+  },
+  {
+   "name": "Carl W. Ford Jr.",
+   "aliases": [
+    "Carl Ford"
+   ],
+   "role": "Assistant Secretary of State for Intelligence and Research (INR); memo author",
+   "organizations": [
+    "INR",
+    "US Department of State"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "FROM: INR - Carl W. Ford, Jr."
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Taliban",
+   "aliases": [
+    "Taleban"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Governing Afghanistan in 2001; Pakistan has traditionally strong links with the Taleban government."
+  },
+  {
+   "name": "Government of Pakistan",
+   "aliases": [
+    "Pakistani government"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Traditionally supportive of the Taliban; distanced itself after 11 September 2001."
+  },
+  {
+   "name": "INR",
+   "aliases": [
+    "Bureau of Intelligence and Research"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "US Department of State"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Conducted the poll of Pakistani opinion."
+  },
+  {
+   "name": "US Department of State",
+   "aliases": [
+    "State Department"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Parent of INR."
+  }
+ ],
+ "places": [
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Site of the poll of urban Pakistanis on support for the Taleban."
+  },
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Ruled by the Taleban; bombing began there after polling."
+  }
+ ],
+ "events": [
+  {
+   "date": "2001-09-11",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "September 11 attacks; polling began shortly afterward.",
+   "place": "United States",
+   "actors": [],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-11-07",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "INR memo to the Secretary reporting poll showing growing Pakistani public support for the Taleban.",
+   "place": "",
+   "actors": [
+    "Carl W. Ford Jr.",
+    "INR",
+    "Colin Powell"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-10",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Start of bombing in Afghanistan; almost all poll interviews completed before this.",
+   "place": "Afghanistan",
+   "actors": [],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-09-11",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "September 11 attacks, after which Pakistani public opinion became more favorable to the Taliban.",
+   "place": "United States",
+   "actors": [],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-09",
+   "date_precision": "month",
+   "type": "other",
+   "description": "INR polling in Pakistan began shortly after September 11, with almost all interviews completed before bombing in Afghanistan.",
+   "place": "Pakistan",
+   "actors": [
+    "INR"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-11-07",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Ford sends memo to Secretary Powell reporting poll showing strong and growing Pakistani public support for the Taliban.",
+   "place": "Washington",
+   "actors": [
+    "Carl W. Ford Jr.",
+    "Colin Powell",
+    "INR"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-10",
+   "date_precision": "approx",
+   "type": "offensive",
+   "description": "Start of US bombing in Afghanistan, after which polling was largely complete.",
+   "place": "Afghanistan",
+   "actors": [],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-09",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Pakistani government distanced itself from the Taliban after September 11.",
+   "place": "Pakistan",
+   "actors": [
+    "Government of Pakistan",
+    "Taliban"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Carl W. Ford Jr.",
+   "target": "Colin Powell",
+   "type": "reports_to",
+   "detail": "Ford sent the memo to the Secretary.",
+   "date": "2001-11-07",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "TO: The Secretary . FROM: INR - Carl W. Ford, Jr."
+  },
+  {
+   "source": "Government of Pakistan",
+   "target": "Taliban",
+   "type": "allied_with",
+   "detail": "Pakistan has traditionally strong links with the Taleban government.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "recognizes no compelling reasons to cut Pakistan's traditionally strong links with the Taleban government"
+  },
+  {
+   "source": "Mullah Omar",
+   "target": "Taliban",
+   "type": "leads",
+   "detail": "Referred to as head of the Taliban regime.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "increasing support for Mullah Omar's regime"
+  },
+  {
+   "source": "Carl W. Ford Jr.",
+   "target": "INR",
+   "type": "member_of",
+   "detail": "Ford writes the memo on behalf of INR, whose poll is reported.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "FROM: INR - Carl W. Ford, Jr."
+  },
+  {
+   "source": "INR",
+   "target": "US Department of State",
+   "type": "member_of",
+   "detail": "INR is the State Department bureau that conducted the poll and wrote the memo.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "UNITED STATES DEPARTMENT OF STATE"
+  },
+  {
+   "source": "Carl W. Ford Jr.",
+   "target": "Colin Powell",
+   "type": "reports_to",
+   "detail": "The memo is addressed to the Secretary (Powell) from Ford.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "TO: The Secretary . FROM: INR - Carl W. Ford, Jr."
+  },
+  {
+   "source": "Pervez Musharraf",
+   "target": "Government of Pakistan",
+   "type": "leads",
+   "detail": "Musharraf is president facing public opinion problems.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "President Musharraf faces a problem with public opinion"
+  },
+  {
+   "source": "Pervez Musharraf",
+   "target": "Pakistan",
+   "type": "leads",
+   "detail": "Musharraf is president of Pakistan.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "President Musharraf faces a problem with public opinion that goes far beyond the minority of extremist Muslims."
+  },
+  {
+   "source": "Government of Pakistan",
+   "target": "Taliban",
+   "type": "allied_with",
+   "detail": "Pakistan has traditionally strong links with the Taliban government, which the government distanced itself from after September 11.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "cut Pakistan’s traditionally strong links with the Taleban government"
+  },
+  {
+   "source": "Mullah Omar",
+   "target": "Taliban",
+   "type": "leads",
+   "detail": "Taliban regime referred to as Mullah Omar's regime.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "increasing support for Mullah Omar’s regime. (46%, up from 38% last June)"
+  },
+  {
+   "source": "Taliban",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "The Taliban government rules Afghanistan.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Taliban government in Afghanistan"
+  },
+  {
+   "source": "Pervez Musharraf",
+   "target": "US Department of State",
+   "type": "allied_with",
+   "detail": "Musharraf's alignment with the U.S. is described as difficult and dangerous given public opinion.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Poll findings document the difficulty and dangers of Musharraf's alignment with the U.S."
+  }
+ ],
+ "sources_cited": [
+  "INR poll of urban Pakistanis, 2000-2001"
+ ],
+ "key_claims": [
+  "Pakistani public opinion was more favorable toward the Taleban after September 11 than before.",
+  "52% viewed the Taleban more favorably, up nearly 20 points since June 2001.",
+  "46% favored strengthening government support for the Taliban, up from 38% in June.",
+  "A sizable majority believed the Taleban were not a regional threat and that Pakistan's ties were good.",
+  "Musharraf's alignment with the US was difficult and dangerous given public opinion."
+ ]
+}

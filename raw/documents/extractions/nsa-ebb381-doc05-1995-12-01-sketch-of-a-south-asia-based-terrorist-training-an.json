@@ -1,0 +1,430 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc05-1995-12-01-sketch-of-a-south-asia-based-terrorist-training-an",
+  "title": "Sketch of a South Asia-Based Terrorist Training and Logistic Network, DI TR 95-12",
+  "authors": "CIA Directorate of Intelligence",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "1995-12-01",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7wuu-jeagl/1995-12-sketch-of-a-south-asia-based-terrorist.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 5,
+  "kind": "report",
+  "note": "CIA Analytic Report on a South Asia-based terrorist training and logistics network. Source: 9/11 Commission Report, Chapter 2, Endnote 67.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 5",
+  "relevance": "high",
+  "ocr": 1
+ },
+ "persons": [
+  {
+   "name": "Abdullah Azam",
+   "aliases": [
+    "Abdullah 'Azam",
+    "Abdullah Azzam"
+   ],
+   "role": "Founder of the Maktab al-Khidamat (MAK) / Services Office for Afghanistan, 1985",
+   "organizations": [
+    "Maktab al-Khidamat"
+   ],
+   "nationality_or_origin": "",
+   "status": "dead",
+   "status_detail": "Text says he was killed by a car bomb (partly redacted)",
+   "family": [],
+   "locations": [
+    "Peshawar",
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.3",
+     "quote": "founded the MAK as the Services Office for Afghanistan in 1985 to support the recruitment and movement of volunteers to fight in the war in Afghanistan"
+    }
+   ]
+  },
+  {
+   "name": "Ramzi Yousef",
+   "aliases": [
+    "Ramzi Yusuf"
+   ],
+   "role": "Alleged mastermind of the 1993 World Trade Center bombing",
+   "organizations": [],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Peshawar",
+    "New York"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "The alleged mastermind of the plot, Ramzi Yousef. left Peshawar for New York six months before the bombing."
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Maktab al-Khidamat",
+   "aliases": [
+    "MAK",
+    "Services Office",
+    "Service Organization",
+    "Services Office for Afghanistan"
+   ],
+   "type": "other",
+   "parent_or_allies": [
+    "Al-Kifah center"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Peshawar-based NGO founded 1985 to recruit and move volunteers to the Afghan war; appears to play a key role in facilitating training and travel of Islamic extremists; published the magazine Al-Jihad; may sponsor a mujahidin unit in Bosnia."
+  },
+  {
+   "name": "Al-Kifah center",
+   "aliases": [
+    "al-Kifah"
+   ],
+   "type": "other",
+   "parent_or_allies": [
+    "Maktab al-Khidamat"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Brooklyn, New York branch of the MAK; recruited many of those convicted of the 1993 WTC bombing, per press reports."
+  },
+  {
+   "name": "Al-Jihad",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [
+    "Maktab al-Khidamat"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "MAK magazine; told readers to send $100 to the Emirate's Bank in Peshawar to sponsor a mujahidin in Bosnia; said MAK tried to open a school in Muzzafrabad for Arab volunteers for Kashmir."
+  },
+  {
+   "name": "Emirate's Bank",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Peshawar bank to which donations for a Bosnian mujahid were directed."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Key training and logistics center for Sunni Islamic militants."
+  },
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Key training and logistics center; guesthouses and training facilities."
+  },
+  {
+   "name": "Peshawar",
+   "type": "city",
+   "country": "Pakistan",
+   "parent": "Pakistan",
+   "significance": "MAK base; Ramzi Yousef left from here for New York."
+  },
+  {
+   "name": "Muzzafrabad",
+   "aliases": [
+    "Muzaffarabad"
+   ],
+   "type": "city",
+   "country": "Pakistan",
+   "parent": "Pakistan",
+   "significance": "Site where MAK tried to open a school to attract Arab volunteers for Kashmir."
+  },
+  {
+   "name": "Brooklyn",
+   "type": "city",
+   "country": "United States",
+   "parent": "New York",
+   "significance": "Location of the al-Kifah center."
+  },
+  {
+   "name": "New York",
+   "type": "city",
+   "country": "United States",
+   "parent": "United States",
+   "significance": "1993 World Trade Center bombing site."
+  },
+  {
+   "name": "Bosnia",
+   "type": "country",
+   "country": "Bosnia and Herzegovina",
+   "parent": "",
+   "significance": "MAK may sponsor a mujahidin unit there."
+  }
+ ],
+ "events": [
+  {
+   "date": "1985",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Abdullah Azam founded the MAK as the Services Office for Afghanistan.",
+   "place": "Peshawar",
+   "actors": [
+    "Abdullah Azam",
+    "Maktab al-Khidamat"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1993",
+   "date_precision": "year",
+   "type": "attack",
+   "description": "World Trade Center bombing in New York; many convicted individuals recruited through the al-Kifah center in Brooklyn.",
+   "place": "New York",
+   "actors": [
+    "Ramzi Yousef",
+    "Al-Kifah center"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1992-08",
+   "date_precision": "approx",
+   "type": "travel",
+   "description": "Ramzi Yousef left Peshawar for New York six months before the 1993 bombing.",
+   "place": "Peshawar",
+   "actors": [
+    "Ramzi Yousef"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1985",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Abdullah Azam founded the MAK (Services Office for Afghanistan) to support recruitment and movement of volunteers.",
+   "place": "Peshawar",
+   "actors": [
+    "Abdullah Azam",
+    "Maktab al-Khidamat"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1993",
+   "date_precision": "year",
+   "type": "attack",
+   "description": "World Trade Center bombing in New York; convicted individuals were recruited through the al-Kifah center in Brooklyn.",
+   "place": "New York",
+   "actors": [
+    "Ramzi Yousef",
+    "Al-Kifah center",
+    "Maktab al-Khidamat"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "approx 1992-1993",
+   "date_precision": "approx",
+   "type": "travel",
+   "description": "Ramzi Yousef left Peshawar for New York six months before the WTC bombing.",
+   "place": "Peshawar",
+   "actors": [
+    "Ramzi Yousef"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "approx 1989",
+   "date_precision": "approx",
+   "type": "death",
+   "description": "Abdullah Azam was killed by a car bomb (text is partially garbled).",
+   "place": "Peshawar",
+   "actors": [
+    "Abdullah Azam"
+   ],
+   "timestamp": "p.3"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Abdullah Azam",
+   "target": "Maktab al-Khidamat",
+   "type": "leads",
+   "detail": "Azam founded the MAK in 1985.",
+   "date": "1985",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "founded the MAK as the Services Office for Afghanistan in 1985"
+  },
+  {
+   "source": "Al-Kifah center",
+   "target": "Maktab al-Khidamat",
+   "type": "member_of",
+   "detail": "Al-Kifah center in Brooklyn is a branch of the MAK.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "the al-Kifah center in Brooklyn-a branch of the.MAK"
+  },
+  {
+   "source": "Ramzi Yousef",
+   "target": "Peshawar",
+   "type": "located_in",
+   "detail": "Yousef left Peshawar for New York before the bombing.",
+   "date": "1992",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Ramzi Yousef. left Peshawar for New York six months before the bombing."
+  },
+  {
+   "source": "Al-Jihad",
+   "target": "Maktab al-Khidamat",
+   "type": "member_of",
+   "detail": "Al-Jihad is MAK's magazine.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "MAK's magazine, Al-Jihad, told readers to send $100"
+  },
+  {
+   "source": "Maktab al-Khidamat",
+   "target": "Peshawar",
+   "type": "located_in",
+   "detail": "MAK is described as a Peshawar-based NGO facilitating training and travel of Islamic extremists.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "One Peshawar-based nongovernmental· organization (NGO}-the Maktabal-Khidamat (MAK). or Service: Organization"
+  },
+  {
+   "source": "Al-Kifah center",
+   "target": "Brooklyn",
+   "type": "located_in",
+   "detail": "The al-Kifah center was located in Brooklyn.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "al-Kifah center in Brooklyn-a branch of the.MAK"
+  },
+  {
+   "source": "Brooklyn",
+   "target": "New York",
+   "type": "located_in",
+   "detail": "Brooklyn, New York, is the site of the al-Kifah center.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "Logo for the AI-Kifah <;enter in Brooklyn, New York (U)"
+  },
+  {
+   "source": "Ramzi Yousef",
+   "target": "Peshawar",
+   "type": "located_in",
+   "detail": "Yousef left Peshawar for New York six months before the 1993 WTC bombing.",
+   "date": "1992-1993",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Ramzi Yousef. left Peshawar · for New York ·six months before the bombing."
+  },
+  {
+   "source": "Ramzi Yousef",
+   "target": "New York",
+   "type": "other",
+   "detail": "Yousef travelled from Peshawar to New York before the World Trade Center bombing.",
+   "date": "1992-1993",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Ramzi Yousef. left Peshawar · for New York ·six months before the bombing."
+  },
+  {
+   "source": "Maktab al-Khidamat",
+   "target": "Al-Jihad",
+   "type": "leads",
+   "detail": "MAK published the magazine Al-Jihad.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "MAK's magazine, Al-Jihad"
+  },
+  {
+   "source": "Maktab al-Khidamat",
+   "target": "Bosnia",
+   "type": "other",
+   "detail": "MAK may be sponsoring a mujahidin unit in Bosnia.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.4",
+   "quote": "The MAK may be snonsoring one of the muiahidin units in Bosnia."
+  },
+  {
+   "source": "Emirate's Bank",
+   "target": "Peshawar",
+   "type": "located_in",
+   "detail": "Emirate's Bank is in Peshawar, where donations for Bosnia were directed.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "send $100 to the Emirate's Bank in Peshawar to sponsor a mujahidin in Bosnia."
+  },
+  {
+   "source": "Maktab al-Khidamat",
+   "target": "Emirate's Bank",
+   "type": "other",
+   "detail": "MAK's magazine directed readers to send funds to the Emirate's Bank to sponsor a mujahid in Bosnia.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "Al-Jihad, told readers to send $100 to the Emirate's Bank in Peshawar"
+  },
+  {
+   "source": "Maktab al-Khidamat",
+   "target": "Muzzafrabad",
+   "type": "other",
+   "detail": "MAK tried to open a school in Muzzafrabad to attract Arab volunteers for Kashmir.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "it h~d tried to open a school in Muzzafrabad, Pakistan, to attract Arab volunteers for the struggle in"
+  },
+  {
+   "source": "Muzzafrabad",
+   "target": "Pakistan",
+   "type": "located_in",
+   "detail": "Muzzafrabad is in Pakistan.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "school in Muzzafrabad, Pakistan"
+  },
+  {
+   "source": "Peshawar",
+   "target": "Pakistan",
+   "type": "located_in",
+   "detail": "Peshawar is in Pakistan, part of the training and logistics network.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Afghanistan and Pakistan remain key traininP and logistic centers"
+  }
+ ],
+ "sources_cited": [
+  "Press reports on the al-Kifah center and WTC bombing"
+ ],
+ "key_claims": [
+  "Afghanistan and Pakistan remain key training and logistics centers for Sunni Islamic militants, with interrelated overlapping guesthouses and training facilities.",
+  "The Peshawar-based MAK appears to play a key role in facilitating training and travel of Islamic extremists.",
+  "Many of those convicted of the 1993 WTC bombing were recruited via the MAK-linked al-Kifah center in Brooklyn.",
+  "The MAK may be sponsoring a mujahidin unit in Bosnia and tried to attract Arab volunteers for Kashmir.",
+  "The network shows growing worldwide reach of Sunni extremist groups, with plots involving individuals from several countries and groups."
+ ]
+}

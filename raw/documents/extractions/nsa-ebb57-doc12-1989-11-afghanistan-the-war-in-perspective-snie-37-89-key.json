@@ -1,0 +1,524 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb57-doc12-1989-11-afghanistan-the-war-in-perspective-snie-37-89-key",
+  "title": "Afghanistan: The War in Perspective (SNIE 37-89, Key Judgments only)",
+  "authors": "CIA, Special National Intelligence Estimate",
+  "publisher": "National Security Archive (GWU), Afghanistan: Lessons from the Last War",
+  "published": "1989-11",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB57/us12.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB57/us.html",
+  "pages": 4,
+  "kind": "intelligence report",
+  "note": "November 1989 SNIE reckons that despite military withdrawal the Soviets will provide \"massive aid\" to their client regime, while Kabul will try to negotiate separate truces with \"local resistance commanders.\" Originally published in CIA, At Cold War's End (1999).",
+  "collection": "NSAEBB57",
+  "doc_number": "Document 12",
+  "relevance": "high",
+  "ocr": 4
+ },
+ "persons": [
+  {
+   "name": "Najibullah",
+   "aliases": [
+    "Najib",
+    "Mohammad Najibullah"
+   ],
+   "role": "Head of the Kabul regime (departure is a precondition for talks demanded by the Afghan Interim Government and major commanders)",
+   "organizations": [
+    "Kabul regime"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Kabul"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.3",
+     "quote": "barring the departure of Najibullah and top regime officials"
+    }
+   ]
+  },
+  {
+   "name": "Benazir Bhutto",
+   "aliases": [],
+   "role": "Prime Minister of Pakistan in 1989",
+   "organizations": [],
+   "nationality_or_origin": "Pakistani",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Pakistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.3",
+     "quote": "Pakistan will continue to support the resistance, whether Benazir Bhutto or her political opposition is in power."
+    }
+   ]
+  },
+  {
+   "name": "Mikhail Gorbachev",
+   "aliases": [
+    "Gorbachev"
+   ],
+   "role": "Soviet leader",
+   "organizations": [
+    "Soviet Union"
+   ],
+   "nationality_or_origin": "Soviet",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Soviet Union"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.3",
+     "quote": "especially if Gorbachev saw it as a way to remove the Afghan issue from the US-Soviet agenda"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Mujahedin",
+   "aliases": [
+    "Mujahideen",
+    "resistance"
+   ],
+   "type": "militia",
+   "parent_or_allies": [
+    "Afghan Interim Government"
+   ],
+   "rivals": [
+    "Kabul regime"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Highly factionalized resistance; holds military initiative in countryside but cannot seize major garrisons."
+  },
+  {
+   "name": "Kabul regime",
+   "aliases": [
+    "Najibullah regime"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Soviet Union"
+   ],
+   "rivals": [
+    "Mujahedin"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Weak, unpopular, factionalized; sustained by Soviet materiel; seeks separate deals with local commanders."
+  },
+  {
+   "name": "Afghan Interim Government",
+   "aliases": [
+    "AIG"
+   ],
+   "type": "political movement",
+   "parent_or_allies": [
+    "Mujahedin"
+   ],
+   "rivals": [
+    "Kabul regime"
+   ],
+   "country_base": "Pakistan",
+   "notes": "Refuses direct negotiations with Kabul barring the departure of Najibullah."
+  },
+  {
+   "name": "Soviet Union",
+   "aliases": [
+    "USSR"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Kabul regime"
+   ],
+   "rivals": [
+    "United States"
+   ],
+   "country_base": "Soviet Union",
+   "notes": "Continues massive military supply to Kabul and searches for a political settlement."
+  },
+  {
+   "name": "United States",
+   "aliases": [
+    "US"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Mujahedin"
+   ],
+   "rivals": [
+    "Soviet Union"
+   ],
+   "country_base": "United States",
+   "notes": "Supports the resistance; a unilateral cutoff is analyzed in the estimate."
+  },
+  {
+   "name": "Pakistan",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Mujahedin"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Will continue to support the resistance regardless of who governs."
+  },
+  {
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Participated in preparing the estimate."
+  },
+  {
+   "name": "Defense Intelligence Agency",
+   "aliases": [
+    "DIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Participated in the estimate."
+  },
+  {
+   "name": "National Security Agency",
+   "aliases": [
+    "NSA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Participated in the estimate."
+  },
+  {
+   "name": "Bureau of Intelligence and Research, Department of State",
+   "aliases": [
+    "INR"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Participated in the estimate."
+  },
+  {
+   "name": "National Foreign Intelligence Board",
+   "aliases": [
+    "NFIB"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Approved the estimate for publication."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Theater of the war assessed in the estimate."
+  },
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Supports the resistance."
+  },
+  {
+   "name": "Kabul",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Seat of the regime."
+  },
+  {
+   "name": "Soviet Union",
+   "type": "country",
+   "country": "Soviet Union",
+   "parent": "",
+   "significance": "Supplier of the Kabul regime."
+  }
+ ],
+ "events": [
+  {
+   "date": "1989-11",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Publication of SNIE 37-89 assessing that the Kabul regime will probably remain in power over the next 12 months and the war will stay at near impasse.",
+   "place": "United States",
+   "actors": [
+    "Central Intelligence Agency",
+    "National Foreign Intelligence Board"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1989-11",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Publication of SNIE 37-89 'Afghanistan: The War in Perspective', judging the Kabul regime likely to remain in power over the next 12 months with the war at near impasse.",
+   "place": "Afghanistan",
+   "actors": [
+    "Central Intelligence Agency",
+    "Defense Intelligence Agency",
+    "National Security Agency",
+    "Bureau of Intelligence and Research, Department of State",
+    "National Foreign Intelligence Board"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1990",
+   "date_precision": "year",
+   "type": "meeting",
+   "description": "Anticipated US-Soviet summit next year; Gorbachev might launch a new Afghan initiative beforehand.",
+   "place": "",
+   "actors": [
+    "Mikhail Gorbachev",
+    "United States",
+    "Soviet Union"
+   ],
+   "timestamp": "p.3"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Pakistan",
+   "target": "Mujahedin",
+   "type": "other",
+   "detail": "Pakistan is assessed to continue supporting the resistance regardless of who holds power.",
+   "date": "1989",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "Pakistan will continue to support the resistance, whether Benazir Bhutto or her political opposition is in power."
+  },
+  {
+   "source": "Soviet Union",
+   "target": "Kabul regime",
+   "type": "funded_by",
+   "detail": "Kabul regime depends on Soviet materiel supply (recipient to provider).",
+   "date": "1989",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "so long as the Soviet Union remains willing and able to continue its massive military supply program"
+  },
+  {
+   "source": "Afghan Interim Government",
+   "target": "Najibullah",
+   "type": "rival_of",
+   "detail": "AIG and major commanders refuse direct negotiations with Kabul unless Najibullah departs.",
+   "date": "1989",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "will refuse to negotiate directly with Kabul, barring the departure of Najibullah and top regime officials"
+  },
+  {
+   "source": "Najibullah",
+   "target": "Kabul regime",
+   "type": "leads",
+   "detail": "Najibullah heads the Kabul regime.",
+   "date": "1989",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "barring the departure of Najibullah and top regime officials"
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "Defense Intelligence Agency",
+   "type": "allied_with",
+   "detail": "Both participated in preparing SNIE 37-89.",
+   "date": "1989-11",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "The Central Intelligence Agency The Defense Intelligence Agency The National Security Agency"
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "National Security Agency",
+   "type": "allied_with",
+   "detail": "Both participated in preparing the Estimate.",
+   "date": "1989-11",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "The Central Intelligence Agency The Defense Intelligence Agency The National Security Agency"
+  },
+  {
+   "source": "Defense Intelligence Agency",
+   "target": "National Security Agency",
+   "type": "allied_with",
+   "detail": "Both participated in preparing the Estimate.",
+   "date": "1989-11",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "The Defense Intelligence Agency The National Security Agency The Bureau of Intelligence and Research"
+  },
+  {
+   "source": "Bureau of Intelligence and Research, Department of State",
+   "target": "Central Intelligence Agency",
+   "type": "allied_with",
+   "detail": "Participated together in preparing the Estimate.",
+   "date": "1989-11",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "The Bureau of Intelligence and Research, Department of State"
+  },
+  {
+   "source": "National Foreign Intelligence Board",
+   "target": "Central Intelligence Agency",
+   "type": "other",
+   "detail": "The Board approved the Estimate for publication.",
+   "date": "1989-11",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "This Estimate was approved for publication by the National Foreign Intelligence Board."
+  },
+  {
+   "source": "Kabul regime",
+   "target": "Soviet Union",
+   "type": "funded_by",
+   "detail": "The regime depends on the massive Soviet military supply program to resist Mujahedin pressure.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "so long as the Soviet Union remains willing and able to continue its massive military supply program"
+  },
+  {
+   "source": "Kabul regime",
+   "target": "Mujahedin",
+   "type": "rival_of",
+   "detail": "The regime resists Mujahedin pressure and the war is at a near impasse.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "The regime will continue to resist Mujahedin pressure"
+  },
+  {
+   "source": "Afghan Interim Government",
+   "target": "Kabul regime",
+   "type": "rival_of",
+   "detail": "The AIG will refuse direct negotiations with Kabul absent Najibullah's departure.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "will refuse to negotiate directly with Kabul, barring the departure of Najibullah and top regime officials"
+  },
+  {
+   "source": "Afghan Interim Government",
+   "target": "Najibullah",
+   "type": "rival_of",
+   "detail": "AIG demands Najibullah's departure before direct talks.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "barring the departure of Najibullah and top regime officials"
+  },
+  {
+   "source": "Mujahedin",
+   "target": "Najibullah",
+   "type": "rival_of",
+   "detail": "Major commanders refuse direct negotiations unless Najibullah leaves.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "most major commanders will refuse to negotiate directly with Kabul, barring the departure of Najibullah"
+  },
+  {
+   "source": "Najibullah",
+   "target": "Kabul regime",
+   "type": "leads",
+   "detail": "Najibullah is the head of the regime.",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "departure of Najibullah and top regime officials"
+  },
+  {
+   "source": "Pakistan",
+   "target": "Mujahedin",
+   "type": "allied_with",
+   "detail": "Pakistan will keep supporting the resistance regardless of who governs.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "Pakistan will continue to support the resistance, whether Benazir Bhutto or her political opposition is in power."
+  },
+  {
+   "source": "Benazir Bhutto",
+   "target": "Pakistan",
+   "type": "leads",
+   "detail": "Bhutto is the Pakistani leader in power.",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "whether Benazir Bhutto or her political opposition is in power"
+  },
+  {
+   "source": "Soviet Union",
+   "target": "Kabul regime",
+   "type": "allied_with",
+   "detail": "The Soviets provide massive support to Kabul while seeking a political settlement.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "providing massive support to Kabul over the next year"
+  },
+  {
+   "source": "Mikhail Gorbachev",
+   "target": "Soviet Union",
+   "type": "leads",
+   "detail": "Gorbachev directs Soviet policy on a possible initiative.",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "especially if Gorbachev saw it as a way to remove the Afghan issue"
+  },
+  {
+   "source": "United States",
+   "target": "Mujahedin",
+   "type": "allied_with",
+   "detail": "The US supports the resistance; a unilateral cutoff is considered.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "A unilateral US cutoff of support to the resistance would alter the military balance"
+  },
+  {
+   "source": "Kabul regime",
+   "target": "Mujahedin",
+   "type": "negotiated_with",
+   "detail": "The regime seeks separate deals with local resistance commanders.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "the regime is likely to continue to seek separate deals with local resistance commanders"
+  },
+  {
+   "source": "Kabul regime",
+   "target": "Kabul",
+   "type": "located_in",
+   "detail": "The regime is based in Kabul and referred to by it.",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "The Kabul regime is weak, unpopular, and factionalized"
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "The Kabul regime is weak, unpopular and factionalized but will probably remain in power over the next 12 months.",
+  "The Mujahedin hold the initiative in the countryside but cannot prevent Soviet resupply or easily seize major garrisons.",
+  "The conflict is best understood as an insurgency in which political factors and Mujahedin disunity matter as much as military ones.",
+  "The Afghan Interim Government and major commanders will refuse direct negotiations unless Najibullah departs.",
+  "Pakistan will keep supporting the resistance whoever governs.",
+  "A unilateral US cutoff would favor the regime, while a unilateral Soviet cutoff would devastate it.",
+  "Even with aid cuts the conflict would likely continue indefinitely at lower intensity."
+ ]
+}

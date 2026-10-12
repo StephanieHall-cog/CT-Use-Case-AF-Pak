@@ -1,0 +1,224 @@
+{
+ "document": {
+  "doc_id": "nsa-2021-afghanistan-2020-20-year-war-2-doc04-2002-06-25-rumsfeld-snowflake-to-douglas-feith-pakistan-get-t",
+  "title": "Rumsfeld snowflake to Douglas Feith, \"Pakistan\" (\"Get the Paks to really fight\")",
+  "authors": "Office of the Secretary of Defense (Donald Rumsfeld)",
+  "publisher": "National Security Archive (GWU), Afghanistan 20/20: The 20-Year War in 20 Documents | National Security Archive",
+  "published": "2002-06-25",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qy3fic-cl4be/04.pdf",
+  "source_page": "https://nsarchive.gwu.edu/briefing-book/afghanistan/2021-08-19/afghanistan-2020-20-year-war-20-documents",
+  "pages": 1,
+  "kind": "memo",
+  "note": "[Unclassified] Rumsfeld suggests getting a chunk of money to ease Musharraf's transition so Pakistan will fight the war on terror. It shows U.S. naivety about Pakistan and its intelligence service playing both sides; Musharraf received about $10 billion in U.S. aid over six years.",
+  "collection": "new-afghanistan-2020-20-year-war-20-docu",
+  "doc_number": "Document 4",
+  "relevance": "high",
+  "ocr": 0
+ },
+ "persons": [
+  {
+   "name": "Donald Rumsfeld",
+   "aliases": [
+    "Donald H. Rumsfeld",
+    "DHR"
+   ],
+   "role": "US Secretary of Defense; author of the snowflake memo",
+   "organizations": [
+    "Office of the Secretary of Defense"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "United States"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "FROM: Donald Rumsfeld"
+    }
+   ]
+  },
+  {
+   "name": "Douglas Feith",
+   "aliases": [
+    "Doug Feith"
+   ],
+   "role": "Addressee of the memo; senior Pentagon official (policy)",
+   "organizations": [
+    "Office of the Secretary of Defense"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "TO: Doug Feith"
+    }
+   ]
+  },
+  {
+   "name": "Pervez Musharraf",
+   "aliases": [
+    "Musharraf",
+    "General Musharraf"
+   ],
+   "role": "President/ruler of Pakistan in 2002",
+   "organizations": [
+    "Pakistan government"
+   ],
+   "nationality_or_origin": "Pakistani",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Pakistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "ease Musharraf's transition from where he is to where we need him"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Office of the Secretary of Defense",
+   "aliases": [
+    "OSD"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "US Department of Defense"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Origin of the memo (document footer 11-L-0559/OS0/11633)."
+  },
+  {
+   "name": "Pakistan government",
+   "aliases": [
+    "Paks"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Referred to as 'the Paks'; Rumsfeld wants them to fight the war on terror in their own country."
+  }
+ ],
+ "places": [
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Memo says the war on terror 'is in their country'."
+  }
+ ],
+ "events": [
+  {
+   "date": "2002-06-25",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Rumsfeld sends a snowflake memo to Douglas Feith suggesting the US obtain a chunk of money to ease Musharraf's transition and get Pakistan to fight the war on terror.",
+   "place": "United States",
+   "actors": [
+    "Donald Rumsfeld",
+    "Douglas Feith",
+    "Pervez Musharraf"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2002-06-25",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Rumsfeld sends snowflake memo to Douglas Feith suggesting the US obtain a chunk of money to ease Musharraf's transition so Pakistan will fight the war on terror in its own country.",
+   "place": "Pakistan",
+   "actors": [
+    "Donald Rumsfeld",
+    "Douglas Feith",
+    "Pervez Musharraf",
+    "Pakistan government"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Donald Rumsfeld",
+   "target": "Douglas Feith",
+   "type": "other",
+   "detail": "Rumsfeld directs a memo to Feith asking him to respond on funding for Pakistan.",
+   "date": "2002-06-25",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Doug Feith ... Pakistan ... Please respond by"
+  },
+  {
+   "source": "Donald Rumsfeld",
+   "target": "Pervez Musharraf",
+   "type": "other",
+   "detail": "Rumsfeld proposes a financial package to ease Musharraf's transition toward a position the US needs.",
+   "date": "2002-06-25",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "get a chunk of money, so that we can ease Musharraf's transition"
+  },
+  {
+   "source": "Donald Rumsfeld",
+   "target": "Office of the Secretary of Defense",
+   "type": "leads",
+   "detail": "Rumsfeld authors the memo as Secretary of Defense; the document is attributed to the Office of the Secretary of Defense (OSD document footer).",
+   "date": "2002-06-25",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "11-L-0559/OS0/11633"
+  },
+  {
+   "source": "Douglas Feith",
+   "target": "Donald Rumsfeld",
+   "type": "reports_to",
+   "detail": "Feith is tasked by Rumsfeld to respond to the memo, implying a subordinate relationship.",
+   "date": "2002-06-25",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "don't you think we ought to get a chunk of money"
+  },
+  {
+   "source": "Pervez Musharraf",
+   "target": "Pakistan government",
+   "type": "leads",
+   "detail": "Musharraf is the leader whose government/country would be induced to fight the war on terror; implied head of Pakistan government.",
+   "date": "2002-06-25",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "get the Paks to really fight the war on terror where it is, which is in their country"
+  },
+  {
+   "source": "Pakistan government",
+   "target": "Pakistan",
+   "type": "located_in",
+   "detail": "The war on terror is described as being in the Paks' own country.",
+   "date": "2002-06-25",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "fight the war on terror where it is, which is in their country"
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "Rumsfeld believed in June 2002 that the war on terror was located inside Pakistan.",
+  "He wanted Pakistan to fight terrorism more vigorously.",
+  "He proposed US financial assistance as a way to ease Musharraf's transition to the position the US wanted."
+ ]
+}

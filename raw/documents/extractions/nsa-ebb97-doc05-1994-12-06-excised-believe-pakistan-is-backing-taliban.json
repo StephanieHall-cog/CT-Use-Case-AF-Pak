@@ -1,0 +1,559 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb97-doc05-1994-12-06-excised-believe-pakistan-is-backing-taliban",
+  "title": "[Excised] Believe Pakistan is Backing Taliban",
+  "authors": "U.S. Embassy Islamabad",
+  "publisher": "National Security Archive (GWU), The Taliban File",
+  "published": "1994-12-06",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB97/tal5.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB97/index.htm",
+  "pages": 3,
+  "kind": "cable",
+  "note": "[Secret] Conveys a source's belief that Pakistan directly supports the Taliban, with General Babar as principal patron. Pakistani Frontier Corps allegedly provided artillery cover for the Taliban's seizure of the Spin Boldak arms dump.",
+  "collection": "NSAEBB97",
+  "doc_number": "Document 5",
+  "relevance": "high",
+  "ocr": 3
+ },
+ "persons": [
+  {
+   "name": "Ashraf",
+   "aliases": [
+    "General Ashraf",
+    "Lt. Gen. Ashraf",
+    "ISI DIRGEN Ashraf"
+   ],
+   "role": "Director General of ISI (Lt. Gen.)",
+   "organizations": [
+    "ISI"
+   ],
+   "nationality_or_origin": "Pakistani",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Pakistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "MEETING WITH ISI DIRGEN LTGEN. GENERAL ASHRAF THE PREVIOUS WEEK"
+    },
+    {
+     "timestamp": "p.2",
+     "quote": "HAD VEHEMENTLY DENIED THAT HIS AGENCY HAD ANY ROLE IN SUPPORTING THE AFGHAN TALIBAN MOVEMENT"
+    },
+    {
+     "timestamp": "p.2",
+     "quote": "THE GENERAL PREDICTED THAT THE TALIBAN COULD BECOME A DANGEROUS AND UNCONTROLLABLE FORCE"
+    }
+   ]
+  },
+  {
+   "name": "Benazir Bhutto",
+   "aliases": [
+    "PM Bhutto",
+    "Benazir Bhutto"
+   ],
+   "role": "Prime Minister of Pakistan",
+   "organizations": [
+    "Government of Pakistan"
+   ],
+   "nationality_or_origin": "Pakistani",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Pakistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "HE HAD STRONGLY RECOMMENDED TO PM BHUTTO THAT THE GOP NOT SUPPORT THE TALIBAN IN ANY WAY"
+    }
+   ]
+  },
+  {
+   "name": "Lallai",
+   "aliases": [
+    "Lallaie",
+    "NIFA Commander Lallaie"
+   ],
+   "role": "NIFA commander in Kandahar, routed by Taliban",
+   "organizations": [
+    "NIFA"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Kandahar"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "QUICKLY ROUTING TWO MAJOR BATTLE-TESTED COMMANDERS IN KANDAHAR -- NIFA COMMANDER LALLAIE"
+    }
+   ]
+  },
+  {
+   "name": "Sar Katib",
+   "aliases": [
+    "Sar Khatib",
+    "SAR KHATIB"
+   ],
+   "role": "Hizb-i Islami (HIG) commander in Kandahar, routed by Taliban",
+   "organizations": [
+    "Hizb-i Islami (Hekmatyar)"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Kandahar"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.3",
+     "quote": "HIG COMMANDER SAR KHATIB), AND THEIR USE OF TANKS AND HELICOPTERS"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Taliban",
+   "aliases": [
+    "Students movement"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [
+    "NIFA",
+    "Hizb-i Islami (Hekmatyar)"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Burgeoning movement in Kandahar in 1994, alleged to be backed by Pakistan."
+  },
+  {
+   "name": "ISI",
+   "aliases": [
+    "Inter-Services Intelligence"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Government of Pakistan"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Its DG reportedly denied supporting the Taliban and advised PM Bhutto against it."
+  },
+  {
+   "name": "Government of Pakistan",
+   "aliases": [
+    "GOP"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Alleged to have supported Taliban."
+  },
+  {
+   "name": "Pakistani Frontier Corps",
+   "aliases": [
+    "Frontier Corps"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "Government of Pakistan"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Allegedly shelled Spin Boldak armory before Taliban seizure."
+  },
+  {
+   "name": "NIFA",
+   "aliases": [
+    "National Islamic Front of Afghanistan"
+   ],
+   "type": "militia",
+   "parent_or_allies": [],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Commander Lallai routed by Taliban."
+  },
+  {
+   "name": "Hizb-i Islami (Hekmatyar)",
+   "aliases": [
+    "HIG"
+   ],
+   "type": "militia",
+   "parent_or_allies": [],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Commander Sar Katib routed by Taliban."
+  },
+  {
+   "name": "U.S. Embassy Islamabad",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Author of cable."
+  }
+ ],
+ "places": [
+  {
+   "name": "Kandahar",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Taliban movement base; routed NIFA and HIG commanders"
+  },
+  {
+   "name": "Spin Boldak",
+   "type": "town",
+   "country": "Afghanistan",
+   "parent": "Kandahar",
+   "significance": "Armory seized by Taliban Sept 1994"
+  },
+  {
+   "name": "Kabul",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Source accompanied someone to a meeting there"
+  },
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Alleged Taliban backer"
+  },
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Taliban arena"
+  }
+ ],
+ "events": [
+  {
+   "date": "1994-09",
+   "date_precision": "month",
+   "type": "attack",
+   "description": "Taliban seize Spin Boldak armory after shelling from Pakistani Frontier Corps positions, per source.",
+   "place": "Spin Boldak",
+   "actors": [
+    "Taliban",
+    "Pakistani Frontier Corps"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1994-11-02",
+   "date_precision": "approx",
+   "type": "meeting",
+   "description": "Meeting with ISI DG Ashraf in which he denied ISI support for Taliban (week before Nov 9).",
+   "place": "",
+   "actors": [
+    "Ashraf"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1994-11-09",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Source confides to Embassy political officer about the Ashraf meeting.",
+   "place": "Islamabad",
+   "actors": [
+    "U.S. Embassy Islamabad"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1994-12-06",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Embassy cable sent to State Department.",
+   "place": "Islamabad",
+   "actors": [
+    "U.S. Embassy Islamabad"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1994-09",
+   "date_precision": "month",
+   "type": "attack",
+   "description": "Taliban seize Spin Boldak armory after artillery shelling allegedly from Pakistani Frontier Corps positions.",
+   "place": "Spin Boldak",
+   "actors": [
+    "Taliban",
+    "Pakistani Frontier Corps"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1994",
+   "date_precision": "year",
+   "type": "offensive",
+   "description": "Taliban rout NIFA commander Lallai and HIG commander Sar Katib in Kandahar using tanks and helicopters.",
+   "place": "Kandahar",
+   "actors": [
+    "Taliban",
+    "Lallai",
+    "Sar Katib",
+    "NIFA",
+    "Hizb-i Islami (Hekmatyar)"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1994-11",
+   "date_precision": "month",
+   "type": "meeting",
+   "description": "Source accompanied to Kabul a meeting with ISI DG Ashraf, who denied ISI support to Taliban; source told Poloff on November 9.",
+   "place": "Kabul",
+   "actors": [
+    "Ashraf",
+    "ISI"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1994-12-06",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "U.S. Embassy Islamabad cables that a source believes Pakistan is backing the Taliban.",
+   "place": "Islamabad",
+   "actors": [
+    "U.S. Embassy Islamabad"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Ashraf",
+   "target": "ISI",
+   "type": "leads",
+   "detail": "Ashraf is Director General of ISI.",
+   "date": "1994",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "ISI DIRGEN LTGEN. GENERAL ASHRAF"
+  },
+  {
+   "source": "Ashraf",
+   "target": "Benazir Bhutto",
+   "type": "other",
+   "detail": "Reportedly advised PM Bhutto not to support Taliban.",
+   "date": "1994",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "STRONGLY RECOMMENDED TO PM BHUTTO THAT THE GOP NOT SUPPORT THE TALIBAN"
+  },
+  {
+   "source": "Taliban",
+   "target": "Pakistani Frontier Corps",
+   "type": "funded_by",
+   "detail": "Alleged Frontier Corps artillery support and officer coordination for Spin Boldak assault.",
+   "date": "1994-09",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "PRECEDED BY ARTILLERY SHELLING OF THE BASE -- FROM PAKISTANI FRONTIER CORPS POSITIONS"
+  },
+  {
+   "source": "Taliban",
+   "target": "Lallai",
+   "type": "rival_of",
+   "detail": "Taliban routed NIFA commander Lallai in Kandahar.",
+   "date": "1994",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "ROUTING TWO MAJOR BATTLE-TESTED COMMANDERS IN KANDAHAR -- NIFA COMMANDER LALLAIE"
+  },
+  {
+   "source": "Taliban",
+   "target": "Sar Katib",
+   "type": "rival_of",
+   "detail": "Taliban routed HIG commander Sar Katib in Kandahar.",
+   "date": "1994",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "HIG COMMANDER SAR KHATIB"
+  },
+  {
+   "source": "Lallai",
+   "target": "NIFA",
+   "type": "member_of",
+   "detail": "NIFA commander.",
+   "date": "1994",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "NIFA COMMANDER LALLAIE"
+  },
+  {
+   "source": "Sar Katib",
+   "target": "Hizb-i Islami (Hekmatyar)",
+   "type": "member_of",
+   "detail": "HIG commander.",
+   "date": "1994",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "HIG COMMANDER SAR KHATIB"
+  },
+  {
+   "source": "Pakistan",
+   "target": "Taliban",
+   "type": "funded_by",
+   "detail": "Source claims the Taliban movement is directly supported by Pakistan (inverse direction: Taliban recipient, Pakistan provider).",
+   "date": "1994-12",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "THE BURGEONING TALIBAN (STUDENTS) MOVEMENT IN AFGHANISTAN IS BEING DIRECTLY SUPPORTED BY PAKISTAN."
+  },
+  {
+   "source": "Taliban",
+   "target": "Pakistan",
+   "type": "funded_by",
+   "detail": "Taliban allegedly directly supported by Pakistan.",
+   "date": "1994-12",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "IS BEING DIRECTLY SUPPORTED BY PAKISTAN."
+  },
+  {
+   "source": "Taliban",
+   "target": "Pakistani Frontier Corps",
+   "type": "other",
+   "detail": "Alleged Frontier Corps artillery shelled Spin Boldak armory ahead of Taliban seizure, aiding the Taliban.",
+   "date": "1994-09",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "SEIZURE OF THE SPIN BOLDAK ARMORY WAS PRECEDED BY ARTILLERY SHELLING OF THE BASE -- FROM PAKISTANI FRONTIER CORPS POSITIONS."
+  },
+  {
+   "source": "Taliban",
+   "target": "Pakistan",
+   "type": "trained_by",
+   "detail": "Taliban assault coordinated by Pakistani officers on the scene; source claims Pakistani tutelage or direct control.",
+   "date": "1994-09",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "COORDINATION PROVIDED BY PAKISTANI OFFICERS ON THE SCENE."
+  },
+  {
+   "source": "Taliban",
+   "target": "Spin Boldak",
+   "type": "captured",
+   "detail": "Taliban seized the Spin Boldak armory in September 1994.",
+   "date": "1994-09",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "THE TALIBAN'S SEPTEMBER SEIZURE OF THE SPIN BOLDAK ARMORY"
+  },
+  {
+   "source": "Lallai",
+   "target": "NIFA",
+   "type": "member_of",
+   "detail": "Lallai identified as NIFA commander.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "NIFA COMMANDER LALLAIE"
+  },
+  {
+   "source": "Sar Katib",
+   "target": "Hizb-i Islami (Hekmatyar)",
+   "type": "member_of",
+   "detail": "Sar Katib identified as HIG commander.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "HIG COMMANDER SAR"
+  },
+  {
+   "source": "Ashraf",
+   "target": "ISI",
+   "type": "leads",
+   "detail": "Lt. Gen. Ashraf is ISI Director General.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "MEETING WITH ISI DIRGEN LTGEN. GENERAL ASHRAF"
+  },
+  {
+   "source": "Ashraf",
+   "target": "Benazir Bhutto",
+   "type": "reports_to",
+   "detail": "ISI chief recommended to PM Bhutto that the GOP not support the Taliban.",
+   "date": "1994",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "HE HAD STRONGLY RECOMMENDED TO PM BHUTTO THAT THE GOP NOT SUPPORT THE TALIBAN IN ANY WAY."
+  },
+  {
+   "source": "Ashraf",
+   "target": "Taliban",
+   "type": "other",
+   "detail": "Ashraf denied ISI had any role in supporting the Taliban in Kandahar and warned they could become dangerous.",
+   "date": "1994-11",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "HAD VEHEMENTLY DENIED THAT HIS AGENCY HAD ANY ROLE IN SUPPORTING THE AFGHAN TALIBAN MOVEMENT IN KANDAHAR"
+  },
+  {
+   "source": "Taliban",
+   "target": "Kandahar",
+   "type": "located_in",
+   "detail": "Taliban movement based in Kandahar.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "AFGHAN TALIBAN MOVEMENT IN KANDAHAR"
+  },
+  {
+   "source": "ISI",
+   "target": "Government of Pakistan",
+   "type": "member_of",
+   "detail": "ISI is a Pakistani state agency whose chief advised the GOP.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "THE GOP NOT SUPPORT THE TALIBAN IN ANY WAY"
+  },
+  {
+   "source": "Pakistan",
+   "target": "Taliban",
+   "type": "other",
+   "detail": "Source believes Pakistan's Interior Minister is the principal patron of the Taliban.",
+   "date": "1994-12",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "PAKISTAN'S INTERIOR MINISTER IS THE PRINC"
+  }
+ ],
+ "sources_cited": [
+  "Islamabad 11247 (reftel)",
+  "Excised well-informed source's account to Embassy poloff, 9 Nov 1994"
+ ],
+ "key_claims": [
+  "A source claims the Taliban are directly supported by Pakistan.",
+  "ISI DG Ashraf reportedly denied ISI support and warned Bhutto that the Taliban could become dangerous and uncontrollable.",
+  "The source alleges Frontier Corps shelling and Pakistani officers' coordination enabled the Sept 1994 capture of Spin Boldak armory.",
+  "Taliban defeat of NIFA and HIG commanders using tanks and helicopters suggested Pakistani tutelage.",
+  "The Embassy doubts the source accurately characterized Ashraf but accepts some Pakistani elements supported the Taliban, with continued support and government control uncertain."
+ ]
+}

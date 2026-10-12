@@ -1,0 +1,257 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc61-2000-03-27-afghanistan-bin-ladin-evading-sanctions",
+  "title": "Afghanistan: Bin Ladin Evading Sanctions",
+  "authors": "Central Intelligence Agency (Senior Executive Intelligence Brief)",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "2000-03-27",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7xgb-ivxcp/2000-03-27-afghanistan-bin-ladin-evading.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 2,
+  "kind": "briefing",
+  "note": "Senior Executive Intelligence Brief on Bin Ladin evading sanctions. Cited in 9/11 Commission Report, Chapter 11, Endnote 5.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 61",
+  "relevance": "high",
+  "ocr": 1
+ },
+ "persons": [
+  {
+   "name": "Usama Bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Usama bin Ladin"
+   ],
+   "role": "al-Qa'ida leader whose money movers are adapting to UN sanctions on the Taliban",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Usama Bin Ladin's monev movers have at/Justed to UN Jinancitd sanctions on the Taliba11"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Taliban",
+   "aliases": [],
+   "type": "political movement",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Subject of UN financial sanctions; controls Ariana Afghan Airlines."
+  },
+  {
+   "name": "Ariana Afghan Airlines",
+   "aliases": [
+    "Ariana Airlines"
+   ],
+   "type": "other",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Taliban-controlled airline; sanctions halted direct currency shipments from Dubai to Afghanistan aboard its flights."
+  },
+  {
+   "name": "United Nations",
+   "aliases": [
+    "UN"
+   ],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Imposed financial sanctions on the Taliban."
+  },
+  {
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Producer of the Senior Executive Intelligence Brief."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Destination of currency shipments and base of the Taliban."
+  },
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Funds passing overland through Pakistan are more susceptible to government confiscation or theft."
+  },
+  {
+   "name": "Dubai",
+   "type": "city",
+   "country": "United Arab Emirates",
+   "parent": "United Arab Emirates",
+   "significance": "Origin of currency shipments to Afghanistan, now halted on Ariana flights."
+  }
+ ],
+ "events": [
+  {
+   "date": "2000-03-27",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA Senior Executive Intelligence Brief reports Bin Ladin's money movers adjusting to UN sanctions on the Taliban.",
+   "place": "",
+   "actors": [
+    "Usama Bin Ladin",
+    "Taliban",
+    "Central Intelligence Agency"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2000-03-27",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA Senior Executive Intelligence Brief reports Bin Ladin's money movers adapted to UN sanctions on the Taliban; overland funds through Pakistan are more vulnerable to confiscation or theft.",
+   "place": "Afghanistan",
+   "actors": [
+    "Central Intelligence Agency",
+    "Usama Bin Ladin",
+    "Taliban",
+    "United Nations"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "approx 2000",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "UN sanctions halted currency shipments directly from Dubai to Afghanistan aboard Taliban-controlled Ariana flights; the flow continues through less direct channels.",
+   "place": "Dubai",
+   "actors": [
+    "United Nations",
+    "Ariana Afghan Airlines",
+    "Taliban",
+    "Usama Bin Ladin"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "approx 2000",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Funds moving overland through Pakistan became more susceptible to government confiscation or theft as a result of the sanctions.",
+   "place": "Pakistan",
+   "actors": [
+    "Usama Bin Ladin"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Ariana Afghan Airlines",
+   "target": "Taliban",
+   "type": "other",
+   "detail": "Ariana Airlines is described as Taliban-controlled.",
+   "date": "2000-03-27",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "flights , the Taliban-controlled Ari31:1a Airlines"
+  },
+  {
+   "source": "United Nations",
+   "target": "Taliban",
+   "type": "other",
+   "detail": "The UN imposed financial sanctions on the Taliban.",
+   "date": "2000-03-27",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "UN Jinancitd sanctions on the Taliba11"
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "Taliban",
+   "type": "other",
+   "detail": "Bin Ladin's money movers have adjusted to UN financial sanctions imposed on the Taliban, implying his financial operations run through Taliban-controlled Afghanistan.",
+   "date": "2000-03-27",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Usama Bin Ladin's monev movers have at/Justed to UN Jinancitd sanctions on the Taliba11"
+  },
+  {
+   "source": "United Nations",
+   "target": "Taliban",
+   "type": "other",
+   "detail": "The UN imposed financial sanctions on the Taliban.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "UN Jinancitd sanctions on the Taliba11"
+  },
+  {
+   "source": "Ariana Afghan Airlines",
+   "target": "Taliban",
+   "type": "other",
+   "detail": "Ariana Airlines is described as Taliban-controlled.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "flights , the Taliban-controlled Ari31:1a Airlines"
+  },
+  {
+   "source": "Ariana Afghan Airlines",
+   "target": "Dubai",
+   "type": "other",
+   "detail": "Currency shipments formerly flew on Ariana flights directly from Dubai to Afghanistan; sanctions halted them.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "halted ~ency shipments directly from Dubai to Afghanistan aboard flights , the Taliban-controlled Ari31:1a Airlines"
+  },
+  {
+   "source": "Ariana Afghan Airlines",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Ariana is the Afghan airline, Taliban-controlled, with flights to Afghanistan.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "directly from Dubai to Afghanistan aboard flights , the Taliban-controlled Ari31:1a Airlines"
+  },
+  {
+   "source": "Taliban",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "The Taliban control Afghan entities such as Ariana and are the target of UN sanctions.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "the Taliban-controlled Ari31:1a Airlines"
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "Bin Ladin's money movers have adjusted to UN financial sanctions on the Taliban.",
+  "Sanctions made funds moving overland through Pakistan more susceptible to government confiscation or theft.",
+  "Sanctions halted direct currency shipments from Dubai to Afghanistan aboard Taliban-controlled Ariana Airlines flights.",
+  "The flow of money continues through less direct channels."
+ ]
+}

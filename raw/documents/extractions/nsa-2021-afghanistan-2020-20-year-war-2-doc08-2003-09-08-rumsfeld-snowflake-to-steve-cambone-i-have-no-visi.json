@@ -1,0 +1,217 @@
+{
+ "document": {
+  "doc_id": "nsa-2021-afghanistan-2020-20-year-war-2-doc08-2003-09-08-rumsfeld-snowflake-to-steve-cambone-i-have-no-visi",
+  "title": "Rumsfeld snowflake to Steve Cambone (\"I have no visibility into who the bad guys are\")",
+  "authors": "Office of the Secretary of Defense (Donald Rumsfeld)",
+  "publisher": "National Security Archive (GWU), Afghanistan 20/20: The 20-Year War in 20 Documents | National Security Archive",
+  "published": "2003-09-08",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qy3fic-cl4be/08.pdf",
+  "source_page": "https://nsarchive.gwu.edu/briefing-book/afghanistan/2021-08-19/afghanistan-2020-20-year-war-20-documents",
+  "pages": 1,
+  "kind": "memo",
+  "note": "[Unclassified] Rumsfeld laments that nearly two years into the war the intelligence community has nothing actionable on who the enemy is in Afghanistan or Iraq.",
+  "collection": "new-afghanistan-2020-20-year-war-20-docu",
+  "doc_number": "Document 8",
+  "relevance": "medium",
+  "ocr": 0
+ },
+ "persons": [
+  {
+   "name": "Donald Rumsfeld",
+   "aliases": [
+    "Donald R. Rumsfeld",
+    "Rumsfeld"
+   ],
+   "role": "US Secretary of Defense; author of the memo (snowflake)",
+   "organizations": [
+    "Office of the Secretary of Defense",
+    "US Department of Defense"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan",
+    "Iraq"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "I have no visibility into who the bad guys are in Afghanistan or Iraq."
+    }
+   ]
+  },
+  {
+   "name": "Steve Cambone",
+   "aliases": [
+    "Stephen Cambone",
+    "Steve Cambone"
+   ],
+   "role": "Recipient of the memo; senior Pentagon official (Under Secretary of Defense for Intelligence)",
+   "organizations": [
+    "Office of the Secretary of Defense",
+    "US Department of Defense"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "TO: Steve Caml:ione FROM: Donald R~fel4 DATE: September 8, 2003"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Office of the Secretary of Defense",
+   "aliases": [
+    "OSD"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "US Department of Defense"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Source of the memo, document stamped 11-L-0559/OSD/18828."
+  },
+  {
+   "name": "US intelligence community",
+   "aliases": [
+    "the community",
+    "intel community"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Rumsfeld says its reporting sounds comprehensive but nothing is actionable; deficient in human intelligence."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Rumsfeld says he lacks visibility into who the bad guys are there."
+  },
+  {
+   "name": "Iraq",
+   "type": "country",
+   "country": "Iraq",
+   "parent": "",
+   "significance": "Also named as a place where Rumsfeld lacks visibility into the adversaries."
+  }
+ ],
+ "events": [
+  {
+   "date": "2003-09-08",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Rumsfeld sends a snowflake memo to Steve Cambone saying he has no visibility into who the bad guys are in Afghanistan or Iraq, that intelligence is not actionable, and that human intelligence is woefully deficient.",
+   "place": "",
+   "actors": [
+    "Donald Rumsfeld",
+    "Steve Cambone"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2003-09-08",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Rumsfeld sends a snowflake memo to Steve Cambone stating he has no visibility into who the 'bad guys' are in Afghanistan or Iraq, that intelligence lacks actionable content, and that the US is woefully deficient in human intelligence.",
+   "place": "Washington, D.C.",
+   "actors": [
+    "Donald Rumsfeld",
+    "Steve Cambone",
+    "Office of the Secretary of Defense",
+    "US intelligence community"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Donald Rumsfeld",
+   "target": "Steve Cambone",
+   "type": "other",
+   "detail": "Rumsfeld addressed the memo to Cambone and asked him to discuss and respond on intelligence deficiencies.",
+   "date": "2003-09-08",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "We are woefully deficient in human intelligence. Let's discuss it."
+  },
+  {
+   "source": "Donald Rumsfeld",
+   "target": "Office of the Secretary of Defense",
+   "type": "leads",
+   "detail": "Rumsfeld, as Secretary of Defense, authored the memo issued from the Office of the Secretary of Defense (OSD document stamp).",
+   "date": "2003-09-08",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "11-L-0559/OSD/18828"
+  },
+  {
+   "source": "Steve Cambone",
+   "target": "Office of the Secretary of Defense",
+   "type": "member_of",
+   "detail": "Cambone is the recipient of the Secretary's memo within OSD; the memo carries an OSD document number.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "11-L-0559/OSD/18828"
+  },
+  {
+   "source": "Steve Cambone",
+   "target": "Donald Rumsfeld",
+   "type": "reports_to",
+   "detail": "Cambone is tasked to respond to Rumsfeld's memo.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Let's discuss it."
+  },
+  {
+   "source": "Donald Rumsfeld",
+   "target": "US intelligence community",
+   "type": "other",
+   "detail": "Rumsfeld is a consumer of intelligence from the community and criticizes it as lacking actionable human intelligence.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "I read all the intel from the community and it sounds as though we know a great deal but in fact"
+  },
+  {
+   "source": "US intelligence community",
+   "target": "Afghanistan",
+   "type": "other",
+   "detail": "Rumsfeld says the US lacks visibility into who the adversaries are in Afghanistan.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "I have no visibility into who the bad guys are in Afghanistan or Iraq."
+  },
+  {
+   "source": "US intelligence community",
+   "target": "Iraq",
+   "type": "other",
+   "detail": "Rumsfeld says the US lacks visibility into who the adversaries are in Iraq.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "I have no visibility into who the bad guys are in Afghanistan or Iraq."
+  }
+ ],
+ "sources_cited": [
+  "Rumsfeld snowflake memo, 8 Sept 2003 (OSD document 11-L-0559/OSD/18828)"
+ ],
+ "key_claims": [
+  "Rumsfeld stated in Sept 2003 that he had no visibility into who the adversaries were in Afghanistan or Iraq.",
+  "He said US intelligence reporting sounded comprehensive but contained nothing actionable when probed.",
+  "He judged the US woefully deficient in human intelligence."
+ ]
+}

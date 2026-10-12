@@ -1,0 +1,242 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc23-1997-07-14-terrorism-activities-of-bin-ladin-s-in-pakistan-af",
+  "title": "Terrorism: Activities of Bin Ladin's in Pakistan, Afghanistan, and India",
+  "authors": "CIA",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "1997-07-14",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7x7g-tbo1k/1997-07-14-terrorism-activities-of-bin-ladins-in.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 3,
+  "kind": "intelligence report",
+  "note": "CIA Intelligence Report on bin Ladin's activities in Pakistan, Afghanistan and India. The Islamic Army treated Pakistan/Afghanistan as one region, a base and training center supporting insurgencies in Tajikistan, Kashmir and Chechnya, with a camp in Pakistan recruiting mostly Pakistanis. Source: 9/11 Commission Report, Chapter 2, Endnote 67.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 23",
+  "relevance": "high",
+  "ocr": 1
+ },
+ "persons": [
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Bin Ladin",
+    "Usama bin Laden"
+   ],
+   "role": "Leader of the 'Islamic Army' who interviewed recruits and assigned them; based in Sudan at the time discussed",
+   "organizations": [
+    "Islamic Army"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Sudan",
+    "Pakistan",
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "RECRUITS WERE INTERVIEWED. BY ... BIN LADIN BEFORE BEING SELECTED FOR DIFFERENT ASSIGNMENTS."
+    },
+    {
+     "timestamp": "p.2",
+     "quote": "IF BIN LADIN NEEDED EXPERTISE, SUCH AS A FIGHTING UNIT, WHICH HE DID NOT HAVE IN SUDAN, HE SIMPLY BROUGHT IT FROM CAMPS"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Islamic Army",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan/Afghanistan",
+   "notes": "Described as using Pakistan and Afghanistan as a regional base and training center supporting insurgencies in Tajikistan, Kashmir and Chechnya; ran a camp in Pakistan to train and recruit members."
+  }
+ ],
+ "places": [
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Regional base and training center for Islamic Army activities; location of a camp for training and recruiting"
+  },
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Regional base and training center for Islamic Army activities"
+  },
+  {
+   "name": "Sudan",
+   "type": "country",
+   "country": "Sudan",
+   "parent": "",
+   "significance": "Bin Ladin's base at the time; lacked a fighting unit that he brought from camps elsewhere"
+  },
+  {
+   "name": "Tajikistan",
+   "type": "country",
+   "country": "Tajikistan",
+   "parent": "",
+   "significance": "Insurgency supported by Islamic Army"
+  },
+  {
+   "name": "Kashmir",
+   "type": "region",
+   "country": "India/Pakistan",
+   "parent": "",
+   "significance": "Insurgency supported by Islamic Army"
+  },
+  {
+   "name": "Chechnya",
+   "type": "region",
+   "country": "Russia",
+   "parent": "",
+   "significance": "Insurgency supported by Islamic Army"
+  },
+  {
+   "name": "India",
+   "type": "country",
+   "country": "India",
+   "parent": "",
+   "significance": "Named in report subject line"
+  }
+ ],
+ "events": [
+  {
+   "date": "1997-07-14",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA information report on Bin Ladin's activities in Pakistan, Afghanistan and India, disseminated to US agencies.",
+   "place": "",
+   "actors": [
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1997-07-14",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA information report on Bin Ladin's activities in Pakistan, Afghanistan, and India.",
+   "place": "Pakistan/Afghanistan/India",
+   "actors": [
+    "Usama bin Ladin",
+    "Islamic Army"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Islamic Army",
+   "target": "Usama bin Ladin",
+   "type": "other",
+   "detail": "Bin Ladin interviewed Islamic Army recruits after training in Pakistan and chose their assignments, and drew fighting units from camps in Pakistan or elsewhere.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "RECRUITS WERE INTERVIEWED. BY ... BIN LADIN BEFORE BEING SELECTED FOR DIFFERENT ASSIGNMENTS."
+  },
+  {
+   "source": "Islamic Army",
+   "target": "Pakistan",
+   "type": "located_in",
+   "detail": "The Islamic Army had a training and recruiting camp in Pakistan.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "THE ISLAMIC ARMY HAD A CAMP IN PAKISTANI"
+  },
+  {
+   "source": "Islamic Army",
+   "target": "Pakistan",
+   "type": "located_in",
+   "detail": "Pakistan serves as a regional base and training center for Islamic Army activities.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "BOTH PAKISTAN AND AFGHANISTAN SERVE AS A REGIONAL BASE AND TRAINING CENTER FOR ISLAMIC ARMY ACTIVITIES"
+  },
+  {
+   "source": "Islamic Army",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Afghanistan serves as a regional base and training center for Islamic Army activities.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "BOTH PAKISTAN AND AFGHANISTAN SERVE AS A REGIONAL BASE AND TRAINING CENTER FOR ISLAMIC ARMY ACTIVITIES"
+  },
+  {
+   "source": "Islamic Army",
+   "target": "Tajikistan",
+   "type": "allied_with",
+   "detail": "Islamic Army activities support insurgencies in Tajikistan.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "ISLAMIC ARMY ACTIVITIES SUPPORTING IS... INSURGENCIES IN TAJIKISTAN, THE KASHMIR REGION AND CHECHNYA"
+  },
+  {
+   "source": "Islamic Army",
+   "target": "Kashmir",
+   "type": "allied_with",
+   "detail": "Islamic Army activities support insurgencies in the Kashmir region.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "INSURGENCIES IN TAJIKISTAN, THE KASHMIR REGION AND CHECHNYA"
+  },
+  {
+   "source": "Islamic Army",
+   "target": "Chechnya",
+   "type": "allied_with",
+   "detail": "Islamic Army activities support insurgencies in Chechnya.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "INSURGENCIES IN TAJIKISTAN, THE KASHMIR REGION AND CHECHNYA"
+  },
+  {
+   "source": "Islamic Army",
+   "target": "Pakistan",
+   "type": "other",
+   "detail": "The Islamic Army had a camp in Pakistan to train and recruit new members.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "THE ISLAMIC ARMY HAD A CAMP IN PAKISTANI"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Islamic Army",
+   "type": "leads",
+   "detail": "Bin Ladin interviewed trained recruits and selected them for assignments, implying command of the Islamic Army.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "RECRUITS WERE INTERVIEWED. BY... BIN LADIN BEFORE BEING SELECTED FOR DIFFERENT ASSIGNMENTS."
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Sudan",
+   "type": "located_in",
+   "detail": "Bin Ladin was based in Sudan and lacked a fighting unit there, so he brought one from camps elsewhere.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "A FIGHTING UNIT, WHICH HE DID'NOT HAVE IN SUDAN, HE SIMPLY BROUGHT IT FROM CAMPS EITHER IN PAKISTAN"
+  }
+ ],
+ "sources_cited": [
+  "CIA information report, not finally evaluated intelligence (14 July 1997)"
+ ],
+ "key_claims": [
+  "Pakistan and Afghanistan served as a regional base and training center for Islamic Army activities supporting insurgencies in Tajikistan, Kashmir and Chechnya.",
+  "The Islamic Army ran a camp in Pakistan to train and recruit members.",
+  "Bin Ladin personally interviewed recruits after training and selected their assignments.",
+  "Bin Ladin, based in Sudan, sourced fighting units from camps in Pakistan or elsewhere when he needed expertise."
+ ]
+}

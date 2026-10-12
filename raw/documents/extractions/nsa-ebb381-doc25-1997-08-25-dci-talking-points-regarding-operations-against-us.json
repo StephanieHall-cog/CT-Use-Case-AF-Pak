@@ -1,0 +1,171 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc25-1997-08-25-dci-talking-points-regarding-operations-against-us",
+  "title": "DCI Talking Points Regarding Operations Against Usama Bin Ladin",
+  "authors": "CIA Counterterrorism Center",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "1997-08-25",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7x7g-tbo1k/1997-08-25-dci-talking-points-regarding.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 2,
+  "kind": "briefing",
+  "note": "DCI talking points on operations against bin Ladin. Source: 9/11 Commission Report, Chapter 4, Endnote 8.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 25",
+  "relevance": "high",
+  "ocr": 1
+ },
+ "persons": [
+  {
+   "name": "Usama Bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Usama bin Ladin",
+    "Usama Bin Ladin",
+    "Bin Ladin"
+   ],
+   "role": "Financier and leader of jihadist activities; subject of CIA operations; reported to be spending large amounts of money in support of the Taleban",
+   "organizations": [
+    "Taleban"
+   ],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "large amounts of money Bin Ladin is spending on support for the Taleban"
+    },
+    {
+     "timestamp": "p.1",
+     "quote": "providing real-time information about Bin Ladin's activities and travels in Afghanistan"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Taleban",
+   "aliases": [
+    "Taliban"
+   ],
+   "type": "political movement",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Document states Bin Ladin is spending large amounts of money on support for the Taleban."
+  },
+  {
+   "name": "Counterterrorist Center",
+   "aliases": [
+    "CIA Counterterrorism Center",
+    "CTC"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Central Intelligence Agency"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Author of the memo; its Chief is the sender of the talking points to the DCI."
+  },
+  {
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Document source, with the DCI as recipient of the talking points."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Location of Bin Ladin's activities and travels that are the subject of intelligence reporting."
+  }
+ ],
+ "events": [
+  {
+   "date": "1997-08-25",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "The Chief of the Counterterrorist Center issues DCI talking points on operations against Usama Bin Ladin. They cover his financial support for the Taleban and the aim of obtaining real-time information on his activities and travels in Afghanistan. The OCR renders the year as 1991, but the document metadata gives 1997.",
+   "place": "Afghanistan",
+   "actors": [
+    "Counterterrorist Center",
+    "Central Intelligence Agency",
+    "Usama Bin Ladin",
+    "Taleban"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Usama Bin Ladin",
+   "target": "Taleban",
+   "type": "funded_by",
+   "detail": "Memo states Bin Ladin is spending large sums on support for the Taleban (the Taleban are the recipient; direction is from Bin Ladin as provider).",
+   "date": "1997-08-25",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "large amounts of money Bin Ladin is spending on support for the Taleban"
+  },
+  {
+   "source": "Taleban",
+   "target": "Usama Bin Ladin",
+   "type": "funded_by",
+   "detail": "The memo says Bin Ladin is spending large amounts of money on support for the Taleban. The OCR is degraded, so the wording is partly reconstructed.",
+   "date": "1997-08",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "large -~om1;ts of money ~n Ladin· is.-soendinq on· support for· the Taleban"
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "The memo refers to providing real-time information about Bin Ladin's activities and travels in Afghanistan, so he is based or moving there.",
+   "date": "1997-08",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "providing _real-tim1:;··informaticin p.bout Bin L~d:1n' s .activities .and. ·travels in Afghanistan."
+  },
+  {
+   "source": "Counterterrorist Center",
+   "target": "Central Intelligence Agency",
+   "type": "member_of",
+   "detail": "The Counterterrorist Center is the CIA component whose Chief wrote the DCI talking points. This is inferred from the document header and the 'FROM' line.",
+   "date": "1997-08-25",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Chief, counterterror1·sJ Cen·te·r"
+  },
+  {
+   "source": "Counterterrorist Center",
+   "target": "Usama Bin Ladin",
+   "type": "other",
+   "detail": "The Counterterrorist Center prepared DCI talking points on operations against Bin Ladin, i.e. it targeted him.",
+   "date": "1997-08-25",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "DCI Taiking Points'Regarding Operations Against. Usama ~n Ledin"
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "The CIA Counterterrorist Center reported that Bin Ladin was spending large amounts of money in support of the Taleban.",
+  "The memo concerns operations to obtain real-time information on Bin Ladin's activities and travels in Afghanistan."
+ ]
+}

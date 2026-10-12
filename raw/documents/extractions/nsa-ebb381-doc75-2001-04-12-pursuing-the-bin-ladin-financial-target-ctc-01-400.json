@@ -1,0 +1,463 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc75-2001-04-12-pursuing-the-bin-ladin-financial-target-ctc-01-400",
+  "title": "Pursuing the Bin Ladin Financial Target (CTC 01-40003HCS)",
+  "authors": "Central Intelligence Agency (Counterterrorist Center)",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "2001-04-12",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7xgb-ivxcp/2001-04-12-pursuing-the-bin-ladin-financial.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 8,
+  "kind": "report",
+  "note": "CIA analytic report on Bin Ladin's finances. Cited in 9/11 Commission Report, Chapter 5, Endnote 126.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 75",
+  "relevance": "high",
+  "ocr": 1
+ },
+ "persons": [
+  {
+   "name": "Usama Bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Usama bin Ladin",
+    "Bin Ladin"
+   ],
+   "role": "Leader of al-Qa'ida; makes final decisions on how funds are spent; target of CIA financial analysis",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "alive",
+   "status_detail": "alive at time of report (April 2001)",
+   "family": [],
+   "locations": [
+    "Afghanistan",
+    "Sudan",
+    "Saudi Arabia"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Usama Bin Ladin's financial assets are difficult to track because he uses a wide variety of mechanisms to move and raise money."
+    },
+    {
+     "timestamp": "p.3",
+     "quote": "Usama Bin Ladin's finances have become increasingly difficult to track since he moved to Afghanistan in 1996"
+    },
+    {
+     "timestamp": "p.5",
+     "quote": "Bin Ladin makes the final decision on how funds are spent, but he entrusts key lieutenants"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "al-Qa'ida",
+   "aliases": [
+    "al-Qaeda",
+    "al-Qa'ula"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Shifted financial activities underground after the US Embassy bombings; uses hawala dealers, couriers, NGOs and financial lieutenants."
+  },
+  {
+   "name": "DCI Counterterrorist Center",
+   "aliases": [
+    "CTC",
+    "Counterterrorist Center"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Central Intelligence Agency"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Authored the report with contributions from the Office of Transnational Issues."
+  },
+  {
+   "name": "Office of Transnational Issues",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Central Intelligence Agency"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Contributed to the report."
+  },
+  {
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Producer of the intelligence report."
+  },
+  {
+   "name": "United Nations Security Council",
+   "aliases": [
+    "UNSC"
+   ],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Passed Resolution 1333 calling on states to freeze funds associated with al-Qa'ida."
+  },
+  {
+   "name": "Government of Saudi Arabia",
+   "aliases": [
+    "Saudi Government"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Saudi Arabia",
+   "notes": "Froze Bin Ladin's bank accounts in the Kingdom and his interest in the family construction business."
+  },
+  {
+   "name": "Bin Ladin family construction business",
+   "aliases": [
+    "family's construction business"
+   ],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Saudi Arabia",
+   "notes": "Bin Ladin held an interest in it, which was frozen by the Saudi Government."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Bin Ladin moved there in 1996; its rudimentary banking system is avoided by al-Qa'ida."
+  },
+  {
+   "name": "Sudan",
+   "type": "country",
+   "country": "Sudan",
+   "parent": "",
+   "significance": "Bin Ladin was reportedly forced to liquidate most of his assets at a loss upon departing."
+  },
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Location of key money changers and hawala dealers that help al-Qa'ida remit and receive funds."
+  },
+  {
+   "name": "Saudi Arabia",
+   "type": "country",
+   "country": "Saudi Arabia",
+   "parent": "",
+   "significance": "The Kingdom froze Bin Ladin's accounts and business interests; Saudi citizens are fundraisers."
+  },
+  {
+   "name": "Gulf",
+   "type": "region",
+   "country": "",
+   "parent": "",
+   "significance": "Hawala dealers are widely used in the Gulf and South Asia."
+  },
+  {
+   "name": "South Asia",
+   "type": "region",
+   "country": "",
+   "parent": "",
+   "significance": "Hawala dealers widely used in the region."
+  }
+ ],
+ "events": [
+  {
+   "date": "1996",
+   "date_precision": "year",
+   "type": "travel",
+   "description": "Bin Ladin moved to Afghanistan after abrupt departure from Sudan; finances became harder to track.",
+   "place": "Afghanistan",
+   "actors": [
+    "Usama Bin Ladin"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1998",
+   "date_precision": "approx",
+   "type": "attack",
+   "description": "US Embassy bombings increased al-Qa'ida's need for security, pushing finances underground.",
+   "place": "",
+   "actors": [
+    "al-Qa'ida"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "2000",
+   "date_precision": "approx",
+   "type": "designation",
+   "description": "UN Security Council Resolution 1333 passed late in the year, calling on states to freeze funds associated with al-Qa'ida.",
+   "place": "",
+   "actors": [
+    "United Nations Security Council",
+    "al-Qa'ida"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "2001-04-12",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CTC intelligence report 'Pursuing the Bin Ladin Financial Target' issued.",
+   "place": "",
+   "actors": [
+    "DCI Counterterrorist Center"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1996",
+   "date_precision": "year",
+   "type": "travel",
+   "description": "Bin Ladin moved to Afghanistan, after which al-Qa'ida's financial activities went underground.",
+   "place": "Afghanistan",
+   "actors": [
+    "Usama Bin Ladin",
+    "al-Qa'ida"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "approx 1996",
+   "date_precision": "approx",
+   "type": "travel",
+   "description": "Bin Ladin's abrupt departure from Sudan, reportedly forced to liquidate most of his assets at a loss.",
+   "place": "Sudan",
+   "actors": [
+    "Usama Bin Ladin"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "2000",
+   "date_precision": "year",
+   "type": "designation",
+   "description": "The UN Security Council passed Resolution 1333, calling for member states to freeze funds associated with al-Qa'ida (described as 'late last year').",
+   "place": "",
+   "actors": [
+    "United Nations Security Council",
+    "al-Qa'ida"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "2001-04-12",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CTC issued the intelligence report 'Pursuing the Bin Ladin Financial Target'.",
+   "place": "",
+   "actors": [
+    "DCI Counterterrorist Center",
+    "Office of Transnational Issues"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "The Saudi Government froze Bin Ladin's bank accounts in the Kingdom and his interest in his family's construction business.",
+   "place": "Saudi Arabia",
+   "actors": [
+    "Government of Saudi Arabia",
+    "Usama Bin Ladin"
+   ],
+   "timestamp": "p.8"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Usama Bin Ladin",
+   "target": "al-Qa'ida",
+   "type": "leads",
+   "detail": "Bin Ladin makes the final decisions on how al-Qa'ida funds are spent.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "Bin Ladin makes the final decision on how funds are spent, but he entrusts key lieutenants"
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "Government of Saudi Arabia",
+   "type": "other",
+   "detail": "Saudi Government froze Bin Ladin's bank accounts and his interest in the family construction business.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "Saudi Government froze Bin Ladin's bank accounts in the Kingdom and his interest in his family's construction business"
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "Sudan",
+   "type": "located_in",
+   "detail": "Bin Ladin was reportedly forced to leave Sudan abruptly and liquidate assets at a loss.",
+   "date": "1996",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "Bin Ladin's abrupt departure from Sudan-where he reportedly was forced to liquidate most of his assets at a loss"
+  },
+  {
+   "source": "al-Qa'ida",
+   "target": "Pakistan",
+   "type": "other",
+   "detail": "Bin Ladin depends on money changers and hawala dealers in Pakistan to remit and receive funds.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "depends on an unspecified number of key money changers and hawala dealers in Pakistan"
+  },
+  {
+   "source": "DCI Counterterrorist Center",
+   "target": "Central Intelligence Agency",
+   "type": "member_of",
+   "detail": "The DCI Counterterrorist Center produced the intelligence report; the CIA link is inferred from the document's catalogue entry.",
+   "date": "2001-04-12",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Intelligence Report DCI Counterterrorist Center Pursuing the Bin Ladin Financial Target"
+  },
+  {
+   "source": "Office of Transnational Issues",
+   "target": "DCI Counterterrorist Center",
+   "type": "other",
+   "detail": "The Office of Transnational Issues contributed to the CTC report.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "prepared by the DCI Counterterrorist Center with contributions from the Office of Transnational Issues"
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Bin Ladin moved to Afghanistan in 1996, after which his finances became harder to track.",
+   "date": "1996",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "finances have become increasingly difficult to track since he moved to Afghanistan in 1996"
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "Sudan",
+   "type": "located_in",
+   "detail": "Bin Ladin was previously based in Sudan, left abruptly, and reportedly liquidated most of his assets at a loss.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "Bin Ladin's abrupt departure from Sudan-where he reportedly was forced to liquidate most of his assets at a loss"
+  },
+  {
+   "source": "al-Qa'ida",
+   "target": "Usama Bin Ladin",
+   "type": "member_of",
+   "detail": "Financial lieutenants and al-Qa'ida members move money on Bin Ladin's behalf.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "using financial lieutenants, members of al-Qa'ida, trusted sympathizers"
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "al-Qa'ida",
+   "type": "funded_by",
+   "detail": "Bin Ladin's funding mechanisms (hawala dealers, couriers, NGOs) support al-Qa'ida's activities.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "transfer the funds necessary to conduct al-Qa'ida's activities"
+  },
+  {
+   "source": "al-Qa'ida",
+   "target": "Pakistan",
+   "type": "funded_by",
+   "detail": "Bin Ladin depends on money changers and hawala dealers in Pakistan to remit and receive funds for al-Qa'ida.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.4",
+   "quote": "key money changers and hawala dealers in Pakistan to help al-Qa'ida remit and receive funds"
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "Government of Saudi Arabia",
+   "type": "rival_of",
+   "detail": "The Saudi Government froze Bin Ladin's bank accounts in the Kingdom and his interest in the family construction business.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.8",
+   "quote": "Saudi Government froze Bin Ladin's bank accounts in the Kingdom and his interest in his family's construction business"
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "Bin Ladin family construction business",
+   "type": "member_of",
+   "detail": "Bin Ladin held an interest in his family's construction business, which was frozen.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "his interest in his family's construction business"
+  },
+  {
+   "source": "Government of Saudi Arabia",
+   "target": "Saudi Arabia",
+   "type": "located_in",
+   "detail": "The government of the Kingdom froze the accounts there.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.8",
+   "quote": "froze Bin Ladin's bank accounts in the Kingdom"
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "Bin Ladin family construction business",
+   "type": "funded_by",
+   "detail": "The report says it lacks information on how much financial support Bin Ladin draws from his family.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "level of financial support he draws from his family and other donors sympathetic to his cause"
+  },
+  {
+   "source": "United Nations Security Council",
+   "target": "al-Qa'ida",
+   "type": "other",
+   "detail": "UNSCR 1333 calls on all member states to freeze funds associated with al-Qa'ida.",
+   "date": "2000",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "United Nations Security Council Resolution 1333 which calls on all members states to freeze any funds associated with al-Qa'ida"
+  }
+ ],
+ "sources_cited": [
+  "United Nations Security Council Resolution 1333"
+ ],
+ "key_claims": [
+  "Bin Ladin's funds are hard to track because he uses hawala dealers, couriers, banks and NGOs forming a network with few long-lasting nodes.",
+  "Al-Qa'ida moved its finances underground after the US Embassy bombings and the Sudan liquidation.",
+  "NGOs are exploited because legitimate humanitarian funds are co-mingled with funds for terrorism.",
+  "Bin Ladin's income sources are diversified (NGOs, donors, investments, commercial activities, drug trafficking), so removing one or two would not appreciably reduce capability.",
+  "Key hawala dealers and money changers in Pakistan support al-Qa'ida money movement.",
+  "CIA lacks reporting to estimate Bin Ladin's net worth, personal wealth use or family support.",
+  "UNSCR 1333 will likely make Bin Ladin and associates more discreet."
+ ]
+}

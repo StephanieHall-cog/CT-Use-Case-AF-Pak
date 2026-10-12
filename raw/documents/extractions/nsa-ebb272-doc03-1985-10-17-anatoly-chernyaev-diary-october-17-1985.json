@@ -1,0 +1,460 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb272-doc03-1985-10-17-anatoly-chernyaev-diary-october-17-1985",
+  "title": "Anatoly Chernyaev Diary, October 17, 1985",
+  "authors": "Anatoly Chernyaev",
+  "publisher": "National Security Archive (GWU), Afghanistan and the Soviet Withdrawal 1989 20 Years Later",
+  "published": "1985-10-17",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB272/Doc%203%201985-10-17%20Chernyaev%20Diary.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB272/index.htm",
+  "pages": 2,
+  "kind": "other",
+  "note": "At the Politburo session of Oct 17, 1985, Gorbachev proposed a final decision on Afghanistan, quoted citizens' letters on dissatisfaction with the war, and described telling Karmal 'we will help you, but with arms only, not troops.' Chernyaev noted Gorbachev's negative reaction to Defense Minister Sokolov's assessment.",
+  "collection": "NSAEBB272",
+  "doc_number": "Document 3",
+  "relevance": "medium",
+  "ocr": 0
+ },
+ "persons": [
+  {
+   "name": "Anatoly Chernyaev",
+   "aliases": [
+    "Anatoly S. Chernyaev"
+   ],
+   "role": "Soviet official and diarist; attended the Politburo session",
+   "organizations": [
+    "Politburo of the CPSU"
+   ],
+   "nationality_or_origin": "Soviet",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "I was at the Politburo today. There was a historical statement about Afghanistan."
+    }
+   ]
+  },
+  {
+   "name": "Mikhail Gorbachev",
+   "aliases": [
+    "Gorbachev"
+   ],
+   "role": "Soviet General Secretary; decided to end the Soviet involvement in Afghanistan",
+   "organizations": [
+    "Politburo of the CPSU"
+   ],
+   "nationality_or_origin": "Soviet",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Gorbachev has finally made up his mind to put an end to it."
+    },
+    {
+     "timestamp": "p.2",
+     "quote": "With or without Karmal we will follow this line firmly, which must in a minimally short amount of time lead to our withdrawal"
+    }
+   ]
+  },
+  {
+   "name": "Babrak Karmal",
+   "aliases": [
+    "Karmal"
+   ],
+   "role": "Afghan (PDPA) leader whom Gorbachev told to prepare to defend the regime without Soviet troops by summer 1986",
+   "organizations": [
+    "PDPA",
+    "Parcham"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "[Gorbachev] outlined his talk with Karmal. He, Gorbachev said, was dumbfounded"
+    }
+   ]
+  },
+  {
+   "name": "Sergei Sokolov",
+   "aliases": [
+    "Marshal Sokolov"
+   ],
+   "role": "Marshal of the Soviet Union, defense minister; spoke twice at the Politburo",
+   "organizations": [
+    "Soviet Armed Forces",
+    "Politburo of the CPSU"
+   ],
+   "nationality_or_origin": "Soviet",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "Marshal Sokolov took the floor twice, and it was obvious that he was ready to pull out of there"
+    }
+   ]
+  },
+  {
+   "name": "Andrei Gromyko",
+   "aliases": [
+    "Gromyko"
+   ],
+   "role": "Soviet Politburo member who proposed amendments to recommendations for Karmal",
+   "organizations": [
+    "Politburo of the CPSU"
+   ],
+   "nationality_or_origin": "Soviet",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "Gromyko took the floor, pronounced some amendments to the recommendations that are supposed to be handed over to Karmal"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Politburo of the CPSU",
+   "aliases": [
+    "Politburo"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Communist Party of the Soviet Union"
+   ],
+   "rivals": [],
+   "country_base": "Soviet Union",
+   "notes": "Session of 17 Oct 1985 decided on a policy leading to withdrawal from Afghanistan."
+  },
+  {
+   "name": "PDPA",
+   "aliases": [
+    "Afghan communist regime",
+    "People's Democratic Party of Afghanistan"
+   ],
+   "type": "political movement",
+   "parent_or_allies": [
+    "Soviet Union"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Referred to as 'the regime'/'revolution'; split between Parchamist and Khalqist factions."
+  },
+  {
+   "name": "Parcham",
+   "aliases": [
+    "Parchamists"
+   ],
+   "type": "political movement",
+   "parent_or_allies": [
+    "PDPA"
+   ],
+   "rivals": [
+    "Khalq"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Gorbachev urged an end to the Parchamist–Khalqist scuffle."
+  },
+  {
+   "name": "Khalq",
+   "aliases": [
+    "Khalqists"
+   ],
+   "type": "political movement",
+   "parent_or_allies": [
+    "PDPA"
+   ],
+   "rivals": [
+    "Parcham"
+   ],
+   "country_base": "Afghanistan",
+   "notes": ""
+  },
+  {
+   "name": "Soviet Armed Forces",
+   "aliases": [
+    "Soviet army"
+   ],
+   "type": "military",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Soviet Union",
+   "notes": "Troops to be withdrawn; aviation, artillery and equipment support to continue."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Subject of the Politburo decision to withdraw."
+  }
+ ],
+ "events": [
+  {
+   "date": "1985-10-17",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "Politburo session at which Gorbachev announced his decision to end the Soviet involvement in Afghanistan and withdraw.",
+   "place": "Moscow",
+   "actors": [
+    "Mikhail Gorbachev",
+    "Sergei Sokolov",
+    "Andrei Gromyko"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1985",
+   "date_precision": "year",
+   "type": "meeting",
+   "description": "Gorbachev's talk with Karmal, in which he said Afghan forces must defend the revolution themselves by summer 1986.",
+   "place": "",
+   "actors": [
+    "Mikhail Gorbachev",
+    "Babrak Karmal"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1985-10-17",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "Politburo session at which Gorbachev reported his conversation with Karmal and announced a firm course toward withdrawal from Afghanistan.",
+   "place": "Moscow",
+   "actors": [
+    "Mikhail Gorbachev",
+    "Sergei Sokolov",
+    "Andrei Gromyko",
+    "Politburo of the CPSU",
+    "Anatoly Chernyaev"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1985",
+   "date_precision": "year",
+   "type": "meeting",
+   "description": "Gorbachev's talk with Karmal, telling him the Soviets would not stay forever and he must broaden the regime base.",
+   "place": "",
+   "actors": [
+    "Mikhail Gorbachev",
+    "Babrak Karmal"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1985-10-17",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Gorbachev stated 'With or without Karmal we will follow this line firmly' toward withdrawal from Afghanistan.",
+   "place": "Moscow",
+   "actors": [
+    "Mikhail Gorbachev"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1986",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Deadline set by Gorbachev for Afghan leadership to defend its revolution without Soviet troops.",
+   "place": "Afghanistan",
+   "actors": [
+    "Mikhail Gorbachev",
+    "Babrak Karmal",
+    "Soviet Armed Forces"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1985-10-17",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Gromyko proposed amendments to recommendations to be handed to Karmal in a day or two.",
+   "place": "Moscow",
+   "actors": [
+    "Andrei Gromyko",
+    "Babrak Karmal"
+   ],
+   "timestamp": "p.2"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Mikhail Gorbachev",
+   "target": "Babrak Karmal",
+   "type": "met_with",
+   "detail": "Gorbachev conveyed that Soviet troops would leave and the regime must broaden its base.",
+   "date": "1985",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "[Gorbachev] outlined his talk with Karmal."
+  },
+  {
+   "source": "Sergei Sokolov",
+   "target": "Politburo of the CPSU",
+   "type": "member_of",
+   "detail": "Spoke at the Politburo session.",
+   "date": "1985-10-17",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "Marshal Sokolov took the floor twice"
+  },
+  {
+   "source": "Andrei Gromyko",
+   "target": "Politburo of the CPSU",
+   "type": "member_of",
+   "detail": "Spoke at the Politburo session.",
+   "date": "1985-10-17",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "Gromyko took the floor"
+  },
+  {
+   "source": "Mikhail Gorbachev",
+   "target": "Politburo of the CPSU",
+   "type": "leads",
+   "detail": "Gorbachev led the session as General Secretary.",
+   "date": "1985-10-17",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Gorbachev has finally made up his mind to put an end to it."
+  },
+  {
+   "source": "Parcham",
+   "target": "Khalq",
+   "type": "rival_of",
+   "detail": "Factional scuffle within the PDPA.",
+   "date": "1985",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "stop with the Parchamist and Khalqist scuffle"
+  },
+  {
+   "source": "Mikhail Gorbachev",
+   "target": "Babrak Karmal",
+   "type": "negotiated_with",
+   "detail": "Gorbachev told Karmal he must learn to defend his revolution himself by summer 1986 and broaden the regime's base.",
+   "date": "1985",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "by the summer of 1986 you will have to learn how to defend your revolution yourselves"
+  },
+  {
+   "source": "Mikhail Gorbachev",
+   "target": "Politburo of the CPSU",
+   "type": "member_of",
+   "detail": "Gorbachev spoke at the Politburo session and reported on the Karmal conversation.",
+   "date": "1985-10-17",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "I was at the Politburo today. There was a historical statement about Afghanistan."
+  },
+  {
+   "source": "Anatoly Chernyaev",
+   "target": "Politburo of the CPSU",
+   "type": "other",
+   "detail": "Chernyaev attended the Politburo session and recorded it in his diary.",
+   "date": "1985-10-17",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "I was at the Politburo today."
+  },
+  {
+   "source": "Babrak Karmal",
+   "target": "PDPA",
+   "type": "leads",
+   "detail": "Karmal is treated as the head of the Afghan regime whose party factions Gorbachev criticized.",
+   "date": "1985",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "stop with the Parchamist and Khalqist scuffle"
+  },
+  {
+   "source": "Parcham",
+   "target": "PDPA",
+   "type": "member_of",
+   "detail": "Parcham is a faction of the ruling party, implied by the reference to factional scuffle.",
+   "date": "1985",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "stop with the Parchamist and Khalqist scuffle"
+  },
+  {
+   "source": "Khalq",
+   "target": "PDPA",
+   "type": "member_of",
+   "detail": "Khalq is a faction of the ruling party, implied by the reference to factional scuffle.",
+   "date": "1985",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "stop with the Parchamist and Khalqist scuffle"
+  },
+  {
+   "source": "Soviet Armed Forces",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Soviet soldiers were deployed in Afghanistan; Gorbachev said Soviet aid would continue without soldiers.",
+   "date": "1985",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "We will help you for the time being, though not with soldiers but with aviation, artillery, equipment."
+  },
+  {
+   "source": "Sergei Sokolov",
+   "target": "Soviet Armed Forces",
+   "type": "leads",
+   "detail": "Marshal Sokolov, as defense figure, favored pulling out of Afghanistan.",
+   "date": "1985",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "Marshal Sokolov took the floor twice"
+  },
+  {
+   "source": "Sergei Sokolov",
+   "target": "Babrak Karmal",
+   "type": "rival_of",
+   "detail": "Sokolov had no plans of giving Karmal any indulgences.",
+   "date": "1985-10-17",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "had no plans of giving Karmal any indulgences"
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "Gorbachev decided at the 17 Oct 1985 Politburo to put an end to the Soviet involvement in Afghanistan.",
+  "Gorbachev told Karmal that by summer 1986 the Afghans would have to defend their revolution themselves.",
+  "Soviet help would continue only as aviation, artillery and equipment, not soldiers.",
+  "Karmal was urged to broaden the regime's base, drop socialism, restore Islam and share power with hostile band leaders.",
+  "Letters from Soviet citizens criticizing the war informed the Politburo discussion.",
+  "Marshal Sokolov was ready to pull out and had no indulgence for Karmal."
+ ]
+}

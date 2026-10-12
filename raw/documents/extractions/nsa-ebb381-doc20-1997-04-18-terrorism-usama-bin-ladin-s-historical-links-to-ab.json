@@ -1,0 +1,411 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc20-1997-04-18-terrorism-usama-bin-ladin-s-historical-links-to-ab",
+  "title": "Terrorism: Usama bin Ladin's Historical Links to Abdullah Azzam",
+  "authors": "CIA",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "1997-04-18",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7wuu-jeagl/1997-04-18-terrorism-usama-bin-ladins-historical.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 6,
+  "kind": "intelligence report",
+  "note": "CIA Intelligence Report on bin Ladin's historical links to Abdullah Azzam. Source: 9/11 Commission Report, Chapter 4, Endnotes 22, 43.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 20",
+  "relevance": "high",
+  "ocr": 4
+ },
+ "persons": [
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Usama Bin Ladin",
+    "Bin Ladin"
+   ],
+   "role": "Financier and mujahedin organizer during the Afghan war; later the subject of the report",
+   "organizations": [
+    "Maktab al-Khidmat"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Peshawar",
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "DURING THE AFGHAN WAR, USAMA BIN LADIN MET 'ABDALLAH AZZAM, WHO INFLUENCED HIM (BIN LADIN) TO ESTABLISH A NETWORK"
+    },
+    {
+     "timestamp": "p.2",
+     "quote": "SHORTLY THEREAFTER, BIN LADIN JOINED AZZAM IN PESRAWAR AND THEY FORMED THE"
+    }
+   ]
+  },
+  {
+   "name": "Abdallah Azzam",
+   "aliases": [
+    "Abdullah Azzam",
+    "'Abdallah Azzam"
+   ],
+   "role": "Mujahedin ideologue and organizer who influenced bin Ladin and co-formed the al-Khidmat organization in Peshawar",
+   "organizations": [
+    "Maktab al-Khidmat"
+   ],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Peshawar"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "BIN LADIN MET 'ABDALLAH AZZAM, WHO INFLUENCED HIM (BIN LADIN) TO ESTABLISH A NETWORK"
+    }
+   ]
+  },
+  {
+   "name": "Usama Asmarai",
+   "aliases": [
+    "Wali Khan Amin Shah",
+    "Usama Asmara'i"
+   ],
+   "role": "Associate of Ramzi Yousef; involved in the January 1995 Philippines airliner bombing plot; described in the summary as a Saudi national",
+   "organizations": [],
+   "nationality_or_origin": "Saudi",
+   "status": "detained",
+   "status_detail": "Stated to be in U.S. custody as of April 1997",
+   "family": [],
+   "locations": [
+    "Philippines"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "(ASMARAI)), AKA WALI KHAN AMIN SHAH, A SAUDI NATIONAL"
+    },
+    {
+     "timestamp": "p.2",
+     "quote": "USAMA ASMARAI IS CURRENTLY IN U.S. CUSTODY."
+    }
+   ]
+  },
+  {
+   "name": "Ramzi Ahmed Yousef",
+   "aliases": [
+    "Ramzi Yousef",
+    "Ramzi Ahmed ((Yousef))"
+   ],
+   "role": "Plotter of the January 1995 plan in the Philippines to bomb U.S. airliners",
+   "organizations": [],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Philippines"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "ASSOCIATE OF RAMZI AHMED ((YOUSEF)), WHO WAS INVOLVED WITH YOUSEF IN THE JANUARY 1995 PLOT IN THE PHILIPPINES"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Maktab al-Khidmat",
+   "aliases": [
+    "Al-Khidmat",
+    "MAK"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "The text is partly illegible; the name is inferred from 'L-KHIDMAT' and 'MK)'. It was formed by Azzam and bin Ladin in Peshawar."
+  }
+ ],
+ "places": [
+  {
+   "name": "Peshawar",
+   "type": "city",
+   "country": "Pakistan",
+   "parent": "Khyber Pakhtunkhwa",
+   "significance": "Bin Ladin joined Azzam here and they formed the al-Khidmat organization."
+  },
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Setting of the Afghan war, during which bin Ladin met Azzam."
+  },
+  {
+   "name": "Philippines",
+   "type": "country",
+   "country": "Philippines",
+   "parent": "",
+   "significance": "Location of the January 1995 plot to bomb U.S. airliners."
+  }
+ ],
+ "events": [
+  {
+   "date": "approx 1980s",
+   "date_precision": "approx",
+   "type": "meeting",
+   "description": "During the Afghan war, bin Ladin met Abdallah Azzam, who influenced him to establish a network supporting mujahedin recruitment and fundraising.",
+   "place": "Afghanistan",
+   "actors": [
+    "Usama bin Ladin",
+    "Abdallah Azzam"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "approx 1980s",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Bin Ladin joined Azzam in Peshawar and they formed al-Khidmat (Maktab al-Khidmat).",
+   "place": "Peshawar",
+   "actors": [
+    "Usama bin Ladin",
+    "Abdallah Azzam",
+    "Maktab al-Khidmat"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1995-01",
+   "date_precision": "month",
+   "type": "attack",
+   "description": "Plot in the Philippines to bomb U.S. airliners, involving Ramzi Yousef and an associate (Asmarai/Wali Khan Amin Shah).",
+   "place": "Philippines",
+   "actors": [
+    "Ramzi Ahmed Yousef",
+    "Usama Asmarai"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1997-04-18",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA information report on bin Ladin's historical links to Azzam.",
+   "place": "",
+   "actors": [
+    "CIA"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "approx 1980s",
+   "date_precision": "approx",
+   "type": "meeting",
+   "description": "During the Afghan War bin Ladin met Abdallah Azzam, who influenced him to establish a network for recruitment and funding.",
+   "place": "Afghanistan",
+   "actors": [
+    "Usama bin Ladin",
+    "Abdallah Azzam"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "approx 1980s",
+   "date_precision": "approx",
+   "type": "other",
+   "detail": "",
+   "description": "Bin Ladin joined Azzam in Peshawar and they formed Maktab al-Khidmat.",
+   "place": "Peshawar",
+   "actors": [
+    "Usama bin Ladin",
+    "Abdallah Azzam",
+    "Maktab al-Khidmat"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1995-01",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Plot in the Philippines by Yousef and Asmarai to bomb U.S. airliners.",
+   "place": "Philippines",
+   "actors": [
+    "Ramzi Ahmed Yousef",
+    "Usama Asmarai"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1997-04-18",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA information report on bin Ladin's historical links to Azzam is issued.",
+   "place": "",
+   "actors": [
+    "Usama bin Ladin",
+    "Abdallah Azzam"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Usama bin Ladin",
+   "target": "Abdallah Azzam",
+   "type": "met_with",
+   "detail": "Bin Ladin met Azzam during the Afghan war.",
+   "date": "approx 1980s",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "DURING THE AFGHAN WAR, USAMA BIN LADIN MET 'ABDALLAH AZZAM"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Abdallah Azzam",
+   "type": "other",
+   "detail": "Azzam influenced bin Ladin to establish a network to enhance mujahedin recruitment and fundraising.",
+   "date": "approx 1980s",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "WHO INFLUENCED HIM (BIN LADIN) TO ESTABLISH A NETWORK"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Maktab al-Khidmat",
+   "type": "member_of",
+   "detail": "Bin Ladin joined Azzam in Peshawar and they formed al-Khidmat.",
+   "date": "approx 1980s",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "BIN LADIN JOINED AZZAM IN PESRAWAR AND THEY FORMED THE"
+  },
+  {
+   "source": "Abdallah Azzam",
+   "target": "Maktab al-Khidmat",
+   "type": "member_of",
+   "detail": "Azzam co-formed al-Khidmat with bin Ladin in Peshawar.",
+   "date": "approx 1980s",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "THEY FORMED THE"
+  },
+  {
+   "source": "Usama Asmarai",
+   "target": "Ramzi Ahmed Yousef",
+   "type": "allied_with",
+   "detail": "Asmarai (Wali Khan Amin Shah) was an associate of Yousef in the January 1995 Philippines airliner plot.",
+   "date": "1995-01",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "ASSOCIATE OF RAMZI AHMED ((YOUSEF)), WHO WAS INVOLVED WITH YOUSEF IN THE JANUARY 1995 PLOT"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Abdallah Azzam",
+   "type": "met_with",
+   "detail": "During the Afghan War bin Ladin met Azzam, who influenced him to establish a network to enhance mujahedin recruitment and fundraising.",
+   "date": "Afghan War",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "DURING THE AFGHAN WAR, USAMA BIN LADIN MET 'ABDALLAH AZZAM, WHO INFLUENCED HIM (BIN LADIN) TO ESTABLISH A NETWORK"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Abdallah Azzam",
+   "type": "other",
+   "detail": "Azzam influenced bin Ladin to set up a network to improve mujahedin abilities to recruit fighters and obtain contributions from the Islamic world.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "WHO INFLUENCED HIM (BIN LADIN) TO ESTABLISH A NETWORK TO ENHANCE"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Abdallah Azzam",
+   "type": "allied_with",
+   "detail": "Bin Ladin joined Azzam in Peshawar and they formed the organization together.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "BIN LADIN JOINED AZZAM IN PESRAWAR AND THEY FORMED THE"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Maktab al-Khidmat",
+   "type": "member_of",
+   "detail": "Bin Ladin and Azzam formed the Maktab al-Khidmat (MK) in Peshawar; the name is partly garbled in the text.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "THEY FORMED THE L-KHIDMAT MK)"
+  },
+  {
+   "source": "Abdallah Azzam",
+   "target": "Maktab al-Khidmat",
+   "type": "member_of",
+   "detail": "Azzam co-formed the Maktab al-Khidmat (MK) with bin Ladin in Peshawar.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "THEY FORMED THE L-KHIDMAT MK)"
+  },
+  {
+   "source": "Maktab al-Khidmat",
+   "target": "Peshawar",
+   "type": "located_in",
+   "detail": "Bin Ladin joined Azzam in Peshawar, where they formed the organization.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "BIN LADIN JOINED AZZAM IN PESRAWAR AND THEY FORMED THE"
+  },
+  {
+   "source": "Usama Asmarai",
+   "target": "Ramzi Ahmed Yousef",
+   "type": "allied_with",
+   "detail": "Asmarai (aka Wali Khan Amin Shah), a Saudi national, was an associate of Yousef.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "(ASMARAI)), AKA WALI KHAN AMIN SHAH, A SAUDI NATIONAL"
+  },
+  {
+   "source": "Usama Asmarai",
+   "target": "Ramzi Ahmed Yousef",
+   "type": "other",
+   "detail": "Asmarai was involved with Yousef in the January 1995 plot in the Philippines to bomb U.S. airliners.",
+   "date": "1995-01",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "WHO WAS INVOLVED WITH YOUSEF IN THE JANUARY 1995 PLOT IN THE PHILIPPINES TO BOMB U.S. AIRLINERS"
+  },
+  {
+   "source": "Usama Asmarai",
+   "target": "Usama bin Ladin",
+   "type": "other",
+   "detail": "Asmarai is mentioned in the text in connection with bin Ladin; the exact link is garbled.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "BIN LADIN IN THE (ASMARAI), AKA WALI KHAN AMIN SHAH"
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "Abdallah Azzam influenced Usama bin Ladin to establish a network enhancing mujahedin abilities to recruit fighters and obtain contributions from around the Islamic world.",
+  "Bin Ladin joined Azzam in Peshawar, where they formed the al-Khidmat organization (partly illegible in the source).",
+  "Usama Asmarai, aka Wali Khan Amin Shah, was an associate of Ramzi Yousef in the January 1995 Philippines plot to bomb U.S. airliners and is in U.S. custody."
+ ]
+}

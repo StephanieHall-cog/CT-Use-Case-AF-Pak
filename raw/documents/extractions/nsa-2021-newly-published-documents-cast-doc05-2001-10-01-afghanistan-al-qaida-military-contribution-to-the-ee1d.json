@@ -1,0 +1,455 @@
+{
+ "document": {
+  "doc_id": "nsa-2021-newly-published-documents-cast-doc05-2001-10-01-afghanistan-al-qaida-military-contribution-to-the-ee1d",
+  "title": "Afghanistan: Al-Qaida Military Contribution to the Taleban",
+  "authors": "Department of State, Bureau of Intelligence and Research (INR)",
+  "publisher": "National Security Archive (GWU), Newly Published Documents Cast Doubt on Claims Taliban Will Give Up al Qaeda | National Security Archive",
+  "published": "2001-10-01",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qzusa3-20gi5/04b.pdf",
+  "source_page": "https://nsarchive.gwu.edu/briefing-book/afghanistan/2021-09-23/newly-published-documents-cast-doubt-claims-taliban-will-give",
+  "pages": 2,
+  "kind": "intelligence report",
+  "note": "[Secret] Second review/release of the same October 1, 2001 INR report on al Qaeda's military contribution to the Taliban, including the 055 Brigade. The page notes the other release fully obscured the section on jointly run al Qaeda–Taliban training camps, showing reviewers initially thought release would harm national security.",
+  "collection": "new-newly-published-documents-cast-doubt",
+  "doc_number": "Document 5b",
+  "relevance": "high",
+  "ocr": 0
+ },
+ "persons": [
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Usama bin Laden",
+    "Osama bin Ladin"
+   ],
+   "role": "Al-Qaida leader; principal financier, recruiter and supplier of the Taleban; reportedly named Afghanistan's 'Defense Minister' in late August 2001",
+   "organizations": [
+    "al-Qaida",
+    "Taleban",
+    "55th Brigade"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "the Taleban have increasingly relied on Usama bin Laden and the al-Qaida organization for support."
+    },
+    {
+     "timestamp": "p.1",
+     "quote": "Bin Laden provides money, recruits, materiel, and training for the fight against the Northern Alliance."
+    }
+   ]
+  },
+  {
+   "name": "Mullah Omar",
+   "aliases": [
+    "Mullah Muhammad Omar",
+    "Mullah Mohammed Omar"
+   ],
+   "role": "Taleban leader",
+   "organizations": [
+    "Taleban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "the press reported in late August that Taleban leader Mullah Omar had appointed him as Afghanistan's \"Defense Minister,\""
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "al-Qaida",
+   "aliases": [
+    "al-Qaeda"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taleban",
+    "55th Brigade"
+   ],
+   "rivals": [
+    "Northern Alliance"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Provides money, recruits, materiel and training to the Taleban; global recruiting and supply network dating from the 1980s; rotates personnel through the 55th Brigade for combat experience."
+  },
+  {
+   "name": "Taleban",
+   "aliases": [
+    "Taliban"
+   ],
+   "type": "political movement",
+   "parent_or_allies": [
+    "al-Qaida"
+   ],
+   "rivals": [
+    "Northern Alliance"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Reduced Pakistani military aid over the past year; increasingly reliant on bin Laden; unpopular forced recruitment; ranks plagued by defection and bribery."
+  },
+  {
+   "name": "55th Brigade",
+   "aliases": [
+    "055 Brigade",
+    "055th Brigade"
+   ],
+   "type": "militia",
+   "parent_or_allies": [
+    "al-Qaida",
+    "Taleban"
+   ],
+   "rivals": [
+    "Northern Alliance"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Made up predominantly of expatriate mujahidin loyal to bin Laden; strength estimated 500-2,500; employed in small groups; reputation for tenacity."
+  },
+  {
+   "name": "Northern Alliance",
+   "aliases": [],
+   "type": "militia",
+   "parent_or_allies": [],
+   "rivals": [
+    "Taleban",
+    "al-Qaida"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Opponent of the Taleban and al-Qaida."
+  },
+  {
+   "name": "Bureau of Intelligence and Research",
+   "aliases": [
+    "INR"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "US Department of State"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Author of the assessment."
+  },
+  {
+   "name": "Government of Pakistan",
+   "aliases": [
+    "Pakistan"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Military aid to the Taleban declined over the last year."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Site of Taleban rule, al-Qaida training and the fight against the Northern Alliance."
+  },
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Former military aid provider to the Taleban, now declining."
+  }
+ ],
+ "events": [
+  {
+   "date": "2001-08",
+   "date_precision": "month",
+   "type": "appointment",
+   "description": "Press reported that Mullah Omar had appointed bin Laden Afghanistan's 'Defense Minister', apparently without formal announcement.",
+   "place": "Afghanistan",
+   "actors": [
+    "Mullah Omar",
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-10-01",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "INR intelligence assessment on al-Qaida's military contribution to the Taleban issued.",
+   "place": "",
+   "actors": [
+    "Bureau of Intelligence and Research"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-08",
+   "date_precision": "month",
+   "type": "appointment",
+   "description": "Press reported Mullah Omar appointed bin Laden Afghanistan's Defense Minister; no formal announcement.",
+   "place": "Afghanistan",
+   "actors": [
+    "Mullah Omar",
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-10-01",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "INR Intelligence Assessment on al-Qaida's military contribution to the Taleban.",
+   "place": "",
+   "actors": [
+    "Bureau of Intelligence and Research"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "approx 2000",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Pakistan's military aid to the Taleban declined over the past year.",
+   "place": "Pakistan",
+   "actors": [
+    "Government of Pakistan",
+    "Taleban"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "approx 1980s",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Bin Laden's global network for funneling recruits into Afghanistan began.",
+   "place": "Afghanistan",
+   "actors": [
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Taleban",
+   "target": "al-Qaida",
+   "type": "funded_by",
+   "detail": "Taleban rely on bin Laden/al-Qaida for money, recruits, materiel and training as Pakistani aid declined.",
+   "date": "2001",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "the Taleban have increasingly relied on Usama bin Laden and the al-Qaida organization for support."
+  },
+  {
+   "source": "Taleban",
+   "target": "Usama bin Ladin",
+   "type": "funded_by",
+   "detail": "Bin Laden probably contributes several million dollars a year to the Taleban.",
+   "date": "2001",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Bin Laden probably contributes several million dollars a year (from both personal and network funds) to the Taleban."
+  },
+  {
+   "source": "Mullah Omar",
+   "target": "Usama bin Ladin",
+   "type": "other",
+   "detail": "Press reported Omar appointed bin Laden 'Defense Minister'; no formal announcement.",
+   "date": "2001-08",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Taleban leader Mullah Omar had appointed him as Afghanistan's \"Defense Minister,\""
+  },
+  {
+   "source": "55th Brigade",
+   "target": "Usama bin Ladin",
+   "type": "other",
+   "detail": "Brigade composed mainly of expatriate mujahidin loyal to bin Laden.",
+   "date": "2001",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "made up predominately of expatriate mujahidin forces loyal to bin Laden."
+  },
+  {
+   "source": "55th Brigade",
+   "target": "al-Qaida",
+   "type": "member_of",
+   "detail": "Al-Qaida rotates personnel through the brigade to gain combat experience.",
+   "date": "2001",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Al-Qaida probably rotates personnel through this brigade to gain combat experience"
+  },
+  {
+   "source": "Taleban",
+   "target": "Pakistan",
+   "type": "funded_by",
+   "detail": "Pakistani military aid to the Taleban has declined over the last year.",
+   "date": "2000-2001",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "With the decline in military aid by Pakistan over the last year"
+  },
+  {
+   "source": "Taleban",
+   "target": "Northern Alliance",
+   "type": "rival_of",
+   "detail": "Bin Laden supports the Taleban fight against the Northern Alliance.",
+   "date": "2001",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "training for the fight against the Northern Alliance."
+  },
+  {
+   "source": "Taleban",
+   "target": "Usama bin Ladin",
+   "type": "trained_by",
+   "detail": "Bin Laden provides training for the Taleban's fight against the Northern Alliance.",
+   "date": "2001",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Bin Laden provides money, recruits, materiel, and training for the fight against the Northern Alliance."
+  },
+  {
+   "source": "al-Qaida",
+   "target": "Northern Alliance",
+   "type": "rival_of",
+   "detail": "Al-Qaida support is directed at the fight against the Northern Alliance.",
+   "date": "2001",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Bin Laden provides money, recruits, materiel, and training for the fight against the Northern Alliance."
+  },
+  {
+   "source": "Taleban",
+   "target": "Government of Pakistan",
+   "type": "funded_by",
+   "detail": "Pakistan's military aid to the Taleban declined over the last year.",
+   "date": "2000-2001",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "With the decline in military aid by Pakistan over the last year"
+  },
+  {
+   "source": "Mullah Omar",
+   "target": "Taleban",
+   "type": "leads",
+   "detail": "Mullah Omar is described as Taleban leader.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Taleban leader Mullah Omar had appointed him as Afghanistan's \"Defense Minister,\""
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Mullah Omar",
+   "type": "reports_to",
+   "detail": "Press reported Omar appointed bin Laden Defense Minister, but with no formal announcement.",
+   "date": "2001-08",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Mullah Omar had appointed him as Afghanistan's \"Defense Minister,\" but apparently there was no formal announcement."
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "al-Qaida",
+   "type": "leads",
+   "detail": "Bin Laden's network and personal funds support the Taleban; al-Qaida is his organization.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Usama bin Laden and the al-Qaida organization"
+  },
+  {
+   "source": "Taleban",
+   "target": "Usama bin Ladin",
+   "type": "funded_by",
+   "detail": "Bin Laden probably contributes several million dollars a year from personal and network funds.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Bin Laden probably contributes several million dollars a year (from both personal and network funds) to the Taleban."
+  },
+  {
+   "source": "55th Brigade",
+   "target": "Usama bin Ladin",
+   "type": "allied_with",
+   "detail": "The brigade is made up of expatriate mujahidin loyal to bin Laden.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "predominately of expatriate mujahidin forces loyal to bin Laden."
+  },
+  {
+   "source": "55th Brigade",
+   "target": "al-Qaida",
+   "type": "other",
+   "detail": "Al-Qaida probably rotates personnel through the brigade for combat experience before dispatch abroad.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Al-Qaida probably rotates personnel through this brigade to gain combat experience prior to their dispatch abroad."
+  },
+  {
+   "source": "55th Brigade",
+   "target": "Taleban",
+   "type": "allied_with",
+   "detail": "The brigade fights alongside the Taleban and is contrasted with Taleban ranks plagued by defection.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "less susceptible to the defection and bribe that plague Taleban ranks."
+  },
+  {
+   "source": "55th Brigade",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "The brigade operates on the Afghan battlefield.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "employed in small groups where they are most useful on the battlefield"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Afghanistan",
+   "type": "other",
+   "detail": "Bin Laden's global network funnels recruits into Afghanistan for training since the 1980s.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "global network for funneling recruits into Afghanistan for training has existed since the 1980s."
+  },
+  {
+   "source": "al-Qaida",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Al-Qaida smuggled supplies into Afghanistan via sympathizers.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Sympathizers obtain supplies abroad and smuggle them to Afghanistan."
+  }
+ ],
+ "sources_cited": [
+  "US Department of State INR Intelligence Assessment, 1 October 2001",
+  "Press reports (late August 2001)"
+ ],
+ "key_claims": [
+  "With Pakistani military aid declining, the Taleban increasingly rely on bin Laden and al-Qaida for money, recruits, materiel and training.",
+  "Bin Laden probably gives the Taleban several million dollars a year, mostly for military use.",
+  "The Taleban could hardly sustain themselves without al-Qaida's foreign volunteers unless they expanded unpopular forced local recruitment.",
+  "The 55th Brigade, of 500-2,500 expatriate fighters loyal to bin Laden, is used in small groups and rotates al-Qaida personnel for combat experience.",
+  "The 55th Brigade is more resistant to defection and bribery than Taleban units.",
+  "Al-Qaida's supply network parallels its recruiting structure and spans several continents."
+ ]
+}

@@ -1,0 +1,125 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc51-1999-07-20-dci-ubl-update",
+  "title": "DCI UBL Update",
+  "authors": "Central Intelligence Agency",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "1999-07-20",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7xbr-uusml/1999-07-20-dci-ubl-update-central-intelligence.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 18,
+  "kind": "briefing",
+  "note": "[Top Secret] CIA DCI update on bin Laden (UBL). Cited in 9/11 Commission Report Chapter 4, Endnote 188. An excerpt is the briefing book's cover image.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 51",
+  "relevance": "high",
+  "ocr": 12
+ },
+ "persons": [],
+ "organizations": [
+  {
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA",
+    "DCI"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Author of the briefing; the slides refer to the DCI, the Director of Central Intelligence."
+  },
+  {
+   "name": "Alec Station",
+   "aliases": [
+    "Alec Station Resources"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Central Intelligence Agency"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "The resources slide on p.15 names it. It is the CIA unit that tracks UBL."
+  },
+  {
+   "name": "FBI",
+   "aliases": [
+    "Federal Bureau of Investigation",
+    "FBI/HQS"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Slide p.12 notes excellent cooperation with FBI headquarters and at the working level. It also says the FBI is adding to a task force (TF)."
+  }
+ ],
+ "places": [],
+ "events": [
+  {
+   "date": "1999-07-20",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "The DCI briefing 'UBL Update' on disrupting UBL operations. Its sections cover new developments, IC issues, looking ahead (staffing, Alec Station resources) and rethinking. The text is largely illegible OCR.",
+   "place": "",
+   "actors": [
+    "Central Intelligence Agency"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1999-07-20",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "The Director of Central Intelligence (DCI) receives a briefing titled 'UBL Update'. It covers disrupting UBL operations, new developments, intelligence community issues, staffing and resources for Alec Station, and a rethinking of capture options.",
+   "place": "",
+   "actors": [
+    "Central Intelligence Agency",
+    "Alec Station",
+    "FBI"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "FBI",
+   "target": "Central Intelligence Agency",
+   "type": "allied_with",
+   "detail": "The slides note good cooperation with FBI headquarters and at the working level, apparently with CIA elements. The text is garbled, so the pairing is inferred.",
+   "date": "1999-07-20",
+   "confidence": "inferred",
+   "timestamp": "p.12",
+   "quote": "Excellent ... action with FBI/HQS ... and at the working level"
+  },
+  {
+   "source": "Alec Station",
+   "target": "Central Intelligence Agency",
+   "type": "member_of",
+   "detail": "Alec Station resources are discussed in a CIA DCI briefing on disrupting UBL operations, which implies it is a CIA unit.",
+   "date": "1999-07-20",
+   "confidence": "inferred",
+   "timestamp": "p.15",
+   "quote": "Alec Station Resources"
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "Osama bin Laden",
+   "type": "rival_of",
+   "detail": "The briefing is titled 'Disrupting UBL Operations' and discusses a possible UBL capture operation or ambush, so the CIA is working against bin Laden's network.",
+   "date": "1999-07-20",
+   "confidence": "inferred",
+   "timestamp": "p.18",
+   "quote": "Not Capable of Mounting a UBL Capture Operation or Ambush"
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "The slides are about disrupting UBL operations, with sections on new developments, intelligence community issues, and looking ahead.",
+  "Staffing and Alec Station resources are named as problems needing attention.",
+  "The slides say a fundamental rethinking is needed.",
+  "The 'Rethinking' slide appears to say the capability to mount a UBL capture operation or ambush is lacking. It also mentions reporters on the ground, but the OCR is garbled.",
+  "The intelligence community process is described as bureaucratic. A bi-weekly meeting is mentioned to improve communications, and cooperation with the FBI is called excellent."
+ ]
+}

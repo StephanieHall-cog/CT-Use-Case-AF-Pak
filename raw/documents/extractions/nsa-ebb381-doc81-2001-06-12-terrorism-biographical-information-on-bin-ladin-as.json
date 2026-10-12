@@ -1,0 +1,315 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc81-2001-06-12-terrorism-biographical-information-on-bin-ladin-as",
+  "title": "Terrorism: Biographical Information on Bin Ladin Associates in Afghanistan",
+  "authors": "Central Intelligence Agency",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "2001-06-12",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7xl1-j1w1s/2001-06-12-terrorism-biographical-information-on.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 4,
+  "kind": "intelligence report",
+  "note": "CIA intelligence report with biographical information on Bin Ladin associates in Afghanistan. Cited in 9/11 Commission Report, Chapter 8, Endnotes 12, 111.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 81",
+  "relevance": "high",
+  "ocr": 1
+ },
+ "persons": [
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Usama bin Laden",
+    "Osama (Bin Ladin)"
+   ],
+   "role": "Terrorist leader whose senior aides were active in Afghanistan",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "ASSOCIATES OF TERRORIST OSAMA ((BIN LADIN)) REMAINED ACTIVE IN AFGHANISTAN"
+    }
+   ]
+  },
+  {
+   "name": "Khaled",
+   "aliases": [
+    "Khalid"
+   ],
+   "role": "Trusted lieutenant of Bin Ladin; relative of Ramzi Yousef; name may be an alias",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [
+    {
+     "relation": "relative",
+     "name": "Ramzi Yousef"
+    }
+   ],
+   "locations": [
+    "Afghanistan",
+    "United States"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "KHALED WAS A RELATIVE OF CONVICTED WORLD TRADE CENTER BOMBER RAMZI YOUSEF AND APPEARED TO A TRUSTED LIEUTENANT OF BIN LADIN"
+    }
+   ]
+  },
+  {
+   "name": "Ramzi Yousef",
+   "aliases": [
+    "Ramzi Yousef"
+   ],
+   "role": "Convicted World Trade Center bomber",
+   "organizations": [],
+   "nationality_or_origin": "",
+   "status": "detained",
+   "status_detail": "Convicted of World Trade Center bombing",
+   "family": [
+    {
+     "relation": "relative",
+     "name": "Khaled"
+    },
+    {
+     "relation": "relative (by marriage)",
+     "name": "Khalid al-Shaykh Muhammad"
+    }
+   ],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "KHALED WAS A RELATIVE OF CONVICTED WORLD TRADE CENTER BOMBER RAMZI YOUSEF"
+    }
+   ]
+  },
+  {
+   "name": "Khalid al-Shaykh Muhammad",
+   "aliases": [
+    "Khalid Sheikh Mohammed",
+    "KSM"
+   ],
+   "role": "Possible referent of the name 'Khaled'; indicted in US courts for 1994 plot against civilian aircraft",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [
+    {
+     "relation": "wife (a relative of Yousef)",
+     "name": "Ramzi Yousef's relative"
+    }
+   ],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "MAY BE A REFERENCE TO KHALID AL-SHAYKH ((MUHAMMAD)) WHO IS MARRIED TO A RELATIVE OF YOUSEF AND HAS BEEN INDICTED IN U.S. COURTS"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "al-Qa'ida",
+   "aliases": [
+    "Bin Ladin network",
+    "al-Qaeda"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Described as the Bin Ladin network; associates use multiple names"
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Where Bin Ladin's senior aides were active"
+  },
+  {
+   "name": "United States",
+   "type": "country",
+   "country": "United States",
+   "parent": "",
+   "significance": "Destination of frequent travel by one associate; residence sought for associates"
+  }
+ ],
+ "events": [
+  {
+   "date": "1994",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Plot against civilian aircraft for which Khalid al-Shaykh Muhammad was later indicted in US courts",
+   "place": "",
+   "actors": [
+    "Khalid al-Shaykh Muhammad"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "2001-06-12",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA information report on Bin Ladin associates in Afghanistan",
+   "place": "Afghanistan",
+   "actors": [
+    "Central Intelligence Agency"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1994",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Khalid al-Shaykh Muhammad's involvement in a plot against civilian aircraft, for which he was later indicted in US courts.",
+   "place": "",
+   "actors": [
+    "Khalid al-Shaykh Muhammad"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "2001-06-12",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA information report on Bin Ladin associates in Afghanistan, one of whom traveled frequently to the United States.",
+   "place": "United States",
+   "actors": [
+    "Usama bin Ladin",
+    "Khaled"
+   ],
+   "timestamp": "p.2"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Khaled",
+   "target": "Usama bin Ladin",
+   "type": "reports_to",
+   "detail": "Khaled appeared to be a trusted lieutenant of Bin Ladin.",
+   "date": "2001",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "APPEARED TO A TRUSTED LIEUTENANT OF BIN LADIN"
+  },
+  {
+   "source": "Khaled",
+   "target": "Ramzi Yousef",
+   "type": "family",
+   "detail": "Khaled was a relative of Yousef.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "KHALED WAS A RELATIVE OF CONVICTED WORLD TRADE CENTER BOMBER RAMZI YOUSEF"
+  },
+  {
+   "source": "Khalid al-Shaykh Muhammad",
+   "target": "Ramzi Yousef",
+   "type": "family",
+   "detail": "KSM is married to a relative of Yousef.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "WHO IS MARRIED TO A RELATIVE OF YOUSEF"
+  },
+  {
+   "source": "Khaled",
+   "target": "Khalid al-Shaykh Muhammad",
+   "type": "other",
+   "detail": "The name Khaled may be a reference to KSM.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "MAY BE A REFERENCE TO KHALID AL-SHAYKH ((MUHAMMAD))"
+  },
+  {
+   "source": "Khaled",
+   "target": "Usama bin Ladin",
+   "type": "reports_to",
+   "detail": "Khaled appeared to be a trusted lieutenant of Bin Ladin.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "APPEARED TO A TRUSTED LIEUTENANT OF BIN LADIN."
+  },
+  {
+   "source": "Khaled",
+   "target": "Ramzi Yousef",
+   "type": "family",
+   "detail": "Khaled was a relative of convicted World Trade Center bomber Ramzi Yousef.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "KHALED WAS A RELATIVE OF CONVICTED.WORLD TRADE CENTER BOMBE[R] RAMZI YOUSEF"
+  },
+  {
+   "source": "Khaled",
+   "target": "Khalid al-Shaykh Muhammad",
+   "type": "other",
+   "detail": "The name Khaled may be a reference to Khalid al-Shaykh Muhammad (possible alias or identity).",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "MAY BE A REFERENCE TO KHALID AL-SHAYKH ((MUHAMMAD))"
+  },
+  {
+   "source": "Khalid al-Shaykh Muhammad",
+   "target": "Ramzi Yousef",
+   "type": "married_into",
+   "detail": "Khalid al-Shaykh Muhammad is married to a relative of Yousef.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "IS MARRIED TO A RELATIVE OF YOUSEF"
+  },
+  {
+   "source": "Khaled",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Khaled was among Bin Ladin's associates active inside Afghanistan.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "AS WITH ALL OF BIN LADIN'S ASSOCIATES INSIDE AFGHANISTAN"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Bin Ladin's associates remained active in Afghanistan.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "ASSOCIATES OF TERRORIST OSAMA ((BIN LADIN)) REMAINED ACTIVE IN AFGHANISTAN"
+  }
+ ],
+ "sources_cited": [
+  "CIA information report 122057Z JUN 01 (not finally evaluated intelligence)"
+ ],
+ "key_claims": [
+  "Senior Bin Ladin aides were active in Afghanistan, planning terror operations or supervising and training recruits.",
+  "One associate traveled frequently to the US and tried to arrange US residence for associates.",
+  "Bin Ladin's associates often use multiple names, so 'Khaled' may or may not be an alias.",
+  "'Khaled' was a relative of Ramzi Yousef and possibly Khalid al-Shaykh Muhammad."
+ ]
+}

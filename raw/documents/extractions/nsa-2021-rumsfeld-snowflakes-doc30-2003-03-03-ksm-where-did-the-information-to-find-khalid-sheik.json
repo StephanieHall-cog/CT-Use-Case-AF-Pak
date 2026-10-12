@@ -1,0 +1,455 @@
+{
+ "document": {
+  "doc_id": "nsa-2021-rumsfeld-snowflakes-doc30-2003-03-03-ksm-where-did-the-information-to-find-khalid-sheik",
+  "title": "KSM - where did the information to find Khalid Sheikh Mohammed come from?",
+  "authors": "Donald Rumsfeld, Secretary of Defense (to Craddock and Haynes)",
+  "publisher": "National Security Archive (GWU), Rumsfeld Lacked Intel on Who The Enemies Were Two Years After Afghanistan Invasion, Newly Published \"Snowflakes\" Show | National Security Archive",
+  "published": "2003-03-03",
+  "url": "https://nsarchive.gwu.edu/documents/rumsfeld-lacked-intel-who-enemies-two-years-after-afghanistan-invasion-newly-published-snowflakes/30.pdf",
+  "source_page": "https://nsarchive.gwu.edu/briefing-book/foia/2021-02-01/rumsfeld-lacked-intel-who-enemies-two-years-after-afghanistan-invasion-newly-published-snowflakes",
+  "pages": 60,
+  "kind": "memo",
+  "note": "Rumsfeld contacts Tenet about the intelligence that led to capturing KSM. He asks whether the information came from GTMO detainees. No response appears in the DOD release.",
+  "collection": "new-rumsfeld-snowflakes",
+  "doc_number": "Document 30",
+  "relevance": "high",
+  "ocr": 60
+ },
+ "persons": [
+  {
+   "name": "Donald Rumsfeld",
+   "aliases": [
+    "Donald H. Rumsfeld",
+    "DHR"
+   ],
+   "role": "US Secretary of Defense; sender of the 1 October 2002 snowflake memo",
+   "organizations": [
+    "US Department of Defense"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "FROM: Donald Rumsfeld"
+    }
+   ]
+  },
+  {
+   "name": "Doug Feith",
+   "aliases": [
+    "Douglas Feith"
+   ],
+   "role": "Recipient of the memo; Pentagon official (Under Secretary of Defense for Policy)",
+   "organizations": [
+    "US Department of Defense"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "TO: Doug Feith"
+    }
+   ]
+  },
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Bin Laden",
+    "Bin Ladin",
+    "Usama bin Laden"
+   ],
+   "role": "Al-Qa'ida leader; subject of the detainee's contingency-plan discussion (largely illegible handwriting)",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [
+    {
+     "relation": "family",
+     "name": "Bin Ladin family"
+    }
+   ],
+   "locations": [
+    "Sudan",
+    "Afghanistan",
+    "Saudi Arabia"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.10",
+     "quote": "Cane of anssradnalin of Bir ladin"
+    },
+    {
+     "timestamp": "p.13",
+     "quote": "Bor laden found heinselh"
+    },
+    {
+     "timestamp": "p.35",
+     "quote": "Heacliw of v ! mero4. anh heb, Bion Ladlin: efeied To"
+    },
+    {
+     "timestamp": "p.45",
+     "quote": "Ben Ladtn"
+    },
+    {
+     "timestamp": "p.51",
+     "quote": "Bin Ladin loroluclag 4-1| ably dined. Bacay"
+    },
+    {
+     "timestamp": "p.52",
+     "quote": "Ben laclin, ee wort Re Te"
+    }
+   ]
+  },
+  {
+   "name": "Saeed Sheikh",
+   "aliases": [
+    "Saaed Sheikh",
+    "Sayeed Sheikh",
+    "Omar Saeed Sheikh"
+   ],
+   "role": "leader of a militant group that in 1994 acted against an Indian target (very low-confidence reading of garbled handwriting)",
+   "organizations": [],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "India"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.31",
+     "quote": "Leedur off fe yaup  Saaed Sheff y ud, hace oHerg"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "US Department of Defense",
+   "aliases": [
+    "OSD",
+    "Office of the Secretary of Defense"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Pages carry Bates stamps '11-L-0559/OSD/...'."
+  },
+  {
+   "name": "al-Qa'ida",
+   "aliases": [
+    "al-Qaeda",
+    "Al-Gacda",
+    "Abpaeda",
+    "Al Qaeda"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Handwritten detainee-interview notes (mostly illegible OCR) discuss al-Qa'ida's leadership, communications and contingency plans."
+  },
+  {
+   "name": "Taliban",
+   "aliases": [
+    "Tabiban",
+    "Tabhan"
+   ],
+   "type": "political movement",
+   "parent_or_allies": [
+    "Inter-Services Intelligence"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Mentioned in the notes in relation to al-Qa'ida's presence in Afghanistan (largely illegible)."
+  },
+  {
+   "name": "DHL",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Notes mention using a DHL office mailing address in Pakistan for communications (partly illegible)."
+  },
+  {
+   "name": "Inter-Services Intelligence",
+   "aliases": [
+    "ISI"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "The notes appear to discuss ISI support to the Taliban before 9/11, but the OCR is largely illegible."
+  },
+  {
+   "name": "FBI",
+   "aliases": [
+    "Federal Bureau of Investigation"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "An 'FBI liaison officer' appears to be mentioned in handwritten notes. The OCR is very poor and the context cannot be recovered."
+  },
+  {
+   "name": "CIA",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Possibly referenced as 'CTAR' on p.50; garbled"
+  }
+ ],
+ "places": [
+  {
+   "name": "Sudan",
+   "type": "country",
+   "country": "Sudan",
+   "parent": "",
+   "significance": "Contingency plan for bin Ladin in Sudan 1994 and bin Ladin's stay there are mentioned."
+  },
+  {
+   "name": "Khartoum",
+   "type": "city",
+   "country": "Sudan",
+   "parent": "Sudan",
+   "significance": "Mentioned in the notes ('In Khartoum')."
+  },
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Al-Qa'ida/Taliban setting of the notes."
+  },
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Mentioned in relation to communications and mail."
+  },
+  {
+   "name": "Kandahar",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Appears in the notes on p.14 (OCR 'Oandehar'), with the Taliban and al-Qa'ida."
+  },
+  {
+   "name": "Miram Shah",
+   "type": "town",
+   "country": "Pakistan",
+   "parent": "North Waziristan",
+   "significance": "Appears on p.17 (OCR 'Miiam Shah') in the notes."
+  },
+  {
+   "name": "India",
+   "type": "country",
+   "country": "India",
+   "parent": "",
+   "significance": "The notes appear to describe a 1994 action by a group against an Indian target."
+  },
+  {
+   "name": "Saudi Arabia",
+   "type": "country",
+   "country": "Saudi Arabia",
+   "parent": "",
+   "significance": "Notes refer to Saudi ties and the Bin Ladin family"
+  }
+ ],
+ "events": [
+  {
+   "date": "2002-10-01",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Rumsfeld sends Doug Feith a snowflake asking him to review an interview with one of the detainees.",
+   "place": "Washington, DC",
+   "actors": [
+    "Donald Rumsfeld",
+    "Doug Feith"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1994",
+   "date_precision": "year",
+   "type": "other",
+   "description": "A group appears to have carried out an action in India; the OCR is too garbled to say more.",
+   "place": "India",
+   "actors": [
+    "Saeed Sheikh"
+   ],
+   "timestamp": "p.31"
+  },
+  {
+   "date": "2002-10-01",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Rumsfeld sent a memo to Doug Feith, with an undated handwritten detainee interview attached, asking him to look at it and respond. The attachment is a largely illegible handwritten interview about al-Qa'ida, bin Ladin, the Taliban and contingency plans.",
+   "place": "",
+   "actors": [
+    "Donald Rumsfeld",
+    "Doug Feith"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1994",
+   "date_precision": "year",
+   "type": "attack",
+   "description": "A group led by Saeed Sheikh appears to have carried out an action in India in 1994 and made an offer to the Indian authorities. The OCR is too garbled to confirm what happened.",
+   "place": "India",
+   "actors": [
+    "Saeed Sheikh"
+   ],
+   "timestamp": "p.31"
+  },
+  {
+   "date": "approx",
+   "date_precision": "approx",
+   "type": "travel",
+   "description": "The notes appear to say that bin Ladin returned to Afghanistan, with a stay of about three months mentioned. The OCR is badly garbled, so this is low confidence.",
+   "place": "Afghanistan",
+   "actors": [
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.20"
+  },
+  {
+   "date": "1994",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Garbled handwritten notes (OCR) appear to say that in 1994 a group reached India and dealt with an Indian commander, and that its leader was Saeed Sheikh. The reading is low confidence and the details are unclear.",
+   "place": "India",
+   "actors": [
+    "Saeed Sheikh"
+   ],
+   "timestamp": "p.31"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Donald Rumsfeld",
+   "target": "Doug Feith",
+   "type": "other",
+   "detail": "Rumsfeld sent a memo asking Feith to review a detainee interview.",
+   "date": "2002-10-01",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Please take a look at this interview with one of the detainees."
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Sudan",
+   "type": "located_in",
+   "detail": "The notes mention a 1994 Sudan contingency plan in the case of bin Ladin's assassination.",
+   "date": "1994",
+   "confidence": "inferred",
+   "timestamp": "p.10",
+   "quote": "Cane of anssradnalin of Bir ladin"
+  },
+  {
+   "source": "Inter-Services Intelligence",
+   "target": "Taliban",
+   "type": "allied_with",
+   "detail": "Notes appear to say the ISI was supporting or providing for the Taliban before 9/11 (garbled).",
+   "date": "before 2001",
+   "confidence": "inferred",
+   "timestamp": "p.32",
+   "quote": "Before 9 Il The TSI wer Prerwialain"
+  },
+  {
+   "source": "Donald Rumsfeld",
+   "target": "US Department of Defense",
+   "type": "leads",
+   "detail": "Rumsfeld, as Secretary of Defense, sent the memo; the OSD Bates stamps on every page show it comes from the Office of the Secretary of Defense.",
+   "date": "2002-10-01",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "11-L-0559/OSD/6830"
+  },
+  {
+   "source": "Saeed Sheikh",
+   "target": "India",
+   "type": "other",
+   "detail": "The garbled handwritten note appears to link Saeed Sheikh, as leader of a group, to a 1994 action involving India and an Indian commander. The OCR is too corrupted to confirm the details.",
+   "date": "1994",
+   "confidence": "inferred",
+   "timestamp": "p.31",
+   "quote": "Leedur off fe yaup  Saaed Sheff y ud, hace oHerg"
+  },
+  {
+   "source": "Taliban",
+   "target": "Inter-Services Intelligence",
+   "type": "funded_by",
+   "detail": "The note appears to say that before 9/11 the ISI was providing something (support or supplies) to the Taliban. The recipient and the item provided are only partly legible.",
+   "date": "before 2001-09-11",
+   "confidence": "inferred",
+   "timestamp": "p.32",
+   "quote": "BA: Before 9 Il The TSI wer Prerwialain He Goldens"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "al-Qa'ida",
+   "type": "leads",
+   "detail": "A page headed with bin Ladin and al-Qaeda appears to treat him as the head of the organization. The text is very garbled.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.35",
+   "quote": "Heacliw of v ! mero4. anh heb, Bion Ladlin: efeied To"
+  },
+  {
+   "source": "Khartoum",
+   "target": "Sudan",
+   "type": "located_in",
+   "detail": "The handwritten notes place Khartoum in Sudan. This is inferred from a heavily garbled line on p.19.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.19",
+   "quote": "tn Khortoum, Stila , Live arruced"
+  }
+ ],
+ "sources_cited": [
+  "Handwritten undated interview notes of a detainee (OSD 11-L-0559 Bates pages)",
+  "Rumsfeld handwritten 'snowflake' notes on interrogation of KSM (Bates 11-L-0559/OSD/6856-6862)",
+  "Handwritten Rumsfeld notes (OSD pages 11-L-0559/OSD/6876-6883), largely illegible"
+ ],
+ "key_claims": [
+  "The chunk is a Rumsfeld snowflake dated 1 Oct 2002 forwarding a detainee interview to Doug Feith.",
+  "The attached handwritten notes are mostly illegible in the OCR; they appear to cover al-Qa'ida leadership, communications and contingency planning, including in Sudan, Afghanistan and Pakistan.",
+  "The handwritten notes in this chunk are largely illegible OCR; only fragmentary references to the ISI, the Taliban, al-Qa'ida, Bin Ladin and a 1994 group action are discernible.",
+  "This chunk is OCR of handwritten Rumsfeld notes and is almost entirely illegible; no reliable claims about network relationships can be extracted.",
+  "The only identifiable name in the chunk is a garbled reference to Usama bin Ladin on p.45.",
+  "This chunk consists almost entirely of illegible scans of handwritten notes, so few reliable extractions are possible.",
+  "Notes on p.51 apparently refer to Bin Ladin and the Bin Ladin family, with some mention of 1986.",
+  "Notes on p.54 apparently mention that 10,000-20,000 people were trained in Afghanistan.",
+  "This chunk is almost entirely illegible OCR of handwritten Rumsfeld notes (Bates 11-L-0559/OSD/6888-6889), so no actors, links or events can be reliably extracted."
+ ]
+}

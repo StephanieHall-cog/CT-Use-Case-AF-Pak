@@ -1,0 +1,149 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc110-2003-07-02-title-excised-shaykh-sa-id-excised-devotes-him-tim",
+  "title": "[Title Excised] Shaykh Sa'id [Excised] devotes him time to managing al-Qa'ida's finances (CTC 2003-30072H)",
+  "authors": "CIA",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "2003-07-02",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7xqj-swjpt/2003-07-02-title-excised-shaykh-said-excised.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 3,
+  "kind": "report",
+  "note": "CIA analytic report cited in the 9/11 Commission Report as \"Shaykh Sa'id: Al-Qa'ida's Loyal Senior Accountant.\" Source: Chapter 2, Endnote 59.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 110",
+  "relevance": "high",
+  "ocr": 1
+ },
+ "persons": [
+  {
+   "name": "Shaykh Sa'id",
+   "aliases": [
+    "Sa'id",
+    "Sa°id"
+   ],
+   "role": "al-Qa'ida's chief financial manager",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "As al-Qa'ida's chief financial manager, Sa'id acquired a reputation"
+    },
+    {
+     "timestamp": "p.1",
+     "quote": "Shaykh Sa'id"
+    }
+   ]
+  },
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Bin Ladin"
+   ],
+   "role": "al-Qa'ida leader (name partly legible; apparently sometimes intervened in funding requests)",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.3",
+     "quote": "Ladin ... some times intervene ... to provide nioney that had been requested"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "al-Qa'ida",
+   "aliases": [
+    "al-Qaeda"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Document concerns its financial management under Shaykh Sa'id."
+  },
+  {
+   "name": "DCI Counterterrorist Center",
+   "aliases": [
+    "CTC",
+    "CIA Counterterrorist Center"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Central Intelligence Agency"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Prepared the report (Office of Terrorism Analysis)."
+  }
+ ],
+ "places": [],
+ "events": [
+  {
+   "date": "2003-07-02",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA DCI Counterterrorist Center report on Shaykh Sa'id's management of al-Qa'ida's finances issued (released 25 April 2012 with redactions).",
+   "place": "",
+   "actors": [
+    "DCI Counterterrorist Center",
+    "Shaykh Sa'id"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Shaykh Sa'id",
+   "target": "al-Qa'ida",
+   "type": "member_of",
+   "detail": "Sa'id served as al-Qa'ida's chief financial manager.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "As al-Qa'ida's chief financial manager, Sa'id"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Shaykh Sa'id",
+   "type": "leads",
+   "detail": "Fragmentary text suggests bin Ladin sometimes intervened to direct Sa'id to provide money that had been requested.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "Sa'id to provide nioney that had been requested"
+  },
+  {
+   "source": "Shaykh Sa'id",
+   "target": "Usama bin Ladin",
+   "type": "reports_to",
+   "detail": "The fragmentary text suggests bin Ladin sometimes intervenes to direct Sa'id to provide money that had been requested. The passage is heavily redacted and garbled, so this is inferred.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "Ladin ... some times intervene ... direct Sa'id to provide money that had been requested."
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "Shaykh Sa'id was al-Qa'ida's chief financial manager and devoted his time to managing its finances.",
+  "Usama bin Ladin sometimes intervened to have Sa'id provide money that had been requested (fragmentary, heavily redacted text)."
+ ]
+}

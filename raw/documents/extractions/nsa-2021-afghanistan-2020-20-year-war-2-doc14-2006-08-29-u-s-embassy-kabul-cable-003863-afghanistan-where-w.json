@@ -1,0 +1,916 @@
+{
+ "document": {
+  "doc_id": "nsa-2021-afghanistan-2020-20-year-war-2-doc14-2006-08-29-u-s-embassy-kabul-cable-003863-afghanistan-where-w",
+  "title": "U.S. Embassy Kabul Cable 003863, \"Afghanistan: Where We Stand and What We Need\"",
+  "authors": "U.S. Embassy Kabul (Ambassador Ronald Neumann)",
+  "publisher": "National Security Archive (GWU), Afghanistan 20/20: The 20-Year War in 20 Documents | National Security Archive",
+  "published": "2006-08-29",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qy3fic-cl4be/14.pdf",
+  "source_page": "https://nsarchive.gwu.edu/briefing-book/afghanistan/2021-08-19/afghanistan-2020-20-year-war-20-documents",
+  "pages": 8,
+  "kind": "cable",
+  "note": "[Secret] Neumann warns 'we are not winning in Afghanistan; although we are far from losing.' He cites a lack of resources and growing Taliban offensives, and urges equipping Afghan forces, taking out Taliban leadership in Pakistan, and investing in infrastructure.",
+  "collection": "new-afghanistan-2020-20-year-war-20-docu",
+  "doc_number": "Document 14",
+  "relevance": "high",
+  "ocr": 1
+ },
+ "persons": [
+  {
+   "name": "Ronald E. Neumann",
+   "aliases": [
+    "Ronald Neumann"
+   ],
+   "role": "U.S. Ambassador to Afghanistan, author of the cable",
+   "organizations": [
+    "U.S. Department of State"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Kabul"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Classified By: Ambassador Ronald E. Neumann for reasons 1.4 (B) and (D)"
+    },
+    {
+     "timestamp": "p.2",
+     "quote": "A year after I arrived the overall military situation has worsened in the south."
+    }
+   ]
+  },
+  {
+   "name": "Hamid Karzai",
+   "aliases": [
+    "President Karzai"
+   ],
+   "role": "President of Afghanistan",
+   "organizations": [
+    "Government of Afghanistan"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Washington",
+    "Kabul"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "We need to use President Karzai's September 26 visit to Washington as an important milestone"
+    },
+    {
+     "timestamp": "p.2",
+     "quote": "President Karzai has promised me a change from the current corrupt and ineffective governor."
+    },
+    {
+     "timestamp": "p.7",
+     "quote": "Presidents Karzai and Musharraf to meet"
+    }
+   ]
+  },
+  {
+   "name": "Rangin Dadfar Spanta",
+   "aliases": [
+    "Rassoul",
+    "Zalmai Rassoul"
+   ],
+   "role": "Afghan National Security Advisor (cable names 'NSA Rassoul'), visited Pakistani counterpart",
+   "organizations": [
+    "Government of Afghanistan"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "Identification uncertain; the cable says only 'NSA Rassoul'. Zalmai Rassoul was the Afghan NSA in 2006.",
+   "family": [],
+   "locations": [
+    "Pakistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.7",
+     "quote": "NSA Rassoul recently visited his Pakistani counterpart (Aziz)"
+    }
+   ]
+  },
+  {
+   "name": "Tariq Aziz",
+   "aliases": [
+    "Aziz"
+   ],
+   "role": "Pakistani national security counterpart to the Afghan NSA",
+   "organizations": [
+    "Government of Pakistan"
+   ],
+   "nationality_or_origin": "Pakistani",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Pakistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.7",
+     "quote": "NSA Rassoul recently visited his Pakistani counterpart (Aziz)"
+    }
+   ]
+  },
+  {
+   "name": "Pervez Musharraf",
+   "aliases": [
+    "Musharraf"
+   ],
+   "role": "President of Pakistan",
+   "organizations": [
+    "Government of Pakistan"
+   ],
+   "nationality_or_origin": "Pakistani",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Pakistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.7",
+     "quote": "both sides seem ready for Presidents Karzai and Musharraf to meet"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Taliban",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [
+    "ISAF",
+    "Government of Afghanistan"
+   ],
+   "country_base": "Afghanistan/Pakistan",
+   "notes": "Described as mounting a major offensive in 2006 with a Pakistan-based leadership that remains secure."
+  },
+  {
+   "name": "NATO ISAF",
+   "aliases": [
+    "ISAF"
+   ],
+   "type": "international body",
+   "parent_or_allies": [
+    "NATO"
+   ],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Taking over the south; stretched by protecting small areas."
+  },
+  {
+   "name": "Government of Afghanistan",
+   "aliases": [
+    "GOA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": ""
+  },
+  {
+   "name": "Afghan National Army",
+   "aliases": [
+    "ANA"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "Government of Afghanistan"
+   ],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": ""
+  },
+  {
+   "name": "Afghan National Police",
+   "aliases": [
+    "ANP"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Ministry of Interior"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Several years from adequate capability."
+  },
+  {
+   "name": "Ministry of Interior",
+   "aliases": [
+    "MOI"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Government of Afghanistan"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Auxiliary forces are to be brought under its command."
+  },
+  {
+   "name": "Tripartite Commission",
+   "aliases": [],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Military forum (Afghanistan, Pakistan, ISAF/coalition); cable calls it a success to be expanded into political dialogue."
+  },
+  {
+   "name": "U.S. Embassy Kabul",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [
+    "U.S. Department of State"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Author of the cable."
+  },
+  {
+   "name": "U.S. Department of State",
+   "aliases": [
+    "SECSTATE"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Recipient."
+  },
+  {
+   "name": "Government of Pakistan",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": ""
+  },
+  {
+   "name": "Afghan auxiliary police",
+   "aliases": [
+    "Afghan provincial defense",
+    "local auxiliary police"
+   ],
+   "type": "militia",
+   "parent_or_allies": [
+    "Ministry of Interior"
+   ],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Proposed local forces; some already in the field without U.S. consent."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Subject of the assessment."
+  },
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Taliban leadership based there; U.S. wants progress against it."
+  },
+  {
+   "name": "Ghazni Province",
+   "aliases": [],
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Much worse than a year earlier; governor corrupt."
+  },
+  {
+   "name": "Oruzgan",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Operation Mountain Thrust bought time."
+  },
+  {
+   "name": "Zabul",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Improving, but transition to ISAF and Romanian forces is a risk."
+  },
+  {
+   "name": "Kandahar",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Security poor; city residents afraid."
+  },
+  {
+   "name": "Helmand",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Large portions outside government/ISAF control; poppy eradication."
+  },
+  {
+   "name": "Kabul",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Embassy location."
+  },
+  {
+   "name": "Washington",
+   "type": "city",
+   "country": "United States",
+   "parent": "United States",
+   "significance": "Site of Karzai's September 26 visit."
+  },
+  {
+   "name": "Eastern Afghanistan",
+   "type": "region",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Real successes from military action plus roads and better governors."
+  }
+ ],
+ "events": [
+  {
+   "date": "2006-08-29",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Ambassador Neumann sends cable assessing that the U.S. is not winning in Afghanistan and requesting resources.",
+   "place": "Kabul",
+   "actors": [
+    "Ronald E. Neumann",
+    "U.S. Embassy Kabul"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2006-02",
+   "date_precision": "month",
+   "type": "offensive",
+   "description": "Expected Taliban offensive; the size of the forces employed surprised coalition planners.",
+   "place": "Southern Afghanistan",
+   "actors": [
+    "Taliban"
+   ],
+   "timestamp": "p.4"
+  },
+  {
+   "date": "2006",
+   "date_precision": "year",
+   "type": "offensive",
+   "description": "Operation Mountain Thrust bought time, particularly in Oruzgan.",
+   "place": "Oruzgan",
+   "actors": [
+    "ISAF",
+    "Taliban"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "2006-09-26",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "Planned Karzai visit to Washington, to be used to announce new programs for Afghan security forces and road building.",
+   "place": "Washington",
+   "actors": [
+    "Hamid Karzai"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "2006-08",
+   "date_precision": "month",
+   "type": "meeting",
+   "detail": "",
+   "description": "Afghan NSA Rassoul visited his Pakistani counterpart Aziz, laying the groundwork for a Karzai-Musharraf meeting.",
+   "place": "Pakistan",
+   "actors": [
+    "Rassoul",
+    "Tariq Aziz",
+    "Hamid Karzai",
+    "Pervez Musharraf"
+   ],
+   "timestamp": "p.7"
+  },
+  {
+   "date": "2006-08-29",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Ambassador Neumann's cable recommends roughly $600 million in supplemental funding, supports a Karzai-Musharraf initiative, and concludes 'We are not losing' but are too slow.",
+   "place": "Kabul",
+   "actors": [
+    "Ronald E. Neumann",
+    "U.S. Embassy Kabul",
+    "U.S. Department of State"
+   ],
+   "timestamp": "p.8"
+  },
+  {
+   "date": "approx 2006",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "The GOA and ISAF, with U.S. support, examine fielding more local auxiliary police at provincial levels to fill the security gap until the ANP is ready.",
+   "place": "Afghanistan",
+   "actors": [
+    "Government of Afghanistan",
+    "NATO ISAF",
+    "U.S. Embassy Kabul",
+    "Afghan auxiliary police"
+   ],
+   "timestamp": "p.7"
+  },
+  {
+   "date": "approx 2006",
+   "date_precision": "approx",
+   "type": "travel",
+   "description": "A planned visit by President Karzai to Washington/the U.S. is flagged as the moment to announce new funds and visions for Afghan forces.",
+   "place": "Washington",
+   "actors": [
+    "Hamid Karzai"
+   ],
+   "timestamp": "p.8"
+  },
+  {
+   "date": "2006-08-29",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Ambassador Neumann sends cable assessing that the US is not winning in Afghanistan and requesting more resources.",
+   "place": "Kabul",
+   "actors": [
+    "Ronald E. Neumann",
+    "U.S. Embassy Kabul",
+    "U.S. Department of State"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2006-09-26",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "Planned visit of President Karzai to Washington, to be used to announce new programs for equipping Afghan forces and road building.",
+   "place": "Washington",
+   "actors": [
+    "Hamid Karzai"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "2006",
+   "date_precision": "year",
+   "type": "offensive",
+   "description": "Taliban offensive in southern Afghanistan, larger than predicted, with surprising numbers of insurgents.",
+   "place": "Afghanistan",
+   "actors": [
+    "Taliban"
+   ],
+   "timestamp": "p.4"
+  },
+  {
+   "date": "2006",
+   "date_precision": "year",
+   "type": "offensive",
+   "description": "Mountain Thrust operation bought time, particularly in Oruzgan.",
+   "place": "Oruzgan",
+   "actors": [
+    "NATO ISAF"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "2006",
+   "date_precision": "year",
+   "type": "meeting",
+   "description": "Afghan NSA visited his Pakistani counterpart Aziz.",
+   "place": "Pakistan",
+   "actors": [
+    "Rangin Dadfar Spanta",
+    "Tariq Aziz"
+   ],
+   "timestamp": "p.7"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Taliban",
+   "target": "Pakistan",
+   "type": "sheltered_by",
+   "detail": "Taliban leadership is described as secure in Pakistan while directing the offensive.",
+   "date": "2006",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "a revitalized enemy with its leadership secure in Pakistan mounted a major counter-attack"
+  },
+  {
+   "source": "Taliban",
+   "target": "Pakistan",
+   "type": "located_in",
+   "detail": "Taliban leadership is Pakistan-based and believes it can prevail.",
+   "date": "2006",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "the Taliban's Pakistan-based leadership continues to believe it can prevail"
+  },
+  {
+   "source": "Ronald E. Neumann",
+   "target": "Hamid Karzai",
+   "type": "met_with",
+   "detail": "Karzai promised Neumann a change of the corrupt Ghazni governor.",
+   "date": "2006",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "President Karzai has promised me a change from the current corrupt and ineffective governor."
+  },
+  {
+   "source": "Rassoul",
+   "target": "Aziz",
+   "type": "met_with",
+   "detail": "The Afghan NSA visited his Pakistani counterpart.",
+   "date": "2006",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "NSA Rassoul recently visited his Pakistani counterpart (Aziz)"
+  },
+  {
+   "source": "Hamid Karzai",
+   "target": "Pervez Musharraf",
+   "type": "met_with",
+   "detail": "Both sides appear ready for a Karzai-Musharraf meeting.",
+   "date": "2006",
+   "confidence": "inferred",
+   "timestamp": "p.7",
+   "quote": "both sides seem ready for Presidents Karzai and Musharraf to meet"
+  },
+  {
+   "source": "Afghan auxiliary police",
+   "target": "Ministry of Interior",
+   "type": "reports_to",
+   "detail": "The U.S. insists local forces be brought within the MOI chain of command.",
+   "date": "2006",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "insisting that they must be brought within the MOI change of command"
+  },
+  {
+   "source": "Rassoul",
+   "target": "Tariq Aziz",
+   "type": "met_with",
+   "detail": "Afghan NSA Rassoul recently visited his Pakistani counterpart Aziz.",
+   "date": "2006-08",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "NSA Rassoul recently visited his Pakistani counterpart (Aziz), and both.sides seem ready for Presidents Karzai and Musharraf:to meet."
+  },
+  {
+   "source": "Hamid Karzai",
+   "target": "Pervez Musharraf",
+   "type": "met_with",
+   "detail": "Both sides seem ready for a meeting between Karzai and Musharraf, which the Embassy urges the U.S. to support (prospective, not yet held).",
+   "confidence": "inferred",
+   "timestamp": "p.7",
+   "quote": "both.sides seem ready for Presidents Karzai and Musharraf:to meet."
+  },
+  {
+   "source": "Rassoul",
+   "target": "Government of Afghanistan",
+   "type": "member_of",
+   "detail": "Rassoul is identified as Afghan National Security Advisor.",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "NSA Rassoul recently visited his Pakistani counterpart (Aziz)"
+  },
+  {
+   "source": "Tariq Aziz",
+   "target": "Government of Pakistan",
+   "type": "member_of",
+   "detail": "Aziz is Pakistan's counterpart national security adviser.",
+   "confidence": "inferred",
+   "timestamp": "p.7",
+   "quote": "his Pakistani counterpart (Aziz)"
+  },
+  {
+   "source": "Tripartite Commission",
+   "target": "Government of Pakistan",
+   "type": "other",
+   "detail": "The military Tripartite Commission involves Pakistan; Afghans want to expand its dialogue into the political sphere.",
+   "confidence": "inferred",
+   "timestamp": "p.7",
+   "quote": "Afghans want to build on the success of the military Tripartite Commission by expanding dialogue and confidence-building into the political sphere."
+  },
+  {
+   "source": "Tripartite Commission",
+   "target": "Government of Afghanistan",
+   "type": "other",
+   "detail": "Afghans want to build on the Tripartite Commission's success by expanding dialogue.",
+   "confidence": "inferred",
+   "timestamp": "p.7",
+   "quote": "Afghans want to build on the success of the military Tripartite Commission"
+  },
+  {
+   "source": "U.S. Embassy Kabul",
+   "target": "U.S. Embassy Islamabad",
+   "type": "other",
+   "detail": "The Embassy will consult Embassy Islamabad before providing thoughts on shaping Karzai's U.S. visit.",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "additional thoughts on shaping President Karzai's visit to the U.S. following consultations with Embassy Islamabad."
+  },
+  {
+   "source": "Hamid Karzai",
+   "target": "Washington",
+   "type": "other",
+   "detail": "Karzai's visit to Washington is seen as the time to announce new funds and visions for Afghan forces.",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "President Karzai's visit to Washington is the :time to announce new funds and new visions for stronger Afghan forces."
+  },
+  {
+   "source": "NATO ISAF",
+   "target": "Government of Afghanistan",
+   "type": "allied_with",
+   "detail": "GOA and ISAF, with U.S. support, are examining putting more local auxiliary police at provincial levels.",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "With our support the GOA and ISAF .are_exa~ining ways to put more local auxiliary police out"
+  },
+  {
+   "source": "Afghan auxiliary police",
+   "target": "Ministry of Interior",
+   "type": "member_of",
+   "detail": "The U.S. is insisting that auxiliary forces already in the field be brought within the MOI chain of command.",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "We are making solid progress in insisting that they must be brought within the MOI change of command."
+  },
+  {
+   "source": "Afghan National Police",
+   "target": "Ministry of Interior",
+   "type": "member_of",
+   "detail": "The ANP falls under the MOI chain of command, implied by the auxiliary-forces discussion.",
+   "confidence": "inferred",
+   "timestamp": "p.8",
+   "quote": "until a fully fielded ANP can take its rightful role"
+  },
+  {
+   "source": "Hamid Karzai",
+   "target": "Afghan auxiliary police",
+   "type": "other",
+   "detail": "Karzai argues auxiliary forces must come from the local population to be accepted.",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "Karzai argues that they need to come from the population to be accepted."
+  },
+  {
+   "source": "Taliban",
+   "target": "NATO ISAF",
+   "type": "rival_of",
+   "detail": "The enemy has increased its tempo faster than the coalition has responded.",
+   "confidence": "inferred",
+   "timestamp": "p.8",
+   "quote": "the enemy has increased the tempo faster than we have responded."
+  },
+  {
+   "source": "Ronald E. Neumann",
+   "target": "U.S. Embassy Kabul",
+   "type": "leads",
+   "detail": "Neumann signs the cable as Ambassador.",
+   "confidence": "inferred",
+   "timestamp": "p.8",
+   "quote": "NEUMANN"
+  },
+  {
+   "source": "U.S. Embassy Kabul",
+   "target": "U.S. Department of State",
+   "type": "reports_to",
+   "detail": "The Embassy sends the cable to SECSTATE Washington as an immediate message.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "FM AMEMBASSY KABUL ... TO SECSTATE WASHDC IMMEDIATE 2163"
+  },
+  {
+   "source": "NATO ISAF",
+   "target": "Taliban",
+   "type": "rival_of",
+   "detail": "ISAF is fighting the Taliban offensive; the Taliban are showing renewed confidence.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "NATO ISAF is fighting well but whether it can sustain the political will to fight at current casualty levels for several years is unknown."
+  },
+  {
+   "source": "Government of Afghanistan",
+   "target": "Taliban",
+   "type": "rival_of",
+   "detail": "The Afghan government and US-backed forces face the Taliban offensive.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "the increased Taliban offensive and loss of internal Afghan support"
+  },
+  {
+   "source": "Taliban",
+   "target": "Pakistan",
+   "type": "sheltered_by",
+   "detail": "Taliban leadership is described as secure in Pakistan, from where it mounted the counter-attack.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "a revitalized enemy with its leadership secure in Pakistan mounted a major counter-attack"
+  },
+  {
+   "source": "Taliban",
+   "target": "Pakistan",
+   "type": "located_in",
+   "detail": "The Taliban leadership is Pakistan-based and believes it can prevail.",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "the Taliban's Pakistan-based leadership continues to believe it can prevail"
+  },
+  {
+   "source": "Hamid Karzai",
+   "target": "Government of Afghanistan",
+   "type": "leads",
+   "detail": "Karzai is President of Afghanistan and promised to replace the Ghazni governor.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "President Karzai has promised me a change from the current corrupt and ineffective governor."
+  },
+  {
+   "source": "Ronald E. Neumann",
+   "target": "Hamid Karzai",
+   "type": "met_with",
+   "detail": "Karzai promised Neumann a change of governor in Ghazni.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "President Karzai has promised me a change from the current corrupt and ineffective governor."
+  },
+  {
+   "source": "Ghazni Province",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Ghazni is in East/Center Afghanistan.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Ghazni Province (East/Center) is much worse than a year ago."
+  },
+  {
+   "source": "Oruzgan",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Oruzgan is in the South where the Mountain Thrust operation took place.",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "The Mountain Thrust operation bought time, particularly in Oruzgan"
+  },
+  {
+   "source": "Zabul",
+   "target": "NATO ISAF",
+   "type": "other",
+   "detail": "Security responsibility in Zabul is shifting to ISAF and smaller Romanian forces, expected to be a Taliban target.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "Zabul continues to improve but the shift to ISAF and smaller Romanian forces will be an attractive Taliban target"
+  },
+  {
+   "source": "Helmand",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Helmand province is in the South with large areas outside government control.",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "In Helmand, large portions of the province are out of government or ISAF control"
+  },
+  {
+   "source": "Kandahar",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Kandahar is in the South where security is poor.",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "in Kandahar, security is not good. People in the city are afraid."
+  },
+  {
+   "source": "Taliban",
+   "target": "Helmand",
+   "type": "other",
+   "detail": "Poppy eradication in Helmand may have stimulated drug lords to support the Taliban.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "Eradication of poppy in Helmand may well have stimulated drug lords, if not farmers, to provide more active support for the Taliban."
+  },
+  {
+   "source": "Afghan National Army",
+   "target": "Government of Afghanistan",
+   "type": "member_of",
+   "detail": "ANA is part of the Afghan security forces being built and equipped.",
+   "confidence": "inferred",
+   "timestamp": "p.5",
+   "quote": "The assumptions underlying the current program to build the ANA and reform and build the ANP have changed"
+  },
+  {
+   "source": "Afghan National Police",
+   "target": "Government of Afghanistan",
+   "type": "member_of",
+   "detail": "ANP is part of Afghan security forces being reformed.",
+   "confidence": "inferred",
+   "timestamp": "p.5",
+   "quote": "reform and build the ANP"
+  },
+  {
+   "source": "Afghan auxiliary police",
+   "target": "Government of Afghanistan",
+   "type": "reports_to",
+   "detail": "The US wants auxiliary police under clear GOA control.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "increase Afghan provincial defense (so called \"auxiliary police\") under clear GOA control"
+  },
+  {
+   "source": "Government of Afghanistan",
+   "target": "NATO ISAF",
+   "type": "allied_with",
+   "detail": "GOA and ISAF are jointly examining ways to field more local auxiliary police.",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "With our support the GOA and ISAF are examining ways to put more local auxiliary police out"
+  },
+  {
+   "source": "Rangin Dadfar Spanta",
+   "target": "Tariq Aziz",
+   "type": "met_with",
+   "detail": "The Afghan NSA (text says NSA Rassoul) visited his Pakistani counterpart Aziz.",
+   "date": "2006",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "NSA Rassoul recently visited his Pakistani counterpart (Aziz)"
+  },
+  {
+   "source": "Tariq Aziz",
+   "target": "Pervez Musharraf",
+   "type": "reports_to",
+   "detail": "Aziz is Pakistani counterpart NSA to Afghan NSA, serving President Musharraf.",
+   "confidence": "inferred",
+   "timestamp": "p.7",
+   "quote": "his Pakistani counterpart (Aziz)"
+  },
+  {
+   "source": "Government of Afghanistan",
+   "target": "Tripartite Commission",
+   "type": "member_of",
+   "detail": "Afghanistan participates in the military Tripartite Commission with Pakistan.",
+   "confidence": "inferred",
+   "timestamp": "p.7",
+   "quote": "Afghans want to build on the success of the military Tripartite Commission"
+  },
+  {
+   "source": "Government of Pakistan",
+   "target": "Tripartite Commission",
+   "type": "member_of",
+   "detail": "Pakistan participates in the Tripartite Commission.",
+   "confidence": "inferred",
+   "timestamp": "p.7",
+   "quote": "success of the military Tripartite Commission by expanding dialogue"
+  }
+ ],
+ "sources_cited": [
+  "KABUL 3719 (combined ISAF/Coalition-GOA security assessment)",
+  "KABUL 3749 (Ref B, coordination measures)"
+ ],
+ "key_claims": [
+  "The U.S. Ambassador states that the U.S. and NATO are not winning in Afghanistan, though not losing.",
+  "The 2006 Taliban offensive was far larger than anticipated and expanded Taliban control over the rural population in the south.",
+  "The Taliban leadership is secure in Pakistan, and the cable urges real Pakistani progress in taking out that leadership.",
+  "The south (Kandahar, Helmand, Oruzgan) deteriorated sharply while the east improved through military action, roads and better governors.",
+  "The cable requests $600 million for roads linking district and provincial capitals, which it treats as a security measure.",
+  "Afghan forces, especially the police, are inadequate, and local auxiliary police are being considered as a stopgap."
+ ]
+}

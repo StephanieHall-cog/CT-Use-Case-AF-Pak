@@ -1,0 +1,489 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb227-doc10-1996-08-harakat-ul-ansar-increasing-threat-to-western-and",
+  "title": "Harakat ul-Ansar: Increasing Threat to Western and Pakistani Interests (DI TR 96-008)",
+  "authors": "Central Intelligence Agency",
+  "publisher": "National Security Archive (GWU), Pakistan: \"The Taliban's Godfather\"?",
+  "published": "1996-08",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB227/10.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB227/index.htm",
+  "pages": 4,
+  "kind": "intelligence report",
+  "note": "[Secret] Pakistan's ISID provides at least $30,000 and possibly $60,000 per month to Harakat ul-Ansar, though Pakistan may be trimming support to avoid state-sponsor listing. HUA is reaching out to bin Laden and Qadhafi and shifting toward Western targets; contacts hinted at attacks on civilian airliners.",
+  "collection": "NSAEBB227",
+  "doc_number": "Document 10",
+  "relevance": "high",
+  "ocr": 4
+ },
+ "persons": [
+  {
+   "name": "Usama Bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Usama bin Laden"
+   ],
+   "role": "described as terrorist financier; potential source of funds for the HUA",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "including terrorist financier Usama Bin Ladin and Libyan leader Mu'ammar Qadhafi—in an attempt to offset losses"
+    },
+    {
+     "timestamp": "p.4",
+     "quote": "more likely to accept money from anti-US international terrorist supporters such as Bin Ladin"
+    }
+   ]
+  },
+  {
+   "name": "Mu'ammar Qadhafi",
+   "aliases": [
+    "Muammar Gaddafi",
+    "Qadhafi"
+   ],
+   "role": "Libyan leader; possible source of HUA financing",
+   "organizations": [],
+   "nationality_or_origin": "Libyan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Libya"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "including terrorist financier Usama Bin Ladin and Libyan leader Mu'ammar Qadhafi"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Harakat ul-Ansar",
+   "aliases": [
+    "HUA"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Jammu and Kashmir Islamic Front"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Pakistan-backed Islamic extremist group fighting in Kashmir; kidnapped 13 people (12 Westerners) since 1994; shifting toward attacks on Westerners and civilians; may seek funds from Bin Ladin and Qadhafi."
+  },
+  {
+   "name": "Al-Faran",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Harakat ul-Ansar"
+   ],
+   "rivals": [],
+   "country_base": "India",
+   "notes": "Codename for HUA used in kidnapping four Western hostages; hostages probably killed on 13 December."
+  },
+  {
+   "name": "Jammu and Kashmir Islamic Front",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Harakat ul-Ansar"
+   ],
+   "rivals": [],
+   "country_base": "India",
+   "notes": "Possibly assisted in the May 1996 Lajpat Nagar market bombing."
+  },
+  {
+   "name": "Inter-Services Intelligence Directorate",
+   "aliases": [
+    "ISI",
+    "ISID"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Pakistan"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Report text partly redacted; reporting indicates a source provides $30,000-$60,000 monthly to the HUA; ISI may have reduced support."
+  },
+  {
+   "name": "Pakistan Army",
+   "aliases": [],
+   "type": "military",
+   "parent_or_allies": [
+    "Pakistan"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Target of the September 1995 coup plot in which HUA elements reportedly took part."
+  },
+  {
+   "name": "Indian security forces",
+   "aliases": [
+    "Indian Army"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "India"
+   ],
+   "rivals": [
+    "Harakat ul-Ansar"
+   ],
+   "country_base": "India",
+   "notes": "Killed the kidnappers' leader and captured a high-level HUA militant."
+  }
+ ],
+ "places": [
+  {
+   "name": "Kashmir",
+   "type": "region",
+   "country": "India/Pakistan",
+   "parent": "",
+   "significance": "Theater of HUA proxy war against Indian forces."
+  },
+  {
+   "name": "Lajpat Nagar",
+   "type": "city",
+   "country": "India",
+   "parent": "New Delhi",
+   "significance": "Market bombed in May 1996, killing 13."
+  },
+  {
+   "name": "New Delhi",
+   "type": "city",
+   "country": "India",
+   "parent": "India",
+   "significance": "Site of the bombing; US Embassy reporting origin."
+  },
+  {
+   "name": "Islamabad",
+   "type": "city",
+   "country": "Pakistan",
+   "parent": "Pakistan",
+   "significance": "Capital; HUA sponsor reducing support; used as shorthand for the Pakistani government."
+  },
+  {
+   "name": "Libya",
+   "type": "country",
+   "country": "Libya",
+   "parent": "",
+   "significance": "Qadhafi's state, potential HUA funding source."
+  }
+ ],
+ "events": [
+  {
+   "date": "1994",
+   "date_precision": "year",
+   "type": "attack",
+   "description": "HUA began kidnapping Westerners; at least 13 people kidnapped in four incidents since early 1994.",
+   "place": "India",
+   "actors": [
+    "Harakat ul-Ansar"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1995-09",
+   "date_precision": "month",
+   "type": "attack",
+   "description": "Coup attempt against the Pakistan Army/civilian government; HUA elements reportedly participated.",
+   "place": "Pakistan",
+   "actors": [
+    "Harakat ul-Ansar",
+    "Pakistan Army"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1995-12-13",
+   "date_precision": "day",
+   "type": "death",
+   "description": "Al-Faran hostages probably killed on 13 December after Indian forces killed the kidnappers' leader earlier that month.",
+   "place": "Kashmir",
+   "actors": [
+    "Al-Faran",
+    "Harakat ul-Ansar",
+    "Indian security forces"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1996-05",
+   "date_precision": "month",
+   "type": "attack",
+   "description": "Lajpat Nagar market bombing in New Delhi killed 13; the Jammu and Kashmir Islamic Front possibly assisted by HUA.",
+   "place": "Lajpat Nagar",
+   "actors": [
+    "Jammu and Kashmir Islamic Front",
+    "Harakat ul-Ansar"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1996-08",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "CIA Directorate of Intelligence publishes the report DI TR 96-008.",
+   "place": "",
+   "actors": [
+    "Central Intelligence Agency"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1994",
+   "date_precision": "approx",
+   "type": "attack",
+   "description": "HUA began kidnapping, taking at least 13 people (12 Westerners) in four incidents by 1996.",
+   "place": "Kashmir",
+   "actors": [
+    "Harakat ul-Ansar"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1995-09",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Coup attempt against the Pakistan Army/civilian government in which HUA elements reportedly participated.",
+   "place": "Pakistan",
+   "actors": [
+    "Harakat ul-Ansar",
+    "Pakistan Army"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1995-12",
+   "date_precision": "month",
+   "type": "death",
+   "description": "Indian security forces killed the leader of the Al-Faran kidnappers.",
+   "place": "Kashmir",
+   "actors": [
+    "Indian security forces",
+    "Al-Faran"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1995-12-13",
+   "date_precision": "day",
+   "type": "death",
+   "description": "Four Western hostages held by Al-Faran/HUA were probably killed.",
+   "place": "Kashmir",
+   "actors": [
+    "Al-Faran",
+    "Harakat ul-Ansar"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1996-05",
+   "date_precision": "month",
+   "type": "attack",
+   "description": "Lajpat Nagar market bombing in New Delhi killed 13; the JKIF may have been assisted by HUA/Pakistan.",
+   "place": "Lajpat Nagar, New Delhi",
+   "actors": [
+    "Jammu and Kashmir Islamic Front",
+    "Harakat ul-Ansar"
+   ],
+   "timestamp": "p.3"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Al-Faran",
+   "target": "Harakat ul-Ansar",
+   "type": "other",
+   "detail": "Al-Faran is a codename for the HUA.",
+   "date": "1995",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Al-Faran—a codename for the Harakat ul-Ansar"
+  },
+  {
+   "source": "Harakat ul-Ansar",
+   "target": "Inter-Services Intelligence Directorate",
+   "type": "funded_by",
+   "detail": "Reporting indicates a monthly payment of $30,000-$60,000 to the HUA (provider's name redacted; ISI context).",
+   "date": "1996",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "provides at least $30,000—and possibly as much as $60,000—per month to the HUA"
+  },
+  {
+   "source": "Harakat ul-Ansar",
+   "target": "Usama Bin Ladin",
+   "type": "funded_by",
+   "detail": "HUA is discussing financing with Bin Ladin and may seek his money.",
+   "date": "1996",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "the HUA is discussing financing with sponsors of international terrorism"
+  },
+  {
+   "source": "Harakat ul-Ansar",
+   "target": "Mu'ammar Qadhafi",
+   "type": "funded_by",
+   "detail": "HUA may seek assistance from Qadhafi.",
+   "date": "1996",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "including terrorist financier Usama Bin Ladin and Libyan leader Mu'ammar Qadhafi"
+  },
+  {
+   "source": "Jammu and Kashmir Islamic Front",
+   "target": "Harakat ul-Ansar",
+   "type": "allied_with",
+   "detail": "HUA may have assisted the JKIF in the Lajpat Nagar bombing.",
+   "date": "1996-05",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "assisted the Jammu and Kashmir Islamic Front in carrying out the Lajpat Nagar market bombing"
+  },
+  {
+   "source": "Harakat ul-Ansar",
+   "target": "Pakistan Army",
+   "type": "funded_by",
+   "detail": "HUA is described as an organization Pakistan supports in its proxy war in Kashmir (state support, attributed to Pakistan/ISI).",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "an Islamic extremist organization that Pakistan supports in its proxy Kashmir war against Indian forces in Kashmir"
+  },
+  {
+   "source": "Al-Faran",
+   "target": "Harakat ul-Ansar",
+   "type": "other",
+   "detail": "Al-Faran is a codename for the Harakat ul-Ansar, which kidnapped the four Western hostages.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "kidnapped over a year ago by Al-Faran—a codename for the Harakat ul-Ansar"
+  },
+  {
+   "source": "Mu'ammar Qadhafi",
+   "target": "Libya",
+   "type": "leads",
+   "detail": "Qadhafi is identified as the Libyan leader.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Libyan leader Mu'ammar Qadhafi"
+  },
+  {
+   "source": "Harakat ul-Ansar",
+   "target": "Indian security forces",
+   "type": "rival_of",
+   "detail": "HUA fights Indian forces in Kashmir; Indian forces killed the kidnappers' leader.",
+   "date": "1995-12",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Indian security forces had killed the kidnappers' leader earlier that month"
+  },
+  {
+   "source": "Indian security forces",
+   "target": "Harakat ul-Ansar",
+   "type": "captured",
+   "detail": "A high-level HUA militant was captured by Indian security forces and interrogated by US personnel.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "A high-level HUA militant captured by Indian security forces told US interrogators"
+  },
+  {
+   "source": "Harakat ul-Ansar",
+   "target": "Jammu and Kashmir Islamic Front",
+   "type": "other",
+   "detail": "HUA (or Pakistan/ISI) may have assisted the JKIF in the Lajpat Nagar bombing.",
+   "date": "1996-05",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "may have assisted the Jammu and Kashmir Islamic Front in carrying out the Lajpat Nagar market bombing"
+  },
+  {
+   "source": "Jammu and Kashmir Islamic Front",
+   "target": "Lajpat Nagar",
+   "type": "other",
+   "detail": "JKIF carried out the Lajpat Nagar market bombing.",
+   "date": "1996-05",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "Lajpat Nagar market bombing in May 1996 in New Delhi that killed 13 persons"
+  },
+  {
+   "source": "Lajpat Nagar",
+   "target": "New Delhi",
+   "type": "located_in",
+   "detail": "Lajpat Nagar market is in New Delhi.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "Lajpat Nagar market bombing in May 1996 in New Delhi"
+  },
+  {
+   "source": "Harakat ul-Ansar",
+   "target": "Pakistan Army",
+   "type": "rival_of",
+   "detail": "Elements within HUA participated in a September 1995 coup plot against the Pakistan Army, per press reporting.",
+   "date": "1995-09",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "Elements within the HUA participated in the coup of September 1995 against the Pakistan Army"
+  },
+  {
+   "source": "Harakat ul-Ansar",
+   "target": "Islamabad",
+   "type": "rival_of",
+   "detail": "HUA leaders show antigovernment sentiment toward Islamabad and could target it if support is cut.",
+   "date": "1996",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Antigovernment sentiment among HUA leaders is already strong and could grow further."
+  },
+  {
+   "source": "Inter-Services Intelligence Directorate",
+   "target": "Islamabad",
+   "type": "located_in",
+   "detail": "ISI is the Pakistani state agency in Islamabad that is scaling back support.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "whether the ISED has reduced its financial and other support"
+  },
+  {
+   "source": "Harakat ul-Ansar",
+   "target": "Kashmir",
+   "type": "located_in",
+   "detail": "HUA operates in Kashmir against Indian forces.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "proxy Kashmir war against Indian forces in Kashmir"
+  }
+ ],
+ "sources_cited": [
+  "US Embassy reports",
+  "Press reporting",
+  "Interrogation of a captured high-level HUA militant by US interrogators"
+ ],
+ "key_claims": [
+  "The HUA is shifting from attacking Indian forces in Kashmir to targeting Westerners and civilians outside Kashmir.",
+  "The four Western Al-Faran hostages were probably killed on 13 December 1995.",
+  "Pakistan appears to be scaling back HUA support to avoid being named a state sponsor of terrorism.",
+  "The HUA may turn to Bin Ladin and Qadhafi for funds, which could encourage attacks on US targets.",
+  "A crackdown by Islamabad could make Pakistan an HUA target, given anti-government sentiment among HUA leaders.",
+  "The HUA may be preparing to attack civilian or VIP aircraft in India."
+ ]
+}

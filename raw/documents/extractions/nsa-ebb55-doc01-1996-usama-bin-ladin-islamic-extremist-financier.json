@@ -1,0 +1,1145 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb55-doc01-1996-usama-bin-ladin-islamic-extremist-financier",
+  "title": "Usama bin Ladin: Islamic Extremist Financier",
+  "authors": "CIA",
+  "publisher": "National Security Archive (GWU), Terrorism and U.S. Policy",
+  "published": "1996",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB55/ciaubl.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB55/index1.html",
+  "pages": 3,
+  "kind": "intelligence report",
+  "note": "[Unclassified] CIA assessment released to the media in 1996. It gives background on bin Ladin, including his role in supporting the resistance to the Soviet invasion of Afghanistan. It covers his terrorist activities, the Islamic Salvation Foundation (Al-Qaida) and collaboration with other extremist groups. It also traces his commercial activities since 1989 (e.g., construction of an airport near Port Sudan) and reports that by January 1994 he was helping finance three terrorist training camps in northern Sudan.",
+  "collection": "NSAEBB55",
+  "doc_number": "Section I, Document 1",
+  "relevance": "high",
+  "ocr": 3
+ },
+ "persons": [
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Usama bin Muhammad bin Awad Bin Ladin",
+    "Osama bin Laden",
+    "Bin Ladin"
+   ],
+   "role": "Islamic extremist financier; founder of al-Qaida; businessman in Sudan; head of Advisory and Reformation Committee",
+   "organizations": [
+    "al-Qaida",
+    "Bin Ladin Group",
+    "Advisory and Reformation Committee",
+    "Al-Hijrah for Construction and Development, Ltd."
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "unknown",
+   "status_detail": "Saudi citizenship revoked Feb 1994; based in Sudan as of 1996 text",
+   "family": [
+    {
+     "relation": "father",
+     "name": "Muhammed Bin Ladin"
+    },
+    {
+     "relation": "brother",
+     "name": "Bakr Bin Ladin"
+    }
+   ],
+   "locations": [
+    "Afghanistan",
+    "Pakistan",
+    "Sudan",
+    "Khartoum",
+    "Jeddah",
+    "Saudi Arabia"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Usama bin Muhammad bin Awad Bin Ladin is one of the most significant financial sponsors of Islamic extremist activities in the world today."
+    },
+    {
+     "timestamp": "p.1",
+     "quote": "Bin Ladin relocated to Sudan in 1991, where he was welcomed by National Islamic Front (NIF) leader Hasan al-Turabi."
+    }
+   ]
+  },
+  {
+   "name": "Muhammed Bin Ladin",
+   "aliases": [
+    "Muhammad bin Awad Bin Ladin"
+   ],
+   "role": "Saudi construction magnate; founder of the Bin Ladin Group",
+   "organizations": [
+    "Bin Ladin Group"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [
+    {
+     "relation": "son",
+     "name": "Usama bin Ladin"
+    }
+   ],
+   "locations": [
+    "Saudi Arabia"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "One of some 20 sons of wealthy Saudi construction magnate Muhammed Bin Ladin—founder of the Kingdom's Bin Ladin Group business empire"
+    }
+   ]
+  },
+  {
+   "name": "Hasan al-Turabi",
+   "aliases": [
+    "Hassan al-Turabi"
+   ],
+   "role": "National Islamic Front (NIF) leader",
+   "organizations": [
+    "National Islamic Front"
+   ],
+   "nationality_or_origin": "Sudanese",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Sudan",
+    "Khartoum"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "welcomed by National Islamic Front (NIF) leader Hasan al-Turabi"
+    }
+   ]
+  },
+  {
+   "name": "Ramzi Ahmed Yousef",
+   "aliases": [
+    "Rawad Ahmed Yousef",
+    "Ramzi Yousef"
+   ],
+   "role": "Alleged mastermind of the February 1993 World Trade Center bombing",
+   "organizations": [],
+   "nationality_or_origin": "",
+   "status": "detained",
+   "status_detail": "apprehended February 1995",
+   "family": [],
+   "locations": [
+    "Peshawar"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "Ramzi Ahmed Yousef, the alleged mastermind of the February 1993 World Trade Center bombing, resided at the Bin Ladin-funded Bayt Ashuhada"
+    }
+   ]
+  },
+  {
+   "name": "Bakr Bin Ladin",
+   "aliases": [
+    "Baby Bin Ladin"
+   ],
+   "role": "Eldest brother of Usama bin Ladin; family spokesman denouncing him in 1994",
+   "organizations": [
+    "Bin Ladin Group"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [
+    {
+     "relation": "brother",
+     "name": "Usama bin Ladin"
+    }
+   ],
+   "locations": [
+    "Saudi Arabia"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.3",
+     "quote": "condemnation leveled against him in March 1994 by his eldest brother, Baby Bin Ladin"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "al-Qaida",
+   "aliases": [
+    "al-Qaeda",
+    "Islamic Salvation Foundation"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Gama'at al-Islamiyyah",
+    "al-Jihad"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Founded by 1985 by Bin Ladin to recruit, transport, and train Arab volunteers; ran recruitment centers and guesthouses in Egypt, Saudi Arabia, Pakistan, and training camps in Afghanistan/Pakistan."
+  },
+  {
+   "name": "Bin Ladin Group",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Saudi Arabia",
+   "notes": "Family construction empire founded by Muhammed Bin Ladin."
+  },
+  {
+   "name": "National Islamic Front",
+   "aliases": [
+    "NIF"
+   ],
+   "type": "political movement",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Sudan",
+   "notes": "Led by Hasan al-Turabi; hosted Bin Ladin and partnered in business."
+  },
+  {
+   "name": "al-Gama'at al-Islamiyyah",
+   "aliases": [
+    "al-Gama'et al-Islamiyyah",
+    "Islamic Group"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaida"
+   ],
+   "rivals": [],
+   "country_base": "Egypt",
+   "notes": "Egyptian extremist group; worked with al-Qaida on training camps."
+  },
+  {
+   "name": "al-Jihad",
+   "aliases": [
+    "Egyptian al-Jihad"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaida"
+   ],
+   "rivals": [],
+   "country_base": "Egypt",
+   "notes": "Claimed to receive Bin Ladin funding."
+  },
+  {
+   "name": "Al-Hijrah for Construction and Development, Ltd.",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Sudan",
+   "notes": "Bin Ladin company; built Tahaddi road and Port Sudan airport; works with Sudanese military to supply training camps."
+  },
+  {
+   "name": "Wadi al-Aqiq Company, Ltd.",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Sudan",
+   "notes": "Import-export firm."
+  },
+  {
+   "name": "Taba Investment Company, Ltd.",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Sudan",
+   "notes": "Gained near monopoly over Sudanese agricultural exports."
+  },
+  {
+   "name": "Al-Themar al-Mubarakah Agriculture Company, Ltd.",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Sudan",
+   "notes": "Large land holdings near Khartoum and eastern Sudan."
+  },
+  {
+   "name": "Al-Shamal Islamic Bank",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [
+    "National Islamic Front"
+   ],
+   "rivals": [],
+   "country_base": "Sudan",
+   "notes": "Capitalized by Bin Ladin ($40 million) and NIF members."
+  },
+  {
+   "name": "Advisory and Reformation Committee",
+   "aliases": [],
+   "type": "political movement",
+   "parent_or_allies": [],
+   "rivals": [
+    "Saudi Government"
+   ],
+   "country_base": "United Kingdom",
+   "notes": "London-based dissident organization; issued over 350 pamphlets by July 1995."
+  },
+  {
+   "name": "Bayt Ashuhada",
+   "aliases": [
+    "house of martyrs"
+   ],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Bin Ladin-funded guesthouse in Peshawar."
+  },
+  {
+   "name": "INTERPOL",
+   "aliases": [],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Yemen reportedly sought its help to apprehend Bin Ladin in 1994."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Site of anti-Soviet jihad and training camps."
+  },
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Recruitment centers, guesthouses and camps."
+  },
+  {
+   "name": "Peshawar",
+   "type": "city",
+   "country": "Pakistan",
+   "parent": "Pakistan",
+   "significance": "Location of Bayt Ashuhada guesthouse."
+  },
+  {
+   "name": "Sudan",
+   "type": "country",
+   "country": "Sudan",
+   "parent": "",
+   "significance": "Bin Ladin's base from 1991."
+  },
+  {
+   "name": "Khartoum",
+   "type": "city",
+   "country": "Sudan",
+   "parent": "Sudan",
+   "significance": "Bin Ladin's base and business center."
+  },
+  {
+   "name": "Port Sudan",
+   "type": "city",
+   "country": "Sudan",
+   "parent": "Sudan",
+   "significance": "Airport and road projects built by Bin Ladin's firm."
+  },
+  {
+   "name": "Jeddah",
+   "type": "city",
+   "country": "Saudi Arabia",
+   "parent": "Saudi Arabia",
+   "significance": "Base of family construction business."
+  },
+  {
+   "name": "Aden",
+   "type": "city",
+   "country": "Yemen",
+   "parent": "Yemen",
+   "significance": "Site of December 1992 attempted bombings of US servicemen."
+  },
+  {
+   "name": "Kunar",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Camp financed by Bin Ladin training al-Jihad and al-Gama'at members."
+  },
+  {
+   "name": "Saudi Arabia",
+   "type": "country",
+   "country": "Saudi Arabia",
+   "parent": "",
+   "significance": "Bin Ladin's home country; revoked citizenship."
+  },
+  {
+   "name": "Egypt",
+   "type": "country",
+   "country": "Egypt",
+   "parent": "",
+   "significance": "Recruitment centers; target of extremist groups."
+  },
+  {
+   "name": "London",
+   "type": "city",
+   "country": "United Kingdom",
+   "parent": "United Kingdom",
+   "significance": "Base of Advisory and Reformation Committee."
+  }
+ ],
+ "events": [
+  {
+   "date": "1979-12-26",
+   "date_precision": "day",
+   "type": "other",
+   "description": "Soviet invasion of Afghanistan; Bin Ladin joined Afghan resistance shortly after.",
+   "place": "Afghanistan",
+   "actors": [
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1985",
+   "date_precision": "year",
+   "type": "other",
+   "description": "By 1985 Bin Ladin had founded al-Qaida to recruit and train Arab volunteers.",
+   "place": "Afghanistan",
+   "actors": [
+    "Usama bin Ladin",
+    "al-Qaida"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1989",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Soviets withdrew; Bin Ladin returned to Jeddah business; Saudis held his passport 1989-1991.",
+   "place": "Jeddah",
+   "actors": [
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1991",
+   "date_precision": "year",
+   "type": "travel",
+   "description": "Bin Ladin relocated to Sudan, welcomed by Hasan al-Turabi.",
+   "place": "Sudan",
+   "actors": [
+    "Usama bin Ladin",
+    "Hasan al-Turabi"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1992-12",
+   "date_precision": "month",
+   "type": "attack",
+   "description": "Attempted bombings against some 100 US servicemen in Aden; perpetrators claimed Bin Ladin financed them.",
+   "place": "Aden",
+   "actors": [
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1993-05",
+   "date_precision": "month",
+   "type": "travel",
+   "description": "Bin Ladin financed travel of 300-480 Afghan war veterans to Sudan after Pakistani crackdown.",
+   "place": "Sudan",
+   "actors": [
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1993-05",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Joint Egyptian-Saudi investigation found Bin Ladin business interests funneled money to Egyptian extremists.",
+   "place": "Egypt",
+   "actors": [
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1994-02",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Riyadh revoked Bin Ladin's Saudi citizenship; he formed the Advisory and Reformation Committee.",
+   "place": "Saudi Arabia",
+   "actors": [
+    "Usama bin Ladin",
+    "Advisory and Reformation Committee"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1994-03",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Eldest brother Bakr Bin Ladin publicly condemned Usama's extremist activities on behalf of the family.",
+   "place": "Saudi Arabia",
+   "actors": [
+    "Bakr Bin Ladin",
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1995-02",
+   "date_precision": "month",
+   "type": "arrest",
+   "description": "Ramzi Yousef apprehended.",
+   "place": "",
+   "actors": [
+    "Ramzi Ahmed Yousef"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1979-12-26",
+   "date_precision": "day",
+   "type": "other",
+   "description": "Soviet invasion of Afghanistan; Bin Ladin joined the Afghan resistance shortly after.",
+   "place": "Afghanistan",
+   "actors": [
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1985",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Bin Ladin established al-Qaida by this year to fund and organize Arab volunteers.",
+   "place": "Afghanistan",
+   "actors": [
+    "Usama bin Ladin",
+    "al-Qaida"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1989",
+   "date_precision": "year",
+   "type": "travel",
+   "description": "Bin Ladin returned to Jeddah after the Soviet withdrawal; Saudi officials held his passport 1989-1991.",
+   "place": "Jeddah",
+   "actors": [
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1991",
+   "date_precision": "year",
+   "type": "travel",
+   "description": "Bin Ladin relocated to Sudan and was welcomed by al-Turabi.",
+   "place": "Sudan",
+   "actors": [
+    "Usama bin Ladin",
+    "Hasan al-Turabi"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1992-12",
+   "date_precision": "month",
+   "type": "attack",
+   "description": "Attempted bombings against some 100 U.S. servicemen in Aden; perpetrators claimed Bin Ladin financed them.",
+   "place": "Aden",
+   "actors": [
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1993-02",
+   "date_precision": "month",
+   "type": "attack",
+   "description": "World Trade Center bombing, alleged mastermind Ramzi Ahmed Yousef.",
+   "place": "New York",
+   "actors": [
+    "Ramzi Ahmed Yousef"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1993-05",
+   "date_precision": "month",
+   "type": "travel",
+   "description": "Bin Ladin financed travel of 300-480 Afghan war veterans from Pakistan to Sudan.",
+   "place": "Sudan",
+   "actors": [
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1993-05",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Joint Egyptian-Saudi investigation revealed Bin Ladin business interests funneled money to Egyptian extremists.",
+   "place": "Egypt",
+   "actors": [
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1994-01",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Bin Ladin had begun financing at least three terrorist training camps in northern Sudan.",
+   "place": "Sudan",
+   "actors": [
+    "Usama bin Ladin",
+    "National Islamic Front"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1994-02",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Riyadh revoked Bin Ladin's Saudi citizenship; he then formed the Advisory and Reformation Committee in London.",
+   "place": "Saudi Arabia",
+   "actors": [
+    "Usama bin Ladin",
+    "Advisory and Reformation Committee"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1994-03",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Bakr Bin Ladin publicly denounced Usama on behalf of the family.",
+   "place": "Saudi Arabia",
+   "actors": [
+    "Bakr Bin Ladin",
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1995-02",
+   "date_precision": "month",
+   "type": "arrest",
+   "description": "Ramzi Ahmed Yousef apprehended.",
+   "place": "Pakistan",
+   "actors": [
+    "Ramzi Ahmed Yousef"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1995-07",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Al-Jihad leader interview claiming Bin Ladin funded the group.",
+   "place": "Egypt",
+   "actors": [
+    "al-Jihad",
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.2"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Usama bin Ladin",
+   "target": "Muhammed Bin Ladin",
+   "type": "family",
+   "detail": "Usama is one of some 20 sons of Muhammed Bin Ladin.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "One of some 20 sons of wealthy Saudi construction magnate Muhammed Bin Ladin"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Bakr Bin Ladin",
+   "type": "family",
+   "detail": "Bakr is Usama's eldest brother.",
+   "date": "1994-03",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "his eldest brother, Baby Bin Ladin"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "al-Qaida",
+   "type": "leads",
+   "detail": "Bin Ladin founded al-Qaida with family wealth and Gulf donations.",
+   "date": "1985",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Bin Ladin had drawn on his family's wealth... to found the Islamic Salvation Foundation, or al-Qaida"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Hasan al-Turabi",
+   "type": "hosted_by",
+   "detail": "Bin Ladin welcomed to Sudan by NIF leader al-Turabi.",
+   "date": "1991",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "he was welcomed by National Islamic Front (NIF) leader Hasan al-Turabi"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "National Islamic Front",
+   "type": "allied_with",
+   "detail": "Symbiotic business relations with wealthy NIF members; capitalized bank together.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "formed symbiotic business relationships with wealthy NIF members"
+  },
+  {
+   "source": "al-Qaida",
+   "target": "al-Gama'at al-Islamiyyah",
+   "type": "allied_with",
+   "detail": "Organized and ran training camps together.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Working in conjunction with extremist groups like the Egyptian al-Gama'at al-Islamiyyah"
+  },
+  {
+   "source": "al-Jihad",
+   "target": "Usama bin Ladin",
+   "type": "funded_by",
+   "detail": "Al-Jihad member claimed Bin Ladin helped fund the group.",
+   "date": "1995-07",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Bin Ladin helped fund the group"
+  },
+  {
+   "source": "Ramzi Ahmed Yousef",
+   "target": "Bayt Ashuhada",
+   "type": "hosted_by",
+   "detail": "Yousef resided at the Bin Ladin-funded guesthouse in Peshawar.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "resided at the Bin Ladin-funded Bayt Ashuhada (house of martyrs) guesthouse in Peshawar"
+  },
+  {
+   "source": "Bayt Ashuhada",
+   "target": "Usama bin Ladin",
+   "type": "funded_by",
+   "detail": "Guesthouse funded by Bin Ladin.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Bin Ladin-funded Bayt Ashuhada"
+  },
+  {
+   "source": "Al-Shamal Islamic Bank",
+   "target": "Usama bin Ladin",
+   "type": "funded_by",
+   "detail": "Bin Ladin invested $40 million.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Bin Ladin invested $40 million in the bank"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Advisory and Reformation Committee",
+   "type": "leads",
+   "detail": "Formed after losing citizenship.",
+   "date": "1994-02",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "prompted Bin Ladin to form the Advisory and Reformation Committee"
+  },
+  {
+   "source": "Al-Hijrah for Construction and Development, Ltd.",
+   "target": "Usama bin Ladin",
+   "type": "other",
+   "detail": "Company belongs to Bin Ladin and works with Sudanese military to supply training camps.",
+   "date": "1994",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Bin Ladin's Al-Hijrah for Construction and Development works directly with Sudanese military officials"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Muhammed Bin Ladin",
+   "type": "family",
+   "detail": "Usama was one of some 20 sons of Muhammed Bin Ladin.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "One of some 20 sons of wealthy Saudi construction magnate Muhammed Bin Ladin"
+  },
+  {
+   "source": "Muhammed Bin Ladin",
+   "target": "Bin Ladin Group",
+   "type": "leads",
+   "detail": "Muhammed Bin Ladin founded the Bin Ladin Group business empire.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "founder of the Kingdom's Bin Ladin Group business empire"
+  },
+  {
+   "source": "al-Qaida",
+   "target": "al-Gama'at al-Islamiyyah",
+   "type": "allied_with",
+   "detail": "Al-Qaida worked in conjunction with the Egyptian al-Gama'at al-Islamiyyah to organize camps in Afghanistan and Pakistan.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Working in conjunction with extremist groups like the Egyptian al-Gama'at al-Islamiyyah"
+  },
+  {
+   "source": "al-Qaida",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Al-Qaida organized and ran training camps in Afghanistan.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "al-Qaida organized and ran camps in Afghanistan and Pakistan"
+  },
+  {
+   "source": "al-Qaida",
+   "target": "Pakistan",
+   "type": "located_in",
+   "detail": "Al-Qaida ran camps and recruitment centers in Pakistan.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "al-Qaida organized and ran camps in Afghanistan and Pakistan"
+  },
+  {
+   "source": "al-Qaida",
+   "target": "Egypt",
+   "type": "located_in",
+   "detail": "Al-Qaida recruitment centers and guesthouses existed in Egypt.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "recruitment centers and guesthouses in Egypt, Saudi Arabia, and Pakistan"
+  },
+  {
+   "source": "al-Qaida",
+   "target": "Saudi Arabia",
+   "type": "located_in",
+   "detail": "Al-Qaida recruitment centers and guesthouses existed in Saudi Arabia.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "recruitment centers and guesthouses in Egypt, Saudi Arabia, and Pakistan"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Bin Ladin Group",
+   "type": "member_of",
+   "detail": "After 1989 Bin Ladin returned to work in the family's Jeddah-based construction business.",
+   "date": "1989",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Bin Ladin returned to work in the family's Jeddah-based construction business"
+  },
+  {
+   "source": "Bin Ladin Group",
+   "target": "Jeddah",
+   "type": "located_in",
+   "detail": "The family construction business is Jeddah-based.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "family's Jeddah-based construction business"
+  },
+  {
+   "source": "Hasan al-Turabi",
+   "target": "National Islamic Front",
+   "type": "leads",
+   "detail": "Al-Turabi is NIF leader.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "National Islamic Front (NIF) leader Hasan al-Turabi"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Sudan",
+   "type": "located_in",
+   "detail": "Bin Ladin relocated to Sudan in 1991.",
+   "date": "1991",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Bin Ladin relocated to Sudan in 1991"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "National Islamic Front",
+   "type": "allied_with",
+   "detail": "Bin Ladin formed symbiotic business relationships with wealthy NIF members via infrastructure projects.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "formed symbiotic business relationships with wealthy NIF members by undertaking civil infrastructure development projects"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Al-Hijrah for Construction and Development, Ltd.",
+   "type": "leads",
+   "detail": "Bin Ladin's company built the Tahaddi road.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Bin Ladin's company Al-Hijrah for Construction and Development, Ltd. built the tahaddi (challenge) road"
+  },
+  {
+   "source": "Al-Hijrah for Construction and Development, Ltd.",
+   "target": "Khartoum",
+   "type": "other",
+   "detail": "Built a road linking Khartoum with Port Sudan.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "road linking Khartoum with Port Sudan"
+  },
+  {
+   "source": "Al-Hijrah for Construction and Development, Ltd.",
+   "target": "Port Sudan",
+   "type": "other",
+   "detail": "Built an international airport near Port Sudan.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "modern international airport near Port Sudan"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Wadi al-Aqiq Company, Ltd.",
+   "type": "leads",
+   "detail": "Bin Ladin's import-export firm.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Bin Ladin's import-export firm Wadi al-Aqiq Company, Ltd."
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Taba Investment Company, Ltd.",
+   "type": "leads",
+   "detail": "Bin Ladin owned Taba Investment.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "with his Taba Investment Company, Ltd."
+  },
+  {
+   "source": "Wadi al-Aqiq Company, Ltd.",
+   "target": "National Islamic Front",
+   "type": "allied_with",
+   "detail": "Secured agricultural export near-monopoly in cooperation with prominent NIF members.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "in cooperation with prominent NIF members"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Al-Themar al-Mubarakah Agriculture Company, Ltd.",
+   "type": "leads",
+   "detail": "Bin Ladin's agricultural company.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Bin Ladin's Al-Themar al-Mubarakah Agriculture Company, Ltd."
+  },
+  {
+   "source": "Al-Themar al-Mubarakah Agriculture Company, Ltd.",
+   "target": "Khartoum",
+   "type": "located_in",
+   "detail": "Held large tracts of land near Khartoum and in eastern Sudan.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "large tracts of land near Khartoum and in eastern Sudan"
+  },
+  {
+   "source": "Al-Shamal Islamic Bank",
+   "target": "Usama bin Ladin",
+   "type": "funded_by",
+   "detail": "Bin Ladin invested $40 million in the bank.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Bin Ladin invested $40 million in the bank"
+  },
+  {
+   "source": "Al-Shamal Islamic Bank",
+   "target": "National Islamic Front",
+   "type": "funded_by",
+   "detail": "Capitalized by Bin Ladin and wealthy NIF members.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Bin Ladin and wealthy NIF members capitalized Al-Shamal Islamic Bank in Khartoum"
+  },
+  {
+   "source": "Al-Shamal Islamic Bank",
+   "target": "Khartoum",
+   "type": "located_in",
+   "detail": "The bank is in Khartoum.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Al-Shamal Islamic Bank in Khartoum"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Pakistan",
+   "type": "other",
+   "detail": "Financed travel of Afghan war veterans from Pakistan to Sudan after Islamabad's crackdown.",
+   "date": "1993-05",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Bin Ladin financed the travel of 300 to 480 Afghan war veterans to Sudan after Islamabad launched a crackdown"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Al-Hijrah for Construction and Development, Ltd.",
+   "type": "other",
+   "detail": "Al-Hijrah works directly with Sudanese military officials to transport and provision terrorists training in camps.",
+   "date": "1994-01",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Al-Hijrah for Construction and Development works directly with Sudanese military officials to transport and provision terrorists training"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "National Islamic Front",
+   "type": "funded_by",
+   "detail": "Bin Ladin financed three terrorist training camps in northern Sudan in cooperation with NIF.",
+   "date": "1994-01",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "financing at least three terrorist training camps in northern Sudan"
+  },
+  {
+   "source": "Ramzi Ahmed Yousef",
+   "target": "Bayt Ashuhada",
+   "type": "hosted_by",
+   "detail": "Yousef resided at the Bin Ladin-funded Bayt Ashuhada guesthouse in Peshawar.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "resided at the Bin Ladin-funded Bayt Ashuhada (house of martyrs) guesthouse in Peshawar"
+  },
+  {
+   "source": "Bayt Ashuhada",
+   "target": "Usama bin Ladin",
+   "type": "funded_by",
+   "detail": "Guesthouse funded by Bin Ladin.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Bin Ladin-funded Bayt Ashuhada"
+  },
+  {
+   "source": "Bayt Ashuhada",
+   "target": "Peshawar",
+   "type": "located_in",
+   "detail": "Guesthouse in Peshawar.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "guesthouse in Peshawar"
+  },
+  {
+   "source": "Kunar",
+   "target": "Usama bin Ladin",
+   "type": "funded_by",
+   "detail": "Bin Ladin is key financier behind the Kunar camp.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Bin Ladin remains the key financier behind the 'Kunar' camp in Afghanistan"
+  },
+  {
+   "source": "al-Jihad",
+   "target": "Kunar",
+   "type": "trained_by",
+   "detail": "Kunar camp trains al-Jihad members.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "provides terrorist training to al-Jihad and al-Gama'at al-Islamiyyah members"
+  },
+  {
+   "source": "al-Gama'at al-Islamiyyah",
+   "target": "Kunar",
+   "type": "trained_by",
+   "detail": "Kunar camp trains al-Gama'at members.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "provides terrorist training to al-Jihad and al-Gama'at al-Islamiyyah members"
+  },
+  {
+   "source": "Advisory and Reformation Committee",
+   "target": "Usama bin Ladin",
+   "type": "leads",
+   "detail": "Bin Ladin formed the London-based Advisory and Reformation Committee.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "prompted Bin Ladin to form the Advisory and Reformation Committee, a London-based dissident organization"
+  },
+  {
+   "source": "Advisory and Reformation Committee",
+   "target": "London",
+   "type": "located_in",
+   "detail": "Committee is London-based.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "a London-based dissident organization"
+  },
+  {
+   "source": "Bakr Bin Ladin",
+   "target": "Usama bin Ladin",
+   "type": "family",
+   "detail": "Bakr is Usama's eldest brother and publicly condemned him.",
+   "date": "1994-03",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "his eldest brother, Bakr Bin Ladin, who expressed through the Saudi media his family's 'regret, denunciation, and condemnation'"
+  },
+  {
+   "source": "Saudi Arabia",
+   "target": "Usama bin Ladin",
+   "type": "other",
+   "detail": "Riyadh revoked Bin Ladin's citizenship.",
+   "date": "1994-02",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "Riyadh revoked Bin Ladin's Saudi citizenship"
+  },
+  {
+   "source": "INTERPOL",
+   "target": "Usama bin Ladin",
+   "type": "other",
+   "detail": "Yemen reportedly sought INTERPOL's assistance to apprehend Bin Ladin.",
+   "date": "1994",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "Yemen reportedly sought INTERPOL's assistance to apprehend Bin Ladin during 1994"
+  }
+ ],
+ "sources_cited": [
+  "1993 Bin Ladin interview",
+  "1994 Bin Ladin interview",
+  "Joint Egyptian-Saudi investigation (May 1993)",
+  "Pakistani investigators",
+  "July 1995 interview with al-Jihad member",
+  "Egyptian authorities' interrogations of suspected terrorists"
+ ],
+ "key_claims": [
+  "Bin Ladin was a leading financier of Islamic extremist activity, founding al-Qaida by 1985 to recruit, transport and train Arab volunteers.",
+  "Bin Ladin relocated to Sudan in 1991 under NIF leader al-Turabi's welcome, with business ties to NIF members.",
+  "Bin Ladin financed training camps in northern Sudan with Sudanese military and NIF cooperation.",
+  "Bin Ladin funded Egyptian groups al-Jihad and al-Gama'at al-Islamiyyah, including a camp in Kunar.",
+  "Bin Ladin-funded Peshawar guesthouse housed Ramzi Yousef.",
+  "Saudi Arabia revoked his citizenship in 1994 and his family publicly denounced him."
+ ]
+}

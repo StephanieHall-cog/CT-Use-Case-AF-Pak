@@ -1,0 +1,329 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb55-doc02-1998-12-21-cia-biography-mohammad-omar",
+  "title": "CIA Biography, Mohammad Omar",
+  "authors": "CIA",
+  "publisher": "National Security Archive (GWU), Terrorism and U.S. Policy",
+  "published": "1998-12-21",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB55/ciaomar.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB55/index1.html",
+  "pages": 1,
+  "kind": "intelligence report",
+  "note": "[Unclassified] CIA document released to the media in 1998. It covers the birth, education and professional career of the Taliban leader, including time as a subcommander of a faction of the Afghan resistance.",
+  "collection": "NSAEBB55",
+  "doc_number": "Section I, Document 2",
+  "relevance": "high",
+  "ocr": 1
+ },
+ "persons": [
+  {
+   "name": "Mohammad Omar",
+   "aliases": [
+    "Mullah Omar",
+    "Mohammed Omar",
+    "Amir Omar",
+    "Amir-Ul-Momineen"
+   ],
+   "role": "Leader of the Taliban; Amir-ul-Momineen (Leader of the Faithful) of Afghanistan",
+   "organizations": [
+    "Taliban",
+    "Hizb-i Islami-Khalis"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Nodeh Village",
+    "Qandahar",
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "1980s Subcommunder of Yunis Khalis' ... Islami-Khalis mujahedin faction during the Soviet occupation of Afghanistan."
+    },
+    {
+     "timestamp": "p.1",
+     "quote": "1994 Founded and became leader of the Taliban movement."
+    },
+    {
+     "timestamp": "p.1",
+     "quote": "1996 Named Amir-Ul-Momineen of Afghanistan (Leader of the Faithful)"
+    },
+    {
+     "timestamp": "p.1",
+     "quote": "Born in Nodeh Village in the southern Afghan province of Qandahar."
+    }
+   ]
+  },
+  {
+   "name": "Yunis Khalis",
+   "aliases": [
+    "Yunus Khalis",
+    "Maulvi Yunis Khalis"
+   ],
+   "role": "Leader of the Hizb-i Islami-Khalis mujahedin faction during the Soviet occupation",
+   "organizations": [
+    "Hizb-i Islami-Khalis"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Subcommunder of Yunis Khalis' ... Islami-Khalis mujahedin faction during the Soviet occupation of Afghanistan."
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Taliban",
+   "aliases": [
+    "Taleban"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Founded in 1994 by Mohammad Omar, who became its leader."
+  },
+  {
+   "name": "Hizb-i Islami-Khalis",
+   "aliases": [
+    "Hezb-e Islami Khalis",
+    "Islami-Khalis mujahedin faction"
+   ],
+   "type": "militia",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Mujahedin faction led by Yunis Khalis during the Soviet occupation; Omar was a subcommander."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Country led by Omar as Amir-ul-Momineen."
+  },
+  {
+   "name": "Qandahar",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Province of Omar's birth."
+  },
+  {
+   "name": "Nodeh Village",
+   "type": "town",
+   "country": "Afghanistan",
+   "parent": "Qandahar",
+   "significance": "Omar's reported birthplace, c. 1950."
+  }
+ ],
+ "events": [
+  {
+   "date": "1994",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Mohammad Omar founded and became leader of the Taliban movement.",
+   "place": "Afghanistan",
+   "actors": [
+    "Mohammad Omar",
+    "Taliban"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1996",
+   "date_precision": "year",
+   "type": "appointment",
+   "description": "Omar named Amir-Ul-Momineen of Afghanistan at a Taliban-convened gathering of Islamic scholars and clerics.",
+   "place": "Afghanistan",
+   "actors": [
+    "Mohammad Omar",
+    "Taliban"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1989",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Omar returned to religious studies after the Soviet withdrawal.",
+   "place": "Afghanistan",
+   "actors": [
+    "Mohammad Omar"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "approx 1950",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Omar born in Nodeh Village, Qandahar.",
+   "place": "Nodeh Village",
+   "actors": [
+    "Mohammad Omar"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "approx 1950",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Mohammad Omar born in Nodeh Village, Qandahar.",
+   "place": "Nodeh Village, Qandahar",
+   "actors": [
+    "Mohammad Omar"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1980s",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Omar serves as subcommander in Yunis Khalis's Hizb-i Islami-Khalis faction during the Soviet occupation.",
+   "place": "Afghanistan",
+   "actors": [
+    "Mohammad Omar",
+    "Yunis Khalis",
+    "Hizb-i Islami-Khalis"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1994",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Omar founded the Taliban movement and became its leader.",
+   "place": "Afghanistan",
+   "actors": [
+    "Mohammad Omar",
+    "Taliban"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1996",
+   "date_precision": "year",
+   "type": "appointment",
+   "description": "Omar named Amir-ul-Momineen at a Taliban-convened gathering of Islamic scholars and clerics.",
+   "place": "Afghanistan",
+   "actors": [
+    "Mohammad Omar",
+    "Taliban"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Mohammad Omar",
+   "target": "Yunis Khalis",
+   "type": "reports_to",
+   "detail": "Omar was a subcommander in Khalis' faction in the 1980s.",
+   "date": "1980s",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Subcommunder of Yunis Khalis' ... Islami-Khalis mujahedin faction"
+  },
+  {
+   "source": "Mohammad Omar",
+   "target": "Hizb-i Islami-Khalis",
+   "type": "member_of",
+   "detail": "Subcommander in the faction during the Soviet occupation.",
+   "date": "1980s",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Islami-Khalis mujahedin faction during the Soviet occupation of Afghanistan."
+  },
+  {
+   "source": "Yunis Khalis",
+   "target": "Hizb-i Islami-Khalis",
+   "type": "leads",
+   "detail": "The faction is identified with Khalis.",
+   "date": "1980s",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Yunis Khalis' ... Islami-Khalis mujahedin faction"
+  },
+  {
+   "source": "Mohammad Omar",
+   "target": "Taliban",
+   "type": "leads",
+   "detail": "Founded and led the Taliban movement.",
+   "date": "1994",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Founded and became leader of the Taliban movement."
+  },
+  {
+   "source": "Mohammad Omar",
+   "target": "Qandahar",
+   "type": "located_in",
+   "detail": "Born in Nodeh Village, Qandahar province.",
+   "date": "c. 1950",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Born in Nodeh Village in the southern Afghan province of Qandahar."
+  },
+  {
+   "source": "Mohammad Omar",
+   "target": "Nodeh Village",
+   "type": "located_in",
+   "detail": "Omar was born in Nodeh Village around 1950.",
+   "date": "c. 1950",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Horn in Nodeh Village in the southern Afghan province of Qandahar."
+  },
+  {
+   "source": "Nodeh Village",
+   "target": "Qandahar",
+   "type": "located_in",
+   "detail": "Nodeh Village is in Qandahar province.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Nodeh Village in the southern Afghan province of Qandahar."
+  },
+  {
+   "source": "Qandahar",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Qandahar is a southern Afghan province.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "southern Afghan province of Qandahar"
+  },
+  {
+   "source": "Taliban",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Omar was named Amir-ul-Momineen of Afghanistan by a Taliban-convened gathering.",
+   "date": "1996",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Named Amir-Ul-Momineen of Afghanistan (Leader of the Faithful) during a Taliban-convened gathering"
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "Omar was a subcommander in Yunis Khalis' Hizb-i Islami-Khalis faction during the Soviet occupation.",
+  "Omar founded the Taliban in 1994 and became its leader.",
+  "In 1996 Omar was named Amir-ul-Momineen at a Taliban-convened gathering of scholars and clerics.",
+  "Omar's religious education is reported to be limited despite being a religious scholar in his youth.",
+  "Omar was born around 1950 in Nodeh Village, Qandahar province."
+ ]
+}

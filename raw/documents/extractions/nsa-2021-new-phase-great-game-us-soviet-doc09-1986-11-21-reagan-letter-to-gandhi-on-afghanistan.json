@@ -1,0 +1,602 @@
+{
+ "document": {
+  "doc_id": "nsa-2021-new-phase-great-game-us-soviet-doc09-1986-11-21-reagan-letter-to-gandhi-on-afghanistan",
+  "title": "Reagan Letter to Gandhi on Afghanistan",
+  "authors": "President Ronald Reagan",
+  "publisher": "National Security Archive (GWU), A New Phase in the Great Game: U.S., Soviets, India, Pakistan vied to shape a new Afghanistan in late 1980s | National Security Archive",
+  "published": "1986-11-21",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/5707168/Document-09-Reagan-Letter-to-Gandhi-on-Afghanistan.pdf",
+  "source_page": "https://nsarchive.gwu.edu/briefing-book/afghanistan-russia-programs/2019-02-01/new-phase-great-game-us-soviets-india-pakistan-vied-shape-new-afghanistan-late-1980s",
+  "pages": 3,
+  "kind": "letter",
+  "note": "[Secret] Secret letter before Gandhi's meeting with Gorbachev. Reagan urges Gandhi to press for Soviet withdrawal, says the U.S. does not seek to bleed the Soviets, calls the partial withdrawal phony, and justifies stepped-up security support for Pakistan including early warning capability.",
+  "collection": "new-new-phase-great-game-us-soviets-indi",
+  "doc_number": "Document 09",
+  "relevance": "high",
+  "ocr": 2
+ },
+ "persons": [
+  {
+   "name": "Ronald Reagan",
+   "aliases": [
+    "President Reagan"
+   ],
+   "role": "President of the United States, author of the letter to the Indian Prime Minister",
+   "organizations": [
+    "United States Government"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Washington"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "POST SHOULD IMMEDIATELY CONVEY LETTER IN PARA 3 FROM PRESIDENT REAGAN TO PRIME MINISTER GANDHI"
+    }
+   ]
+  },
+  {
+   "name": "Rajiv Gandhi",
+   "aliases": [
+    "Prime Minister Gandhi",
+    "Mr. Prime Minister"
+   ],
+   "role": "Prime Minister of India, recipient of the letter",
+   "organizations": [
+    "Government of India"
+   ],
+   "nationality_or_origin": "Indian",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "New Delhi",
+    "Washington",
+    "Harare"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "WHEN YOU VISITED WASHINGTON IN JUNE 1985, OUR DISCUSSIONS MARKED A NEW STEP FORWARD IN RELATIONS"
+    }
+   ]
+  },
+  {
+   "name": "Mikhail Gorbachev",
+   "aliases": [
+    "General Secretary"
+   ],
+   "role": "Soviet General Secretary, to be met by Gandhi",
+   "organizations": [
+    "Soviet Union"
+   ],
+   "nationality_or_origin": "Soviet",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Moscow"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "I BELIEVE YOUR UPCOMING DISCUSSIONS WITH THE GENERAL SECRETARY COULD HELP TO ADVANCE THE PROCESS TOWARD A SETTLEMENT"
+    }
+   ]
+  },
+  {
+   "name": "John Whitehead",
+   "aliases": [
+    "Whitehead"
+   ],
+   "role": "US Deputy Secretary of State, signed the cable",
+   "organizations": [
+    "US Department of State"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "KABUL MINIMIZE CONSIDERED. WHITEHEAD"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "United States Government",
+   "aliases": [
+    "U.S."
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Pakistan"
+   ],
+   "rivals": [
+    "Soviet Union"
+   ],
+   "country_base": "United States",
+   "notes": "Offers to act as guarantor of a comprehensive Afghan settlement; resumed arms sales to Pakistan."
+  },
+  {
+   "name": "Government of India",
+   "aliases": [
+    "India"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "India",
+   "notes": "Gandhi urged to raise Afghanistan with Soviets; concerned about US security assistance to Pakistan."
+  },
+  {
+   "name": "Soviet Union",
+   "aliases": [
+    "Soviets",
+    "USSR"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Kabul regime"
+   ],
+   "rivals": [
+    "United States Government"
+   ],
+   "country_base": "Soviet Union",
+   "notes": "Occupying Afghanistan; proposed three-to-four-year withdrawal timeframe, called untenable."
+  },
+  {
+   "name": "Kabul regime",
+   "aliases": [
+    "Afghan regime"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Soviet Union"
+   ],
+   "rivals": [
+    "Pakistan"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Accused with Soviets of cross-border violations of Pakistani airspace and territory."
+  },
+  {
+   "name": "Government of Pakistan",
+   "aliases": [
+    "Pakistan"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "United States Government"
+   ],
+   "rivals": [
+    "Soviet Union",
+    "Kabul regime"
+   ],
+   "country_base": "Pakistan",
+   "notes": "Subject of US security assistance and interest in early warning capability."
+  },
+  {
+   "name": "United Nations",
+   "aliases": [
+    "UN"
+   ],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Sponsors stalemated negotiations on Soviet withdrawal; last round in August."
+  },
+  {
+   "name": "US Department of State",
+   "aliases": [
+    "SECSTATE"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "United States Government"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Sent cable 364282 transmitting the letter."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Subject of the letter; Soviet occupation and withdrawal."
+  },
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Receives US arms; subject to cross-border incursions."
+  },
+  {
+   "name": "India",
+   "type": "country",
+   "country": "India",
+   "parent": "",
+   "significance": "Recipient state."
+  },
+  {
+   "name": "New Delhi",
+   "type": "city",
+   "country": "India",
+   "parent": "India",
+   "significance": "US Embassy where letter was delivered."
+  },
+  {
+   "name": "Washington",
+   "type": "city",
+   "country": "United States",
+   "parent": "United States",
+   "significance": "Gandhi visited June 1985."
+  },
+  {
+   "name": "Harare",
+   "type": "city",
+   "country": "Zimbabwe",
+   "parent": "Zimbabwe",
+   "significance": "Gandhi remarked there on ending intervention in Afghanistan."
+  },
+  {
+   "name": "Moscow",
+   "type": "city",
+   "country": "Soviet Union",
+   "parent": "Soviet Union",
+   "significance": "Site of upcoming Gandhi–Gorbachev talks; embassy received cable."
+  },
+  {
+   "name": "Islamabad",
+   "type": "city",
+   "country": "Pakistan",
+   "parent": "Pakistan",
+   "significance": "US Embassy info addressee."
+  },
+  {
+   "name": "Kabul",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "US Embassy info addressee."
+  }
+ ],
+ "events": [
+  {
+   "date": "1985-06",
+   "date_precision": "month",
+   "type": "meeting",
+   "description": "Gandhi visited Washington and held discussions with Reagan.",
+   "place": "Washington",
+   "actors": [
+    "Rajiv Gandhi",
+    "Ronald Reagan"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1986-08",
+   "date_precision": "month",
+   "type": "meeting",
+   "description": "Last round of UN-sponsored Afghanistan negotiations produced no forward movement on withdrawal timetable.",
+   "place": "",
+   "actors": [
+    "United Nations"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1986-10",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Soviet 'phony' partial withdrawal of units, per Reagan.",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet Union"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1986-11-21",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "State Department cable 364282 transmits Reagan's secret letter to Gandhi on Afghanistan and US security assistance to Pakistan.",
+   "place": "New Delhi",
+   "actors": [
+    "Ronald Reagan",
+    "Rajiv Gandhi",
+    "John Whitehead"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1985-06",
+   "date_precision": "month",
+   "type": "meeting",
+   "description": "Rajiv Gandhi visited Washington and held discussions with Reagan.",
+   "place": "Washington",
+   "actors": [
+    "Rajiv Gandhi",
+    "Ronald Reagan"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1986",
+   "date_precision": "year",
+   "type": "statement",
+   "description": "Gandhi remarked in Harare that he wished an end to intervention and interference in Afghanistan by all parties.",
+   "place": "Harare",
+   "actors": [
+    "Rajiv Gandhi"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1986-08",
+   "date_precision": "month",
+   "type": "meeting",
+   "description": "Last round of UN-sponsored Afghanistan talks produced no movement on the Soviet withdrawal timetable.",
+   "place": "",
+   "actors": [
+    "United Nations",
+    "Soviet Union"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1986-10",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Soviet 'phony' partial withdrawal of units staged in front of cameras.",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet Union"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1986",
+   "date_precision": "year",
+   "type": "attack",
+   "description": "Soviet and Kabul regime forces made about 650 incursions into Pakistani airspace and territory, a 154 percent increase over the prior year.",
+   "place": "Pakistan",
+   "actors": [
+    "Soviet Union",
+    "Kabul regime",
+    "Government of Pakistan"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1986-11-21",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Reagan's secret letter to Gandhi on Afghanistan and security assistance to Pakistan, sent via State Department cable 364282.",
+   "place": "New Delhi",
+   "actors": [
+    "Ronald Reagan",
+    "Rajiv Gandhi",
+    "John Whitehead"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Ronald Reagan",
+   "target": "Rajiv Gandhi",
+   "type": "met_with",
+   "detail": "Reagan and Gandhi held discussions in Washington in June 1985.",
+   "date": "1985-06",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "WHEN YOU VISITED WASHINGTON IN JUNE 1985, OUR DISCUSSIONS MARKED A NEW STEP FORWARD"
+  },
+  {
+   "source": "Rajiv Gandhi",
+   "target": "Mikhail Gorbachev",
+   "type": "met_with",
+   "detail": "Gandhi has upcoming discussions with the Soviet General Secretary; Reagan urges him to raise Afghanistan.",
+   "date": "1986",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "YOUR UPCOMING DISCUSSIONS WITH THE GENERAL SECRETARY COULD HELP TO ADVANCE THE PROCESS"
+  },
+  {
+   "source": "John Whitehead",
+   "target": "Ronald Reagan",
+   "type": "other",
+   "detail": "Whitehead signed the State Department cable conveying Reagan's letter.",
+   "date": "1986-11-21",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "KABUL MINIMIZE CONSIDERED. WHITEHEAD"
+  },
+  {
+   "source": "Soviet Union",
+   "target": "Kabul regime",
+   "type": "allied_with",
+   "detail": "Soviet and regime forces jointly committed cross-border violations of Pakistan.",
+   "date": "1986",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "SOVIET AND KABUL REGIME CROSS-BORDER VIOLATIONS OF PAKISTANI AIRSPACE AND TERRITORY HAVE INCREASED"
+  },
+  {
+   "source": "United States Government",
+   "target": "Government of Pakistan",
+   "type": "allied_with",
+   "detail": "US resumed arms sales relationship with Pakistan, affected by Soviet military action.",
+   "date": "1986",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "OUR RESUMED ARMS SALES RELATIONSHIP WITH PAKISTAN"
+  },
+  {
+   "source": "Ronald Reagan",
+   "target": "Rajiv Gandhi",
+   "type": "other",
+   "detail": "Reagan writes to Gandhi urging him to raise the Afghan issue and a withdrawal timetable with the Soviet General Secretary.",
+   "date": "1986-11-21",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "I AM WRITING TO YOU NOW ON THE SUBJECTS: AFGHANISTAN AND U.S. SECURITY ASSISTANCE TO PAKISTAN."
+  },
+  {
+   "source": "Rajiv Gandhi",
+   "target": "Mikhail Gorbachev",
+   "type": "met_with",
+   "detail": "Gandhi had contacts with the Soviets on Afghanistan and was due to hold upcoming discussions with the General Secretary.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "I BELIEVE YOUR UPCOMING DISCUSSIONS WITH THE GENERAL SECRETARY COULD HELP TO ADVANCE THE PROCESS TOWARD A SETTLEMENT"
+  },
+  {
+   "source": "Rajiv Gandhi",
+   "target": "Soviet Union",
+   "type": "met_with",
+   "detail": "Gandhi's contacts with the Soviets on Afghanistan after the 1985 Washington visit were welcomed by Reagan.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "YOUR CONTACTS WITH THE SOVIETS ON THE AFGHAN PROBLEM AFTER YOUR VISIT TO WASHINGTON LAST YEAR WERE MOST WELCOME."
+  },
+  {
+   "source": "United States Government",
+   "target": "Soviet Union",
+   "type": "negotiated_with",
+   "detail": "US raised a comprehensive Afghanistan settlement with the Soviets repeatedly in 1986.",
+   "date": "1986",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "IN REPEATED CONVERSATIONS WITH THE SOVIETS THIS YEAR, WE HAVE MADE CLEAR TO THEM OUR INTEREST IN A COMPREHENSIVE SETTLEMENT"
+  },
+  {
+   "source": "United States Government",
+   "target": "Government of Pakistan",
+   "type": "allied_with",
+   "detail": "US resumed an arms sales relationship with Pakistan, affected by Soviet military action in Afghanistan.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "OUR RESUMED ARMS SALES RELATIONSHIP WITH PAKISTAN, AS YOU KNOW, IS DIRECTLY AFFECTED BY ESCALATING SOVIET MILITARY ACTION IN AFGHANISTAN"
+  },
+  {
+   "source": "Soviet Union",
+   "target": "Kabul regime",
+   "type": "allied_with",
+   "detail": "Soviet and Kabul regime forces are jointly cited for cross-border violations of Pakistan.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "SOVIET AND KABUL REGIME CROSS-BORDER VIOLATIONS OF PAKISTANI AIRSPACE AND TERRITORY HAVE INCREASED"
+  },
+  {
+   "source": "Soviet Union",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Soviet forces occupy Afghanistan; US demands their withdrawal.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "THROUGH THE PROMPT AND COMPLETE WITHDRAWAL OF SOVIET FORCES."
+  },
+  {
+   "source": "United States Government",
+   "target": "Soviet Union",
+   "type": "rival_of",
+   "detail": "US opposes Soviet occupation and seeks withdrawal, while denying a goal of bleeding the Soviets.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "WE DO NOT SEEK TO BLEED THE SOVIETS IN AFGHANISTAN BY PROLONGING THE WAR."
+  },
+  {
+   "source": "United States Government",
+   "target": "Government of Pakistan",
+   "type": "other",
+   "detail": "US considering enhanced early warning capability for Pakistan and will keep India's concerns in mind.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "WE WILL KEEP IN MIND YOUR GOVERNMENT'S CONCERNS AS WE MOVE TO A DECISION ON THIS."
+  },
+  {
+   "source": "United Nations",
+   "target": "Soviet Union",
+   "type": "negotiated_with",
+   "detail": "UN-sponsored negotiations are stalemated over the length of the Soviet withdrawal timetable.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "THE UN-SPONSORED NEGOTIATIONS ARE STALEMATED OVER THE LENGTH OF THE SOVIET WITHDRAWAL TIMETABLE."
+  },
+  {
+   "source": "John Whitehead",
+   "target": "US Department of State",
+   "type": "member_of",
+   "detail": "Message sent over Whitehead's name from State.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "KABUL MINIMIZE CONSIDERED. WHITEHEAD"
+  },
+  {
+   "source": "US Department of State",
+   "target": "New Delhi",
+   "type": "other",
+   "detail": "Cable instructs the embassy in New Delhi to convey the letter immediately.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "POST SHOULD IMMEDIATELY CONVEY LETTER IN PARA 3 FROM PRESIDENT REAGAN TO PRIME MINISTER GANDHI."
+  },
+  {
+   "source": "Ronald Reagan",
+   "target": "United States Government",
+   "type": "leads",
+   "detail": "Reagan is the US President writing the letter.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "PRESIDENT REAGAN TO PRIME MINISTER GANDHI"
+  },
+  {
+   "source": "Rajiv Gandhi",
+   "target": "Government of India",
+   "type": "leads",
+   "detail": "Gandhi is Prime Minister of India.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "PRESIDENT REAGAN TO PRIME MINISTER GANDHI"
+  },
+  {
+   "source": "Mikhail Gorbachev",
+   "target": "Soviet Union",
+   "type": "leads",
+   "detail": "Gorbachev is the General Secretary (inferred) of the Soviet Union.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "I URGE YOU TO USE YOUR TALKS WITH THE GENERAL SECRETARY"
+  }
+ ],
+ "sources_cited": [
+  "State Department cable STATE 364282 (21 Nov 1986)"
+ ],
+ "key_claims": [
+  "The US told India it does not seek to bleed the Soviets by prolonging the war and favors a comprehensive political settlement.",
+  "The US offered to act as guarantor of a settlement restoring Afghan non-alignment, independence and territorial integrity via complete Soviet withdrawal.",
+  "Reagan called the Soviet three-to-four-year withdrawal timeframe untenable and the October 1986 partial withdrawal phony.",
+  "US arms sales to Pakistan are tied to escalating Soviet and Kabul regime cross-border incursions, said to total 650 in 1986.",
+  "The US is considering an enhanced early-warning capability for Pakistan and will keep Indian concerns in mind.",
+  "UN-sponsored negotiations were stalemated over the length of the Soviet withdrawal timetable."
+ ]
+}

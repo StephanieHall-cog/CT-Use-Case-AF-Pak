@@ -1,0 +1,701 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb97-doc27-1999-09-usama-bin-ladin-al-qaida-information-operations",
+  "title": "Usama Bin Ladin/Al-Qaida Information Operations",
+  "authors": "Defense Intelligence Agency",
+  "publisher": "National Security Archive (GWU), The Taliban File",
+  "published": "1999-09",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB97/tal27.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB97/index.htm",
+  "pages": 15,
+  "kind": "report",
+  "note": "[Top Secret] Heavily excised Defense Intelligence Assessment. Released portions discuss callback services, the INMARSAT-M telephone, the Taliban website, the Islamic Gateway Organization and a Bin Laden chronology.",
+  "collection": "NSAEBB97",
+  "doc_number": "Document 27",
+  "relevance": "high",
+  "ocr": 15
+ },
+ "persons": [
+  {
+   "name": "Usama Bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Usama bin Ladin",
+    "Usama Gin Ladin"
+   ],
+   "role": "al-Qaida founder and leader; issued 'Declaration of War' (1996) and fatwa against the US (1998)",
+   "organizations": [
+    "al-Qaida"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "unknown",
+   "status_detail": "status as of 1999 only; chronology ends August 1998",
+   "family": [],
+   "locations": [
+    "Riyadh",
+    "Afghanistan",
+    "Khartoum",
+    "Sudan",
+    "Saudi Arabia"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.13",
+     "quote": "Bin Ladin issued a \"Declaration of War\" urging all Muslims to boycott US goods and join in armed struggle against the US military presence"
+    },
+    {
+     "timestamp": "p.15",
+     "quote": "1957 —Born in Riyadh, Saud Arabia."
+    },
+    {
+     "timestamp": "p.15",
+     "quote": "August 1998 — Orchestrated bombing of US embassies in Kenya and Tanzania."
+    }
+   ]
+  },
+  {
+   "name": "Mohammed Al Masari",
+   "aliases": [
+    "Mohammed Al-Mas'ari",
+    "Al Masari"
+   ],
+   "role": "Saudi dissident in London; head of the Committee for the Defense of Legitimate Rights (CDLR) who disseminated Bin Ladin's Declaration of War",
+   "organizations": [
+    "Committee for the Defense of Legitimate Rights"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "London"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.13",
+     "quote": "Al Masari ordered dissemination of the Arabic-language document through the CDLR fax mailing list."
+    },
+    {
+     "timestamp": "p.13",
+     "quote": "Al Masari also personally supervised the translation and distribution of an English language version of the declaration."
+    }
+   ]
+  },
+  {
+   "name": "Khalid Al-Fawwaz",
+   "aliases": [
+    "Khalfd Al-Fawwaz",
+    "Khaled al-Fawwaz"
+   ],
+   "role": "Bin Ladin's London press/media representative",
+   "organizations": [
+    "al-Qaida"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "London"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.15",
+     "quote": "Bin Latin's London Press Representative, Khalfd Al-Fawwaz."
+    }
+   ]
+  },
+  {
+   "name": "Mamdouh Mahmud Salim",
+   "aliases": [
+    "Abu Hajer",
+    "Abu Hofer",
+    "Mamdoun Mahmud Salim"
+   ],
+   "role": "Bin Ladin's technology representative",
+   "organizations": [
+    "al-Qaida"
+   ],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.15",
+     "quote": "Abu Hofer, aka Mamdoun Mahmud Salim. Hojer is Bin Ladin's technology representative."
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Defense Intelligence Agency",
+   "aliases": [
+    "DIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Department of Defense"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Producer of the September 1999 Defense Intelligence Assessment; designated DoDIPP producer for this subject."
+  },
+  {
+   "name": "Al-Qaida",
+   "aliases": [
+    "al-Qaeda",
+    "Al-Qaida"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Subject of the assessment; only the title and table of contents are legible in this chunk."
+  },
+  {
+   "name": "Department of Defense",
+   "aliases": [
+    "DoD"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Defines information operations; the assessment addresses the interests of the Secretary of Defense and J2."
+  },
+  {
+   "name": "Taliban",
+   "aliases": [],
+   "type": "political movement",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Appears only in a figure list: the Taliban's homepage, www.ummah.net/taliban."
+  },
+  {
+   "name": "Committee for the Defense of Legitimate Rights",
+   "aliases": [
+    "CDLR"
+   ],
+   "type": "political movement",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United Kingdom",
+   "notes": "Saudi dissident group, now bankrupt; its fax mailing list distributed Bin Ladin's declaration."
+  },
+  {
+   "name": "Islamic Gateway",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Web site disseminating Islamic religious and political information including on militant movements."
+  },
+  {
+   "name": "Muslim Hackers Club",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Hacker group web page (Figure 8)."
+  },
+  {
+   "name": "INMARSAT",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Satellite communications system discussed as a communications means."
+  }
+ ],
+ "places": [
+  {
+   "name": "Riyadh",
+   "type": "city",
+   "country": "Saudi Arabia",
+   "parent": "Saudi Arabia",
+   "significance": "Bin Ladin's birthplace, 1957"
+  },
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Bin Ladin traveled there in 1979 and again in 1996"
+  },
+  {
+   "name": "Khartoum",
+   "type": "city",
+   "country": "Sudan",
+   "parent": "Sudan",
+   "significance": "Bin Ladin relocated there in 1991; expelled 1996"
+  },
+  {
+   "name": "Saudi Arabia",
+   "type": "country",
+   "country": "Saudi Arabia",
+   "parent": "",
+   "significance": "Bin Ladin returned in 1989; stripped of citizenship 1994"
+  },
+  {
+   "name": "Kenya",
+   "type": "country",
+   "country": "Kenya",
+   "parent": "",
+   "significance": "US embassy bombed August 1998"
+  },
+  {
+   "name": "Tanzania",
+   "type": "country",
+   "country": "Tanzania",
+   "parent": "",
+   "significance": "US embassy bombed August 1998"
+  },
+  {
+   "name": "London",
+   "type": "city",
+   "country": "United Kingdom",
+   "parent": "United Kingdom",
+   "significance": "Base of Al Masari, CDLR, and Al-Fawwaz"
+  }
+ ],
+ "events": [
+  {
+   "date": "1957",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Bin Ladin born in Riyadh.",
+   "place": "Riyadh",
+   "actors": [
+    "Usama Bin Ladin"
+   ],
+   "timestamp": "p.15"
+  },
+  {
+   "date": "1979-12",
+   "date_precision": "month",
+   "type": "travel",
+   "description": "Bin Ladin traveled to Afghanistan to fight the Soviet invasion.",
+   "place": "Afghanistan",
+   "actors": [
+    "Usama Bin Ladin"
+   ],
+   "timestamp": "p.15"
+  },
+  {
+   "date": "1985",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Bin Ladin founded al-Qaida.",
+   "place": "",
+   "actors": [
+    "Usama Bin Ladin",
+    "al-Qaida"
+   ],
+   "timestamp": "p.15"
+  },
+  {
+   "date": "1989-02",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Soviet forces withdrew from Afghanistan.",
+   "place": "Afghanistan",
+   "actors": [],
+   "timestamp": "p.15"
+  },
+  {
+   "date": "1989",
+   "date_precision": "year",
+   "type": "travel",
+   "description": "Bin Ladin returned to Saudi Arabia.",
+   "place": "Saudi Arabia",
+   "actors": [
+    "Usama Bin Ladin"
+   ],
+   "timestamp": "p.15"
+  },
+  {
+   "date": "1991",
+   "date_precision": "year",
+   "type": "travel",
+   "description": "Bin Ladin left Saudi Arabia for Khartoum, Sudan, greatly increasing interactions with and funding of Islamic groups.",
+   "place": "Khartoum",
+   "actors": [
+    "Usama Bin Ladin"
+   ],
+   "timestamp": "p.15"
+  },
+  {
+   "date": "1994",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Bin Ladin stripped of Saudi citizenship.",
+   "place": "Saudi Arabia",
+   "actors": [
+    "Usama Bin Ladin"
+   ],
+   "timestamp": "p.15"
+  },
+  {
+   "date": "1996",
+   "date_precision": "year",
+   "type": "travel",
+   "description": "Bin Ladin expelled from Khartoum and traveled to Afghanistan.",
+   "place": "Khartoum",
+   "actors": [
+    "Usama Bin Ladin"
+   ],
+   "timestamp": "p.15"
+  },
+  {
+   "date": "1996",
+   "date_precision": "year",
+   "type": "statement",
+   "description": "Bin Ladin issued a Declaration of War; Al Masari distributed it via the CDLR fax list and supervised English translation.",
+   "place": "London",
+   "actors": [
+    "Usama Bin Ladin",
+    "Mohammed Al Masari",
+    "Committee for the Defense of Legitimate Rights"
+   ],
+   "timestamp": "p.13"
+  },
+  {
+   "date": "1998-02",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Bin Ladin issued fatwa against the United States.",
+   "place": "",
+   "actors": [
+    "Usama Bin Ladin"
+   ],
+   "timestamp": "p.15"
+  },
+  {
+   "date": "1998-08",
+   "date_precision": "month",
+   "type": "attack",
+   "description": "Bombing of US embassies in Kenya and Tanzania orchestrated by Bin Ladin.",
+   "place": "Kenya",
+   "actors": [
+    "Usama Bin Ladin"
+   ],
+   "timestamp": "p.15"
+  },
+  {
+   "date": "1957",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Usama Bin Ladin born in Riyadh.",
+   "place": "Riyadh",
+   "actors": [
+    "Usama Bin Ladin"
+   ],
+   "timestamp": "p.15"
+  },
+  {
+   "date": "1985",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Bin Ladin founded Al-Qaida.",
+   "place": "",
+   "actors": [
+    "Usama Bin Ladin",
+    "Al-Qaida"
+   ],
+   "timestamp": "p.15"
+  },
+  {
+   "date": "1991",
+   "date_precision": "year",
+   "type": "travel",
+   "description": "Bin Ladin left Saudi Arabia and relocated to Khartoum.",
+   "place": "Khartoum",
+   "actors": [
+    "Usama Bin Ladin"
+   ],
+   "timestamp": "p.15"
+  },
+  {
+   "date": "1998-02",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Bin Ladin issued a fatwa against the United States.",
+   "place": "",
+   "actors": [
+    "Usama Bin Ladin"
+   ],
+   "timestamp": "p.15"
+  },
+  {
+   "date": "1998-08",
+   "date_precision": "month",
+   "type": "attack",
+   "description": "Bombing of US embassies in Kenya and Tanzania, attributed to Bin Ladin.",
+   "place": "Kenya; Tanzania",
+   "actors": [
+    "Usama Bin Ladin"
+   ],
+   "timestamp": "p.15"
+  },
+  {
+   "date": "1982",
+   "date_precision": "year",
+   "type": "other",
+   "description": "INMARSAT began operations, running a satellite system for communications services. The text is OCR-garbled and the year is partly inferred. INMARSAT-M gives mobile telecommunications through a small portable terminal.",
+   "place": "",
+   "actors": [
+    "INMARSAT"
+   ],
+   "timestamp": "p.10"
+  },
+  {
+   "date": "approx 1996",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "Bin Ladin issued a 'Declaration of War' urging all Muslims to boycott US goods and join armed struggle against the US military presence in the Persian Gulf. The date is garbled in the OCR; 1996 is inferred.",
+   "place": "Afghanistan",
+   "actors": [
+    "Usama Bin Ladin"
+   ],
+   "timestamp": "p.13"
+  },
+  {
+   "date": "approx 1996",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Al Masari ordered dissemination of the Arabic-language Declaration of War through the CDLR fax mailing list, and personally supervised the translation and distribution of an English version.",
+   "place": "London",
+   "actors": [
+    "Mohammed Al Masari",
+    "Committee for the Defense of Legitimate Rights"
+   ],
+   "timestamp": "p.13"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Mohammed Al Masari",
+   "target": "Committee for the Defense of Legitimate Rights",
+   "type": "leads",
+   "detail": "Al Masari ordered dissemination through the CDLR fax mailing list, indicating control of the committee.",
+   "date": "1996",
+   "confidence": "inferred",
+   "timestamp": "p.13",
+   "quote": "Al Masari ordered dissemination of the Arabic-language document through the CDLR fax mailing list."
+  },
+  {
+   "source": "Mohammed Al Masari",
+   "target": "Usama Bin Ladin",
+   "type": "allied_with",
+   "detail": "Al Masari distributed and translated Bin Ladin's Declaration of War.",
+   "date": "1996",
+   "confidence": "stated",
+   "timestamp": "p.13",
+   "quote": "Al Masari also personally supervised the translation and distribution of an English language version of the declaration."
+  },
+  {
+   "source": "Khalid Al-Fawwaz",
+   "target": "Usama Bin Ladin",
+   "type": "reports_to",
+   "detail": "Al-Fawwaz served as Bin Ladin's London press representative.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.15",
+   "quote": "Bin Latin's London Press Representative, Khalfd Al-Fawwaz."
+  },
+  {
+   "source": "Mamdouh Mahmud Salim",
+   "target": "Usama Bin Ladin",
+   "type": "reports_to",
+   "detail": "Salim described as Bin Ladin's technology representative.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.15",
+   "quote": "Hojer is Bin Ladin's technology representative."
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "al-Qaida",
+   "type": "leads",
+   "detail": "Chronology says Bin Ladin founded al-Qaida in 1985.",
+   "date": "1985",
+   "confidence": "stated",
+   "timestamp": "p.15",
+   "quote": "1985— Founded Al-Qaida."
+  },
+  {
+   "source": "Khalid Al-Fawwaz",
+   "target": "Usama Bin Ladin",
+   "type": "other",
+   "detail": "Al-Fawwaz is identified in the table of figures as Bin Ladin's London press representative.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "Bin Ladin's London Press Representanve, Khalid Al-Fawwaz"
+  },
+  {
+   "source": "Khalid Al-Fawwaz",
+   "target": "London",
+   "type": "located_in",
+   "detail": "Al-Fawwaz served as Bin Ladin's press representative in London.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.5",
+   "quote": "Bin Ladin's London Press Representanve, Khalid Al-Fawwaz"
+  },
+  {
+   "source": "Mamdouh Mahmud Salim",
+   "target": "Abu Hajer",
+   "type": "other",
+   "detail": "Alias: Mamdouh Mahmud Salim is also known as Abu Hajer.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "Abu Hajer, aka Mamdouh Mahmud Salim"
+  },
+  {
+   "source": "Mamdouh Mahmud Salim",
+   "target": "Usama Bin Ladin",
+   "type": "other",
+   "detail": "Salim (aka Abu Hafs/Hojer) is identified as Bin Ladin's technology representative.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.15",
+   "quote": "Abu Hofer, aka Mamdoun Mahmud Salim. Hojer is Bin Ladin's technology representative,"
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "Al-Qaida",
+   "type": "leads",
+   "detail": "Bin Ladin founded Al-Qaida in 1985.",
+   "date": "1985",
+   "confidence": "stated",
+   "timestamp": "p.15",
+   "quote": "1985— Founded Al-Qaida."
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "Riyadh",
+   "type": "located_in",
+   "detail": "Bin Ladin was born in Riyadh.",
+   "date": "1957",
+   "confidence": "stated",
+   "timestamp": "p.15",
+   "quote": "1957 —Born in Riyadh, Saud Arabia."
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "Khartoum",
+   "type": "located_in",
+   "detail": "Bin Ladin relocated to Khartoum in 1991 and increased funding of Islamic groups.",
+   "date": "1991",
+   "confidence": "stated",
+   "timestamp": "p.15",
+   "quote": "1991 —Left Saudi Arabia and relocated to Khartoum, Sudan; greatly increased interactions with and funding of islamic groups."
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Bin Ladin traveled to Afghanistan after expulsion from Khartoum in 1996.",
+   "date": "1996",
+   "confidence": "stated",
+   "timestamp": "p.15",
+   "quote": "1996 — Expellad fram Khartoum; traveled to Afghanistan."
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "Kenya",
+   "type": "other",
+   "detail": "Bin Ladin is said to have orchestrated the 1998 embassy bombing in Kenya.",
+   "date": "1998-08",
+   "confidence": "stated",
+   "timestamp": "p.15",
+   "quote": "August 1998 ~— Orchestrated bombing of US embassies in Kenya and Tanzania."
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "Tanzania",
+   "type": "other",
+   "detail": "Bin Ladin is said to have orchestrated the 1998 embassy bombing in Tanzania.",
+   "date": "1998-08",
+   "confidence": "stated",
+   "timestamp": "p.15",
+   "quote": "August 1998 ~— Orchestrated bombing of US embassies in Kenya and Tanzania."
+  },
+  {
+   "source": "Taliban",
+   "target": "ummah.net",
+   "type": "other",
+   "detail": "Figure 3 caption shows the Taliban's homepage was reachable under the ummah.net web domain (OCR-garbled URL). The text does not say who hosted it.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.11",
+   "quote": "Figure 3. (U} The Taliban's Homepage, werw,ummah neviallban."
+  },
+  {
+   "source": "Mohammed Al Masari",
+   "target": "Committee for the Defense of Legitimate Rights",
+   "type": "leads",
+   "detail": "Al Masari ordered the CDLR fax mailing list to be used to disseminate Bin Ladin's declaration, which shows he controlled the CDLR's communications. The OCR describes the CDLR as 'now bankrupt'.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.13",
+   "quote": "Al Masari ordered dissemination of the Arabic-language document through the CDLR fax mailing list."
+  },
+  {
+   "source": "Committee for the Defense of Legitimate Rights",
+   "target": "Usama Bin Ladin",
+   "type": "other",
+   "detail": "The CDLR fax mailing list was used to disseminate Bin Ladin's Arabic-language 'Declaration of War' against the US military presence in the Persian Gulf.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.13",
+   "quote": "Bin Ladin issued a \"Declaration of War\" urging all Muslims to boycott US goods and join in armed struggle against the US military presence"
+  },
+  {
+   "source": "Mohammed Al Masari",
+   "target": "Usama Bin Ladin",
+   "type": "other",
+   "detail": "Al Masari ordered dissemination of Bin Ladin's Arabic declaration and personally supervised the translation and distribution of an English version, acting as a propagator of Bin Ladin's message.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.13",
+   "quote": "Al Masari also personally supervised the translation and distribution of an English language version of the declaration."
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "Saudi Arabia",
+   "type": "other",
+   "detail": "Bin Ladin's declaration called for armed struggle against the US military presence in the Persian Gulf, the same US presence in Saudi Arabia that Saudi dissidents opposed. The text itself names only the Persian Gulf.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.13",
+   "quote": "armed struggle against the US military presence in the Persian Gulf"
+  }
+ ],
+ "sources_cited": [
+  "Defense Intelligence Assessment DI-2410-49-99-S1 (Derived from: Multiple Sources)",
+  "Defense Intelligence Agency, Usama Bin Ladin/Al-Qaida Information Operations (1999)"
+ ],
+ "key_claims": [
+  "This chunk contains only front matter, a table of contents and redacted pages, so no substantive claims about the network can be extracted.",
+  "The table of contents lists a Taliban homepage, a Bin Ladin press representative (Khalid Al-Fawwaz), Abu Hajer (Mamdouh Mahmud Salim) and Saudi dissident Mohammed Al Massari as figures or topics in later pages.",
+  "Information cutoff date for the assessment is 11 July 1999.",
+  "Bin Ladin's 1996 Declaration of War was disseminated in Arabic and English via the CDLR fax network run by Saudi dissident Mohammed Al Masari in London.",
+  "Bin Ladin maintained London-based media (Khalid Al-Fawwaz) and technology (Mamdouh Mahmud Salim) representatives.",
+  "The Taliban maintained a web homepage, part of the online information environment around Afghanistan-based jihadists.",
+  "Bin Ladin's chronology: Afghanistan 1979, Sudan 1991, expelled from Khartoum and returned to Afghanistan in 1996, fatwa Feb 1998, embassy bombings Aug 1998."
+ ]
+}

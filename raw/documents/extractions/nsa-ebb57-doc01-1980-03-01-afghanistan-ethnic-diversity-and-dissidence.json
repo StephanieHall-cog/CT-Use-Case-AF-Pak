@@ -1,0 +1,1130 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb57-doc01-1980-03-01-afghanistan-ethnic-diversity-and-dissidence",
+  "title": "Afghanistan: Ethnic Diversity and Dissidence",
+  "authors": "CIA, National Foreign Assessment Center",
+  "publisher": "National Security Archive (GWU), Afghanistan: Lessons from the Last War",
+  "published": "1980-03-01",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB57/us1.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB57/us.html",
+  "pages": 11,
+  "kind": "intelligence report",
+  "note": "CIA report on ethnic divisions within Afghanistan and the impact of Soviet policy in leading disparate groups to oppose the Soviet client state.",
+  "collection": "NSAEBB57",
+  "doc_number": "Document 1",
+  "relevance": "medium",
+  "ocr": 11
+ },
+ "persons": [
+  {
+   "name": "Nur Muhammad Taraki",
+   "aliases": [
+    "Taraki",
+    "Teraki"
+   ],
+   "role": "Leader of the pro-Soviet regime installed in Afghanistan in 1978",
+   "organizations": [
+    "Taraki regime"
+   ],
+   "nationality_or_origin": "Afghan (Pashtun)",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.8",
+     "quote": "The Pashtuns—the ethnic group of Taraki, Amin. and Karmal"
+    },
+    {
+     "timestamp": "p.2",
+     "quote": "installation of the pro- Soviet Teraki regime"
+    }
+   ]
+  },
+  {
+   "name": "Hafizullah Amin",
+   "aliases": [
+    "Amin"
+   ],
+   "role": "Afghan Communist leader, named as one of the Pashtun leaders of the regime",
+   "organizations": [
+    "Taraki regime"
+   ],
+   "nationality_or_origin": "Afghan (Pashtun)",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.8",
+     "quote": "the ethnic group of Taraki, Amin. and Karmal"
+    }
+   ]
+  },
+  {
+   "name": "Babrak Karmal",
+   "aliases": [
+    "Radbeak Karmal",
+    "Karmal"
+   ],
+   "role": "President of Afghanistan installed after the Soviet invasion",
+   "organizations": [
+    "Karmal regime"
+   ],
+   "nationality_or_origin": "Afghan (Pashtun)",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.8",
+     "quote": "The Soviet invasion and installatwon of Radbeak Karmal es President of Afghanistan"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Taraki regime",
+   "aliases": [
+    "Taraki government",
+    "Teraki regime"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Soviet Union"
+   ],
+   "rivals": [
+    "Pashtun tribal insurgents"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Pro-Soviet government installed in April 1978. Its land reform, literacy and secularization programs provoked the tribal insurgency, and its purges hit Pashtun families."
+  },
+  {
+   "name": "Karmal regime",
+   "aliases": [
+    "Karmal government"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Soviet Union"
+   ],
+   "rivals": [
+    "Pashtun tribal insurgents"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Soviet-backed government installed after the Soviet invasion. The text says it sought to broaden its base and slow radical social programs."
+  },
+  {
+   "name": "Soviet Union",
+   "aliases": [
+    "USSR",
+    "Soviet forces"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Taraki regime",
+    "Karmal regime"
+   ],
+   "rivals": [],
+   "country_base": "USSR",
+   "notes": "Soviet troops are described as visibly present in Afghanistan. The invasion is said to have fulfilled the population's worst fears."
+  },
+  {
+   "name": "Afghan Army",
+   "aliases": [],
+   "type": "military",
+   "parent_or_allies": [
+    "Taraki regime"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Suffered increased desertions to Pashtun guerrilla forces before the Soviet invasion. It regularly recruits Hazaras."
+  },
+  {
+   "name": "Pashtun tribal insurgents",
+   "aliases": [
+    "Pashtun guerrilla forces",
+    "tribal insurgency"
+   ],
+   "type": "militia",
+   "parent_or_allies": [],
+   "rivals": [
+    "Taraki regime",
+    "Karmal regime"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Responsible for most of the insurgency since April 1978, but old tribal rivalries prevent much cooperation."
+  },
+  {
+   "name": "Durrani",
+   "aliases": [
+    "Durrani tribal confederation"
+   ],
+   "type": "other",
+   "parent_or_allies": [
+    "Pashtuns"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Pashtun tribe whose families have ruled Afghanistan since unification in the 18th century. It has at least a million members."
+  },
+  {
+   "name": "Ghilzai",
+   "aliases": [
+    "Chilzai"
+   ],
+   "type": "other",
+   "parent_or_allies": [
+    "Pashtuns"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Large Pashtun tribe of at least a million members."
+  },
+  {
+   "name": "Yusufzai",
+   "aliases": [
+    "Yurufarai"
+   ],
+   "type": "other",
+   "parent_or_allies": [
+    "Pashtuns"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Large Pashtun tribe of at least a million members."
+  },
+  {
+   "name": "Kuchis",
+   "aliases": [
+    "Kuchi",
+    "Afghan nomads",
+    "Ruchis"
+   ],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Nomads of several ethnic groups, 2 to 4 million in number. They trade between Afghanistan and Pakistan and are hostile to settlement and censuses."
+  },
+  {
+   "name": "Uzbek",
+   "aliases": [
+    "Uzbeks"
+   ],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Ethnic group living north of the Hindu Kush on the plain of the Amu Darya; Sunni; mix of Turko-Mongol peoples; largely farmers, merchants and artisans. Described as having given up tribal affiliations and nomadism."
+  },
+  {
+   "name": "Tajik",
+   "aliases": [
+    "Tajiks"
+   ],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Second-largest ethnic group; scattered nationwide with concentrations in the east and west; mostly Sunni, some Shia; not tribal. Described as tenant farmers and laborers."
+  },
+  {
+   "name": "Hazara",
+   "aliases": [
+    "Hazaras"
+   ],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Shia ethnic group; homeland Hazarajat; speak Hazaragi; often recruited into the Afghan Army."
+  },
+  {
+   "name": "Chahar Aimak",
+   "aliases": [
+    "Chahar Aymaq",
+    "Char Aimak"
+   ],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Ethnic group north and west of the Hazara; four main tribal subdivisions; Sunni; Farsi dialect with Turkic loan words; partly semi-nomadic."
+  },
+  {
+   "name": "Turkmen",
+   "aliases": [
+    "Turkoman"
+   ],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Turkic, Sunni, pastoral group in the northwest; breeders of Karakul sheep; numbers increased in the 1920s with refugees from Soviet collectivization."
+  },
+  {
+   "name": "Baluchi",
+   "aliases": [
+    "Baluch",
+    "Baloch"
+   ],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Nomadic Sunni Iranian-language speakers in the sparsely populated southern borderlands; related to Baluchi settled south of Herat."
+  },
+  {
+   "name": "Brahui",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Dravidian-language group in southern Afghanistan; farmers and nomads."
+  },
+  {
+   "name": "Nuristanis",
+   "aliases": [
+    "Nuristani"
+   ],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Eastern mountain people, formerly Kafirs; converted to Sunni Islam after 19th-century subjugation; resent government interference."
+  },
+  {
+   "name": "Kizilbash",
+   "aliases": [
+    "Qizilbash"
+   ],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Urban Shia group descended from a Turkish garrison left in Kabul by a Persian conqueror in the mid-18th century; well educated, some in government posts."
+  },
+  {
+   "name": "Kirghiz",
+   "aliases": [
+    "Kyrgyz",
+    "Kirghis"
+   ],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Pastoral Mongoloid Sunni Turkic-speaking people in the Wakhan Corridor."
+  },
+  {
+   "name": "Pashtun",
+   "aliases": [
+    "Pushtun",
+    "Pakhtun"
+   ],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Mentioned as a comparison: some Tajik groups are described as aggressive like the Pashtun."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Subject of the study, a tribal society of some 20 ethnic groups."
+  },
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Kuchi nomads trade and seek winter labor there. Tribal ethnic ties cross the border."
+  },
+  {
+   "name": "Iran",
+   "type": "country",
+   "country": "Iran",
+   "parent": "",
+   "significance": "Neighbor whose border areas share ethnic ties with Afghan tribes."
+  },
+  {
+   "name": "USSR",
+   "type": "country",
+   "country": "USSR",
+   "parent": "",
+   "significance": "Neighbor with ethnic ties to northern Afghan peoples. It is the sponsor of the Kabul regime."
+  },
+  {
+   "name": "Kabul",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Capital. Its growth is described as Pashtun-favoring and at the expense of provincial Uzbeks and Hazaras."
+  },
+  {
+   "name": "Hindu Kush",
+   "type": "region",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Mountain barrier that dominates central and eastern Afghanistan. Uzbeks and some Tajiks live north of it."
+  },
+  {
+   "name": "Hazarajat",
+   "type": "region",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Hazara homeland in the mountains west of Kabul, almost inaccessible to government authority."
+  },
+  {
+   "name": "Bamian",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Location of smaller Hazara groups."
+  },
+  {
+   "name": "Badakhshan",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Northeastern area with a smaller Hazara presence and mountain Tajiks."
+  },
+  {
+   "name": "Amu Darya",
+   "type": "region",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "River plain north of the Hindu Kush where Uzbeks live."
+  },
+  {
+   "name": "Herat",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Baluchi villages lie south of it."
+  },
+  {
+   "name": "Wakhan Corridor",
+   "type": "region",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Far northeastern extension inhabited by the Kirghiz."
+  },
+  {
+   "name": "Nuristan",
+   "type": "region",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Eastern mountains home of the Nuristanis, formerly Kafiristan."
+  }
+ ],
+ "events": [
+  {
+   "date": "1978-04",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Installation of the pro-Soviet Taraki regime, which began the present tribal insurgency.",
+   "place": "Afghanistan",
+   "actors": [
+    "Taraki regime",
+    "Nur Muhammad Taraki"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "approx 1979",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Soviet invasion of Afghanistan and installation of Babrak Karmal as President.",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet Union",
+    "Babrak Karmal"
+   ],
+   "timestamp": "p.8"
+  },
+  {
+   "date": "1920s",
+   "date_precision": "approx",
+   "type": "travel",
+   "description": "Turkmen entered Afghanistan from the north as refugees from Soviet collectivization, increasing their numbers.",
+   "place": "Afghanistan",
+   "actors": [
+    "Turkmen"
+   ],
+   "timestamp": "p.11"
+  },
+  {
+   "date": "approx 1750",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Persian conqueror left a Turkish garrison in Kabul, ancestors of the Kizilbash (mid-18th century).",
+   "place": "Kabul",
+   "actors": [
+    "Kizilbash"
+   ],
+   "timestamp": "p.11"
+  },
+  {
+   "date": "approx 1750",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "A Persian conqueror left a Turkish garrison in Kabul, ancestors of the Kizilbash.",
+   "place": "Kabul",
+   "actors": [
+    "Kizilbash"
+   ],
+   "timestamp": "p.11"
+  },
+  {
+   "date": "approx 1800s",
+   "date_precision": "approx",
+   "type": "offensive",
+   "description": "An Afghan ruler subdued the Nuristanis in the 19th century, converting many to Islam; Kafiristan renamed Nuristan.",
+   "place": "Nuristan",
+   "actors": [
+    "Nuristanis"
+   ],
+   "timestamp": "p.11"
+  },
+  {
+   "date": "1978",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Installation of the pro-Soviet Taraki regime; start of tribal insurgency.",
+   "place": "Afghanistan",
+   "actors": [
+    "Taraki regime",
+    "Pashtun tribal insurgents",
+    "Soviet Union"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "approx 1700s",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Unification of Afghanistan by a Durrani leader in the 18th century.",
+   "place": "Afghanistan",
+   "actors": [
+    "Durrani"
+   ],
+   "timestamp": "p.4"
+  },
+  {
+   "date": "approx 1880s",
+   "date_precision": "approx",
+   "type": "travel",
+   "description": "Forced resettlement of many Pashtuns north of the Hindu Kush in the late 19th century.",
+   "place": "Hindu Kush",
+   "actors": [
+    "Pashtun"
+   ],
+   "timestamp": "p.6"
+  },
+  {
+   "date": "1978-04",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Start of the insurgency, largely Pashtun-led, against the Taraki regime and its reform programs.",
+   "place": "Afghanistan",
+   "actors": [
+    "Pashtun",
+    "Pashtun tribal insurgents",
+    "Taraki regime"
+   ],
+   "timestamp": "p.8"
+  },
+  {
+   "date": "approx 1978",
+   "date_precision": "approx",
+   "type": "attack",
+   "description": "Resistance to land reform, literacy and secularization programs led to destruction of government offices and assassination of officials, party cadres, teachers and police; up to about 300 Russians, including women and children, were also killed.",
+   "place": "Afghan provinces",
+   "actors": [
+    "Taraki regime",
+    "Pashtun tribal insurgents",
+    "Soviet Union"
+   ],
+   "timestamp": "p.8"
+  },
+  {
+   "date": "approx 1880s-1890s",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Forced resettlement of many Pashtuns north of the Hindu Kush in the late 1800s.",
+   "place": "Hindu Kush",
+   "actors": [
+    "Pashtun"
+   ],
+   "timestamp": "p.8"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Nur Muhammad Taraki",
+   "target": "Pashtun tribal insurgents",
+   "type": "rival_of",
+   "detail": "Taraki's regime faced a Pashtun-led insurgency, although Taraki himself was a Pashtun.",
+   "date": "1978",
+   "confidence": "inferred",
+   "timestamp": "p.8",
+   "quote": "They ere responsible for most of the insurgency since April 1978"
+  },
+  {
+   "source": "Babrak Karmal",
+   "target": "Soviet Union",
+   "type": "other",
+   "detail": "Karmal was installed as President following the Soviet invasion.",
+   "date": "approx 1979",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "The Soviet invasion and installatwon of Radbeak Karmal es President of Afghanistan"
+  },
+  {
+   "source": "Nur Muhammad Taraki",
+   "target": "Taraki regime",
+   "type": "leads",
+   "detail": "The regime is named after Taraki.",
+   "date": "1978",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "installation of the pro- Soviet Teraki regime"
+  },
+  {
+   "source": "Taraki regime",
+   "target": "Soviet Union",
+   "type": "allied_with",
+   "detail": "The regime is described as pro-Soviet.",
+   "date": "1978",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "installation of the pro- Soviet Teraki regime"
+  },
+  {
+   "source": "Durrani",
+   "target": "Pashtun tribal insurgents",
+   "type": "member_of",
+   "detail": "The Durrani, Ghilzai and Yusufzai are major Pashtun tribes. The Pashtuns are described as responsible for most of the insurgency.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.4",
+   "quote": "Durrani, Chilzai, and Yurufarai"
+  },
+  {
+   "source": "Nuristanis",
+   "target": "Nuristan",
+   "type": "located_in",
+   "detail": "Nuristanis live in the eastern mountains of Afghanistan, in Nuristan.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.11",
+   "quote": "The Nuristanis live in the eastern mountains of Afghanistan."
+  },
+  {
+   "source": "Kirghiz",
+   "target": "Wakhan Corridor",
+   "type": "located_in",
+   "detail": "Kirghiz inhabit the Wakhan Corridor.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.11",
+   "quote": "inhabit the Wakhan Corridor area in the far northeastern extension of Afghanistan"
+  },
+  {
+   "source": "Hazara",
+   "target": "Afghan Army",
+   "type": "member_of",
+   "detail": "Hazara are regularly recruited into the Afghan Army.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.10",
+   "quote": "They make good soldiers and are regularly recruited into the Afghan Army."
+  },
+  {
+   "source": "Hazara",
+   "target": "Hazarajat",
+   "type": "located_in",
+   "detail": "Hazarajat is the Hazara homeland.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.10",
+   "quote": "The Hazara homeland, which is called Hazarajat"
+  },
+  {
+   "source": "Uzbek",
+   "target": "Amu Darya",
+   "type": "located_in",
+   "detail": "The Uzbek live north of the Hindu Kush on the plain of the Amu Darya.",
+   "confidence": "stated",
+   "timestamp": "p.10",
+   "quote": "The Uzbek lire north of the Hinds Kush on the plain of the Amu Derys."
+  },
+  {
+   "source": "Uzbek",
+   "target": "Hindu Kush",
+   "type": "located_in",
+   "detail": "Uzbek settlement lies north of the Hindu Kush.",
+   "confidence": "stated",
+   "timestamp": "p.10",
+   "quote": "The Uzbek lire north of the Hinds Kush on the plain of the Amu Derys."
+  },
+  {
+   "source": "Hazara",
+   "target": "Hazarajat",
+   "type": "located_in",
+   "detail": "The Hazara homeland is called Hazarajat, in the upper Helmand valley area west of Kabul.",
+   "confidence": "stated",
+   "timestamp": "p.10",
+   "quote": "The Hasare borrland, whick is called Hazerajist, cos'sts of the urpcr Hesmand valiey aren weet of Kabul."
+  },
+  {
+   "source": "Hazarajat",
+   "target": "Kabul",
+   "type": "located_in",
+   "detail": "Hazarajat lies west of Kabul.",
+   "confidence": "inferred",
+   "timestamp": "p.10",
+   "quote": "cos'sts of the urpcr Hesmand valiey aren weet of Kabul."
+  },
+  {
+   "source": "Hazara",
+   "target": "Bamian",
+   "type": "located_in",
+   "detail": "Smaller Hazara groups are located farther north in Bamian.",
+   "confidence": "stated",
+   "timestamp": "p.10",
+   "quote": "Smaller groups ere locau é farther north ja Bamian acd ia the Sar aartheast in Gedakisban."
+  },
+  {
+   "source": "Hazara",
+   "target": "Badakhshan",
+   "type": "located_in",
+   "detail": "Smaller Hazara groups are also in the northeast in Badakhshan.",
+   "confidence": "stated",
+   "timestamp": "p.10",
+   "quote": "Smaller groups ere locau é farther north ja Bamian acd ia the Sar aartheast in Gedakisban."
+  },
+  {
+   "source": "Hazara",
+   "target": "Afghan Army",
+   "type": "other",
+   "detail": "Hazara are regularly recruited into the Afghan Army as good soldiers.",
+   "confidence": "stated",
+   "timestamp": "p.10",
+   "quote": "They make goud soldiers and are regularly recruacd erto the Afghan Army."
+  },
+  {
+   "source": "Chahar Aimak",
+   "target": "Hazara",
+   "type": "located_in",
+   "detail": "The Chahar Aimak live to the north and west of the Hazara.",
+   "confidence": "stated",
+   "timestamp": "p.10",
+   "quote": "To the north and west of the Hevace live the Chamare Armak cthasc group"
+  },
+  {
+   "source": "Turkmen",
+   "target": "Uzbek",
+   "type": "other",
+   "detail": "Turkmen are another Turkic group like the Uzbek.",
+   "confidence": "stated",
+   "timestamp": "p.11",
+   "quote": "The Turkmen, who tive mataly in the northwest. are anether Turkic group like the Uzbek."
+  },
+  {
+   "source": "Baluchi",
+   "target": "Herat",
+   "type": "located_in",
+   "detail": "Related Baluchi settled in villages south of Herat.",
+   "confidence": "stated",
+   "timestamp": "p.11",
+   "quote": "related to the Baluchi who settled in villages south of Herat during the migration of the Ratuchi eastward from iran"
+  },
+  {
+   "source": "Baluchi",
+   "target": "Iran",
+   "type": "other",
+   "detail": "Baluchi migrated eastward from Iran in earlier times.",
+   "confidence": "stated",
+   "timestamp": "p.11",
+   "quote": "migration of the Ratuchi eastward from iran in cartier times"
+  },
+  {
+   "source": "Brahui",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Brahui are located in southern Afghanistan.",
+   "confidence": "stated",
+   "timestamp": "p.11",
+   "quote": "The Bratui, alen located In suuthern Afghanistan."
+  },
+  {
+   "source": "Nuristanis",
+   "target": "Nuristan",
+   "type": "located_in",
+   "detail": "Nuristanis live in eastern mountains of Afghanistan; their country renamed Nuristan.",
+   "confidence": "stated",
+   "timestamp": "p.11",
+   "quote": "The Nuristanis live tn the eastern mountsins of Afghanistan."
+  },
+  {
+   "source": "Kizilbash",
+   "target": "Kabul",
+   "type": "located_in",
+   "detail": "Kizilbash descend from a Turkish garrison left in Kabul and are an urban group.",
+   "confidence": "stated",
+   "timestamp": "p.11",
+   "quote": "descendants of a Turkish garrison teft in Kabul by « Persian conquerur in the mid- 18th century"
+  },
+  {
+   "source": "Kirghiz",
+   "target": "Wakhan Corridor",
+   "type": "located_in",
+   "detail": "Kirghiz inhabit the Wakhan Corridor.",
+   "confidence": "stated",
+   "timestamp": "p.11",
+   "quote": "inhabit the Wakhan Corridor area in the far nortt.esstern extension of Al. tanisten."
+  },
+  {
+   "source": "Turkmen",
+   "target": "Soviet Union",
+   "type": "other",
+   "detail": "Turkmen entered Afghanistan in the 1920s as refugees from Soviet collectivization.",
+   "date": "1920s",
+   "confidence": "stated",
+   "timestamp": "p.11",
+   "quote": "Turkmen entered Afghanistan from the north as refugees (rom Suviet coliectiviem."
+  },
+  {
+   "source": "Pashtun tribal insurgents",
+   "target": "Taraki regime",
+   "type": "rival_of",
+   "detail": "The tribal insurgency began in 1978 in opposition to the Taraki regime, viewed as Communist, atheist and pro-Soviet.",
+   "date": "1978",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "believeu that the new government was Communisi, atheist, and pro-Soviet."
+  },
+  {
+   "source": "Pashtun tribal insurgents",
+   "target": "Soviet Union",
+   "type": "rival_of",
+   "detail": "The presence of Soviet troops fueled the insurgency.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "presence of Soviet troops in Afghanistan has (ulfilied the worst fears of the populations and has added additional fuel tu the fires of insurgency."
+  },
+  {
+   "source": "Pashtun",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Pashtuns make up about one-half of Afghanistan's population and traditionally wield greatest political power.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Pashtuns make up about one-half of Afghanistan's population."
+  },
+  {
+   "source": "Durrani",
+   "target": "Pashtun",
+   "type": "member_of",
+   "detail": "Durrani is a Pashtun tribe whose families have ruled the country since unification in the 18th century.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "particularly among the Pashtun, whose Durrani tribal families have ruled the country since its unification by one of them in the 18th century."
+  },
+  {
+   "source": "Ghilzai",
+   "target": "Pashtun",
+   "type": "member_of",
+   "detail": "Ghilzai is listed among large Pashtun tribes with at least a million members.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "some of these tribes, such as the Durrani, Ghilzai, and Yusufzai, individually have at least a million members."
+  },
+  {
+   "source": "Yusufzai",
+   "target": "Pashtun",
+   "type": "member_of",
+   "detail": "Yusufzai is listed among large Pashtun tribes.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "some of these tribes, such as the Durrani, Ghilzai, and Yusufzai, individually have at least a million members."
+  },
+  {
+   "source": "Durrani",
+   "target": "Afghanistan",
+   "type": "leads",
+   "detail": "Durrani tribal families have ruled Afghanistan since unification in the 18th century.",
+   "date": "18th century",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "whose Durrani tribal families have ruled the country since its unification by one of them in the 18th century."
+  },
+  {
+   "source": "Kuchis",
+   "target": "Pakistan",
+   "type": "other",
+   "detail": "Kuchi nomads take caravans to Pakistan and India to trade wool and animal products; poorer nomads go to Pakistan in winter to sell labor.",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "For many years the Kuchis have taken their caravans to Pakistan and India to trade wool and animal products"
+  },
+  {
+   "source": "Kuchis",
+   "target": "Kabul regime",
+   "type": "rival_of",
+   "detail": "Kuchis feel little loyalty to the Kabul-centered government and resist settlement.",
+   "confidence": "inferred",
+   "timestamp": "p.5",
+   "quote": "feel little if any loyalty to the abstract concept of the state, or the Kabul-centered government."
+  },
+  {
+   "source": "Uzbek",
+   "target": "Pashtun",
+   "type": "rival_of",
+   "detail": "Antigovernment, anti-Pashtun alienation is particularly strong among Uzbeks.",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "Antigovernment, anti-Pashtun alienation is particularly strong among the Uzbeks"
+  },
+  {
+   "source": "Hazara",
+   "target": "Pashtun",
+   "type": "rival_of",
+   "detail": "Hazaras face traditional hostility because of Shia adherence, and are subordinate in social status.",
+   "confidence": "inferred",
+   "timestamp": "p.5",
+   "quote": "Traditional hostility toward them because of their adherence to the Shia sect of Islam"
+  },
+  {
+   "source": "Tajik",
+   "target": "Pashtun",
+   "type": "allied_with",
+   "detail": "Tajiks have lived in harmony with Pashtuns and some held high government posts.",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "The Tajiks have lived in harmony with the Pashtuns, and a number of them have held high government posts."
+  },
+  {
+   "source": "Pashtun",
+   "target": "Hindu Kush",
+   "type": "other",
+   "detail": "Many Pashtuns were forcibly resettled north of the Hindu Kush in the late 1800s.",
+   "date": "late 1800s",
+   "confidence": "stated",
+   "timestamp": "p.6",
+   "quote": "in the late [1800s] many were forcibly resettled north of the Hindu Kush."
+  },
+  {
+   "source": "Nur Muhammad Taraki",
+   "target": "Pashtun",
+   "type": "member_of",
+   "detail": "Taraki is identified as ethnically Pashtun.",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "The Pashtuns—the ethnic group of Taraki, Amin. and Karmal—pose the greatest threat to any Soviet-controlled government in Afghanistan."
+  },
+  {
+   "source": "Hafizullah Amin",
+   "target": "Pashtun",
+   "type": "member_of",
+   "detail": "Amin is identified as ethnically Pashtun.",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "The Pashtuns—the ethnic group of Taraki, Amin. and Karmal—pose the greatest threat to any Soviet-controlled government in Afghanistan."
+  },
+  {
+   "source": "Babrak Karmal",
+   "target": "Pashtun",
+   "type": "member_of",
+   "detail": "Karmal is identified as ethnically Pashtun.",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "The Pashtuns—the ethnic group of Taraki, Amin. and Karmal—pose the greatest threat to any Soviet-controlled government in Afghanistan."
+  },
+  {
+   "source": "Pashtun",
+   "target": "Soviet Union",
+   "type": "rival_of",
+   "detail": "Pashtuns are assessed as the greatest threat to any Soviet-controlled government in Afghanistan.",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "pose the greatest threat to any Soviet-controlled government in Afghanistan."
+  },
+  {
+   "source": "Pashtun",
+   "target": "Karmal regime",
+   "type": "rival_of",
+   "detail": "The assessment expects Pashtun resistance to continue against the Soviet-installed Karmal government.",
+   "confidence": "inferred",
+   "timestamp": "p.8",
+   "quote": "Resistance continues and its basic causes remain."
+  },
+  {
+   "source": "Pashtun tribal insurgents",
+   "target": "Taraki regime",
+   "type": "rival_of",
+   "detail": "Pashtuns were responsible for most of the insurgency against the Taraki government since April 1978.",
+   "date": "1978-04",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "They are responsible for most of the insurgency since April 1978, though old internal rivalries have prevented much cooperation among the various tribes."
+  },
+  {
+   "source": "Pashtun",
+   "target": "Taraki regime",
+   "type": "rival_of",
+   "detail": "Pashtun desire for revenge grew because the Taraki government's purges struck nearly every extended Pashtun family.",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "traditional desire for revenge has grown over the past year with the purges instituted by the Taraki government; hardly an extended family has not had at least one member imprisoned or eliminated."
+  },
+  {
+   "source": "Pashtun",
+   "target": "Afghan Army",
+   "type": "other",
+   "detail": "Increased desertions from the Afghan Army, together with the spread of Pashtun guerrilla forces, drained regime resources before the Soviet invasion.",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "the spread of Pashtun guerrilla forces and increased desertions from the Afghan Army had caused a serious drain on the regime's resources."
+  },
+  {
+   "source": "Babrak Karmal",
+   "target": "Karmal regime",
+   "type": "leads",
+   "detail": "Karmal was installed as President of Afghanistan by the Soviets.",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "The Soviet invasion and installation of Babrak Karmal as President of Afghanistan is unlikely to alter the prospects for prolonged insurgency."
+  },
+  {
+   "source": "Soviet Union",
+   "target": "Babrak Karmal",
+   "type": "other",
+   "detail": "The Soviet invasion installed Karmal as President.",
+   "date": "1979",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "The Soviet invasion and installation of Babrak Karmal as President of Afghanistan"
+  },
+  {
+   "source": "Karmal regime",
+   "target": "Soviet Union",
+   "type": "other",
+   "detail": "The Karmal regime is characterized as a Soviet puppet regime, separated from tribal and Islamic Afghan society by a vast gulf.",
+   "confidence": "inferred",
+   "timestamp": "p.8",
+   "quote": "a vast gulf separates the objectives of a Soviet puppet regime and the tribal traditions and Islamic foundations upon which Afghan society is based."
+  },
+  {
+   "source": "Taraki regime",
+   "target": "Pashtun",
+   "type": "other",
+   "detail": "Land reform and other programs of the Taraki government met hostility among landowning Pashtuns, who opposed the reforms.",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "As the principal landowners in Afghanistan, the Pashtuns also have opposed land reform programs."
+  },
+  {
+   "source": "Pashtun",
+   "target": "Hindu Kush",
+   "type": "located_in",
+   "detail": "Pashtuns are concentrated in the east and south, though many were forcibly resettled north of the Hindu Kush in the late 1800s.",
+   "date": "late 1800s",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "in the late 1800s many were forcibly resettled north of the Hindu Kush."
+  },
+  {
+   "source": "Pashtun",
+   "target": "Afghanistan",
+   "type": "other",
+   "detail": "Pashtuns have been the dominant people in Afghanistan since it began as a nation in the 18th century.",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "The Pashtuns have been the dominant people in Afghanistan since its beginning as a nation in the 18th century."
+  },
+  {
+   "source": "Tajik",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Tajiks are the second largest ethnic group, scattered throughout the country, with concentrations in the east and west.",
+   "confidence": "stated",
+   "timestamp": "p.10",
+   "quote": "The Tajiks are the second largest ethnic group and are scattered throughout the country, with main concentrations in the east and west."
+  },
+  {
+   "source": "Tajik",
+   "target": "Hindu Kush",
+   "type": "located_in",
+   "detail": "Tajiks north of the Hindu Kush are believed to descend from ancient Iranians mixed with Turkic peoples.",
+   "confidence": "stated",
+   "timestamp": "p.10",
+   "quote": "Those north of the Hindu Kush are believed to be descended from ancient Iranians who have mixed with Turkic peoples."
+  },
+  {
+   "source": "Hazara",
+   "target": "Afghan Army",
+   "type": "member_of",
+   "detail": "Hazara are regularly recruited into the Afghan Army as good soldiers.",
+   "confidence": "stated",
+   "timestamp": "p.10",
+   "quote": "They make good soldiers and are regularly recruited into the Afghan Army."
+  },
+  {
+   "source": "Hazara",
+   "target": "Tajik",
+   "type": "other",
+   "detail": "Hazara culturally resemble the mountain Tajiks and may descend from Mongol soldiers who intermarried with a mountain Tajik population.",
+   "confidence": "stated",
+   "timestamp": "p.10",
+   "quote": "the Hazara culturally resemble the mountain Tajiks but speak a Persian dialect called Hazaragi."
+  },
+  {
+   "source": "Chahar Aimak",
+   "target": "Hazarajat",
+   "type": "located_in",
+   "detail": "The Chahar Aimak live to the north and west of the Hazara homeland.",
+   "confidence": "inferred",
+   "timestamp": "p.10",
+   "quote": "To the north and west of the Hazara live the Chahar Aimak ethnic group"
+  }
+ ],
+ "sources_cited": [
+  "Soviet ethnologists (cited on origins of mountain Tajiks)",
+  "Anthropometric studies (cited on physical type of Tajiks and Uzbeks)"
+ ],
+ "key_claims": [
+  "The Pashtuns are about half of Afghanistan's population and have long dominated politically, which causes resentment among Uzbeks, Hazaras and other groups.",
+  "The insurgency began in 1978 with the pro-Soviet Taraki regime, whose land reform, literacy and secularization programs were seen as attacks on Islam and the tribal structure.",
+  "Pashtun tribes account for most of the insurgency, but old tribal rivalries prevent much cooperation.",
+  "The Soviet invasion and installation of Babrak Karmal are judged unlikely to end the insurgency, since its basic causes remain.",
+  "Taraki, Amin and Karmal were themselves Pashtuns, and the regime's purges hit Pashtun families, fueling a desire for revenge.",
+  "Hazaras, being Shia, are traditionally despised and live in the nearly inaccessible Hazarajat.",
+  "This chunk is a descriptive ethnography of Afghan minority groups and contains no named individual actors or jihadist networks.",
+  "Hazara are the only Afghan ethnic group that is predominantly Shia and are regularly recruited into the Afghan Army.",
+  "Uzbeks and Turkmen are Sunni Turkic groups in northern Afghanistan; Turkmen remain pastoral nomads while Uzbeks have largely given up tribal affiliation.",
+  "Nuristanis resent government interference and prefer isolation in the eastern mountains.",
+  "Kizilbash are an urban Shia group, some in government positions."
+ ]
+}

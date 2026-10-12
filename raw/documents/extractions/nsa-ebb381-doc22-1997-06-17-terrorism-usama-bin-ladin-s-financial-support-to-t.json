@@ -1,0 +1,151 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc22-1997-06-17-terrorism-usama-bin-ladin-s-financial-support-to-t",
+  "title": "Terrorism: Usama Bin Ladin's Financial Support to the Egyptian Al-Gama'at Al-Islamiyya, as well as Algerian and Libyan Extremists",
+  "authors": "CIA",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "1997-06-17",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7x7g-tbo1k/1997-06-17-terrorism-usama-bin-ladins-financial.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 3,
+  "kind": "intelligence report",
+  "note": "CIA Intelligence Report on bin Ladin's financial support to the Egyptian Gama'at al-Islamiyya and to Algerian and Libyan extremists. Source: 9/11 Commission Report, Chapter 4, Endnote 1.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 22",
+  "relevance": "high",
+  "ocr": 1
+ },
+ "persons": [
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Usama Bin Ladin",
+    "Usama Bin Laddin"
+   ],
+   "role": "Islamic extremist financier who receives donations on behalf of the Egyptian al-Gama'at al-Islamiyya from wealthy donors",
+   "organizations": [
+    "al-Gama'at al-Islamiyya"
+   ],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "BIN LADIN RECEIVES DONATIONS ON BEHALF OF THE IG FROM"
+    },
+    {
+     "timestamp": "p.1",
+     "quote": "TERRORISM: US~ :AM LADDI' s FINANCIAL SUPPORT TO THE EGYPTIAN AL-GAMA' AT AL-I LAMIYYA"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "al-Gama'at al-Islamiyya",
+   "aliases": [
+    "IG",
+    "Egyptian al-Gama'at al-Islamiyya",
+    "Islamic Group"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Egypt",
+   "notes": "As of early 1996 it received funding from a number of donors, including Islamic extremist financiers."
+  },
+  {
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Originator of this information report, disseminated to many US agencies."
+  }
+ ],
+ "places": [],
+ "events": [
+  {
+   "date": "1997-06-17",
+   "date_precision": "day",
+   "type": "other",
+   "description": "CIA information report (DTG 171601Z JUN 97) issued on Bin Ladin's financial support to the Egyptian IG, with Algerian and Libyan extremists also in the title.",
+   "place": "",
+   "actors": [
+    "Central Intelligence Agency"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1996",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "As of early 1996 the IG received funding from a number of donors, including Islamic extremist financiers.",
+   "place": "",
+   "actors": [
+    "al-Gama'at al-Islamiyya"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1997-06-17",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA information report disseminated on Usama bin Ladin's financial support to the Egyptian al-Gama'at al-Islamiyya and Algerian and Libyan extremists (date-time group 171601Z JUN 97).",
+   "place": "",
+   "actors": [
+    "Central Intelligence Agency",
+    "Usama bin Ladin",
+    "al-Gama'at al-Islamiyya"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "approx 1996-early",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "As of early 1996, the IG received funding from a number of donors, including Islamic extremist financiers; bin Ladin received donations on its behalf from wealthy donors.",
+   "place": "",
+   "actors": [
+    "al-Gama'at al-Islamiyya",
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.2"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "al-Gama'at al-Islamiyya",
+   "target": "Usama bin Ladin",
+   "type": "funded_by",
+   "detail": "Bin Ladin receives donations on behalf of the IG from wealthy donors, so the IG is funded through him.",
+   "date": "early 1996",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "BIN LADIN RECEIVES DONATIONS ON BEHALF OF THE IG FROM"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "al-Gama'at al-Islamiyya",
+   "type": "other",
+   "detail": "Bin Ladin acts as an intermediary who receives donations on behalf of the IG from wealthy donors.",
+   "date": "early 1996",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "BIN LADIN RECEIVES DONATIONS ON BEHALF OF THE IG FROM"
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "As of early 1996 the Egyptian IG received funding from several donors, including Islamic extremist financiers.",
+  "Usama bin Ladin received donations on behalf of the IG from wealthy donors."
+ ]
+}

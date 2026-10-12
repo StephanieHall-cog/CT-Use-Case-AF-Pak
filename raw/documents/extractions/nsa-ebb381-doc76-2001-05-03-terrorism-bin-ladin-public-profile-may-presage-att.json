@@ -1,0 +1,209 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc76-2001-05-03-terrorism-bin-ladin-public-profile-may-presage-att",
+  "title": "Terrorism: Bin Ladin Public Profile May Presage Attack",
+  "authors": "Central Intelligence Agency (Senior Executive Intelligence Brief)",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "2001-05-03",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7xgb-ivxcp/2001-05-03-terrorism-bin-ladin-public-profile.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 1,
+  "kind": "briefing",
+  "note": "Senior Executive Intelligence Brief on Bin Ladin's public profile possibly presaging an attack. Cited in 9/11 Commission Report, Chapter 8, Endnote 9.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 76",
+  "relevance": "high",
+  "ocr": 0
+ },
+ "persons": [
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Bin Ladin",
+    "Bin Laclin"
+   ],
+   "role": "al-Qa'ida leader; appeared in videotapes and gave a press conference in May 1998",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [
+    {
+     "relation": "son",
+     "name": "Unnamed son (wedding videotaped Jan-Feb 2001)"
+    }
+   ],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "In a press conference in May 1998, just months before the East Africa bombings, Bin Ladin used the media to predict news to gladden his supporters' hearts."
+    },
+    {
+     "timestamp": "p.1",
+     "quote": "Bin Ladin in January and February appeared in two videos about the wedding of his son"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Author of the Senior Executive Intelligence Brief dated 3 May 2001."
+  }
+ ],
+ "places": [
+  {
+   "name": "East Africa",
+   "type": "region",
+   "country": "",
+   "parent": "",
+   "significance": "Site of the 1998 bombings that followed Bin Ladin's May 1998 press conference."
+  }
+ ],
+ "events": [
+  {
+   "date": "1998-05",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Bin Ladin held a press conference using the media to predict news, months before the East Africa bombings.",
+   "place": "",
+   "actors": [
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998",
+   "date_precision": "year",
+   "type": "attack",
+   "description": "East Africa embassy bombings, referenced as occurring months after Bin Ladin's May 1998 press conference.",
+   "place": "East Africa",
+   "actors": [
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-01",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Bin Ladin appeared in a video about his son's wedding, featuring rhetoric supporting the Al-Aqsa intifada.",
+   "place": "",
+   "actors": [
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-02",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Bin Ladin appeared in a second wedding video, reading a poem extolling the attack on the USS Cole.",
+   "place": "",
+   "actors": [
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-05-03",
+   "date_precision": "day",
+   "type": "other",
+   "description": "CIA Senior Executive Intelligence Brief assessing that Bin Ladin's heightened public profile may presage an attack.",
+   "place": "",
+   "actors": [
+    "Central Intelligence Agency"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998-05",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Bin Ladin held a press conference using the media to predict news to gladden his supporters, months before the East Africa bombings.",
+   "place": "",
+   "actors": [
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998",
+   "date_precision": "approx",
+   "type": "attack",
+   "description": "East Africa bombings, which occurred months after Bin Ladin's May 1998 press conference.",
+   "place": "East Africa",
+   "actors": [
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-01",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Bin Ladin appeared in a video about the wedding of his son, featuring rhetoric supporting the Al-Aqsa intifadah.",
+   "place": "",
+   "actors": [
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-05-03",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA Senior Executive Intelligence Brief issued assessing Bin Ladin's public profile may presage an attack.",
+   "place": "",
+   "actors": [
+    "Central Intelligence Agency",
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Usama bin Ladin",
+   "target": "East Africa",
+   "type": "other",
+   "detail": "Bin Ladin held a press conference in May 1998, months before the East Africa bombings, predicting news to gladden his supporters.",
+   "date": "1998-05",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "In a press conference in MaY. 1998, j~t months before the East Africa bombings, Bin Ladin used the media to predict news to gladden· his supporters' hearts."
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "Usama bin Ladin",
+   "type": "other",
+   "detail": "CIA Senior Executive Intelligence Brief assesses that Bin Ladin's heightened public profile may presage an attack.",
+   "date": "2001-05-03",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Terrorism: Bin Ladin Public Profde May Presage Attac"
+  }
+ ],
+ "sources_cited": [
+  "CIA Senior Executive Intelligence Brief, 3 May 2001"
+ ],
+ "key_claims": [
+  "Bin Ladin's heightened public profile may presage an attack.",
+  "A 10-minute videotape of Bin Ladin was described as the widest public airing.",
+  "Bin Ladin's May 1998 press conference preceded the East Africa bombings by months.",
+  "Bin Ladin may be trying to profit from attention to the Israeli-Palestinian struggle and reassert his importance as a backer of Islamic causes.",
+  "Bin Ladin appeared in two videos about his son's wedding in Jan and Feb 2001, the second including a poem praising the USS Cole attack."
+ ]
+}

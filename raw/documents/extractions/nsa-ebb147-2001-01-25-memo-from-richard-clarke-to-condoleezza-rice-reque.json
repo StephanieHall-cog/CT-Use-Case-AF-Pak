@@ -1,0 +1,782 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb147-2001-01-25-memo-from-richard-clarke-to-condoleezza-rice-reque",
+  "title": "Memo from Richard Clarke to Condoleezza Rice requesting urgent Principals-level review of the al-Qaeda network",
+  "authors": "Richard Clarke, NSC Counterterrorism Coordinator",
+  "publisher": "National Security Archive (GWU), Bush Administration's First Memo on al-Qaeda Declassified",
+  "published": "2001-01-25",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB147/clarke%20memo.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB147/index.htm",
+  "pages": 3,
+  "kind": "memo",
+  "note": "Clarke's memo to National Security Adviser Rice requests an immediate Principals Committee meeting on al-Qaeda. It urges covert aid to the Northern Alliance and Uzbekistan, a larger counterterrorism budget, and a decision on responding to the USS Cole attack. It carries a declassification stamp of April 7, 2004, and attached two documents: Tab A (December 2000 strategy paper) and Tab B (the 1998 Delenda Plan, still classified).",
+  "collection": "NSAEBB147",
+  "doc_number": null,
+  "relevance": "high",
+  "ocr": 3
+ },
+ "persons": [
+  {
+   "name": "Richard A. Clarke",
+   "aliases": [
+    "Richard Clarke",
+    "Richard A. Earke"
+   ],
+   "role": "NSC Counterterrorism Coordinator; author of the memo",
+   "organizations": [
+    "National Security Council"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Washington, D.C."
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "MEMORANDUM FOR CONDOLEEZZA RICE . (C) FROM: RICHARD A. EARKE/ ly"
+    }
+   ]
+  },
+  {
+   "name": "Condoleezza Rice",
+   "aliases": [
+    "Condoleeza Rice"
+   ],
+   "role": "National Security Advisor, recipient of the memo",
+   "organizations": [
+    "National Security Council"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Washington, D.C."
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "MEMORANDUM FOR CONDOLEEZZA RICE"
+    }
+   ]
+  },
+  {
+   "name": "Steve (Hadley)",
+   "aliases": [
+    "Steve"
+   ],
+   "role": "Senior NSC official who asked for proposals for major Presidential policy reviews (identified only as 'Steve' in the text)",
+   "organizations": [
+    "National Security Council"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Steve asked today that we propose major Presidential policy reviews or initiatives."
+    }
+   ]
+  },
+  {
+   "name": "Mary McCarthy",
+   "aliases": [],
+   "role": "NSC official who concurred in the memo",
+   "organizations": [
+    "National Security Council"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.3",
+     "quote": "Concurrences by: Mary McCarthy, Dan Fried, Bruce Reidel, bon ) Camp"
+    }
+   ]
+  },
+  {
+   "name": "Dan Fried",
+   "aliases": [],
+   "role": "NSC official who concurred in the memo",
+   "organizations": [
+    "National Security Council"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.3",
+     "quote": "Concurrences by: Mary McCarthy, Dan Fried, Bruce Reidel"
+    }
+   ]
+  },
+  {
+   "name": "Bruce Riedel",
+   "aliases": [
+    "Bruce Reidel"
+   ],
+   "role": "NSC official who concurred in the memo",
+   "organizations": [
+    "National Security Council"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.3",
+     "quote": "Concurrences by: Mary McCarthy, Dan Fried, Bruce Reidel"
+    }
+   ]
+  },
+  {
+   "name": "Don Camp",
+   "aliases": [
+    "bon Camp"
+   ],
+   "role": "NSC official who concurred in the memo (name partly garbled in OCR)",
+   "organizations": [
+    "National Security Council"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.3",
+     "quote": "Bruce Reidel, bon ) Camp"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "al-Qida",
+   "aliases": [
+    "al-Qaeda",
+    "al Qida",
+    "al-Qa'ida"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban",
+    "IMU"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Described as an active, organized transnational network using a distorted version of Islam to drive the US out of the Muslim world and replace regimes with Taliban-style theocracies."
+  },
+  {
+   "name": "Taliban",
+   "aliases": [],
+   "role": "",
+   "type": "political movement",
+   "parent_or_allies": [
+    "al-Qida"
+   ],
+   "rivals": [
+    "Northern Alliance"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Provides sanctuary to al-Qida; the memo proposes messages to the Taliban on ending it."
+  },
+  {
+   "name": "055 Brigade",
+   "aliases": [
+    "al Qida 55 Brigade",
+    "55th Brigade"
+   ],
+   "type": "militia",
+   "parent_or_allies": [
+    "al-Qida",
+    "Taliban"
+   ],
+   "rivals": [
+    "Northern Alliance"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Al-Qida force described as a key fighting force for the Taliban; OCR reads '55‘ | ‘ Brigade'."
+  },
+  {
+   "name": "Northern Alliance",
+   "aliases": [
+    "Afghan Northern Alliance"
+   ],
+   "type": "militia",
+   "parent_or_allies": [],
+   "rivals": [
+    "Taliban",
+    "al-Qida"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Opposition force against the Taliban/al-Qida; the memo asks whether to provide it assistance."
+  },
+  {
+   "name": "IMU",
+   "aliases": [
+    "Islamic Movement of Uzbekistan"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qida"
+   ],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Linked to al-Qida; a threat to Uzbekistan."
+  },
+  {
+   "name": "National Security Council",
+   "aliases": [
+    "NSC"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Author office of the memo."
+  },
+  {
+   "name": "CIA",
+   "aliases": [
+    "Central Intelligence Agency"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [
+    "al-Qida"
+   ],
+   "country_base": "United States",
+   "notes": "Operational detail removed at CIA's request; proposed budget growth for anti-al-Qida operations."
+  },
+  {
+   "name": "US Department of State",
+   "aliases": [
+    "State"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [
+    "al-Qida"
+   ],
+   "country_base": "United States",
+   "notes": "Counterterrorism training and assistance programs."
+  },
+  {
+   "name": "Clinton Administration",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Deferred two al-Qida decisions to the Bush Administration."
+  },
+  {
+   "name": "Bush Administration",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Recipient of the deferred decisions."
+  },
+  {
+   "name": "USS Cole",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "US Navy ship attacked; the decision on response is pending."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Al-Qida sanctuary under the Taliban."
+  },
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Policy affected by al-Qida; to receive messages about ending the sanctuary."
+  },
+  {
+   "name": "Uzbekistan",
+   "type": "country",
+   "country": "Uzbekistan",
+   "parent": "",
+   "significance": "Faces al-Qida/IMU threat; possible increased US assistance."
+  },
+  {
+   "name": "Central Asia",
+   "type": "region",
+   "country": "",
+   "parent": "",
+   "significance": "Region whose policy is affected by al-Qida."
+  },
+  {
+   "name": "North Africa",
+   "type": "region",
+   "country": "",
+   "parent": "",
+   "significance": "Region whose policy is affected by al-Qida."
+  },
+  {
+   "name": "GCC",
+   "aliases": [
+    "Gulf Cooperation Council states"
+   ],
+   "type": "region",
+   "country": "",
+   "parent": "",
+   "significance": "Region whose policy is affected by al-Qida."
+  },
+  {
+   "name": "Jordan",
+   "type": "country",
+   "country": "Jordan",
+   "parent": "",
+   "significance": "Its leaders see al-Qida as a direct threat."
+  },
+  {
+   "name": "Saudi Arabia",
+   "type": "country",
+   "country": "Saudi Arabia",
+   "parent": "",
+   "significance": "Its leaders see al-Qida as a direct threat."
+  },
+  {
+   "name": "Washington, D.C.",
+   "type": "city",
+   "country": "United States",
+   "parent": "",
+   "significance": "Location of the NSC."
+  }
+ ],
+ "events": [
+  {
+   "date": "2001-01-25",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Clarke sends memo to Rice requesting an urgent Principals-level review of the al-Qida network.",
+   "place": "Washington, D.C.",
+   "actors": [
+    "Richard A. Clarke",
+    "Condoleezza Rice"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2000-10",
+   "date_precision": "month",
+   "type": "attack",
+   "description": "Attack on the USS Cole; the response decision remains pending (the memo does not give the date; October 2000 comes from outside knowledge).",
+   "place": "",
+   "actors": [
+    "al-Qida",
+    "USS Cole"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "2000-12",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Year-end 2000 strategy paper on eliminating the threat from al-Qida's jihadist networks produced by the Clinton Administration.",
+   "place": "",
+   "actors": [
+    "Clinton Administration"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1998-09",
+   "date_precision": "month",
+   "type": "other",
+   "description": "September 1998 Pol-Mil Plan for al-Qida produced.",
+   "place": "",
+   "actors": [
+    "Clinton Administration"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "2001-01-25",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Clarke sends a memo to Rice urgently requesting a Principals Committee review of the al Qida network.",
+   "place": "Washington, D.C.",
+   "actors": [
+    "Richard A. Clarke",
+    "Condoleezza Rice",
+    "National Security Council"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "approx 2000",
+   "date_precision": "approx",
+   "type": "other",
+   "detail": "",
+   "description": "At the close of the Clinton Administration, two al Qida decisions were deferred to the Bush Administration: aid to the Northern Alliance and aid to Uzbekistan.",
+   "place": "Washington, D.C.",
+   "actors": [
+    "Clinton Administration",
+    "Bush Administration",
+    "Northern Alliance"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "2000",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "The Clinton Administration developed a year-end 2000 strategy on al Qida.",
+   "place": "Washington, D.C.",
+   "actors": [
+    "Clinton Administration",
+    "al-Qida"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1998-09",
+   "date_precision": "month",
+   "type": "other",
+   "description": "A September 1998 Pol-Mil Plan for al-Qida was produced.",
+   "place": "Washington, D.C.",
+   "actors": [
+    "Clinton Administration",
+    "al-Qida"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "approx 2000",
+   "date_precision": "approx",
+   "type": "attack",
+   "description": "Attack on the USS Cole, to which the new Administration must decide how to respond.",
+   "place": "",
+   "actors": [
+    "USS Cole",
+    "al-Qida"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "approx 2001-spring",
+   "date_precision": "approx",
+   "type": "offensive",
+   "description": "Fighting is expected to resume in spring after the winter thaw, with the Northern Alliance at risk of being taken out of action.",
+   "place": "Afghanistan",
+   "actors": [
+    "Northern Alliance",
+    "Taliban",
+    "055 Brigade"
+   ],
+   "timestamp": "p.2"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "al-Qida",
+   "target": "Taliban",
+   "type": "allied_with",
+   "detail": "Memo treats Taliban and al-Qida as a joint force against the Northern Alliance and refers to the al-Qida sanctuary in Afghanistan.",
+   "date": "2001-01",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "maintain it as a viable opposition force to the Taliban/al Qida"
+  },
+  {
+   "source": "055 Brigade",
+   "target": "al-Qida",
+   "type": "member_of",
+   "detail": "The 55 Brigade is described as an al-Qida brigade.",
+   "date": "2001-01",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "The al Qida 55 Brigade, which has been a key fighting force for the Taliban"
+  },
+  {
+   "source": "055 Brigade",
+   "target": "Taliban",
+   "type": "allied_with",
+   "detail": "Brigade has been a key fighting force for the Taliban.",
+   "date": "2001-01",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "which has been a key fighting force for the Taliban"
+  },
+  {
+   "source": "al-Qida",
+   "target": "IMU",
+   "type": "allied_with",
+   "detail": "Memo refers to a joint al-Qida/IMU threat to Uzbekistan.",
+   "date": "2001-01",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "deal with the al Qida/ IMU threat"
+  },
+  {
+   "source": "Northern Alliance",
+   "target": "Taliban",
+   "type": "rival_of",
+   "detail": "Northern Alliance is the opposition force fighting the Taliban/al-Qida.",
+   "date": "2001-01",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "viable opposition force to the Taliban/al Qida"
+  },
+  {
+   "source": "al-Qida",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Al-Qida maintains a sanctuary in Afghanistan.",
+   "date": "2001-01",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "ending the al Qida sanctuary in Afghanistan"
+  },
+  {
+   "source": "Richard A. Clarke",
+   "target": "Condoleezza Rice",
+   "type": "reports_to",
+   "detail": "Clarke addresses the information memo to Rice.",
+   "date": "2001-01-25",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "MEMORANDUM FOR CONDOLEEZZA RICE"
+  },
+  {
+   "source": "Richard A. Clarke",
+   "target": "National Security Council",
+   "type": "member_of",
+   "detail": "Clarke is the NSC Counterterrorism Coordinator.",
+   "date": "2001-01-25",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20504"
+  },
+  {
+   "source": "Richard A. Clarke",
+   "target": "National Security Council",
+   "type": "member_of",
+   "detail": "Clarke writes on NSC letterhead and classifies the memo as NSC.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Classified by: Richard a. Clarke NSC"
+  },
+  {
+   "source": "Condoleezza Rice",
+   "target": "National Security Council",
+   "type": "member_of",
+   "detail": "Rice is the addressee of the NSC memo, so she is inferred to be at the NSC.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "MEMORANDUM FOR CONDOLEEZZA RICE"
+  },
+  {
+   "source": "Steve (Hadley)",
+   "target": "National Security Council",
+   "type": "member_of",
+   "detail": "Steve asked NSC staff to propose major Presidential policy reviews or initiatives.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Steve asked today that we propose major Presidential policy reviews or initiatives."
+  },
+  {
+   "source": "al-Qida",
+   "target": "Taliban",
+   "type": "allied_with",
+   "detail": "Al Qida's goals include theocracies modeled on the Taliban, and the Taliban/al Qida are treated as a combined adversary.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "replace moderate, modern, Western regime in Muslim countries with theocracies modeled along the lines of the Taliban"
+  },
+  {
+   "source": "055 Brigade",
+   "target": "al-Qida",
+   "type": "member_of",
+   "detail": "The 055 Brigade is described as an al Qida force.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "The al Qida 55‘ | ‘ ., Brigade, which has been a key fighting force for the Taliban"
+  },
+  {
+   "source": "055 Brigade",
+   "target": "Taliban",
+   "type": "allied_with",
+   "detail": "The 055 Brigade has been a key fighting force for the Taliban.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Brigade, which has been a key fighting force for the Taliban"
+  },
+  {
+   "source": "Northern Alliance",
+   "target": "Taliban",
+   "type": "rival_of",
+   "detail": "The Northern Alliance is the opposition force to the Taliban/al Qida.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "maintain it as a viable opposition force to the Taliban/al Qida"
+  },
+  {
+   "source": "Northern Alliance",
+   "target": "al-Qida",
+   "type": "rival_of",
+   "detail": "The Northern Alliance is the opposition force to the Taliban/al Qida.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "viable opposition force to the Taliban/al Qida"
+  },
+  {
+   "source": "IMU",
+   "target": "al-Qida",
+   "type": "allied_with",
+   "detail": "The memo refers to a combined al Qida/IMU threat to Uzbekistan.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "deal with the al Qida/ IMU threat"
+  },
+  {
+   "source": "IMU",
+   "target": "Uzbekistan",
+   "type": "rival_of",
+   "detail": "The IMU is a threat to Uzbekistan.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "increase assistance to Uzbekistan to allow them to deal with the al Qida/ IMU threat"
+  },
+  {
+   "source": "al-Qida",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Al Qida has a sanctuary in Afghanistan.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "importance we attach to ending the al Qida sanctuary in Afghanistan"
+  },
+  {
+   "source": "al-Qida",
+   "target": "Taliban",
+   "type": "sheltered_by",
+   "detail": "The Taliban and Pakistan are to be pressed to end the al Qida sanctuary in Afghanistan.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "what the new Administration says to the Taliban and Pakistan about the importance we attach to ending the al Qida sanctuary in Afghanistan"
+  },
+  {
+   "source": "al-Qida",
+   "target": "USS Cole",
+   "type": "other",
+   "detail": "The memo refers to the attack on the USS Cole, which the US is deciding how to respond to.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "when and how does the Administration choose to respond to the attack on the USS Cole"
+  },
+  {
+   "source": "Mary McCarthy",
+   "target": "Richard A. Clarke",
+   "type": "other",
+   "detail": "McCarthy concurred in the memo.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "Concurrences by: Mary McCarthy, Dan Fried, Bruce Reidel, bon ) Camp"
+  },
+  {
+   "source": "Dan Fried",
+   "target": "Richard A. Clarke",
+   "type": "other",
+   "detail": "Fried concurred in the memo.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "Concurrences by: Mary McCarthy, Dan Fried, Bruce Reidel"
+  },
+  {
+   "source": "Bruce Riedel",
+   "target": "Richard A. Clarke",
+   "type": "other",
+   "detail": "Riedel concurred in the memo.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "Concurrences by: Mary McCarthy, Dan Fried, Bruce Reidel, bon ) Camp"
+  },
+  {
+   "source": "Don Camp",
+   "target": "Richard A. Clarke",
+   "type": "other",
+   "detail": "Camp concurred in the memo.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "Bruce Reidel, bon ) Camp"
+  },
+  {
+   "source": "Jordan",
+   "target": "al-Qida",
+   "type": "rival_of",
+   "detail": "Leaders in Jordan see al Qida as a direct threat.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Leaders in Jordan and Saudi Arabia see al Qida as a direct threat to them."
+  },
+  {
+   "source": "Saudi Arabia",
+   "target": "al-Qida",
+   "type": "rival_of",
+   "detail": "Leaders in Saudi Arabia see al Qida as a direct threat.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Leaders in Jordan and Saudi Arabia see al Qida as a direct threat to them."
+  },
+  {
+   "source": "CIA",
+   "target": "US Department of State",
+   "type": "allied_with",
+   "detail": "CIA and State would share counter-terrorism programs and funding against al Qida.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "anti-al Qida operations by CIA and counter-terrorism training and assistance by State and CIA"
+  }
+ ],
+ "sources_cited": [
+  "December 2000 Paper: Strategy for Eliminating the Threat from the Jihadist Networks of al-Qida: Status and Prospects (Tab A)",
+  "September 1998 Paper: Pol-Mil Plan for al-Qida (Tab B)"
+ ],
+ "key_claims": [
+  "Clarke argues al-Qida is a major transnational threat that should not be handled as a narrow terrorist issue within regional policies.",
+  "Al-Qida seeks to drive the US out of the Muslim world and replace moderate regimes with Taliban-style theocracies.",
+  "The memo says al-Qida's 55 Brigade is a key Taliban fighting force and could be freed to threaten US interests elsewhere if the Northern Alliance collapses in the spring.",
+  "Two decisions deferred by the Clinton Administration concern aid to the Northern Alliance and aid to Uzbekistan against the al-Qida/IMU threat.",
+  "Clarke proposes early, strong messages to the Taliban and Pakistan about ending the al-Qida sanctuary in Afghanistan.",
+  "Efforts to go after al-Qida's money and counter its propaganda have not worked effectively.",
+  "Clarke advises responding to the USS Cole attack at a time and manner of US choosing rather than with knee-jerk reactions."
+ ]
+}

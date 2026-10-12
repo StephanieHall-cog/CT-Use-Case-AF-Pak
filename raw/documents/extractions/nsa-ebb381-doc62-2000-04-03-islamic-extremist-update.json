@@ -1,0 +1,179 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc62-2000-04-03-islamic-extremist-update",
+  "title": "Islamic Extremist Update",
+  "authors": "Central Intelligence Agency",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "2000-04-03",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7xgb-ivxcp/2000-04-03-islamic-extremist-update-central.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 4,
+  "kind": "briefing",
+  "note": "CIA update on Islamic extremists. Cited in 9/11 Commission Report, Chapter 6, Endnote 101.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 62",
+  "relevance": "high",
+  "ocr": 1
+ },
+ "persons": [
+  {
+   "name": "Ahmad Shah Massoud",
+   "aliases": [
+    "Masood",
+    "Massood"
+   ],
+   "role": "Northern Alliance commander; contact targeted for initiation of contact in UBL collection efforts (partially legible)",
+   "organizations": [
+    "Northern Alliance"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.3",
+     "quote": "Initiated contahtwithOMaso()d·s,"
+    }
+   ]
+  },
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "UBL"
+   ],
+   "role": "al-Qa'ida leader; target of intelligence collection efforts",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.3",
+     "quote": "ollection:efforts -~irected --against UBL."
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Author of the Islamic Extremist Update dated 3 April 2000."
+  },
+  {
+   "name": "al-Qa'ida",
+   "aliases": [
+    "al-Qaeda"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Implied by the references to UBL."
+  },
+  {
+   "name": "Northern Alliance",
+   "aliases": [],
+   "type": "militia",
+   "parent_or_allies": [],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Implied by the Massoud reference only; the text is garbled."
+  }
+ ],
+ "places": [],
+ "events": [
+  {
+   "date": "2000-04-03",
+   "date_precision": "day",
+   "type": "other",
+   "description": "CIA publishes the Islamic Extremist Update; the text is mostly illegible OCR. It mentions a program review of collection efforts directed against UBL and the initiation of contact with Masood's forces.",
+   "place": "",
+   "actors": [
+    "Central Intelligence Agency",
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "approx 2000",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "The program review notes that collection efforts were directed against UBL. The text is too garbled to say when this began.",
+   "place": "",
+   "actors": [
+    "Central Intelligence Agency",
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "approx 2000",
+   "date_precision": "approx",
+   "type": "meeting",
+   "description": "The program review notes that contact was initiated with Masood's (forces or network). The text is truncated and garbled.",
+   "place": "",
+   "actors": [
+    "Central Intelligence Agency",
+    "Ahmad Shah Massoud"
+   ],
+   "timestamp": "p.3"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Central Intelligence Agency",
+   "target": "Ahmad Shah Massoud",
+   "type": "met_with",
+   "detail": "The garbled text says contact was initiated with Masood's (people or forces) as part of the collection effort against UBL; this is uncertain.",
+   "date": "2000-04",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "Initiated contahtwithOMaso()d·s,"
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "Ahmad Shah Massoud",
+   "type": "other",
+   "detail": "The program review lists initiating contact with Massoud's (forces or network). The OCR is badly garbled and the sentence is truncated, so the link is inferred.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "Initiated contahtwithOMaso()d·s,"
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "Usama bin Ladin",
+   "type": "other",
+   "detail": "The program review refers to collection efforts directed against UBL. The OCR is garbled, so the exact wording is uncertain.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "ollection:efforts -~irected --against UBL."
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "The CIA document is a heavily redacted and garbled Islamic Extremist Update dated 3 April 2000.",
+  "It refers to collection efforts directed against UBL.",
+  "It refers to initiating contact with Masood's group, which implies an intelligence-liaison effort against UBL.",
+  "A Future section mentions courtesy visits, including one with an unclear entity labelled DOS (Sheehan), but the text is too garbled to extract reliably."
+ ]
+}

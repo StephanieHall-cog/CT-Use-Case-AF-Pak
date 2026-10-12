@@ -1,0 +1,409 @@
+{
+ "document": {
+  "doc_id": "nsa-2021-soviet-withdrawal-afghanistan-doc15-1989-02-13-national-security-directive-3-subject-u-s-policy-t",
+  "title": "National Security Directive 3. Subject: U.S. Policy Toward Afghanistan, February 13, 1989",
+  "authors": "White House (Bush administration, National Security Council)",
+  "publisher": "National Security Archive (GWU), The Soviet Withdrawal from Afghanistan 1989 | National Security Archive",
+  "published": "1989-02-13",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/5752899/National-Security-Archive-Doc-15-National.pdf",
+  "source_page": "https://nsarchive.gwu.edu/briefing-book/afghanistan-russia-programs/2019-02-27/soviet-withdrawal-afghanistan-1989",
+  "pages": 4,
+  "kind": "other",
+  "note": "Issued two days before the last Soviet soldier left, the heavily redacted directive reaffirms Reagan policy of supporting the resistance and 'working in concert with Pakistan'. It shows the US expected Najibullah's imminent fall, rejected Soviet proposals limiting US options on aid, and would treat Soviet bombing after Feb 15 as a Geneva violation.",
+  "collection": "new-soviet-withdrawal-afghanistan-1989",
+  "doc_number": "Document 15",
+  "relevance": "high",
+  "ocr": 3
+ },
+ "persons": [],
+ "organizations": [
+  {
+   "name": "Soviet Union",
+   "aliases": [
+    "USSR"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [
+    "United States"
+   ],
+   "country_base": "Soviet Union",
+   "notes": "Withdrew forces from Afghanistan; backed the Soviet-imposed Afghan government. The directive warns against bombing after 15 February 1989."
+  },
+  {
+   "name": "Resistance",
+   "aliases": [
+    "Afghan Resistance",
+    "mujahideen"
+   ],
+   "type": "militia",
+   "parent_or_allies": [
+    "Pakistan",
+    "United States"
+   ],
+   "rivals": [
+    "Soviet-imposed government of Afghanistan"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Recipient of U.S. assistance. The directive stresses promoting Resistance cohesion and avoiding support for any single faction."
+  },
+  {
+   "name": "Pakistan",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [
+    "United States"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "The U.S. works in concert with Pakistan to promote Resistance cohesion and a peaceful political succession."
+  },
+  {
+   "name": "United States",
+   "aliases": [
+    "U.S."
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Pakistan"
+   ],
+   "rivals": [
+    "Soviet Union"
+   ],
+   "country_base": "United States",
+   "notes": "Issuer of the directive."
+  },
+  {
+   "name": "Soviet-imposed government of Afghanistan",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Soviet Union"
+   ],
+   "rivals": [
+    "Resistance"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "The directive refers to its expected fall."
+  },
+  {
+   "name": "AID",
+   "aliases": [
+    "U.S. Agency for International Development"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "United States"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Oversees humanitarian programs in cooperation with Pakistan and the Resistance."
+  },
+  {
+   "name": "United Nations",
+   "aliases": [
+    "UN"
+   ],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Runs a humanitarian effort to bring food into Afghanistan; the U.S. supports it if nationwide and with Resistance cooperation or acquiescence."
+  },
+  {
+   "name": "Director of Central Intelligence",
+   "aliases": [
+    "DCI"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "United States"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Coordinates with the Secretary of State on informing Congress."
+  },
+  {
+   "name": "National Security Council",
+   "aliases": [
+    "NSC"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "United States"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "The directive was issued by the White House; NSC review declassified it in part in 2008."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Subject of the policy; the Soviet withdrawal and succession arrangements take place there."
+  },
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Partner of the U.S. in supporting the Resistance; hosts Afghan refugees."
+  },
+  {
+   "name": "Soviet Union",
+   "type": "country",
+   "country": "Soviet Union",
+   "parent": "",
+   "significance": "Withdrawing power."
+  }
+ ],
+ "events": [
+  {
+   "date": "1989-02-13",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "President Bush issues National Security Directive 3 on U.S. policy toward Afghanistan after the Soviet withdrawal.",
+   "place": "Washington",
+   "actors": [
+    "United States"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1989-02-15",
+   "date_precision": "day",
+   "type": "other",
+   "description": "Deadline after which Soviet bombing of Afghan targets would be regarded as a serious violation of the Geneva Accords.",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet Union",
+    "United States"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1989-02",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Soviet forces complete their withdrawal from Afghanistan (described as marking the victory of the Afghan struggle).",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet Union",
+    "Resistance"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1989-02-13",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "President Bush issues National Security Directive 3 on US policy toward Afghanistan after Soviet withdrawal.",
+   "place": "Washington",
+   "actors": [
+    "United States",
+    "National Security Council"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1989",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Withdrawal of Soviet forces from Afghanistan, ending a decade-long struggle.",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet Union",
+    "Resistance"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1989-02-15",
+   "date_precision": "day",
+   "type": "other",
+   "description": "Deadline after which Soviet bombing of Afghan targets would be regarded by US as a serious violation of the Geneva Accords.",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet Union",
+    "United States"
+   ],
+   "timestamp": "p.2"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "United States",
+   "target": "Pakistan",
+   "type": "allied_with",
+   "detail": "The U.S. policy was to assist the Afghan struggle with Pakistan and others, and it will work in concert with Pakistan.",
+   "date": "1989-02-13",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Working in concert with Pakistan, the United States should use its influence and resources to (1) promote Resistance cohesion"
+  },
+  {
+   "source": "United States",
+   "target": "Resistance",
+   "type": "other",
+   "detail": "The U.S. assists the Resistance and promotes its cohesion, though it favors no single faction.",
+   "date": "1989-02-13",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "promote a peaceful political succession, rather than support any individual or faction"
+  },
+  {
+   "source": "Pakistan",
+   "target": "Resistance",
+   "type": "other",
+   "detail": "Pakistan cooperates with the U.S. on humanitarian programs and assistance for the Resistance.",
+   "date": "1989-02-13",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Humanitarian programs overseen by AID or other U. S. government agencies in cooperation with Pakistan and the Resistance should continue."
+  },
+  {
+   "source": "Soviet-imposed government of Afghanistan",
+   "target": "Soviet Union",
+   "type": "allied_with",
+   "detail": "The Afghan government is described as imposed by the Soviets.",
+   "date": "1989-02-13",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "prior to the fall of the Soviet imposed government of Afghanistan"
+  },
+  {
+   "source": "United States",
+   "target": "Soviet Union",
+   "type": "negotiated_with",
+   "detail": "The U.S. is prepared to engage in discussions on Soviet initiatives but will limit no options before the fall of the Kabul government.",
+   "date": "1989-02-13",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "the United States should be prepared to engage in discussions but should take no action limiting U. S. options"
+  },
+  {
+   "source": "United States",
+   "target": "Pakistan",
+   "type": "allied_with",
+   "detail": "US policy was to assist, with Pakistan and others, the Afghan struggle against Soviet occupation; directive orders working in concert with Pakistan.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "U. S. policy throughout has been to assist, with Pakistan and others, in the achievement of that objective"
+  },
+  {
+   "source": "United States",
+   "target": "Resistance",
+   "type": "allied_with",
+   "detail": "US provides assistance to the Resistance and seeks to promote its cohesion.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "use its influence and resources to (1) promote Resistance cohesion"
+  },
+  {
+   "source": "United States",
+   "target": "Resistance",
+   "type": "funded_by",
+   "detail": "Resistance receives US assistance; Soviet initiatives might seek a cutoff of this aid.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Soviet initiatives aimed at bringing about a cutoff of U. S. assistance to the Resistance"
+  },
+  {
+   "source": "United States",
+   "target": "Soviet Union",
+   "type": "rival_of",
+   "detail": "US warns Soviets that bombing in Afghanistan after 15 Feb would be a serious violation with consequences for US-Soviet relations.",
+   "date": "1989-02",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "consequences for the broader U.S.-Soviet relationship"
+  },
+  {
+   "source": "United States",
+   "target": "Soviet Union",
+   "type": "negotiated_with",
+   "detail": "US prepared to engage in discussions on Soviet initiatives regarding aid cutoff or political succession, without limiting options.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "the United States should be prepared to engage in discussions but should take no action limiting U. S. options"
+  },
+  {
+   "source": "Soviet-imposed government of Afghanistan",
+   "target": "Soviet Union",
+   "type": "allied_with",
+   "detail": "Described as Soviet-imposed government; US expects its fall.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "prior to the fall of the Soviet imposed government of Afghanistan"
+  },
+  {
+   "source": "AID",
+   "target": "Resistance",
+   "type": "allied_with",
+   "detail": "AID-overseen humanitarian programs operate in cooperation with Pakistan and the Resistance.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Humanitarian programs overseen by AID or other U. S. government agencies in cooperation with Pakistan and the Resistance"
+  },
+  {
+   "source": "AID",
+   "target": "Pakistan",
+   "type": "allied_with",
+   "detail": "Humanitarian programs cooperating with Pakistan.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "in cooperation with Pakistan and the Resistance should continue"
+  },
+  {
+   "source": "United Nations",
+   "target": "Resistance",
+   "type": "other",
+   "detail": "UN humanitarian food effort supported by US only if carried out with Resistance cooperation or acquiescence.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "carried out with the cooperation or acquiescence of the Resistance"
+  },
+  {
+   "source": "Director of Central Intelligence",
+   "target": "National Security Council",
+   "type": "other",
+   "detail": "Secretary of State to coordinate with the DCI and the Assistant to the President for National Security Affairs on informing Congress.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "in coordination with the DCI and the Assistant to the President for National Security Affairs"
+  },
+  {
+   "source": "Soviet Union",
+   "target": "Afghanistan",
+   "type": "other",
+   "detail": "Soviet forces withdrew from Afghanistan after a decade-long occupation.",
+   "date": "1989",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "The withdrawal of Soviet forces from Afghanistan marks the victory of a decade-long struggle"
+  }
+ ],
+ "sources_cited": [
+  "Geneva Accords"
+ ],
+ "key_claims": [
+  "U.S. policy aimed to promote Resistance cohesion and a peaceful political succession without backing any individual or faction.",
+  "The U.S. sought to prevent a new Afghan government that was pro-Soviet, pro-Iranian or messianic-Islamic.",
+  "The U.S. would treat Soviet bombing in Afghanistan after 15 February 1989 as a serious violation of the Geneva Accords.",
+  "The U.S. would keep options open and not limit assistance to the Resistance before the fall of the Soviet-imposed government.",
+  "The U.S. would assure the USSR it wanted a neutral, non-aligned Afghan government not hostile to the Soviets.",
+  "The U.S. would continue humanitarian programs with Pakistan and the Resistance and support nationwide UN food aid."
+ ]
+}

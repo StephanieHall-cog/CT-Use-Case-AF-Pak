@@ -1,0 +1,387 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc71-2001-02-06-sunni-terrorist-threat-growing",
+  "title": "Sunni Terrorist Threat Growing",
+  "authors": "Central Intelligence Agency (Senior Executive Intelligence Brief)",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "2001-02-06",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7xgb-ivxcp/2001-02-06-sunni-terrorist-threat-growing-senior.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 2,
+  "kind": "briefing",
+  "note": "Describes a spike in network activity from Bin Ladin letting al-Qa'ida cells plan more independently to avoid implicating himself and his Taliban hosts. Also notes increased mujahidin recruitment since the Chechnya conflict resumed in 1999, with training at al-Qa'ida camps in Afghanistan.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 71",
+  "relevance": "high",
+  "ocr": 0
+ },
+ "persons": [
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Usama Bin Ladin",
+    "Bin Ladin"
+   ],
+   "role": "Most influential figure in the international jihad movement; leader of al-Qa'ida",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Usama ijin Ladi,n remains the most influential figure .in the movement"
+    },
+    {
+     "timestamp": "p.1",
+     "quote": "To avoid implicating'lrlmseif and his Taliban hosts, Bin Laclin over_ the past two years has allowed celis in his network"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "al-Qa'ida",
+   "aliases": [
+    "al-Qaeda"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Network whose cells were allowed to plan attacks more independently of central leadership; runs training camps in Afghanistan that exposed Chechnya-era recruits to terrorist techniques."
+  },
+  {
+   "name": "Taliban",
+   "aliases": [],
+   "type": "political movement",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Described as Bin Ladin's hosts."
+  },
+  {
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Author of the brief; monitoring reports of further planned attacks."
+  },
+  {
+   "name": "Egyptian and North African terrorist groups",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qa'ida"
+   ],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Part of the international jihad movement."
+  },
+  {
+   "name": "Mujahidin in Chechnya, Kashmir, and Central Asia",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qa'ida"
+   ],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Part of the movement; Chechnya conflict resumption in 1999 drove recruitment."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Location of al-Qa'ida-run training camps and Taliban hosts of Bin Ladin."
+  },
+  {
+   "name": "Aden",
+   "type": "city",
+   "country": "Yemen",
+   "parent": "Yemen",
+   "significance": "Suspects in the USS Cole bombing first tried to attack a US warship there."
+  },
+  {
+   "name": "Jordan",
+   "type": "country",
+   "country": "Jordan",
+   "parent": "",
+   "significance": "Plots linked to Bin Ladin."
+  },
+  {
+   "name": "Canada",
+   "type": "country",
+   "country": "Canada",
+   "parent": "",
+   "significance": "Plots linked to Bin Ladin."
+  },
+  {
+   "name": "Chechnya",
+   "type": "region",
+   "country": "Russia",
+   "parent": "Russia",
+   "significance": "Conflict resumed in 1999, boosting mujahidin recruitment."
+  },
+  {
+   "name": "Kashmir",
+   "type": "region",
+   "country": "",
+   "parent": "",
+   "significance": "Area where mujahidin fight."
+  },
+  {
+   "name": "Central Asia",
+   "type": "region",
+   "country": "",
+   "parent": "",
+   "significance": "Area where mujahidin fight."
+  },
+  {
+   "name": "Yemen",
+   "type": "country",
+   "country": "Yemen",
+   "parent": "",
+   "significance": "Cole bombing investigation points to Yemeni jihadists."
+  }
+ ],
+ "events": [
+  {
+   "date": "2001-02-06",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA Senior Executive Intelligence Brief reports a surge in Sunni terrorist plotting linked to Bin Ladin's network.",
+   "place": "",
+   "actors": [
+    "Central Intelligence Agency",
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1999",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Resumption of conflict in Chechnya triggers a sharp increase in mujahidin recruitment and training at al-Qa'ida camps in Afghanistan.",
+   "place": "Chechnya",
+   "actors": [
+    "al-Qa'ida"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2000",
+   "date_precision": "year",
+   "type": "attack",
+   "description": "Bombing of the USS Cole; suspects first tried to attack a US warship in Aden; Yemeni and Saudi jihadists with varying ties to Bin Ladin implicated.",
+   "place": "Aden",
+   "actors": [
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2000",
+   "date_precision": "year",
+   "type": "attack",
+   "description": "Bombing of USS Cole; suspects first tried to attack a US warship in Aden.",
+   "place": "Aden",
+   "actors": [
+    "USS Cole bombing suspects"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1999",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Resumption of the conflict in Chechnya, which led to a sharp increase in mujahidin recruitment and training in al-Qa'ida camps.",
+   "place": "Chechnya",
+   "actors": [
+    "Mujahidin in Chechnya, Kashmir, and Central Asia",
+    "al-Qa'ida"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-02-06",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA Senior Executive Intelligence Brief warning of growing Sunni terrorist threat from the Bin Ladin-linked network.",
+   "place": "",
+   "actors": [
+    "Central Intelligence Agency",
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Usama bin Ladin",
+   "target": "Taliban",
+   "type": "hosted_by",
+   "detail": "Bin Ladin is hosted by the Taliban in Afghanistan.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "To avoid implicating'lrlmseif and his Taliban hosts"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "al-Qa'ida",
+   "type": "leads",
+   "detail": "Bin Ladin heads the al-Qa'ida network, whose cells he allowed to plan more independently.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "has allowed celis in his network, al-Qa'ida, to plan attacks more independently of the central leadership"
+  },
+  {
+   "source": "Egyptian and North African terrorist groups",
+   "target": "al-Qa'ida",
+   "type": "allied_with",
+   "detail": "Included in the jihad movement in which Bin Ladin is most influential.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "which includes Egyptian and North African terrorist groups and mujahiqin fighting in areas such as Chechnya, Kashmir, and Central Asia"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Egyptian and North African terrorist groups",
+   "type": "allied_with",
+   "detail": "Bin Ladin is the most influential figure in the jihad movement that includes Egyptian and North African terrorist groups.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Usama ijin Ladi,n remains the most influential figure .in the movement, which - · includes Egyptian and North African terrorist groups"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Mujahidin in Chechnya, Kashmir, and Central Asia",
+   "type": "allied_with",
+   "detail": "Bin Ladin is the most influential figure in a movement that includes mujahidin fighting in Chechnya, Kashmir, and Central Asia.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "includes Egyptian and North African terrorist groups and mujahiqin fighting in areas such as Chechnya, Kashmir, and Central Asia."
+  },
+  {
+   "source": "al-Qa'ida",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Al-Qa'ida runs training camps in Afghanistan.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "training at al-Qa'ida-run camps in Afghanistan."
+  },
+  {
+   "source": "Mujahidin in Chechnya, Kashmir, and Central Asia",
+   "target": "al-Qa'ida",
+   "type": "trained_by",
+   "detail": "A new generation of militants was exposed to terrorist techniques via training at al-Qa'ida-run camps in Afghanistan after 1999.",
+   "date": "1999",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "expos~ a new generation of militarits to terrorist t~hniques and extre.Qlist ideology through training at al-Qa'ida-run camps in Afghanistan."
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Bin Ladin is hosted by the Taliban in Afghanistan.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "To avoid implicating'lrlmseif and his Taliban hosts"
+  },
+  {
+   "source": "Taliban",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Taliban host Bin Ladin; al-Qa'ida camps are in Afghanistan.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "his Taliban hosts"
+  },
+  {
+   "source": "USS Cole bombing suspects",
+   "target": "Usama bin Ladin",
+   "type": "other",
+   "detail": "Yemeni and Saudi jihadists involved in the Cole bombing had varying ties to Bin Ladin.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "involvement of Yemeni and Saudi jihadists with varying ties to BinLadin."
+  },
+  {
+   "source": "USS Cole bombing suspects",
+   "target": "Aden",
+   "type": "located_in",
+   "detail": "The Cole suspects first tried to attack a US warship in Aden.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "suspects in the bombing Qf the USS Cole first tried to attack a VS warshi:p in Aden."
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Jordan",
+   "type": "other",
+   "detail": "Plot suspects in Jordan were linked to Bin Ladin.",
+   "date": "2001",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "linked to Bin Ladin in Jordan and Canada"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Canada",
+   "type": "other",
+   "detail": "Plot suspects in Canada were linked to Bin Ladin.",
+   "date": "2001",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "linked to Bin Ladin in Jordan and Canada"
+  },
+  {
+   "source": "Aden",
+   "target": "Yemen",
+   "type": "located_in",
+   "detail": "Aden is in Yemen.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "first tried to attack a VS warshi:p in Aden."
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "An energized international jihad movement is raising the threat to US interests, especially in the Middle East and Europe.",
+  "Bin Ladin remains the most influential figure in the movement.",
+  "The newly detected plots are the biggest spike in network terrorist activity since the millennium.",
+  "Bin Ladin has let al-Qa'ida cells plan more independently to avoid implicating himself and his Taliban hosts.",
+  "Mujahidin recruitment surged after the 1999 resumption of the Chechnya conflict, with training at al-Qa'ida camps in Afghanistan.",
+  "The USS Cole investigation points to Yemeni and Saudi jihadists with varying ties to Bin Ladin."
+ ]
+}

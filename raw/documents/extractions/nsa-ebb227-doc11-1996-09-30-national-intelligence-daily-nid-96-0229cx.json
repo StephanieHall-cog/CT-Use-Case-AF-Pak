@@ -1,0 +1,580 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb227-doc11-1996-09-30-national-intelligence-daily-nid-96-0229cx",
+  "title": "National Intelligence Daily (NID 96-0229CX)",
+  "authors": "Central Intelligence Agency",
+  "publisher": "National Security Archive (GWU), Pakistan: \"The Taliban's Godfather\"?",
+  "published": "1996-09-30",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB227/11.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB227/index.htm",
+  "pages": 5,
+  "kind": "intelligence report",
+  "note": "[Top Secret] Four days after the Taliban took Kabul, the CIA notes the Taliban closed camps tied to Hekmatyar, Sayyaf and Jamaat-i-Islami but not those associated with bin Laden, Hizb-i-Islami (Khalis), Jamiat-Ulema-i-Islam and Harakat ul-Ansar, including HUA's main camp in Khowst.",
+  "collection": "NSAEBB227",
+  "doc_number": "Document 11",
+  "relevance": "high",
+  "ocr": 5
+ },
+ "persons": [
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Usama bin Laden"
+   ],
+   "role": "Patron of militant training camps in Afghanistan that the Taliban had not closed",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.3",
+     "quote": "Taliban has not closed other camps associated with Usama bin Ladin, Hizbi Islami (Khalis), Pakistan's Jamiat-Ulema-i-Islam, and Harakat ul-Ansar"
+    }
+   ]
+  },
+  {
+   "name": "Gulbuddin Hikmatyar",
+   "aliases": [
+    "Gulbuddin Hekmatyar",
+    "Hikmatyar"
+   ],
+   "role": "Factional leader whose associated militant training camps were closed by the Taliban",
+   "organizations": [
+    "Hizb-i Islami (Hikmatyar)"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.3",
+     "quote": "has closed militant training camps associated with Hikmatyar, factional leader Sayyaf, and Pakistan's Jamaat-i-Islami"
+    }
+   ]
+  },
+  {
+   "name": "Sayyaf",
+   "aliases": [
+    "Abdul Rasul Sayyaf",
+    "Abd al-Rabb al-Rasul Sayyaf"
+   ],
+   "role": "Afghan factional leader whose associated training camps were closed by the Taliban",
+   "organizations": [],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.3",
+     "quote": "camps associated with Hikmatyar, factional leader Sayyaf, and Pakistan's Jamaat-i-Islami"
+    }
+   ]
+  },
+  {
+   "name": "Burhanuddin Rabbani",
+   "aliases": [
+    "Rabbani"
+   ],
+   "role": "Deposed President of Afghanistan, supported by India",
+   "organizations": [
+    "Jamiat-i Islami"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Kabul"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.4",
+     "quote": "India probably will continue to support deposed President Rabbani"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Taliban",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Pakistan"
+   ],
+   "rivals": [
+    "Iran",
+    "India",
+    "Rabbani government"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Captured Kabul in Sept 1996; mixed record on terrorism, closing some camps while tolerating others; predominantly Pashtun."
+  },
+  {
+   "name": "Hizb-i Islami (Khalis)",
+   "aliases": [
+    "Hizbi Islami (Khalis)"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Camps not closed by Taliban."
+  },
+  {
+   "name": "Hizb-i Islami (Hikmatyar)",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Implied by reference to camps associated with Hikmatyar, which the Taliban closed."
+  },
+  {
+   "name": "Harakat ul-Ansar",
+   "aliases": [
+    "HUA"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Its main training camp in Khowst was not closed by the Taliban."
+  },
+  {
+   "name": "Jamiat-Ulema-i-Islam",
+   "aliases": [
+    "JUI"
+   ],
+   "type": "political movement",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Associated camps not closed by the Taliban."
+  },
+  {
+   "name": "Jamaat-i-Islami",
+   "aliases": [
+    "Jamaat-e-Islami"
+   ],
+   "type": "political movement",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Associated militant training camps closed by the Taliban."
+  },
+  {
+   "name": "Pakistan government",
+   "aliases": [
+    "Islamabad"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Appears ready to recognize the Taliban; some Taliban believe the US funnels aid via Pakistani authorities."
+  },
+  {
+   "name": "United Nations",
+   "aliases": [
+    "UN"
+   ],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Peace process in which the Taliban showed scant interest."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Subject of the Taliban victory analysis"
+  },
+  {
+   "name": "Kabul",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Newly seized by the Taliban"
+  },
+  {
+   "name": "Khowst",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Site of HUA main training camp"
+  },
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Ready to recognize the Taliban"
+  },
+  {
+   "name": "Iran",
+   "type": "country",
+   "country": "Iran",
+   "parent": "",
+   "significance": "Opposed the Taliban but tempered its criticism"
+  },
+  {
+   "name": "India",
+   "type": "country",
+   "country": "India",
+   "parent": "",
+   "significance": "Supports Rabbani"
+  },
+  {
+   "name": "Uzbekistan",
+   "type": "country",
+   "country": "Uzbekistan",
+   "parent": "",
+   "significance": "Concerned about Taliban ambitions"
+  }
+ ],
+ "events": [
+  {
+   "date": "1996-09-30",
+   "date_precision": "day",
+   "type": "other",
+   "description": "CIA assessment of the impact of the Taliban victory in Kabul: consolidation, a mixed record on terrorism, regional reactions.",
+   "place": "Kabul",
+   "actors": [
+    "Taliban"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1996-09",
+   "date_precision": "month",
+   "type": "offensive",
+   "description": "Taliban take Kabul and depose President Rabbani.",
+   "place": "Kabul",
+   "actors": [
+    "Taliban",
+    "Burhanuddin Rabbani"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1996-09",
+   "date_precision": "month",
+   "type": "offensive",
+   "description": "Taliban victory in Kabul; deposed Rabbani; Taliban consolidating rule.",
+   "place": "Kabul",
+   "actors": [
+    "Taliban",
+    "Burhanuddin Rabbani"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1996-09",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Taliban closed militant training camps associated with Hikmatyar, Sayyaf, and Jamaat-i-Islami while leaving bin Ladin, Khalis, JUI and HUA camps open.",
+   "place": "Afghanistan",
+   "actors": [
+    "Taliban",
+    "Gulbuddin Hikmatyar",
+    "Sayyaf",
+    "Jamaat-i-Islami",
+    "Usama bin Ladin",
+    "Harakat ul-Ansar"
+   ],
+   "timestamp": "p.3"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Taliban",
+   "target": "Hizb-i Islami (Hikmatyar)",
+   "type": "rival_of",
+   "detail": "Taliban closed militant training camps associated with Hikmatyar.",
+   "date": "1996",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "has closed militant training camps associated with Hikmatyar, factional leader Sayyaf, and Pakistan's Jamaat-i-Islami"
+  },
+  {
+   "source": "Taliban",
+   "target": "Usama bin Ladin",
+   "type": "other",
+   "detail": "Taliban tolerated camps associated with bin Ladin.",
+   "date": "1996",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "Taliban has not closed other camps associated with Usama bin Ladin"
+  },
+  {
+   "source": "Taliban",
+   "target": "Harakat ul-Ansar",
+   "type": "other",
+   "detail": "Taliban tolerated HUA camps including the main camp in Khowst.",
+   "date": "1996",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "including the HUA's main training camp in Khowst"
+  },
+  {
+   "source": "Harakat ul-Ansar",
+   "target": "Khowst",
+   "type": "located_in",
+   "detail": "HUA main training camp is in Khowst.",
+   "date": "1996",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "the HUA's main training camp in Khowst"
+  },
+  {
+   "source": "Taliban",
+   "target": "Jamiat-Ulema-i-Islam",
+   "type": "other",
+   "detail": "Taliban did not close camps associated with JUI.",
+   "date": "1996",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "camps associated with Usama bin Ladin, Hizbi Islami (Khalis), Pakistan's Jamiat-Ulema-i-Islam"
+  },
+  {
+   "source": "Taliban",
+   "target": "Hizb-i Islami (Khalis)",
+   "type": "other",
+   "detail": "Taliban did not close Khalis-associated camps.",
+   "date": "1996",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "Taliban has not closed other camps associated with Usama bin Ladin, Hizbi Islami (Khalis)"
+  },
+  {
+   "source": "India",
+   "target": "Burhanuddin Rabbani",
+   "type": "other",
+   "detail": "India probably continues to support Rabbani.",
+   "date": "1996",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "India probably will continue to support deposed President Rabbani"
+  },
+  {
+   "source": "Pakistan government",
+   "target": "Taliban",
+   "type": "allied_with",
+   "detail": "Pakistan appears ready to recognize the Taliban as legitimate ruler.",
+   "date": "1996",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "Pakistan appears ready to recognize Taliban as the legitimate ruler of Afghanistan"
+  },
+  {
+   "source": "Taliban",
+   "target": "Hizb-i Islami (Hikmatyar)",
+   "type": "rival_of",
+   "detail": "Taliban closed militant training camps associated with Hikmatyar.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "has closed militant training camps associated with Hikmatyar, factional leader Sayyaf, and Pakistan's Jamaat-i-Islami."
+  },
+  {
+   "source": "Taliban",
+   "target": "Gulbuddin Hikmatyar",
+   "type": "rival_of",
+   "detail": "Taliban shut down training camps associated with Hikmatyar.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "has closed militant training camps associated with Hikmatyar, factional leader Sayyaf, and Pakistan's Jamaat-i-Islami."
+  },
+  {
+   "source": "Taliban",
+   "target": "Sayyaf",
+   "type": "rival_of",
+   "detail": "Taliban closed militant training camps associated with Sayyaf.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "has closed militant training camps associated with Hikmatyar, factional leader Sayyaf, and Pakistan's Jamaat-i-Islami."
+  },
+  {
+   "source": "Taliban",
+   "target": "Jamaat-i-Islami",
+   "type": "rival_of",
+   "detail": "Taliban closed training camps associated with Pakistan's Jamaat-i-Islami.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "has closed militant training camps associated with Hikmatyar, factional leader Sayyaf, and Pakistan's Jamaat-i-Islami."
+  },
+  {
+   "source": "Taliban",
+   "target": "Usama bin Ladin",
+   "type": "other",
+   "detail": "Taliban tolerated and did not close camps associated with bin Ladin.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "Taliban has not closed other camps associated with Usama bin Ladin, Hizbi Islami (Khalis), Pakistan's Jamiat-Ulema-i-Islam, and Harakat ul-Ansar"
+  },
+  {
+   "source": "Taliban",
+   "target": "Hizb-i Islami (Khalis)",
+   "type": "other",
+   "detail": "Taliban tolerated camps associated with Hizb-i Islami (Khalis).",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "Taliban has not closed other camps associated with Usama bin Ladin, Hizbi Islami (Khalis), Pakistan's Jamiat-Ulema-i-Islam"
+  },
+  {
+   "source": "Taliban",
+   "target": "Jamiat-Ulema-i-Islam",
+   "type": "other",
+   "detail": "Taliban tolerated camps associated with Jamiat-Ulema-i-Islam.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "Pakistan's Jamiat-Ulema-i-Islam, and Harakat ul-Ansar, including the HUA's main training camp in Khowst."
+  },
+  {
+   "source": "Taliban",
+   "target": "Harakat ul-Ansar",
+   "type": "other",
+   "detail": "Taliban tolerated Harakat ul-Ansar camps, including its main camp in Khowst.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "Harakat ul-Ansar, including the HUA's main training camp in Khowst."
+  },
+  {
+   "source": "Harakat ul-Ansar",
+   "target": "Khowst",
+   "type": "located_in",
+   "detail": "HUA's main training camp is in Khowst.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "including the HUA's main training camp in Khowst."
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Camps associated with bin Ladin operate in Afghanistan.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "camps associated with Usama bin Ladin"
+  },
+  {
+   "source": "Taliban",
+   "target": "Kabul",
+   "type": "located_in",
+   "detail": "Taliban focus on consolidating rule in Kabul.",
+   "date": "1996-09",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "Taliban's immediate focus will be to consolidate its rule in Kabul"
+  },
+  {
+   "source": "Taliban",
+   "target": "United Nations",
+   "type": "other",
+   "detail": "Taliban showed scant interest in UN peace process.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "Taliban has demonstrated scant interest in the UN peace process"
+  },
+  {
+   "source": "Pakistan government",
+   "target": "Taliban",
+   "type": "allied_with",
+   "detail": "Pakistan appears ready to recognize Taliban as legitimate ruler.",
+   "date": "1996-09",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "Pakistan appears ready to recognize Taliban as the legitimate ruler of Afghanistan."
+  },
+  {
+   "source": "Iran",
+   "target": "Taliban",
+   "type": "rival_of",
+   "detail": "Iran has opposed Taliban, though tempered criticism.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "neighbors—such as Iran—that have opposed Taliban."
+  },
+  {
+   "source": "India",
+   "target": "Burhanuddin Rabbani",
+   "type": "allied_with",
+   "detail": "India probably will continue to support deposed President Rabbani.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "India probably will continue to support deposed President Rabbani"
+  },
+  {
+   "source": "Uzbekistan",
+   "target": "Taliban",
+   "type": "rival_of",
+   "detail": "Uzbek officials concerned about Taliban spreading influence.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "Officials in Uzbekistan are particularly concerned that Taliban harbors ambitions of spreading its influence"
+  },
+  {
+   "source": "Taliban",
+   "target": "Pakistan government",
+   "type": "funded_by",
+   "detail": "Some Taliban officials believe the US funneled assistance to Taliban through Pakistani authorities (belief, not confirmed).",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.5",
+   "quote": "convinced the US has been funneling assistance to Taliban through Pakistani authorities"
+  }
+ ],
+ "sources_cited": [
+  "Press reports"
+ ],
+ "key_claims": [
+  "The Taliban tolerated some terrorist groups while closing others.",
+  "Taliban closed camps linked to Hikmatyar, Sayyaf and Pakistan's Jamaat-i-Islami but not those linked to bin Ladin, Khalis, JUI or HUA.",
+  "HUA's main training camp in Khowst remained open under Taliban rule.",
+  "Pakistan alone among neighbors seemed ready to recognize the Taliban, but would go slowly.",
+  "Some Taliban officials believe the US has funneled assistance to them through Pakistani authorities.",
+  "The Taliban were expected to face ethnic minority resistance in the north."
+ ]
+}

@@ -1,0 +1,448 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb396-doc03-1978-07-11-memorandum-of-conversation-soviet-ambassador-puzan",
+  "title": "Memorandum of Conversation, Soviet Ambassador Puzanov with Hafizullah Amin",
+  "authors": "Soviet Ambassador A.M. Puzanov",
+  "publisher": "National Security Archive (GWU), SOVIET INVASION OF AFGHANISTAN A CASE OF MISSION CREEP, ACCORDING TO NEW BOOK AND ORIGINAL SOVIET DOCUMENTS",
+  "published": "1978-07-11",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB396/docs/1978-07-11 Conversation with Amin.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB396/",
+  "pages": 2,
+  "kind": "memo",
+  "note": "Memorandum of conversation between Soviet Ambassador Puzanov and Hafizullah Amin.",
+  "collection": "NSAEBB396",
+  "doc_number": "Document 3",
+  "relevance": "high",
+  "ocr": 0
+ },
+ "persons": [
+  {
+   "name": "Hafizullah Amin",
+   "aliases": [
+    "H. Amin"
+   ],
+   "role": "Secretary of the PDPA Central Committee, Deputy Prime Minister and Minister of Foreign Affairs of the DRA",
+   "organizations": [
+    "People's Democratic Party of Afghanistan (PDPA)",
+    "Democratic Republic of Afghanistan government"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Kabul"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Secretary of the PDPA Central Committee, Deputy Prime Minister and Minister of Foreign Affairs of the Democratic Republic of Afghanistan Hafizullah Amin"
+    },
+    {
+     "timestamp": "p.1",
+     "quote": "We have no secrets from our Soviet friends"
+    }
+   ]
+  },
+  {
+   "name": "A.M. Puzanov",
+   "aliases": [
+    "Aleksandr Puzanov",
+    "A. Puzanov"
+   ],
+   "role": "USSR Ambassador to the Democratic Republic of Afghanistan",
+   "organizations": [
+    "Soviet Embassy in Kabul"
+   ],
+   "nationality_or_origin": "Soviet",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Kabul"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "I visited H. Amin at the Ministry of Foreign Affairs and introduced to him the delegation from the USSR Academy of Sciences"
+    }
+   ]
+  },
+  {
+   "name": "M.S. Asimov",
+   "aliases": [
+    "Mukhamedzhan Asimov"
+   ],
+   "role": "Head of USSR Academy of Sciences delegation; President of the Academy of Sciences of the Tajik SSR",
+   "organizations": [
+    "USSR Academy of Sciences",
+    "Academy of Sciences of the Tajik SSR"
+   ],
+   "nationality_or_origin": "Soviet (Tajik SSR)",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Kabul"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "headed by the President of the Academy of Sciences of the Tajik SSR, corresponding member of the USSR Academy of Sciences M.S. Asimov"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "People's Democratic Party of Afghanistan (PDPA)",
+   "aliases": [
+    "PDPA"
+   ],
+   "type": "political movement",
+   "parent_or_allies": [
+    "Soviet Union"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Ruling party after the Saur (April) Revolution of 1978; Amin was Central Committee secretary."
+  },
+  {
+   "name": "Democratic Republic of Afghanistan government",
+   "aliases": [
+    "DRA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Soviet Union"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Ministry of Foreign Affairs hosted the meeting."
+  },
+  {
+   "name": "USSR Academy of Sciences",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [
+    "Soviet Union"
+   ],
+   "rivals": [],
+   "country_base": "USSR",
+   "notes": "Delegation visited for talks on scientific cooperation."
+  },
+  {
+   "name": "Academy of Sciences of the Tajik SSR",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [
+    "USSR Academy of Sciences"
+   ],
+   "rivals": [],
+   "country_base": "Tajik SSR",
+   "notes": "Headed by Asimov."
+  },
+  {
+   "name": "Soviet Embassy in Kabul",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Soviet Union"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Amin said it always helps in times of trouble."
+  },
+  {
+   "name": "Soviet Union",
+   "aliases": [
+    "USSR"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "USSR",
+   "notes": "Patron of the PDPA regime."
+  }
+ ],
+ "places": [
+  {
+   "name": "Kabul",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Location of the talks between delegations."
+  },
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Democratic Republic of Afghanistan after the Saur Revolution."
+  },
+  {
+   "name": "Tajik SSR",
+   "type": "region",
+   "country": "USSR",
+   "parent": "USSR",
+   "significance": "Home of Asimov's academy."
+  }
+ ],
+ "events": [
+  {
+   "date": "1978-07-11",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "Puzanov introduces Soviet Academy of Sciences delegation to Hafizullah Amin at Ministry of Foreign Affairs; Amin pledges maximum assistance and says there are no secrets from the Soviets.",
+   "place": "Kabul",
+   "actors": [
+    "A.M. Puzanov",
+    "Hafizullah Amin",
+    "M.S. Asimov"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1978-04",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Saur (April) Revolution brings the PDPA to power in Afghanistan.",
+   "place": "Afghanistan",
+   "actors": [
+    "People's Democratic Party of Afghanistan (PDPA)"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1978-07-11",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "Puzanov introduced the USSR Academy of Sciences delegation led by Asimov to Amin at the Foreign Ministry; discussed scientific and cultural cooperation.",
+   "place": "Kabul",
+   "actors": [
+    "A.M. Puzanov",
+    "Hafizullah Amin",
+    "M.S. Asimov",
+    "USSR Academy of Sciences"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1978-07",
+   "date_precision": "month",
+   "type": "travel",
+   "description": "Soviet Academy of Sciences delegation arrived in Afghanistan for talks on scientific cooperation.",
+   "place": "Afghanistan",
+   "actors": [
+    "M.S. Asimov",
+    "USSR Academy of Sciences"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1978-04",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Saur (April) Revolution referenced as the victory of the PDPA.",
+   "place": "Afghanistan",
+   "actors": [
+    "People's Democratic Party of Afghanistan (PDPA)"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Hafizullah Amin",
+   "target": "A.M. Puzanov",
+   "type": "met_with",
+   "detail": "Amin received Puzanov and the Soviet delegation at the Foreign Ministry.",
+   "date": "1978-07-11",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "I visited H. Amin at the Ministry of Foreign Affairs and introduced to him the delegation"
+  },
+  {
+   "source": "Hafizullah Amin",
+   "target": "M.S. Asimov",
+   "type": "met_with",
+   "detail": "Amin welcomed Asimov's delegation.",
+   "date": "1978-07-11",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "H. Amin welcomed the Soviet delegation to revolutionary Afghanistan"
+  },
+  {
+   "source": "M.S. Asimov",
+   "target": "USSR Academy of Sciences",
+   "type": "member_of",
+   "detail": "Corresponding member and head of delegation.",
+   "date": "1978-07-11",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "corresponding member of the USSR Academy of Sciences M.S. Asimov"
+  },
+  {
+   "source": "M.S. Asimov",
+   "target": "Academy of Sciences of the Tajik SSR",
+   "type": "leads",
+   "detail": "Asimov is President of the Tajik SSR Academy.",
+   "date": "1978-07-11",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "President of the Academy of Sciences of the Tajik SSR"
+  },
+  {
+   "source": "Hafizullah Amin",
+   "target": "People's Democratic Party of Afghanistan (PDPA)",
+   "type": "member_of",
+   "detail": "Secretary of the PDPA Central Committee.",
+   "date": "1978-07-11",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Secretary of the PDPA Central Committee"
+  },
+  {
+   "source": "A.M. Puzanov",
+   "target": "Soviet Embassy in Kabul",
+   "type": "leads",
+   "detail": "Puzanov is the USSR ambassador.",
+   "date": "1978-07-11",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "USSR Ambassador in the Democratic Republic of Afghanistan"
+  },
+  {
+   "source": "Democratic Republic of Afghanistan government",
+   "target": "Soviet Union",
+   "type": "allied_with",
+   "detail": "Amin says Soviets give full support and assistance.",
+   "date": "1978-07-11",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "our Soviet friends, who give us their full support and assistance"
+  },
+  {
+   "source": "Hafizullah Amin",
+   "target": "Democratic Republic of Afghanistan government",
+   "type": "member_of",
+   "detail": "Amin was Deputy Prime Minister and Minister of Foreign Affairs of the DRA.",
+   "date": "1978-07-11",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Deputy Prime Minister and Minister of Foreign Affairs of the Democratic Republic of Afghanistan Hafizullah Amin"
+  },
+  {
+   "source": "A.M. Puzanov",
+   "target": "Soviet Union",
+   "type": "member_of",
+   "detail": "Puzanov represented the USSR as ambassador.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "USSR Ambassador in the Democratic Republic of Afghanistan"
+  },
+  {
+   "source": "A.M. Puzanov",
+   "target": "Hafizullah Amin",
+   "type": "met_with",
+   "detail": "Puzanov visited Amin at the Foreign Ministry and introduced the Academy delegation.",
+   "date": "1978-07-11",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "I visited H. Amin at the Ministry of Foreign Affairs and introduced to him the delegation from the USSR Academy of Sciences"
+  },
+  {
+   "source": "M.S. Asimov",
+   "target": "Hafizullah Amin",
+   "type": "met_with",
+   "detail": "Asimov, as head of the Soviet scientific delegation, met Amin and discussed cooperation.",
+   "date": "1978-07-11",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "the head of the Soviet delegation congratulated H. Amin with the victory of the April Revolution"
+  },
+  {
+   "source": "M.S. Asimov",
+   "target": "Academy of Sciences of the Tajik SSR",
+   "type": "leads",
+   "detail": "Asimov was President of the Tajik SSR Academy of Sciences.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "headed by the President of the Academy of Sciences of the Tajik SSR"
+  },
+  {
+   "source": "M.S. Asimov",
+   "target": "USSR Academy of Sciences",
+   "type": "member_of",
+   "detail": "Asimov was a corresponding member of the USSR Academy of Sciences and led its delegation.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "corresponding member of the USSR Academy of Sciences M.S. Asimov"
+  },
+  {
+   "source": "Academy of Sciences of the Tajik SSR",
+   "target": "Tajik SSR",
+   "type": "located_in",
+   "detail": "The academy is the Tajik SSR's academy.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "President of the Academy of Sciences of the Tajik SSR"
+  },
+  {
+   "source": "USSR Academy of Sciences",
+   "target": "Afghanistan",
+   "type": "other",
+   "detail": "The Academy delegation arrived in Afghanistan for talks on scientific cooperation.",
+   "date": "1978-07",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "The delegation arrived in Afghanistan for talks on Soviet-Afghan scientific cooperation."
+  },
+  {
+   "source": "Democratic Republic of Afghanistan government",
+   "target": "Soviet Union",
+   "type": "allied_with",
+   "detail": "Amin describes close relations and full Soviet support and assistance.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "we have always been very sincere and close with our Soviet friends, who give us their full support and assistance"
+  },
+  {
+   "source": "Democratic Republic of Afghanistan government",
+   "target": "Soviet Embassy in Kabul",
+   "type": "other",
+   "detail": "Amin says the Soviet embassy always helps in times of trouble, key to the revolution's victory.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "The Soviet embassy always helps us in times of trouble, and this is key to the victory of our revolution."
+  },
+  {
+   "source": "People's Democratic Party of Afghanistan (PDPA)",
+   "target": "Soviet Union",
+   "type": "other",
+   "detail": "PDPA regards Soviet experience as a main condition of its success.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "the experience of the Soviet Union is one of the main conditions of our success"
+  },
+  {
+   "source": "Soviet Embassy in Kabul",
+   "target": "Kabul",
+   "type": "located_in",
+   "detail": "Embassy located in Kabul.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "The Soviet embassy always helps us in times of trouble"
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "Amin publicly professed total closeness to the USSR, stating the PDPA teaches members patriotism, Marxism, Sovietism and internationalism.",
+  "Amin credited the Soviet embassy with being key to the victory of the Saur Revolution.",
+  "The meeting concerned Soviet-Afghan scientific and cultural cooperation after the April 1978 revolution.",
+  "Amin warned both sides would bear responsibility for any unrealistic projects."
+ ]
+}

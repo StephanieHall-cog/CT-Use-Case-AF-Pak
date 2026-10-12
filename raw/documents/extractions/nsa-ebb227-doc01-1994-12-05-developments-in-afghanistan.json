@@ -1,0 +1,626 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb227-doc01-1994-12-05-developments-in-afghanistan",
+  "title": "Developments in Afghanistan",
+  "authors": "[Excised] to Ron McMullen (Afghanistan Desk)",
+  "publisher": "National Security Archive (GWU), Pakistan: \"The Taliban's Godfather\"?",
+  "published": "1994-12-05",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB227/1.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB227/index.htm",
+  "pages": 1,
+  "kind": "memo",
+  "note": "[Unknown] As the Taliban emerge as a major player, a source (name excised) is troubled by Pakistan's deep involvement in Afghan politics and its role in the Taliban's recent successes. He says the ISI is deeply involved in the Taliban takeover of Kandahar and Qalat, and that Pakistan's agenda will sabotage UN peace efforts led by Mahmoud Mestiri.",
+  "collection": "NSAEBB227",
+  "doc_number": "Document 1",
+  "relevance": "high",
+  "ocr": 1
+ },
+ "persons": [
+  {
+   "name": "Burhanuddin Rabbani",
+   "aliases": [
+    "Rabbani"
+   ],
+   "role": "President of the Kabul government (Jamiat-i Islami); alleged to have struck a deal with ISI on Taliban expansion",
+   "organizations": [
+    "Jamiat-i Islami"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Kabul",
+    "Herat"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "there is a Rabbani-Isz deal according to which Rabbani has agreed to an Is?"
+    },
+    {
+     "timestamp": "p.1",
+     "quote": "Rabbani is exploiting the widening gulf between Gulbuddin and ISI"
+    }
+   ]
+  },
+  {
+   "name": "Ismail Khan",
+   "aliases": [
+    "Ismael Khan"
+   ],
+   "role": "Ruler of Herat; Rabbani's alleged deal with ISI excludes any challenge to him",
+   "organizations": [],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Herat"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "so jong as it doag not extend te a challenge of Ismail Khan in Herat"
+    }
+   ]
+  },
+  {
+   "name": "Gulbuddin Hekmatyar",
+   "aliases": [
+    "Gulbuddin",
+    "Hekmatyar",
+    "HG"
+   ],
+   "role": "Hezb-i Islami leader, besieging Kabul; ISI's former client, now in a widening gulf with ISI",
+   "organizations": [
+    "Hezb-i Islami",
+    "ISI"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Kabul"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "widening gulf between Gulbuddin and ISI -- growing out of ISI's impression that Gulbuddin will be unable to move beyond the Kabul stalemate"
+    }
+   ]
+  },
+  {
+   "name": "Mahmoud Mestiri",
+   "aliases": [
+    "Mestiri",
+    "Mesterd",
+    "Hesteri",
+    "Mestert"
+   ],
+   "role": "UN Special Envoy whose 'plan' for Afghanistan may be undermined or sabotaged (identification inferred from garbled OCR)",
+   "organizations": [
+    "United Nations"
+   ],
+   "nationality_or_origin": "Tunisian",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "He suspects that the Hesteri plan wiz either be sabotaged or substantially Altered by this undertaking"
+    },
+    {
+     "timestamp": "p.1",
+     "quote": "the implications for Mestert's efforts entailed in these developments"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Taliban",
+   "aliases": [
+    "Taleban"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "ISI"
+   ],
+   "rivals": [
+    "Hezb-i Islami"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Taking over Kandahar and Qalat; alleged to move toward Gardez, Helmand and Farah, with alleged Pakistani military and ISI backing."
+  },
+  {
+   "name": "Inter-Services Intelligence",
+   "aliases": [
+    "ISI"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Government of Pakistan"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Alleged to be deeply involved in the Taliban takeover in Kandahar and Qalat; reportedly drifting from Gulbuddin; alleged deal with Rabbani."
+  },
+  {
+   "name": "Government of Pakistan",
+   "aliases": [
+    "GOP"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Suspected of seeking to 'pacify' Afghanistan to open Central Asia–Karachi trade via the Herat–Kandahar–Chaman road."
+  },
+  {
+   "name": "Pakistan Air Force",
+   "aliases": [
+    "Pak Air Force"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "Government of Pakistan"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Alleged to be readying Kandahar airport to support larger Taliban military operations."
+  },
+  {
+   "name": "Hezb-i Islami",
+   "aliases": [
+    "HG",
+    "Hezb-e Islami Gulbuddin"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Gulbuddin's faction, stalemated at Kabul and losing ISI favour."
+  },
+  {
+   "name": "Jamiat-i Islami",
+   "aliases": [
+    "Rabbani government"
+   ],
+   "type": "political movement",
+   "parent_or_allies": [],
+   "rivals": [
+    "Hezb-i Islami"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Rabbani's faction; implied in the Kabul government's alleged deal with ISI."
+  },
+  {
+   "name": "Khalq",
+   "aliases": [
+    "Khalqis"
+   ],
+   "type": "political movement",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Former communist (PDPA Khalq faction) personnel alleged to serve as enforcers for the Taliban in Kandahar."
+  },
+  {
+   "name": "United Nations",
+   "aliases": [
+    "UN"
+   ],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Source of the 'Mestiri plan' for Afghanistan (inferred)."
+  }
+ ],
+ "places": [
+  {
+   "name": "Kandahar",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Kandahar",
+   "significance": "Taliban takeover; airport allegedly being readied by Pakistan Air Force; Khalqis allegedly enforcers there."
+  },
+  {
+   "name": "Qalat",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Zabul",
+   "significance": "Taliban takeover with alleged ISI involvement."
+  },
+  {
+   "name": "Herat",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Herat",
+   "significance": "Ismail Khan's seat; on the Central Asia–Karachi trade route."
+  },
+  {
+   "name": "Chaman",
+   "type": "border crossing",
+   "country": "Pakistan",
+   "parent": "Balochistan",
+   "significance": "Herat–Kandahar–Chaman road (OCR 'Channan') is the planned trade route."
+  },
+  {
+   "name": "Karachi",
+   "type": "city",
+   "country": "Pakistan",
+   "parent": "Sindh",
+   "significance": "Destination of Central Asian commerce."
+  },
+  {
+   "name": "Central Asia",
+   "type": "region",
+   "country": "",
+   "parent": "",
+   "significance": "Origin of commerce Pakistan wants to route south."
+  },
+  {
+   "name": "Dushanbe",
+   "type": "city",
+   "country": "Tajikistan",
+   "parent": "Tajikistan",
+   "significance": "Location of an Afghan contact reporting a Rabbani–ISI deal."
+  },
+  {
+   "name": "Kabul",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Kabul",
+   "significance": "Site of the stalemate with Gulbuddin; Taliban reportedly aimed at involvement there."
+  },
+  {
+   "name": "Gardez",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Paktia",
+   "significance": "Taliban reportedly moving toward it."
+  },
+  {
+   "name": "Quetta",
+   "type": "city",
+   "country": "Pakistan",
+   "parent": "Balochistan",
+   "significance": "Afghans there are source of claims about Pakistani Air Force activity."
+  },
+  {
+   "name": "Helmand",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Expected area of heavier fighting."
+  },
+  {
+   "name": "Farah",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Expected area of heavier fighting."
+  },
+  {
+   "name": "Tashkent",
+   "type": "city",
+   "country": "Uzbekistan",
+   "parent": "Uzbekistan",
+   "significance": "Location of a US journalist reporting Taliban moves toward Gardez."
+  }
+ ],
+ "events": [
+  {
+   "date": "1994-11",
+   "date_precision": "approx",
+   "type": "offensive",
+   "description": "Taliban takeover of Kandahar and Qalat, allegedly with deep ISI involvement.",
+   "place": "Kandahar",
+   "actors": [
+    "Taliban",
+    "Inter-Services Intelligence"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1994-12-05",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Memo reporting weekend concerns on Afghan network about Pakistani involvement in southern and western Afghanistan.",
+   "place": "",
+   "actors": [
+    "Government of Pakistan",
+    "Taliban"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1994-12",
+   "date_precision": "approx",
+   "type": "agreement",
+   "description": "Alleged Rabbani–ISI deal permitting ISI move into southern and western Afghanistan provided it does not challenge Ismail Khan in Herat.",
+   "place": "",
+   "actors": [
+    "Burhanuddin Rabbani",
+    "Inter-Services Intelligence",
+    "Ismail Khan"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1994-12",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Alleged Pakistan Air Force preparation of Kandahar airport to support larger Taliban operations in Helmand and Farah.",
+   "place": "Kandahar",
+   "actors": [
+    "Pakistan Air Force",
+    "Taliban"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1994-11",
+   "date_precision": "month",
+   "type": "offensive",
+   "description": "Taliban take over Kandahar and Qalat, allegedly with ISI involvement.",
+   "place": "Kandahar",
+   "actors": [
+    "Taliban",
+    "Inter-Services Intelligence"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1994-12",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Reported Rabbani-ISI deal permitting an ISI move into south and west Afghanistan without challenging Ismail Khan in Herat.",
+   "place": "Dushanbe",
+   "actors": [
+    "Burhanuddin Rabbani",
+    "Inter-Services Intelligence",
+    "Ismail Khan"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1994-12",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Alleged Pakistan Air Force preparation of Kandahar airport to support larger operations in Helmand and Farah.",
+   "place": "Kandahar",
+   "actors": [
+    "Pakistan Air Force",
+    "Taliban"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Taliban",
+   "target": "Inter-Services Intelligence",
+   "type": "funded_by",
+   "detail": "ISI alleged to be deeply involved in the Taliban takeover of Kandahar and Qalat (support from ISI).",
+   "date": "1994",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "is deeply involved in the Taleban take Ovér in Kandahar snd Qalat"
+  },
+  {
+   "source": "Taliban",
+   "target": "Pakistan Air Force",
+   "type": "allied_with",
+   "detail": "Pak Air Force officials allegedly readying Kandahar airport to support larger Taliban operations.",
+   "date": "1994-12",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Pak Air Forea officials arg readying Kandahar airport for Support of gstii3 larger nilitary"
+  },
+  {
+   "source": "Burhanuddin Rabbani",
+   "target": "Inter-Services Intelligence",
+   "type": "negotiated_with",
+   "detail": "Alleged deal letting ISI move into the south and west so long as it does not challenge Ismail Khan.",
+   "date": "1994-12",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "there is a Rabbani-Isz deal according to which Rabbani has agreed to an Is?"
+  },
+  {
+   "source": "Gulbuddin Hekmatyar",
+   "target": "Inter-Services Intelligence",
+   "type": "rival_of",
+   "detail": "A widening gulf between Gulbuddin and ISI, which doubts he can move beyond the Kabul stalemate; Rabbani exploiting it.",
+   "date": "1994-12",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Rabbani is exploiting the widening gulf between Gulbuddin and ISI"
+  },
+  {
+   "source": "Gulbuddin Hekmatyar",
+   "target": "Hezb-i Islami",
+   "type": "leads",
+   "detail": "'Gulbuddin (and HG)' refers to Hekmatyar and his Hezb-i Islami.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Gulbuddin will be unable to move beyond the Kabul stalemate"
+  },
+  {
+   "source": "Ismail Khan",
+   "target": "Herat",
+   "type": "located_in",
+   "detail": "Ismail Khan holds Herat, which the alleged deal protects.",
+   "date": "1994-12",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "a challenge of Ismail Khan in Herat"
+  },
+  {
+   "source": "Khalq",
+   "target": "Taliban",
+   "type": "allied_with",
+   "detail": "Old Khalqis allegedly serve as enforcers for the Taliban in Kandahar.",
+   "date": "1994-12",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "old Khalqis are Serving as enforcers in Randahar"
+  },
+  {
+   "source": "Inter-Services Intelligence",
+   "target": "Government of Pakistan",
+   "type": "member_of",
+   "detail": "ISI action treated as part of GOP policy to pacify Afghanistan and open trade routes.",
+   "date": "1994-12",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "the GOP may be Seeking to “pacify” Afghanistan"
+  },
+  {
+   "source": "Government of Pakistan",
+   "target": "Mahmoud Mestiri",
+   "type": "rival_of",
+   "detail": "Informant suspects GOP-backed undertaking will sabotage or alter the Mestiri plan (identification of envoy inferred).",
+   "date": "1994-12",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "the Hesteri plan wiz either be sabotaged or substantially Altered by this undertaking"
+  },
+  {
+   "source": "Inter-Services Intelligence",
+   "target": "Taliban",
+   "type": "allied_with",
+   "detail": "A source says ISI is deeply involved in the Taliban takeover of Kandahar and Qalat.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "is deeply involved in the Taleban take Ovér in Kandahar snd Qalat"
+  },
+  {
+   "source": "Government of Pakistan",
+   "target": "Taliban",
+   "type": "allied_with",
+   "detail": "Afghans allege Pakistani military involvement with the Taliban.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "One Afghan asserts as fact involvement of Pex ailitary with the Taleban"
+  },
+  {
+   "source": "Burhanuddin Rabbani",
+   "target": "Inter-Services Intelligence",
+   "type": "negotiated_with",
+   "detail": "Reported Rabbani-ISI deal allowing an ISI move into the south and west as long as Ismail Khan in Herat is not challenged.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "there is a Rabbani-Isz deal according to which Rabbani has agreed to an Is? Rove into southern and western Afghanistan"
+  },
+  {
+   "source": "Ismail Khan",
+   "target": "Herat",
+   "type": "located_in",
+   "detail": "Ismail Khan holds Herat.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "challenge of Ismail Khan in Herat"
+  },
+  {
+   "source": "Gulbuddin Hekmatyar",
+   "target": "Inter-Services Intelligence",
+   "type": "rival_of",
+   "detail": "A widening gulf exists between Gulbuddin and ISI, which Rabbani is exploiting.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Rabbani is exploiting the widening gulf between Gulbuddin and ISI"
+  },
+  {
+   "source": "Pakistan Air Force",
+   "target": "Kandahar",
+   "type": "located_in",
+   "detail": "PAF officials are allegedly readying Kandahar airport to support Taliban military operations.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Pak Air Forea officials arg readying Kandahar airport for Support"
+  },
+  {
+   "source": "Khalq",
+   "target": "Taliban",
+   "type": "allied_with",
+   "detail": "Former Khalqis allegedly serve as enforcers in Kandahar for the Taliban.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "old Khalqis are Serving as enforcers in Randahar"
+  },
+  {
+   "source": "Taliban",
+   "target": "Gardez",
+   "type": "other",
+   "detail": "Taliban may be moving toward Gardez with Kabul involvement intended.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "the Taleban might be moving toward Gardez"
+  },
+  {
+   "source": "Taliban",
+   "target": "Kandahar",
+   "type": "other",
+   "detail": "Taliban took over Kandahar.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Taleban take Ovér in Kandahar snd Qalat"
+  },
+  {
+   "source": "Taliban",
+   "target": "Qalat",
+   "type": "other",
+   "detail": "Taliban took over Qalat.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Taleban take Ovér in Kandahar snd Qalat"
+  },
+  {
+   "source": "Government of Pakistan",
+   "target": "Mahmoud Mestiri",
+   "type": "other",
+   "detail": "Author fears Pakistani intervention could undermine or be aimed at sabotaging Mestiri's UN plan.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "the implications for Mestert’s efforts entailed in these developments"
+  },
+  {
+   "source": "Mahmoud Mestiri",
+   "target": "United Nations",
+   "type": "member_of",
+   "detail": "Mestiri's plan/efforts are the UN effort; the document refers to the Mestiri plan.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "If the Mesterd Plan is somehow linked to this intervention"
+  }
+ ],
+ "sources_cited": [
+  "Unnamed ISI-connected contact (name excised) reporting ISI involvement",
+  "Afghan contact in Dushanbe",
+  "US journalist in Tashkent",
+  "Afghans in the US in phone contact with Afghans in Quetta"
+ ],
+ "key_claims": [
+  "ISI is alleged to be deeply involved in the Taliban takeover of Kandahar and Qalat.",
+  "Pakistan may be seeking to pacify Afghanistan to open a Central Asia–Karachi trade route via the Herat–Kandahar–Chaman road.",
+  "An alleged Rabbani–ISI deal accepts ISI moves into the south and west as long as Ismail Khan's Herat is not challenged.",
+  "A widening gulf between ISI and Gulbuddin Hekmatyar, caused by the Kabul stalemate, is being exploited by Rabbani.",
+  "Pakistan Air Force is alleged to be readying Kandahar airport to support larger Taliban operations in Helmand and Farah.",
+  "Former Khalqis are alleged to serve as enforcers for the Taliban in Kandahar.",
+  "The author warns that Pakistani intervention will generate resistance in the south and long-term instability, and may undermine the UN (Mestiri) plan."
+ ]
+}

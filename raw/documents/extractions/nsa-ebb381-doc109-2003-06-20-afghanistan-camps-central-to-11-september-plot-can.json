@@ -1,0 +1,1155 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc109-2003-06-20-afghanistan-camps-central-to-11-september-plot-can",
+  "title": "Afghanistan Camps Central to 11 September Plot: Can Al-Qa'ida Train on the Run? (CTC 2003-40071CH)",
+  "authors": "CIA Counterterrorist Center",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "2003-06-20",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7xqj-swjpt/2003-06-20-afghanistan-camps-central-to-11.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 11,
+  "kind": "report",
+  "note": "CIA analytic report on Afghan training camps' role in the 9/11 plot. Source: Chapter 7, Endnotes 89, 93, 102.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 109",
+  "relevance": "high",
+  "ocr": 1
+ },
+ "persons": [
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Bin Ladin"
+   ],
+   "role": "al-Qa'ida leader; personally involved in vetting recruits and the 11 September plot",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Kandahar",
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "it involved direct contact with the al-Qa'ida leadership, including Bin Ladin"
+    },
+    {
+     "timestamp": "p.7",
+     "quote": "Bin Ladin suggested that the hijacker teams in each aircraft comprise individuals who knew each other well"
+    }
+   ]
+  },
+  {
+   "name": "Muhammad Atta",
+   "aliases": [
+    "Muhammed Atta",
+    "Mohamed Atta"
+   ],
+   "role": "senior coordinator of the 11 September plot; Hamburg-based pilot hijacker",
+   "organizations": [
+    "al-Qa'ida",
+    "Hamburg network"
+   ],
+   "nationality_or_origin": "Egyptian",
+   "status": "dead",
+   "status_detail": "died as a hijacker on 11 September 2001",
+   "family": [],
+   "locations": [
+    "Hamburg",
+    "Kandahar",
+    "United States"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.5",
+     "quote": "Muhammad Atta, relayed his updates on the situation in the United States and recommendations for changes in the plan to Afghanistan"
+    },
+    {
+     "timestamp": "p.8",
+     "quote": "Plot senior coordinator Muhammad Atta had enough decisionmaking latitude to seek flight instruction in the United States"
+    }
+   ]
+  },
+  {
+   "name": "Muhammad Heydar Zammar",
+   "aliases": [
+    "Mohammed Haydar Zammar"
+   ],
+   "role": "extremist with suspected al-Qa'ida connections; recruiter of Hamburg pilots",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Germany"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.5",
+     "quote": "Muhammad Heydar Zammar, an extremist with suspected al-Qa'ida connections"
+    }
+   ]
+  },
+  {
+   "name": "Marwan al-Shehhi",
+   "aliases": [
+    "Marwan al-Shehhi"
+   ],
+   "role": "Hamburg-based pilot hijacker",
+   "organizations": [
+    "al-Qa'ida",
+    "Hamburg network"
+   ],
+   "nationality_or_origin": "",
+   "status": "dead",
+   "status_detail": "11 September hijacker",
+   "family": [],
+   "locations": [
+    "Hamburg",
+    "Kandahar"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.5",
+     "quote": "Muhammed Atta, Marwan al-Shehhi.., and Ziad"
+    }
+   ]
+  },
+  {
+   "name": "Ziad Jarrah",
+   "aliases": [
+    "Ziad"
+   ],
+   "role": "Hamburg-based pilot hijacker (name truncated in text)",
+   "organizations": [
+    "al-Qa'ida",
+    "Hamburg network"
+   ],
+   "nationality_or_origin": "",
+   "status": "dead",
+   "status_detail": "11 September hijacker",
+   "family": [],
+   "locations": [
+    "Hamburg"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.5",
+     "quote": "recruited three of the four pilots"
+    }
+   ]
+  },
+  {
+   "name": "Nawaf al-Hazmi",
+   "aliases": [],
+   "role": "hijacker; pilot candidate selected in Kandahar in 1999",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "dead",
+   "status_detail": "11 September hijacker",
+   "family": [
+    {
+     "relation": "brother",
+     "name": "Salim al-Hazmi"
+    }
+   ],
+   "locations": [
+    "Kandahar"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.5",
+     "quote": "Nawaf al-Hazmi probably recommended his brother, Salim al-Hazmi, for recruitment"
+    }
+   ]
+  },
+  {
+   "name": "Salim al-Hazmi",
+   "aliases": [],
+   "role": "second-wave hijacker",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "dead",
+   "status_detail": "11 September hijacker",
+   "family": [
+    {
+     "relation": "brother",
+     "name": "Nawaf al-Hazmi"
+    }
+   ],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.5",
+     "quote": "Salim al-Hazmi, for recruitment"
+    }
+   ]
+  },
+  {
+   "name": "Ramzi Bin al-Shibh",
+   "aliases": [
+    "Ramzi bin al-Shibh"
+   ],
+   "role": "facilitator; pilot candidate selected in Kandahar",
+   "organizations": [
+    "al-Qa'ida",
+    "Hamburg network"
+   ],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Kandahar"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.6",
+     "quote": "the remaining two were hijacker Nawaf al-Hazmi and facilitator Ramzi Bin al-Shibh"
+    }
+   ]
+  },
+  {
+   "name": "Khalid al-Mihdhar",
+   "aliases": [],
+   "role": "Saudi hijacker trained at Khaldan",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "dead",
+   "status_detail": "11 September hijacker",
+   "family": [],
+   "locations": [
+    "Khaldan camp"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.7",
+     "quote": "Khalid al-Mihdhar, Satam al-Suqami, and Majid Muqid-trained at Khaldan"
+    }
+   ]
+  },
+  {
+   "name": "Satam al-Suqami",
+   "aliases": [],
+   "role": "Saudi hijacker trained at Khaldan",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "dead",
+   "status_detail": "11 September hijacker",
+   "family": [],
+   "locations": [
+    "Khaldan camp"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.7",
+     "quote": "Khalid al-Mihdhar, Satam al-Suqami, and Majid Muqid-trained at Khaldan"
+    }
+   ]
+  },
+  {
+   "name": "Majid Muqid",
+   "aliases": [
+    "Majed Moqed"
+   ],
+   "role": "Saudi hijacker trained at Khaldan",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "dead",
+   "status_detail": "11 September hijacker",
+   "family": [],
+   "locations": [
+    "Khaldan camp"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.7",
+     "quote": "Khalid al-Mihdhar, Satam al-Suqami, and Majid Muqid-trained at Khaldan"
+    }
+   ]
+  },
+  {
+   "name": "al-Hamlan",
+   "aliases": [
+    "Ahmed al-Haznawi? (name truncated)"
+   ],
+   "role": "second-wave recruit who trained in Afghanistan in summer 2000, swore oath to Bin Ladin, then had second thoughts",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "unknown",
+   "status_detail": "refused to return to Afghanistan",
+   "family": [],
+   "locations": [
+    "Afghanistan",
+    "Jedda"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.7",
+     "quote": "al-Hamlan felt misgivings about the suicide mission after speaking with a brother and refused to return with al-Nami to Afghanistan"
+    }
+   ]
+  },
+  {
+   "name": "Ahmad al-Nami",
+   "aliases": [
+    "Ahmed al-Nami"
+   ],
+   "role": "second-wave hijacker",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "dead",
+   "status_detail": "11 September hijacker",
+   "family": [],
+   "locations": [
+    "Jedda",
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.7",
+     "quote": "an unapproved visit to his family while on a trip to Saudi Arabia with hijacker Ahmad al-Nami"
+    }
+   ]
+  },
+  {
+   "name": "Mounir al-Motassadeq",
+   "aliases": [
+    "Munir al-Motassadeq"
+   ],
+   "role": "Hamburg network associate convicted in Germany",
+   "organizations": [
+    "Hamburg network"
+   ],
+   "nationality_or_origin": "",
+   "status": "detained",
+   "status_detail": "convicted in Germany",
+   "family": [],
+   "locations": [
+    "Afghanistan",
+    "Germany"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.8",
+     "quote": "admitted at his trial to having been in Afghanistan from June to August 2000"
+    }
+   ]
+  },
+  {
+   "name": "Zaccarias Moussaoui",
+   "aliases": [
+    "Zacarias Moussaoui"
+   ],
+   "role": "suspected plot associate who visited Afghanistan",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "French",
+   "status": "detained",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.8",
+     "quote": "visited Afghanistan in April 1998 and later that year, August through October 1999, and again in December 2000"
+    }
+   ]
+  },
+  {
+   "name": "Muhammad 'Atif",
+   "aliases": [
+    "Muhammad Atef",
+    "Abu Hafs al-Masri"
+   ],
+   "role": "al-Qa'ida leader who instructed Hamburg pilots to enroll in flight training",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "Egyptian",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.8",
+     "quote": "Muhammad 'Atif instructed the three Hamburg pilots to enroll in flight training"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "al-Qa'ida",
+   "aliases": [
+    "al-Qaeda"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Gama'at al-Islamiyya",
+    "Jemaah Islamiyah"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Ran training camps in Afghanistan 1996-2001; sent trainers to Southeast Asian groups."
+  },
+  {
+   "name": "al-Gama'at al-Islami",
+   "aliases": [
+    "al-Gama'at al-Islamiyya"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qa'ida"
+   ],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Trained in al-Qa'ida camps."
+  },
+  {
+   "name": "Jemaah Islamiya",
+   "aliases": [
+    "Jemaah Islamiyah"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qa'ida"
+   ],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Trained in al-Qa'ida camps."
+  },
+  {
+   "name": "Taliban",
+   "aliases": [],
+   "type": "political movement",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Fall of the Taliban noted."
+  },
+  {
+   "name": "Hamburg network",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qa'ida"
+   ],
+   "rivals": [],
+   "country_base": "Germany",
+   "notes": "Cell of the pilots and associates."
+  },
+  {
+   "name": "DCI Counterterrorist Center, Office of Terrorism Analysis",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Prepared the assessment."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Safehaven and training location for al-Qa'ida and the 9/11 plot."
+  },
+  {
+   "name": "Kandahar",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Site of Ramadan 1999 meetings with senior leadership."
+  },
+  {
+   "name": "al-Faruq camp",
+   "type": "base",
+   "country": "Afghanistan",
+   "parent": "Kandahar",
+   "significance": "Training camp west of Kandahar for most second-wave hijackers."
+  },
+  {
+   "name": "Khaldan camp",
+   "type": "base",
+   "country": "Afghanistan",
+   "parent": "Paktia",
+   "significance": "Basic training camp where three Saudi hijackers trained."
+  },
+  {
+   "name": "Paktia Province",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Location of Khaldan."
+  },
+  {
+   "name": "Hamburg",
+   "type": "city",
+   "country": "Germany",
+   "parent": "Germany",
+   "significance": "Base of pilot hijackers."
+  },
+  {
+   "name": "Jedda",
+   "type": "city",
+   "country": "Saudi Arabia",
+   "parent": "Saudi Arabia",
+   "significance": "US consulate where visas were to be obtained."
+  },
+  {
+   "name": "Pakistani border regions",
+   "type": "region",
+   "country": "Pakistan",
+   "parent": "Pakistan",
+   "significance": "Post-2001 small-scale al-Qa'ida training."
+  }
+ ],
+ "events": [
+  {
+   "date": "1999",
+   "date_precision": "year",
+   "type": "meeting",
+   "description": "Five pilot candidates selected during Ramadan meetings with al-Qa'ida senior leadership in Kandahar.",
+   "place": "Kandahar",
+   "actors": [
+    "al-Qa'ida",
+    "Nawaf al-Hazmi",
+    "Ramzi Bin al-Shibh",
+    "Muhammad Atta"
+   ],
+   "timestamp": "p.6"
+  },
+  {
+   "name": "",
+   "date": "1999-12",
+   "date_precision": "month",
+   "type": "other",
+   "description": "The 11 September plot was set in motion.",
+   "place": "Afghanistan",
+   "actors": [
+    "al-Qa'ida"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "2000-06",
+   "date_precision": "month",
+   "type": "travel",
+   "description": "Motassadeq in Afghanistan June–August 2000.",
+   "place": "Afghanistan",
+   "actors": [
+    "Mounir al-Motassadeq"
+   ],
+   "timestamp": "p.8"
+  },
+  {
+   "date": "2000-12",
+   "date_precision": "month",
+   "type": "travel",
+   "description": "Moussaoui visited Afghanistan.",
+   "place": "Afghanistan",
+   "actors": [
+    "Zaccarias Moussaoui"
+   ],
+   "timestamp": "p.8"
+  },
+  {
+   "date": "1999",
+   "date_precision": "year",
+   "type": "meeting",
+   "description": "Five pilot candidates were selected during Ramadan meetings with al-Qa'ida's senior leadership in Kandahar.",
+   "place": "Kandahar",
+   "actors": [
+    "al-Qa'ida",
+    "Muhammad Atta",
+    "Marwan al-Shehhi",
+    "Ziad Jarrah",
+    "Nawaf al-Hazmi",
+    "Ramzi Bin al-Shibh"
+   ],
+   "timestamp": "p.6"
+  },
+  {
+   "date": "1999-12",
+   "date_precision": "month",
+   "type": "other",
+   "description": "The 11 September plot was set in motion; selection of the second wave followed in Afghanistan camps.",
+   "place": "Afghanistan",
+   "actors": [
+    "al-Qa'ida",
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.6"
+  },
+  {
+   "date": "2001-09-11",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "11 September attacks by 19 hijackers.",
+   "place": "United States",
+   "actors": [
+    "al-Qa'ida"
+   ],
+   "timestamp": "p.6"
+  },
+  {
+   "date": "1996/2001",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Al-Qa'ida trained recruits in its Afghanistan camps from 1996 until 2001.",
+   "place": "Afghanistan",
+   "actors": [
+    "al-Qa'ida"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1999",
+   "date_precision": "year",
+   "type": "meeting",
+   "description": "Five pilot candidates for the 11 September plot selected during Ramadan meetings with al-Qa'ida senior leadership.",
+   "place": "Kandahar",
+   "actors": [
+    "al-Qa'ida",
+    "Nawaf al-Hazmi",
+    "Ramzi Bin al-Shibh",
+    "Hamburg network"
+   ],
+   "timestamp": "p.6"
+  },
+  {
+   "date": "1999-12",
+   "date_precision": "month",
+   "type": "other",
+   "description": "The 11 September plot set in motion; second-wave hijacker selection followed in the Afghan camps.",
+   "place": "Afghanistan",
+   "actors": [
+    "al-Qa'ida",
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.6"
+  },
+  {
+   "date": "2000-06",
+   "date_precision": "month",
+   "type": "travel",
+   "description": "Mounir al-Motassadeq was in Afghanistan from June to August 2000.",
+   "place": "Afghanistan",
+   "actors": [
+    "Mounir al-Motassadeq"
+   ],
+   "timestamp": "p.8"
+  },
+  {
+   "date": "1998-04",
+   "date_precision": "month",
+   "type": "travel",
+   "description": "Moussaoui visited Afghanistan.",
+   "place": "Afghanistan",
+   "actors": [
+    "Zaccarias Moussaoui"
+   ],
+   "timestamp": "p.8"
+  },
+  {
+   "date": "1999-08",
+   "date_precision": "month",
+   "type": "travel",
+   "description": "Moussaoui visited Afghanistan August through October 1999.",
+   "place": "Afghanistan",
+   "actors": [
+    "Zaccarias Moussaoui"
+   ],
+   "timestamp": "p.8"
+  },
+  {
+   "date": "2000-12",
+   "date_precision": "month",
+   "type": "travel",
+   "description": "Moussaoui visited Afghanistan again.",
+   "place": "Afghanistan",
+   "actors": [
+    "Zaccarias Moussaoui"
+   ],
+   "timestamp": "p.8"
+  },
+  {
+   "date": "2000",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Al-Hamlan trained in Afghanistan, swore bay'at to Bin Ladin, then balked during Saudi visit and refused to return.",
+   "place": "Afghanistan / Jedda",
+   "actors": [
+    "al-Hamlan",
+    "Ahmad al-Nami",
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.7"
+  },
+  {
+   "date": "1999",
+   "date_precision": "approx",
+   "type": "travel",
+   "description": "Hamburg pilots travelled to Kandahar in late 1999.",
+   "place": "Kandahar",
+   "actors": [
+    "Hamburg network",
+    "Muhammad Atta"
+   ],
+   "timestamp": "p.8"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Nawaf al-Hazmi",
+   "target": "Salim al-Hazmi",
+   "type": "family",
+   "detail": "Brothers; Nawaf probably recommended Salim.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "Nawaf al-Hazmi probably recommended his brother, Salim al-Hazmi, for recruitment"
+  },
+  {
+   "source": "Muhammad Heydar Zammar",
+   "target": "Muhammad Atta",
+   "type": "other",
+   "detail": "Recruited three of the four pilots including Atta.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "recruited three of the four pilots"
+  },
+  {
+   "source": "Muhammad 'Atif",
+   "target": "Muhammad Atta",
+   "type": "reports_to",
+   "detail": "'Atif instructed the Hamburg pilots to enroll in flight training.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.8",
+   "quote": "Muhammad 'Atif instructed the three Hamburg pilots to enroll in flight training"
+  },
+  {
+   "source": "al-Hamlan",
+   "target": "Ahmad al-Nami",
+   "type": "other",
+   "detail": "Traveled together to Saudi Arabia for US visas.",
+   "date": "2000",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "trip to Saudi Arabia with hijacker Ahmad al-Nami"
+  },
+  {
+   "source": "Khalid al-Mihdhar",
+   "target": "Khaldan camp",
+   "type": "trained_by",
+   "detail": "Trained at Khaldan.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "trained at Khaldan, another large basic regime training camp"
+  },
+  {
+   "source": "Khaldan camp",
+   "target": "Paktia Province",
+   "type": "located_in",
+   "detail": "Camp located in Paktia.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "located in Paktia Province south of Kabul"
+  },
+  {
+   "source": "Muhammad Heydar Zammar",
+   "target": "Marwan al-Shehhi",
+   "type": "other",
+   "detail": "Zammar recruited al-Shehhi, one of the pilots.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "recruited three of the four pilots-- Muhammed Atta, Marwan al-Shehhi.., and Ziad"
+  },
+  {
+   "source": "Muhammad Heydar Zammar",
+   "target": "Ziad Jarrah",
+   "type": "other",
+   "detail": "Zammar recruited Jarrah, one of the pilots.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "recruited three of the four pilots-- Muhammed Atta, Marwan al-Shehhi.., and Ziad"
+  },
+  {
+   "source": "Muhammad Atta",
+   "target": "al-Qa'ida",
+   "type": "reports_to",
+   "detail": "Atta, the plot's senior coordinator, relayed updates and sought input from the al-Qa'ida leadership in Afghanistan.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "Muhammad Atta, relayed his updates on the situation in the United States and recommendations for changes in the plan to Afghanistan, seeking the input of the al-Qa'ida leadership."
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "al-Qa'ida",
+   "type": "leads",
+   "detail": "Bin Ladin forged the organization using Afghan training facilities and was part of its senior leadership.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "allowing Bin Ladin to forge the organization"
+  },
+  {
+   "source": "al-Qa'ida",
+   "target": "al-Gama'at al-Islami",
+   "type": "other",
+   "detail": "Al-Gama'at al-Islami trained in al-Qa'ida camps in the past.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "among the groups that trained in al-Qa'ida camps in the past are al-Gama'at al-Islami"
+  },
+  {
+   "source": "al-Gama'at al-Islami",
+   "target": "al-Qa'ida",
+   "type": "trained_by",
+   "detail": "Group trained in al-Qa'ida camps.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "among the groups that trained in al-Qa'ida camps in the past are al-Gama'at al-Islami"
+  },
+  {
+   "source": "Jemaah Islamiya",
+   "target": "al-Qa'ida",
+   "type": "trained_by",
+   "detail": "Jemaah Islamiya trained in al-Qa'ida camps; al-Qa'ida also sent trainers to Southeast Asian groups.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "among the groups that trained in al-Qa'ida camps in the past are al-Gama'at al-Islami a, Jemaah Islami a"
+  },
+  {
+   "source": "Marwan al-Shehhi",
+   "target": "Hamburg network",
+   "type": "member_of",
+   "detail": "Hamburg-based hijackers, including the recruited pilots, formed the Hamburg group.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.6",
+   "quote": "Three were the Hamburg-based hijackers and the remaining two were hijacker Nawaf al-Hazmi and facilitator Ramzi Bin al-Shibh."
+  },
+  {
+   "source": "Muhammad Atta",
+   "target": "Hamburg network",
+   "type": "member_of",
+   "detail": "Atta was one of the Hamburg-based hijackers.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.6",
+   "quote": "Three were the Hamburg-based hijackers"
+  },
+  {
+   "source": "Ziad Jarrah",
+   "target": "Hamburg network",
+   "type": "member_of",
+   "detail": "Jarrah was one of the Hamburg-based hijackers.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.6",
+   "quote": "Three were the Hamburg-based hijackers"
+  },
+  {
+   "source": "Nawaf al-Hazmi",
+   "target": "al-Qa'ida",
+   "type": "member_of",
+   "detail": "Hazmi was selected as pilot candidate in meetings with al-Qa'ida's senior leadership in Kandahar.",
+   "date": "1999",
+   "confidence": "inferred",
+   "timestamp": "p.6",
+   "quote": "the remaining two were hijacker Nawaf al-Hazmi and facilitator Ramzi Bin al-Shibh."
+  },
+  {
+   "source": "Ramzi Bin al-Shibh",
+   "target": "al-Qa'ida",
+   "type": "member_of",
+   "detail": "Bin al-Shibh, a facilitator, was selected with pilot candidates in Kandahar by senior leadership.",
+   "date": "1999",
+   "confidence": "inferred",
+   "timestamp": "p.6",
+   "quote": "five pilot candidates for the 11 September plot were selected during Ramadan meetings in 1999 with al-Qa'ida's senior leadership in Kandahar."
+  },
+  {
+   "source": "al-Qa'ida",
+   "target": "Kandahar",
+   "type": "located_in",
+   "detail": "Senior leadership met pilot candidates in Kandahar.",
+   "date": "1999",
+   "confidence": "stated",
+   "timestamp": "p.6",
+   "quote": "selected during Ramadan meetings in 1999 with al-Qa'ida's senior leadership in Kandahar"
+  },
+  {
+   "source": "al-Faruq camp",
+   "target": "Kandahar",
+   "type": "located_in",
+   "detail": "Camp located west of Kandahar.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.6",
+   "quote": "The al-Faruq training camp west of Kandahar"
+  },
+  {
+   "source": "al-Faruq camp",
+   "target": "al-Qa'ida",
+   "type": "member_of",
+   "detail": "Al-Faruq was an al-Qa'ida training camp preferred for second-wave hijackers.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.6",
+   "quote": "The al-Faruq training camp west of Kandahar appears to have been the preferred location for the training and vetting of most second-wave hijackers"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Kandahar",
+   "type": "located_in",
+   "detail": "Al-Faruq's proximity to Bin Ladin and senior leadership implies they were near Kandahar.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.6",
+   "quote": "probably because of its proximity to Bin Ladin and the senior al-Qa'ida leadership"
+  },
+  {
+   "source": "al-Qa'ida",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Al-Qa'ida used Afghan sanctuary and camps.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Al-Qa'ida used its sanctuary and network of training facilities in Afghanistan"
+  },
+  {
+   "source": "Hamburg network",
+   "target": "al-Qa'ida",
+   "type": "other",
+   "detail": "Three Hamburg-based hijackers were selected as pilot candidates in Ramadan 1999 meetings with al-Qa'ida's senior leadership in Kandahar.",
+   "date": "1999",
+   "confidence": "stated",
+   "timestamp": "p.6",
+   "quote": "Three were the Hamburg-based hijackers and the remaining two were hijacker Nawaf al-Hazmi and facilitator Ramzi Bin al-Shibh."
+  },
+  {
+   "source": "al-Faruq camp",
+   "target": "Kandahar",
+   "type": "located_in",
+   "detail": "Al-Faruq training camp was west of Kandahar, close to Bin Ladin and the senior leadership.",
+   "confidence": "stated",
+   "timestamp": "p.6",
+   "quote": "The al-Faruq training camp west of Kandahar appears to have been the preferred location"
+  },
+  {
+   "source": "al-Faruq camp",
+   "target": "al-Qa'ida",
+   "type": "member_of",
+   "detail": "Al-Faruq was an al-Qa'ida training camp preferred for training and vetting second-wave hijackers.",
+   "confidence": "stated",
+   "timestamp": "p.6",
+   "quote": "preferred location for the training and vetting of most second-wave hijackers"
+  },
+  {
+   "source": "Khaldan camp",
+   "target": "Paktia Province",
+   "type": "located_in",
+   "detail": "Khaldan was a large basic training camp located in Paktia Province south of Kabul.",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "Khaldan, another large basic regime training camp that was located in Paktia Province south of Kabul."
+  },
+  {
+   "source": "Khalid al-Mihdhar",
+   "target": "Khaldan camp",
+   "type": "trained_by",
+   "detail": "Al-Mihdhar trained at Khaldan.",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "Khalid al-Mihdhar, Satam al-Suqami, and Majid Muqid-trained at Khaldan"
+  },
+  {
+   "source": "Satam al-Suqami",
+   "target": "Khaldan camp",
+   "type": "trained_by",
+   "detail": "Al-Suqami trained at Khaldan.",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "Khalid al-Mihdhar, Satam al-Suqami, and Majid Muqid-trained at Khaldan"
+  },
+  {
+   "source": "Majid Muqid",
+   "target": "Khaldan camp",
+   "type": "trained_by",
+   "detail": "Muqid trained at Khaldan.",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "Khalid al-Mihdhar, Satam al-Suqami, and Majid Muqid-trained at Khaldan"
+  },
+  {
+   "source": "al-Hamlan",
+   "target": "Usama bin Ladin",
+   "type": "member_of",
+   "detail": "Al-Hamlan swore an oath of allegiance to Bin Ladin after training in Afghanistan in summer 2000.",
+   "date": "2000",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "who trained in Afghanistan in the summer of 2000 and swore an oath of allegiance to Bin Ladin"
+  },
+  {
+   "source": "al-Hamlan",
+   "target": "Ahmad al-Nami",
+   "type": "met_with",
+   "detail": "Al-Hamlan travelled to Saudi Arabia with al-Nami to get US visas, then refused to return to Afghanistan.",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "a trip to Saudi Arabia with hijacker Ahmad al-Nami."
+  },
+  {
+   "source": "Ahmad al-Nami",
+   "target": "Jedda",
+   "type": "located_in",
+   "detail": "Al-Nami and al-Hamlan were to obtain US visas at the Consulate in Jedda.",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "instructed to get US visas from the Consulate in Jedda"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "al-Qa'ida",
+   "type": "leads",
+   "detail": "Bin Ladin headed al-Qa'ida, involved directly in selection and team composition of hijackers.",
+   "confidence": "inferred",
+   "timestamp": "p.7",
+   "quote": "Bin Ladin suggested that the hijacker teams in each aircraft comprise individuals who knew each other well"
+  },
+  {
+   "source": "Mounir al-Motassadeq",
+   "target": "Hamburg network",
+   "type": "member_of",
+   "detail": "Al-Motassadeq, convicted in Germany for supporting the conspiracy, was a Hamburg network associate who went to Afghanistan.",
+   "date": "2000",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "Mounir al-Motassadeq, convicted in Germany for his role in supporting the conspiracy"
+  },
+  {
+   "source": "Muhammad 'Atif",
+   "target": "Hamburg network",
+   "type": "other",
+   "detail": "'Atif instructed the three Hamburg pilots to enroll in flight training without specifying where.",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "Muhammad 'Atif instructed the three Hamburg pilots to enroll in flight training, he did not specify where."
+  },
+  {
+   "source": "Muhammad Atta",
+   "target": "Muhammad 'Atif",
+   "type": "reports_to",
+   "detail": "Atta, plot senior coordinator, had latitude on flight training after 'Atif's instruction.",
+   "confidence": "inferred",
+   "timestamp": "p.8",
+   "quote": "Plot senior coordinator Muhammad Atta had enough decisionmaking latitude to seek flight instruction in the United States"
+  },
+  {
+   "source": "Muhammad Atta",
+   "target": "Hamburg network",
+   "type": "member_of",
+   "detail": "Atta was among the Hamburg pilots.",
+   "confidence": "inferred",
+   "timestamp": "p.8",
+   "quote": "the three Hamburg pilots used the Internet to research flight schools"
+  },
+  {
+   "source": "Zaccarias Moussaoui",
+   "target": "al-Qa'ida",
+   "type": "other",
+   "detail": "Moussaoui visited Afghanistan multiple times 1998-2000, role in plot still being determined.",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "visited Afghanistan in April 1998 and later that year, August through October 1999, and again in December 2000."
+  },
+  {
+   "source": "al-Qa'ida",
+   "target": "Taliban",
+   "type": "allied_with",
+   "detail": "Al-Qa'ida camps in Afghanistan existed under Taliban rule; brochures were found after the Taliban's fall.",
+   "confidence": "inferred",
+   "timestamp": "p.8",
+   "quote": "flight training brochures in some of the Afghanistan training camps after the fall of the Taliban"
+  },
+  {
+   "source": "al-Qa'ida",
+   "target": "Pakistani border regions",
+   "type": "located_in",
+   "detail": "Al-Qa'ida and local extremist groups have trained in Pakistani border regions.",
+   "confidence": "stated",
+   "timestamp": "p.9",
+   "quote": "Al-Qa'ida and local extremist groups have trained in Pakistani border regions"
+  }
+ ],
+ "sources_cited": [
+  "Intelligence reporting (redacted)"
+ ],
+ "key_claims": [
+  "Al-Qa'ida's Afghanistan camps played a central role in planning the 11 September attacks and selecting and training the cadres.",
+  "Selection into al-Qa'ida occurred only in Afghanistan after observing candidates in training.",
+  "Al-Faruq camp near Kandahar was preferred for second-wave hijackers because of proximity to Bin Ladin.",
+  "Without a safehaven al-Qa'ida will struggle to train and vet recruits and will lose leverage over allied groups.",
+  "Al-Qa'ida has shifted to small-scale training in madrasas, refugee camps and Pakistani border regions."
+ ]
+}

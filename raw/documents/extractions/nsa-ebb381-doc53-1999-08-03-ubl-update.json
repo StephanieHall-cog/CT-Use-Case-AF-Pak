@@ -1,0 +1,158 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc53-1999-08-03-ubl-update",
+  "title": "UBL Update",
+  "authors": "Central Intelligence Agency",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "1999-08-03",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7xbr-uusml/1999-08-03-ubl-update-central-intelligence-agency.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 15,
+  "kind": "briefing",
+  "note": "CIA update on bin Laden. Includes the warning that a UBL attack against U.S. interests could occur at any time or place and that CIA is unlikely to have prior warning. Cited in 9/11 Commission Report Chapter 4, Endnote 188.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 53",
+  "relevance": "high",
+  "ocr": 11
+ },
+ "persons": [
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "UBL",
+    "UBS (OCR error)"
+   ],
+   "role": "Leader of the organization that is the subject of the briefing; target of disruption and capture planning",
+   "organizations": [
+    "UBL organization"
+   ],
+   "nationality_or_origin": "",
+   "status": "alive",
+   "status_detail": "Alive at the time of the document (Aug 1999)",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.7",
+     "quote": "A UBL attack"
+    },
+    {
+     "timestamp": "p.8",
+     "quote": "Once UBS approval Is.auwen,-ais Organization . could launCh"
+    },
+    {
+     "timestamp": "p.13",
+     "quote": "UNLIKELY TO CAPTURE UBL DUE TO RISKS INVOLVED"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "UBL organization",
+   "aliases": [
+    "Usama bin Ladin's organization"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "The slides state that once UBL gives approval, his organization could launch an attack with no additional warning. The group is not named as al-Qa'ida in the legible text."
+  },
+  {
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [
+    "UBL organization"
+   ],
+   "country_base": "United States",
+   "notes": "Author of the briefing. It plans operations to disrupt UBL and to capture him."
+  }
+ ],
+ "places": [],
+ "events": [
+  {
+   "date": "1998-08-07",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "Africa Bombings. The slides mention the 7 August anniversary as a possible attack date. The year is inferred.",
+   "place": "",
+   "actors": [
+    "UBL organization"
+   ],
+   "timestamp": "p.9"
+  },
+  {
+   "date": "1998-08-20",
+   "date_precision": "day",
+   "type": "strike",
+   "description": "US retaliatory missile strike. The slides mention the 20 August anniversary as a possible attack date. The year is inferred.",
+   "place": "",
+   "actors": [
+    "Central Intelligence Agency"
+   ],
+   "timestamp": "p.9"
+  },
+  {
+   "date": "1998-08-07",
+   "date_precision": "approx",
+   "type": "attack",
+   "description": "The threat-assessment slide lists 7 August and the Africa Bombings. The year is inferred from the 1998 East Africa embassy bombings, and the slide appears to treat 7 August as an anniversary date.",
+   "place": "",
+   "actors": [
+    "Usama bin Ladin",
+    "UBL organization"
+   ],
+   "timestamp": "p.9"
+  },
+  {
+   "date": "1998-08-20",
+   "date_precision": "approx",
+   "type": "strike",
+   "description": "The slide lists 20 August next to a 'retaliatory missile' strike on UBL. The year is inferred from the August 1998 US retaliation.",
+   "place": "",
+   "actors": [
+    "Central Intelligence Agency",
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.9"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Usama bin Ladin",
+   "target": "UBL organization",
+   "type": "leads",
+   "detail": "The organization could launch attacks once UBL gives approval.",
+   "date": "1999",
+   "confidence": "inferred",
+   "timestamp": "p.8",
+   "quote": "Once UBS approval Is.auwen,-ais Organization . could launCh"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "UBL organization",
+   "type": "leads",
+   "detail": "The slide says the organization could launch attacks with no additional warning once UBL approval is given, which implies he leads it.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.8",
+   "quote": "Once UBS approval Is.auwen,-ais Organization . could launChggiiache walt no,acdditional. warning."
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "A UBL attack against US interests could occur at any time.",
+  "The US is unlikely to have prior warning of the timing or place of a UBL attack.",
+  "Once UBL gives approval, his organization could launch an attack with no additional warning.",
+  "The anniversaries of the 7 August Africa bombings and the 20 August retaliatory missile strike are flagged as possible attack dates.",
+  "Reporting on UBL is good, but a capture is unlikely because of the risks involved.",
+  "A new group needs to be identified to undertake a capture operation."
+ ]
+}

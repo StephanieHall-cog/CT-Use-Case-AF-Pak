@@ -1,0 +1,468 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb97-doc30-2001-10-04-title-excised",
+  "title": "[Title Excised]",
+  "authors": "Department of Defense (DIA)",
+  "publisher": "National Security Archive (GWU), The Taliban File",
+  "published": "2001-10-04",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB97/tal30.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB97/index.htm",
+  "pages": 5,
+  "kind": "cable",
+  "note": "[Confidential] Reflecting Pakistan's post-9/11 policy change, a DIA source discusses Pakistan and Musharraf's support for the fight against terrorism. Assisting the US serves Pakistan's self-interest and Pakistan wants recognition and assistance for its commitment.",
+  "collection": "NSAEBB97",
+  "doc_number": "Document 30",
+  "relevance": "medium",
+  "ocr": 5
+ },
+ "persons": [
+  {
+   "name": "Pervez Musharraf",
+   "aliases": [
+    "Musharaff",
+    "President Musharraf"
+   ],
+   "role": "President of Pakistan",
+   "organizations": [
+    "Government of Pakistan",
+    "Pakistan Army"
+   ],
+   "nationality_or_origin": "Pakistani",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Pakistan",
+    "Lahore"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.3",
+     "quote": "PRESIDENT MUSHARAFF IS FULLY COMMITTED TO SUPPORT THE INTERNATION FIGHT AGAINST TERRORISM"
+    },
+    {
+     "timestamp": "p.5",
+     "quote": "PRESIDENT MUSHARAFF ORDERED THE CLOSING OF THE AL RASHID COMPUTER SCHOOL IN LAHORE"
+    }
+   ]
+  },
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "UBL",
+    "Osama bin Laden"
+   ],
+   "role": "al-Qa'ida leader",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.3",
+     "quote": "TNI SOUGHT A MEETING WITH UBL AND TALIBAN REPS TO ASK THEM TO STOP SUPPORT FOR DOMESTIC INDONESIAN MUSLIM GROUPS"
+    },
+    {
+     "timestamp": "p.5",
+     "quote": "UBL AND AL QAEDA HAVE MADE EFFORTS TO PRODUCE CHEMICAL AND BIOLOGICAL WARFARE AGENTS"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "al-Qa'ida",
+   "aliases": [
+    "Al Qaeda",
+    "al-Qaeda"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Source maintains it is producing rudimentary chemical/biological agents in Afghanistan."
+  },
+  {
+   "name": "Taliban",
+   "aliases": [],
+   "type": "political movement",
+   "parent_or_allies": [
+    "al-Qa'ida",
+    "Harkat ul Mujahidin"
+   ],
+   "rivals": [
+    "Northern Alliance"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Afghan refugees in Pakistan said to lack sympathy for the Taliban leadership."
+  },
+  {
+   "name": "Harkat ul Mujahidin",
+   "aliases": [
+    "Harkat ul Mujahadin",
+    "HuM"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Kashmiri group with Taliban connections; its Lahore office was closed on 2 Oct 2001 for collecting money."
+  },
+  {
+   "name": "Al Rashid Computer School",
+   "aliases": [
+    "Al Rashid Trust computer school"
+   ],
+   "type": "other",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Lahore school closed on 2 Oct 2001 because of its connections to the Taliban."
+  },
+  {
+   "name": "TNI",
+   "aliases": [
+    "Indonesian Armed Forces"
+   ],
+   "type": "military",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Indonesia",
+   "notes": "Sought meeting with UBL and Taliban reps to ask them to stop support for domestic Indonesian Muslim groups."
+  },
+  {
+   "name": "Government of Pakistan",
+   "aliases": [
+    "GOP"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Closed Al Rashid school and HuM office in Lahore."
+  },
+  {
+   "name": "Northern Alliance",
+   "aliases": [],
+   "type": "militia",
+   "parent_or_allies": [
+    "Iran"
+   ],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Source says it has primary allegiance to Iran and Pakistan traditionally never had close ties to his group."
+  },
+  {
+   "name": "Pakistan Army",
+   "aliases": [],
+   "type": "military",
+   "parent_or_allies": [
+    "Government of Pakistan"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Corps and division commanders pledged loyalty to Musharraf."
+  }
+ ],
+ "places": [
+  {
+   "name": "Lahore",
+   "type": "city",
+   "country": "Pakistan",
+   "parent": "Punjab",
+   "significance": "Location of the Al Rashid computer school and HuM office closed 2 Oct 2001."
+  },
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Base of Taliban and al-Qa'ida; alleged chem/bio programs."
+  },
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Hosts about 2 million Afghan refugees; supports the anti-terror coalition."
+  },
+  {
+   "name": "Kashmir",
+   "type": "region",
+   "country": "India",
+   "parent": "",
+   "significance": "Pakistani leaders concerned US will accept Indian demand to treat Kashmir as terrorism; car bomb incident in Indian Kashmir."
+  },
+  {
+   "name": "Indonesia",
+   "type": "country",
+   "country": "Indonesia",
+   "parent": "",
+   "significance": "TNI concern about support to domestic Muslim groups; Muslim groups demonstrated at Pakistan embassy."
+  }
+ ],
+ "events": [
+  {
+   "date": "2001-10-02",
+   "date_precision": "day",
+   "type": "other",
+   "description": "Al Rashid Computer School and Harkat ul Mujahidin office in Lahore closed by Pakistani authorities due to Taliban ties.",
+   "place": "Lahore",
+   "actors": [
+    "Pervez Musharraf",
+    "Al Rashid Computer School",
+    "Harkat ul Mujahidin"
+   ],
+   "timestamp": "p.5"
+  },
+  {
+   "date": "2001-10-04",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "DIA information report with source claims on Pakistani support for Musharraf, Taliban, UBL chem/bio efforts and Kashmir.",
+   "place": "",
+   "actors": [
+    "Department of Defense"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-10-02",
+   "date_precision": "day",
+   "type": "other",
+   "description": "Al Rashid Computer School and Harkat ul Mujahidin office closed in Lahore on Musharraf's orders over Taliban ties.",
+   "place": "Lahore",
+   "actors": [
+    "Pervez Musharraf",
+    "Al Rashid Computer School",
+    "Harkat ul Mujahidin",
+    "Taliban"
+   ],
+   "timestamp": "p.5"
+  },
+  {
+   "date": "2001-10-03",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Report on Pakistani support for Musharraf, TNI approach to UBL/Taliban, and al-Qa'ida chem/bio efforts.",
+   "place": "Pakistan",
+   "actors": [
+    "TNI",
+    "Pervez Musharraf",
+    "al-Qa'ida",
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "2001",
+   "date_precision": "year",
+   "type": "meeting",
+   "description": "TNI sought a meeting with UBL and Taliban representatives to ask them to stop supporting domestic Indonesian Muslim groups.",
+   "place": "Indonesia",
+   "actors": [
+    "TNI",
+    "Usama bin Ladin",
+    "Taliban"
+   ],
+   "timestamp": "p.3"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Pervez Musharraf",
+   "target": "Al Rashid Computer School",
+   "type": "other",
+   "detail": "Ordered its closure because of Taliban connections.",
+   "date": "2001-10-02",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "PRESIDENT MUSHARAFF ORDERED THE CLOSING OF THE AL RASHID COMPUTER SCHOOL IN LAHORE"
+  },
+  {
+   "source": "Pervez Musharraf",
+   "target": "Harkat ul Mujahidin",
+   "type": "other",
+   "detail": "Ordered authorities to shut down its Lahore office.",
+   "date": "2001-10-02",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "ALSO ORDERED AUTHORITIES TO SHUT DOWN THE HARKAT UL MUJAHADIN OFFICE IN LAHORE"
+  },
+  {
+   "source": "Harkat ul Mujahidin",
+   "target": "Taliban",
+   "type": "allied_with",
+   "detail": "Kashmiri group with connections to Taliban collecting money in Lahore.",
+   "date": "2001",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "HARKAT UL MUJAHADIN IS A KASHMIRI GROUP WITH CONNECTIONS TO TALIBAN"
+  },
+  {
+   "source": "Al Rashid Computer School",
+   "target": "Taliban",
+   "type": "allied_with",
+   "detail": "Closed because of its ties to the Taliban.",
+   "date": "2001",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "CLOSING OF THE AL RASHID COMPUTER SCHOOL IN LAHORE BECAUSE OF ITS CONNECTIONS TO THE TALIBAN"
+  },
+  {
+   "source": "Taliban",
+   "target": "al-Qa'ida",
+   "type": "allied_with",
+   "detail": "TNI sought meeting with UBL and Taliban reps over support to Indonesian groups.",
+   "date": "2001",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "TNI SOUGHT A MEETING WITH UBL AND TALIBAN REPS"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "al-Qa'ida",
+   "type": "leads",
+   "detail": "UBL and al-Qa'ida attempting chem/bio agents.",
+   "date": "2001",
+   "confidence": "inferred",
+   "timestamp": "p.5",
+   "quote": "UBL AND AL QAEDA HAVE MADE EFFORTS TO PRODUCE CHEMICAL AND BIOLOGICAL WARFARE AGENTS"
+  },
+  {
+   "source": "Al Rashid Computer School",
+   "target": "Taliban",
+   "type": "allied_with",
+   "detail": "The school was closed because of its connections to the Taliban.",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "CLOSING OF THE AL RASHID COMPOGTER SCHOOL IN LAEORE BECAUSE OF ITS CONNECTIONS TO THE TALIBAN."
+  },
+  {
+   "source": "Harkat ul Mujahidin",
+   "target": "Taliban",
+   "type": "allied_with",
+   "detail": "Harkat ul Mujahidin, a Kashmiri group, had connections to the Taliban.",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "HARKAT UL MUJAHADIN IS A KASHM“RI GROUP WITH CONNECTIONS TO TALIBAN THAT HAD BEEN COLLECTING MONEY IN LAHORE."
+  },
+  {
+   "source": "Harkat ul Mujahidin",
+   "target": "Lahore",
+   "type": "located_in",
+   "detail": "Harkat ul Mujahidin had an office in Lahore and collected money there.",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "HARKAT UL MUJAHADIN OFFICE IN LAHORE"
+  },
+  {
+   "source": "Al Rashid Computer School",
+   "target": "Lahore",
+   "type": "located_in",
+   "detail": "The school was located in Lahore.",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "AL RASHID COMPOGTER SCHOOL IN LAEORE"
+  },
+  {
+   "source": "Harkat ul Mujahidin",
+   "target": "Kashmir",
+   "type": "other",
+   "detail": "Described as a Kashmiri group; closure criticised as cutting off support for Kashmir freedom fighters.",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "HARKAT UL MUJAHADIN IS A KASHM“RI GROUP"
+  },
+  {
+   "source": "TNI",
+   "target": "Usama bin Ladin",
+   "type": "other",
+   "detail": "TNI sought a meeting with UBL and Taliban representatives to ask them to stop support for domestic Indonesian Muslim groups.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "TNI SOUGHT A MEETING WITH UBL AND TALIBAN REPS TO ASK THEM TO STOP SUPPORT FOR COMESTICG INDONESIAN MUSLIM GROUPS"
+  },
+  {
+   "source": "TNI",
+   "target": "Taliban",
+   "type": "other",
+   "detail": "TNI sought a meeting with Taliban representatives to ask them to stop supporting Indonesian Muslim groups.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "TNI SOUGHT A MEETING WITH UBL AND TALIBAN REPS"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "al-Qa'ida",
+   "type": "leads",
+   "detail": "UBL and al-Qa'ida are linked as pursuing chemical and biological agents.",
+   "confidence": "inferred",
+   "timestamp": "p.5",
+   "quote": "UBL AND AL QAEDA HAVE MADE EFFORTS TO PRODUCE CHEMICAL AND BIOLOGICAL WARFARE AGENTS"
+  },
+  {
+   "source": "al-Qa'ida",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Al-Qa'ida is producing rudimentary chem/bio agents in Afghanistan.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "MAINTAINS AL QAEDA IS PRODUCING RUDIMENTARY CHEM/BIO AGENTS IN AFGHANISTAN."
+  },
+  {
+   "source": "Northern Alliance",
+   "target": "Pakistan",
+   "type": "other",
+   "detail": "The source says the Northern Alliance has never had close ties to his group and has primary allegiance to Iran.",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "IT HAS PRIMARY ALLIEGENCE TO LRAN AND PAKISTAN TRADITIONALLY AS NEVER HAD CLOSE TTES"
+  },
+  {
+   "source": "Pakistan Army",
+   "target": "Pervez Musharraf",
+   "type": "reports_to",
+   "detail": "All corps, division and senior commanders have pledged loyalty to Musharraf.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "ALL OF THE CORPS, DIVISTON AND OTHER SENIOR MILITARY COMMANDERS HAVE ALREADY PLEDGED THEIR LOYALTY TO MUSHARAFF."
+  },
+  {
+   "source": "Government of Pakistan",
+   "target": "Pervez Musharraf",
+   "type": "leads",
+   "detail": "Musharraf is President of Pakistan.",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "PRESIDENT MUSHARAFF IS FULLY COMMITTED TO SUPPORT THE INTERNATION FIGE? AGAINST TERRORISM"
+  }
+ ],
+ "sources_cited": [
+  "DoD Counterintelligence Collection Emphasis 15-2003",
+  "Unnamed (redacted) Pakistani source"
+ ],
+ "key_claims": [
+  "Source claims most Pakistanis and all senior military commanders back Musharraf's support for the anti-terror coalition.",
+  "Pakistan closed the Al Rashid computer school and HuM Lahore office on 2 Oct 2001 due to Taliban ties.",
+  "Source claims al-Qa'ida has produced only rudimentary chemical and biological agents in Afghanistan.",
+  "Afghan refugees in Pakistan are said to be unsympathetic to the Taliban and UBL.",
+  "Pakistani leaders fear India will exploit the crisis over Kashmir."
+ ]
+}

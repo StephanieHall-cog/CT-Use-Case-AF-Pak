@@ -1,0 +1,285 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb97-doc32-2002-01-09-iir-excised-pakistani-political-military-situation",
+  "title": "IIR [Excised] Pakistani Political, Military Situation, and Terrorism Issues",
+  "authors": "Defense Intelligence Agency",
+  "publisher": "National Security Archive (GWU), The Taliban File",
+  "published": "2002-01-09",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB97/tal32.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB97/index.htm",
+  "pages": 5,
+  "kind": "cable",
+  "note": "[Secret] Discusses the political and military situation in Pakistan, including government stability, armed forces capabilities and terrorism issues in the post-September 11 climate.",
+  "collection": "NSAEBB97",
+  "doc_number": "Document 32",
+  "relevance": "high",
+  "ocr": 5
+ },
+ "persons": [],
+ "organizations": [
+  {
+   "name": "Defense Intelligence Agency",
+   "aliases": [
+    "DIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "US Department of Defense"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Originator of the information report (FM DIA IMADS WASHINGTON DC)."
+  },
+  {
+   "name": "Pakistani Armed Forces",
+   "aliases": [
+    "Pakistan military"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "Government of Pakistan"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Report states they are the only formation capable of overthrowing the Pakistani government."
+  },
+  {
+   "name": "Government of Pakistan",
+   "aliases": [
+    "Pakistani government"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Described as stable; would not officially hide Taliban/al-Qaeda terrorists unless beneficial to its security interests."
+  },
+  {
+   "name": "Pakistani intelligence organization",
+   "aliases": [
+    "ISI (implied)"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Government of Pakistan"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Report says no chance that groups in Pakistan, including the intelligence organization, would overthrow the government. The ISI is not named in the text."
+  },
+  {
+   "name": "Taliban",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qa'ida"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Report discusses fear in Pakistan about the consequences of Taliban/al-Qaeda defeat."
+  },
+  {
+   "name": "al-Qa'ida",
+   "aliases": [
+    "al-Qaeda",
+    "al-Qaida"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Referred to as Taliban/al-Qaeda forces and terrorists."
+  },
+  {
+   "name": "Pakistani organizations providing shelter and support",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [
+    "Taliban",
+    "al-Qa'ida"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Unnamed; the report says many organizations within Pakistan would shelter and support Taliban/al-Qaeda terrorists."
+  }
+ ],
+ "places": [
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Subject of report on government stability, armed forces, and terrorism."
+  },
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Listed as a country in the report header; the Taliban/al-Qaeda forces are defeated there."
+  }
+ ],
+ "events": [
+  {
+   "date": "2002-01-06",
+   "date_precision": "day",
+   "type": "other",
+   "description": "Date of report information (DOR 20020106). The report was originated 7 Jan 2002 and disseminated 9 Jan 2002.",
+   "place": "Pakistan",
+   "actors": [
+    "Defense Intelligence Agency"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2002-01-09",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "DIA information report on Pakistani political and military situation and terrorism issues; assessed government stable and Taliban/al-Qa'ida shelter by Pakistani organizations.",
+   "place": "Pakistan",
+   "actors": [
+    "Defense Intelligence Agency",
+    "Government of Pakistan",
+    "Pakistani Armed Forces",
+    "Taliban",
+    "al-Qa'ida"
+   ],
+   "timestamp": "p.4"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Pakistani organizations providing shelter and support",
+   "target": "Taliban",
+   "type": "other",
+   "detail": "Many organizations in Pakistan would provide shelter and support to Taliban/al-Qaeda terrorists.",
+   "date": "2002-01",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "THERE WERE MANY ORGANIZATIONS WITHIN PAKISTAN, WHICH WOULD PROVIDE SHELTER AND SUPPORT TALIBAN/AL-QAIDA TERRORISTS"
+  },
+  {
+   "source": "Pakistani Armed Forces",
+   "target": "Government of Pakistan",
+   "type": "other",
+   "detail": "Only the armed forces were capable of overthrowing the government.",
+   "date": "2002-01",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "THE ONLY FORMATION CAPABLE OF OVERTHROWING THE GOVERNMENT WOULD BE THE PAKISTANI ARMED FORCES."
+  },
+  {
+   "source": "Taliban",
+   "target": "al-Qa'ida",
+   "type": "allied_with",
+   "detail": "Report treats Taliban/al-Qaeda as a combined force whose defeat Pakistanis feared would prompt attacks on Westerners.",
+   "date": "2002-01",
+   "confidence": "inferred",
+   "timestamp": "p.5",
+   "quote": "DEFEAT OF THE TALIBAN/AL-RALDA FORCES WOULD CAUSE MORE ATTACKS ON WESTERNERS IN PAXISTAN"
+  },
+  {
+   "source": "Pakistani organizations providing shelter and support",
+   "target": "Taliban",
+   "type": "sheltered_by",
+   "detail": "Taliban/al-Qa'ida terrorists were said to be sheltered and supported by many organizations within Pakistan; direction here is recipient to provider, so Taliban is the source.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "THERE WERE MANY ORGANIZATIONS WITHIN PAKISTAN, WHICH WOULD PROVIDE SHELTER AND SUPPORT TALIBAN/AL-OATDA TERRORISTS"
+  },
+  {
+   "source": "al-Qa'ida",
+   "target": "Pakistani organizations providing shelter and support",
+   "type": "sheltered_by",
+   "detail": "Al-Qa'ida terrorists would be sheltered and supported by many organizations within Pakistan.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "THERE WERE MANY ORGANIZATIONS WITHIN PAKISTAN, WHICH WOULD PROVIDE SHELTER AND SUPPORT TALIBAN/AL-OATDA TERRORISTS"
+  },
+  {
+   "source": "Taliban",
+   "target": "al-Qa'ida",
+   "type": "allied_with",
+   "detail": "The report treats Taliban/al-Qa'ida forces as a joint grouping whose defeat was feared to prompt more attacks.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.5",
+   "quote": "DEFEAT OF THE TALIBAN/AL-RALDA FORCES WOULD CAUSE MORE ATTACKS ON WESTERNERS IN PAXISTAN"
+  },
+  {
+   "source": "Government of Pakistan",
+   "target": "Taliban",
+   "type": "sheltered_by",
+   "detail": "The Pakistani government would not officially hide Taliban/al-Qa'ida terrorists unless it benefited its security interests (conditional/limited shelter). Direction is recipient to provider.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.5",
+   "quote": "THE PAKISTANI GOVERNMENT WOULD NOT OFFICIALLY HIDE ANY TALIBAN/AL-~QATDA TERRORISTS UNLESS iT WOULD SE BENEFICIAL TO THEIR SECURITY INTERESTS"
+  },
+  {
+   "source": "Pakistani intelligence organization",
+   "target": "Government of Pakistan",
+   "type": "other",
+   "detail": "The intelligence organization was assessed as unable/unlikely to overthrow the government; only the armed forces could.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "NO CHANCE THAT ANY GROUPS WITHIN PAKISTAN, INCLUDING TEE INTELLIGENCE ORGANIZATION, WOULD OVERTHROW THE GOVERNMENT"
+  },
+  {
+   "source": "Pakistani Armed Forces",
+   "target": "Government of Pakistan",
+   "type": "other",
+   "detail": "The Pakistani Armed Forces were the only formation capable of overthrowing the government.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "THE CNLY PORMATION CAPABLE OF OVERTHROWING THE GOVERNMENT WOULD BE THE PAKISTANI ARMED FORCES."
+  },
+  {
+   "source": "Pakistani Armed Forces",
+   "target": "Pakistan",
+   "type": "located_in",
+   "detail": "Pakistani Armed Forces are an institution of Pakistan.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.4",
+   "quote": "PAKISTANI ARMED FORCES CAPABILITIES"
+  },
+  {
+   "source": "Pakistani organizations providing shelter and support",
+   "target": "Pakistan",
+   "type": "located_in",
+   "detail": "The sheltering organizations are located within Pakistan.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "MANY ORGANIZATIONS WITHIN PAKISTAN, WHICH WOULD PROVIDE SHELTER"
+  },
+  {
+   "source": "Defense Intelligence Agency",
+   "target": "Pakistan",
+   "type": "other",
+   "detail": "The DIA report covers Pakistani political and military situation and terrorism issues.",
+   "date": "2002-01-09",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "INFORMATION ON THE POLITICAL AND MILITARY SITUATION IN PAKISTAN"
+  }
+ ],
+ "sources_cited": [
+  "DIA Information Report (IIR) 02 8351472, DOR 6 Jan 2002; source excised"
+ ],
+ "key_claims": [
+  "The Pakistani government was stable and no internal group, including the intelligence organization, could overthrow it.",
+  "Only the Pakistani armed forces were capable of overthrowing the government.",
+  "Many in Pakistan feared that defeating Taliban/al-Qaeda forces would trigger more attacks on Westerners in Pakistan.",
+  "The Pakistani government would not officially hide Taliban/al-Qaeda terrorists unless it served its security interests.",
+  "Many organizations within Pakistan would shelter and support Taliban/al-Qaeda terrorists.",
+  "Lower-class Pakistanis viewed those the West calls terrorists as freedom fighters or fellow Muslim fighters."
+ ]
+}

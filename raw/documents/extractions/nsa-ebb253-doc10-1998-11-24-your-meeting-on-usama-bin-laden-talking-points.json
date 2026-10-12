@@ -1,0 +1,486 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb253-doc10-1998-11-24-your-meeting-on-usama-bin-laden-talking-points",
+  "title": "Your Meeting on Usama bin Laden (Talking Points)",
+  "authors": "Assistant Secretary Karl F. Inderfurth to Secretary of State Madeleine Albright, Department of State",
+  "publisher": "National Security Archive (GWU), 1998 Missile Strikes on Bin Laden May Have Backfired",
+  "published": "1998-11-24",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB253/19981124b.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB253/index.htm",
+  "pages": 2,
+  "kind": "memo",
+  "note": "[Secret/NODIS] Talking points noting that negotiations with the Taliban and Pakistan on bin Laden have failed and his network still threatens American lives. The December meeting with Nawaz Sharif is an opportunity to press the message. The Taliban brush-off of the indictment may signal a move from tolerance to more active support. Excised.",
+  "collection": "NSAEBB253",
+  "doc_number": "Document 10b",
+  "relevance": "high",
+  "ocr": 2
+ },
+ "persons": [
+  {
+   "name": "Usama bin Laden",
+   "aliases": [
+    "Osama bin Laden",
+    "UBL",
+    "Bin Laden"
+   ],
+   "role": "Leader of a terrorist network sheltered in Taliban-ruled Afghanistan; subject of US indictment",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Bin Laden and his network continue to threaten U.S. interests and American lives."
+    },
+    {
+     "timestamp": "p.1",
+     "quote": "UBL's close ties to key Taliban leaders, including Taliban supreme leader Mullah Omar, have preserved his position."
+    }
+   ]
+  },
+  {
+   "name": "Mullah Omar",
+   "aliases": [
+    "Mullah Mohammed Omar",
+    "Mullah Muhammad Omar"
+   ],
+   "role": "Taliban supreme leader",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "including Taliban supreme leader Mullah Omar, have preserved his position"
+    }
+   ]
+  },
+  {
+   "name": "Nawaz Sharif",
+   "aliases": [
+    "Mian Nawaz Sharif"
+   ],
+   "role": "Prime Minister of Pakistan; due to meet the US President on 2 December",
+   "organizations": [
+    "Government of Pakistan"
+   ],
+   "nationality_or_origin": "Pakistani",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Pakistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Prime Minister Nawaz Sharif's upcoming December 2 meeting with the President provides an opportunity to get this message across"
+    }
+   ]
+  },
+  {
+   "name": "Madeleine Albright",
+   "aliases": [],
+   "role": "US Secretary of State; recipient of the memo",
+   "organizations": [
+    "US Department of State"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Your Meeting on Usama bin Laden (Talking Points)"
+    }
+   ]
+  },
+  {
+   "name": "Karl F. Inderfurth",
+   "aliases": [],
+   "role": "US Assistant Secretary of State, author of the memo",
+   "organizations": [
+    "US Department of State"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Assistant Secretary Karl F. Inderfurth to Secretary of State Madeleine Albright"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Taliban",
+   "aliases": [
+    "the Taliban"
+   ],
+   "type": "political movement",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Accused of providing sanctuary to Bin Laden and his network; internal divisions on the question; wants international contacts, especially with the US."
+  },
+  {
+   "name": "al-Qa'ida",
+   "aliases": [
+    "al-Qaeda",
+    "Bin Laden's network"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Referred to as Bin Laden and his network."
+  },
+  {
+   "name": "US Department of State",
+   "aliases": [
+    "State Department"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Author of the memo."
+  },
+  {
+   "name": "Government of Pakistan",
+   "aliases": [
+    "Pakistan"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "The redacted text implies US attempts to enlist a country (likely Pakistan) to pressure the Taliban."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Territory from which terrorism is staged; Taliban-controlled sanctuary for Bin Laden."
+  },
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Sharif's visit to the US on 2 December 1998 is an opportunity to press the Taliban message."
+  }
+ ],
+ "events": [
+  {
+   "date": "1998-12-02",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "Planned meeting of Prime Minister Nawaz Sharif with the US President, to be used to press Pakistan on Taliban and Bin Laden.",
+   "place": "United States",
+   "actors": [
+    "Nawaz Sharif"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998-11-24",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Memo of talking points for Albright on Bin Laden, the Taliban and diplomatic pressure.",
+   "place": "",
+   "actors": [
+    "Karl F. Inderfurth",
+    "Madeleine Albright"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998-12-02",
+   "date_precision": "day",
+   "type": "meeting",
+   "detail": "",
+   "description": "Planned meeting between Prime Minister Nawaz Sharif and the US President, seen as a chance to press the Taliban/bin Laden issue.",
+   "place": "",
+   "actors": [
+    "Nawaz Sharif",
+    "Government of Pakistan"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998-11-24",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Assistant Secretary Inderfurth gives Secretary Albright talking points for her meeting on Usama bin Laden.",
+   "place": "",
+   "actors": [
+    "Karl F. Inderfurth",
+    "Madeleine Albright",
+    "US Department of State"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "approx 1998",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "The US tells the Taliban it holds them and their supporters responsible for bin Laden's actions because they provide sanctuary to him and his network.",
+   "place": "Afghanistan",
+   "actors": [
+    "US Department of State",
+    "Taliban",
+    "Usama bin Laden"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "approx 1998",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "The US applies diplomatic pressure on the Taliban to expel bin Laden to a country where he would face justice. The efforts have not yet succeeded.",
+   "place": "Afghanistan",
+   "actors": [
+    "US Department of State",
+    "Taliban",
+    "Usama bin Laden"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "approx 1998",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "The Taliban brushed off the US indictment of bin Laden and other evidence, which may signal a shift from tolerating his presence to more active support.",
+   "place": "Afghanistan",
+   "actors": [
+    "Taliban",
+    "Usama bin Laden"
+   ],
+   "timestamp": "p.2"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Usama bin Laden",
+   "target": "Taliban",
+   "type": "sheltered_by",
+   "detail": "The Taliban provide sanctuary to Bin Laden and his network.",
+   "date": "1998",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "they are providing sanctuary to him and his network."
+  },
+  {
+   "source": "Usama bin Laden",
+   "target": "Mullah Omar",
+   "type": "allied_with",
+   "detail": "Bin Laden has close ties to key Taliban leaders including Mullah Omar that preserve his position.",
+   "date": "1998",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "UBL's close ties to key Taliban leaders, including Taliban supreme leader Mullah Omar, have preserved his position."
+  },
+  {
+   "source": "Mullah Omar",
+   "target": "Taliban",
+   "type": "leads",
+   "detail": "Mullah Omar is Taliban supreme leader.",
+   "date": "1998",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Taliban supreme leader Mullah Omar"
+  },
+  {
+   "source": "Usama bin Laden",
+   "target": "al-Qa'ida",
+   "type": "leads",
+   "detail": "Bin Laden and his network.",
+   "date": "1998",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Bin Laden and his network continue to threaten U.S. interests and American lives."
+  },
+  {
+   "source": "Karl F. Inderfurth",
+   "target": "Madeleine Albright",
+   "type": "reports_to",
+   "detail": "Assistant Secretary sends talking points to the Secretary of State.",
+   "date": "1998-11-24",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Assistant Secretary Karl F. Inderfurth to Secretary of State Madeleine Albright"
+  },
+  {
+   "source": "Taliban",
+   "target": "Usama bin Laden",
+   "type": "sheltered_by",
+   "detail": "The Taliban are described as providing sanctuary to bin Laden and his network. Direction is reversed here: bin Laden is the recipient and the Taliban the provider.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "they are providing sanctuary to him and his network."
+  },
+  {
+   "source": "Usama bin Laden",
+   "target": "Taliban",
+   "type": "sheltered_by",
+   "detail": "Bin Laden and his network receive sanctuary from the Taliban.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "for they are providing sanctuary to him and his network."
+  },
+  {
+   "source": "al-Qa'ida",
+   "target": "Taliban",
+   "type": "sheltered_by",
+   "detail": "Bin Laden's network is given sanctuary by the Taliban. Al-Qa'ida is inferred to be that network.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Bin Laden and his network continue to threaten U.S. interests and American lives."
+  },
+  {
+   "source": "Usama bin Laden",
+   "target": "al-Qa'ida",
+   "type": "leads",
+   "detail": "Bin Laden heads the network that threatens U.S. interests. Al-Qa'ida is inferred to be that network; the text does not name it.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Bin Laden and his network continue to threaten U.S. interests and American lives."
+  },
+  {
+   "source": "Usama bin Laden",
+   "target": "Mullah Omar",
+   "type": "allied_with",
+   "detail": "Bin Laden's close ties to key Taliban leaders, including Mullah Omar, have preserved his position.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "UBL's close ties to key Taliban leaders, including Taliban supreme leader Mullah Omar, have preserved his position."
+  },
+  {
+   "source": "Mullah Omar",
+   "target": "Taliban",
+   "type": "leads",
+   "detail": "Mullah Omar is called the Taliban supreme leader.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Taliban supreme leader Mullah Omar"
+  },
+  {
+   "source": "US Department of State",
+   "target": "Taliban",
+   "type": "negotiated_with",
+   "detail": "The US has pressed the Taliban diplomatically to expel bin Laden, so far without success.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "We have exerted diplomatic pressure on the Taliban directly"
+  },
+  {
+   "source": "Taliban",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Acts of terrorism are staged from Afghan soil, which the Taliban are urged to prevent. The Taliban are implicitly in control there.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "prevent acts of terrorism from being staged from Afghan soil"
+  },
+  {
+   "source": "Usama bin Laden",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Bin Laden operates from Afghan soil under Taliban sanctuary.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "prevent acts of terrorism from being staged from Afghan soil"
+  },
+  {
+   "source": "Nawaz Sharif",
+   "target": "Government of Pakistan",
+   "type": "leads",
+   "detail": "Nawaz Sharif is the Prime Minister. The Government of Pakistan is inferred to be the redacted party the US wants to keep pressuring the Taliban.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Prime Minister Nawaz Sharif's upcoming December 2. meeting with the President"
+  },
+  {
+   "source": "Nawaz Sharif",
+   "target": "Karl F. Inderfurth",
+   "type": "other",
+   "detail": "The talking points are meant to get the US message to Sharif at the highest level during his meeting with the President. Inderfurth wrote the paper but is not a party to that meeting.",
+   "date": "1998-12-02",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "provides an opportunity to get this message across at the highest level in direct terms"
+  },
+  {
+   "source": "Taliban",
+   "target": "US Department of State",
+   "type": "other",
+   "detail": "The Taliban gave their word to prevent terrorism from Afghan soil and then broke the promise.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "They gave us their word they would do so but have broken this promise."
+  },
+  {
+   "source": "Government of Pakistan",
+   "target": "Taliban",
+   "type": "other",
+   "detail": "The US has tried to enlist a redacted party to keep pressuring the Taliban. It is plausibly Pakistan, which asked what incentives the US could offer the Taliban, but the redaction makes this uncertain.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "has queried us directly regarding incentives that we could provide the Taliban."
+  }
+ ],
+ "sources_cited": [
+  "US indictment of Bin Laden (referred to as 'our indictment')"
+ ],
+ "key_claims": [
+  "The US held the Taliban and its supporters responsible for Bin Laden's actions because they provide sanctuary.",
+  "The Taliban broke their promise to prevent terrorism being staged from Afghan soil.",
+  "Divisions exist within the Taliban over sheltering Bin Laden, but his ties to Mullah Omar protect him, and the US thought these fissures should be exploited.",
+  "The US sought third-country pressure, with Sharif's meeting as a chance to press Pakistan, and diplomatic efforts to expel Bin Laden had failed.",
+  "A low-cost incentive approach was proposed using the Taliban's desire for international contacts, without major rewards.",
+  "The Taliban's brush-off of the indictment may signal a shift from tolerance to more active support for Bin Laden."
+ ]
+}

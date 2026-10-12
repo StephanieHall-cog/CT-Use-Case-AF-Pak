@@ -1,0 +1,78 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc72-2001-02-14-afghanistan-bin-ladin-s-interest-in-biological-and",
+  "title": "Afghanistan: Bin Ladin's Interest in Biological and Radiological Weapons",
+  "authors": "Central Intelligence Agency (Analytic Report)",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "2001-02-14",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7xgb-ivxcp/2001-02-14-afghanistan-bin-ladins-interest-in.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 1,
+  "kind": "report",
+  "note": "States that Bin Ladin and associates have experimented by crude means to make and deploy biological agents, and that Bin Ladin has sought military-grade biological agents or weapons.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 72",
+  "relevance": "high",
+  "ocr": 0
+ },
+ "persons": [
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Bin Ladin",
+    "Bin Laden"
+   ],
+   "role": "Leader of al-Qa'ida; subject of CIA assessment of interest in biological and radiological weapons",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Afghanistan: Bin Ladin's Interest in Biological and lbdiological Weapons"
+    },
+    {
+     "timestamp": "p.1",
+     "quote": "Bin Lad.in has sou"
+    }
+   ]
+  }
+ ],
+ "organizations": [],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Location of Bin Ladin and associates' interest in biological and radiological weapons, per the report title"
+  }
+ ],
+ "events": [
+  {
+   "date": "2001-02-14",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA analytic report on Bin Ladin's interest in biological and radiological weapons (heavily redacted, approved for release 25 April 2012)",
+   "place": "Afghanistan",
+   "actors": [
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [],
+ "sources_cited": [],
+ "key_claims": [
+  "Bin Ladin and his associates have shown interest in biological agents or weapons, though the text is heavily redacted and fragmentary."
+ ]
+}

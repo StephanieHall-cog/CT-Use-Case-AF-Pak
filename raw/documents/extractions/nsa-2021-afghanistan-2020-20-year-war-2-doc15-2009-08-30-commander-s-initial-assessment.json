@@ -1,0 +1,4644 @@
+{
+ "document": {
+  "doc_id": "nsa-2021-afghanistan-2020-20-year-war-2-doc15-2009-08-30-commander-s-initial-assessment",
+  "title": "Commander's Initial Assessment",
+  "authors": "Headquarters, International Security Assistance Force, Kabul (Gen. Stanley McChrystal)",
+  "publisher": "National Security Archive (GWU), Afghanistan 20/20: The 20-Year War in 20 Documents | National Security Archive",
+  "published": "2009-08-30",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qy3fic-cl4be/15.pdf",
+  "source_page": "https://nsarchive.gwu.edu/briefing-book/afghanistan/2021-08-19/afghanistan-2020-20-year-war-20-documents",
+  "pages": 66,
+  "kind": "report",
+  "note": "[Confidential] Key document behind Obama's 2009 surge. McChrystal calls for a properly resourced counterinsurgency campaign with 40,000-60,000 more troops. It leaked to the Washington Post and was declassified by DoD in Sept 2009. It assumes the Taliban sanctuaries in Pakistan would not sustain the insurgency indefinitely.",
+  "collection": "new-afghanistan-2020-20-year-war-20-docu",
+  "doc_number": "Document 15",
+  "relevance": "high",
+  "ocr": 3
+ },
+ "persons": [
+  {
+   "name": "Stanley McChrystal",
+   "aliases": [
+    "General Stanley A. McChrystal",
+    "COMISAF"
+   ],
+   "role": "Commander, NATO ISAF / US Forces-Afghanistan (COMISAF/USFOR-A); author of the assessment",
+   "organizations": [
+    "International Security Assistance Force",
+    "US Forces-Afghanistan",
+    "US Army",
+    "ISAF",
+    "USFOR-A",
+    "United States Government"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Kabul",
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "General, U.S. Army Commander, United States Forces - Afghanistan/ International Security Assistance Force, Afghanistan"
+    },
+    {
+     "timestamp": "p.39",
+     "quote": "signed by the United States Ambassador to Afghanistan Karl Eikenberry and General Stanley McChrystal, Commander, United States Forces Afghanistan"
+    }
+   ]
+  },
+  {
+   "name": "Robert M. Gates",
+   "aliases": [
+    "Robert Gates",
+    "Secretary Gates"
+   ],
+   "role": "US Secretary of Defense; addressee who directed the assessment",
+   "organizations": [
+    "US Department of Defense"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Washington, DC"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "The Honorable Robert M. Gates Secretary of Defense 1400 Defense Pentagon Washington, DC"
+    }
+   ]
+  },
+  {
+   "name": "Barack Obama",
+   "aliases": [
+    "President Obama"
+   ],
+   "role": "US President; announced new US strategy for Afghanistan and Pakistan on 27 March 2009",
+   "organizations": [
+    "United States Government"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.9",
+     "quote": "As announced by President Obama in his March 27, 2009 speech outlining the new U.S. Strategy for Afghanistan and Pakistan"
+    }
+   ]
+  },
+  {
+   "name": "Abdul Rahim Wardak",
+   "aliases": [
+    "Rahim Wardak",
+    "Minister Wardak"
+   ],
+   "role": "Afghan Minister of Defense consulted by COMISAF",
+   "organizations": [
+    "GIRoA",
+    "Afghan Ministry of Defense"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.8",
+     "quote": "During consultations with Afghan Defense Minister Wardak, I found some of his writings insightful"
+    }
+   ]
+  },
+  {
+   "name": "Mullah Omar",
+   "aliases": [
+    "Mullah Mohammed Omar",
+    "Mullah Muhammad Omar"
+   ],
+   "role": "Leader of the Quetta Shura Taliban; announces annual guidance and intent after the winter campaign review",
+   "organizations": [
+    "Quetta Shura Taliban",
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Pakistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.14",
+     "quote": "the Quetta Shura conducts a formal campaign review each winter, after which Mullah Omar announces his guidance and intent for the coming year"
+    }
+   ]
+  },
+  {
+   "name": "Gulbuddin Hekmatyar",
+   "aliases": [
+    "Gulbuddin Hekmatyar",
+    "Hekmatyar"
+   ],
+   "role": "Leader of Hezb-e Islami Gulbuddin (HiG); seeks a major role in a future Taliban government",
+   "organizations": [
+    "Hezb-e Islami Gulbuddin"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Nangarhar",
+    "Nuristan",
+    "Kunar",
+    "Pakistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.14",
+     "quote": "Gulbuddin Hekmatyar's HiG maintains militant bases in Nangarhar, Nuristan, and Kunar, as well as Pakistan"
+    },
+    {
+     "timestamp": "p.14",
+     "quote": "aims to negotiate a major role in a future Taliban government"
+    }
+   ]
+  },
+  {
+   "name": "Karl Eikenberry",
+   "aliases": [
+    "Karl W. Eikenberry"
+   ],
+   "role": "United States Ambassador to Afghanistan; co-signed the Integrated Civil-Military Campaign Plan",
+   "organizations": [
+    "United States Government"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.39",
+     "quote": "signed by the United States Ambassador to Afghanistan Karl Eikenberry and General Stanley McChrystal, Commander, United States Forces Afghanistan, on 15 August 2009"
+    }
+   ]
+  },
+  {
+   "name": "Richard Holbrooke",
+   "aliases": [
+    "Ambassador Richard Holbrooke"
+   ],
+   "role": "United States Special Representative for Afghanistan and Pakistan; recipient of the ICMCP",
+   "organizations": [
+    "United States Government"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.39",
+     "quote": "forwarded to Ambassador Richard Holbrooke, United States Special Representative for Afghanistan and Pakistan"
+    }
+   ]
+  },
+  {
+   "name": "David Petraeus",
+   "aliases": [
+    "General David Petraeus"
+   ],
+   "role": "Commander, United States Central Command; recipient of the ICMCP",
+   "organizations": [
+    "USCENTCOM",
+    "United States Government"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.39",
+     "quote": "General David Petraeus, Commander, United States Central Command"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "International Security Assistance Force",
+   "aliases": [
+    "ISAF",
+    "NATO ISAF"
+   ],
+   "type": "international body",
+   "parent_or_allies": [
+    "NATO",
+    "GIRoA",
+    "USFOR-A"
+   ],
+   "rivals": [
+    "Taliban",
+    "Insurgents (INS)",
+    "Al Qaeda"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Coalition force commanded by McChrystal; HQ in Kabul."
+  },
+  {
+   "name": "US Forces-Afghanistan",
+   "aliases": [
+    "USFOR-A"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "ISAF",
+    "CENTCOM"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Commanded by McChrystal, dual-hatted with ISAF."
+  },
+  {
+   "name": "US Central Command",
+   "aliases": [
+    "CENTCOM",
+    "CDRUSCENTCOM"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "US Department of Defense"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Directed COMISAF to complete the review on 2 July 2009."
+  },
+  {
+   "name": "Supreme Allied Commander Europe",
+   "aliases": [
+    "SACEUR"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "NATO"
+   ],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Issued similar directive on 1 July 2009; cc'd on the letter."
+  },
+  {
+   "name": "NATO",
+   "aliases": [
+    "North Atlantic Treaty Organization",
+    "North Atlantic Council",
+    "HQ NATO"
+   ],
+   "type": "international body",
+   "parent_or_allies": [
+    "ISAF"
+   ],
+   "rivals": [],
+   "country_base": "",
+   "notes": "NATO Comprehensive Strategic Political Military Plan referenced."
+  },
+  {
+   "name": "Government of the Islamic Republic of Afghanistan",
+   "aliases": [
+    "GIRoA",
+    "Afghan government"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "ISAF",
+    "UNAMA",
+    "International Community"
+   ],
+   "rivals": [
+    "Taliban",
+    "insurgents",
+    "Insurgents (INS)"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Host government ISAF supports."
+  },
+  {
+   "name": "Afghan National Security Forces",
+   "aliases": [
+    "ANSF"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "GIRoA",
+    "ISAF"
+   ],
+   "rivals": [
+    "Taliban",
+    "insurgents",
+    "Insurgents (INS)"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Growth and partnering are a core pillar."
+  },
+  {
+   "name": "Taliban",
+   "aliases": [
+    "Islamic Emirate of Afghanistan"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Quetta Shura Taliban",
+    "Al Qaeda"
+   ],
+   "rivals": [
+    "GIRoA",
+    "ISAF"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Threat of Afghan government falling to Taliban."
+  },
+  {
+   "name": "al-Qa'ida",
+   "aliases": [
+    "al Qaeda",
+    "al-Qaeda",
+    "AQAM"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Haqqani Network"
+   ],
+   "rivals": [
+    "United States"
+   ],
+   "country_base": "Pakistan",
+   "notes": "Obama strategy to disrupt, dismantle, defeat al Qaeda and prevent return to Afghanistan."
+  },
+  {
+   "name": "US Department of Defense",
+   "aliases": [
+    "Pentagon",
+    "DoD"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Secretary of Defense memo of 26 June 2009 directed the assessment."
+  },
+  {
+   "name": "Quetta Shura Taliban",
+   "aliases": [
+    "QST",
+    "OST",
+    "Quetta Shura"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban",
+    "Haqqani Network",
+    "Hezb-e Islami Gulbuddin"
+   ],
+   "rivals": [
+    "ISAF",
+    "GIRoA"
+   ],
+   "country_base": "Pakistan",
+   "notes": "Most threatening insurgent group; governs via shadow governors, shari'a courts and ombudsmen under the Islamic Emirate of Afghanistan; funded by narcotics and external donors; focused on Kandahar City."
+  },
+  {
+   "name": "Haqqani Network",
+   "aliases": [
+    "HQN"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Quetta Shura Taliban",
+    "al-Qaeda",
+    "Hezb-e Islami Gulbuddin",
+    "al-Qa'ida"
+   ],
+   "rivals": [
+    "ISAF",
+    "GIRoA"
+   ],
+   "country_base": "Pakistan",
+   "notes": "Second most threatening insurgent group; aims to regain its traditional base in Khowst, Paktia, Paktika; resources from Pakistan, Gulf Arab networks, al Qaeda ties; links with al Qaeda have grown."
+  },
+  {
+   "name": "Hezb-e Islami Gulbuddin",
+   "aliases": [
+    "HiG",
+    "Hezb-e Islami"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Quetta Shura Taliban",
+    "Haqqani Network"
+   ],
+   "rivals": [
+    "ISAF",
+    "GIRoA"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Led by Hekmatyar; bases in Nangarhar, Nuristan, Kunar and Pakistan; seeks mineral wealth and smuggling routes in the east."
+  },
+  {
+   "name": "al-Qaeda",
+   "aliases": [
+    "al Qaeda",
+    "al-Qa'ida",
+    "AQAM"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Haqqani Network"
+   ],
+   "rivals": [
+    "ISAF"
+   ],
+   "country_base": "Pakistan",
+   "notes": "Al Qaeda and associated movements based in Pakistan channel foreign fighters, suicide bombers, technical assistance, training, and financial support into Afghanistan."
+  },
+  {
+   "name": "ISAF",
+   "aliases": [
+    "International Security Assistance Force"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "NATO",
+    "GIRoA",
+    "ANSF",
+    "UNAMA"
+   ],
+   "rivals": [
+    "Quetta Shura Taliban",
+    "Haqqani Network",
+    "Hezb-e Islami Gulbuddin"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "The authoring command; mission to support GIRoA."
+  },
+  {
+   "name": "GIRoA",
+   "aliases": [
+    "Government of the Islamic Republic of Afghanistan",
+    "Afghan government"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "ISAF",
+    "UNAMA"
+   ],
+   "rivals": [
+    "Quetta Shura Taliban",
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Weak institutions and corruption cited as sources of the crisis of confidence."
+  },
+  {
+   "name": "Inter-Services Intelligence",
+   "aliases": [
+    "ISI",
+    "ISi"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Pakistan"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Reportedly aids senior leaders of major Afghan insurgent groups."
+  },
+  {
+   "name": "ANSF",
+   "aliases": [
+    "Afghan National Security Forces"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "GIRoA",
+    "ISAF"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Some power brokers hold positions in ANSF, particularly ANP."
+  },
+  {
+   "name": "ANP",
+   "aliases": [
+    "Afghan National Police"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "ANSF"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Power brokers in the ANP described as agents of corruption and illicit trafficking."
+  },
+  {
+   "name": "UNAMA",
+   "aliases": [
+    "United Nations Assistance Mission in Afghanistan"
+   ],
+   "type": "international body",
+   "parent_or_allies": [
+    "ISAF",
+    "GIRoA"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Poor unity of effort with ISAF noted."
+  },
+  {
+   "name": "Iranian Qods Force",
+   "aliases": [
+    "Qods Force",
+    "Quds Force"
+   ],
+   "type": "military",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Iran",
+   "notes": "Reportedly trains fighters for certain Taliban groups and provides other military assistance to insurgents."
+  },
+  {
+   "name": "ANA",
+   "aliases": [
+    "Afghan National Army"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "ANSF"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Target strength is 134,000 by Fall 2010, with a new ceiling of 240,000."
+  },
+  {
+   "name": "CSTC-A",
+   "aliases": [
+    "Combined Security Transition Command-Afghanistan"
+   ],
+   "type": "military",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "With NTM-A, to focus on ANSF institution-building."
+  },
+  {
+   "name": "NATO Training Mission-Afghanistan",
+   "aliases": [
+    "NTM-A"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "NATO",
+    "CSTC-A"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "New mission to focus on ANSF institution-building, force generation and leader development."
+  },
+  {
+   "name": "Afghan Public Protection Program",
+   "aliases": [
+    "AP3"
+   ],
+   "type": "other",
+   "parent_or_allies": [
+    "GIRoA"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Locally-based security initiative proposed to create village-level indigenous security."
+  },
+  {
+   "name": "Northern Distribution Network",
+   "aliases": [
+    "NDN"
+   ],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "ISAF logistics route dependent on support from Russia and Central Asian states."
+  },
+  {
+   "name": "Provincial Reconstruction Teams",
+   "aliases": [
+    "PRTs"
+   ],
+   "type": "other",
+   "parent_or_allies": [
+    "ISAF"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Civilian-military teams helping build sub-national governance."
+  },
+  {
+   "name": "District Support Teams",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [
+    "ISAF"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "New teams for sub-national governance support."
+  },
+  {
+   "name": "National Solidarity Program",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [
+    "GIRoA"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Community-level governance program."
+  },
+  {
+   "name": "Afghan Social Outreach Program",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [
+    "GIRoA"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Community-level program linking communities to the national government."
+  },
+  {
+   "name": "Ministry of Finance",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [
+    "GIRoA"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Requested civilian technical assistance."
+  },
+  {
+   "name": "OXFAM",
+   "aliases": [
+    "Oxfam"
+   ],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Its report is cited as showing a significant share of development funding is diverted."
+  },
+  {
+   "name": "Joint Operational Planning Group",
+   "aliases": [
+    "JOPG"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "ISAF"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Multidisciplinary group assessing the ISAF COIN campaign plan."
+  },
+  {
+   "name": "ISAF Joint Command",
+   "aliases": [
+    "IJC",
+    "UC"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "ISAF"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Three-star intermediate command approved by NAC on 4 Aug 2009; IOC 12 Oct 2009, FOC 12 Nov 2009."
+  },
+  {
+   "name": "Combined Security Transition Command-Afghanistan",
+   "aliases": [
+    "CSTC-A"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "USFOR-A",
+    "NTM-A"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "US training command; to focus on force generation and ministerial development; folded into NTM-A."
+  },
+  {
+   "name": "USFOR-A",
+   "aliases": [
+    "United States Forces-Afghanistan",
+    "US Forces-Afghanistan"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "United States Government",
+    "ISAF"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Tasked to transfer OEF units OPCON to COMISAF."
+  },
+  {
+   "name": "USCENTCOM",
+   "aliases": [
+    "United States Central Command"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "United States Government"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Commanded by Gen. Petraeus."
+  },
+  {
+   "name": "United States Government",
+   "aliases": [
+    "USG"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "ISAF"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Authored ICMCP, a whole-of-government approach."
+  },
+  {
+   "name": "Insurgents",
+   "aliases": [
+    "INS",
+    "Enemies of Afghanistan"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [
+    "ISAF",
+    "GIRoA"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Described generically; use winter to reorganize; counter-narcotics intelligence ties narcotics industry to insurgent funding."
+  },
+  {
+   "name": "Insurgents (INS)",
+   "aliases": [
+    "INS",
+    "insurgents"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [
+    "ISAF",
+    "GIRoA"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Generic term for the insurgency. The document says they undermine ISAF and GIRoA credibility through effective information operations and that some are in Pakistan."
+  },
+  {
+   "name": "SHAPE",
+   "aliases": [
+    "Supreme Headquarters Allied Powers Europe"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "NATO"
+   ],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Contributed StratCom experts to the planning process."
+  },
+  {
+   "name": "JFC-B",
+   "aliases": [
+    "Joint Force Command Brunssum"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "NATO"
+   ],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Contributed StratCom experts to the planning process."
+  },
+  {
+   "name": "Counter Insurgency Training Center-Afghanistan",
+   "aliases": [
+    "COIN Academy"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "ISAF"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Source of expertise to train units on the Tactical Directive and COIN guidance."
+  },
+  {
+   "name": "Ministry of Defense (Afghanistan)",
+   "aliases": [
+    "MOD"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "GIRoA"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Its spokespersons are to be linked with ISAF."
+  },
+  {
+   "name": "Ministry of Interior (Afghanistan)",
+   "aliases": [
+    "MOI"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "GIRoA"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Its spokespersons are to be linked with ISAF."
+  },
+  {
+   "name": "Government Media and Information Centre",
+   "aliases": [
+    "GMIC"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "GIRoA"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "To be expanded with regional nodes."
+  },
+  {
+   "name": "CIVCAS Tracking Cell",
+   "aliases": [],
+   "type": "military",
+   "parent_or_allies": [
+    "ISAF"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Established by ISAF in August 2008."
+  },
+  {
+   "name": "Al Qaeda",
+   "aliases": [
+    "al-Qaeda",
+    "al-Qa'ida"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [
+    "ISAF"
+   ],
+   "country_base": "",
+   "notes": "Taliban and Al Qaeda insurgents are said to make up over 2,500 of 14,500 inmates in the Afghan Corrections System."
+  },
+  {
+   "name": "Afghan Corrections System",
+   "aliases": [
+    "ACS"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "GIRoA"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Overcrowded; insurgents use it as a sanctuary and base to plan operations."
+  },
+  {
+   "name": "Central Prisons Directorate",
+   "aliases": [
+    "CPD",
+    "Afghan Central Prison Directorate"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "GIRoA"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Accepts a lack of offensive violence in Taliban-controlled facilities as a half-win; to be reformed by the Afghanistan Prison Engagement Group."
+  },
+  {
+   "name": "Bagram Theater Internment Facility",
+   "aliases": [
+    "BTIF"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "USFOR-A"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "US detention facility; the recommendation is its eventual turnover to the Afghan government."
+  },
+  {
+   "name": "Combined Joint Interagency Task Force",
+   "aliases": [
+    "CJIATF",
+    "OIATF"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "USFOR-A"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Proposed task force of about 120 personnel to oversee US detention, interrogation, and corrections and rule-of-law development; the OCR renders the acronym as OIATF/CIIATF."
+  },
+  {
+   "name": "U.S. Forces-Afghanistan",
+   "aliases": [
+    "USFOR-A"
+   ],
+   "type": "military",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Proposes forming the task force as a Major Subordinate Command."
+  },
+  {
+   "name": "Afghan National Army",
+   "aliases": [
+    "ANA"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "ANSF"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "About 92k strong; growth planned to 134k by Oct 2010 and an estimated 240k."
+  },
+  {
+   "name": "Afghan National Police",
+   "aliases": [
+    "ANP"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "ANSF",
+    "Ministry of Interior"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "About 84k strong; recommended growth to 160k."
+  },
+  {
+   "name": "Afghan National Civil Order Police",
+   "aliases": [
+    "ANCOP"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "ANP",
+    "Afghan National Police"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Elite police force to be expanded with new national, provincial, and regional battalions."
+  },
+  {
+   "name": "Afghan Border Police",
+   "aliases": [
+    "ABP"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "ANP",
+    "Afghan National Police"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Each company to grow by 65% to 150 men."
+  },
+  {
+   "name": "Afghan Public Protection Force",
+   "aliases": [
+    "APPF",
+    "Afghan Public Protection Program",
+    "AP3"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "ANP",
+    "Afghan National Police"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Personnel to be absorbed into the ANP as it expands."
+  },
+  {
+   "name": "North Atlantic Council",
+   "aliases": [
+    "NAC"
+   ],
+   "type": "international body",
+   "parent_or_allies": [
+    "NATO"
+   ],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Endorsed NTM-A on 12 June 2009."
+  },
+  {
+   "name": "Afghan Ministry of Defense",
+   "aliases": [
+    "MoD"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "GIRoA"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Planned accelerated training of 8 Kandaks with CSTC-A support."
+  },
+  {
+   "name": "Bureau of International Narcotics and Law Enforcement Affairs",
+   "aliases": [
+    "INL"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "US Department of State"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Recommended to transfer police training responsibility to CSTC-A."
+  },
+  {
+   "name": "Defense Security Cooperation Agency",
+   "aliases": [
+    "DSCA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "US Department of Defense"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Handles ANSF procurement as pseudo-FMS cases; assessment seeks to bypass."
+  },
+  {
+   "name": "United States Army Security Assistance Command",
+   "aliases": [
+    "USASAC"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "US Army"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Charges fees for ANSF procurement."
+  },
+  {
+   "name": "Office of the Secretary of Defense",
+   "aliases": [
+    "OSD"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Transferred funds to INL since 2005 for ANP development."
+  },
+  {
+   "name": "European Commission",
+   "aliases": [
+    "EC"
+   ],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Requested a parallel study on ANP character and end strength."
+  },
+  {
+   "name": "United Nations Assistance Mission in Afghanistan",
+   "aliases": [
+    "UNAMA"
+   ],
+   "type": "international body",
+   "parent_or_allies": [
+    "United Nations"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Established by UNSCR 1401 (2002); designated IC lead by UNSCR 1806 (2008)."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Theatre of the conflict assessed."
+  },
+  {
+   "name": "Kabul",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Location of ISAF HQ; letter dated from Kabul."
+  },
+  {
+   "name": "Washington, DC",
+   "type": "city",
+   "country": "United States",
+   "parent": "United States",
+   "significance": "Location of Secretary of Defense."
+  },
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Mentioned in Obama's Af-Pak strategy."
+  },
+  {
+   "name": "Kandahar City",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Kandahar",
+   "significance": "Key geographical objective of the QST"
+  },
+  {
+   "name": "Khowst",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Key objective of HQN; traditional base"
+  },
+  {
+   "name": "Paktia",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Part of HQN traditional base"
+  },
+  {
+   "name": "Paktika",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Part of HQN traditional base"
+  },
+  {
+   "name": "Nangarhar",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "HiG militant bases"
+  },
+  {
+   "name": "Nuristan",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "HiG militant bases"
+  },
+  {
+   "name": "Kunar",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "HiG militant bases"
+  },
+  {
+   "name": "India",
+   "type": "country",
+   "country": "India",
+   "parent": "",
+   "significance": "Its growing influence in Afghanistan is likely to exacerbate regional tensions."
+  },
+  {
+   "name": "Iran",
+   "type": "country",
+   "country": "Iran",
+   "parent": "",
+   "significance": "Plays an ambiguous role; the Qods Force reportedly trains Taliban fighters."
+  },
+  {
+   "name": "Russia",
+   "type": "country",
+   "country": "Russia",
+   "parent": "",
+   "significance": "Northern neighbor with enduring interests in segments of Afghanistan. Supports the NDN."
+  },
+  {
+   "name": "Central Asia",
+   "type": "region",
+   "country": "",
+   "parent": "",
+   "significance": "Central Asian states provide logistical hubs for the NDN."
+  },
+  {
+   "name": "RC(E)",
+   "type": "region",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Regional Command East; US Senior Civilian Representative established."
+  },
+  {
+   "name": "RC(S)",
+   "type": "region",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Regional Command South; US Senior Civilian Representative established."
+  },
+  {
+   "name": "Pakistan border area",
+   "type": "region",
+   "country": "Pakistan",
+   "parent": "Pakistan",
+   "significance": "Pakistani military operations in the border area are an external event affecting the insurgent cycle."
+  },
+  {
+   "name": "RC(N)",
+   "aliases": [
+    "Regional Command North"
+   ],
+   "type": "region",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "StratCom elements here are noted as relatively weak."
+  },
+  {
+   "name": "RC(W)",
+   "aliases": [
+    "Regional Command West"
+   ],
+   "type": "region",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "StratCom elements here are noted as relatively weak."
+  },
+  {
+   "name": "RC(C)",
+   "aliases": [
+    "Regional Command Capital"
+   ],
+   "type": "region",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "StratCom elements here are noted as relatively weak."
+  },
+  {
+   "name": "Bagram",
+   "type": "base",
+   "country": "Afghanistan",
+   "parent": "Parwan",
+   "significance": "Site of the US Bagram Theater Internment Facility."
+  },
+  {
+   "name": "Southern Afghanistan",
+   "type": "region",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Key area for accelerated ANA Kandak training."
+  }
+ ],
+ "events": [
+  {
+   "date": "2009-03-27",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "President Obama speech outlining new US Strategy for Afghanistan and Pakistan.",
+   "place": "United States",
+   "actors": [
+    "Barack Obama"
+   ],
+   "timestamp": "p.9"
+  },
+  {
+   "date": "2009-06-26",
+   "date_precision": "day",
+   "type": "other",
+   "description": "Secretary of Defense directed CENTCOM to provide a multidisciplinary assessment of Afghanistan.",
+   "place": "Washington, DC",
+   "actors": [
+    "Robert M. Gates",
+    "US Central Command"
+   ],
+   "timestamp": "p.4"
+  },
+  {
+   "date": "2009-07-01",
+   "date_precision": "day",
+   "type": "other",
+   "description": "SACEUR and NATO Secretary General issued a similar directive for an assessment.",
+   "place": "",
+   "actors": [
+    "Supreme Allied Commander Europe",
+    "NATO"
+   ],
+   "timestamp": "p.4"
+  },
+  {
+   "date": "2009-07-02",
+   "date_precision": "day",
+   "type": "other",
+   "description": "CENTCOM directed COMISAF/USFOR-A to complete the overall review.",
+   "place": "",
+   "actors": [
+    "US Central Command",
+    "Stanley McChrystal"
+   ],
+   "timestamp": "p.4"
+  },
+  {
+   "date": "2009-08-30",
+   "date_precision": "day",
+   "type": "other",
+   "description": "McChrystal submitted the Initial Assessment to Secretary Gates from Kabul.",
+   "place": "Kabul",
+   "actors": [
+    "Stanley McChrystal",
+    "Robert M. Gates"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2009-08-30",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Publication of the Commander's Initial Assessment describing the insurgency (QST, HQN, HiG) and external influences",
+   "place": "Kabul",
+   "actors": [
+    "ISAF"
+   ],
+   "timestamp": "p.11"
+  },
+  {
+   "date": "2010",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Target for ANA to reach 134,000 strength by Fall 2010, with a ceiling of 240,000.",
+   "place": "Afghanistan",
+   "actors": [
+    "ANA",
+    "ISAF"
+   ],
+   "timestamp": "p.23"
+  },
+  {
+   "date": "2009",
+   "date_precision": "year",
+   "type": "other",
+   "description": "The recent Presidential and Provincial Council elections were executed smoothly from a security standpoint, but their credibility remains an open question.",
+   "place": "Afghanistan",
+   "actors": [
+    "GIRoA"
+   ],
+   "timestamp": "p.24"
+  },
+  {
+   "date": "2009-08",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Afghan Presidential and Provincial Council elections, with a spike of insurgent violence (3-4 times average attacks) against ISAF and ANSF, mainly in the south and east.",
+   "place": "Afghanistan",
+   "actors": [
+    "ISAF",
+    "ANSF",
+    "GIRoA"
+   ],
+   "timestamp": "p.24"
+  },
+  {
+   "date": "2008-06",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Efforts to formalize ISAF-ANSF partnership begin.",
+   "place": "Afghanistan",
+   "actors": [
+    "ISAF",
+    "ANSF"
+   ],
+   "timestamp": "p.33"
+  },
+  {
+   "date": "2008-11",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Framework and FRAGO issued directing ISAF-ANSF partnering.",
+   "place": "Afghanistan",
+   "actors": [
+    "ISAF",
+    "ANSF"
+   ],
+   "timestamp": "p.33"
+  },
+  {
+   "date": "2009-08-04",
+   "date_precision": "day",
+   "type": "appointment",
+   "description": "NATO North Atlantic Council approved creation of an intermediate three-star command (ISAF Joint Command) between COMISAF and the RCs.",
+   "place": "",
+   "actors": [
+    "NATO",
+    "ISAF Joint Command"
+   ],
+   "timestamp": "p.36"
+  },
+  {
+   "date": "2009-08-15",
+   "date_precision": "day",
+   "type": "agreement",
+   "description": "Eikenberry and McChrystal signed the USG Integrated Civil-Military Campaign Plan, forwarded to Holbrooke and Petraeus.",
+   "place": "Afghanistan",
+   "actors": [
+    "Karl Eikenberry",
+    "Stanley McChrystal",
+    "Richard Holbrooke",
+    "David Petraeus"
+   ],
+   "timestamp": "p.39"
+  },
+  {
+   "date": "2009-09-10",
+   "date_precision": "day",
+   "type": "other",
+   "description": "Planned initial operational capability of NTM-A.",
+   "place": "Afghanistan",
+   "actors": [
+    "NATO Training Mission-Afghanistan"
+   ],
+   "timestamp": "p.36"
+  },
+  {
+   "date": "2009-10-12",
+   "date_precision": "day",
+   "type": "other",
+   "description": "Planned IOC of ISAF Joint Command (FOC 12 Nov 2009).",
+   "place": "Afghanistan",
+   "actors": [
+    "ISAF Joint Command"
+   ],
+   "timestamp": "p.36"
+  },
+  {
+   "date": "2008-08",
+   "date_precision": "month",
+   "type": "other",
+   "description": "ISAF established the CIVCAS Tracking Cell.",
+   "place": "Afghanistan",
+   "actors": [
+    "ISAF",
+    "CIVCAS Tracking Cell"
+   ],
+   "timestamp": "p.46"
+  },
+  {
+   "date": "2009-07-01",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "ISAF issued a revised Tactical Directive to all troops, describing how and when lethal force should be used and stressing civilian protection.",
+   "place": "Afghanistan",
+   "actors": [
+    "ISAF"
+   ],
+   "timestamp": "p.46"
+  },
+  {
+   "date": "2002-01-04",
+   "date_precision": "day",
+   "type": "agreement",
+   "description": "Military Technical Agreement between ISAF and GIRoA; ISAF not required to pay compensation for damage to civilian or governmental property.",
+   "place": "Afghanistan",
+   "actors": [
+    "ISAF",
+    "GIRoA"
+   ],
+   "timestamp": "p.49"
+  },
+  {
+   "date": "2009-04",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Decision to grow the ANP by 4.8K to provide security for Kabul ahead of the Afghan national elections.",
+   "place": "Kabul",
+   "actors": [
+    "Afghan National Police"
+   ],
+   "timestamp": "p.57"
+  },
+  {
+   "date": "2009-06-12",
+   "date_precision": "day",
+   "type": "agreement",
+   "description": "North Atlantic Council endorsed creation of NATO Training Mission-Afghanistan (NTM-A).",
+   "place": "",
+   "actors": [
+    "North Atlantic Council",
+    "NATO Training Mission-Afghanistan"
+   ],
+   "timestamp": "p.57"
+  },
+  {
+   "date": "2009-09",
+   "date_precision": "month",
+   "type": "other",
+   "description": "NTM-A scheduled to stand up in mid-September to generate forces and provide institutional training.",
+   "place": "Afghanistan",
+   "actors": [
+    "NATO Training Mission-Afghanistan",
+    "CSTC-A"
+   ],
+   "timestamp": "p.57"
+  },
+  {
+   "date": "2009-10",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Planned start of accelerated ANA growth.",
+   "place": "Afghanistan",
+   "actors": [
+    "Afghan National Army"
+   ],
+   "timestamp": "p.55"
+  },
+  {
+   "date": "approx 2008",
+   "date_precision": "approx",
+   "type": "attack",
+   "description": "Serena Hotel bombing, cited as an example of lethal operations planned from the prison system.",
+   "place": "Kabul",
+   "actors": [
+    "Taliban"
+   ],
+   "timestamp": "p.50"
+  },
+  {
+   "date": "2009-04",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Decision made to grow ANP by 4.8K to provide security for Kabul ahead of national elections; followed by a further 10K growth for 14 key provinces.",
+   "place": "Kabul",
+   "actors": [
+    "Afghan National Police"
+   ],
+   "timestamp": "p.57"
+  },
+  {
+   "date": "2009-09",
+   "date_precision": "month",
+   "type": "other",
+   "description": "NTM-A scheduled to stand up in mid-September 2009.",
+   "place": "Afghanistan",
+   "actors": [
+    "NATO Training Mission-Afghanistan"
+   ],
+   "timestamp": "p.57"
+  },
+  {
+   "date": "2009-08-04",
+   "date_precision": "day",
+   "type": "agreement",
+   "detail": "",
+   "description": "NATO's North Atlantic Council approved creation of an intermediate three-star command (ISAF Joint Command) between COMISAF and the RCs.",
+   "place": "",
+   "actors": [
+    "North Atlantic Council",
+    "ISAF Joint Command"
+   ],
+   "timestamp": "p.36"
+  },
+  {
+   "date": "2009-10-12",
+   "date_precision": "day",
+   "type": "other",
+   "description": "Planned Initial Operational Capability of the ISAF Joint Command.",
+   "place": "Afghanistan",
+   "actors": [
+    "ISAF Joint Command"
+   ],
+   "timestamp": "p.36"
+  },
+  {
+   "date": "2009-11-12",
+   "date_precision": "day",
+   "type": "other",
+   "description": "Planned Full Operational Capability of the ISAF Joint Command.",
+   "place": "Afghanistan",
+   "actors": [
+    "ISAF Joint Command"
+   ],
+   "timestamp": "p.36"
+  },
+  {
+   "date": "2009-09-10",
+   "date_precision": "day",
+   "type": "other",
+   "description": "Planned Initial Operational Capability of NATO Training Mission-Afghanistan.",
+   "place": "Afghanistan",
+   "actors": [
+    "NATO Training Mission-Afghanistan"
+   ],
+   "timestamp": "p.36"
+  },
+  {
+   "date": "2009",
+   "date_precision": "year",
+   "type": "other",
+   "description": "HQ ISAF issued FRAGO 408-2009 directing establishment of a National Military Coordination Center with GIRoA.",
+   "place": "Afghanistan",
+   "actors": [
+    "ISAF",
+    "Government of the Islamic Republic of Afghanistan"
+   ],
+   "timestamp": "p.36"
+  },
+  {
+   "date": "2009-08-30",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Commander's Initial Assessment concludes that ISAF needs a new, properly resourced population-centric strategy and more forces.",
+   "place": "Kabul",
+   "actors": [
+    "Stanley McChrystal",
+    "ISAF"
+   ],
+   "timestamp": "p.30"
+  },
+  {
+   "date": "2009",
+   "date_precision": "year",
+   "type": "other",
+   "description": "A multidisciplinary Joint Operational Planning Group is formed to assess the ISAF counterinsurgency campaign strategy, OPLAN and OPORD as part of the Initial Assessment.",
+   "place": "Kabul",
+   "actors": [
+    "Joint Operational Planning Group",
+    "ISAF"
+   ],
+   "timestamp": "p.31"
+  },
+  {
+   "date": "2008-06",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Efforts began to formalize ISAF–ANSF partnership.",
+   "place": "Afghanistan",
+   "actors": [
+    "ISAF",
+    "Afghan National Security Forces"
+   ],
+   "timestamp": "p.33"
+  },
+  {
+   "date": "2008-11",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Framework developed and FRAGO issued directing ISAF–ANSF partnering.",
+   "place": "Afghanistan",
+   "actors": [
+    "ISAF",
+    "Afghan National Security Forces"
+   ],
+   "timestamp": "p.33"
+  },
+  {
+   "date": "approx 2009",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Joint Operational Planning Group formed to assess ISAF campaign strategy as part of the Initial Assessment.",
+   "place": "Kabul",
+   "actors": [
+    "Joint Operational Planning Group",
+    "International Security Assistance Force"
+   ],
+   "timestamp": "p.31"
+  },
+  {
+   "date": "approx 2009",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "CSTC-A transitioning to NATO Training Mission-Afghanistan concurrently with formation of ISAF Joint Command.",
+   "place": "Afghanistan",
+   "actors": [
+    "CSTC-A",
+    "NATO Training Mission-Afghanistan",
+    "ISAF Joint Command"
+   ],
+   "timestamp": "p.34"
+  },
+  {
+   "date": "2002-01-04",
+   "date_precision": "day",
+   "type": "agreement",
+   "description": "Military Technical Agreement between ISAF and GIRoA, under which ISAF is not required to compensate for civilian or governmental property damage.",
+   "place": "Afghanistan",
+   "actors": [
+    "International Security Assistance Force",
+    "Government of the Islamic Republic of Afghanistan"
+   ],
+   "timestamp": "p.49"
+  },
+  {
+   "date": "2009",
+   "date_precision": "year",
+   "type": "other",
+   "description": "USFOR-A proposes forming a new Combined Joint Interagency Task Force for detention and rule of law operations.",
+   "place": "Afghanistan",
+   "actors": [
+    "US Forces-Afghanistan",
+    "Combined Joint Interagency Task Force"
+   ],
+   "timestamp": "p.50"
+  },
+  {
+   "date": "2009-08-15",
+   "date_precision": "day",
+   "type": "agreement",
+   "description": "Eikenberry and McChrystal sign the Integrated Civil-Military Campaign Plan and forward it to Holbrooke and Petraeus.",
+   "place": "Afghanistan",
+   "actors": [
+    "Karl Eikenberry",
+    "Stanley McChrystal",
+    "Richard Holbrooke",
+    "David Petraeus"
+   ],
+   "timestamp": "p.39"
+  },
+  {
+   "date": "2009-07-01",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Revised Tactical Directive on protection of civilians issued, cited as a key StratCom tool.",
+   "place": "Afghanistan",
+   "actors": [
+    "International Security Assistance Force"
+   ],
+   "timestamp": "p.42"
+  },
+  {
+   "date": "2001-12-05",
+   "date_precision": "day",
+   "type": "agreement",
+   "description": "Bonn Agreement on provisional arrangements in Afghanistan signed.",
+   "place": "Afghanistan",
+   "actors": [
+    "Government of the Islamic Republic of Afghanistan"
+   ],
+   "timestamp": "p.65"
+  },
+  {
+   "date": "2001-12-31",
+   "date_precision": "day",
+   "type": "agreement",
+   "description": "Military Technical Agreement between ISAF and the Interim Administration of Afghanistan.",
+   "place": "Afghanistan",
+   "actors": [
+    "International Security Assistance Force"
+   ],
+   "timestamp": "p.65"
+  },
+  {
+   "date": "2001-12-20",
+   "date_precision": "day",
+   "type": "other",
+   "description": "UNSCR 1386 authorized deployment of ISAF for six months.",
+   "place": "Afghanistan",
+   "actors": [
+    "International Security Assistance Force"
+   ],
+   "timestamp": "p.65"
+  },
+  {
+   "date": "2002-03-28",
+   "date_precision": "day",
+   "type": "other",
+   "description": "UNSCR 1401 established UNAMA.",
+   "place": "Afghanistan",
+   "actors": [
+    "UNAMA"
+   ],
+   "timestamp": "p.65"
+  },
+  {
+   "date": "2003-10-13",
+   "date_precision": "day",
+   "type": "other",
+   "description": "UNSCR 1510 authorized ISAF expansion beyond Kabul.",
+   "place": "Kabul",
+   "actors": [
+    "ISAF"
+   ],
+   "timestamp": "p.66"
+  },
+  {
+   "date": "2008-04",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Bucharest Summit Declaration.",
+   "place": "",
+   "actors": [
+    "NATO"
+   ],
+   "timestamp": "p.65"
+  },
+  {
+   "date": "2009-06-13",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "COMISAF Commander's Initial Guidance issued.",
+   "place": "Afghanistan",
+   "actors": [
+    "ISAF"
+   ],
+   "timestamp": "p.65"
+  },
+  {
+   "date": "2009-07-01",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "COMISAF Tactical Directive issued.",
+   "place": "Afghanistan",
+   "actors": [
+    "ISAF"
+   ],
+   "timestamp": "p.65"
+  },
+  {
+   "date": "approx 2009",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "QST establishes a body to receive complaints against its own officials and ombudsmen to investigate abuse of power, plus shari'a courts.",
+   "place": "Afghanistan",
+   "actors": [
+    "Quetta Shura Taliban"
+   ],
+   "timestamp": "p.15"
+  },
+  {
+   "date": "2009",
+   "date_precision": "year",
+   "type": "statement",
+   "description": "OXFAM report indicating significant diversion of development funding is cited.",
+   "place": "Afghanistan",
+   "actors": [
+    "OXFAM"
+   ],
+   "timestamp": "p.26"
+  },
+  {
+   "date": "approx 2010-2011",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Planned second stage (strategic consolidation) as ISAF and ANSF capabilities grow over the next 12-24 months.",
+   "place": "Afghanistan",
+   "actors": [
+    "International Security Assistance Force",
+    "Afghan National Security Forces"
+   ],
+   "timestamp": "p.27"
+  },
+  {
+   "date": "2009-07-01",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "A revised Tactical Directive on the use of lethal force was issued to all troops in theatre.",
+   "place": "Afghanistan",
+   "actors": [
+    "ISAF"
+   ],
+   "timestamp": "p.46"
+  },
+  {
+   "date": "2002-01-04",
+   "date_precision": "day",
+   "type": "agreement",
+   "description": "The Military Technical Agreement between ISAF and GIRoA was dated 4 Jan 2002.",
+   "place": "Afghanistan",
+   "actors": [
+    "ISAF",
+    "Government of the Islamic Republic of Afghanistan"
+   ],
+   "timestamp": "p.49"
+  },
+  {
+   "date": "approx 2009",
+   "date_precision": "approx",
+   "type": "meeting",
+   "description": "Quetta Shura conducts formal annual winter campaign review; Mullah Omar then announces guidance for the coming year.",
+   "place": "Pakistan",
+   "actors": [
+    "Quetta Shura Taliban",
+    "Mullah Omar"
+   ],
+   "timestamp": "p.14"
+  },
+  {
+   "date": "2009-06-26",
+   "date_precision": "day",
+   "type": "other",
+   "description": "Secretary of Defense directs CENTCOM commander to provide a multidisciplinary assessment of the situation in Afghanistan.",
+   "place": "Washington, DC",
+   "actors": [
+    "Robert M. Gates",
+    "US Central Command"
+   ],
+   "timestamp": "p.4"
+  },
+  {
+   "date": "2009-07-01",
+   "date_precision": "day",
+   "type": "other",
+   "description": "SACEUR and NATO Secretary General issue a similar directive for an assessment.",
+   "place": "",
+   "actors": [
+    "Supreme Allied Commander Europe",
+    "NATO"
+   ],
+   "timestamp": "p.4"
+  },
+  {
+   "date": "2009-07-02",
+   "date_precision": "day",
+   "type": "other",
+   "description": "COMISAF/USFOR-A receives direction from CDRUSCENTCOM to complete the overall review.",
+   "place": "Kabul",
+   "actors": [
+    "Stanley McChrystal",
+    "US Central Command"
+   ],
+   "timestamp": "p.4"
+  },
+  {
+   "date": "2009-08-30",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "McChrystal submits the Initial Assessment to Secretary Gates.",
+   "place": "Kabul",
+   "actors": [
+    "Stanley McChrystal",
+    "Robert M. Gates"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2009",
+   "date_precision": "year",
+   "type": "other",
+   "detail": "",
+   "description": "ISAF completed a full review of detainee policies and practices with recommendations for substantial revisions.",
+   "place": "Afghanistan",
+   "actors": [
+    "ISAF"
+   ],
+   "timestamp": "p.24"
+  },
+  {
+   "date": "2009",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Recent Presidential and Provincial Council elections were executed smoothly from a security standpoint, though credibility of results remained in question.",
+   "place": "Afghanistan",
+   "actors": [
+    "GIRoA"
+   ],
+   "timestamp": "p.24"
+  },
+  {
+   "date": "2010",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Target: ANA to reach 134,000 strength by Fall 2010, with ceiling of 240,000; ANP target raised to 160,000.",
+   "place": "Afghanistan",
+   "actors": [
+    "ANA",
+    "ANP",
+    "ISAF",
+    "GIRoA"
+   ],
+   "timestamp": "p.23"
+  },
+  {
+   "date": "2009",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Proposed establishment of an intermediate operational headquarters to improve unity of command and effort.",
+   "place": "Afghanistan",
+   "actors": [
+    "ISAF"
+   ],
+   "timestamp": "p.22"
+  },
+  {
+   "date": "2009-03-27",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "President Obama gave a speech outlining the new U.S. Strategy for Afghanistan and Pakistan.",
+   "place": "Washington, DC",
+   "actors": [
+    "Barack Obama"
+   ],
+   "timestamp": "p.9"
+  },
+  {
+   "date": "2009",
+   "date_precision": "year",
+   "type": "meeting",
+   "description": "McChrystal held consultations with Afghan Defense Minister Wardak during the assessment.",
+   "place": "Afghanistan",
+   "actors": [
+    "Stanley McChrystal",
+    "Abdul Rahim Wardak"
+   ],
+   "timestamp": "p.8"
+  },
+  {
+   "date": "2009",
+   "date_precision": "year",
+   "type": "other",
+   "detail": "",
+   "description": "Afghan Presidential and Provincial Council elections; spike in insurgent attacks against ISAF and ANSF at three to four times the average.",
+   "place": "Afghanistan",
+   "actors": [
+    "Insurgents",
+    "ISAF",
+    "ANSF",
+    "GIRoA"
+   ],
+   "timestamp": "p.25"
+  },
+  {
+   "date": "2009",
+   "date_precision": "year",
+   "type": "other",
+   "description": "ISAF completed a full review of detainee policies and practices, recommending transfer of long-term detention to GIRoA.",
+   "place": "Afghanistan",
+   "actors": [
+    "ISAF",
+    "GIRoA"
+   ],
+   "timestamp": "p.24"
+  },
+  {
+   "date": "2009-04",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Decision to grow the ANP by 4.8K to provide security for Kabul ahead of national elections.",
+   "place": "Kabul",
+   "actors": [
+    "Afghan National Police"
+   ],
+   "timestamp": "p.57"
+  },
+  {
+   "date": "2009-06-12",
+   "date_precision": "day",
+   "type": "agreement",
+   "description": "North Atlantic Council endorsed creation of NATO Training Mission-Afghanistan.",
+   "place": "Afghanistan",
+   "actors": [
+    "North Atlantic Council",
+    "NATO Training Mission-Afghanistan"
+   ],
+   "timestamp": "p.57"
+  },
+  {
+   "date": "2009-09",
+   "date_precision": "month",
+   "type": "other",
+   "description": "NTM-A scheduled to stand up in mid-September.",
+   "place": "Afghanistan",
+   "actors": [
+    "NATO Training Mission-Afghanistan"
+   ],
+   "timestamp": "p.57"
+  },
+  {
+   "date": "2010-01",
+   "date_precision": "month",
+   "type": "agreement",
+   "description": "New CSTC-A-managed police training contract is to begin, replacing INL contracted trainers.",
+   "place": "Afghanistan",
+   "actors": [
+    "CSTC-A",
+    "Bureau of International Narcotics and Law Enforcement Affairs"
+   ],
+   "timestamp": "p.60"
+  },
+  {
+   "date": "2009-04",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Decision made to grow the ANP by 4.8K to provide security for Kabul ahead of elections.",
+   "place": "Kabul",
+   "actors": [
+    "Afghan National Police"
+   ],
+   "timestamp": "p.57"
+  },
+  {
+   "date": "2009-06-12",
+   "date_precision": "day",
+   "type": "agreement",
+   "description": "North Atlantic Council endorsed the creation of NATO Training Mission-Afghanistan.",
+   "place": "",
+   "actors": [
+    "North Atlantic Council",
+    "NATO Training Mission-Afghanistan"
+   ],
+   "timestamp": "p.57"
+  },
+  {
+   "date": "2009-11",
+   "date_precision": "month",
+   "type": "other",
+   "description": "First C-27 aircraft deliveries for ANA Air Corps.",
+   "place": "Afghanistan",
+   "actors": [
+    "Afghan National Army"
+   ],
+   "timestamp": "p.56"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Stanley McChrystal",
+   "target": "International Security Assistance Force",
+   "type": "leads",
+   "detail": "McChrystal commands ISAF and USFOR-A.",
+   "date": "2009",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Commander, United States Forces - Afghanistan/ International Security Assistance Force, Afghanistan"
+  },
+  {
+   "source": "Stanley McChrystal",
+   "target": "Robert M. Gates",
+   "type": "reports_to",
+   "detail": "Submitted the assessment to the Secretary of Defense as directed.",
+   "date": "2009-08-30",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "As directed by the Reference, my Initial Assessment is attached."
+  },
+  {
+   "source": "Stanley McChrystal",
+   "target": "US Central Command",
+   "type": "reports_to",
+   "detail": "COMISAF received direction from CDRUSCENTCOM to complete the review and cc'd CENTCOM.",
+   "date": "2009-07-02",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "COMISAF/USFOR-A, received direction from CDRUSCENTCOM to complete the overall review."
+  },
+  {
+   "source": "Stanley McChrystal",
+   "target": "Abdul Rahim Wardak",
+   "type": "met_with",
+   "detail": "McChrystal consulted Defense Minister Wardak and drew on his writings.",
+   "date": "2009",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "During consultations with Afghan Defense Minister Wardak, I found some of his writings insightful"
+  },
+  {
+   "source": "Abdul Rahim Wardak",
+   "target": "Government of the Islamic Republic of Afghanistan",
+   "type": "member_of",
+   "detail": "Wardak serves as Afghan Defense Minister.",
+   "date": "2009",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "Afghan Defense Minister Wardak"
+  },
+  {
+   "source": "International Security Assistance Force",
+   "target": "Government of the Islamic Republic of Afghanistan",
+   "type": "allied_with",
+   "detail": "ISAF conducts operations in support of GIRoA.",
+   "date": "2009",
+   "confidence": "stated",
+   "timestamp": "p.10",
+   "quote": "ISAF, in support of GIRoA, conducts operations in Afghanistan to reduce the capability and will of the insurgency"
+  },
+  {
+   "source": "Mullah Omar",
+   "target": "Quetta Shura Taliban",
+   "type": "leads",
+   "detail": "Omar announces guidance and intent after the Quetta Shura's winter campaign review.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.14",
+   "quote": "the Quetta Shura conducts a formal campaign review each winter, after which Mullah Omar announces his guidance and intent"
+  },
+  {
+   "source": "Gulbuddin Hekmatyar",
+   "target": "Hezb-e Islami Gulbuddin",
+   "type": "leads",
+   "detail": "HiG is described as Hekmatyar's group.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.14",
+   "quote": "Gulbuddin Hekmatyar's HiG maintains militant bases in Nangarhar, Nuristan, and Kunar"
+  },
+  {
+   "source": "Haqqani Network",
+   "target": "al-Qaeda",
+   "type": "allied_with",
+   "detail": "HQN draws resources from its close association with al Qaeda; links have grown.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.14",
+   "quote": "from its close association with al Qaeda and other Pakistan-based insurgent groups"
+  },
+  {
+   "source": "Haqqani Network",
+   "target": "Inter-Services Intelligence",
+   "type": "funded_by",
+   "detail": "HQN draws resources principally from Pakistan; ISI elements reportedly aid insurgent leaders.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.14",
+   "quote": "HQN similarly draws resources principally from Pakistan, Gulf Arab networks"
+  },
+  {
+   "source": "Quetta Shura Taliban",
+   "target": "Pakistan",
+   "type": "located_in",
+   "detail": "Senior Afghan insurgent leaders are based in Pakistan.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.13",
+   "quote": "directed by a small number of Afghan senior leaders based in Pakistan"
+  },
+  {
+   "source": "Haqqani Network",
+   "target": "Quetta Shura Taliban",
+   "type": "allied_with",
+   "detail": "Groups coordinate loosely without a formal command structure; HQN co-exists with but does not necessarily accept QST governance.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.15",
+   "quote": "HQN and HiG co-exist with, but do not necessarily accept, the QST governing framework"
+  },
+  {
+   "source": "Haqqani Network",
+   "target": "Khowst",
+   "type": "located_in",
+   "detail": "HQN aims to regain full control of its traditional base in Khowst, Paktia and Paktika.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.14",
+   "quote": "HQN aims to regain eventually full control of its traditional base in Khowst, Paktia, and Paktika"
+  },
+  {
+   "source": "Haqqani Network",
+   "target": "al-Qa'ida",
+   "type": "allied_with",
+   "detail": "The assessment says al Qaeda's links with HQN have grown.",
+   "date": "2009",
+   "confidence": "stated",
+   "timestamp": "p.18",
+   "quote": "Al Qaeda's links with HQN have grown, suggesting that expanded HQN control could create a favorable environment for AQAM"
+  },
+  {
+   "source": "Inter-Services Intelligence",
+   "target": "Taliban",
+   "type": "other",
+   "detail": "Some ISI elements reportedly aid senior leaders of the major Afghan insurgent groups based in Pakistan.",
+   "date": "2009",
+   "confidence": "stated",
+   "timestamp": "p.18",
+   "quote": "are linked with al Qaeda and other violent extremist groups, and are reportedly aided by some elements of Pakistan's ISi."
+  },
+  {
+   "source": "Iranian Qods Force",
+   "target": "Taliban",
+   "type": "trained_by",
+   "detail": "The Iranian Qods Force is reportedly training fighters for certain Taliban groups.",
+   "date": "2009",
+   "confidence": "stated",
+   "timestamp": "p.19",
+   "quote": "the Iranian Qods Force is reportedly training fighters for certain Taliban groups"
+  },
+  {
+   "source": "al-Qa'ida",
+   "target": "Afghanistan",
+   "type": "other",
+   "detail": "AQAM in Pakistan channel foreign fighters, suicide bombers and technical assistance into Afghanistan.",
+   "date": "2009",
+   "confidence": "stated",
+   "timestamp": "p.18",
+   "quote": "channel foreign fighters, suicide bombers, and technical assistance into Afghanistan"
+  },
+  {
+   "source": "ISAF",
+   "target": "GIRoA",
+   "type": "allied_with",
+   "detail": "ISAF proposes transferring long-term detention of insurgents to GIRoA and partnering on governance.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.24",
+   "quote": "transferring responsibility for long-term detention of insurgents to GIRoA"
+  },
+  {
+   "source": "ISAF",
+   "target": "ANSF",
+   "type": "allied_with",
+   "detail": "ISAF to integrate fully with ANSF through extensive partnering.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.27",
+   "quote": "ISAF will take a new approach to integrate fully with the ANSF through extensive partnering."
+  },
+  {
+   "source": "ISAF",
+   "target": "UNAMA",
+   "type": "allied_with",
+   "detail": "ISAF to support UNAMA in sub-national governance reform.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.25",
+   "quote": "ISAF must support UNAMA and the international community in sub-national governance reform"
+  },
+  {
+   "source": "Afghan Public Protection Program",
+   "target": "GIRoA",
+   "type": "allied_with",
+   "detail": "AP3 would create village-level security in partnership with GIRoA and local shuras.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.24",
+   "quote": "create village-level indigenous security in partnership with GIRoA and local shuras"
+  },
+  {
+   "source": "Karl Eikenberry",
+   "target": "Stanley McChrystal",
+   "type": "other",
+   "detail": "Co-signed the Integrated Civil-Military Campaign Plan.",
+   "date": "2009-08-15",
+   "confidence": "stated",
+   "timestamp": "p.39",
+   "quote": "signed by the United States Ambassador to Afghanistan Karl Eikenberry and General Stanley McChrystal"
+  },
+  {
+   "source": "Stanley McChrystal",
+   "target": "ISAF",
+   "type": "leads",
+   "detail": "COMISAF commands ISAF.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.36",
+   "quote": "intermediate three-star command between COMISAF and the RCs"
+  },
+  {
+   "source": "ISAF Joint Command",
+   "target": "ISAF",
+   "type": "member_of",
+   "detail": "New three-star subordinate command under ISAF HQ.",
+   "date": "2009-08-04",
+   "confidence": "stated",
+   "timestamp": "p.34",
+   "quote": "new, Three Star ISAF Joint Command"
+  },
+  {
+   "source": "Stanley McChrystal",
+   "target": "Richard Holbrooke",
+   "type": "other",
+   "detail": "ICMCP forwarded to Holbrooke.",
+   "date": "2009-08-15",
+   "confidence": "stated",
+   "timestamp": "p.39",
+   "quote": "forwarded to Ambassador Richard Holbrooke, United States Special Representative for Afghanistan and Pakistan"
+  },
+  {
+   "source": "Stanley McChrystal",
+   "target": "David Petraeus",
+   "type": "reports_to",
+   "detail": "ICMCP forwarded to CENTCOM commander.",
+   "date": "2009-08-15",
+   "confidence": "inferred",
+   "timestamp": "p.39",
+   "quote": "General David Petraeus, Commander, United States Central Command"
+  },
+  {
+   "source": "NATO Training Mission-Afghanistan",
+   "target": "Combined Security Transition Command-Afghanistan",
+   "type": "succeeded",
+   "detail": "CSTC-A/DATES transition into NTM-A.",
+   "date": "2009",
+   "confidence": "stated",
+   "timestamp": "p.34",
+   "quote": "The transition of CSTC-A/DATES to NATO Training Mission -Afghanistan (NTM-A)"
+  },
+  {
+   "source": "ISAF",
+   "target": "NATO",
+   "type": "member_of",
+   "detail": "ISAF operates within the NATO structure and supports NATO's strategic centre of gravity of Alliance cohesion.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.40",
+   "quote": "the NATO strategic centre of gravity, (the maintenance of Alliance cohesion as specified in the ISAF OPLAN)"
+  },
+  {
+   "source": "ISAF",
+   "target": "Government of the Islamic Republic of Afghanistan",
+   "type": "allied_with",
+   "detail": "ISAF is to partner with, train and equip GIRoA to build its capacity and credibility.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.40",
+   "quote": "ISAF needs to help ensure that GIRoA receives the necessary partnering, assistance, training and equipment"
+  },
+  {
+   "source": "Insurgents (INS)",
+   "target": "ISAF",
+   "type": "rival_of",
+   "detail": "Insurgents undermine the credibility of ISAF, the IC and GIRoA through effective use of the information environment.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.40",
+   "quote": "the Insurgents (INS) have undermined the credibility of ISAF, the International Community (IC), and Government of the Islamic Republic of Afghanistan (GIRoA)"
+  },
+  {
+   "source": "USFOR-A",
+   "target": "ISAF",
+   "type": "allied_with",
+   "detail": "The StratCom IO and PA components of ISAF and USFOR-A are to be fully integrated for unity of command and effort.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.44",
+   "quote": "ISAF and USFOR-A StratCom IO and Public Affairs (PA) components must be fully integrated"
+  },
+  {
+   "source": "Insurgents (INS)",
+   "target": "Pakistan",
+   "type": "located_in",
+   "detail": "The document refers to insurgents in Pakistan whom ISAF should seek ways to reach.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.44",
+   "quote": "Seek ways to reach the INS in Pakistan"
+  },
+  {
+   "source": "Taliban",
+   "target": "Afghan Corrections System",
+   "type": "other",
+   "detail": "Insurgents use the ACS as a sanctuary and base to conduct operations and radicalize inmates.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.50",
+   "quote": "insurgents use the ACS as a sanctuary and base to conduct lethal operations against GIRoA and coalition forces"
+  },
+  {
+   "source": "Taliban",
+   "target": "Central Prisons Directorate",
+   "type": "other",
+   "detail": "Multiple national prison facilities are under Taliban control.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.50",
+   "quote": "Multiple national facilities are firmly under the control of the Taliban."
+  },
+  {
+   "source": "Taliban",
+   "target": "Al Qaeda",
+   "type": "allied_with",
+   "detail": "Taliban/Al Qaeda leaders are described jointly as coordinating and planning inside prisons.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.50",
+   "quote": "Taliban/Al Qaeda leaders patiently coordinate and plan, unconcerned with interference from prison personnel or the military."
+  },
+  {
+   "source": "Combined Joint Interagency Task Force",
+   "target": "U.S. Forces-Afghanistan",
+   "type": "member_of",
+   "detail": "Proposed as a Major Subordinate Command under USFOR-A.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.52",
+   "quote": "The OIATF will be a Major Subordinate Command under USFOR-A"
+  },
+  {
+   "source": "NATO Training Mission-Afghanistan",
+   "target": "Combined Security Transition Command-Afghanistan",
+   "type": "allied_with",
+   "detail": "Will co-exist as a single HQ with integrated staff under a dual-hatted commander.",
+   "date": "2009",
+   "confidence": "stated",
+   "timestamp": "p.57",
+   "quote": "CSTC-A and NTM-A will co-exist as a single HQ with fully integrated staff sections under a dual-hatted commander."
+  },
+  {
+   "source": "Afghan Public Protection Force",
+   "target": "Afghan National Police",
+   "type": "member_of",
+   "detail": "APPF personnel to be absorbed into the ANP.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.57",
+   "quote": "the Afghan Public Protection Force (APPF) personnel will be absorbed into the ANP as it expands."
+  },
+  {
+   "source": "NATO Training Mission-Afghanistan",
+   "target": "Combined Security Transition Command-Afghanistan",
+   "type": "other",
+   "detail": "CSTC-A and NTM-A to co-exist as a single HQ under a dual-hatted commander.",
+   "date": "2009-06",
+   "confidence": "stated",
+   "timestamp": "p.57",
+   "quote": "CSTC-A and NTM-A will co-exist as a single HQ with fully integrated staff sections under a dual-hatted commander."
+  },
+  {
+   "source": "North Atlantic Council",
+   "target": "NATO Training Mission-Afghanistan",
+   "type": "other",
+   "detail": "NAC endorsed creation of NTM-A.",
+   "date": "2009-06-12",
+   "confidence": "stated",
+   "timestamp": "p.57",
+   "quote": "On 12 June, 2009 the North Atlantic Council endorsed the creation of NATO Training Mission -Afghanistan"
+  },
+  {
+   "source": "Bureau of International Narcotics and Law Enforcement Affairs",
+   "target": "Combined Security Transition Command-Afghanistan",
+   "type": "other",
+   "detail": "Recommended transfer of police training responsibility from INL to CSTC-A.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.59",
+   "quote": "INL should transfer responsibility for police training to CSTC-A."
+  },
+  {
+   "source": "ISAF Joint Command",
+   "target": "Combined Security Transition Command-Afghanistan",
+   "type": "other",
+   "detail": "IJC to assume responsibility for developing the fielded force from CSTC-A.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.58",
+   "quote": "the IJC should assume responsibility for developing the fielded force."
+  },
+  {
+   "source": "North Atlantic Council",
+   "target": "ISAF Joint Command",
+   "type": "other",
+   "detail": "The North Atlantic Council approved creation of an intermediate three-star command (the ISAF Joint Command) between COMISAF and the RCs.",
+   "date": "2009-08-04",
+   "confidence": "stated",
+   "timestamp": "p.36",
+   "quote": "On August 4th, NATO's North Atlantic Council officially approved the creation of an intermediate three-star command between COMISAF and the RCs."
+  },
+  {
+   "source": "ISAF Joint Command",
+   "target": "International Security Assistance Force",
+   "type": "member_of",
+   "detail": "The ISAF Joint Command is a new three-star command subordinate to the four-star ISAF HQ.",
+   "confidence": "inferred",
+   "timestamp": "p.34",
+   "quote": "Clarification of the relationship between the evolving Four Star ISAF HQ and the new, Three Star ISAF Joint Command (JJC)"
+  },
+  {
+   "source": "NATO Training Mission-Afghanistan",
+   "target": "Combined Security Transition Command-Afghanistan",
+   "type": "succeeded",
+   "detail": "CSTC-A transitions into NTM-A, which unifies NATO and U.S. advisory efforts.",
+   "confidence": "stated",
+   "timestamp": "p.34",
+   "quote": "The transition of CSTC-A/DATES to NATO Training Mission -Afghanistan (NTM-A) in the same timeframe as the formation of the UC"
+  },
+  {
+   "source": "NATO Training Mission-Afghanistan",
+   "target": "Afghan National Security Forces",
+   "type": "other",
+   "detail": "NTM-A unifies NATO and U.S. forces conducting advisory roles with the ANSF.",
+   "confidence": "stated",
+   "timestamp": "p.36",
+   "quote": "to unify both NATO and U.S. forces previously operating under separate command relationship lines ... conducting advisory roles with the Afghan National Security Forces (ANSF)"
+  },
+  {
+   "source": "Combined Security Transition Command-Afghanistan",
+   "target": "Afghan National Security Forces",
+   "type": "other",
+   "detail": "CSTC-A (U.S.) previously conducted advisory roles with the ANSF.",
+   "confidence": "stated",
+   "timestamp": "p.36",
+   "quote": "Combined Security Transition Command -Afghanistan (U.S.)} conducting advisory roles with the Afghan National Security Forces (ANSF)"
+  },
+  {
+   "source": "ISAF",
+   "target": "Government of the Islamic Republic of Afghanistan",
+   "type": "allied_with",
+   "detail": "HQ ISAF directed establishment of a National Military Coordination Center in coordination with GIRoA.",
+   "confidence": "stated",
+   "timestamp": "p.36",
+   "quote": "HQ ISAF issued FRAGO 408-2009 directing the establishment, in coordination with GIRoA, if a National Military Coordination Center (NMCC)"
+  },
+  {
+   "source": "ISAF",
+   "target": "UNAMA",
+   "type": "allied_with",
+   "detail": "OPLAN complements external agencies such as GIRoA and UNAMA on the Governance and Development lines of operation.",
+   "confidence": "stated",
+   "timestamp": "p.34",
+   "quote": "complement the\nefforts of external agencies (e.g. GIRoA and UNAMA) along the supporting LoO of\nGovernance and Development."
+  },
+  {
+   "source": "US Forces-Afghanistan",
+   "target": "Combined Security Transition Command-Afghanistan",
+   "type": "leads",
+   "detail": "USFOR-A tasked to direct CSTC-A to focus on force generation and ministerial development.",
+   "confidence": "stated",
+   "timestamp": "p.37",
+   "quote": "Direct CSTC-A to focus on force generation and institutional and\nministerial development"
+  },
+  {
+   "source": "USFOR-A",
+   "target": "International Security Assistance Force",
+   "type": "other",
+   "detail": "USFOR-A is tasked to transfer OEF units OPCON to COMISAF.",
+   "confidence": "stated",
+   "timestamp": "p.37",
+   "quote": "Transfer OEF units OPCON to COMISAF and place them on the ISAF\nCombined Joint Statement of Requirements"
+  },
+  {
+   "source": "ISAF",
+   "target": "Afghan National Security Forces",
+   "type": "allied_with",
+   "detail": "RCs directed to partner with the ANSF at every level.",
+   "confidence": "stated",
+   "timestamp": "p.36",
+   "quote": "The RCs have been directed to partner with the ANSF at every level within their RC\nAOOs"
+  },
+  {
+   "source": "ISAF",
+   "target": "SHAPE",
+   "type": "reports_to",
+   "detail": "Authority to move ISAF HQ personnel to the new intermediate HQ must be resolved in writing from SHAPE.",
+   "confidence": "inferred",
+   "timestamp": "p.38",
+   "quote": "this issue\nmust be resolved in writing from SHAPE prior to any personnel migration."
+  },
+  {
+   "source": "Taliban",
+   "target": "Pakistan",
+   "type": "other",
+   "detail": "Insurgent operational cycle is influenced by external events such as Pakistani military operations in the border area.",
+   "confidence": "inferred",
+   "timestamp": "p.34",
+   "quote": "external events\nlike Pakistani military operations in the border area"
+  },
+  {
+   "source": "ISAF",
+   "target": "GIRoA",
+   "type": "allied_with",
+   "detail": "ISAF's mission depends on GIRoA, and ISAF must work through its Afghan counterparts and develop governance metrics.",
+   "confidence": "stated",
+   "timestamp": "p.28",
+   "quote": "Because the mission depends on GIRoA, ISAF must also develop clear metrics to assess progress in governance."
+  },
+  {
+   "source": "Provincial Reconstruction Teams",
+   "target": "ISAF",
+   "type": "other",
+   "detail": "Additional civilian experts will partner with ISAF task forces or serve on PRTs.",
+   "confidence": "stated",
+   "timestamp": "p.30",
+   "quote": "Some of the additional civilian experts will partner with ISAF task forces or serve on Provincial Reconstruction Teams."
+  },
+  {
+   "source": "District Support Teams",
+   "target": "ISAF",
+   "type": "other",
+   "detail": "Civilian experts will work with new District Support Teams to support the strategy.",
+   "confidence": "inferred",
+   "timestamp": "p.30",
+   "quote": "Others will work with new District Support Teams as necessary to support this strategy."
+  },
+  {
+   "source": "Pakistan",
+   "target": "ISAF",
+   "type": "other",
+   "detail": "Actions of external actors such as Pakistan and Iran are named as a risk outside ISAF's control.",
+   "confidence": "stated",
+   "timestamp": "p.30",
+   "quote": "actions of external actors such as Pakistan and Iran."
+  },
+  {
+   "source": "Iran",
+   "target": "ISAF",
+   "type": "other",
+   "detail": "Iran is named alongside Pakistan as an external actor whose actions could undermine the mission.",
+   "confidence": "stated",
+   "timestamp": "p.30",
+   "quote": "actions of external actors such as Pakistan and Iran."
+  },
+  {
+   "source": "Joint Operational Planning Group",
+   "target": "ISAF",
+   "type": "member_of",
+   "detail": "The JOPG was formed to assess the ISAF counterinsurgency campaign strategy.",
+   "confidence": "inferred",
+   "timestamp": "p.31",
+   "quote": "A multidisciplinary Joint Operational Planning Group (JOPG) was formed to conduct a thorough assessment of the ISAF counterinsurgency campaign strategy."
+  },
+  {
+   "source": "Joint Operational Planning Group",
+   "target": "UNAMA",
+   "type": "other",
+   "detail": "The JOPG reviewed the UNAMA mandate as part of its analysis.",
+   "confidence": "stated",
+   "timestamp": "p.31",
+   "quote": "The JOPG also reviewed the Afghanistan National Development Strategy and the UNAMA mandate."
+  },
+  {
+   "source": "ANSF",
+   "target": "GIRoA",
+   "type": "member_of",
+   "detail": "ANSF growth is treated as GIRoA security capacity.",
+   "confidence": "stated",
+   "timestamp": "p.31",
+   "quote": "feasibility for rapid growth of GIRoA security capacity."
+  },
+  {
+   "source": "Joint Operational Planning Group",
+   "target": "International Security Assistance Force",
+   "type": "member_of",
+   "detail": "The JOPG was formed to assess the ISAF counterinsurgency campaign strategy, working within the ISAF Initial Assessment.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.31",
+   "quote": "A multidisciplinary Joint Operational Planning Group (JOPG) was formed to conduct a thorough assessment of the ISAF counterinsurgency campaign strategy."
+  },
+  {
+   "source": "ISAF Joint Command",
+   "target": "International Security Assistance Force",
+   "type": "reports_to",
+   "detail": "The new Three Star ISAF Joint Command is to be aligned with the Four Star ISAF HQ, whose relationship needs clarification.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.34",
+   "quote": "Clarification of the relationship between the evolving Four Star ISAF HQ and the new, Three Star ISAF Joint Command (JJC)"
+  },
+  {
+   "source": "CSTC-A",
+   "target": "NATO Training Mission-Afghanistan",
+   "type": "other",
+   "detail": "CSTC-A/DATES is transitioning into NATO Training Mission-Afghanistan (NTM-A).",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.34",
+   "quote": "The transition of CSTC-A/DATES to NATO Training Mission -Afghanistan (NTM-A)"
+  },
+  {
+   "source": "ISAF",
+   "target": "Afghan National Security Forces",
+   "type": "other",
+   "detail": "ISAF partners with and mentors the ANSF; the partnership was formalized through a FRAGO.",
+   "date": "2008-06",
+   "confidence": "stated",
+   "timestamp": "p.33",
+   "quote": "Efforts to formalize the partnership between ISAF and ANSF can be traced to June 2008."
+  },
+  {
+   "source": "UNAMA",
+   "target": "Government of the Islamic Republic of Afghanistan",
+   "type": "allied_with",
+   "detail": "GIRoA and UNAMA are external agencies working on the Governance and Development lines of operation alongside ISAF.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.34",
+   "quote": "complement the efforts of external agencies (e.g. GIRoA and UNAMA) along the supporting LoO of Governance and Development."
+  },
+  {
+   "source": "Insurgents",
+   "target": "Afghanistan",
+   "type": "other",
+   "detail": "Narcotics industry in Afghanistan is a significant economic enabler of the insurgency.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.33",
+   "quote": "Substantial intelligence points directly at the Afghanistan narcotics industry as a significant economic enabler for the insurgency."
+  },
+  {
+   "source": "Insurgents",
+   "target": "Pakistan border area",
+   "type": "other",
+   "detail": "Pakistani military operations in the border area are cited as an external event affecting the insurgency's operational cycle.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.34",
+   "quote": "external events like Pakistani military operations in the border area"
+  },
+  {
+   "source": "International Security Assistance Force",
+   "target": "Government of the Islamic Republic of Afghanistan",
+   "type": "other",
+   "detail": "ISAF and GIRoA are parties to the Military Technical Agreement under which ISAF is not required to pay compensation for civilian or governmental property damage.",
+   "date": "2002-01-04",
+   "confidence": "stated",
+   "timestamp": "p.49",
+   "quote": "Under the terms of the Military Technical Agreement between ISAF and GIRoA (dated 4 Jan 02}, ISAF is not required to make compensation payments"
+  },
+  {
+   "source": "US Forces-Afghanistan",
+   "target": "Combined Joint Interagency Task Force",
+   "type": "leads",
+   "detail": "USFOR-A proposes forming the new task force as a Major Subordinate Command under it.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.50",
+   "quote": "U.S. Forces-Afghanistan (USFOR-A) proposes the formation of a new Combined Joint lnteragency Task Force"
+  },
+  {
+   "source": "Combined Joint Interagency Task Force",
+   "target": "US Forces-Afghanistan",
+   "type": "member_of",
+   "detail": "The task force would be a Major Subordinate Command under USFOR-A.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.52",
+   "quote": "The OIATF will be a Major Subordinate Command under USFOR-A"
+  },
+  {
+   "source": "Combined Joint Interagency Task Force",
+   "target": "Ministry of Defense (Afghanistan)",
+   "type": "other",
+   "detail": "The task force would advise and work with the Ministry of Defense on rule of law and corrections operations.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.51",
+   "quote": "working with and advising the Ministry of Defense, the Afghan Central Prison Directorate (CPD), and associated Afghan Ministries"
+  },
+  {
+   "source": "Combined Joint Interagency Task Force",
+   "target": "Central Prisons Directorate",
+   "type": "other",
+   "detail": "The task force would advise and work with the CPD, and its Prison Engagement Group would help reform it.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.53",
+   "quote": "The Afghanistan Prison Engagement Group will assist GIRoA in reforming the Central Prisons Directorate (CPD)"
+  },
+  {
+   "source": "Combined Joint Interagency Task Force",
+   "target": "Bagram Theater Internment Facility",
+   "type": "other",
+   "detail": "The task force would take over operation and management of the BTIF, with eventual turnover to the Afghan government.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.53",
+   "quote": "Assume the U.S. detention oversight and support responsibilities ... to include the operation and management of the BTIF"
+  },
+  {
+   "source": "Bagram Theater Internment Facility",
+   "target": "Government of the Islamic Republic of Afghanistan",
+   "type": "other",
+   "detail": "The desired endstate is turnover of all detention operations including the BTIF to the Afghan government.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.50",
+   "quote": "eventual turnover of all detention operations in Afghanistan, to include the BTIF, to the Afghan government"
+  },
+  {
+   "source": "Combined Joint Interagency Task Force",
+   "target": "Government of the Islamic Republic of Afghanistan",
+   "type": "allied_with",
+   "detail": "The task force would build GIRoA capacity to take over detention.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.51",
+   "quote": "build the capacity of the Afghan government to take over responsibility for detention in its own country"
+  },
+  {
+   "source": "Karl Eikenberry",
+   "target": "Stanley McChrystal",
+   "type": "allied_with",
+   "detail": "Eikenberry and McChrystal jointly signed the Integrated Civil-Military Campaign Plan.",
+   "date": "2009-08-15",
+   "confidence": "stated",
+   "timestamp": "p.39",
+   "quote": "It was signed by the United States Ambassador to Afghanistan Karl Eikenberry and General Stanley McChrystal"
+  },
+  {
+   "source": "Stanley McChrystal",
+   "target": "US Forces-Afghanistan",
+   "type": "leads",
+   "detail": "McChrystal is identified as Commander, United States Forces Afghanistan.",
+   "confidence": "stated",
+   "timestamp": "p.39",
+   "quote": "General Stanley McChrystal, Commander, United States Forces Afghanistan"
+  },
+  {
+   "source": "Stanley McChrystal",
+   "target": "Richard Holbrooke",
+   "type": "reports_to",
+   "detail": "The signed ICMCP was forwarded to Holbrooke as Special Representative for Afghanistan and Pakistan.",
+   "date": "2009-08-15",
+   "confidence": "inferred",
+   "timestamp": "p.39",
+   "quote": "forwarded to Ambassador Richard Holbrooke, United States Special Representative for Afghanistan and Pakistan"
+  },
+  {
+   "source": "David Petraeus",
+   "target": "US Central Command",
+   "type": "leads",
+   "detail": "Petraeus is Commander of US Central Command.",
+   "confidence": "stated",
+   "timestamp": "p.39",
+   "quote": "General David Petraeus, Commander, United States Central Command"
+  },
+  {
+   "source": "Karl Eikenberry",
+   "target": "United States Government",
+   "type": "member_of",
+   "detail": "Eikenberry is US Ambassador to Afghanistan.",
+   "confidence": "stated",
+   "timestamp": "p.39",
+   "quote": "United States Ambassador to Afghanistan Karl Eikenberry"
+  },
+  {
+   "source": "Richard Holbrooke",
+   "target": "United States Government",
+   "type": "member_of",
+   "detail": "Holbrooke is US Special Representative for Afghanistan and Pakistan.",
+   "confidence": "stated",
+   "timestamp": "p.39",
+   "quote": "Ambassador Richard Holbrooke, United States Special Representative for Afghanistan and Pakistan"
+  },
+  {
+   "source": "United States Government",
+   "target": "International Security Assistance Force",
+   "type": "allied_with",
+   "detail": "USG executes the plan in coordination with ISAF.",
+   "confidence": "stated",
+   "timestamp": "p.39",
+   "quote": "in coordination with the International Security Assistance Force (ISAF), United Nations Mission in Afghanistan (UNAMA)"
+  },
+  {
+   "source": "United States Government",
+   "target": "UNAMA",
+   "type": "allied_with",
+   "detail": "USG executes the plan in coordination with UNAMA.",
+   "confidence": "stated",
+   "timestamp": "p.39",
+   "quote": "United Nations Mission in Afghanistan (UNAMA), and the Government of the Islamic Republic"
+  },
+  {
+   "source": "United States Government",
+   "target": "Government of the Islamic Republic of Afghanistan",
+   "type": "allied_with",
+   "detail": "USG executes the plan in coordination with GIRoA.",
+   "confidence": "stated",
+   "timestamp": "p.39",
+   "quote": "and the Government of the Islamic Republic of Afghanistan (GIRoA)"
+  },
+  {
+   "source": "District Support Teams",
+   "target": "RC(E)",
+   "type": "located_in",
+   "detail": "US Senior Civilian Representative positions established in RC(E) at each sub-regional brigade task force and district support team.",
+   "confidence": "inferred",
+   "timestamp": "p.39",
+   "quote": "Senior Civilian Representative positions have been established in RC(E) and RC(S)"
+  },
+  {
+   "source": "District Support Teams",
+   "target": "RC(S)",
+   "type": "located_in",
+   "detail": "US Senior Civilian Representative positions established in RC(S).",
+   "confidence": "inferred",
+   "timestamp": "p.39",
+   "quote": "established in RC(E) and RC(S) at each sub-regional U.S. Brigade Task Force"
+  },
+  {
+   "source": "Insurgents (INS)",
+   "target": "International Security Assistance Force",
+   "type": "rival_of",
+   "detail": "Insurgents have undermined ISAF credibility through effective use of the information environment.",
+   "confidence": "stated",
+   "timestamp": "p.40",
+   "quote": "the Insurgents (INS) have undermined the credibility of ISAF, the International Community (IC), and Government"
+  },
+  {
+   "source": "Insurgents (INS)",
+   "target": "Government of the Islamic Republic of Afghanistan",
+   "type": "rival_of",
+   "detail": "Insurgents have undermined GIRoA credibility.",
+   "confidence": "stated",
+   "timestamp": "p.40",
+   "quote": "undermined the credibility of ISAF, the International Community (IC), and Government of the Islamic Republic of Afghanistan (GIRoA)"
+  },
+  {
+   "source": "ISAF",
+   "target": "SHAPE",
+   "type": "other",
+   "detail": "StratCom planning benefitted from participation of experts from HQ NATO, SHAPE and JFC-B.",
+   "confidence": "stated",
+   "timestamp": "p.40",
+   "quote": "including HQ NATO, SHAPE, and JFC-B as well as the visiting Initial Assessment Team"
+  },
+  {
+   "source": "ISAF",
+   "target": "JFC-B",
+   "type": "other",
+   "detail": "JFC-B StratCom experts participated in ISAF planning.",
+   "confidence": "stated",
+   "timestamp": "p.40",
+   "quote": "including HQ NATO, SHAPE, and JFC-B"
+  },
+  {
+   "source": "ISAF",
+   "target": "NATO",
+   "type": "member_of",
+   "detail": "ISAF is a NATO mission with a NATO strategic centre of gravity of Alliance cohesion.",
+   "confidence": "inferred",
+   "timestamp": "p.40",
+   "quote": "the NATO strategic centre of gravity, (the maintenance of Alliance cohesion as specified in the ISAF OPLAN)"
+  },
+  {
+   "source": "Government Media and Information Centre",
+   "target": "Government of the Islamic Republic of Afghanistan",
+   "type": "member_of",
+   "detail": "The Centre disseminates government briefings and should be expanded to regional nodes.",
+   "confidence": "inferred",
+   "timestamp": "p.42",
+   "quote": "The Government Media and Information Centre needs to be expanded to include regional nodes"
+  },
+  {
+   "source": "ISAF",
+   "target": "Ministry of Defense (Afghanistan)",
+   "type": "allied_with",
+   "detail": "ISAF to forge partnership with MOD and MOI spokespersons.",
+   "confidence": "stated",
+   "timestamp": "p.42",
+   "quote": "Better linkages and a robust partnership must be forged with MOD and MOI spokespersons"
+  },
+  {
+   "source": "ISAF",
+   "target": "Ministry of Interior (Afghanistan)",
+   "type": "allied_with",
+   "detail": "ISAF to forge partnership with MOI spokespersons.",
+   "confidence": "stated",
+   "timestamp": "p.42",
+   "quote": "partnership must be forged with MOD and MOI spokespersons"
+  },
+  {
+   "source": "Provisional Arrangements Bonn Agreement",
+   "target": "Afghanistan",
+   "type": "other",
+   "detail": "The Bonn Agreement set provisional arrangements pending reestablishment of permanent government institutions in Afghanistan.",
+   "date": "2001-12-05",
+   "confidence": "stated",
+   "timestamp": "p.65",
+   "quote": "Agreement on Provisional Arrangements in Afghanistan Pending the Reestablishment of Permanent Government Institutions (Bonn Agreement), 5 Dec 01."
+  },
+  {
+   "source": "International Security Assistance Force",
+   "target": "Government of the Islamic Republic of Afghanistan",
+   "type": "agreement",
+   "detail": "Military Technical Agreement between ISAF and the Interim Administration of Afghanistan.",
+   "date": "2001-12-31",
+   "confidence": "stated",
+   "timestamp": "p.65",
+   "quote": "Military Technical Agreement (MTA) Between the International Security Assistance Force (ISAF} and the Interim Administration of Afghanistan (31 Dec 01)"
+  },
+  {
+   "source": "United Nations Assistance Mission in Afghanistan",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "UNCSR 1401 established UNAMA for an initial 12 months.",
+   "date": "2002-03-28",
+   "confidence": "stated",
+   "timestamp": "p.65",
+   "quote": "Resolution 1401 (2002) of 28 March - establishes for an initial period of 12 months a United Nations Assistance Mission in Afghanistan (UNAMA)."
+  },
+  {
+   "source": "UNAMA",
+   "target": "ISAF",
+   "type": "allied_with",
+   "detail": "UNSCR 1419 commended the role of UNAMA and ISAF.",
+   "date": "2002-06-26",
+   "confidence": "stated",
+   "timestamp": "p.65",
+   "quote": "Resolution 1419 (2002) of 26 June - welcomes the results of the Emergency Loya Jirga and commends the role of UNAMA and ISAF."
+  },
+  {
+   "source": "UNAMA",
+   "target": "Afghanistan",
+   "type": "other",
+   "detail": "UNSCR 1806 designated UNAMA as the International Community lead in Afghanistan.",
+   "date": "2008-03-20",
+   "confidence": "stated",
+   "timestamp": "p.66",
+   "quote": "Resolution 1806 (2008) of 20 March- extends UNAMA for another 12 months and designates it as the IC lead in AFG."
+  },
+  {
+   "source": "ISAF",
+   "target": "Kabul",
+   "type": "located_in",
+   "detail": "UNSCR 1510 expanded the ISAF mandate beyond Kabul and its environs.",
+   "date": "2003-10-13",
+   "confidence": "stated",
+   "timestamp": "p.66",
+   "quote": "Resolution 1510 (2003) of 13 October - authorising expansion of the ISAF mandate outside of Kabul and its environs."
+  },
+  {
+   "source": "Hezb-e Islami Gulbuddin",
+   "target": "Hezb-e Islami Gulbuddin",
+   "type": "other",
+   "detail": "Glossary defines HiG as Hezb-e Islami Gulbuddin.",
+   "confidence": "stated",
+   "timestamp": "p.62",
+   "quote": "Hezb-e lslami Gulbuddin"
+  },
+  {
+   "source": "Haqqani Network",
+   "target": "Haqqani Network",
+   "type": "other",
+   "detail": "Glossary defines HQN as Haqqani Network.",
+   "confidence": "stated",
+   "timestamp": "p.62",
+   "quote": "Haqqani Network"
+  },
+  {
+   "source": "Inter-Services Intelligence",
+   "target": "Inter-Services Intelligence",
+   "type": "other",
+   "detail": "Glossary entry for ISI.",
+   "confidence": "stated",
+   "timestamp": "p.62",
+   "quote": "Inter-Services Intelligence"
+  },
+  {
+   "source": "Quetta Shura Taliban",
+   "target": "Quetta Shura Taliban",
+   "type": "other",
+   "detail": "Glossary defines QST.",
+   "confidence": "stated",
+   "timestamp": "p.63",
+   "quote": "Quetta Shura Taliban"
+  },
+  {
+   "source": "Quetta Shura Taliban",
+   "target": "Taliban",
+   "type": "member_of",
+   "detail": "The QST is a Taliban governing body whose shadow governance under the Islamic Emirate of Afghanistan is described.",
+   "confidence": "inferred",
+   "timestamp": "p.15",
+   "quote": "The QST has a governing structure in Afghanistan under the rubric of the Islamic Emirate of Afghanistan."
+  },
+  {
+   "source": "Haqqani Network",
+   "target": "Quetta Shura Taliban",
+   "type": "other",
+   "detail": "HQN co-exists with but does not necessarily accept the QST governing framework; no competing structures yet.",
+   "confidence": "stated",
+   "timestamp": "p.15",
+   "quote": "HQN and HiG co-exist with, but do not necessarily accept, the QST governing framework"
+  },
+  {
+   "source": "Hezb-e Islami Gulbuddin",
+   "target": "Quetta Shura Taliban",
+   "type": "other",
+   "detail": "HiG co-exists with but does not necessarily accept the QST governing framework.",
+   "confidence": "stated",
+   "timestamp": "p.15",
+   "quote": "HQN and HiG co-exist with, but do not necessarily accept, the QST governing framework"
+  },
+  {
+   "source": "Quetta Shura Taliban",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "The QST maintains a shadow governing structure inside Afghanistan, appointing shadow governors for most provinces.",
+   "confidence": "stated",
+   "timestamp": "p.15",
+   "quote": "They appoint shadow governors for most provinces, review their performance, and replace them periodically."
+  },
+  {
+   "source": "Quetta Shura Taliban",
+   "target": "Government of the Islamic Republic of Afghanistan",
+   "type": "rival_of",
+   "detail": "QST provides competing governance, shari'a courts, taxes and conscription against GIRoA.",
+   "confidence": "stated",
+   "timestamp": "p.15",
+   "quote": "the QST provides major elements of governance and a national and religious narrative."
+  },
+  {
+   "source": "Insurgents",
+   "target": "International Security Assistance Force",
+   "type": "rival_of",
+   "detail": "Insurgent groups seek to inflict casualties on ISAF to break the will of coalition countries.",
+   "confidence": "stated",
+   "timestamp": "p.15",
+   "quote": "They seek to inflict casualties on ISAF forces to break the will of individual ISAF countries and the coalition as a whole."
+  },
+  {
+   "source": "Insurgents",
+   "target": "Government of the Islamic Republic of Afghanistan",
+   "type": "rival_of",
+   "detail": "Insurgents outperform GIRoA and ISAF at information operations and target GIRoA and ANSF.",
+   "confidence": "stated",
+   "timestamp": "p.15",
+   "quote": "Major insurgent groups outperform GIRoA and ISAF at information operations."
+  },
+  {
+   "source": "Insurgents",
+   "target": "Afghan National Security Forces",
+   "type": "rival_of",
+   "detail": "Major insurgent groups target GIRoA and ANSF to dissuade cooperation with the government.",
+   "confidence": "stated",
+   "timestamp": "p.15",
+   "quote": "The major insurgent groups target GIRoA and ANSF to dissuade cooperation with the government"
+  },
+  {
+   "source": "Insurgents",
+   "target": "Afghan National Security Forces",
+   "type": "other",
+   "detail": "Insurgents' attacks aim to show GIRoA is ineffective.",
+   "confidence": "stated",
+   "timestamp": "p.15",
+   "quote": "to show that GIRoA is ineffective"
+  },
+  {
+   "source": "Insurgents",
+   "target": "Insurgents (INS)",
+   "type": "other",
+   "detail": "Criminal networks provide insurgents with manpower, resources and capabilities.",
+   "confidence": "inferred",
+   "timestamp": "p.16",
+   "quote": "Criminality creates a pool of manpower, resources, and capabilities for insurgents"
+  },
+  {
+   "source": "Insurgents",
+   "target": "Government of the Islamic Republic of Afghanistan",
+   "type": "funded_by",
+   "detail": "Narcotics activity funds insurgent groups; smuggling diverts revenue from GIRoA.",
+   "confidence": "inferred",
+   "timestamp": "p.16",
+   "quote": "Narcotics activity also funds insurgent groups"
+  },
+  {
+   "source": "Insurgents",
+   "target": "Insurgents",
+   "type": "funded_by",
+   "detail": "Insurgent groups receive substantial income from foreign donors, smuggling and kidnapping for ransom.",
+   "confidence": "stated",
+   "timestamp": "p.16",
+   "quote": "Insurgent groups also receive substantial income from foreign donors as well as from other criminal activities within Afghanistan"
+  },
+  {
+   "source": "International Security Assistance Force",
+   "target": "Government of the Islamic Republic of Afghanistan",
+   "type": "allied_with",
+   "detail": "GIRoA and ISAF have an opportunity to exploit insurgent inability to mobilize support.",
+   "confidence": "stated",
+   "timestamp": "p.16",
+   "quote": "GIRoA and ISAF have an opportunity to exploit the insurgent's inability to mobilize public support."
+  },
+  {
+   "source": "Afghan National Police",
+   "target": "Afghan National Security Forces",
+   "type": "member_of",
+   "detail": "ANP is part of the ANSF; some power brokers hold positions there and are agents of corruption.",
+   "confidence": "stated",
+   "timestamp": "p.17",
+   "quote": "some of these power brokers hold positions in the ANSF, particularly the ANP, and have been major agents of corruption and illicit trafficking."
+  },
+  {
+   "source": "Taliban",
+   "target": "Pashtun",
+   "type": "other",
+   "detail": "Insurgents use Pashtun identity as an information advantage.",
+   "confidence": "stated",
+   "timestamp": "p.15",
+   "quote": "They use their Pashtun identity, physical proximity to the population, and violent intimidation"
+  },
+  {
+   "source": "International Security Assistance Force",
+   "target": "UNAMA",
+   "type": "allied_with",
+   "detail": "ISAF must work with UNAMA and the international community to build public finance mechanisms that enable GIRoA to create credible programs.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.26",
+   "quote": "ISAF must work with UNAMA and the international community to build public finance mechanisms that enable GIRoA to create credible programs"
+  },
+  {
+   "source": "International Security Assistance Force",
+   "target": "Government of the Islamic Republic of Afghanistan",
+   "type": "allied_with",
+   "detail": "ISAF must work with GIRoA to develop a clear mandate and boundaries for local informal justice systems.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.26",
+   "quote": "ISAF must work with GIRoA to develop a clear mandate and boundaries for local informal justice systems."
+  },
+  {
+   "source": "International Security Assistance Force",
+   "target": "Afghan National Security Forces",
+   "type": "allied_with",
+   "detail": "ISAF will integrate fully with the ANSF through extensive partnering.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.27",
+   "quote": "ISAF will take a new approach to integrate fully with the ANSF through extensive partnering."
+  },
+  {
+   "source": "International Security Assistance Force",
+   "target": "Insurgents",
+   "type": "rival_of",
+   "detail": "ISAF aims to gain the initiative and definitively check the insurgency.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.27",
+   "quote": "It will require sufficient resources to gain the initiative and definitively check the insurgency."
+  },
+  {
+   "source": "Afghan National Security Forces",
+   "target": "Insurgents",
+   "type": "rival_of",
+   "detail": "ANSF will eventually defeat remaining insurgent pockets on their own.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.27",
+   "quote": "As ANSF demonstrate the capability to defeat remaining pockets of insurgents on their own"
+  },
+  {
+   "source": "Afghan National Security Forces",
+   "target": "International Security Assistance Force",
+   "type": "other",
+   "detail": "In the third stage ISAF transitions to a train, advise and assist role toward the ANSF.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.27",
+   "quote": "ISAF will transition to a train, advise, and assist role."
+  },
+  {
+   "source": "International Security Assistance Force",
+   "target": "OXFAM",
+   "type": "other",
+   "detail": "The assessment cites an OXFAM report indicating significant diversion of development funding.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.26",
+   "quote": "A recent OXFAM report indicates that a significant percentage of such funding is diverted."
+  },
+  {
+   "source": "ISAF",
+   "target": "CIVCAS Tracking Cell",
+   "type": "leads",
+   "detail": "ISAF established the CIVCAS Tracking Cell in August 2008.",
+   "date": "2008-08",
+   "confidence": "stated",
+   "timestamp": "p.46",
+   "quote": "ISAF established a CIVCAS Tracking Cell in August 2008."
+  },
+  {
+   "source": "CIVCAS Tracking Cell",
+   "target": "ISAF",
+   "type": "member_of",
+   "detail": "The cell was set up as part of ISAF to track civilian casualties.",
+   "date": "2008-08",
+   "confidence": "stated",
+   "timestamp": "p.46",
+   "quote": "ISAF established a CIVCAS Tracking Cell in August 2008."
+  },
+  {
+   "source": "ISAF",
+   "target": "Counter Insurgency Training Center-Afghanistan",
+   "type": "other",
+   "detail": "ISAF is told to use the expertise at the COIN Academy to ensure all units understand the Tactical Directive, COIN Guidance and ROE.",
+   "confidence": "stated",
+   "timestamp": "p.46",
+   "quote": "ISAF must utilize expertise resident at the Counter Insurgency Training Center-Afghanistan (\"COIN Academy\")"
+  },
+  {
+   "source": "ISAF",
+   "target": "Government of the Islamic Republic of Afghanistan",
+   "type": "other",
+   "detail": "The Military Technical Agreement between ISAF and GIRoA, dated 4 Jan 2002, says ISAF need not pay compensation for damage to property.",
+   "date": "2002-01-04",
+   "confidence": "stated",
+   "timestamp": "p.49",
+   "quote": "Under the terms of the Military Technical Agreement between ISAF and GIRoA (dated 4 Jan 02}, ISAF is not required to make compensation payments"
+  },
+  {
+   "source": "ISAF",
+   "target": "Insurgents (INS)",
+   "type": "rival_of",
+   "detail": "ISAF competes with insurgent information operations, which are not bound to be truthful.",
+   "confidence": "stated",
+   "timestamp": "p.48",
+   "quote": "ISAF competes with insurgents (INS) information operations (10), and the INS 10 is not hampered by the need to be truthful"
+  },
+  {
+   "source": "ISAF",
+   "target": "USFOR-A",
+   "type": "allied_with",
+   "detail": "A review of ISAF and USFOR-A operating procedures and processes has been ordered.",
+   "confidence": "inferred",
+   "timestamp": "p.46",
+   "quote": "a thorough review of ISAF and USFOR-A operating procedures and processes has been ordered"
+  },
+  {
+   "source": "NATO",
+   "target": "SHAPE",
+   "type": "other",
+   "detail": "SHAPE is referred to as NATO's own strategic center of gravity in national capitals.",
+   "confidence": "inferred",
+   "timestamp": "p.45",
+   "quote": "help protect NATO/SHAPE's strategic center of gravity in national capitals"
+  },
+  {
+   "source": "Quetta Shura Taliban",
+   "target": "Mullah Omar",
+   "type": "reports_to",
+   "detail": "The Quetta Shura holds a formal winter campaign review, after which Mullah Omar announces his guidance and intent for the coming year.",
+   "confidence": "stated",
+   "timestamp": "p.14",
+   "quote": "the Quetta Shura conducts a formal campaign review each winter, after which Mullah Omar announces his guidance and intent for the coming year"
+  },
+  {
+   "source": "Mullah Omar",
+   "target": "Quetta Shura Taliban",
+   "type": "leads",
+   "detail": "Mullah Omar issues annual guidance and intent to the Quetta Shura campaign.",
+   "confidence": "inferred",
+   "timestamp": "p.14",
+   "quote": "after which Mullah Omar announces his guidance and intent for the coming year"
+  },
+  {
+   "source": "Quetta Shura Taliban",
+   "target": "Haqqani Network",
+   "type": "allied_with",
+   "detail": "Major insurgent groups coordinate loosely without a formal command-and-control structure.",
+   "confidence": "stated",
+   "timestamp": "p.14",
+   "quote": "These groups coordinate activities loosely, often achieving significant unity of purpose and even some unity of effort"
+  },
+  {
+   "source": "Quetta Shura Taliban",
+   "target": "Hezb-e Islami Gulbuddin",
+   "type": "allied_with",
+   "detail": "The groups coordinate loosely but share no formal command structure.",
+   "confidence": "stated",
+   "timestamp": "p.14",
+   "quote": "they do not share a formal command-and-control structure"
+  },
+  {
+   "source": "Haqqani Network",
+   "target": "Hezb-e Islami Gulbuddin",
+   "type": "allied_with",
+   "detail": "Loose coordination among the three major insurgent groups.",
+   "confidence": "stated",
+   "timestamp": "p.14",
+   "quote": "These groups coordinate activities loosely"
+  },
+  {
+   "source": "Gulbuddin Hekmatyar",
+   "target": "Hezb-e Islami Gulbuddin",
+   "type": "leads",
+   "detail": "HiG is described as Gulbuddin Hekmatyar's group.",
+   "confidence": "stated",
+   "timestamp": "p.14",
+   "quote": "Gulbuddin Hekmatyar's HiG maintains militant bases in Nangarhar, Nuristan, and Kunar"
+  },
+  {
+   "source": "Hezb-e Islami Gulbuddin",
+   "target": "Nangarhar",
+   "type": "located_in",
+   "detail": "HiG maintains militant bases in Nangarhar.",
+   "confidence": "stated",
+   "timestamp": "p.14",
+   "quote": "HiG maintains militant bases in Nangarhar, Nuristan, and Kunar, as well as Pakistan"
+  },
+  {
+   "source": "Hezb-e Islami Gulbuddin",
+   "target": "Nuristan",
+   "type": "located_in",
+   "detail": "HiG maintains militant bases in Nuristan.",
+   "confidence": "stated",
+   "timestamp": "p.14",
+   "quote": "HiG maintains militant bases in Nangarhar, Nuristan, and Kunar"
+  },
+  {
+   "source": "Hezb-e Islami Gulbuddin",
+   "target": "Kunar",
+   "type": "located_in",
+   "detail": "HiG maintains militant bases in Kunar.",
+   "confidence": "stated",
+   "timestamp": "p.14",
+   "quote": "HiG maintains militant bases in Nangarhar, Nuristan, and Kunar"
+  },
+  {
+   "source": "Hezb-e Islami Gulbuddin",
+   "target": "Pakistan",
+   "type": "located_in",
+   "detail": "HiG also maintains bases in Pakistan.",
+   "confidence": "stated",
+   "timestamp": "p.14",
+   "quote": "as well as Pakistan"
+  },
+  {
+   "source": "Hezb-e Islami Gulbuddin",
+   "target": "Taliban",
+   "type": "negotiated_with",
+   "detail": "Hekmatyar aims to negotiate a major role in a future Taliban government.",
+   "confidence": "stated",
+   "timestamp": "p.14",
+   "quote": "aims to negotiate a major role in a future Taliban government"
+  },
+  {
+   "source": "Haqqani Network",
+   "target": "Khowst",
+   "type": "located_in",
+   "detail": "HQN's traditional base is Khowst, Paktia, and Paktika, which it aims to regain.",
+   "confidence": "stated",
+   "timestamp": "p.14",
+   "quote": "HQN aims to regain eventually full control of its traditional base in Khowst, Paktia, and Paktika"
+  },
+  {
+   "source": "Haqqani Network",
+   "target": "Paktia",
+   "type": "located_in",
+   "detail": "Traditional base of HQN.",
+   "confidence": "stated",
+   "timestamp": "p.14",
+   "quote": "traditional base in Khowst, Paktia, and Paktika"
+  },
+  {
+   "source": "Haqqani Network",
+   "target": "Paktika",
+   "type": "located_in",
+   "detail": "Traditional base of HQN.",
+   "confidence": "stated",
+   "timestamp": "p.14",
+   "quote": "traditional base in Khowst, Paktia, and Paktika"
+  },
+  {
+   "source": "Quetta Shura Taliban",
+   "target": "Kandahar City",
+   "type": "other",
+   "detail": "QST works to control Kandahar and its approaches; key geographic objective.",
+   "confidence": "stated",
+   "timestamp": "p.14",
+   "quote": "The QST has been working to control Kandahar and its approaches for several years"
+  },
+  {
+   "source": "Haqqani Network",
+   "target": "Pakistan",
+   "type": "funded_by",
+   "detail": "HQN draws resources principally from Pakistan.",
+   "confidence": "stated",
+   "timestamp": "p.14",
+   "quote": "HQN similarly draws resources principally from Pakistan, Gulf Arab networks"
+  },
+  {
+   "source": "Haqqani Network",
+   "target": "al Qaeda",
+   "type": "allied_with",
+   "detail": "HQN has a close association with al Qaeda and draws resources from it and other Pakistan-based groups.",
+   "confidence": "stated",
+   "timestamp": "p.14",
+   "quote": "from its close association with al Qaeda and other Pakistan-based insurgent groups"
+  },
+  {
+   "source": "Quetta Shura Taliban",
+   "target": "Taliban",
+   "type": "other",
+   "detail": "QST governs under the rubric of the Islamic Emirate of Afghanistan, appointing shadow governors.",
+   "confidence": "stated",
+   "timestamp": "p.15",
+   "quote": "They appoint shadow governors for most provinces, review their performance, and replace them periodically."
+  },
+  {
+   "source": "Insurgents",
+   "target": "Pakistan",
+   "type": "located_in",
+   "detail": "Afghan senior insurgent leaders directing the insurgency are based in Pakistan.",
+   "confidence": "stated",
+   "timestamp": "p.13",
+   "quote": "directed by a small number of Afghan senior leaders based in Pakistan"
+  },
+  {
+   "source": "Insurgents",
+   "target": "Inter-Services Intelligence",
+   "type": "funded_by",
+   "detail": "Insurgents are aided by elements of some intelligence agencies (implied ISI, not named here).",
+   "confidence": "inferred",
+   "timestamp": "p.13",
+   "quote": "They are aided by foreign fighters, elements of some intelligence agencies, and international funding, resources, and training."
+  },
+  {
+   "source": "Iranian Qods Force",
+   "target": "Taliban",
+   "type": "trained_by",
+   "detail": "The Qods Force is reportedly training fighters for certain Taliban groups, so the Taliban groups are recipients of Iranian training.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.19",
+   "quote": "the Iranian Qods Force is reportedly training fighters for certain Taliban groups and providing other forms of military assistance to insurgents"
+  },
+  {
+   "source": "Iranian Qods Force",
+   "target": "Insurgents",
+   "type": "other",
+   "detail": "The Qods Force is reported to provide military assistance to insurgents.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.19",
+   "quote": "providing other forms of military assistance to insurgents"
+  },
+  {
+   "source": "Iran",
+   "target": "Government of the Islamic Republic of Afghanistan",
+   "type": "allied_with",
+   "detail": "Iran provides developmental assistance and political support to GIRoA.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.19",
+   "quote": "providing developmental assistance and political support to GIRoA"
+  },
+  {
+   "source": "Iranian Qods Force",
+   "target": "Iran",
+   "type": "member_of",
+   "detail": "The Qods Force is an Iranian entity.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.19",
+   "quote": "Iran plays an ambiguous role in Afghanistan... while the Iranian Qods Force is reportedly training fighters"
+  },
+  {
+   "source": "Northern Distribution Network",
+   "target": "International Security Assistance Force",
+   "type": "member_of",
+   "detail": "The Northern Distribution Network is ISAF's logistics network.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.19",
+   "quote": "ISAF's Northern Distribution Network and logistical hubs are dependent upon support from Russian and Central Asian States"
+  },
+  {
+   "source": "Northern Distribution Network",
+   "target": "Russia",
+   "type": "funded_by",
+   "detail": "The NDN depends on support from Russia and Central Asian states.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.19",
+   "quote": "dependent upon support from Russian and Central Asian States"
+  },
+  {
+   "source": "Northern Distribution Network",
+   "target": "Central Asia",
+   "type": "funded_by",
+   "detail": "The NDN depends on support from Central Asian states.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.19",
+   "quote": "dependent upon support from Russian and Central Asian States"
+  },
+  {
+   "source": "India",
+   "target": "Afghanistan",
+   "type": "allied_with",
+   "detail": "India is increasing political, economic and development influence in Afghanistan.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.19",
+   "quote": "Indian political and economic influence is increasing in Afghanistan, including significant development efforts and financial investment"
+  },
+  {
+   "source": "Pakistan",
+   "target": "India",
+   "type": "rival_of",
+   "detail": "Pakistan perceives the Afghan government as pro-Indian and may take countermeasures against Indian influence.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.19",
+   "quote": "the current Afghan government is perceived by Islamabad to be pro-Indian"
+  },
+  {
+   "source": "Pakistan",
+   "target": "Iran",
+   "type": "rival_of",
+   "detail": "Pakistan may see Iranian initiatives as threats to its strategic interests.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.19",
+   "quote": "Pakistan may see Iranian economic and political initiatives as threats to their strategic interests"
+  },
+  {
+   "source": "Afghan National Security Forces",
+   "target": "Government of the Islamic Republic of Afghanistan",
+   "type": "member_of",
+   "detail": "ANSF's security efforts are aimed at enabling GIRoA to gain the people's trust.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.20",
+   "quote": "ultimately enabling GIRoA to gain the trust and confidence of the people"
+  },
+  {
+   "source": "Stanley McChrystal",
+   "target": "International Security Assistance Force",
+   "type": "leads",
+   "detail": "McChrystal signs as Commander of USFOR-A/ISAF in Afghanistan.",
+   "date": "2009-08-30",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Commander, United States Forces - Afghanistan/ International Security Assistance Force, Afghanistan"
+  },
+  {
+   "source": "Stanley McChrystal",
+   "target": "US Forces-Afghanistan",
+   "type": "leads",
+   "detail": "McChrystal is commander of USFOR-A as well as ISAF.",
+   "date": "2009-08-30",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Commander, United States Forces - Afghanistan/ International Security Assistance Force, Afghanistan"
+  },
+  {
+   "source": "Robert M. Gates",
+   "target": "US Department of Defense",
+   "type": "leads",
+   "detail": "Gates is Secretary of Defense.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "The Honorable Robert M. Gates Secretary of Defense"
+  },
+  {
+   "source": "Stanley McChrystal",
+   "target": "Supreme Allied Commander Europe",
+   "type": "reports_to",
+   "detail": "SACEUR is copied on the assessment and issued a similar directive.",
+   "date": "2009-07-01",
+   "confidence": "inferred",
+   "timestamp": "p.4",
+   "quote": "the Supreme Allied Commander Europe and NATO Secretary General also issued a similar directive."
+  },
+  {
+   "source": "International Security Assistance Force",
+   "target": "NATO",
+   "type": "member_of",
+   "detail": "ISAF is NATO's International Security Assistance Force.",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "NATO's International Security Assistance Force (ISAF) requires a new strategy"
+  },
+  {
+   "source": "US Central Command",
+   "target": "US Department of Defense",
+   "type": "member_of",
+   "detail": "The Secretary of Defense directed the CENTCOM commander to provide the assessment.",
+   "date": "2009-06-26",
+   "confidence": "inferred",
+   "timestamp": "p.4",
+   "quote": "the United States Secretary of Defense directed Commander, United States Central Command (CDRUSCENTCOM), to provide a multidisciplinary assessment"
+  },
+  {
+   "source": "Barack Obama",
+   "target": "al-Qa'ida",
+   "type": "rival_of",
+   "detail": "Obama's strategy aims to disrupt, dismantle and defeat al Qaeda.",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "President Obama's strategy to disrupt, dismantle, and eventually defeat al Qaeda and prevent their return to Afghanistan"
+  },
+  {
+   "source": "Taliban",
+   "target": "Government of the Islamic Republic of Afghanistan",
+   "type": "rival_of",
+   "detail": "The assessment warns the Afghan government could fall to the Taliban.",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "if the Afghan government falls to the Taliban"
+  },
+  {
+   "source": "International Security Assistance Force",
+   "target": "Insurgents",
+   "type": "rival_of",
+   "detail": "ISAF is fighting a resilient and growing insurgency.",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "We face not only a resilient and growing insurgency"
+  },
+  {
+   "source": "International Security Assistance Force",
+   "target": "Afghan National Security Forces",
+   "type": "trained_by",
+   "detail": "Strategy requires growing and improving the ANSF; ISAF supports them.",
+   "confidence": "inferred",
+   "timestamp": "p.5",
+   "quote": "we must grow and improve the effectiveness of the Afghan National Security Forces (ANSF)"
+  },
+  {
+   "source": "ISAF",
+   "target": "NATO",
+   "type": "allied_with",
+   "detail": "ISAF confronts command and control challenges in partnership with NATO and national capitals.",
+   "confidence": "stated",
+   "timestamp": "p.22",
+   "quote": "internally and in partnership with NATO and national capitals."
+  },
+  {
+   "source": "CSTC-A",
+   "target": "ISAF",
+   "type": "reports_to",
+   "detail": "Intermediate headquarters takes command and control of all ANSF mentor teams so CSTC-A and NTM-A can focus on institution-building.",
+   "confidence": "inferred",
+   "timestamp": "p.22",
+   "quote": "command and control for all ANSF mentor teams, enabling CSTC-A and the new NATO Training Mission-Afghanistan (NTM-A)"
+  },
+  {
+   "source": "NATO Training Mission-Afghanistan",
+   "target": "CSTC-A",
+   "type": "allied_with",
+   "detail": "Both focus on ANSF institution-building, force generation, sustainment and leader development.",
+   "confidence": "stated",
+   "timestamp": "p.22",
+   "quote": "enabling CSTC-A and the new NATO Training Mission-Afghanistan (NTM-A) to focus on ANSF institution-building"
+  },
+  {
+   "source": "NATO Training Mission-Afghanistan",
+   "target": "NATO",
+   "type": "member_of",
+   "detail": "NTM-A is a NATO mission.",
+   "confidence": "inferred",
+   "timestamp": "p.22",
+   "quote": "the new NATO Training Mission-Afghanistan (NTM-A)"
+  },
+  {
+   "source": "ISAF",
+   "target": "ANA",
+   "type": "allied_with",
+   "detail": "ISAF will integrate headquarters and enablers with ANA units for full partnership.",
+   "confidence": "stated",
+   "timestamp": "p.23",
+   "quote": "ISAF will integrate headquarters and enablers with ANA units to execute a full partnership"
+  },
+  {
+   "source": "ANA",
+   "target": "Afghan National Security Forces",
+   "type": "member_of",
+   "detail": "ANA and ANP are components of the ANSF.",
+   "confidence": "inferred",
+   "timestamp": "p.23",
+   "quote": "Neither the ANA nor the ANP is sufficiently effective."
+  },
+  {
+   "source": "ANP",
+   "target": "Afghan National Security Forces",
+   "type": "member_of",
+   "detail": "ANP is a component of the ANSF.",
+   "confidence": "inferred",
+   "timestamp": "p.23",
+   "quote": "Neither the ANA nor the ANP is sufficiently effective."
+  },
+  {
+   "source": "GIRoA",
+   "target": "Afghan Public Protection Program",
+   "type": "allied_with",
+   "detail": "GIRoA and ISAF will evaluate AP3 for village-level security with local shuras.",
+   "confidence": "stated",
+   "timestamp": "p.24",
+   "quote": "Afghan Public Protection Program (AP3), where appropriate conditions exist, to create village-level indigenous security in partnership with GIRoA and local shuras."
+  },
+  {
+   "source": "ISAF",
+   "target": "Afghan Public Protection Program",
+   "type": "allied_with",
+   "detail": "ISAF will evaluate using AP3 together with GIRoA.",
+   "confidence": "stated",
+   "timestamp": "p.24",
+   "quote": "GIRoA and ISAF will evaluate the utility of using locally-based security initiatives such as the Afghan Public Protection Program (AP3)"
+  },
+  {
+   "source": "ISAF",
+   "target": "GIRoA",
+   "type": "other",
+   "detail": "Proposed detention policy transfers long-term detention of insurgents to GIRoA.",
+   "confidence": "stated",
+   "timestamp": "p.24",
+   "quote": "transferring responsibility for long-term detention of insurgents to GIRoA"
+  },
+  {
+   "source": "Abdul Rahim Wardak",
+   "target": "Government of the Islamic Republic of Afghanistan",
+   "type": "member_of",
+   "detail": "Wardak is the Afghan Defense Minister.",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "Afghan Defense Minister Wardak"
+  },
+  {
+   "source": "Abdul Rahim Wardak",
+   "target": "Ministry of Defense (Afghanistan)",
+   "type": "leads",
+   "detail": "Wardak serves as Afghan Defense Minister.",
+   "confidence": "inferred",
+   "timestamp": "p.8",
+   "quote": "Afghan Defense Minister Wardak"
+  },
+  {
+   "source": "Barack Obama",
+   "target": "Afghanistan",
+   "type": "other",
+   "detail": "Obama announced the new U.S. Strategy for Afghanistan and Pakistan in a speech.",
+   "date": "2009-03-27",
+   "confidence": "stated",
+   "timestamp": "p.9",
+   "quote": "President Obama in his March 27, 2009 speech outlining the new U.S. Strategy for Afghanistan and Pakistan"
+  },
+  {
+   "source": "Barack Obama",
+   "target": "Pakistan",
+   "type": "other",
+   "detail": "The March 2009 strategy covered Pakistan as well as Afghanistan.",
+   "date": "2009-03-27",
+   "confidence": "stated",
+   "timestamp": "p.9",
+   "quote": "new U.S. Strategy for Afghanistan and Pakistan"
+  },
+  {
+   "source": "International Security Assistance Force",
+   "target": "Afghan National Security Forces",
+   "type": "allied_with",
+   "detail": "ISAF strategy centers on greater partnering with the ANSF, which should take the lead in security.",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "Improve effectiveness through greater partnering with ANSF."
+  },
+  {
+   "source": "International Security Assistance Force",
+   "target": "Taliban",
+   "type": "rival_of",
+   "detail": "The Afghan majority do not want a return of the Taliban, which is an advantage to ISAF.",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "the majority of Afghans do not want a return of the Taliban"
+  },
+  {
+   "source": "Afghan National Security Forces",
+   "target": "Insurgents",
+   "type": "rival_of",
+   "detail": "Afghans must ultimately defeat the insurgency.",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "the Afghans must ultimately defeat the insurgency"
+  },
+  {
+   "source": "International Security Assistance Force",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "ISAF operates in Afghanistan.",
+   "confidence": "inferred",
+   "timestamp": "p.9",
+   "quote": "The situation in Afghanistan is serious."
+  },
+  {
+   "source": "Quetta Shura Taliban",
+   "target": "Government of the Islamic Republic of Afghanistan",
+   "type": "rival_of",
+   "detail": "The QST's ombudsmen to investigate abuse of power within its cadres exploit GIRoA weakness and attract popular support for the QST shadow government.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.17",
+   "quote": "The QST's establishment of ombudsmen to investigate abuse of power in its own cadres and remove those found guilty capitalizes on this GIRoA weakness"
+  },
+  {
+   "source": "Government of the Islamic Republic of Afghanistan",
+   "target": "International Security Assistance Force",
+   "type": "allied_with",
+   "detail": "GIRoA, with ISAF support, is to strengthen Afghanistan against insurgent penetration.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.19",
+   "quote": "GIRoA-with support from ISAF - can strengthen Afghanistan against both domestic and foreign insurgent penetration."
+  },
+  {
+   "source": "Afghan National Police",
+   "target": "Afghan National Security Forces",
+   "type": "member_of",
+   "detail": "The ANP is part of the ANSF, where some power brokers hold positions and act as agents of corruption and illicit trafficking.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.17",
+   "quote": "some of these power brokers hold positions in the ANSF, particularly the ANP, and have been major agents of corruption and illicit trafficking."
+  },
+  {
+   "source": "Insurgents",
+   "target": "Government of the Islamic Republic of Afghanistan",
+   "type": "allied_with",
+   "detail": "Malign actors within GIRoA support insurgent groups directly and via criminal networks.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.17-18",
+   "quote": "Malign actors within GIRoA support insurgent groups directly, support criminal networks that are linked to insurgents"
+  },
+  {
+   "source": "Taliban",
+   "target": "Pakistan",
+   "type": "located_in",
+   "detail": "Senior leaders of the major Afghan insurgent groups are based in Pakistan.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.18",
+   "quote": "Senior leaders of the major Afghan insurgent groups are based in Pakistan, are linked with al Qaeda"
+  },
+  {
+   "source": "Taliban",
+   "target": "al Qaeda",
+   "type": "allied_with",
+   "detail": "Afghan insurgent group leaders are linked with al Qaeda and other violent extremist groups.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.18",
+   "quote": "are linked with al Qaeda and other violent extremist groups"
+  },
+  {
+   "source": "Taliban",
+   "target": "Inter-Services Intelligence",
+   "type": "funded_by",
+   "detail": "Insurgent leaders are reportedly aided by some elements of Pakistan's ISI.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.18",
+   "quote": "are reportedly aided by some elements of Pakistan's ISi."
+  },
+  {
+   "source": "al Qaeda",
+   "target": "Pakistan",
+   "type": "located_in",
+   "detail": "AQAM is based in Pakistan and channels fighters, bombers, and assistance into Afghanistan.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.18",
+   "quote": "Al Qaeda and associated movements (AQAM} based in Pakistan channel foreign fighters, suicide bombers, and technical assistance into Afghanistan"
+  },
+  {
+   "source": "al Qaeda",
+   "target": "Haqqani Network",
+   "type": "allied_with",
+   "detail": "Al Qaeda's links with HQN have grown.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.18",
+   "quote": "Al Qaeda's links with HQN have grown, suggesting that expanded HQN control could create a favorable environment"
+  },
+  {
+   "source": "Northern Distribution Network",
+   "target": "Russia",
+   "type": "other",
+   "detail": "NDN depends on support from Russia and Central Asian states.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.19",
+   "quote": "dependent upon support from Russian and Central Asian States"
+  },
+  {
+   "source": "International Security Assistance Force",
+   "target": "Pakistan",
+   "type": "other",
+   "detail": "ISAF depends on ground supply routes through Pakistan.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.18",
+   "quote": "the ISAF mission in Afghanistan is reliant on ground supply routes through Pakistan"
+  },
+  {
+   "source": "Afghan Public Protection Program",
+   "target": "GIRoA",
+   "type": "member_of",
+   "detail": "AP3 is a locally-based security initiative created in partnership with GIRoA and local shuras.",
+   "confidence": "inferred",
+   "timestamp": "p.24",
+   "quote": "create village-level indigenous security in partnership with GIRoA and local shuras"
+  },
+  {
+   "source": "ISAF",
+   "target": "ANSF",
+   "type": "allied_with",
+   "detail": "Close partnering between ISAF and ANSF during the elections.",
+   "confidence": "stated",
+   "timestamp": "p.25",
+   "quote": "the close partnering between ISAF and ANSF, and the mass deployment of security forces were notable achievements"
+  },
+  {
+   "source": "Insurgents",
+   "target": "ISAF",
+   "type": "rival_of",
+   "detail": "Insurgents targeted ISAF and ANSF during the elections, with a spike in attacks.",
+   "confidence": "stated",
+   "timestamp": "p.25",
+   "quote": "insurgents were targeting ISAF and ANSF, not the voters"
+  },
+  {
+   "source": "Insurgents",
+   "target": "ANSF",
+   "type": "rival_of",
+   "detail": "Insurgents targeted ANSF during the election period.",
+   "confidence": "stated",
+   "timestamp": "p.25",
+   "quote": "violence against ISAF and ANSF, with three to four times the average number of attacks"
+  },
+  {
+   "source": "Provincial Reconstruction Teams",
+   "target": "ISAF",
+   "type": "member_of",
+   "detail": "Civilian resources deployed to PRTs, District Support Teams and ISAF task forces help build sub-national governance.",
+   "confidence": "inferred",
+   "timestamp": "p.25",
+   "quote": "civilian resources deployed to Provincial Reconstruction Teams, District Support Teams, and ISAF task forces"
+  },
+  {
+   "source": "Ministry of Finance",
+   "target": "ISAF",
+   "type": "other",
+   "detail": "Ministry of Finance requested civilian technical assistance, which must be met.",
+   "confidence": "stated",
+   "timestamp": "p.25",
+   "quote": "the request for suJ)port from the Ministry of Finance for civilian technical assistance must be welcomed and met"
+  },
+  {
+   "source": "OXFAM",
+   "target": "ISAF",
+   "type": "other",
+   "detail": "OXFAM report cited as indicating a significant percentage of development funding is diverted.",
+   "confidence": "stated",
+   "timestamp": "p.26",
+   "quote": "A recent OXFAM report indicates that a significant percentage of such funding is diverted."
+  },
+  {
+   "source": "NATO Training Mission-Afghanistan",
+   "target": "Afghan National Army",
+   "type": "trained_by",
+   "detail": "NTM-A oversees higher level training for the ANA (provider NTM-A).",
+   "confidence": "stated",
+   "timestamp": "p.57",
+   "quote": "to oversee higher level training for the ANA and for development of the ANP"
+  },
+  {
+   "source": "Afghan National Police",
+   "target": "NATO Training Mission-Afghanistan",
+   "type": "trained_by",
+   "detail": "NTM-A oversees development of the ANP.",
+   "confidence": "stated",
+   "timestamp": "p.57",
+   "quote": "to oversee higher level training for the ANA and for development of the ANP"
+  },
+  {
+   "source": "CSTC-A",
+   "target": "NATO Training Mission-Afghanistan",
+   "type": "allied_with",
+   "detail": "CSTC-A and NTM-A will co-exist as a single HQ with integrated staff under a dual-hatted commander.",
+   "confidence": "stated",
+   "timestamp": "p.57",
+   "quote": "CSTC-A and NTM-A will co-exist as a single HQ with fully integrated staff sections under a dual-hatted commander."
+  },
+  {
+   "source": "Afghan Public Protection Force",
+   "target": "Afghan National Police",
+   "type": "member_of",
+   "detail": "APPF personnel will be absorbed into the ANP as it expands.",
+   "confidence": "stated",
+   "timestamp": "p.57",
+   "quote": "the Afghan Public Protection Force (APPF) personnel will be absorbed into the ANP as it expands."
+  },
+  {
+   "source": "ISAF Joint Command",
+   "target": "CSTC-A",
+   "type": "other",
+   "detail": "Responsibility for developing the fielded ANSF is to shift from CSTC-A to the IJC (rendered 'UC/IJC' in OCR); CITF Phoenix transfers to IJC.",
+   "confidence": "stated",
+   "timestamp": "p.58",
+   "quote": "the IJC should assume responsibility for developing the fielded force."
+  },
+  {
+   "source": "CSTC-A",
+   "target": "Office of the Secretary of Defense",
+   "type": "funded_by",
+   "detail": "Assessment recommends the OSD Comptroller fund CSTC-A directly for ANSF procurement.",
+   "confidence": "stated",
+   "timestamp": "p.58",
+   "quote": "recommends that the OSD Comptroller fund CSTC-A directly"
+  },
+  {
+   "source": "Defense Security Cooperation Agency",
+   "target": "United States Army Security Assistance Command",
+   "type": "allied_with",
+   "detail": "Both handle ANSF procurement as pseudo Foreign Military Sales cases and charge fees.",
+   "confidence": "stated",
+   "timestamp": "p.58",
+   "quote": "handled as \"pseudo\" Foreign Military Sales Cases by the Defense Security Cooperation Agency (DSCA) and the United States Army Security Assistance Command (USASAC)"
+  },
+  {
+   "source": "European Commission",
+   "target": "Afghan National Police",
+   "type": "other",
+   "detail": "The European Commission requested a parallel study on the character and end strength of the ANP.",
+   "confidence": "stated",
+   "timestamp": "p.58",
+   "quote": "the European Commission requested a parallel study to recommend the character and end strength of ANP."
+  },
+  {
+   "source": "Bureau of International Narcotics and Law Enforcement Affairs",
+   "target": "CSTC-A",
+   "type": "other",
+   "detail": "INL should transfer responsibility for police training to CSTC-A.",
+   "confidence": "stated",
+   "timestamp": "p.59",
+   "quote": "should transfer responsibility for police training to CSTC-A."
+  },
+  {
+   "source": "Office of the Secretary of Defense",
+   "target": "Bureau of International Narcotics and Law Enforcement Affairs",
+   "type": "funded_by",
+   "detail": "Since 2005 OSD has transferred funding to INL for ANP development (INL funded by OSD).",
+   "date": "2005",
+   "confidence": "stated",
+   "timestamp": "p.59",
+   "quote": "Since 2005, OSD has transferred funding to INL for developmental efforts of the ANP."
+  },
+  {
+   "source": "Bureau of International Narcotics and Law Enforcement Affairs",
+   "target": "Office of the Secretary of Defense",
+   "type": "funded_by",
+   "detail": "INL received ANP development funds from OSD.",
+   "date": "2005",
+   "confidence": "stated",
+   "timestamp": "p.59",
+   "quote": "Since 2005, OSD has transferred funding to INL for developmental efforts of the ANP."
+  },
+  {
+   "source": "CSTC-A",
+   "target": "US Central Command",
+   "type": "other",
+   "detail": "CSTC-A will develop a construct for ministry-led construction funding with CENTCOM and OSD.",
+   "confidence": "stated",
+   "timestamp": "p.59",
+   "quote": "CSTC-A will develop a construct for this proposal with CENTCOM and OSD"
+  },
+  {
+   "source": "CSTC-A",
+   "target": "Ministry of Defense (Afghanistan)",
+   "type": "other",
+   "detail": "CSTC-A will train, advise and educate personnel in the Afghan Ministries of Defense and Interior.",
+   "confidence": "stated",
+   "timestamp": "p.59",
+   "quote": "CSTC-A will retain the responsibility to train, advise, and educate personnel in the Afghan Ministries of Defense and Interior"
+  },
+  {
+   "source": "CSTC-A",
+   "target": "Ministry of Interior (Afghanistan)",
+   "type": "other",
+   "detail": "CSTC-A will train, advise and educate personnel in the Ministry of Interior.",
+   "confidence": "stated",
+   "timestamp": "p.59",
+   "quote": "CSTC-A will retain the responsibility to train, advise, and educate personnel in the Afghan Ministries of Defense and Interior"
+  },
+  {
+   "source": "Barack Obama",
+   "target": "United States Government",
+   "type": "leads",
+   "detail": "President Obama announced the new U.S. Strategy for Afghanistan and Pakistan, which ISAF's strategy supports.",
+   "date": "2009-03-27",
+   "confidence": "inferred",
+   "timestamp": "p.9",
+   "quote": "As announced by President Obama in his March 27, 2009 speech outlining the new U.S. Strategy for Afghanistan and Pakistan"
+  },
+  {
+   "source": "International Security Assistance Force",
+   "target": "Afghan National Security Forces",
+   "type": "trained_by",
+   "detail": "ISAF's mission includes supporting growth of ANSF capacity; strategy calls for expanded coalition partnering with ANSF. Direction approximate: ANSF are supported/partnered by ISAF.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.10",
+   "quote": "support the growth in capacity and capability of the Afghan National Security Forces (ANSF)"
+  },
+  {
+   "source": "International Security Assistance Force",
+   "target": "NATO",
+   "type": "member_of",
+   "detail": "ISAF's new strategy is consistent with NATO's Comprehensive Strategic Political Military Plan and NATO approach.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.10",
+   "quote": "ISAF's new strategy is consistent with the NATO Comprehensive Strategic Political Military Plan"
+  },
+  {
+   "source": "Barack Obama",
+   "target": "al-Qa'ida",
+   "type": "rival_of",
+   "detail": "Obama's strategy aims to disrupt, dismantle and defeat al Qaeda.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.10",
+   "quote": "President Obama's strategy to disrupt, dismantle, and eventually defeat al Qaeda and prevent their return to Afghanistan"
+  },
+  {
+   "source": "Government of the Islamic Republic of Afghanistan",
+   "target": "Insurgents",
+   "type": "rival_of",
+   "detail": "GIRoA must win the support of the people and counter insurgent coercion.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.11",
+   "quote": "help GIRoA win the support of the people and counter insurgent coercion and intimidation"
+  },
+  {
+   "source": "Insurgents",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "The set of related insurgencies operate in Afghanistan.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.11",
+   "quote": "The conflict in Afghanistan can be viewed as a set of related insurgencies"
+  },
+  {
+   "source": "International Security Assistance Force",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "ISAF conducts operations in Afghanistan.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.10",
+   "quote": "conducts operations in Afghanistan"
+  },
+  {
+   "source": "International Security Assistance Force",
+   "target": "Ministry of Defense (Afghanistan)",
+   "type": "allied_with",
+   "detail": "ISAF is to forge a robust partnership with MOD and MOI spokespersons for StratCom.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.42",
+   "quote": "Better linkages and a robust partnership must be forged with MOD and MOI spokespersons"
+  },
+  {
+   "source": "International Security Assistance Force",
+   "target": "Ministry of Interior (Afghanistan)",
+   "type": "allied_with",
+   "detail": "ISAF is to forge a robust partnership with MOD and MOI spokespersons for StratCom.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.42",
+   "quote": "Better linkages and a robust partnership must be forged with MOD and MOI spokespersons"
+  },
+  {
+   "source": "Government Media and Information Centre",
+   "target": "Government of the Islamic Republic of Afghanistan",
+   "type": "member_of",
+   "detail": "The Government Media and Information Centre is a GIRoA body disseminating government briefings; it should be expanded with regional nodes.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.42",
+   "quote": "The Government Media and Information Centre needs to be expanded to include regional nodes able to disseminate government briefings and releases throughout the region."
+  },
+  {
+   "source": "International Security Assistance Force",
+   "target": "Insurgents (INS)",
+   "type": "rival_of",
+   "detail": "Offensive information operations are to target INS networks to disrupt and degrade their effectiveness.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.43",
+   "quote": "Offensive 10 must be used to target INS networks in order to disrupt and degrade their operational effectiveness"
+  },
+  {
+   "source": "ISAF Joint Command",
+   "target": "International Security Assistance Force",
+   "type": "member_of",
+   "detail": "ISAF and USFOR-A StratCom and Public Affairs components are to be integrated for unity of command and effort.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.44",
+   "quote": "ISAF and USFOR-A StratCom 10 and Public Affairs (PA) components must be fully integrated in order to provide unity of command and effort"
+  },
+  {
+   "source": "USFOR-A",
+   "target": "International Security Assistance Force",
+   "type": "allied_with",
+   "detail": "ISAF and USFOR-A StratCom IO and PA components must be fully integrated.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.44",
+   "quote": "ISAF and USFOR-A StratCom 10 and Public Affairs (PA) components must be fully integrated"
+  },
+  {
+   "source": "NATO",
+   "target": "SHAPE",
+   "type": "other",
+   "detail": "SHAPE is NATO's headquarters; the strategic center of gravity of NATO/SHAPE lies in national capitals.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.45",
+   "quote": "help protect NATO/SHAPE's strategic center of gravity in national capitals"
+  },
+  {
+   "source": "Afghan National Army",
+   "target": "Afghan National Security Forces",
+   "type": "member_of",
+   "detail": "The ANA is one of the two components of the ANSF.",
+   "confidence": "stated",
+   "timestamp": "p.55",
+   "quote": "both the Afghan National Army (ANA) and Afghan National Police (ANP)"
+  },
+  {
+   "source": "Afghan Ministry of Defense",
+   "target": "CSTC-A",
+   "type": "funded_by",
+   "detail": "The Afghan MoD plan to accelerate training of 8 Kandaks was supported by CSTC-A.",
+   "confidence": "stated",
+   "timestamp": "p.55",
+   "quote": "a plan from the Afghan Ministry of Defense (supported by CSTC-A) to accelerate the training of 8 Kandaks"
+  },
+  {
+   "source": "Afghan National Security Forces",
+   "target": "International Security Assistance Force",
+   "type": "trained_by",
+   "detail": "ANSF expansion requires ISAF partnering, mentoring and enabling capabilities.",
+   "confidence": "stated",
+   "timestamp": "p.55",
+   "quote": "will require ISAF to provide enhanced partnering, mentoring, and enabling capabilities until parallel capabilities are developed within the ANSF"
+  },
+  {
+   "source": "Afghan National Army",
+   "target": "ISAF Joint Command",
+   "type": "trained_by",
+   "detail": "ANA risks are mitigated through partnering and mentoring by Regional Commanders delivered via the ISAF Joint Command.",
+   "confidence": "stated",
+   "timestamp": "p.56",
+   "quote": "close partnering and mentoring by Regional Commanders delivered through the ISAF Joint Command"
+  },
+  {
+   "source": "Afghan National Civil Order Police",
+   "target": "Afghan National Police",
+   "type": "member_of",
+   "detail": "ANCOP is described as an elite police force within the ANP.",
+   "confidence": "stated",
+   "timestamp": "p.56",
+   "quote": "new police forces such as the elite Afghan National Civil Order Police (ANCOP) must be generated"
+  },
+  {
+   "source": "Afghan Border Police",
+   "target": "Afghan National Police",
+   "type": "member_of",
+   "detail": "ABP is part of the police growth to 160k.",
+   "confidence": "inferred",
+   "timestamp": "p.57",
+   "quote": "The numbers of Afghan Border Police (ABP) and Afghan National Civil Order Police (ANCOP) should also be considerably increased"
+  },
+  {
+   "source": "NATO Training Mission-Afghanistan",
+   "target": "North Atlantic Council",
+   "type": "reports_to",
+   "detail": "The NAC endorsed and approved creation of NTM-A.",
+   "confidence": "stated",
+   "timestamp": "p.57",
+   "quote": "the North Atlantic Council endorsed the creation of NATO Training Mission -Afghanistan"
+  },
+  {
+   "source": "NATO Training Mission-Afghanistan",
+   "target": "Afghan National Army",
+   "type": "other",
+   "detail": "NTM-A oversees higher level training for the ANA and development of the ANP.",
+   "confidence": "stated",
+   "timestamp": "p.57",
+   "quote": "to oversee higher level training for the ANA and for development of the ANP"
+  }
+ ],
+ "sources_cited": [
+  "Secretary of Defense Memorandum 26 June 2009, Initial USFOR-A Assessment",
+  "NATO Comprehensive Strategic Political Military Plan",
+  "President Obama's 27 March 2009 speech on the Afghanistan-Pakistan strategy",
+  "Writings of Defense Minister Wardak",
+  "NATO source documents (Annex I references)",
+  "Existing UN mandates",
+  "OXFAM report on diversion of development funding",
+  "Afghanistan National Development Strategy",
+  "UNAMA mandate",
+  "Draft U.S. Government Integrated Civilian-Military Campaign Plan for Support to Afghanistan",
+  "ISAF OPLAN 38302",
+  "ISAF OPORD",
+  "Draft USG Integrated Civilian-Military Campaign Plan",
+  "FRAGO 408-2009",
+  "Budapest Summit",
+  "Tactical Directive dated 1 July 2009",
+  "ISAF OPLAN",
+  "NATO Comprehensive Strategic Political Military Plan (CSPMP) for Afghanistan",
+  "ISAF StratCom Action Plan",
+  "Tactical Directive (TD)",
+  "Military Technical Agreement between ISAF and GIRoA (4 Jan 2002)",
+  "COMISAF Commander's Initial Guidance, 13 June 2009",
+  "COMISAF Tactical Directive, 1 July 2009",
+  "Bonn Agreement, 5 Dec 2001",
+  "Military Technical Agreement between ISAF and the Interim Administration of Afghanistan",
+  "Afghan Compact 2006",
+  "Bucharest Summit Declaration, April 2008",
+  "UN Security Council Resolutions 1383, 1386, 1401, 1413, 1419, 1444, 1453, 1471, 1510, 1776, 1806, 1817, 1833"
+ ],
+ "key_claims": [
+  "McChrystal assesses the overall situation in Afghanistan as serious and deteriorating, though the mission is achievable.",
+  "He argues ISAF needs a fundamentally new population-centric counterinsurgency strategy, not just more resources.",
+  "He frames the conflict as three regional insurgencies intersecting with local power struggles.",
+  "He judges the next 12 months decisive for gaining the initiative before defeating the insurgency becomes impossible.",
+  "He warns that Afghan government collapse to the Taliban could again make Afghanistan a base for transnational terrorism, including al-Qaeda.",
+  "He says civilian casualties and ISAF's distance from the population risk strategic defeat.",
+  "The insurgency is a set of related insurgent groups, principally the Quetta Shura Taliban, the Haqqani Network and Hezb-e Islami Gulbuddin, that coordinate loosely without a formal command structure.",
+  "Most insurgent fighters are Afghan, directed by a small number of senior Afghan leaders based in Pakistan.",
+  "The QST focuses on Kandahar and runs a shadow government; HQN seeks Khowst, Paktia and Paktika; HiG has bases in Nangarhar, Nuristan and Kunar.",
+  "HQN draws resources principally from Pakistan, Gulf Arab networks and its association with al Qaeda.",
+  "Al Qaeda's links with HQN have grown, and expanded HQN control could let AQAM re-establish safe havens in Afghanistan.",
+  "Some elements of Pakistan's ISI are reportedly aiding the senior leaders of the major Afghan insurgent groups.",
+  "Narcotics funding is only one of several insurgent income sources; eliminating it would not end insurgent capability.",
+  "There are no clear lines between insurgents, criminal networks and corrupt GIRoA officials.",
+  "The Afghan insurgency is clearly supported from Pakistan, and senior leaders of the major insurgent groups are based there.",
+  "Some elements of Pakistan's ISI are reportedly aiding the insurgent leadership.",
+  "Al Qaeda's links with the Haqqani Network have grown, and expanded HQN control could let AQAM re-establish safe havens in Afghanistan.",
+  "Iran's Qods Force is reportedly training fighters for certain Taliban groups, while Iran also supports GIRoA.",
+  "Despite Pakistani support, the insurgency in Afghanistan is predominantly Afghan.",
+  "Increasing Indian influence in Afghanistan is likely to encourage Pakistani countermeasures.",
+  "ISAF should shift to an Afghan-run detention system with intelligence collection and counter-radicalization to avoid 'catch and release'.",
+  "Insurgents targeted ISAF and ANSF rather than voters during the elections, despite a spike in violence.",
+  "The narco/illicit economy and extortion on development projects undermine governance and GIRoA revenue.",
+  "The strategy has three stages: gain the initiative, strategic consolidation (12-24 months), and sustained security.",
+  "ISAF must prioritize resources on threatened, high-population areas and requires more forces.",
+  "External actors such as Pakistan and Iran are named as risks outside ISAF's control.",
+  "Substantial intelligence points directly at the Afghan narcotics industry as a significant economic enabler for the insurgency.",
+  "The ISAF OPORD lacks prioritization and does not link the Regional Commands under a single nationwide strategy.",
+  "Insurgents traditionally use winter months to reorganize for the fighting season, and ISAF has inadvertently matched this cycle.",
+  "Pakistani military operations in the border area are an external event that influences the insurgent operational cycle.",
+  "Insurgents have used the information environment effectively to undermine ISAF and GIRoA credibility.",
+  "Creation of ISAF Joint Command and NTM-A is intended to improve unity of command.",
+  "Insurgents have undermined the credibility of ISAF, the international community and GIRoA through effective information operations, though without gaining credibility themselves.",
+  "The operational centre of gravity is the support of the Afghan population; the NATO strategic centre of gravity is Alliance cohesion.",
+  "StratCom should be embedded in all operations rather than treated as a separate line of operation.",
+  "Offensive IO should expose insurgents' violations, their responsibility for most civilian casualties, and their attacks on education and development, while offering reintegration opportunities for lower-level insurgents.",
+  "Civilian casualties undermine support for GIRoA and ISAF, and the Afghan people hold ISAF to a higher standard than the insurgents.",
+  "About 14% of people killed and 22% of those wounded in the last recorded six months were hurt during escalation-of-force incidents.",
+  "ISAF should be 'first with the known truth' after a civilian casualty incident and should seek ways to reach insurgents in Pakistan.",
+  "Taliban and Al Qaeda insurgents make up over 2,500 of 14,500 inmates in the Afghan Corrections System and radicalize other inmates.",
+  "Multiple Afghan national prison facilities are described as firmly under Taliban control.",
+  "Insurgents use the prison system as a sanctuary and base to plan lethal operations, e.g. the Serena Hotel bombing.",
+  "The assessment proposes a Combined Joint Interagency Task Force to run US detention and reform Afghan corrections, with the aim of handing detention over to the Afghan government.",
+  "ISAF should be 'first with the known truth' on civilian casualty incidents, because insurgent information operations are not hampered by truthfulness.",
+  "The assessment recommends growing the ANA to 134k by Oct 2010 and an estimated 240k, and the ANP to 160k.",
+  "The assessment recommends growing the ANP to 160k and the ANSF to a 400k target (240K ANA, 160K ANP).",
+  "ANP growth includes doubling district and provincial strength and absorbing the APPF.",
+  "NTM-A, endorsed 12 June 2009, would be dual-hatted with CSTC-A, with IJC taking over development of the fielded ANSF.",
+  "All police training authority should shift from State's INL to CSTC-A/NTM-A.",
+  "CSTC-A should receive direct authority over ASFF, bypassing DSCA and USASAC fees."
+ ]
+}

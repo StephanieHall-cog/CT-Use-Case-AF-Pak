@@ -1,0 +1,173 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc03-1993-07-22-funding-of-the-gama-at-al-islamiya-by-wealthy-saud",
+  "title": "Funding of the Gama'at al-Islamiya by Wealthy Saudi Oppositionist Usama Bin Ladin; Composition of Sudanese Wing of the Egyptian Gama'at al-Islamiya",
+  "authors": "CIA",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "1993-07-22",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7wuu-jeagl/1993-07-22-funding-of-the-gamaat-al-islamiya-by.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 4,
+  "kind": "intelligence report",
+  "note": "CIA Intelligence Report on bin Ladin's funding of the Egyptian Gama'at al-Islamiya and the composition of its Sudanese wing. Source: 9/11 Commission Report, Chapter 4, Endnote 1.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 3",
+  "relevance": "high",
+  "ocr": 1
+ },
+ "persons": [
+  {
+   "name": "Usama Bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Usama bin Ladin",
+    "Bin Laden"
+   ],
+   "role": "Wealthy Saudi oppositionist based in Khartoum; regular supporter and funder of the Egyptian Gama'at al-Islamiya",
+   "organizations": [
+    "Gama'at al-Islamiya"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Khartoum",
+    "Sudan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "( (BIN LADIN) ) IS A Rli:GULAR SUPPOR'l'iR ·oF"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Gama'at al-Islamiya",
+   "aliases": [
+    "Egyptian Gama'at al-Islamiya",
+    "Gamaa Islamiya",
+    "Islamic Group"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Egypt",
+   "notes": "The report covers its Sudanese wing and its funding by Usama Bin Ladin. The OCR text is heavily garbled and the report body is largely illegible."
+  },
+  {
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Issued the information report. Intelligence is described as not finally evaluated."
+  }
+ ],
+ "places": [
+  {
+   "name": "Khartoum",
+   "type": "city",
+   "country": "Sudan",
+   "parent": "Sudan",
+   "significance": "Base of the wealthy Saudi oppositionist Usama Bin Ladin (OCR garbled: 'KHAR',t'OOlllMiASiD')."
+  },
+  {
+   "name": "Sudan",
+   "type": "country",
+   "country": "Sudan",
+   "parent": "",
+   "significance": "Location of the Sudanese wing of the Egyptian Gama'at al-Islamiya."
+  },
+  {
+   "name": "Egypt",
+   "type": "country",
+   "country": "Egypt",
+   "parent": "",
+   "significance": "Home country of the Gama'at al-Islamiya."
+  }
+ ],
+ "events": [
+  {
+   "date": "1993-07-22",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA information report on Usama Bin Ladin's funding of the Egyptian Gama'at al-Islamiya and on the composition of its Sudanese wing.",
+   "place": "Khartoum",
+   "actors": [
+    "Central Intelligence Agency",
+    "Usama Bin Ladin",
+    "Gama'at al-Islamiya"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1993-07-22",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "The CIA issued an information report on Bin Ladin's funding of the Gama'at al-Islamiya and the composition of its Sudanese wing. The report is described as not finally evaluated intelligence.",
+   "place": "Khartoum",
+   "actors": [
+    "Central Intelligence Agency",
+    "Usama Bin Ladin",
+    "Gama'at al-Islamiya"
+   ],
+   "timestamp": "p.2"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Gama'at al-Islamiya",
+   "target": "Usama Bin Ladin",
+   "type": "funded_by",
+   "detail": "Bin Ladin is described as a regular supporter of the Egyptian Gama'at al-Islamiya; the report title refers to his funding.",
+   "date": "1993",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "( (BIN LADIN) ) IS A Rli:GULAR SUPPOR'l'iR ·oF"
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "Khartoum",
+   "type": "located_in",
+   "detail": "Described as a wealthy Khartoum-based Saudi oppositionist (the OCR is garbled).",
+   "date": "1993",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "WBAL'.l'HY KHAR',t'OOlllMiASiD SAtiD:r OPPQSITIOm:S'r."
+  },
+  {
+   "source": "Gama'at al-Islamiya",
+   "target": "Sudan",
+   "type": "located_in",
+   "detail": "The report title refers to a Sudanese wing of the Egyptian Gama'at al-Islamiya, so the group had a presence in Sudan.",
+   "date": "1993",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "COMPOSn'ION· o,. SODJUmSB WIOO OP' '1'HB BGYP'l'?AH GAMA.' AT JIL• ISlJIID:%,A."
+  },
+  {
+   "source": "Gama'at al-Islamiya",
+   "target": "Egypt",
+   "type": "located_in",
+   "detail": "The text identifies the Gama'at al-Islamiya as Egyptian.",
+   "date": "1993",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "BG'll'P'rIAN GAMA' AT AL-Is-"
+  }
+ ],
+ "sources_cited": [
+  "CIA information report (not finally evaluated intelligence), 22 July 1993"
+ ],
+ "key_claims": [
+  "Usama Bin Ladin, a wealthy Saudi oppositionist in Khartoum, was a regular financial supporter of the Egyptian Gama'at al-Islamiya in 1993.",
+  "The Gama'at al-Islamiya had a Sudanese wing, whose composition the report describes."
+ ]
+}

@@ -1,0 +1,165 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc107-2003-03-18-ct-presence-of-al-qa-ida-operative-tawfiq-muhammad",
+  "title": "CT: Presence of Al-Qa'ida Operative Tawfiq Muhammad Bin Salah Bin Rushayd Bin Attash in Los Angeles In Summer 2000; Association of Bin Attash With U.S.-Based Extremists",
+  "authors": "CIA",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "2003-03-18",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7xqj-swjpt/2003-03-18-ct-presence-of-al-qaida-operative.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 2,
+  "kind": "intelligence report",
+  "note": "CIA intelligence report on al-Qaeda operative Tawfiq bin Attash in Los Angeles in summer 2000 and his association with U.S.-based extremists. Source: Chapter 7, Endnote 9.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 107",
+  "relevance": "high",
+  "ocr": 0
+ },
+ "persons": [
+  {
+   "name": "Tawfiq Muhammad Bin Salah Bin Rushayd Bin Attash",
+   "aliases": [
+    "Khallad Bin Attash",
+    "Tawfiq bin Attash",
+    "Khalid bin Attash",
+    "Khallad"
+   ],
+   "role": "Senior al-Qa'ida operative and USS Cole attack planner",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Los Angeles, California"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "SENIOR AL-QAI'DA OPERATIVE AND USS COLE ATTACK PLANNER TAWFIQ MOHAMMAD BIN SALAH BIN RUSHAYD BIN ATTASH AKA KHALLAD BIN ATTASH, WAS IN THE AREA OF LOS ANGELES"
+    },
+    {
+     "timestamp": "p.2",
+     "quote": "WHILE IN LOS ANGELES, BIN ATTASH ATTENDED PRAYER SERVICES AT A LOCAL LOS ANGELES AREA MOSQUE."
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "al-Qa'ida",
+   "aliases": [
+    "al-Qaeda",
+    "al-Qai'da"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Bin Attash identified as a senior operative."
+  },
+  {
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Originator of the information report, which was disseminated to many US agencies."
+  }
+ ],
+ "places": [
+  {
+   "name": "Los Angeles",
+   "type": "city",
+   "country": "United States",
+   "parent": "California",
+   "significance": "Bin Attash was in the Los Angeles area for about two weeks in June 2000 and attended a local mosque."
+  },
+  {
+   "name": "California",
+   "type": "province",
+   "country": "United States",
+   "parent": "United States",
+   "significance": "State containing Los Angeles."
+  }
+ ],
+ "events": [
+  {
+   "date": "2000-06",
+   "date_precision": "month",
+   "type": "travel",
+   "description": "Bin Attash was in the Los Angeles area for approximately two weeks and attended prayer services at a local mosque.",
+   "place": "Los Angeles",
+   "actors": [
+    "Tawfiq Muhammad Bin Salah Bin Rushayd Bin Attash"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "2000-06",
+   "date_precision": "month",
+   "type": "travel",
+   "description": "Bin Attash (aka Khallad) was in the Los Angeles area for about two weeks and attended prayer services at a local mosque.",
+   "place": "Los Angeles, California",
+   "actors": [
+    "Tawfiq Muhammad Bin Salah Bin Rushayd Bin Attash"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "2003-03-18",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA issued an information report on Bin Attash's presence in Los Angeles in 2000 and his association with U.S.-based extremists.",
+   "place": "",
+   "actors": [
+    "Central Intelligence Agency"
+   ],
+   "timestamp": "p.2"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Tawfiq Muhammad Bin Salah Bin Rushayd Bin Attash",
+   "target": "al-Qa'ida",
+   "type": "member_of",
+   "detail": "Described as a senior al-Qa'ida operative and USS Cole attack planner.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "SENIOR AL-QAI'DA OPERATIVE AND USS COLE ATTACK PLANNER"
+  },
+  {
+   "source": "Tawfiq Muhammad Bin Salah Bin Rushayd Bin Attash",
+   "target": "Los Angeles",
+   "type": "located_in",
+   "detail": "Present in the Los Angeles area in June 2000 for about two weeks.",
+   "date": "2000-06",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "WAS IN THE AREA OF LOS ANGELES, CALIFORNIA DURING JUNE 2000 FOR APPROXIMATELY TWO WEEKS"
+  },
+  {
+   "source": "Los Angeles",
+   "target": "California",
+   "type": "located_in",
+   "detail": "Los Angeles is in California.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "AREA OF LOS ANGELES, CALIFORNIA"
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "Senior al-Qa'ida operative and USS Cole attack planner Khallad Bin Attash was in the Los Angeles area for about two weeks in June 2000.",
+  "While in Los Angeles, Bin Attash attended prayer services at a local mosque.",
+  "The report's subject line indicates an association between Bin Attash and U.S.-based extremists, but the text in this chunk is truncated before naming them."
+ ]
+}

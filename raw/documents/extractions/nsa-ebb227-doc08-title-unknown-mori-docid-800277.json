@@ -1,0 +1,383 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb227-doc08-title-unknown-mori-docid-800277",
+  "title": "[Title unknown] Mori DocID: 800277",
+  "authors": "U.S. intelligence (released by U.S. Central Command)",
+  "publisher": "National Security Archive (GWU), Pakistan: \"The Taliban's Godfather\"?",
+  "published": null,
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB227/8.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB227/index.htm",
+  "pages": 2,
+  "kind": "intelligence report",
+  "note": "[Secret, Noforn] Unnamed and undated, this document confirms Pakistan provides the Taliban with financial and military assistance. It speculates Pakistan will pressure the Taliban to moderate some policies out of fear of Pashtun irredentism. It also says Russia pledged military force if the Taliban push north and that India supplies weapons to anti-Taliban forces.",
+  "collection": "NSAEBB227",
+  "doc_number": "Document 8",
+  "relevance": "high",
+  "ocr": 2
+ },
+ "persons": [
+  {
+   "name": "Abdul Rashid Dostum",
+   "aliases": [
+    "General Dostam",
+    "Dostam",
+    "Rashid Dostum"
+   ],
+   "role": "Leader of the Junbish (Jumbesh) faction, ethnic Uzbek commander in northern Afghanistan",
+   "organizations": [
+    "Junbish"
+   ],
+   "nationality_or_origin": "Afghan (ethnic Uzbek)",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan",
+    "Uzbekistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "UZBEKISTAN PROVIDES ASSISTANCE TO ITS FELLOW, ETHN[IC U]BEKS UNDER THE COMMANDO [J]IBESH LEADER GENERAL 'Dostam."
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Taliban",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Pakistan"
+   ],
+   "rivals": [
+    "Russia",
+    "India",
+    "Junbish"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Document states Pakistan provides both military and financial assistance; Taliban leaders lived in Pakistan for many years after the 1979 Soviet invasion."
+  },
+  {
+   "name": "Junbish",
+   "aliases": [
+    "Jumbesh",
+    "Commando Ibesh (OCR garble)"
+   ],
+   "type": "militia",
+   "parent_or_allies": [
+    "Uzbekistan"
+   ],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Ethnic Uzbek faction led by General Dostam, assisted by Uzbekistan."
+  },
+  {
+   "name": "Government of Pakistan",
+   "aliases": [
+    "Pakistan",
+    "Islamabad"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Goals: strategic depth against India and access to Central Asian trade routes; fears Pashtun irredentism and may pressure Taliban to moderate."
+  },
+  {
+   "name": "Government of Russia",
+   "aliases": [
+    "Russia",
+    "Moscow"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Russia",
+   "notes": "Views Taliban as a significant threat; pledged to use military force if Taliban push into northern Afghanistan."
+  },
+  {
+   "name": "Government of Uzbekistan",
+   "aliases": [
+    "Uzbekistan"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Junbish"
+   ],
+   "rivals": [],
+   "country_base": "Uzbekistan",
+   "notes": "Assists ethnic Uzbeks under Dostam."
+  },
+  {
+   "name": "Government of Tajikistan",
+   "aliases": [
+    "Tajikistan",
+    "Tajik government"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Tajikistan",
+   "notes": "Recently began sending supplies and ammunition to an anti-Taliban recipient (name garbled in OCR)."
+  },
+  {
+   "name": "Government of India",
+   "aliases": [
+    "India"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [
+    "Taliban",
+    "Government of Pakistan"
+   ],
+   "country_base": "India",
+   "notes": "Reportedly supplying weapons and unspecified aid to anti-Taliban forces."
+  },
+  {
+   "name": "Government of Turkmenistan",
+   "aliases": [
+    "Turkmenistan"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Turkmenistan",
+   "notes": "Described as too poor to support any Afghan faction with more than electricity or fuel."
+  }
+ ],
+ "places": [
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Main state sponsor of the Taliban; Taliban leaders lived there after 1979."
+  },
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Theater of Taliban conflict."
+  },
+  {
+   "name": "Northern Afghanistan",
+   "type": "region",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Russia pledged force if the Taliban push into the area."
+  },
+  {
+   "name": "Central Asia",
+   "type": "region",
+   "country": "",
+   "parent": "",
+   "significance": "Pakistan seeks trade-route access; Russia fears militancy spillover."
+  },
+  {
+   "name": "Uzbekistan",
+   "type": "country",
+   "country": "Uzbekistan",
+   "parent": "Central Asia",
+   "significance": "Supports Dostam's Junbish."
+  },
+  {
+   "name": "Tajikistan",
+   "type": "country",
+   "country": "Tajikistan",
+   "parent": "Central Asia",
+   "significance": "Sending supplies and ammunition to anti-Taliban forces."
+  },
+  {
+   "name": "Turkmenistan",
+   "type": "country",
+   "country": "Turkmenistan",
+   "parent": "Central Asia",
+   "significance": "Too poor to support any Afghan faction beyond electricity/fuel."
+  },
+  {
+   "name": "India",
+   "type": "country",
+   "country": "India",
+   "parent": "",
+   "significance": "Pakistan's strategic rival; supplies anti-Taliban forces."
+  },
+  {
+   "name": "Russia",
+   "type": "country",
+   "country": "Russia",
+   "parent": "",
+   "significance": "Views the Taliban as a threat to its near-abroad."
+  }
+ ],
+ "events": [
+  {
+   "date": "1979",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Soviet invasion of Afghanistan, after which several Taliban leaders lived in Pakistan for many years.",
+   "place": "Afghanistan",
+   "actors": [
+    "Taliban",
+    "Government of Pakistan"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "approx recent",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Tajik government began sending supplies and ammunition to anti-Taliban forces.",
+   "place": "Tajikistan",
+   "actors": [
+    "Government of Tajikistan"
+   ],
+   "timestamp": "p.2"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Taliban",
+   "target": "Government of Pakistan",
+   "type": "funded_by",
+   "detail": "Pakistan provides both military and financial assistance to the Taliban.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "CONSISTENT REPORTING INDICATES PAKISTAN PROVIDES BOTH MILITARY AND FINANCIAL ASSISTANCE TO THE TALIBAN."
+  },
+  {
+   "source": "Government of Pakistan",
+   "target": "Taliban",
+   "type": "allied_with",
+   "detail": "Cultural ties between Taliban leadership and Pakistan, where leaders lived after 1979.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "CULTURAL TIES ALSO EXIST BETWEEN THE TALIBAN LEADERSHIP AND PAKISTAN"
+  },
+  {
+   "source": "Government of Russia",
+   "target": "Taliban",
+   "type": "rival_of",
+   "detail": "Russia views the Taliban as a significant threat and pledged military force if they push into northern Afghanistan.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "VIEWS THE TALIBAN AS A SIGNIFICANT THREAT."
+  },
+  {
+   "source": "Junbish",
+   "target": "Government of Uzbekistan",
+   "type": "funded_by",
+   "detail": "Uzbekistan assists fellow ethnic Uzbeks under Junbish leader Dostam.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "UZBEKISTAN PROVIDES ASSISTANCE TO ITS FELLOW, ETHN[IC U]BEKS UNDER THE COMMANDO [J]IBESH LEADER GENERAL 'Dostam."
+  },
+  {
+   "source": "Abdul Rashid Dostum",
+   "target": "Junbish",
+   "type": "leads",
+   "detail": "Dostam is identified as the Junbish leader.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "IBESH LEADER GENERAL 'Dostam."
+  },
+  {
+   "source": "Government of India",
+   "target": "Taliban",
+   "type": "rival_of",
+   "detail": "India reportedly supplies weapons and other aid to anti-Taliban forces.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "INDIA IS SUPPLYING WEAPONS AND OTHER UNSPECIFIED AID TO ANTI-TALIBAN FORCES"
+  },
+  {
+   "source": "Government of Pakistan",
+   "target": "Taliban",
+   "type": "funded_by",
+   "detail": "Pakistan provides military and financial assistance to the Taliban; direction here shows the Taliban as recipient from Pakistan (Taliban funded_by Pakistan).",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "CONSISTENT REPORTING INDICATES PAKISTAN PROVIDES BOTH MILITARY AND FINANCIAL ASSISTANCE TO THE TALIBAN."
+  },
+  {
+   "source": "Taliban",
+   "target": "Pakistan",
+   "type": "other",
+   "detail": "Several Taliban leaders lived in Pakistan for many years following the 1979 Soviet invasion, creating cultural ties.",
+   "date": "after 1979",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "SEVERAL TALIBAN LEADERS LIVED FOR MANY YEARS FOLLOWING THE 1979 SOVIET INVASION."
+  },
+  {
+   "source": "Government of Pakistan",
+   "target": "India",
+   "type": "rival_of",
+   "detail": "Pakistan seeks strategic depth with regard to India through its Taliban policy.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "PRIMARY GOALS ARE TO ACHIEVE STRATEGIC DEPTH WITH REGARD TO INDIA"
+  },
+  {
+   "source": "Government of Pakistan",
+   "target": "Taliban",
+   "type": "other",
+   "detail": "Pakistan will likely attempt to pressure the Taliban into moderating some policies.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "WILL LIKELY ATTEMPT TO PRESSURE THE TALIBAN INTO MODERATING SOME OF ITS POLICIES"
+  },
+  {
+   "source": "Taliban",
+   "target": "Northern Afghanistan",
+   "type": "other",
+   "detail": "Russia pledged military force should the Taliban push into Northern Afghanistan.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "PLEDGED TO USE MILITARY FORCE SHOULD THE TALIBAN PUSH INTO NORTHERN AFGHANISTAN"
+  },
+  {
+   "source": "Government of Tajikistan",
+   "target": "Taliban",
+   "type": "rival_of",
+   "detail": "Tajik government sends supplies to anti-Taliban forces (inferred).",
+   "date": "recent",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "THE TAJIK GOVERNMENT RECENTLY BEGAN SENDING SUPPLIES AND AMMUNITION"
+  }
+ ],
+ "sources_cited": [
+  "U.S. intelligence 'consistent reporting' (unspecified)",
+  "Reports cited for India's aid to anti-Taliban forces"
+ ],
+ "key_claims": [
+  "Pakistan provides both military and financial assistance to the Taliban.",
+  "Pakistan's goals are strategic depth against India and access to Central Asian trade routes.",
+  "Pakistan fears a complete Taliban victory could inflame Pashtun irredentism and will likely pressure the Taliban to moderate.",
+  "Russia sees the Taliban as a major threat and has pledged military force if they push into northern Afghanistan.",
+  "Uzbekistan supports Dostam's ethnic Uzbek Junbish faction.",
+  "Tajikistan has recently begun sending supplies and ammunition to anti-Taliban forces.",
+  "India is reportedly supplying weapons and other aid to anti-Taliban forces."
+ ]
+}

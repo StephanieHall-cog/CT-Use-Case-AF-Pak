@@ -1,0 +1,509 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc36-1998-12-04-bin-ladin-preparing-to-hijack-us-aircraft-and-othe",
+  "title": "Bin Ladin Preparing to Hijack US Aircraft and Other Attacks",
+  "authors": "Central Intelligence Agency",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "1998-12-04",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7x7g-tbo1k/1998-12-04-bin-ladin-preparing-to-hijack-us.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 2,
+  "kind": "intelligence report",
+  "note": "CIA intelligence report on bin Laden preparing to hijack US aircraft and carry out other attacks. Cited in 9/11 Commission Report Chapter 4, Endnote 112.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 36",
+  "relevance": "high",
+  "ocr": 1
+ },
+ "persons": [
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Bin Ladin",
+    "Bin Laden",
+    "Osama bin Laden",
+    "Bin Ladin"
+   ],
+   "role": "al-Qa'ida leader reportedly preparing attacks in the US, including an aircraft hijacking",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "United States",
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Bin Ladin and his allies are preparing for attacks in the US, including an aircraft hijacking to obtain the release of Shaykh 'Umar 'Abd al-Rahman"
+    }
+   ]
+  },
+  {
+   "name": "'Umar 'Abd al-Rahman",
+   "aliases": [
+    "Shaykh 'Umar 'Abd al-Rahman",
+    "Omar Abdel Rahman"
+   ],
+   "role": "imprisoned shaykh whose release the hijacking was meant to secure",
+   "organizations": [
+    "Gama'at al-Islamiyya"
+   ],
+   "nationality_or_origin": "Egyptian",
+   "status": "detained",
+   "status_detail": "prisoner whose release was sought",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "release of Shaykh 'Umar 'Abd al-Rahman, Ramzi Yousef, and Muhammad Sadiq 'Awda"
+    }
+   ]
+  },
+  {
+   "name": "Ramzi Yousef",
+   "aliases": [
+    "Ramzi Yusuf"
+   ],
+   "role": "imprisoned militant whose release was sought",
+   "organizations": [],
+   "nationality_or_origin": "",
+   "status": "detained",
+   "status_detail": "prisoner whose release was sought",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "release of Shaykh 'Umar 'Abd al-Rahman, Ramzi Yousef, and Muhammad Sadiq 'Awda"
+    }
+   ]
+  },
+  {
+   "name": "Muhammad Sadiq 'Awda",
+   "aliases": [
+    "Mubammad Sadiq 'Awda",
+    "Muhammad Sadiq Odeh"
+   ],
+   "role": "imprisoned militant whose release was sought",
+   "organizations": [],
+   "nationality_or_origin": "",
+   "status": "detained",
+   "status_detail": "prisoner whose release was sought",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "release of Shaykh 'Umar 'Abd al-Rahman, Ramzi Yousef, and Muhammad Sadiq 'Awda"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "al-Qa'ida",
+   "aliases": [
+    "al-Qaeda",
+    "Bin Ladin organization"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Gama'at al-Islamiyya"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "No group directly tied to al-Qa'ida has ever carried out an aircraft hijacking, per the memo."
+  },
+  {
+   "name": "Gama'at al-Islamiyya",
+   "aliases": [
+    "IG",
+    "Islamic Group"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qa'ida"
+   ],
+   "rivals": [],
+   "country_base": "Egypt",
+   "notes": "Senior member said IG completed planning for a US operation on behalf of Bin Ladin, on hold as of late October; IG reportedly obtained SA-7 missiles in October."
+  },
+  {
+   "name": "DO Counterterrorist Center",
+   "aliases": [
+    "CTC"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Originating office of the memorandum."
+  }
+ ],
+ "places": [
+  {
+   "name": "United States",
+   "type": "country",
+   "country": "United States",
+   "parent": "",
+   "significance": "Target of planned attacks and hijacking"
+  },
+  {
+   "name": "New York",
+   "type": "city",
+   "country": "United States",
+   "parent": "United States",
+   "significance": "Unidentified airport used for a trial run by the operational team"
+  },
+  {
+   "name": "Saudi Arabia",
+   "type": "country",
+   "country": "Saudi Arabia",
+   "parent": "",
+   "significance": "Origin of senior Bin Ladin operative; destination for SA-7 missiles"
+  },
+  {
+   "name": "Yemen",
+   "type": "country",
+   "country": "Yemen",
+   "parent": "",
+   "significance": "Source of SA-7 missiles; supporter planning 'commerce' and 'marriage'"
+  },
+  {
+   "name": "Sudan",
+   "type": "country",
+   "country": "Sudan",
+   "parent": "",
+   "significance": "Associate shipped containers to Afghanistan"
+  },
+  {
+   "name": "Kandahar",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Location of colleague receiving word of container shipment"
+  },
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Destination of containers"
+  },
+  {
+   "name": "Malaysia",
+   "type": "country",
+   "country": "Malaysia",
+   "parent": "",
+   "significance": "Package pickup discussed by Bin Ladin associates"
+  },
+  {
+   "name": "East Africa",
+   "type": "region",
+   "country": "",
+   "parent": "",
+   "significance": "Site of earlier embassy bombings"
+  }
+ ],
+ "events": [
+  {
+   "date": "1998-10",
+   "date_precision": "month",
+   "type": "other",
+   "description": "As of late October, IG had completed planning for a US operation on behalf of Bin Ladin, but it was on hold.",
+   "place": "United States",
+   "actors": [
+    "Gama'at al-Islamiyya",
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998-10",
+   "date_precision": "month",
+   "type": "other",
+   "description": "IG reportedly obtained SA-7 missiles to move from Yemen into Saudi Arabia to shoot down an Egyptian or US plane.",
+   "place": "Yemen",
+   "actors": [
+    "Gama'at al-Islamiyya"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998-12-04",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA memorandum reporting preparations for US attacks including hijacking.",
+   "place": "",
+   "actors": [
+    "Central Intelligence Agency"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998-12-20",
+   "date_precision": "day",
+   "type": "other",
+   "description": "Reported deadline: Bin Ladin might hijack US aircraft before the start of Ramadan.",
+   "place": "United States",
+   "actors": [
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998-12-04",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA memorandum reports Bin Ladin and allies preparing attacks in the US including a hijacking to free Abd al-Rahman, Yousef and 'Awda.",
+   "place": "United States",
+   "actors": [
+    "Usama bin Ladin",
+    "Gama'at al-Islamiyya",
+    "DO Counterterrorist Center"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998-10",
+   "date_precision": "month",
+   "type": "other",
+   "description": "IG completed planning for a US operation on behalf of Bin Ladin, but it was put on hold.",
+   "place": "United States",
+   "actors": [
+    "Gama'at al-Islamiyya",
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998-09",
+   "date_precision": "month",
+   "type": "other",
+   "description": "IG leader reportedly planning to hijack a US airliner within 'next couple of weeks' to free Abd al-Rahman and other prisoners.",
+   "place": "United States",
+   "actors": [
+    "Gama'at al-Islamiyya",
+    "'Umar 'Abd al-Rahman"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998-11",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Source said Bin Ladin might hijack US aircraft before Ramadan on 20 December; two operational team members evaded security checks in a trial run at an unidentified New York airport.",
+   "place": "New York",
+   "actors": [
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998-10",
+   "date_precision": "month",
+   "type": "other",
+   "description": "IG obtained SA-7 missiles in Yemen, intending to move them to Saudi Arabia to shoot down an Egyptian plane or US aircraft.",
+   "place": "Yemen",
+   "actors": [
+    "Gama'at al-Islamiyya"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998-11",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Bin Ladin associate in Sudan told a colleague in Kandahar he had shipped containers to Afghanistan.",
+   "place": "Sudan",
+   "actors": [
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998-11",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Bin Ladin associates discussed picking up a package in Malaysia, using 'ninth month of pregnancy' language.",
+   "place": "Malaysia",
+   "actors": [
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998-11",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Alleged Bin Ladin supporter in Yemen told his mother of a 'commerce' abroad and impending 'marriage' surprise, possible codewords for attacks.",
+   "place": "Yemen",
+   "actors": [
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Gama'at al-Islamiyya",
+   "target": "Usama bin Ladin",
+   "type": "allied_with",
+   "detail": "IG planned a US operation on behalf of Bin Ladin.",
+   "date": "1998-10",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "the IG had completed planning for an operation in the US on behalf of Bin Ladin"
+  },
+  {
+   "source": "'Umar 'Abd al-Rahman",
+   "target": "Gama'at al-Islamiyya",
+   "type": "member_of",
+   "detail": "Release of 'Abd al-Rahman sought by IG leader's hijack plan.",
+   "date": "1998-09",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "to free 'Abd al-Rahman and the other prisoners"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "al-Qa'ida",
+   "type": "leads",
+   "detail": "Bin Ladin is tied to the al-Qa'ida organization, described as 'Bin Ladin's al-Qa'ida organization'.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "no group directly tied to Bin Ladin'.s al-Qa'ida organization has ever can:ieq out an aircraft hij~Jdng"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Gama'at al-Islamiyya",
+   "type": "allied_with",
+   "detail": "Bin Ladin and his allies, including the IG, were preparing attacks in the US; the IG had completed planning an operation in the US on behalf of Bin Ladin.",
+   "date": "2998-10",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "the IG had completed planning foi an operation in the US on be~ of Bin Ladin, buttbat the o~on was on hold"
+  },
+  {
+   "source": "Gama'at al-Islamiyya",
+   "target": "'Umar 'Abd al-Rahman",
+   "type": "other",
+   "detail": "The planned aircraft hijacking aimed to obtain the release of imprisoned Shaykh 'Umar 'Abd al-Rahman, tied to the IG's operational planning.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "an aircra!t hijacking to pbtain the release qf Shaykh 'Vmar 'Abd: aj.~ Rahman, 'Ramzi Yousef, andMubam:mad Sadiq 'Awc:lil"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Ramzi Yousef",
+   "type": "other",
+   "detail": "Bin Ladin and allies planned a hijacking to free Ramzi Yousef among other prisoners.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "hijacking to pbtain the release qf Shaykh 'Vmar 'Abd: aj.~ Rahman, 'Ramzi Yousef, andMubam:mad Sadiq 'Awc:lil"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Muhammad Sadiq 'Awda",
+   "type": "other",
+   "detail": "Bin Ladin and allies planned a hijacking to free Muhammad Sadiq 'Awda among other prisoners.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "andMubam:mad Sadiq 'Awc:lil"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "United States",
+   "type": "other",
+   "detail": "Bin Ladin and allies were preparing attacks in the US.",
+   "date": "1998-12",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Bin La.din and his allies are ~aring for attacks in the US."
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Saudi Arabia",
+   "type": "other",
+   "detail": "A senior Bin Ladin operative from Saudi Arabia was to visit IG counterparts in the US to discuss options including an aircraft hijacking.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "A senior Bin J.,.adin operative from Saudi Arabia was to visit-IO counterparts in Pie US soqn th~"
+  },
+  {
+   "source": "Gama'at al-Islamiyya",
+   "target": "Yemen",
+   "type": "located_in",
+   "detail": "The IG in October obtained SA-7 missiles in Yemen and intended to move them into Saudi Arabia.",
+   "date": "1998-10",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "the 1G in October obtained SA-7 missiles and intended to move them from 'Yemen mto Saudi .Araf?ia"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Sudan",
+   "type": "located_in",
+   "detail": "A Bin Ladin associate in Sudan told a colleague in Kandahar he had shipped containers to Afghanistan.",
+   "date": "1998-11",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "A Bin~ associate in Sudan late last month told a colleague in Kandahar that be had shipped a gr<?UP of cont,iners to Afghanistan."
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Kandahar",
+   "type": "located_in",
+   "detail": "A Bin Ladin associate's colleague was in Kandahar.",
+   "date": "1998-11",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "told a colleague in Kandahar that be had shipped a gr<?UP of cont,iners to Afghanistan."
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Malaysia",
+   "type": "located_in",
+   "detail": "Bin Ladin associates discussed picking up a package in Malaysia; one had a colleague there.",
+   "date": "1998-11",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Bin La.din assotjates last month discus~ed pic;:Jdng up a package in Malaysia."
+  },
+  {
+   "source": "DO Counterterrorist Center",
+   "target": "Usama bin Ladin",
+   "type": "other",
+   "detail": "The CTC prepared the memorandum on Bin Ladin's preparations.",
+   "date": "1998-12-04",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "This mcmoran<ium was i~ ~'----~~ftbc DO Co~Center."
+  }
+ ],
+ "sources_cited": [
+  "Unnamed CIA intelligence reporting (redacted)"
+ ],
+ "key_claims": [
+  "Bin Ladin and allies were reportedly preparing US attacks, including a hijacking to free 'Abd al-Rahman, Yousef and 'Awda.",
+  "IG planning for a US operation on behalf of Bin Ladin was complete but on hold as of late October 1998.",
+  "A Bin Ladin operative from Saudi Arabia was to meet US counterparts to discuss options including hijacking.",
+  "No group directly tied to al-Qa'ida had previously carried out an aircraft hijacking.",
+  "IG reportedly obtained SA-7 missiles in Yemen to attack aircraft."
+ ]
+}

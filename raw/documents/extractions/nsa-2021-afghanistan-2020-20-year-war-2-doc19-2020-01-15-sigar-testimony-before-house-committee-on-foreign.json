@@ -1,0 +1,5849 @@
+{
+ "document": {
+  "doc_id": "nsa-2021-afghanistan-2020-20-year-war-2-doc19-2020-01-15-sigar-testimony-before-house-committee-on-foreign",
+  "title": "SIGAR Testimony before House Committee on Foreign Affairs, \"U.S. Lessons Learned in Afghanistan\"",
+  "authors": "Special Inspector General for Afghanistan Reconstruction (John Sopko)",
+  "publisher": "National Security Archive (GWU), Afghanistan 20/20: The 20-Year War in 20 Documents | National Security Archive",
+  "published": "2020-01-15",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qy3fic-cl4be/19.pdf",
+  "source_page": "https://nsarchive.gwu.edu/briefing-book/afghanistan/2021-08-19/afghanistan-2020-20-year-war-20-documents",
+  "pages": 48,
+  "kind": "report",
+  "note": "[Unclassified] Sopko's testimony following the Washington Post's 'Afghanistan Papers.' It describes fake data and faulty metrics, the annual 'lobotomy' of personnel rotation, and unchecked corruption fostered by alliances of convenience with warlords and too much money too fast.",
+  "collection": "new-afghanistan-2020-20-year-war-20-docu",
+  "doc_number": "Document 19",
+  "relevance": "medium",
+  "ocr": 0
+ },
+ "persons": [
+  {
+   "name": "John F. Sopko",
+   "aliases": [
+    "John Sopko",
+    "Joho F. Sopko"
+   ],
+   "role": "Special Inspector General for Afghanistan Reconstruction (SIGAR), appointed 2012; witness",
+   "organizations": [
+    "SIGAR"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan",
+    "Arlington, Virginia"
+   ],
+   "is_presenter_or_guest": true,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "This is the 22nd time I have presented testimony to Congress since I was appointed the Special Inspector General nearly eight years ago."
+    },
+    {
+     "timestamp": "p.22",
+     "quote": "John F. Sopko Special Inspector General for Afghanistan Reconstruction"
+    },
+    {
+     "timestamp": "p.25",
+     "quote": "In three trips to Afghanistan during my first year as Special Inspector General I have seen and heard much evidence of the difficulties"
+    },
+    {
+     "timestamp": "p.30",
+     "quote": "Sincerely Special Inspector General for Afghanistan Reconstruction"
+    },
+    {
+     "timestamp": "p.34",
+     "quote": "John F. Sopko Special Inspector General for Afghanistan Reconstruction (SIGAR) May 9, 2013"
+    },
+    {
+     "timestamp": "p.34",
+     "quote": "Joho F. Sopko Special lnspector General for Afghanistan Reconstruction (SlGAR) May9,2013"
+    }
+   ]
+  },
+  {
+   "name": "Eliot Engel",
+   "aliases": [
+    "Chairman Engel"
+   ],
+   "role": "Chairman, House Committee on Foreign Affairs",
+   "organizations": [
+    "U.S. House Committee on Foreign Affairs"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "Chairman Engel, Ranking Member McCaul, Members of the Committee"
+    }
+   ]
+  },
+  {
+   "name": "Michael McCaul",
+   "aliases": [
+    "Ranking Member McCaul"
+   ],
+   "role": "Ranking Member, House Committee on Foreign Affairs",
+   "organizations": [
+    "U.S. House Committee on Foreign Affairs"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "Chairman Engel, Ranking Member McCaul, Members of the Committee"
+    }
+   ]
+  },
+  {
+   "name": "Ryan Crocker",
+   "aliases": [
+    "Ambassador Ryan Crocker"
+   ],
+   "role": "Former U.S. Ambassador; suggested creation of SIGAR Lessons Learned Program",
+   "organizations": [
+    "U.S. Department of State"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.6",
+     "quote": "at the suggestion of a number of prominent officials, including Ambassador Ryan Crocker and General John Allen"
+    }
+   ]
+  },
+  {
+   "name": "John Allen",
+   "aliases": [
+    "General John Allen"
+   ],
+   "role": "Retired U.S. general; suggested creation of SIGAR Lessons Learned Program",
+   "organizations": [
+    "U.S. military"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.6",
+     "quote": "including Ambassador Ryan Crocker and General John Allen, that SIGAR formally launched its Lessons Learned Program in 2014"
+    }
+   ]
+  },
+  {
+   "name": "Joseph Dunford",
+   "aliases": [
+    "Joseph F. Dunford Jr.",
+    "General Joseph Dunford"
+   ],
+   "role": "Chairman of the Joint Chiefs of Staff (US general)",
+   "organizations": [
+    "US Joint Chiefs of Staff",
+    "U.S. Joint Chiefs of Staff"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.14",
+     "quote": "a multiday session convened by the Chairman of the Joint Chiefs of Staff, General Joseph Dunford, on reconstruction-related activities in Afghanistan"
+    }
+   ]
+  },
+  {
+   "name": "Mike Pompeo",
+   "aliases": [
+    "Michael Pompeo"
+   ],
+   "role": "US Secretary of State",
+   "organizations": [
+    "US Department of State",
+    "U.S. Department of State"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.14",
+     "quote": "During Secretary of State Mike Pompeo's testimony before the United States Senate, Senator Todd Young asked him to respond in writing"
+    }
+   ]
+  },
+  {
+   "name": "Todd Young",
+   "aliases": [
+    "Senator Todd Young"
+   ],
+   "role": "US Senator",
+   "organizations": [
+    "US Senate",
+    "U.S. Senate"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.14",
+     "quote": "Senator Todd Young asked him to respond in writing indicating which of the report's recommendations he would implement"
+    }
+   ]
+  },
+  {
+   "name": "Ashraf Ghani",
+   "aliases": [
+    "President Ashraf Ghani"
+   ],
+   "role": "President of Afghanistan",
+   "organizations": [
+    "Government of Afghanistan"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.15",
+     "quote": "a closed-door roundtable with Afghan President Ashraf Ghani's senior economic advisor"
+    }
+   ]
+  },
+  {
+   "name": "John F. Kerry",
+   "aliases": [
+    "John Kerry"
+   ],
+   "role": "U.S. Secretary of State, addressee of SIGAR's March 2013 request",
+   "organizations": [
+    "U.S. Department of State"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.21",
+     "quote": "The Honorable John F. Kerry Secretary of State"
+    },
+    {
+     "timestamp": "p.24",
+     "quote": "The Honorable John F. Kerry U.S. Secretary Of State"
+    }
+   ]
+  },
+  {
+   "name": "James B. Cunningham",
+   "aliases": [
+    "James Cunningham"
+   ],
+   "role": "U.S. Ambassador to Afghanistan (2013), copied on SIGAR's request",
+   "organizations": [
+    "U.S. Department of State"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.21",
+     "quote": "The Honorable James B. Cunningham, U.S. Ambassador to Afghanistan"
+    },
+    {
+     "timestamp": "p.30",
+     "quote": "cc The Honorable James B Cunningham, U S Ambassador to Afghanistan"
+    }
+   ]
+  },
+  {
+   "name": "Monica Brym",
+   "aliases": [],
+   "role": "SIGAR Director of Special Projects",
+   "organizations": [
+    "SIGAR"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.21",
+     "quote": "to Monica Brym, SIGAR Director of Special Projects"
+    },
+    {
+     "timestamp": "p.21",
+     "quote": "Monica Brym. SIGAR Director of Special Projects"
+    }
+   ]
+  },
+  {
+   "name": "John Sopko",
+   "aliases": [
+    "John F. Sopko"
+   ],
+   "role": "Special Inspector General for Afghanistan Reconstruction, witness (assumed post in 2012)",
+   "organizations": [
+    "SIGAR"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Arlington, VA"
+   ],
+   "is_presenter_or_guest": true,
+   "mentions": [
+    {
+     "timestamp": "p.17",
+     "quote": "I assumed my current post in 2012."
+    },
+    {
+     "timestamp": "p.41",
+     "quote": "Mr. John Sopko Special Inspector General for Afghanistan Reconstruction (SIGAR)"
+    }
+   ]
+  },
+  {
+   "name": "Chuck Hagel",
+   "aliases": [],
+   "role": "U.S. Secretary of Defense (addressee of SIGAR letter)",
+   "organizations": [
+    "U.S. Department of Defense"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.23",
+     "quote": "The Honorable Chuck Hagel Secretary of Defense"
+    }
+   ]
+  },
+  {
+   "name": "Rajiv Shah",
+   "aliases": [
+    "Raj Shah",
+    "Administrator Shah"
+   ],
+   "role": "Administrator, USAID",
+   "organizations": [
+    "USAID"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.24",
+     "quote": "The Honorable Rajiv Shah Administrator, U.S. Agency for International Development"
+    },
+    {
+     "timestamp": "p.39",
+     "quote": "Administrator Shah issued Sustainability Guidance to ensure that every USAID program supports increased Afghan ownership"
+    }
+   ]
+  },
+  {
+   "name": "Joseph F. Dunford, Jr.",
+   "aliases": [
+    "Joseph Dunford"
+   ],
+   "role": "Commander, U.S. Forces-Afghanistan and ISAF",
+   "organizations": [
+    "U.S. Forces-Afghanistan",
+    "ISAF"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.23",
+     "quote": "General Joseph F. Dunford, Jr., Commander, U.S. Forces-Afghanistan, and Commander, International Security Assistance Force"
+    }
+   ]
+  },
+  {
+   "name": "James N. Mattis",
+   "aliases": [
+    "Jim Mattis"
+   ],
+   "role": "Commander, U.S. Central Command",
+   "organizations": [
+    "U.S. Central Command"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.23",
+     "quote": "General James N. Mattis Commander, U.S. Central Command"
+    }
+   ]
+  },
+  {
+   "name": "Daniel Feldman",
+   "aliases": [],
+   "role": "Deputy Special Representative for Afghanistan and Pakistan (State)",
+   "organizations": [
+    "U.S. Department of State",
+    "Department of State",
+    "US Department of State"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.24",
+     "quote": "Mr. Daniel Feldman. Deputy Special Representative for Afghanistan and Pakistan"
+    },
+    {
+     "timestamp": "p.40",
+     "quote": "Daniel Feldman Deputy Special Representative for Af ghanist.an and .Pakil:itan"
+    }
+   ]
+  },
+  {
+   "name": "J. Alexander Thier",
+   "aliases": [
+    "Alex Thier"
+   ],
+   "role": "Assistant to the USAID Administrator for Afghanistan and Pakistan",
+   "organizations": [
+    "USAID"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.24",
+     "quote": "Mr. J. Alexander Thier, Assistant to the Administrator for Afghanistan and Pakistan"
+    }
+   ]
+  },
+  {
+   "name": "Mike Dumont",
+   "aliases": [
+    "Michael Dumont",
+    "Mil<.: Dumont"
+   ],
+   "role": "Deputy Assistant Secretary of Defense for Asian and Pacific Affairs",
+   "organizations": [
+    "U.S. Department of Defense",
+    "US Department of Defense"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.24",
+     "quote": "Mr. Mike Dumont. Deputy Assistant Secretary of Defense for Asian and Pacific Affairs, submitted a response dated June 18. 2013."
+    },
+    {
+     "timestamp": "p.42",
+     "quote": "Deputy Assistant Secretary of Defense Asian & Pacific Security Affairs"
+    }
+   ]
+  },
+  {
+   "name": "Jarrett Blanc",
+   "aliases": [
+    "Jarrett Blanc"
+   ],
+   "role": "Deputy Special Representative for Afghanistan and Pakistan, State Department; signed 5 August 2013 reply to SIGAR",
+   "organizations": [
+    "U.S. Department of State"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.33",
+     "quote": "Deputy Special Representative for Afghanistan and Pakistan"
+    }
+   ]
+  },
+  {
+   "name": "William B. Caldwell IV",
+   "aliases": [
+    "Lt Gen William Caldwell"
+   ],
+   "role": "Commander, U.S. Army North (Fifth Army); testified to House subcommittee 12 Sept 2012 (cited in footnote)",
+   "organizations": [
+    "U.S. Army"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.31",
+     "quote": "Statement of Lt Gen Willlaori 8. Caldwell IV. Commande1. United states AfmY North Fifth Army"
+    }
+   ]
+  },
+  {
+   "name": "Barack Obama",
+   "aliases": [
+    "President Obama"
+   ],
+   "role": "US President who announced the 2009 troop surge",
+   "organizations": [],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.43",
+     "quote": "with President Obama's announcement of the U.S. troop surge"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "SIGAR",
+   "aliases": [
+    "Special Inspector General for Afghanistan Reconstruction"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Created by Congress in 2008; independent oversight body; Lessons Learned Program launched 2014."
+  },
+  {
+   "name": "U.S. House Committee on Foreign Affairs",
+   "aliases": [
+    "House Foreign Affairs Committee"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Hosted the 15 January 2020 testimony."
+  },
+  {
+   "name": "USAID",
+   "aliases": [
+    "U.S. Agency for International Development"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "U.S. Department of State",
+    "Department of State"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Criticized for overstating results on education, health and women's programs."
+  },
+  {
+   "name": "U.S. Department of State",
+   "aliases": [
+    "State Department",
+    "State"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "USAID"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Reconstruction agency."
+  },
+  {
+   "name": "U.S. Department of Defense",
+   "aliases": [
+    "DOD",
+    "DoD",
+    "Department of Defense"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Reconstruction agency; ran Task Force for Business and Stability Operations."
+  },
+  {
+   "name": "Taliban",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [
+    "Afghan government",
+    "Afghan National Security Forces"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Mentioned only regarding school enrollment during Taliban rule."
+  },
+  {
+   "name": "Afghan Ministry of Education",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Questioned enrollment numbers."
+  },
+  {
+   "name": "World Health Organization",
+   "aliases": [
+    "WHO"
+   ],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Source of life expectancy baselines."
+  },
+  {
+   "name": "Task Force for Business and Stability Operations",
+   "aliases": [
+    "TFBSO"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "U.S. Department of Defense",
+    "US Department of Defense"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Now-defunct DOD task force."
+  },
+  {
+   "name": "National Security Council",
+   "aliases": [
+    "NSC"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Blessed launch of the Lessons Learned Program."
+  },
+  {
+   "name": "Resolute Support",
+   "aliases": [],
+   "type": "military",
+   "parent_or_allies": [
+    "NATO"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Prior commander suggested the reintegration report."
+  },
+  {
+   "name": "US Department of Defense",
+   "aliases": [
+    "DOD",
+    "DoD"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Ran Task Force for Business and Stability Operations."
+  },
+  {
+   "name": "US Department of State",
+   "aliases": [
+    "State",
+    "State Department",
+    "INL",
+    "PAS Kabul"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "INL prison renovation; PAS Kabul terminated jirga grant"
+  },
+  {
+   "name": "Afghan National Defense and Security Forces",
+   "aliases": [
+    "ANDSF"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "Afghan government"
+   ],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "US spent over $70 billion on the force."
+  },
+  {
+   "name": "Combined Security Transition Command – Afghanistan",
+   "aliases": [
+    "CSTC-A"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "US Department of Defense"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Briefed by SIGAR."
+  },
+  {
+   "name": "NATO",
+   "aliases": [],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "39-member coalition in Afghanistan."
+  },
+  {
+   "name": "NATO Stability Police Center of Excellence",
+   "aliases": [],
+   "type": "international body",
+   "parent_or_allies": [
+    "NATO"
+   ],
+   "rivals": [],
+   "country_base": "Italy",
+   "notes": "Cited SIGAR ANDSF report."
+  },
+  {
+   "name": "US Central Command",
+   "aliases": [
+    "CENTCOM"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "US Department of Defense"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": ""
+  },
+  {
+   "name": "US Joint Chiefs of Staff",
+   "aliases": [],
+   "type": "military",
+   "parent_or_allies": [
+    "US Department of Defense"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": ""
+  },
+  {
+   "name": "al-Qaeda",
+   "aliases": [
+    "al-Qa'ida"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "US personnel did not know the difference between al-Qaeda and the Taliban"
+  },
+  {
+   "name": "U.S. Joint Chiefs of Staff",
+   "aliases": [],
+   "type": "military",
+   "parent_or_allies": [
+    "U.S. Department of Defense"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": ""
+  },
+  {
+   "name": "U.S. Central Command",
+   "aliases": [
+    "CENTCOM"
+   ],
+   "type": "military",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Briefed on ANDSF report"
+  },
+  {
+   "name": "U.S. Congress",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": ""
+  },
+  {
+   "name": "Government of Afghanistan",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": ""
+  },
+  {
+   "name": "U.S. Senate",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": ""
+  },
+  {
+   "name": "U.S. Forces-Afghanistan",
+   "aliases": [
+    "USFOR-A"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "ISAF"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": ""
+  },
+  {
+   "name": "ISAF",
+   "aliases": [
+    "International Security Assistance Force"
+   ],
+   "type": "military",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Described as nearing completion of its infrastructure building program for the ANSF, with final 429 projects due by December 2014."
+  },
+  {
+   "name": "Afghan National Security Forces",
+   "aliases": [
+    "ANSF"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "ISAF"
+   ],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "2009 illiteracy rate 86 percent; 194,000 personnel received literacy training."
+  },
+  {
+   "name": "World Bank",
+   "aliases": [],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Cited on life expectancy and school construction sustainment."
+  },
+  {
+   "name": "USAID Office of Inspector General",
+   "aliases": [
+    "USAID Inspector General",
+    "USAID OIG"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "USAID"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "2011 health audit; 2012 alternative-development audit."
+  },
+  {
+   "name": "Office of Management and Budget",
+   "aliases": [
+    "OMB"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "May 2012 memo on evidence and evaluation."
+  },
+  {
+   "name": "State Department Office of Inspector General",
+   "aliases": [
+    "State OIG"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "U.S. Department of State"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Audit of A/LM/AQM."
+  },
+  {
+   "name": "Government Accountability Office",
+   "aliases": [
+    "GAO"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Has carried DOD contract management on High-Risk list since 1992."
+  },
+  {
+   "name": "Department of Defense Inspector General",
+   "aliases": [
+    "DOD IG"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "U.S. Department of Defense"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Report on military construction hazards in Afghanistan."
+  },
+  {
+   "name": "Bureau of Administration, Office of Logistics Management, Office of Acquisitions Management",
+   "aliases": [
+    "A/LM/AQM"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "U.S. Department of State"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Subject of State OIG audit."
+  },
+  {
+   "name": "Department of State",
+   "aliases": [
+    "State Department"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "USAID"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Co-responded to SIGAR letter; funds INL, ATA, public diplomacy programs."
+  },
+  {
+   "name": "Bureau of International Narcotics and Law Enforcement (INL)",
+   "aliases": [
+    "INL"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Department of State"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Funds Women for Afghan Women, shelters, corrections training (CSSP), Justice Center in Parwan."
+  },
+  {
+   "name": "Women for Afghan Women",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [
+    "INL"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Operates Children's Support Centers in Kabul, Mazar-e Sharif and Kunduz."
+  },
+  {
+   "name": "Justice Center in Parwan",
+   "aliases": [
+    "JCIP"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Afghan Supreme Court",
+    "Attorney General's Office",
+    "Ministry of Justice",
+    "Ministry of the Interior",
+    "National Directorate of Security",
+    "Ministry of Defense",
+    "Combined Joint Interagency Task Force 435",
+    "Australian Agency for International Development",
+    "INL"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Afghan court for charges against former US LOAC detainees; first case June 2010; 31 cases 2010, 288 in 2011, 974 in 2012, 780 in first four months of 2013."
+  },
+  {
+   "name": "General Directorate of Prisons and Detention Centers",
+   "aliases": [
+    "GDPDC"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "INL"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Afghan prison agency; prison population grew from 600 in 2001 to 27,000+ in 2013."
+  },
+  {
+   "name": "Presidential Protective Service",
+   "aliases": [
+    "PPS"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Anti-Terrorism Assistance program"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Dignitary protection unit created a year after 9/11 with State ATA training."
+  },
+  {
+   "name": "Anti-Terrorism Assistance (ATA) program",
+   "aliases": [
+    "ATA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Department of State"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Trained PPS officers."
+  },
+  {
+   "name": "Afghan Ministry of Public Health",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Rebuilt healthcare system after Taliban."
+  },
+  {
+   "name": "Da Afghanistan Breshna Sherkat",
+   "aliases": [
+    "DABS"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Afghan national power company; revenue up ~50% 2010-2012."
+  },
+  {
+   "name": "International Security Assistance Force",
+   "aliases": [
+    "ISAF"
+   ],
+   "type": "military",
+   "parent_or_allies": [],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Persistent insurgency despite its strong presence."
+  },
+  {
+   "name": "Afghan Community Consulting",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [
+    "Department of State"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Implementing partner of jirga/shura project; grant terminated by PAS Kabul."
+  },
+  {
+   "name": "Ministry of Border and Tribal Affairs",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Failed to cooperate on oversight of jirga project."
+  },
+  {
+   "name": "Afghan National Army",
+   "aliases": [
+    "ANA"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "Afghan National Security Forces"
+   ],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Established early 2003"
+  },
+  {
+   "name": "Afghan National Police",
+   "aliases": [
+    "ANP"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Afghan National Security Forces"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Established 2005"
+  },
+  {
+   "name": "Afghan Local Police",
+   "aliases": [
+    "ALP"
+   ],
+   "type": "militia",
+   "parent_or_allies": [
+    "Ministry of Interior"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Village-based program, grew from 3,100 to over 21,000"
+  },
+  {
+   "name": "ANA Special Operations Command",
+   "aliases": [
+    "ANASOC"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "Afghan National Army"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": ""
+  },
+  {
+   "name": "Afghan Border Police",
+   "aliases": [
+    "ABP"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Afghan National Security Forces"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": ""
+  },
+  {
+   "name": "National Directorate of Security",
+   "aliases": [
+    "NDS"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": ""
+  },
+  {
+   "name": "al-Qa'ida",
+   "aliases": [
+    "al Qaeda",
+    "al-Qaeda"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "US aim to deny safe haven"
+  },
+  {
+   "name": "Ministry of Interior",
+   "aliases": [
+    "MoI",
+    "Mol"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Administers ALP"
+  },
+  {
+   "name": "Ministry of Defense",
+   "aliases": [
+    "MoD"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Beneficiary of ISAF infrastructure construction; has too few facility engineers."
+  },
+  {
+   "name": "US Army Corps of Engineers",
+   "aliases": [
+    "USACE"
+   ],
+   "type": "military",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Provides facility maintenance post-construction"
+  },
+  {
+   "name": "ANSF",
+   "aliases": [
+    "Afghan National Security Forces"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "Ministry of Defense",
+    "Ministry of Interior"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Recipient of ISAF-built infrastructure; its facility maintenance capability is described as nascent."
+  },
+  {
+   "name": "U.S. Army Corps of Engineers",
+   "aliases": [
+    "USACE"
+   ],
+   "type": "military",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Provides facility maintenance and training for up to six months after construction completion."
+  },
+  {
+   "name": "Department of Defense",
+   "aliases": [
+    "DoD",
+    "OoD"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Funds infrastructure, education, health, power and road projects in Afghanistan."
+  },
+  {
+   "name": "Commander's Emergency Response Fund",
+   "aliases": [
+    "CERP"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Department of Defense"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "DoD obligated more than $230 million for more than 4,000 education projects."
+  },
+  {
+   "name": "Afghanistan Infrastructure Fund",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Department of Defense"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Funded the Nawa to Lashkar Gah road and maintained the Kandahar Bridging Solution."
+  },
+  {
+   "name": "Ministry of Education",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Staffs and maintains the CERP-built schools in Farah."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Subject of U.S. reconstruction effort."
+  },
+  {
+   "name": "Kabul",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Where SIGAR staff found the unread 1988 USAID report"
+  },
+  {
+   "name": "Syria",
+   "type": "country",
+   "country": "Syria",
+   "parent": "",
+   "significance": "Stabilization report briefed to officials responsible for Syria stabilization"
+  },
+  {
+   "name": "Sheberghan",
+   "aliases": [],
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Jowzjan",
+   "significance": "Site of TFBSO compressed natural gas station"
+  },
+  {
+   "name": "Brussels",
+   "type": "city",
+   "country": "Belgium",
+   "parent": "Belgium",
+   "significance": "NATO headquarters hosted event on report"
+  },
+  {
+   "name": "Iraq",
+   "type": "country",
+   "country": "Iraq",
+   "parent": "",
+   "significance": "Origin of TFBSO"
+  },
+  {
+   "name": "Arlington, Virginia",
+   "type": "city",
+   "country": "United States",
+   "parent": "Virginia",
+   "significance": "SIGAR headquarters."
+  },
+  {
+   "name": "Mazar-e Sharif",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Balkh",
+   "significance": "Children's Support Center location."
+  },
+  {
+   "name": "Kunduz",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Kunduz",
+   "significance": "Children's Support Center location."
+  },
+  {
+   "name": "Parwan",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Site of Justice Center in Parwan."
+  },
+  {
+   "name": "Washington",
+   "type": "city",
+   "country": "United States",
+   "parent": "United States",
+   "significance": "Hosted Nov 2012 training for 13 Afghan diplomats."
+  },
+  {
+   "name": "Beijing",
+   "type": "city",
+   "country": "China",
+   "parent": "China",
+   "significance": "Hosted first phase of Afghan diplomat training in May 2012."
+  },
+  {
+   "name": "Farah",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "CERP school projects"
+  },
+  {
+   "name": "Anar Dara",
+   "type": "district",
+   "country": "Afghanistan",
+   "parent": "Farah",
+   "significance": "Zehken Girls School built, completed July 2009"
+  },
+  {
+   "name": "Kabul Military Training Center",
+   "type": "base",
+   "country": "Afghanistan",
+   "parent": "Kabul",
+   "significance": "Premier ANSF training center"
+  },
+  {
+   "name": "Lash Juwain",
+   "type": "district",
+   "country": "Afghanistan",
+   "parent": "Farah",
+   "significance": "Lash Juwain High School completed 2008."
+  },
+  {
+   "name": "Farah City",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Farah",
+   "significance": "Runaakha Girls School built there in 2006."
+  },
+  {
+   "name": "Mazar-e-Sharif",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Balkh",
+   "significance": "DoD funded desks and chairs for students in Q1 2013."
+  },
+  {
+   "name": "Shindand",
+   "type": "district",
+   "country": "Afghanistan",
+   "parent": "Herat",
+   "significance": "Small district hospital serving over 240,000 Afghans."
+  },
+  {
+   "name": "Kandahar",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Kandahar Bridging Solution electrical power project."
+  },
+  {
+   "name": "Helmand",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Received increased electrical power and road projects."
+  },
+  {
+   "name": "Shorandam Industrial Park",
+   "type": "town",
+   "country": "Afghanistan",
+   "parent": "Kandahar",
+   "significance": "Factories grew from three in 2010 to about 66 with the added power."
+  },
+  {
+   "name": "Nawa",
+   "type": "district",
+   "country": "Afghanistan",
+   "parent": "Helmand",
+   "significance": "Start of the paved road to Lashkar Gah."
+  },
+  {
+   "name": "Lashkar Gah",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Helmand",
+   "significance": "Provincial capital linked by the paved Nawa road."
+  }
+ ],
+ "events": [
+  {
+   "date": "2008",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Congress created SIGAR.",
+   "place": "United States",
+   "actors": [
+    "SIGAR"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "2013-03-25",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Sopko sent letters to State, Defense and USAID asking for their ten most and least successful reconstruction projects.",
+   "place": "",
+   "actors": [
+    "John F. Sopko",
+    "U.S. Department of State",
+    "U.S. Department of Defense",
+    "USAID"
+   ],
+   "timestamp": "p.4"
+  },
+  {
+   "date": "2013-07-05",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Sopko letter noting agencies failed to list their most and least successful projects.",
+   "place": "",
+   "actors": [
+    "John F. Sopko"
+   ],
+   "timestamp": "p.4"
+  },
+  {
+   "date": "2014",
+   "date_precision": "year",
+   "type": "other",
+   "description": "SIGAR formally launched its Lessons Learned Program.",
+   "place": "",
+   "actors": [
+    "SIGAR",
+    "Ryan Crocker",
+    "John Allen"
+   ],
+   "timestamp": "p.6"
+  },
+  {
+   "date": "2020-01-15",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Sopko testified before the House Committee on Foreign Affairs.",
+   "place": "Washington",
+   "actors": [
+    "John F. Sopko"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2016-09",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "SIGAR publishes Corruption in Conflict lessons learned report",
+   "place": "",
+   "actors": [
+    "SIGAR"
+   ],
+   "timestamp": "p.10"
+  },
+  {
+   "date": "2017-09",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "SIGAR publishes report on Reconstructing the ANDSF",
+   "place": "Afghanistan",
+   "actors": [
+    "SIGAR"
+   ],
+   "timestamp": "p.11"
+  },
+  {
+   "date": "2018-04",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "SIGAR publishes Private Sector Development and Economic Growth report",
+   "place": "Afghanistan",
+   "actors": [
+    "SIGAR"
+   ],
+   "timestamp": "p.11"
+  },
+  {
+   "date": "2018-05",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "SIGAR publishes Stabilization report",
+   "place": "Afghanistan",
+   "actors": [
+    "SIGAR"
+   ],
+   "timestamp": "p.11"
+  },
+  {
+   "date": "2018-06",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "SIGAR publishes Counternarcotics report",
+   "place": "Afghanistan",
+   "actors": [
+    "SIGAR"
+   ],
+   "timestamp": "p.12"
+  },
+  {
+   "date": "2019-06",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "SIGAR publishes Divided Responsibility report",
+   "place": "Afghanistan",
+   "actors": [
+    "SIGAR"
+   ],
+   "timestamp": "p.12"
+  },
+  {
+   "date": "2019-09",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "SIGAR publishes Reintegration of Ex-Combatants report",
+   "place": "Afghanistan",
+   "actors": [
+    "SIGAR"
+   ],
+   "timestamp": "p.12"
+  },
+  {
+   "date": "2014",
+   "date_precision": "year",
+   "type": "other",
+   "description": "All prioritized districts transitioned from coalition to Afghan control; resurgent Taliban filled void",
+   "place": "Afghanistan",
+   "actors": [
+    "Taliban",
+    "Afghan National Defense and Security Forces"
+   ],
+   "timestamp": "p.12"
+  },
+  {
+   "date": "2018-09",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Senate Drug Caucus writes to SIGAR requesting inquiry into counternarcotics efforts",
+   "place": "",
+   "actors": [
+    "SIGAR"
+   ],
+   "timestamp": "p.14"
+  },
+  {
+   "date": "2009",
+   "date_precision": "year",
+   "type": "other",
+   "description": "DOD expanded its Iraq Task Force for Business and Stability Operations (TFBSO) to Afghanistan.",
+   "place": "Afghanistan",
+   "actors": [
+    "Task Force for Business and Stability Operations",
+    "U.S. Department of Defense"
+   ],
+   "timestamp": "p.17"
+  },
+  {
+   "date": "2013-03",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "SIGAR requested from Secretary Kerry lists of the ten most and least successful State-funded Afghanistan reconstruction projects.",
+   "place": "",
+   "actors": [
+    "SIGAR",
+    "John F. Kerry"
+   ],
+   "timestamp": "p.21"
+  },
+  {
+   "date": "2018-09",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Senate Drug Caucus wrote to SIGAR requesting an inquiry into U.S. counternarcotics efforts.",
+   "place": "",
+   "actors": [
+    "SIGAR"
+   ],
+   "timestamp": "p.14"
+  },
+  {
+   "date": "2019-11",
+   "date_precision": "month",
+   "type": "meeting",
+   "description": "SIGAR team lead briefed German Foreign Ministry and BMZ on the Reintegration of Ex-Combatants report.",
+   "place": "Germany",
+   "actors": [
+    "SIGAR"
+   ],
+   "timestamp": "p.15"
+  },
+  {
+   "date": "2013-03-25",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "SIGAR requests from State, USAID and DoD lists of ten most and ten least successful Afghanistan reconstruction projects.",
+   "place": "Arlington, Virginia",
+   "actors": [
+    "John F. Sopko",
+    "SIGAR",
+    "John F. Kerry",
+    "Rajiv Shah",
+    "Chuck Hagel"
+   ],
+   "timestamp": "p.24"
+  },
+  {
+   "date": "2013-05-09",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Joint State/USAID response from Feldman and Thier.",
+   "place": "",
+   "actors": [
+    "Daniel Feldman",
+    "J. Alexander Thier"
+   ],
+   "timestamp": "p.24"
+  },
+  {
+   "date": "2013-06-18",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "DoD response from Mike Dumont.",
+   "place": "",
+   "actors": [
+    "Mike Dumont"
+   ],
+   "timestamp": "p.24"
+  },
+  {
+   "date": "2013-07-05",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Sopko follow-up letter critiquing agency responses and indicators.",
+   "place": "Arlington, Virginia",
+   "actors": [
+    "John F. Sopko"
+   ],
+   "timestamp": "p.24"
+  },
+  {
+   "date": "2013-03-25",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Sopko letter requesting lists of 10 most and least successful reconstruction projects from State, USAID, DOD.",
+   "place": "",
+   "actors": [
+    "John F. Sopko",
+    "SIGAR"
+   ],
+   "timestamp": "p.28"
+  },
+  {
+   "date": "2013-05-09",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "State/USAID joint response to SIGAR letter.",
+   "place": "",
+   "actors": [
+    "U.S. Department of State",
+    "USAID"
+   ],
+   "timestamp": "p.34"
+  },
+  {
+   "date": "2013-08-05",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Jarrett Blanc replies to Sopko's modified request.",
+   "place": "",
+   "actors": [
+    "Jarrett Blanc",
+    "John F. Sopko"
+   ],
+   "timestamp": "p.32"
+  },
+  {
+   "date": "2012-06-29",
+   "date_precision": "day",
+   "type": "other",
+   "description": "USAID OIG audit finds alternative-development program directed away from poppy eradication goals.",
+   "place": "Afghanistan",
+   "actors": [
+    "USAID Office of Inspector General",
+    "USAID"
+   ],
+   "timestamp": "p.31"
+  },
+  {
+   "date": "2013-05-09",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "State/USAID joint response to SIGAR letter on most and least successful projects.",
+   "place": "",
+   "actors": [
+    "Department of State",
+    "USAID",
+    "SIGAR",
+    "Daniel Feldman"
+   ],
+   "timestamp": "p.34"
+  },
+  {
+   "date": "2012-11",
+   "date_precision": "month",
+   "type": "other",
+   "description": "State hosted two-week training in Washington for 13 Afghan diplomats.",
+   "place": "Washington",
+   "actors": [
+    "Department of State"
+   ],
+   "timestamp": "p.35"
+  },
+  {
+   "date": "2010-06",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Justice Center in Parwan heard its first case.",
+   "place": "Parwan",
+   "actors": [
+    "Justice Center in Parwan"
+   ],
+   "timestamp": "p.37"
+  },
+  {
+   "date": "2009-06",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Afghan Government took back central prison from insurgent inmates; INL began renovation, later halted for poor contractor performance and corruption.",
+   "place": "Kabul",
+   "actors": [
+    "INL"
+   ],
+   "timestamp": "p.40"
+  },
+  {
+   "date": "2011",
+   "date_precision": "year",
+   "type": "other",
+   "description": "USAID ended the Strategic Provincial Roads project in fall 2011.",
+   "place": "Afghanistan",
+   "actors": [
+    "USAID"
+   ],
+   "timestamp": "p.40"
+  },
+  {
+   "date": "2011",
+   "date_precision": "year",
+   "type": "other",
+   "description": "USAID ended the underperforming Strategic Provincial Roads project in eastern and southern Afghanistan",
+   "place": "Afghanistan",
+   "actors": [
+    "USAID"
+   ],
+   "timestamp": "p.40"
+  },
+  {
+   "date": "2009-06",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Afghan government retook central prison from insurgent inmates; INL began renovation later halted",
+   "place": "Afghanistan",
+   "actors": [
+    "US Department of State"
+   ],
+   "timestamp": "p.40"
+  },
+  {
+   "date": "2013-06-18",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "DoD letter to SIGAR announcing ANSF to assume lead security responsibility",
+   "place": "Washington",
+   "actors": [
+    "Mike Dumont",
+    "John Sopko"
+   ],
+   "timestamp": "p.41"
+  },
+  {
+   "date": "2009",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Obama announces US troop surge and ANSF growth effort",
+   "place": "Afghanistan",
+   "actors": [
+    "Barack Obama"
+   ],
+   "timestamp": "p.43"
+  },
+  {
+   "date": "2009-07",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Zehken Girls School completed in Anar Dara, Farah",
+   "place": "Anar Dara",
+   "actors": [
+    "US Department of Defense"
+   ],
+   "timestamp": "p.46"
+  },
+  {
+   "date": "2009-07",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Zehken Girls School in Anar Dara, Farah, completed with CERP funding.",
+   "place": "Anar Dara",
+   "actors": [
+    "Department of Defense",
+    "Commander's Emergency Response Fund"
+   ],
+   "timestamp": "p.46"
+  },
+  {
+   "date": "2013-03",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "DoD funded procurement and delivery of desks and chairs for students in Mazar-e-Sharif (first quarter of 2013).",
+   "place": "Mazar-e-Sharif",
+   "actors": [
+    "Department of Defense"
+   ],
+   "timestamp": "p.47"
+  },
+  {
+   "date": "2014-12",
+   "date_precision": "month",
+   "type": "other",
+   "description": "ISAF's final 429 ANSF infrastructure projects scheduled for completion.",
+   "place": "Afghanistan",
+   "actors": [
+    "ISAF",
+    "ANSF"
+   ],
+   "timestamp": "p.46"
+  },
+  {
+   "date": "2011",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "USAID ended the Strategic Provincial Roads project after outcomes fell short of objectives.",
+   "place": "Afghanistan",
+   "actors": [
+    "USAID"
+   ],
+   "timestamp": "p.40"
+  },
+  {
+   "date": "2009-06",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Afghan Government retook central prison from insurgent inmates; INL began renovation, later terminated for poor contractor performance and corruption.",
+   "place": "Kabul",
+   "actors": [
+    "Government of Afghanistan",
+    "Bureau of International Narcotics and Law Enforcement (INL)"
+   ],
+   "timestamp": "p.40"
+  },
+  {
+   "date": "2013-03-25",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "SIGAR sent letter of inquiry to DoD about reconstruction activities.",
+   "place": "Arlington, Virginia",
+   "actors": [
+    "SIGAR",
+    "US Department of Defense"
+   ],
+   "timestamp": "p.41"
+  },
+  {
+   "date": "2013-06-18",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "DoD letter to SIGAR responding to inquiry.",
+   "place": "Washington",
+   "actors": [
+    "Mike Dumont",
+    "John Sopko",
+    "US Department of Defense"
+   ],
+   "timestamp": "p.41"
+  },
+  {
+   "date": "2013-06",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Afghan government and ANSF to formally assume lead security responsibility across Afghanistan.",
+   "place": "Afghanistan",
+   "actors": [
+    "Government of Afghanistan",
+    "Afghan National Security Forces"
+   ],
+   "timestamp": "p.41"
+  },
+  {
+   "date": "2012-05",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "OMB issued memorandum 'Use of Evidence and Evaluation in the 2014 Budget'.",
+   "place": "Washington",
+   "actors": [
+    "Office of Management and Budget"
+   ],
+   "timestamp": "p.24"
+  },
+  {
+   "date": "2013-03-25",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Sopko wrote to State, DoD and USAID requesting their 10 most and 10 least successful programs.",
+   "place": "Arlington, Virginia",
+   "actors": [
+    "John F. Sopko",
+    "SIGAR",
+    "John F. Kerry",
+    "Chuck Hagel",
+    "Rajiv Shah"
+   ],
+   "timestamp": "p.24"
+  },
+  {
+   "date": "2013-05-09",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Joint State/USAID response letter by Feldman and Thier.",
+   "place": "",
+   "actors": [
+    "Daniel Feldman",
+    "J. Alexander Thier",
+    "U.S. Department of State",
+    "USAID"
+   ],
+   "timestamp": "p.24"
+  },
+  {
+   "date": "2013-06-18",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Mike Dumont submitted DoD's response.",
+   "place": "",
+   "actors": [
+    "Mike Dumont",
+    "U.S. Department of Defense"
+   ],
+   "timestamp": "p.24"
+  },
+  {
+   "date": "2013-07-05",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Sopko sent follow-up letter criticizing responsiveness of agency responses.",
+   "place": "Arlington, Virginia",
+   "actors": [
+    "John F. Sopko",
+    "SIGAR"
+   ],
+   "timestamp": "p.24"
+  },
+  {
+   "date": "2011",
+   "date_precision": "year",
+   "type": "statement",
+   "description": "USAID Inspector General audit on measuring health outcomes.",
+   "place": "Afghanistan",
+   "actors": [
+    "USAID Office of Inspector General"
+   ],
+   "timestamp": "p.26"
+  },
+  {
+   "date": "2012-11",
+   "date_precision": "month",
+   "type": "other",
+   "description": "State Department hosted a two-week training program in Washington for 13 Afghan diplomats with the Public Diplomacy Council and University of Maryland.",
+   "place": "Washington",
+   "actors": [
+    "U.S. Department of State"
+   ],
+   "timestamp": "p.35"
+  },
+  {
+   "date": "2012-05",
+   "date_precision": "month",
+   "type": "other",
+   "description": "First phase of joint diplomat training program, sponsored by the Government of China, held in Beijing.",
+   "place": "Beijing",
+   "actors": [],
+   "timestamp": "p.35"
+  },
+  {
+   "date": "2010-06",
+   "date_precision": "month",
+   "type": "other",
+   "description": "The Justice Center in Parwan heard its first case.",
+   "place": "Parwan",
+   "actors": [
+    "Justice Center in Parwan"
+   ],
+   "timestamp": "p.37"
+  },
+  {
+   "date": "2009",
+   "date_precision": "year",
+   "type": "other",
+   "description": "DOD expanded its Iraq Task Force for Business and Stability Operations (TFBSO) to Afghanistan as part of a $675 million effort to jumpstart the Afghan economy.",
+   "place": "Afghanistan",
+   "actors": [
+    "U.S. Department of Defense",
+    "Task Force for Business and Stability Operations",
+    "USAID"
+   ],
+   "timestamp": "p.17"
+  },
+  {
+   "date": "approx 2009",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "TFBSO spent millions constructing a compressed natural gas station in Sheberghan and converted local taxis to create a market.",
+   "place": "Sheberghan",
+   "actors": [
+    "Task Force for Business and Stability Operations"
+   ],
+   "timestamp": "p.17"
+  },
+  {
+   "date": "2012",
+   "date_precision": "year",
+   "type": "appointment",
+   "description": "John Sopko assumed his post as Special Inspector General for Afghanistan Reconstruction.",
+   "place": "Washington",
+   "actors": [
+    "John Sopko",
+    "SIGAR"
+   ],
+   "timestamp": "p.17"
+  },
+  {
+   "date": "2004",
+   "date_precision": "year",
+   "type": "other",
+   "description": "U.S. aid to Afghanistan exceeded the 45 percent of GDP absorption threshold; in 2007 and 2010 it exceeded 100 percent.",
+   "place": "Afghanistan",
+   "actors": [
+    "U.S. Department of Defense",
+    "U.S. Department of State",
+    "USAID"
+   ],
+   "timestamp": "p.16"
+  },
+  {
+   "date": "2013-03-25",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "SIGAR (Sopko) sends letters to Kerry, Shah and Hagel requesting ten most and least successful reconstruction projects.",
+   "place": "Arlington, Virginia",
+   "actors": [
+    "John F. Sopko",
+    "SIGAR",
+    "John F. Kerry",
+    "Rajiv Shah",
+    "Chuck Hagel"
+   ],
+   "timestamp": "p.21"
+  },
+  {
+   "date": "2013-06-18",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Mike Dumont submits DoD response.",
+   "place": "",
+   "actors": [
+    "Mike Dumont",
+    "U.S. Department of Defense"
+   ],
+   "timestamp": "p.24"
+  },
+  {
+   "date": "2013-07-05",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "SIGAR follow-up letter to Kerry, Hagel and Shah.",
+   "place": "Arlington, Virginia",
+   "actors": [
+    "SIGAR",
+    "John F. Kerry",
+    "Chuck Hagel",
+    "Rajiv Shah"
+   ],
+   "timestamp": "p.24"
+  },
+  {
+   "date": "2012-05",
+   "date_precision": "month",
+   "type": "other",
+   "description": "OMB issues memorandum 'Use of Evidence and Evaluation in the 2014 Budget'.",
+   "place": "",
+   "actors": [
+    "Office of Management and Budget"
+   ],
+   "timestamp": "p.24"
+  },
+  {
+   "date": "2012-09-12",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Caldwell testified before a House subcommittee.",
+   "place": "Washington",
+   "actors": [
+    "William B. Caldwell IV",
+    "U.S. Congress"
+   ],
+   "timestamp": "p.31"
+  },
+  {
+   "date": "2013-03-25",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "SIGAR sent its letter requesting the most and least successful projects.",
+   "place": "Washington",
+   "actors": [
+    "SIGAR",
+    "John F. Sopko",
+    "U.S. Department of State",
+    "USAID"
+   ],
+   "timestamp": "p.34"
+  },
+  {
+   "date": "2013-05-09",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "State and USAID sent a joint response to SIGAR.",
+   "place": "Washington",
+   "actors": [
+    "U.S. Department of State",
+    "USAID",
+    "SIGAR"
+   ],
+   "timestamp": "p.34"
+  },
+  {
+   "date": "2013-08-05",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Blanc replied to Sopko's follow-up letter.",
+   "place": "Washington",
+   "actors": [
+    "Jarrett Blanc",
+    "John F. Sopko"
+   ],
+   "timestamp": "p.32"
+  },
+  {
+   "date": "2012-05",
+   "date_precision": "month",
+   "type": "other",
+   "description": "First phase of joint diplomat training for Afghan diplomats took place in Beijing, sponsored by China.",
+   "place": "Beijing",
+   "actors": [
+    "Government of Afghanistan"
+   ],
+   "timestamp": "p.35"
+  },
+  {
+   "date": "2012-11",
+   "date_precision": "month",
+   "type": "other",
+   "description": "The State Department hosted a two-week training program for 13 Afghan diplomats.",
+   "place": "Washington",
+   "actors": [
+    "U.S. Department of State",
+    "Government of Afghanistan"
+   ],
+   "timestamp": "p.35"
+  },
+  {
+   "date": "1992",
+   "date_precision": "year",
+   "type": "designation",
+   "description": "GAO placed DOD contract management on its High-Risk List, where it has remained since.",
+   "place": "",
+   "actors": [
+    "Government Accountability Office",
+    "Department of Defense"
+   ],
+   "timestamp": "p.28"
+  },
+  {
+   "date": "2011-09-29",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "USAID OIG issued audit report F-306-U-004-P on on-budget funding assistance to the Afghan Ministry of Public Health (Partnership Contracts for Health Services).",
+   "place": "Afghanistan",
+   "actors": [
+    "USAID Office of Inspector General",
+    "Afghan Ministry of Public Health",
+    "USAID"
+   ],
+   "timestamp": "p.30"
+  },
+  {
+   "date": "2012-05-18",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "The Office of Management and Budget issued a memorandum on the use of evidence and evaluation in the 2014 Budget.",
+   "place": "Washington",
+   "actors": [
+    "Office of Management and Budget"
+   ],
+   "timestamp": "p.30"
+  },
+  {
+   "date": "2012-05",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "World Bank published 'Afghanistan in Transition: Looking Beyond 2014', Volume 2.",
+   "place": "Afghanistan",
+   "actors": [
+    "World Bank"
+   ],
+   "timestamp": "p.30"
+  },
+  {
+   "date": "2012-06-29",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "USAID OIG issued audit report F-306-12-004-P on USAID/Afghanistan's Incentives Driving Economic Alternatives for the North, East, and West program.",
+   "place": "Afghanistan",
+   "actors": [
+    "USAID Office of Inspector General",
+    "USAID"
+   ],
+   "timestamp": "p.31"
+  },
+  {
+   "date": "2012-09-12",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Lt Gen William B. Caldwell IV gave a statement before a U.S. House subcommittee hearing.",
+   "place": "Washington",
+   "actors": [
+    "William B. Caldwell IV"
+   ],
+   "timestamp": "p.31"
+  },
+  {
+   "date": "2013-01",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "SIGAR's January 2013 Quarterly Report to Congress laid out seven questions for decision makers considering reconstruction funds.",
+   "place": "",
+   "actors": [
+    "SIGAR",
+    "U.S. Congress"
+   ],
+   "timestamp": "p.29"
+  },
+  {
+   "date": "2013-03-05",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "DOD IG issued Report DODIG-2013-052 on inadequate contract oversight of military construction projects in Afghanistan.",
+   "place": "Afghanistan",
+   "actors": [
+    "Department of Defense Inspector General"
+   ],
+   "timestamp": "p.31"
+  },
+  {
+   "date": "2013-03-25",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "SIGAR sent a letter requesting lists of the 10 most and least successful Afghanistan reconstruction projects from agencies, and later modified the request to 10 more and less successful projects.",
+   "place": "",
+   "actors": [
+    "SIGAR",
+    "U.S. Department of State",
+    "USAID",
+    "U.S. Department of Defense",
+    "James B. Cunningham"
+   ],
+   "timestamp": "p.28"
+  },
+  {
+   "date": "2013-05",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "State OIG issued audit AUD-FM-13-29 on the Department of State's application of the procurement fee, finding performance metrics did not tie to business plan goals.",
+   "place": "",
+   "actors": [
+    "State Department Office of Inspector General",
+    "Bureau of Administration, Office of Logistics Management, Office of Acquisitions Management"
+   ],
+   "timestamp": "p.31"
+  },
+  {
+   "date": "2014",
+   "date_precision": "year",
+   "type": "other",
+   "detail": "",
+   "description": "All prioritized districts transitioned from coalition to Afghan control, with Taliban filling the void in vacated territory.",
+   "place": "Afghanistan",
+   "actors": [
+    "Taliban",
+    "Afghan National Defense and Security Forces"
+   ],
+   "timestamp": "p.12"
+  },
+  {
+   "date": "2018-06",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "SIGAR published Counternarcotics: Lessons from the U.S. Experience in Afghanistan.",
+   "place": "",
+   "actors": [
+    "SIGAR"
+   ],
+   "timestamp": "p.12"
+  },
+  {
+   "date": "2019-06",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "SIGAR published Divided Responsibility: Lessons from U.S. Security Sector Assistance Efforts in Afghanistan.",
+   "place": "",
+   "actors": [
+    "SIGAR",
+    "NATO"
+   ],
+   "timestamp": "p.12"
+  },
+  {
+   "date": "2019-09",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "SIGAR published Reintegration of Ex-Combatants: Lessons from the U.S. Experience in Afghanistan.",
+   "place": "",
+   "actors": [
+    "SIGAR",
+    "Taliban"
+   ],
+   "timestamp": "p.12"
+  },
+  {
+   "date": "2018-09",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "The Senate Drug Caucus wrote to SIGAR requesting an inquiry into U.S. counternarcotics efforts after the Counternarcotics report.",
+   "place": "",
+   "actors": [
+    "U.S. Senate",
+    "SIGAR"
+   ],
+   "timestamp": "p.14"
+  },
+  {
+   "date": "2017",
+   "date_precision": "year",
+   "type": "statement",
+   "description": "Lead analyst of the ANDSF report testified before the House Committee on Oversight and Government Reform.",
+   "place": "Washington",
+   "actors": [
+    "SIGAR"
+   ],
+   "timestamp": "p.14"
+  },
+  {
+   "date": "2018",
+   "date_precision": "year",
+   "type": "other",
+   "detail": "",
+   "description": "SIGAR staff participated in the Quadrennial Review of Security Sector Assistance and contributed to the Stabilization Assistance Review.",
+   "place": "",
+   "actors": [
+    "SIGAR"
+   ],
+   "timestamp": "p.14"
+  },
+  {
+   "date": "2017",
+   "date_precision": "year",
+   "type": "meeting",
+   "description": "Failure analysis session led by the Secretary of Defense and run by the Joint Chiefs of Staff, used to develop the president's South Asia Strategy; SIGAR staff participated.",
+   "place": "",
+   "actors": [
+    "SIGAR",
+    "U.S. Department of Defense",
+    "US Joint Chiefs of Staff"
+   ],
+   "timestamp": "p.14"
+  },
+  {
+   "date": "2013-03",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "SIGAR (Sopko) sends letter to Secretary of State Kerry requesting lists of the ten most and ten least successful reconstruction projects, due April 25, 2013, to Monica Brym.",
+   "place": "Arlington, Virginia",
+   "actors": [
+    "SIGAR",
+    "John F. Kerry",
+    "Monica Brym",
+    "James B. Cunningham"
+   ],
+   "timestamp": "p.21"
+  },
+  {
+   "date": "2018-05",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Deadline set by the 2018 NDAA for submission of an anticorruption strategy for contingency operations to congressional committees.",
+   "place": "Washington",
+   "actors": [
+    "U.S. Congress",
+    "U.S. Department of State",
+    "U.S. Department of Defense",
+    "USAID"
+   ],
+   "timestamp": "p.20"
+  },
+  {
+   "date": "2019-12",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "State tells SIGAR the anticorruption strategy is still under development.",
+   "place": "",
+   "actors": [
+    "U.S. Department of State",
+    "SIGAR"
+   ],
+   "timestamp": "p.20"
+  },
+  {
+   "date": "2020-01-15",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "SIGAR testimony to House Foreign Affairs Committee delivering six matters for congressional consideration, including planning for post-peace-deal Afghanistan.",
+   "place": "Washington",
+   "actors": [
+    "John F. Sopko",
+    "SIGAR",
+    "U.S. House Committee on Foreign Affairs"
+   ],
+   "timestamp": "p.18"
+  },
+  {
+   "date": "2002",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Unit inception of the Presidential Protective Service, a year after 9/11, with ATA support.",
+   "place": "Kabul",
+   "actors": [
+    "Presidential Protective Service",
+    "Anti-Terrorism Assistance (ATA) program"
+   ],
+   "timestamp": "p.38"
+  },
+  {
+   "date": "2006",
+   "date_precision": "year",
+   "type": "other",
+   "description": "INL CSSP advisors began training Afghan corrections officers (8,000 trained since).",
+   "place": "Afghanistan",
+   "actors": [
+    "Bureau of International Narcotics and Law Enforcement (INL)",
+    "General Directorate of Prisons and Detention Centers"
+   ],
+   "timestamp": "p.37"
+  },
+  {
+   "date": "2009-07",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Zehken Girls School in Anar Dara, Farah, completed with CERP funds.",
+   "place": "Anar Dara",
+   "actors": [
+    "Commander's Emergency Response Fund",
+    "Afghan Ministry of Education"
+   ],
+   "timestamp": "p.46"
+  },
+  {
+   "date": "2008",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Lash Juwain High School completed.",
+   "place": "Lash Juwain",
+   "actors": [
+    "Department of Defense"
+   ],
+   "timestamp": "p.47"
+  },
+  {
+   "date": "2006",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Runaakha Girls School built in Farah City.",
+   "place": "Farah City",
+   "actors": [
+    "Department of Defense"
+   ],
+   "timestamp": "p.47"
+  },
+  {
+   "date": "2013-Q1",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "DoD funded desks and chairs for students in Mazar-e-Sharif.",
+   "place": "Mazar-e-Sharif",
+   "actors": [
+    "Department of Defense"
+   ],
+   "timestamp": "p.47"
+  },
+  {
+   "date": "2014-12",
+   "date_precision": "month",
+   "type": "other",
+   "description": "ISAF's ANSF infrastructure program expected to deliver final 429 projects by December 2014.",
+   "place": "Afghanistan",
+   "actors": [
+    "International Security Assistance Force",
+    "Ministry of Defense",
+    "Ministry of Interior"
+   ],
+   "timestamp": "p.46"
+  },
+  {
+   "date": "2009",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Since 2009, SIGAR has issued 358 audits, inspections and other reports.",
+   "place": "Afghanistan",
+   "actors": [
+    "SIGAR"
+   ],
+   "timestamp": "p.8"
+  },
+  {
+   "date": "1988",
+   "date_precision": "year",
+   "type": "other",
+   "description": "A USAID report was produced in 1988 and later discovered unread by SIGAR staff in Kabul.",
+   "place": "Kabul",
+   "actors": [
+    "USAID",
+    "SIGAR"
+   ],
+   "timestamp": "p.10"
+  },
+  {
+   "date": "2016-09",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "SIGAR published 'Corruption in Conflict: Lessons from the U.S. Experience in Afghanistan'.",
+   "place": "",
+   "actors": [
+    "SIGAR"
+   ],
+   "timestamp": "p.10"
+  },
+  {
+   "date": "approx 2020",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "SIGAR planned to publish two more Lessons Learned reports (on elections and on contract monitoring and evaluation) in early 2020.",
+   "place": "",
+   "actors": [
+    "SIGAR"
+   ],
+   "timestamp": "p.10"
+  },
+  {
+   "date": "1988",
+   "date_precision": "year",
+   "type": "other",
+   "description": "USAID report produced that SIGAR staff later found unread in Kabul.",
+   "place": "Kabul",
+   "actors": [
+    "USAID",
+    "SIGAR"
+   ],
+   "timestamp": "p.10"
+  },
+  {
+   "date": "2001",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Initial defeat of the Taliban, after which the U.S. sought to build the Afghan economy.",
+   "place": "Afghanistan",
+   "actors": [
+    "Taliban"
+   ],
+   "timestamp": "p.11"
+  },
+  {
+   "date": "2014",
+   "date_precision": "year",
+   "type": "other",
+   "description": "All prioritized districts transitioned from coalition to Afghan control.",
+   "place": "Afghanistan",
+   "actors": [
+    "Government of Afghanistan",
+    "Taliban"
+   ],
+   "timestamp": "p.12"
+  },
+  {
+   "date": "2016-09",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "SIGAR published 'Corruption in Conflict'.",
+   "place": "",
+   "actors": [
+    "SIGAR"
+   ],
+   "timestamp": "p.10"
+  },
+  {
+   "date": "2017-09",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "SIGAR published 'Reconstructing the Afghan National Defense and Security Forces'.",
+   "place": "",
+   "actors": [
+    "SIGAR"
+   ],
+   "timestamp": "p.11"
+  },
+  {
+   "date": "2018-04",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "SIGAR published 'Private Sector Development and Economic Growth'.",
+   "place": "",
+   "actors": [
+    "SIGAR"
+   ],
+   "timestamp": "p.11"
+  },
+  {
+   "date": "2018-05",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "SIGAR published 'Stabilization'.",
+   "place": "",
+   "actors": [
+    "SIGAR",
+    "USAID",
+    "U.S. Department of State",
+    "U.S. Department of Defense"
+   ],
+   "timestamp": "p.11"
+  },
+  {
+   "date": "2018-06",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "SIGAR published 'Counternarcotics'.",
+   "place": "",
+   "actors": [
+    "SIGAR"
+   ],
+   "timestamp": "p.12"
+  },
+  {
+   "date": "2019-06",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "SIGAR published 'Divided Responsibility'.",
+   "place": "",
+   "actors": [
+    "SIGAR"
+   ],
+   "timestamp": "p.12"
+  },
+  {
+   "date": "2019-09",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "SIGAR published 'Reintegration of Ex-Combatants'.",
+   "place": "",
+   "actors": [
+    "SIGAR"
+   ],
+   "timestamp": "p.12"
+  },
+  {
+   "date": "approx early 2020",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "Planned SIGAR reports on Afghan elections and monitoring/evaluation of contracts.",
+   "place": "",
+   "actors": [
+    "SIGAR"
+   ],
+   "timestamp": "p.10"
+  },
+  {
+   "date": "2012",
+   "date_precision": "year",
+   "type": "appointment",
+   "description": "John Sopko appointed Special Inspector General for Afghanistan Reconstruction.",
+   "place": "Washington",
+   "actors": [
+    "John F. Sopko",
+    "SIGAR"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "2013",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Sopko asked staff to develop guiding queries, later incorporated in the FY2015 NDAA.",
+   "place": "Washington",
+   "actors": [
+    "John F. Sopko",
+    "SIGAR",
+    "U.S. Congress"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "2013-03-25",
+   "date_precision": "day",
+   "type": "other",
+   "description": "Sopko sent letters to State, Defense and USAID requesting lists of most/least successful projects.",
+   "place": "Washington",
+   "actors": [
+    "John F. Sopko",
+    "U.S. Department of State",
+    "U.S. Department of Defense",
+    "USAID"
+   ],
+   "timestamp": "p.4"
+  },
+  {
+   "date": "2013-07-05",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Sopko's follow-up letter noting agencies' failure to list successful/unsuccessful projects.",
+   "place": "Washington",
+   "actors": [
+    "John F. Sopko"
+   ],
+   "timestamp": "p.4"
+  },
+  {
+   "date": "2014",
+   "date_precision": "year",
+   "type": "statement",
+   "description": "USAID administrator stated in an agency newsletter that 3 million girls and 5 million boys were enrolled in school.",
+   "place": "Afghanistan",
+   "actors": [
+    "USAID"
+   ],
+   "timestamp": "p.4"
+  },
+  {
+   "date": "2020-01-15",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Sopko testified before the House Committee on Foreign Affairs on lessons learned.",
+   "place": "Washington",
+   "actors": [
+    "John F. Sopko",
+    "U.S. House Committee on Foreign Affairs",
+    "SIGAR"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2003",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Afghan National Army established.",
+   "place": "Afghanistan",
+   "actors": [
+    "Afghan National Army"
+   ],
+   "timestamp": "p.43"
+  },
+  {
+   "date": "2005",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Afghan National Police established.",
+   "place": "Afghanistan",
+   "actors": [
+    "Afghan National Police"
+   ],
+   "timestamp": "p.43"
+  },
+  {
+   "date": "2009",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "Obama announces U.S. troop surge; Coalition effort to grow the ANSF initiated.",
+   "place": "Afghanistan",
+   "actors": [
+    "Barack Obama",
+    "Afghan National Security Forces",
+    "International Security Assistance Force"
+   ],
+   "timestamp": "p.43"
+  },
+  {
+   "date": "2013-03",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Afghan Local Police reaches over 21,000 personnel, up from 3,100 in January 2011.",
+   "place": "Afghanistan",
+   "actors": [
+    "Afghan Local Police",
+    "Ministry of Interior"
+   ],
+   "timestamp": "p.44"
+  },
+  {
+   "date": "2014-12",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Projected completion of fielding of seven Mobile Strike Force kandaks.",
+   "place": "Afghanistan",
+   "actors": [
+    "Afghan National Security Forces"
+   ],
+   "timestamp": "p.44"
+  },
+  {
+   "date": "2013",
+   "date_precision": "year",
+   "type": "statement",
+   "description": "Afghan government expected to announce Milestone 2013, with Afghan security lead for 100% of population and ISAF shifting to advisory role.",
+   "place": "Afghanistan",
+   "actors": [
+    "Government of Afghanistan",
+    "International Security Assistance Force"
+   ],
+   "timestamp": "p.44"
+  },
+  {
+   "date": "2013-03-25",
+   "date_precision": "day",
+   "type": "other",
+   "description": "SIGAR (Sopko) sent letters to the Secretaries of State and Defense and the USAID Administrator asking for lists of ten most and least successful reconstruction projects.",
+   "place": "Washington",
+   "actors": [
+    "John F. Sopko",
+    "SIGAR",
+    "U.S. Department of State",
+    "U.S. Department of Defense",
+    "USAID"
+   ],
+   "timestamp": "p.4"
+  },
+  {
+   "date": "2013-07-05",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Sopko's follow-up letter noted agencies' failure to provide lists limited understanding of success and failure.",
+   "place": "",
+   "actors": [
+    "John F. Sopko",
+    "SIGAR"
+   ],
+   "timestamp": "p.4"
+  },
+  {
+   "date": "2014",
+   "date_precision": "year",
+   "type": "statement",
+   "description": "USAID administrator claimed in agency newsletter that 3 million girls and 5 million boys were enrolled in school versus 900,000 under the Taliban.",
+   "place": "Afghanistan",
+   "actors": [
+    "USAID",
+    "Taliban"
+   ],
+   "timestamp": "p.4"
+  },
+  {
+   "date": "2017",
+   "date_precision": "year",
+   "type": "other",
+   "description": "SIGAR issued audit of Afghanistan's health sector finding USAID overstated life expectancy gains.",
+   "place": "Afghanistan",
+   "actors": [
+    "SIGAR",
+    "USAID",
+    "World Health Organization"
+   ],
+   "timestamp": "p.5"
+  },
+  {
+   "date": "2011",
+   "date_precision": "year",
+   "type": "other",
+   "description": "USAID Inspector General audit found USAID's health contribution could be measured only indirectly using proxy indicators.",
+   "place": "Afghanistan",
+   "actors": [
+    "USAID Office of Inspector General",
+    "USAID"
+   ],
+   "timestamp": "p.26"
+  },
+  {
+   "date": "2012",
+   "date_precision": "year",
+   "type": "other",
+   "description": "USAID IG found a USAID alternative-development program was directed to focus only on the licit economy, with increased poppy growth in covered provinces.",
+   "place": "Afghanistan",
+   "actors": [
+    "USAID Office of Inspector General",
+    "USAID"
+   ],
+   "timestamp": "p.27"
+  },
+  {
+   "date": "2019-12",
+   "date_precision": "month",
+   "type": "other",
+   "description": "State Department OIG published an audit of the Bureau of Administration's Office of Acquisitions Management.",
+   "place": "Washington",
+   "actors": [
+    "State Department Office of Inspector General",
+    "Bureau of Administration, Office of Logistics Management, Office of Acquisitions Management"
+   ],
+   "timestamp": "p.27"
+  },
+  {
+   "date": "1992",
+   "date_precision": "year",
+   "type": "other",
+   "description": "GAO placed DOD contract management on its High-Risk list.",
+   "place": "",
+   "actors": [
+    "Government Accountability Office",
+    "Department of Defense"
+   ],
+   "timestamp": "p.28"
+  },
+  {
+   "date": "2013-03-25",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "SIGAR sent a letter to agencies requesting lists of the 10 most and least successful Afghanistan reconstruction projects and their evaluation criteria.",
+   "place": "",
+   "actors": [
+    "SIGAR",
+    "John Sopko"
+   ],
+   "timestamp": "p.28"
+  },
+  {
+   "date": "2009",
+   "date_precision": "year",
+   "type": "other",
+   "description": "ANSF illiteracy rate reported at 86 percent.",
+   "place": "Afghanistan",
+   "actors": [
+    "Afghan National Security Forces"
+   ],
+   "timestamp": "p.27"
+  },
+  {
+   "date": "2018",
+   "date_precision": "year",
+   "type": "meeting",
+   "description": "SIGAR staff participated in the Quadrennial Review of Security Sector Assistance.",
+   "place": "",
+   "actors": [
+    "SIGAR"
+   ],
+   "timestamp": "p.14"
+  },
+  {
+   "date": "2017",
+   "date_precision": "year",
+   "type": "statement",
+   "description": "Lead analyst for the ANDSF report testified before the House Committee on Oversight and Government Reform.",
+   "place": "Washington",
+   "actors": [
+    "SIGAR"
+   ],
+   "timestamp": "p.14"
+  },
+  {
+   "date": "2019-11",
+   "date_precision": "month",
+   "type": "meeting",
+   "description": "Reintegration report team lead briefed German Foreign and Economic Cooperation ministries.",
+   "place": "",
+   "actors": [
+    "SIGAR"
+   ],
+   "timestamp": "p.15"
+  },
+  {
+   "date": "2004",
+   "date_precision": "year",
+   "type": "other",
+   "description": "U.S. aid to Afghanistan exceeded 45 percent of GDP.",
+   "place": "Afghanistan",
+   "actors": [
+    "U.S. Department of State"
+   ],
+   "timestamp": "p.16"
+  },
+  {
+   "date": "2014",
+   "date_precision": "year",
+   "type": "other",
+   "detail": "",
+   "description": "SIGAR formally launched its Lessons Learned Program at the suggestion of Crocker and Allen, with NSC staff blessing.",
+   "place": "Afghanistan",
+   "actors": [
+    "SIGAR",
+    "Ryan Crocker",
+    "John Allen",
+    "National Security Council"
+   ],
+   "timestamp": "p.6"
+  },
+  {
+   "date": "2008-01-28",
+   "date_precision": "day",
+   "type": "other",
+   "description": "National Defense Authorization Act for FY2008 enacted, establishing SIGAR's statutory mandate.",
+   "place": "Washington",
+   "actors": [
+    "SIGAR",
+    "U.S. Congress"
+   ],
+   "timestamp": "p.6"
+  },
+  {
+   "date": "2009",
+   "date_precision": "year",
+   "type": "other",
+   "description": "SIGAR began issuing audits, inspections and other reports (358 since 2009).",
+   "place": "Afghanistan",
+   "actors": [
+    "SIGAR"
+   ],
+   "timestamp": "p.8"
+  },
+  {
+   "date": "2019",
+   "date_precision": "year",
+   "type": "other",
+   "description": "SIGAR published Divided Responsibility investigation of the military chain of command.",
+   "place": "",
+   "actors": [
+    "SIGAR"
+   ],
+   "timestamp": "p.7"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "John F. Sopko",
+   "target": "SIGAR",
+   "type": "leads",
+   "detail": "Sopko is the Special Inspector General.",
+   "date": "2012",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "since I was appointed the Special Inspector General nearly eight years ago"
+  },
+  {
+   "source": "SIGAR",
+   "target": "Ryan Crocker",
+   "type": "other",
+   "detail": "Crocker suggested launching the Lessons Learned Program.",
+   "date": "2014",
+   "confidence": "stated",
+   "timestamp": "p.6",
+   "quote": "at the suggestion of a number of prominent officials, including Ambassador Ryan Crocker and General John Allen"
+  },
+  {
+   "source": "SIGAR",
+   "target": "John Allen",
+   "type": "other",
+   "detail": "Allen suggested launching the Lessons Learned Program.",
+   "date": "2014",
+   "confidence": "stated",
+   "timestamp": "p.6",
+   "quote": "including Ambassador Ryan Crocker and General John Allen, that SIGAR formally launched its Lessons Learned Program in 2014"
+  },
+  {
+   "source": "SIGAR",
+   "target": "National Security Council",
+   "type": "other",
+   "detail": "NSC staff blessed the program launch.",
+   "date": "2014",
+   "confidence": "stated",
+   "timestamp": "p.6",
+   "quote": "with the blessing of the National Security Council staff"
+  },
+  {
+   "source": "Task Force for Business and Stability Operations",
+   "target": "US Department of Defense",
+   "type": "member_of",
+   "detail": "TFBSO was a DOD task force.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "programs run by DOD's now-defunct Task Force for Business and Stability Operations"
+  },
+  {
+   "source": "Joseph Dunford",
+   "target": "US Joint Chiefs of Staff",
+   "type": "leads",
+   "detail": "Dunford was Chairman of the Joint Chiefs of Staff.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.14",
+   "quote": "Chairman of the Joint Chiefs of Staff, General Joseph Dunford"
+  },
+  {
+   "source": "Taliban",
+   "target": "Afghan National Defense and Security Forces",
+   "type": "rival_of",
+   "detail": "Afghan forces and civil servants could not compete with the resurgent Taliban in vacated territory.",
+   "date": "2014",
+   "confidence": "stated",
+   "timestamp": "p.12",
+   "quote": "could not compete with a resurgent Taliban as it filled the void in newly vacated territory"
+  },
+  {
+   "source": "Mike Pompeo",
+   "target": "US Department of State",
+   "type": "leads",
+   "detail": "Pompeo was Secretary of State.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.14",
+   "quote": "Secretary of State Mike Pompeo's testimony before the United States Senate"
+  },
+  {
+   "source": "Task Force for Business and Stability Operations",
+   "target": "U.S. Department of Defense",
+   "type": "member_of",
+   "detail": "TFBSO was a DOD task force.",
+   "date": "2009",
+   "confidence": "stated",
+   "timestamp": "p.17",
+   "quote": "in 2009 DOD expanded its Iraq Task Force for Business and Stability Operations (\"TFBSO\") to Afghanistan"
+  },
+  {
+   "source": "SIGAR",
+   "target": "John F. Kerry",
+   "type": "other",
+   "detail": "SIGAR requested lists of best and worst State reconstruction projects.",
+   "date": "2013-03",
+   "confidence": "stated",
+   "timestamp": "p.21",
+   "quote": "I formally request that you provide: a list of the ten Afghanistan reconstruction projects/programs funded and deemed most successful"
+  },
+  {
+   "source": "Daniel Feldman",
+   "target": "U.S. Department of State",
+   "type": "member_of",
+   "detail": "Feldman was State's designee responding to SIGAR.",
+   "date": "2013",
+   "confidence": "stated",
+   "timestamp": "p.24",
+   "quote": "Mr. Daniel Feldman. Deputy Special Representative for Afghanistan and Pakistan"
+  },
+  {
+   "source": "J. Alexander Thier",
+   "target": "USAID",
+   "type": "member_of",
+   "detail": "Thier was USAID's designee.",
+   "date": "2013",
+   "confidence": "stated",
+   "timestamp": "p.24",
+   "quote": "Mr. J. Alexander Thier, Assistant to the Administrator for Afghanistan and Pakistan"
+  },
+  {
+   "source": "Mike Dumont",
+   "target": "U.S. Department of Defense",
+   "type": "member_of",
+   "detail": "Dumont responded for DoD.",
+   "date": "2013",
+   "confidence": "stated",
+   "timestamp": "p.24",
+   "quote": "Deputy Assistant Secretary of Defense for Asian and Pacific Affairs"
+  },
+  {
+   "source": "Joseph F. Dunford, Jr.",
+   "target": "ISAF",
+   "type": "leads",
+   "detail": "Commander of ISAF and USFOR-A.",
+   "date": "2013",
+   "confidence": "stated",
+   "timestamp": "p.23",
+   "quote": "Commander, U.S. Forces-Afghanistan, and Commander, International Security Assistance Force"
+  },
+  {
+   "source": "James N. Mattis",
+   "target": "U.S. Central Command",
+   "type": "leads",
+   "detail": "Commander of CENTCOM.",
+   "date": "2013",
+   "confidence": "stated",
+   "timestamp": "p.23",
+   "quote": "General James N. Mattis Commander, U.S. Central Command"
+  },
+  {
+   "source": "John F. Sopko",
+   "target": "SIGAR",
+   "type": "leads",
+   "detail": "Sopko is Special Inspector General.",
+   "date": "2013",
+   "confidence": "stated",
+   "timestamp": "p.22",
+   "quote": "Special Inspector General for Afghanistan Reconstruction"
+  },
+  {
+   "source": "Monica Brym",
+   "target": "SIGAR",
+   "type": "member_of",
+   "detail": "Director of Special Projects.",
+   "date": "2013",
+   "confidence": "stated",
+   "timestamp": "p.21",
+   "quote": "Monica Brym. SIGAR Director of Special Projects"
+  },
+  {
+   "source": "Jarrett Blanc",
+   "target": "U.S. Department of State",
+   "type": "member_of",
+   "detail": "Blanc signed as Deputy Special Representative for Afghanistan and Pakistan.",
+   "date": "2013-08-05",
+   "confidence": "stated",
+   "timestamp": "p.33",
+   "quote": "Deputy Special Representative for Afghanistan nnd Pakistan"
+  },
+  {
+   "source": "John F. Sopko",
+   "target": "SIGAR",
+   "type": "leads",
+   "detail": "Sopko is Special Inspector General.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.34",
+   "quote": "Special lnspector General for Afghanistan Reconstruction (SlGAR)"
+  },
+  {
+   "source": "U.S. Department of State",
+   "target": "USAID",
+   "type": "allied_with",
+   "detail": "Responded jointly to SIGAR.",
+   "date": "2013",
+   "confidence": "stated",
+   "timestamp": "p.32",
+   "quote": "with the U.S. Agency for lntemational Development (USAID), with whom we answered jointly"
+  },
+  {
+   "source": "Justice Center in Parwan",
+   "target": "INL",
+   "type": "funded_by",
+   "detail": "INL supports JCIP training and operations.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.37",
+   "quote": "INL provides formal training, daily mentoring, and operational support to nearly 100 Afghan judges, prosecutors, defense counsel"
+  },
+  {
+   "source": "Presidential Protective Service",
+   "target": "Anti-Terrorism Assistance program",
+   "type": "trained_by",
+   "detail": "ATA trained PPS officers.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.38",
+   "quote": "the ATA program has provided training, equipment and mentorship to several hundred PPS officers"
+  },
+  {
+   "source": "Women for Afghan Women",
+   "target": "INL",
+   "type": "funded_by",
+   "detail": "INL funds WAW to run CSCs.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.36",
+   "quote": "INL) funds Women for Afghan Women to operate Children's Support Centers (CSCs) in Kabul, Mazar-e Sharif and Kunduz"
+  },
+  {
+   "source": "Afghan Community Consulting",
+   "target": "Ministry of Border and Tribal Affairs",
+   "type": "other",
+   "detail": "Unable to obtain cooperation on oversight.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.40",
+   "quote": "unable to obtain adequate cooperation from the Ministry of Border and Tribal Affairs"
+  },
+  {
+   "source": "Afghan Local Police",
+   "target": "Ministry of Interior",
+   "type": "reports_to",
+   "detail": "ALP is administered by the Ministry of Interior.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.44",
+   "quote": "a village-based sccurily program administered by Ministry of Interior (Mal)"
+  },
+  {
+   "source": "U.S. Army Corps of Engineers",
+   "target": "ANSF",
+   "type": "other",
+   "detail": "USACE provides facility maintenance and training for up to six months after construction completion.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.46",
+   "quote": "USACE) provides facility maintenance and training for a period of up to six months following construction completion"
+  },
+  {
+   "source": "Ministry of Education",
+   "target": "Zehken Girls School",
+   "type": "other",
+   "detail": "The ministry supplies teachers and building maintenance for the CERP-built girls school.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.47",
+   "quote": "Teachers and building maintenance are supplied by the Ministry of Education."
+  },
+  {
+   "source": "Afghanistan Infrastructure Fund",
+   "target": "Nawa to Lashkar Gah road",
+   "type": "funded_by",
+   "detail": "The Nawa to Lashkar Gah road paving project was funded by the Afghanistan Infrastructure Fund.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.47",
+   "quote": "Nawa to Lashkar Gah road paving project in the southwest, funded by the Afghanistan Infrastructure Fund"
+  },
+  {
+   "source": "Rajiv Shah",
+   "target": "USAID",
+   "type": "leads",
+   "detail": "Administrator Shah issued Sustainability Guidance for every USAID program.",
+   "confidence": "stated",
+   "timestamp": "p.39",
+   "quote": "Administrator Shah issued Sustainability Guidance to ensure that every USAID program supports increased Afghan ownership."
+  },
+  {
+   "source": "USAID",
+   "target": "US Department of State",
+   "type": "allied_with",
+   "detail": "Share project information, metrics and best practices through interagency databases such as FACTS Info and Afghan Info.",
+   "confidence": "stated",
+   "timestamp": "p.39",
+   "quote": "databases such as FACTS Info and Afghan Info allow USAID and the Department of State to share project infunnation, metrics, best practices"
+  },
+  {
+   "source": "USAID",
+   "target": "ISAF",
+   "type": "allied_with",
+   "detail": "USAID works closely with Afghan and ISAF counterparts on award mechanisms, vetting, financial controls and oversight.",
+   "confidence": "stated",
+   "timestamp": "p.39",
+   "quote": "working closely \\ltith our Afghan and ISAF counterparts."
+  },
+  {
+   "source": "USAID",
+   "target": "U.S. Forces-Afghanistan",
+   "type": "allied_with",
+   "detail": "Joint committee with U.S. Forces-Afghanistan and ISAF on contractor vetting and corruption.",
+   "confidence": "stated",
+   "timestamp": "p.39",
+   "quote": "establishfall a joint committee with U.S. Forces-Afghanistan and TSAF on contractor vetting and corruption"
+  },
+  {
+   "source": "USAID",
+   "target": "Government Accountability Office",
+   "type": "allied_with",
+   "detail": "USAID works with independent oversight entities including GAO.",
+   "confidence": "stated",
+   "timestamp": "p.39",
+   "quote": "we also work with a variety of independent m'ersigbt entities, includini the State and USAfD Offices of the inspectors General and the li.S. Government Accountability Office"
+  },
+  {
+   "source": "USAID",
+   "target": "USAID Office of Inspector General",
+   "type": "allied_with",
+   "detail": "USAID works with its Office of Inspector General as an oversight entity.",
+   "confidence": "stated",
+   "timestamp": "p.39",
+   "quote": "the State and USAfD Offices of the inspectors General"
+  },
+  {
+   "source": "USAID",
+   "target": "Government of Afghanistan",
+   "type": "allied_with",
+   "detail": "Anti-corruption initiatives with the Afghan government.",
+   "confidence": "stated",
+   "timestamp": "p.39",
+   "quote": "helping the Afghan government develop a strong anti-co.eruption policy"
+  },
+  {
+   "source": "Bureau of International Narcotics and Law Enforcement (INL)",
+   "target": "Government of Afghanistan",
+   "type": "other",
+   "detail": "INL began renovating the central prison after the Afghan Government retook it from insurgent inmates.",
+   "date": "2009-06",
+   "confidence": "stated",
+   "timestamp": "p.40",
+   "quote": "In June 2009, after the Afghan Go,-emment took back central of its central prison from asurgent inmates. [NL began a comprehensive renovation."
+  },
+  {
+   "source": "Afghan Community Consulting",
+   "target": "Ministry of Border and Tribal Affairs",
+   "type": "other",
+   "detail": "Implementing partner could not obtain adequate cooperation from the ministry on jirgas and shuras.",
+   "confidence": "stated",
+   "timestamp": "p.40",
+   "quote": "the implementing panner, Afghan Community Consulting, was unable to obtain adequate cooperation from the Ministry of Border and Tribal Affairs"
+  },
+  {
+   "source": "US Department of State",
+   "target": "Afghan Community Consulting",
+   "type": "funded_by",
+   "detail": "Afghan Community Consulting was implementing partner of a State public diplomacy grant, terminated by PAS Kabul.",
+   "confidence": "inferred",
+   "timestamp": "p.40",
+   "quote": "PAS Kabul terminated the granr, suspclJded future jirgas"
+  },
+  {
+   "source": "Daniel Feldman",
+   "target": "US Department of State",
+   "type": "member_of",
+   "detail": "Deputy Special Representative for Afghanistan and Pakistan.",
+   "confidence": "stated",
+   "timestamp": "p.40",
+   "quote": "Daniel Feldman Deputy Special Representative for Af ghanist.an and .Pakil:itan"
+  },
+  {
+   "source": "Mike Dumont",
+   "target": "US Department of Defense",
+   "type": "member_of",
+   "detail": "Deputy Assistant Secretary of Defense for Asian & Pacific Security Affairs.",
+   "confidence": "stated",
+   "timestamp": "p.42",
+   "quote": "Mil<.: Dumont Deputy Assistant Secretary of Defense Asian & Pacific Security Affairs"
+  },
+  {
+   "source": "US Department of Defense",
+   "target": "SIGAR",
+   "type": "other",
+   "detail": "DoD responded to SIGAR's March 25, 2013 letter with overview of reconstruction activities.",
+   "date": "2013-06-18",
+   "confidence": "stated",
+   "timestamp": "p.41",
+   "quote": "Ln response to your letter of March 25, 2013, the Dcpanmem of Defense (DoD) reviewed reconstruction activities in Afghanistan"
+  },
+  {
+   "source": "US Department of Defense",
+   "target": "Taliban",
+   "type": "rival_of",
+   "detail": "Objective to ensure Taliban do not overthrow Afghan Government.",
+   "confidence": "stated",
+   "timestamp": "p.41",
+   "quote": "to ensure the Taliban do not overthrow the Afghan GovemmenL"
+  },
+  {
+   "source": "US Department of Defense",
+   "target": "al-Qaeda",
+   "type": "rival_of",
+   "detail": "Objective to ensure al Qaeda never again uses Afghanistan as safe haven.",
+   "confidence": "stated",
+   "timestamp": "p.41",
+   "quote": "to ensure al Qaeda never again uses it as a safe haven"
+  },
+  {
+   "source": "Government of Afghanistan",
+   "target": "Afghan National Security Forces",
+   "type": "leads",
+   "detail": "Afghan government and ANSF to assume lead security responsibility.",
+   "date": "2013-06",
+   "confidence": "stated",
+   "timestamp": "p.41",
+   "quote": "the Afghan government and lhe ANSF will formally assume lead security responsibility across all of Afghanistan."
+  },
+  {
+   "source": "Mike Dumont",
+   "target": "John Sopko",
+   "type": "other",
+   "detail": "Dumont wrote to Sopko transmitting DoD response.",
+   "date": "2013-06-18",
+   "confidence": "stated",
+   "timestamp": "p.41",
+   "quote": "Dear Mr. Sopko, June 18, 2013"
+  },
+  {
+   "source": "John F. Sopko",
+   "target": "John F. Kerry",
+   "type": "other",
+   "detail": "Sopko, as SIGAR head, wrote to Secretary of State Kerry requesting the agency's 10 most and 10 least successful programs.",
+   "date": "2013-07-05",
+   "confidence": "stated",
+   "timestamp": "p.24",
+   "quote": "On March 25. 2013. I wrote to you asking that your agencies provide SIGAR with 1nformation on what each of you considers to be the 10 most successfu I -and 10 least successful projects"
+  },
+  {
+   "source": "John F. Sopko",
+   "target": "Chuck Hagel",
+   "type": "other",
+   "detail": "Sopko wrote to Defense Secretary Hagel with the same request for most/least successful programs.",
+   "date": "2013-07-05",
+   "confidence": "stated",
+   "timestamp": "p.24",
+   "quote": "The Honorable Chuck Hagel U.S. Secretary of Defense"
+  },
+  {
+   "source": "John F. Sopko",
+   "target": "Rajiv Shah",
+   "type": "other",
+   "detail": "Sopko wrote to USAID Administrator Shah with the same request.",
+   "date": "2013-07-05",
+   "confidence": "stated",
+   "timestamp": "p.24",
+   "quote": "The Honorable Rajiv Sha'h Administt'ator, U.S. Agency for I·r'lternational Development"
+  },
+  {
+   "source": "John F. Kerry",
+   "target": "U.S. Department of State",
+   "type": "leads",
+   "detail": "Kerry is U.S. Secretary of State.",
+   "confidence": "stated",
+   "timestamp": "p.24",
+   "quote": "The Honorable John F. Kerry U.S. Secretary Of State"
+  },
+  {
+   "source": "Chuck Hagel",
+   "target": "U.S. Department of Defense",
+   "type": "leads",
+   "detail": "Hagel is Secretary of Defense.",
+   "confidence": "stated",
+   "timestamp": "p.24",
+   "quote": "The Honorable Chuck Hagel U.S. Secretary of Defense"
+  },
+  {
+   "source": "Daniel Feldman",
+   "target": "U.S. Department of State",
+   "type": "member_of",
+   "detail": "Feldman was Deputy Special Representative for Afghanistan and Pakistan; designee responding for State.",
+   "date": "2013-05-09",
+   "confidence": "stated",
+   "timestamp": "p.24",
+   "quote": "Mr. Daniel Feldman. Deputy Special Representative for AfghBnistan ;;ind f)ekistan"
+  },
+  {
+   "source": "J. Alexander Thier",
+   "target": "USAID",
+   "type": "member_of",
+   "detail": "Thier was Assistant to the Administrator for Afghanistan and Pakistan at USAID.",
+   "date": "2013-05-09",
+   "confidence": "stated",
+   "timestamp": "p.24",
+   "quote": "Mr. J. Alexander Thier, Assistant .to the Administrator for Afghanistan and Pal(istan"
+  },
+  {
+   "source": "Daniel Feldman",
+   "target": "J. Alexander Thier",
+   "type": "other",
+   "detail": "Jointly supplied the State/USAID response letter.",
+   "date": "2013-05-09",
+   "confidence": "stated",
+   "timestamp": "p.24",
+   "quote": "supplied a joint State/ USAID response dated May 9 , 2013"
+  },
+  {
+   "source": "Mike Dumont",
+   "target": "U.S. Department of Defense",
+   "type": "member_of",
+   "detail": "Dumont, Deputy Assistant Secretary of Defense for Asian and Pacific Affairs, submitted Defense's response.",
+   "date": "2013-06-18",
+   "confidence": "stated",
+   "timestamp": "p.24",
+   "quote": "Mr. Mike Dumont. Deputy Assistant Secretary of Defense for Asian and Pacific Affairs, submitted a response dated June 18. 2013."
+  },
+  {
+   "source": "SIGAR",
+   "target": "Arlington, Virginia",
+   "type": "located_in",
+   "detail": "SIGAR offices at Crystal Drive, Arlington.",
+   "confidence": "stated",
+   "timestamp": "p.24",
+   "quote": "Arllngt011, Virginia 22202"
+  },
+  {
+   "source": "John F. Sopko",
+   "target": "SIGAR",
+   "type": "leads",
+   "detail": "Sopko writes as Special Inspector General.",
+   "confidence": "stated",
+   "timestamp": "p.25",
+   "quote": "during my first year as Special Inspector Gerieral"
+  },
+  {
+   "source": "U.S. Department of State",
+   "target": "USAID",
+   "type": "allied_with",
+   "detail": "Agencies in close cooperation on reconstruction; issued a joint response.",
+   "confidence": "stated",
+   "timestamp": "p.25",
+   "quote": "the agencies a,e in ' close cooperation on matters affeclJngAfghan reconstruction"
+  },
+  {
+   "source": "U.S. Department of Defense",
+   "target": "Commander's Emergency Response Fund",
+   "type": "leads",
+   "detail": "DoD mandated performance metrics for CERP projects over $50,000.",
+   "confidence": "inferred",
+   "timestamp": "p.26",
+   "quote": "the Departmentof Defense mandated that proJects executed through the Commander's Emergency Response Progrart\" (CERP) have performance metrics"
+  },
+  {
+   "source": "USAID Office of Inspector General",
+   "target": "USAID",
+   "type": "other",
+   "detail": "USAID IG audited USAID health programs in 2011.",
+   "date": "2011",
+   "confidence": "stated",
+   "timestamp": "p.26",
+   "quote": "The USAID Inspector General found In 01,e 2011 audit that measurement of the magn1wdeof USAJD's contribution"
+  },
+  {
+   "source": "World Bank",
+   "target": "Afghanistan",
+   "type": "other",
+   "detail": "World Bank excluded the Mortality Survey, giving Afghan life expectancy as 48 years.",
+   "confidence": "stated",
+   "timestamp": "p.26",
+   "quote": "According co the World Bank figure, Afghan life e~peC1Bncy Is 48 years"
+  },
+  {
+   "source": "USAID",
+   "target": "Afghan Ministry of Public Health",
+   "type": "other",
+   "detail": "USAID supports health programs in 13 of 34 provinces.",
+   "confidence": "inferred",
+   "timestamp": "p.26",
+   "quote": "specific to the 13 of 34 provinces supported by USAID"
+  },
+  {
+   "source": "Women for Afghan Women",
+   "target": "Bureau of International Narcotics and Law Enforcement (INL)",
+   "type": "funded_by",
+   "detail": "INL funds Women for Afghan Women to operate Children's Support Centers in Kabul, Mazar-e Sharif and Kunduz.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.36",
+   "quote": "Bureau of lntemational Narcotics and Law Enforcement (INL) funds Women for Afghan Women to operate Children's Support Centers (CSCs) in Kabul, Mazar-e Sharif. and Kunduz."
+  },
+  {
+   "source": "Women for Afghan Women",
+   "target": "Kabul",
+   "type": "located_in",
+   "detail": "Women for Afghan Women operates a Children's Support Center in Kabul.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.36",
+   "quote": "Women for Afghan Women to operate Children's Support Centers (CSCs) in Kabul, Mazar-e Sharif. and Kunduz."
+  },
+  {
+   "source": "Women for Afghan Women",
+   "target": "Mazar-e Sharif",
+   "type": "located_in",
+   "detail": "Women for Afghan Women operates a Children's Support Center in Mazar-e Sharif.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.36",
+   "quote": "Women for Afghan Women to operate Children's Support Centers (CSCs) in Kabul, Mazar-e Sharif. and Kunduz."
+  },
+  {
+   "source": "Women for Afghan Women",
+   "target": "Kunduz",
+   "type": "located_in",
+   "detail": "Women for Afghan Women operates a Children's Support Center in Kunduz.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.36",
+   "quote": "Women for Afghan Women to operate Children's Support Centers (CSCs) in Kabul, Mazar-e Sharif. and Kunduz."
+  },
+  {
+   "source": "Bureau of International Narcotics and Law Enforcement (INL)",
+   "target": "U.S. Department of State",
+   "type": "member_of",
+   "detail": "INL is a bureau of the Department of State.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.36",
+   "quote": "The Department of Staie's 8ur~u of lntemational Narcotics and Law Enforcement (INL)"
+  },
+  {
+   "source": "General Directorate of Prisons and Detention Centers",
+   "target": "Bureau of International Narcotics and Law Enforcement (INL)",
+   "type": "funded_by",
+   "detail": "INL, through its implementing partner, assisted the GDPDC in improving its capability to operate correctional facilities; INL training and mentoring via CSSP.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.37",
+   "quote": "INL has, through its implementing partner, assisted the General Directorate of Prisons and Detention Centers (GDPDC) in improving its capability to operate safe, secure, and humane Afghan correctional facilities."
+  },
+  {
+   "source": "General Directorate of Prisons and Detention Centers",
+   "target": "Bureau of International Narcotics and Law Enforcement (INL)",
+   "type": "trained_by",
+   "detail": "GDPDC improvements attributed to INL's Corrections System Support Program mentoring and training; CSSP advisors trained 8,000 corrections officers since 2006.",
+   "date": "2006",
+   "confidence": "stated",
+   "timestamp": "p.37",
+   "quote": "CSSP advisors have trained 8.000 corrections officers since 2006"
+  },
+  {
+   "source": "Justice Center in Parwan",
+   "target": "Parwan",
+   "type": "located_in",
+   "detail": "The Justice Center in Parwan is located in Parwan.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.37",
+   "quote": "the Justice Center in Parwan. (JCIP). The JCIP is a special Afghan court"
+  },
+  {
+   "source": "Justice Center in Parwan",
+   "target": "National Directorate of Security",
+   "type": "allied_with",
+   "detail": "JCIP is a partnership including the National Directorate of Security.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.37",
+   "quote": "Ministry of the Interior. National Directorate of Security and Ministry of Defense"
+  },
+  {
+   "source": "National Directorate of Security",
+   "target": "Justice Center in Parwan",
+   "type": "member_of",
+   "detail": "NDS is a partner institution in the JCIP.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.37",
+   "quote": "The JCIP is a partnership of the Afghan Supreme Court, Attorney General's Office, Ministry of Justice, Ministry of the Interior. National Directorate of Security"
+  },
+  {
+   "source": "Ministry of Interior",
+   "target": "Justice Center in Parwan",
+   "type": "member_of",
+   "detail": "Ministry of the Interior is a partner in the JCIP.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.37",
+   "quote": "Ministry of the Interior. National Directorate of Security and Ministry of Defense"
+  },
+  {
+   "source": "Ministry of Defense",
+   "target": "Justice Center in Parwan",
+   "type": "member_of",
+   "detail": "Ministry of Defense is a partner in the JCIP.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.37",
+   "quote": "National Directorate of Security and Ministry of Defense, with support from Combined Joint Interagency Task Force 435"
+  },
+  {
+   "source": "Justice Center in Parwan",
+   "target": "Bureau of International Narcotics and Law Enforcement (INL)",
+   "type": "funded_by",
+   "detail": "JCIP is supported by INL, CJIATF 435 and the Australian Agency for International Development.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.37",
+   "quote": "with support from Combined 1oi.nt [nteragem:y Task Fqrce 435, the Australian A~imcy for l01ernational Development, arui INL."
+  },
+  {
+   "source": "Afghan Ministry of Public Health",
+   "target": "USAID",
+   "type": "funded_by",
+   "detail": "Ministry of Public Health rebuilt the healthcare system with substantial US and donor support; USAID health teams worked with the Afghan Government.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.35",
+   "quote": "With substantial suppon from the United Stares and other donors, access to basic b~lth services"
+  },
+  {
+   "source": "Da Afghanistan Breshna Sherkat",
+   "target": "USAID",
+   "type": "funded_by",
+   "detail": "USAID assistance focused on making the national power company (DABS) self-sustaining.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.37",
+   "quote": "USA.ID assistance has included hYdro-eleclric and solar facilities, and ha~ focused on making lbe Afghan national power corrrpany <OABS) selt: SUStaiaing"
+  },
+  {
+   "source": "USAID",
+   "target": "Government of Afghanistan",
+   "type": "allied_with",
+   "detail": "USAID support helped the Afghan government grow internal revenue collection and develop a centralized Customs system.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.36",
+   "quote": "USAID·s support has helped the Afghan government grow ics internal revenue collectioo by almost 20 percent pitr year since 2002."
+  },
+  {
+   "source": "U.S. Department of State",
+   "target": "Afghan Ministry of Education",
+   "type": "allied_with",
+   "detail": "Embassy-funded Sesame Street radio content aligned with the Ministry of Education's early childhood framework.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.35",
+   "quote": "aligned wrth the Ministry• of Educarion·s early childhood educational framework."
+  },
+  {
+   "source": "U.S. Department of Defense",
+   "target": "Task Force for Business and Stability Operations",
+   "type": "leads",
+   "detail": "DOD expanded its Iraq TFBSO to Afghanistan in 2009 to jumpstart the Afghan economy.",
+   "date": "2009",
+   "confidence": "stated",
+   "timestamp": "p.17",
+   "quote": "in 2009 DOD expanded its Iraq Task Force for Business and Stability Operations (“TFBSO”) to Afghanistan."
+  },
+  {
+   "source": "Task Force for Business and Stability Operations",
+   "target": "Sheberghan",
+   "type": "located_in",
+   "detail": "TFBSO built a compressed natural gas station in Sheberghan.",
+   "confidence": "stated",
+   "timestamp": "p.17",
+   "quote": "TFBSO spent millions to construct a compressed natural gas station in Sheberghan, Afghanistan"
+  },
+  {
+   "source": "Sheberghan",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Sheberghan is in Afghanistan.",
+   "confidence": "stated",
+   "timestamp": "p.17",
+   "quote": "compressed natural gas station in Sheberghan, Afghanistan"
+  },
+  {
+   "source": "Task Force for Business and Stability Operations",
+   "target": "Iraq",
+   "type": "located_in",
+   "detail": "TFBSO originally operated in Iraq before expansion to Afghanistan.",
+   "confidence": "stated",
+   "timestamp": "p.17",
+   "quote": "DOD expanded its Iraq Task Force for Business and Stability Operations (“TFBSO”) to Afghanistan."
+  },
+  {
+   "source": "U.S. Department of Defense",
+   "target": "USAID",
+   "type": "rival_of",
+   "detail": "DOD, frustrated with USAID's slow development, launched its own economic effort.",
+   "date": "2009",
+   "confidence": "inferred",
+   "timestamp": "p.17",
+   "quote": "Frustrated by the belief that USAID’s development efforts would not bring significant economic benefit to Afghanistan quickly enough"
+  },
+  {
+   "source": "U.S. Department of State",
+   "target": "U.S. Department of Defense",
+   "type": "other",
+   "detail": "Both State and DOD were ill-prepared to rebuild the Afghan police; State lacked expertise, the military lacked civilian police training expertise.",
+   "confidence": "stated",
+   "timestamp": "p.16",
+   "quote": "efforts to rebuild the Afghan police—a job that neither State nor DOD was fully prepared to do."
+  },
+  {
+   "source": "U.S. Department of Defense",
+   "target": "U.S. Department of State",
+   "type": "other",
+   "detail": "A peace deal would require transferring management of about $4 billion/year in security assistance from DOD to State.",
+   "confidence": "stated",
+   "timestamp": "p.18",
+   "quote": "transferring the management of security-related assistance from DOD to State leadership."
+  },
+  {
+   "source": "U.S. Congress",
+   "target": "SIGAR",
+   "type": "other",
+   "detail": "SIGAR believes Congress should designate a single agency in charge of reconstruction and mandate pre-deployment training.",
+   "confidence": "stated",
+   "timestamp": "p.17",
+   "quote": "SIGAR believes that Congress needs to review this tangled web of conflicting priorities and authorities"
+  },
+  {
+   "source": "Taliban",
+   "target": "U.S. Department of Defense",
+   "type": "other",
+   "detail": "US-aligned warlords' abuses drove Afghans toward the resurgent Taliban; peace negotiations with the Taliban are ongoing.",
+   "confidence": "inferred",
+   "timestamp": "p.16",
+   "quote": "the abuses committed by coalition-aligned warlords drove many Afghans into the arms of the resurgent Taliban."
+  },
+  {
+   "source": "U.S. Department of State",
+   "target": "Taliban",
+   "type": "negotiated_with",
+   "detail": "Ongoing peace negotiations between the United States and the Taliban are referenced.",
+   "confidence": "stated",
+   "timestamp": "p.18",
+   "quote": "In light of the ongoing peace negotiations... after the United States reaches a peace deal with the Taliban."
+  },
+  {
+   "source": "John Sopko",
+   "target": "SIGAR",
+   "type": "leads",
+   "detail": "Sopko assumed his current post as SIGAR head in 2012.",
+   "date": "2012",
+   "confidence": "stated",
+   "timestamp": "p.17",
+   "quote": "I assumed my current post in 2012."
+  },
+  {
+   "source": "SIGAR",
+   "target": "Taliban",
+   "type": "other",
+   "detail": "SIGAR notes reintegration of an estimated 60,000 Taliban fighters is a risk after a peace deal.",
+   "confidence": "stated",
+   "timestamp": "p.18",
+   "quote": "reintegrating an estimated 60,000 Taliban fighters, their families, and other illegal armed groups into civil society."
+  },
+  {
+   "source": "SIGAR",
+   "target": "John F. Kerry",
+   "type": "other",
+   "detail": "SIGAR (Sopko) formally requested from Secretary of State Kerry a list of the ten most and ten least successful State-funded reconstruction projects.",
+   "date": "2013-03-25",
+   "confidence": "stated",
+   "timestamp": "p.21",
+   "quote": "I formally request that you provide: a list of the ten Afghanistan reconstruction projects/programs funded and deemed most successful by the Department of State"
+  },
+  {
+   "source": "Monica Brym",
+   "target": "SIGAR",
+   "type": "member_of",
+   "detail": "Brym is SIGAR Director of Special Projects and the contact for responses.",
+   "confidence": "stated",
+   "timestamp": "p.21",
+   "quote": "Monica Brym. SIGAR Director of Special Projects"
+  },
+  {
+   "source": "James B. Cunningham",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Cunningham is U.S. Ambassador to Afghanistan, copied on the Kerry letter.",
+   "confidence": "stated",
+   "timestamp": "p.21",
+   "quote": "The Honorable James B. Cunningham. U.S. Ambassador to Afghanistan"
+  },
+  {
+   "source": "SIGAR",
+   "target": "USAID",
+   "type": "other",
+   "detail": "SIGAR requested from USAID Administrator Rajiv Shah a list of ten most and ten least successful USAID projects.",
+   "date": "2013-03-25",
+   "confidence": "stated",
+   "timestamp": "p.22",
+   "quote": "a list of the ten Afghanistan reconstruction projects/programs funded and deemed most successful by USAID"
+  },
+  {
+   "source": "SIGAR",
+   "target": "U.S. Department of Defense",
+   "type": "other",
+   "detail": "SIGAR requested from Secretary of Defense Hagel a list of ten most and ten least successful DoD projects.",
+   "date": "2013-03-25",
+   "confidence": "stated",
+   "timestamp": "p.23",
+   "quote": "a list of the ten Afghanistan reconstruction projects/programs funded and deemed least successful by the Department of Defense"
+  },
+  {
+   "source": "Joseph F. Dunford, Jr.",
+   "target": "U.S. Forces-Afghanistan",
+   "type": "leads",
+   "detail": "Dunford was Commander of USFOR-A.",
+   "confidence": "stated",
+   "timestamp": "p.23",
+   "quote": "General Joseph F. Dunford, Jr., Commander, U.S. Forces-Afghanistan, and Commander, International Security Assistance Force"
+  },
+  {
+   "source": "Joseph F. Dunford, Jr.",
+   "target": "International Security Assistance Force",
+   "type": "leads",
+   "detail": "Dunford was also ISAF commander.",
+   "confidence": "stated",
+   "timestamp": "p.23",
+   "quote": "Commander, International Security Assistance Force"
+  },
+  {
+   "source": "James N. Mattis",
+   "target": "U.S. Central Command",
+   "type": "leads",
+   "detail": "Mattis was Commander of CENTCOM.",
+   "confidence": "stated",
+   "timestamp": "p.23",
+   "quote": "General James N. Mattis Commander, U.S. Central Command"
+  },
+  {
+   "source": "Daniel Feldman",
+   "target": "U.S. Department of State",
+   "type": "member_of",
+   "detail": "Feldman was Deputy Special Representative for Afghanistan and Pakistan; designee responding for State.",
+   "confidence": "stated",
+   "timestamp": "p.24",
+   "quote": "Mr. Daniel Feldman. Deputy Special Representative for Afghanistan and Pakistan"
+  },
+  {
+   "source": "J. Alexander Thier",
+   "target": "USAID",
+   "type": "member_of",
+   "detail": "Thier was Assistant to the Administrator for Afghanistan and Pakistan.",
+   "confidence": "stated",
+   "timestamp": "p.24",
+   "quote": "Mr. J. Alexander Thier, Assistant to the Administrator for Afghanistan and Pakistan"
+  },
+  {
+   "source": "Mike Dumont",
+   "target": "U.S. Department of Defense",
+   "type": "member_of",
+   "detail": "Dumont was Deputy Assistant Secretary of Defense for Asian and Pacific Affairs.",
+   "confidence": "stated",
+   "timestamp": "p.24",
+   "quote": "Mr. Mike Dumont. Deputy Assistant Secretary of Defense for Asian and Pacific Affairs"
+  },
+  {
+   "source": "Office of Management and Budget",
+   "target": "U.S. Department of State",
+   "type": "other",
+   "detail": "OMB issued guidance on evidence and evaluation to executive agencies.",
+   "date": "2012-05",
+   "confidence": "inferred",
+   "timestamp": "p.24",
+   "quote": "In May 2012, the Office of Management and Budget issued a memorandum on \"Use of Evidence and Evaluation in the 2014 Budget.\""
+  },
+  {
+   "source": "William B. Caldwell IV",
+   "target": "U.S. Congress",
+   "type": "other",
+   "detail": "Caldwell gave a statement before a House subcommittee hearing on 12 Sep 2012; the cited statement concerns Afghan teacher qualifications.",
+   "date": "2012-09-12",
+   "confidence": "stated",
+   "timestamp": "p.31",
+   "quote": "Statement of Lt Gen Willlaori 8. Caldwell IV. Commande1. United states AfmY North Fifth Army, before the U S House Subcommittee"
+  },
+  {
+   "source": "Jarrett Blanc",
+   "target": "John F. Sopko",
+   "type": "other",
+   "detail": "Blanc wrote to Sopko on behalf of State, replying to SIGAR's request about the most and least successful projects.",
+   "date": "2013-08-05",
+   "confidence": "stated",
+   "timestamp": "p.33",
+   "quote": "Jarrctt Blanc Deputy Special Representative for Afghanistan nnd Pakistan"
+  },
+  {
+   "source": "Jarrett Blanc",
+   "target": "U.S. Department of State",
+   "type": "member_of",
+   "detail": "Blanc signed as Deputy Special Representative for Afghanistan and Pakistan at the State Department.",
+   "confidence": "inferred",
+   "timestamp": "p.33",
+   "quote": "Deputy Special Representative for Afghanistan nnd Pakistan"
+  },
+  {
+   "source": "SIGAR",
+   "target": "U.S. Department of State",
+   "type": "other",
+   "detail": "SIGAR requested the top most and least successful projects from State, USAID and DoD.",
+   "date": "2013-03-25",
+   "confidence": "stated",
+   "timestamp": "p.34",
+   "quote": "SIGAR Letter to the Department of State. llSAID and Department of Defense Requesting Top Most Successful and Least Successful Projects"
+  },
+  {
+   "source": "USAID",
+   "target": "Afghan Ministry of Education",
+   "type": "allied_with",
+   "detail": "US-funded radio content was aligned with the Ministry of Education's early childhood framework.",
+   "confidence": "inferred",
+   "timestamp": "p.35",
+   "quote": "Each show includes original mnlent that is alignea wrth the Ministry• of Educarion·s early childhood educational framework."
+  },
+  {
+   "source": "U.S. Department of State",
+   "target": "Afghan Ministry of Public Health",
+   "type": "funded_by",
+   "detail": "The Ministry of Public Health rebuilt the health system with substantial US and donor support.",
+   "confidence": "stated",
+   "timestamp": "p.35",
+   "quote": "With substantial suppon from the United Stares and other donors, access to basic b~lth services"
+  },
+  {
+   "source": "Afghan Ministry of Public Health",
+   "target": "Taliban",
+   "type": "other",
+   "detail": "The ministry has rebuilt the health system since the Taliban were displaced.",
+   "confidence": "stated",
+   "timestamp": "p.35",
+   "quote": "since the displacement orlhe Taliban, the Af&ha,n Ministry of Public Health has been successful in rebuilding lbe healthcare syStem"
+  },
+  {
+   "source": "Government of Afghanistan",
+   "target": "Beijing",
+   "type": "other",
+   "detail": "The Chinese government sponsored the first phase of joint training for Afghan diplomats in Beijing.",
+   "date": "2012-05",
+   "confidence": "stated",
+   "timestamp": "p.35",
+   "quote": "the 6rs1 phase was sponsored by the Govenunent of China and took place in Beijing in May."
+  },
+  {
+   "source": "John Sopko",
+   "target": "SIGAR",
+   "type": "leads",
+   "detail": "The letter is signed by the Special Inspector General for Afghanistan Reconstruction, the head of SIGAR (signature block).",
+   "date": "2013-03",
+   "confidence": "inferred",
+   "timestamp": "p.30",
+   "quote": "Special Inspector General for Afghanistan Reconstruction"
+  },
+  {
+   "source": "SIGAR",
+   "target": "U.S. Congress",
+   "type": "reports_to",
+   "detail": "SIGAR states it will keep Congress and the implementing agencies fully informed about reconstruction progress.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.30",
+   "quote": "SIGAR will continue to make every effort to see that Congress and the implementing agencies are fully informed"
+  },
+  {
+   "source": "James B. Cunningham",
+   "target": "U.S. Department of State",
+   "type": "member_of",
+   "detail": "Cunningham is copied on the letter as U.S. Ambassador to Afghanistan, a State Department post.",
+   "date": "2013",
+   "confidence": "inferred",
+   "timestamp": "p.30",
+   "quote": "cc The Honorable James B Cunningham, U S Ambassado1 to Atghan1stB11"
+  },
+  {
+   "source": "James B. Cunningham",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Cunningham served as the U.S. Ambassador to Afghanistan.",
+   "date": "2013",
+   "confidence": "stated",
+   "timestamp": "p.30",
+   "quote": "The Honorable James B Cunningham, U S Ambassado1 to Atghan1stB11"
+  },
+  {
+   "source": "State Department Office of Inspector General",
+   "target": "Bureau of Administration, Office of Logistics Management, Office of Acquisitions Management",
+   "type": "other",
+   "detail": "The State OIG audited A/LM/AQM and found its performance metrics did not tie to the goals in its Business Plan.",
+   "date": "2013-05",
+   "confidence": "stated",
+   "timestamp": "p.28",
+   "quote": "A/LM/AQM was tracking some metrics to assess program performance However, these performance metrics also generally did not tie to the goals in the Business Plan"
+  },
+  {
+   "source": "Bureau of Administration, Office of Logistics Management, Office of Acquisitions Management",
+   "target": "U.S. Department of State",
+   "type": "member_of",
+   "detail": "A/LM/AQM provides procurement services to the Department of State.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.28",
+   "quote": "providing consistent and improved procurement services to the Department"
+  },
+  {
+   "source": "Government Accountability Office",
+   "target": "Department of Defense",
+   "type": "other",
+   "detail": "GAO has kept DOD contract management on its High-Risk List since 1992.",
+   "date": "1992",
+   "confidence": "stated",
+   "timestamp": "p.28",
+   "quote": "GAO has been carrying DOD contract management on its High-Risk list since 1992"
+  },
+  {
+   "source": "Department of Defense Inspector General",
+   "target": "Department of Defense",
+   "type": "other",
+   "detail": "The DOD IG audited military construction in Afghanistan and found Air Force construction-management officials did not develop a formal process to monitor contractor work quality on four projects valued at $36.9 million.",
+   "date": "2013-03-05",
+   "confidence": "stated",
+   "timestamp": "p.28",
+   "quote": "did not develop a formal process to monitor, assess, and document the quality of work performed by contractor personnel for four projects valued at $36.9 million"
+  },
+  {
+   "source": "SIGAR",
+   "target": "Government Accountability Office",
+   "type": "allied_with",
+   "detail": "SIGAR cites its work alongside GAO and agency IGs as a large body of oversight work identifying systematic weaknesses.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.28",
+   "quote": "The large body of work by SIGAR, GAO, and your agency Inspectors General"
+  },
+  {
+   "source": "Afghan Ministry of Public Health",
+   "target": "USAID",
+   "type": "funded_by",
+   "detail": "The USAID OIG audited USAID/Afghanistan's on-budget funding assistance to the Ministry of Public Health supporting the Partnership Contracts for Health Services program.",
+   "date": "2011-09-29",
+   "confidence": "stated",
+   "timestamp": "p.30",
+   "quote": "Audit Of USAID/Afghanistan's On-Budget Funding Assistance to the Ministry of Public Health in Support of the Partnership Contracts for Health Services Program"
+  },
+  {
+   "source": "USAID Office of Inspector General",
+   "target": "USAID",
+   "type": "other",
+   "detail": "USAID OIG audited USAID/Afghanistan programs, including the Incentives Driving Economic Alternatives for the North, East, and West program.",
+   "date": "2012-06-29",
+   "confidence": "stated",
+   "timestamp": "p.31",
+   "quote": "USAID OIG Audit Of USAID/Afghanistan's Incentives Driving Economic Alternatives for the North, East, and West Program Audit Report F-306-12-004-P June 29, 2012"
+  },
+  {
+   "source": "William B. Caldwell IV",
+   "target": "U.S. House Committee on Foreign Affairs",
+   "type": "other",
+   "detail": "Caldwell gave a statement on Sept 12, 2012 before a U.S. House Subcommittee on National Security, Homeland Defense and Foreign Operations (not the Foreign Affairs Committee; weak link).",
+   "date": "2012-09-12",
+   "confidence": "inferred",
+   "timestamp": "p.31",
+   "quote": "Statement of Lt Gen William B. Caldwell IV, Commander, United States Army North Fifth Army, before the U.S. House Subcommittee on National Security, Homeland Defense and Foreign Operations, hearing Sept 12, 2012."
+  },
+  {
+   "source": "Afghan Ministry of Education",
+   "target": "World Bank",
+   "type": "other",
+   "detail": "The World Bank report discusses deteriorating education infrastructure, weak teacher qualifications and lack of curriculum standards in the Afghan education system.",
+   "date": "2012-05",
+   "confidence": "inferred",
+   "timestamp": "p.30",
+   "quote": "The World Bank report further notes that the lack of operations and maintenance funds has caused education infrastructure to deteriorate"
+  },
+  {
+   "source": "Taliban",
+   "target": "Government of Afghanistan",
+   "type": "rival_of",
+   "detail": "The report says a peace agreement between the Afghan government and the Taliban would be a precondition for a reintegration program.",
+   "confidence": "inferred",
+   "timestamp": "p.13",
+   "quote": "the Afghan government and the Taliban sign a peace agreement that provides a framework for reintegration of ex-combatants"
+  },
+  {
+   "source": "Government of Afghanistan",
+   "target": "Taliban",
+   "type": "negotiated_with",
+   "detail": "Condition for reintegration support is a peace agreement between the Afghan government and the Taliban; an intra-Afghan peace deal is referenced as a future outcome.",
+   "confidence": "inferred",
+   "timestamp": "p.13",
+   "quote": "some recommendations rely on outcomes that have not yet happened, such as an intra-Afghan peace deal."
+  },
+  {
+   "source": "NATO Stability Police Center of Excellence",
+   "target": "SIGAR",
+   "type": "other",
+   "detail": "The Center cited SIGAR's Reconstructing the ANDSF report in its Joint Analysis Report.",
+   "date": "2018",
+   "confidence": "stated",
+   "timestamp": "p.14",
+   "quote": "the report was cited by the NATO Stability Police Center of Excellence in its Joint Analysis Report."
+  },
+  {
+   "source": "Todd Young",
+   "target": "Mike Pompeo",
+   "type": "other",
+   "detail": "Senator Young asked Pompeo to respond in writing on which SIGAR report recommendations he would implement.",
+   "confidence": "stated",
+   "timestamp": "p.14",
+   "quote": "Senator Todd Young asked him to respond in writing indicating which of the report’s recommendations he would implement."
+  },
+  {
+   "source": "Joseph Dunford",
+   "target": "US Joint Chiefs of Staff",
+   "type": "leads",
+   "detail": "Dunford was Chairman of the Joint Chiefs of Staff.",
+   "confidence": "stated",
+   "timestamp": "p.14",
+   "quote": "convened by the Chairman of the Joint Chiefs of Staff, General Joseph Dunford"
+  },
+  {
+   "source": "SIGAR",
+   "target": "Joseph Dunford",
+   "type": "met_with",
+   "detail": "SIGAR Lessons Learned staff participated in a multiday session convened by Dunford on reconstruction in Afghanistan.",
+   "confidence": "stated",
+   "timestamp": "p.14",
+   "quote": "participated in a multiday session convened by the Chairman of the Joint Chiefs of Staff, General Joseph Dunford, on reconstruction-related activities in Afghanistan."
+  },
+  {
+   "source": "SIGAR",
+   "target": "US Central Command",
+   "type": "other",
+   "detail": "SIGAR staff briefed the Commander of U.S. Central Command on the ANDSF report.",
+   "confidence": "stated",
+   "timestamp": "p.14",
+   "quote": "have given briefings on Reconstructing the Afghan National Defense and Security Forces to the Commander of U.S. Central Command"
+  },
+  {
+   "source": "SIGAR",
+   "target": "Combined Security Transition Command – Afghanistan",
+   "type": "other",
+   "detail": "SIGAR staff briefed the CSTC-A Commander on the ANDSF report.",
+   "confidence": "stated",
+   "timestamp": "p.14",
+   "quote": "the Commander of the Combined Security Transition Command – Afghanistan, and multiple U.S. general officers in Afghanistan"
+  },
+  {
+   "source": "SIGAR",
+   "target": "National Security Council",
+   "type": "other",
+   "detail": "SIGAR staff briefed National Security Council staff.",
+   "confidence": "stated",
+   "timestamp": "p.14",
+   "quote": "the Commandant of the U.S. Marine Corps, National Security Council staff"
+  },
+  {
+   "source": "SIGAR",
+   "target": "USAID",
+   "type": "other",
+   "detail": "SIGAR analysts briefed high-ranking USAID officials on the Stabilization report.",
+   "confidence": "stated",
+   "timestamp": "p.14",
+   "quote": "and high-ranking officials at USAID."
+  },
+  {
+   "source": "SIGAR",
+   "target": "U.S. Department of State",
+   "type": "other",
+   "detail": "SIGAR briefed State Department Bureau for Near Eastern Affairs officials responsible for stabilization in Syria.",
+   "confidence": "stated",
+   "timestamp": "p.14",
+   "quote": "senior officials responsible for stabilization in Syria at the U.S. State Department’s Bureau for Near Eastern Affairs"
+  },
+  {
+   "source": "U.S. Department of State",
+   "target": "Syria",
+   "type": "located_in",
+   "detail": "State Department officials were responsible for stabilization in Syria.",
+   "confidence": "inferred",
+   "timestamp": "p.14",
+   "quote": "senior officials responsible for stabilization in Syria at the U.S. State Department’s Bureau for Near Eastern Affairs"
+  },
+  {
+   "source": "SIGAR",
+   "target": "U.S. Congress",
+   "type": "reports_to",
+   "detail": "SIGAR states its office is charged by Congress with leading, coordinating and recommending policies for reconstruction oversight.",
+   "date": "2013-03",
+   "confidence": "stated",
+   "timestamp": "p.21",
+   "quote": "my omce is charged by Congress with ll1e responsibility for leading, coordinating, and recommending policies ro promote economy, efficiency, and effeclivene s of progTarns"
+  },
+  {
+   "source": "John F. Kerry",
+   "target": "U.S. Department of State",
+   "type": "leads",
+   "detail": "Kerry is addressed as Secretary of State.",
+   "date": "2013-03",
+   "confidence": "stated",
+   "timestamp": "p.21",
+   "quote": "The Honorable John F. Ke.rry . Secretary of State"
+  },
+  {
+   "source": "James B. Cunningham",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Cunningham is listed as U.S. Ambassador to Afghanistan, copied on the letter.",
+   "date": "2013-03",
+   "confidence": "stated",
+   "timestamp": "p.21",
+   "quote": "The Honorable James B. Cunningham. U.S. mbassador to Afghani tan"
+  },
+  {
+   "source": "Monica Brym",
+   "target": "SIGAR",
+   "type": "member_of",
+   "detail": "Brym is SIGAR Director of Special Projects and the point of contact for the response.",
+   "date": "2013-03",
+   "confidence": "stated",
+   "timestamp": "p.21",
+   "quote": "Monica Brym. SIGAR Director of Special Projects"
+  },
+  {
+   "source": "SIGAR",
+   "target": "U.S. Department of State",
+   "type": "other",
+   "detail": "SIGAR requested that State list its ten most and ten least successful Afghanistan reconstruction projects and explain the evaluation criteria.",
+   "date": "2013-03",
+   "confidence": "stated",
+   "timestamp": "p.21",
+   "quote": "a li. t of1he ten Afghanistan reconstruction projects/pr grams funded and deemed mosr successful b) the Department of State"
+  },
+  {
+   "source": "SIGAR",
+   "target": "U.S. Department of Defense",
+   "type": "other",
+   "detail": "SIGAR's 2013 request for best- and worst-performing projects was also sent to DOD, and the responses were ambiguous.",
+   "date": "2013",
+   "confidence": "stated",
+   "timestamp": "p.19",
+   "quote": "The ambiguous responses to SIGAR’s 2013 request of DOD, State, and USAID that they identify their best- and worst-performing projects"
+  },
+  {
+   "source": "SIGAR",
+   "target": "USAID",
+   "type": "other",
+   "detail": "SIGAR's 2013 request for best- and worst-performing projects was also sent to USAID, and the responses were ambiguous.",
+   "date": "2013",
+   "confidence": "stated",
+   "timestamp": "p.19",
+   "quote": "The ambiguous responses to SIGAR’s 2013 request of DOD, State, and USAID"
+  },
+  {
+   "source": "U.S. Department of Defense",
+   "target": "Afghanistan",
+   "type": "funded_by",
+   "detail": "DOD manages about $4 billion per year in security sector assistance to Afghanistan, to be transferred to State in a drawdown scenario.",
+   "confidence": "stated",
+   "timestamp": "p.18",
+   "quote": "DOD manages some $4 billion per year in security sector assistance to Afghanistan, and State is wholly unprepared"
+  },
+  {
+   "source": "Taliban",
+   "target": "Afghanistan",
+   "type": "negotiated_with",
+   "detail": "Peace negotiations with the Taliban are ongoing, and a peace deal would entail dramatic reductions of U.S. forces.",
+   "date": "2020-01",
+   "confidence": "inferred",
+   "timestamp": "p.18",
+   "quote": "what happens after the United States reaches a peace deal with the Taliban"
+  },
+  {
+   "source": "U.S. Department of State",
+   "target": "SIGAR",
+   "type": "other",
+   "detail": "In December 2019 State told SIGAR the anticorruption strategy was still under development.",
+   "date": "2019-12",
+   "confidence": "stated",
+   "timestamp": "p.20",
+   "quote": "In December 2019, State told SIGAR that the strategy \"is still under development.\""
+  },
+  {
+   "source": "USAID",
+   "target": "Da Afghanistan Breshna Sherkat",
+   "type": "other",
+   "detail": "USAID assistance focused on making the Afghan national power company (DABS) self-sustaining through increased revenue collection and efficiency.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.37",
+   "quote": "focused on making lbe Afghan national power corrrpany <OABS) selt: SUStaiaing through increased revenue collectio.n and increased efficiency."
+  },
+  {
+   "source": "Bureau of International Narcotics and Law Enforcement (INL)",
+   "target": "General Directorate of Prisons and Detention Centers",
+   "type": "trained_by",
+   "detail": "GDPDC was assisted and trained via INL's implementing partner and Corrections System Support Program; INL is the provider.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.37",
+   "quote": "assisted the General Directorate of Prisons and Detention C--enters (ODPDC') ill improving its ca~bilicy 10 operaJi.! safe. secu.\"e. and humane Afghan currectional facilities."
+  },
+  {
+   "source": "Bureau of International Narcotics and Law Enforcement (INL)",
+   "target": "General Directorate of Prisons and Detention Centers",
+   "type": "other",
+   "detail": "INL's CSSP advisors trained 8,000 corrections officers since 2006 and transferred 90 percent of corrections training to the Afghan government.",
+   "date": "2006",
+   "confidence": "stated",
+   "timestamp": "p.37",
+   "quote": "CSSf> adviso.s have trained 8.000 corrections officers since 2006, under ti&.orous oversight from INL's program managers"
+  },
+  {
+   "source": "U.S. Department of State",
+   "target": "Justice Center in Parwan",
+   "type": "other",
+   "detail": "State Department works with and supports the Justice Center in Parwan, which trains and supports Afghan judicial sector actors.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.37",
+   "quote": "through the State Department's work wilh the Jus,ice Center in Parwao. (..JCIP)."
+  },
+  {
+   "source": "Justice Center in Parwan",
+   "target": "National Directorate of Security",
+   "type": "member_of",
+   "detail": "JCIP is a partnership including the National Directorate of Security.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.37",
+   "quote": "Ministr)• of Defense, with support from Combined 1oi.nt [nteragem:y Task Fqrce 435"
+  },
+  {
+   "source": "Justice Center in Parwan",
+   "target": "Ministry of Defense",
+   "type": "member_of",
+   "detail": "Ministry of Defense is a partner in the JCIP.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.37",
+   "quote": "National Directorate of Security and Ministr)• of Defense"
+  },
+  {
+   "source": "Justice Center in Parwan",
+   "target": "Ministry of Interior",
+   "type": "member_of",
+   "detail": "Ministry of the Interior is a JCIP partner.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.37",
+   "quote": "Ministry nftbe !nterior. National Directorate of Security"
+  },
+  {
+   "source": "Bureau of International Narcotics and Law Enforcement (INL)",
+   "target": "Justice Center in Parwan",
+   "type": "trained_by",
+   "detail": "INL provides training, mentoring and operational support to nearly 100 Afghan legal professionals at JCIP.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.37",
+   "quote": "[NL provides fonnal training, dai~y l'Jlcntoring, and operatiooal support to nearly 100 Afghan judges."
+  },
+  {
+   "source": "Anti-Terrorism Assistance (ATA) program",
+   "target": "Presidential Protective Service",
+   "type": "trained_by",
+   "detail": "ATA program built the PPS and provides training, equipment and mentorship to PPS officers.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.38",
+   "quote": "ATA program bas provided training, equipmt:nt and menlorship to several buudredPPS officers at the unit's camp facility."
+  },
+  {
+   "source": "Anti-Terrorism Assistance (ATA) program",
+   "target": "U.S. Department of State",
+   "type": "member_of",
+   "detail": "ATA is a Department of State program.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.38",
+   "quote": "The Department of State's Anti-Terrorism Assistance (ATA) program has built and ~eveloped the Presidential Protective Service"
+  },
+  {
+   "source": "USAID",
+   "target": "U.S. Department of State",
+   "type": "allied_with",
+   "detail": "USAID and State work together on rule of law and counter-narcotics.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.38",
+   "quote": "USAID and the Department of State work together in several areas."
+  },
+  {
+   "source": "Rajiv Shah",
+   "target": "USAID",
+   "type": "leads",
+   "detail": "Administrator Shah issued Sustainability Guidance for USAID programs.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.39",
+   "quote": "Administrator Shah issued Sustainability Guidance to ensure that every USAID program supports increased Afghan ownership."
+  },
+  {
+   "source": "USAID",
+   "target": "U.S. Forces-Afghanistan",
+   "type": "allied_with",
+   "detail": "USAID and State establish a joint committee with USFOR-A and ISAF on contractor vetting and corruption.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.39",
+   "quote": "establishfall a joint committee with U.S. Forces-Afghanistan and TSAF on contractor vetting and corruption,"
+  },
+  {
+   "source": "USAID",
+   "target": "ISAF",
+   "type": "allied_with",
+   "detail": "USAID works closely with ISAF counterparts on award mechanisms and oversight.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.39",
+   "quote": "working closely \\ltith our Afghan and ISAF counterparts."
+  },
+  {
+   "source": "USAID",
+   "target": "Government Accountability Office",
+   "type": "other",
+   "detail": "USAID works with independent oversight entities including GAO.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.39",
+   "quote": "the State and USAfD Offices of the inspectors General and the li.S. Government Accountability Office"
+  },
+  {
+   "source": "Afghan National Security Forces",
+   "target": "Ministry of Defense",
+   "type": "member_of",
+   "detail": "The ANSF's force structure and sustainment are described as covering the Ministries of Defense and Interior.",
+   "confidence": "inferred",
+   "timestamp": "p.45",
+   "quote": "The Ministries of Defense and Interior must have the capacity to organize, resource, train, and sustain their forces"
+  },
+  {
+   "source": "U.S. Army Corps of Engineers",
+   "target": "Afghan National Security Forces",
+   "type": "other",
+   "detail": "USACE provides facility maintenance and training for up to six months after construction completes, as a bridging strategy while Afghan engineers build capability.",
+   "confidence": "stated",
+   "timestamp": "p.46",
+   "quote": "USACE) provides facility maintenance and training for a period of up to six months following construction completion"
+  },
+  {
+   "source": "Commander's Emergency Response Fund",
+   "target": "Afghan Ministry of Education",
+   "type": "funded_by",
+   "detail": "CERP funded Farah schools that are staffed and maintained by the Afghan Ministry of Education (direction approximate: the funded party is the ministry's schools).",
+   "confidence": "inferred",
+   "timestamp": "p.46",
+   "quote": "schools were built in Farah province over the past few years and are successfully staffed and maintained by the Afghan ministry of education"
+  },
+  {
+   "source": "Zehken Girls School",
+   "target": "Anar Dara",
+   "type": "located_in",
+   "detail": "The girls school is in the northwestern district of Anar Dara in Farah province.",
+   "confidence": "stated",
+   "timestamp": "p.46",
+   "quote": "northwestern district of Anar Dara in Farah province was completed in July of 2009"
+  },
+  {
+   "source": "Anar Dara",
+   "target": "Farah",
+   "type": "located_in",
+   "detail": "Anar Dara is a district of Farah province.",
+   "confidence": "stated",
+   "timestamp": "p.46",
+   "quote": "district of Anar Dara in Farah province"
+  },
+  {
+   "source": "Lash Juwain",
+   "target": "Farah",
+   "type": "located_in",
+   "detail": "Lash Juwain is a southwestern district of Farah province (inferred from CERP Farah project discussion).",
+   "confidence": "inferred",
+   "timestamp": "p.46",
+   "quote": "Lash Juwain High School"
+  },
+  {
+   "source": "Runaakha Girls School",
+   "target": "Farah City",
+   "type": "located_in",
+   "detail": "The girls' school was built in the First District of Farah City.",
+   "confidence": "stated",
+   "timestamp": "p.47",
+   "quote": "built in the First District of Farah City in 2006"
+  },
+  {
+   "source": "Department of Defense",
+   "target": "Mazar-e-Sharif",
+   "type": "other",
+   "detail": "DoD funded desks and chairs for students in Mazar-e-Sharif.",
+   "date": "2013-Q1",
+   "confidence": "stated",
+   "timestamp": "p.47",
+   "quote": "the DoD funded the procurement and delivery of desks and chairs for students in Mazar-e-Sharif"
+  },
+  {
+   "source": "Department of Defense",
+   "target": "Shindand",
+   "type": "other",
+   "detail": "DoD completed construction of a small district hospital in Shindand.",
+   "confidence": "stated",
+   "timestamp": "p.47",
+   "quote": "recently completed the construction of a small district hospital in Shindand"
+  },
+  {
+   "source": "Commander's Emergency Response Fund",
+   "target": "Kandahar",
+   "type": "funded_by",
+   "detail": "The Kandahar Bridging Solution was initiated through CERP and maintained with the Afghanistan Infrastructure Fund.",
+   "confidence": "stated",
+   "timestamp": "p.47",
+   "quote": "The Kandahar Bridging Solution, initiated through CERP, and maintained with the Afghanistan Infrastructure fund"
+  },
+  {
+   "source": "Afghanistan Infrastructure Fund",
+   "target": "Nawa",
+   "type": "funded_by",
+   "detail": "The Nawa to Lashkar Gah road paving project was funded by the Afghanistan Infrastructure Fund.",
+   "confidence": "stated",
+   "timestamp": "p.47",
+   "quote": "Nawa to Lashkar Gah road paving project in the southwest, funded by the Afghanistan Infrastructure Fund"
+  },
+  {
+   "source": "Nawa",
+   "target": "Lashkar Gah",
+   "type": "other",
+   "detail": "A paved road links Nawa with provincial capital Lashkar Gah.",
+   "confidence": "stated",
+   "timestamp": "p.47",
+   "quote": "provides an important link between Nawa and the provincial capital of Lashkar Gah"
+  },
+  {
+   "source": "Shorandam Industrial Park",
+   "target": "Kandahar",
+   "type": "located_in",
+   "detail": "Shorandam Industrial Park is powered through the Kandahar Bridging Solution, in the Kandahar area.",
+   "confidence": "inferred",
+   "timestamp": "p.47",
+   "quote": "roughly 66 factories in Shorandam with the additional power made available through the Kandahar Bridging Solution"
+  },
+  {
+   "source": "International Security Assistance Force",
+   "target": "Afghan National Security Forces",
+   "type": "trained_by",
+   "detail": "ISAF Security Force Assistance Teams train, advise and assist the ANSF.",
+   "confidence": "stated",
+   "timestamp": "p.45",
+   "quote": "Through the ISAF Security Force Assistance Team (SFAT) concept of train, advise, and assist"
+  },
+  {
+   "source": "SIGAR",
+   "target": "Task Force for Business and Stability Operations",
+   "type": "other",
+   "detail": "SIGAR's Office of Special Projects examined the programs of the Task Force, which prompted a Lessons Learned report on Private Sector Development.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "its examination of programs run by DOD’s now-defunct Task Force for Business and Stability Operations was a major impetus for the Lessons Learned Program report"
+  },
+  {
+   "source": "Task Force for Business and Stability Operations",
+   "target": "U.S. Department of Defense",
+   "type": "member_of",
+   "detail": "The Task Force is described as a DOD program that is now defunct.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "programs run by DOD’s now-defunct Task Force for Business and Stability Operations"
+  },
+  {
+   "source": "SIGAR",
+   "target": "USAID Office of Inspector General",
+   "type": "other",
+   "detail": "SIGAR has more auditors, inspectors and engineers in Afghanistan than USAID OIG, State OIG and DOD OIG combined (comparison).",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "more auditors, inspectors, and engineers on the ground in Afghanistan than USAID OIG, State OIG, and DOD OIG combined"
+  },
+  {
+   "source": "SIGAR",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "SIGAR has auditors, inspectors, engineers and investigators on the ground in Afghanistan.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "SIGAR has more investigators on the ground in Afghanistan than any other oversight agency."
+  },
+  {
+   "source": "SIGAR",
+   "target": "Drug Enforcement Administration",
+   "type": "allied_with",
+   "detail": "SIGAR investigators regularly work with other law enforcement bodies including the DEA.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "Our investigators regularly work with other law enforcement organizations, including other IG offices, the Drug Enforcement Administration, the FBI"
+  },
+  {
+   "source": "SIGAR",
+   "target": "FBI",
+   "type": "allied_with",
+   "detail": "SIGAR investigators regularly work with the FBI.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "including other IG offices, the Drug Enforcement Administration, the FBI, and others"
+  },
+  {
+   "source": "SIGAR",
+   "target": "USAID",
+   "type": "other",
+   "detail": "SIGAR conducts forensic reviews of reconstruction funds managed by State, DOD and USAID.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "forensic reviews of reconstruction funds managed by State, DOD, and USAID to identify anomalies"
+  },
+  {
+   "source": "SIGAR",
+   "target": "U.S. Department of State",
+   "type": "other",
+   "detail": "SIGAR conducts forensic reviews of reconstruction funds managed by State.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "forensic reviews of reconstruction funds managed by State, DOD, and USAID"
+  },
+  {
+   "source": "SIGAR",
+   "target": "U.S. Department of Defense",
+   "type": "other",
+   "detail": "SIGAR conducts forensic reviews of reconstruction funds managed by DOD.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "forensic reviews of reconstruction funds managed by State, DOD, and USAID"
+  },
+  {
+   "source": "SIGAR",
+   "target": "Government of Afghanistan",
+   "type": "other",
+   "detail": "SIGAR interviewed current and former Afghan government officials for its Lessons Learned reports.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.8",
+   "quote": "current and former civilian and military officials in our own government, the Afghan government, and other donor country governments"
+  },
+  {
+   "source": "SIGAR",
+   "target": "U.S. Army War College",
+   "type": "other",
+   "detail": "SIGAR reports have become course material at the U.S. Army War College.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.10",
+   "quote": "Our reports have become course material at the U.S. Army War College"
+  },
+  {
+   "source": "SIGAR",
+   "target": "National Defense University",
+   "type": "other",
+   "detail": "SIGAR analysts lectured or led workshops at the National Defense University.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.10",
+   "quote": "our analysts have lectured or led workshops at the Foreign Service Institute, Davidson College, the National Defense University, Yale, and Princeton"
+  },
+  {
+   "source": "SIGAR",
+   "target": "Foreign Service Institute",
+   "type": "other",
+   "detail": "SIGAR analysts lectured or led workshops at the Foreign Service Institute.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.10",
+   "quote": "lectured or led workshops at the Foreign Service Institute, Davidson College"
+  },
+  {
+   "source": "SIGAR",
+   "target": "USAID",
+   "type": "other",
+   "detail": "SIGAR found a 1988 USAID report in Kabul that went unread.",
+   "date": "1988",
+   "confidence": "stated",
+   "timestamp": "p.10",
+   "quote": "well-informed, but sadly unread, 1988 USAID report our staff discovered in Kabul"
+  },
+  {
+   "source": "USAID",
+   "target": "Kabul",
+   "type": "located_in",
+   "detail": "The 1988 USAID report was discovered in Kabul.",
+   "date": "1988",
+   "confidence": "inferred",
+   "timestamp": "p.10",
+   "quote": "1988 USAID report our staff discovered in Kabul"
+  },
+  {
+   "source": "U.S. Department of Defense",
+   "target": "Afghan National Defense and Security Forces",
+   "type": "trained_by",
+   "detail": "The ANDSF were developed through U.S. security sector assistance led primarily by DOD, State and Justice.",
+   "date": "2002-2016",
+   "confidence": "stated",
+   "timestamp": "p.11",
+   "quote": "primarily the DOD, State, and the Department of Justice—developed and executed security sector assistance in Afghanistan from 2002 to 2016"
+  },
+  {
+   "source": "U.S. Department of State",
+   "target": "Afghan National Defense and Security Forces",
+   "type": "trained_by",
+   "detail": "State participated in developing and executing security sector assistance for the ANDSF.",
+   "date": "2002-2016",
+   "confidence": "stated",
+   "timestamp": "p.11",
+   "quote": "primarily the DOD, State, and the Department of Justice—developed and executed security sector assistance"
+  },
+  {
+   "source": "Taliban",
+   "target": "Afghan National Defense and Security Forces",
+   "type": "rival_of",
+   "detail": "The ANDSF faced a larger Taliban threat than anticipated after coalition drawdown.",
+   "confidence": "stated",
+   "timestamp": "p.11",
+   "quote": "the force faced a larger threat than anticipated after the drawdown of coalition military forces"
+  },
+  {
+   "source": "USAID",
+   "target": "Government of Afghanistan",
+   "type": "allied_with",
+   "detail": "USAID, State and DOD tried to support and legitimize the Afghan government in contested districts.",
+   "date": "2002-2017",
+   "confidence": "stated",
+   "timestamp": "p.11",
+   "quote": "USAID, State and DOD tried to support and legitimize the Afghan government in contested districts from 2002 through 2017"
+  },
+  {
+   "source": "U.S. Department of State",
+   "target": "Government of Afghanistan",
+   "type": "allied_with",
+   "detail": "State supported the Afghan government under the stabilization strategy.",
+   "date": "2002-2017",
+   "confidence": "stated",
+   "timestamp": "p.11",
+   "quote": "USAID, State and DOD tried to support and legitimize the Afghan government"
+  },
+  {
+   "source": "U.S. Department of Defense",
+   "target": "Government of Afghanistan",
+   "type": "allied_with",
+   "detail": "DOD supported the Afghan government under the stabilization strategy.",
+   "date": "2002-2017",
+   "confidence": "stated",
+   "timestamp": "p.11",
+   "quote": "USAID, State and DOD tried to support and legitimize the Afghan government"
+  },
+  {
+   "source": "Taliban",
+   "target": "Government of Afghanistan",
+   "type": "rival_of",
+   "detail": "A resurgent Taliban filled the void in territory vacated by coalition forces, outcompeting Afghan forces and civil servants.",
+   "date": "2014",
+   "confidence": "stated",
+   "timestamp": "p.12",
+   "quote": "could not compete with a resurgent Taliban as it filled the void in newly vacated territory"
+  },
+  {
+   "source": "U.S. Department of Defense",
+   "target": "NATO",
+   "type": "member_of",
+   "detail": "U.S. security sector assistance was coordinated under a 39-member NATO coalition.",
+   "confidence": "stated",
+   "timestamp": "p.12",
+   "quote": "under the umbrella of a 39-member NATO coalition when no specific DOD organization or military service was assigned ultimate responsibility"
+  },
+  {
+   "source": "SIGAR",
+   "target": "U.S. Congress",
+   "type": "other",
+   "detail": "SIGAR was created by Congress in 2008 to combat waste, fraud and abuse in Afghanistan reconstruction.",
+   "date": "2008",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "SIGAR was created by the Congress in 2008 to combat waste, fraud and abuse in the U.S. reconstruction effort in Afghanistan."
+  },
+  {
+   "source": "John F. Sopko",
+   "target": "U.S. House Committee on Foreign Affairs",
+   "type": "met_with",
+   "detail": "Sopko testified before the committee on January 15, 2020.",
+   "date": "2020-01-15",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "It is a pleasure and an honor to testify before you today."
+  },
+  {
+   "source": "Eliot Engel",
+   "target": "U.S. House Committee on Foreign Affairs",
+   "type": "leads",
+   "detail": "Addressed as Chairman of the Committee.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Chairman Engel, Ranking Member McCaul, Members of the Committee"
+  },
+  {
+   "source": "Michael McCaul",
+   "target": "U.S. House Committee on Foreign Affairs",
+   "type": "member_of",
+   "detail": "Addressed as Ranking Member of the Committee.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Chairman Engel, Ranking Member McCaul, Members of the Committee"
+  },
+  {
+   "source": "SIGAR",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "SIGAR's mandate covers Afghanistan reconstruction oversight.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "the Lessons Learned Program's mandate is limited to the reconstruction of Afghanistan."
+  },
+  {
+   "source": "USAID",
+   "target": "Government of Afghanistan",
+   "type": "other",
+   "detail": "USAID received enrollment data from the Afghan government.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "USAID was receiving its enrollment data from the Afghan government"
+  },
+  {
+   "source": "Afghan Ministry of Education",
+   "target": "USAID",
+   "type": "other",
+   "detail": "The Ministry itself called USAID-cited enrollment numbers into question.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "even the Afghan Ministry of Education had called the numbers into question"
+  },
+  {
+   "source": "John F. Sopko",
+   "target": "U.S. Department of State",
+   "type": "other",
+   "detail": "Sopko sent a letter asking for ten most/least successful projects.",
+   "date": "2013-03-25",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "on March 25, 2013, I sent letters to the Secretary of State, the Secretary of Defense, and the Administrator"
+  },
+  {
+   "source": "John F. Sopko",
+   "target": "U.S. Department of Defense",
+   "type": "other",
+   "detail": "Sopko sent a letter to the Secretary of Defense.",
+   "date": "2013-03-25",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "on March 25, 2013, I sent letters to the Secretary of State, the Secretary of Defense, and the Administrator"
+  },
+  {
+   "source": "John F. Sopko",
+   "target": "USAID",
+   "type": "other",
+   "detail": "Sopko sent a letter to the USAID Administrator.",
+   "date": "2013-03-25",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "the Administrator of the U.S. Agency for International Development, asking them to each provide me with a list"
+  },
+  {
+   "source": "Taliban",
+   "target": "Afghanistan",
+   "type": "other",
+   "detail": "Taliban ruled Afghanistan, when enrollment was cited as 900,000.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "compared to just 900,000 when the Taliban ruled Afghanistan"
+  },
+  {
+   "source": "Mike Dumont",
+   "target": "U.S. Department of Defense",
+   "type": "member_of",
+   "detail": "Dumont signs the DoD response as Deputy Assistant Secretary of Defense for Asian & Pacific Security Affairs.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.42",
+   "quote": "Deputy Assistant Secretary of Defense Asian & Pacific Security Affairs"
+  },
+  {
+   "source": "U.S. Department of Defense",
+   "target": "SIGAR",
+   "type": "other",
+   "detail": "DoD responded to SIGAR's March 25 inquiry on security sector reconstruction; attachment to the testimony.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.42",
+   "quote": "Dcpanment of Defense Response to SIGAR March 25 lnquiry"
+  },
+  {
+   "source": "Afghan National Army",
+   "target": "Afghan National Security Forces",
+   "type": "member_of",
+   "detail": "The ANA is a component of the ANSF.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.43",
+   "quote": "the Afghan National Army (ANA) was established in early 2003"
+  },
+  {
+   "source": "Afghan National Police",
+   "target": "Afghan National Security Forces",
+   "type": "member_of",
+   "detail": "The ANP is a component of the ANSF, established in 2005.",
+   "date": "2005",
+   "confidence": "inferred",
+   "timestamp": "p.43",
+   "quote": "followed In 2005 by the Afghan National Police (ANP)"
+  },
+  {
+   "source": "Afghan Local Police",
+   "target": "Afghan National Security Forces",
+   "type": "member_of",
+   "detail": "ALP is listed among the arms of the layered ANSF security concept.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.43",
+   "quote": "layered security concept ... Afghan Local Police tALP), ANA Special Operations Forces (ANASOF), ANA, ANP, Afghan Border Police (ABP), National Directorate of Security (NDS)"
+  },
+  {
+   "source": "ANA Special Operations Command",
+   "target": "Afghan National Army",
+   "type": "member_of",
+   "detail": "ANASOC is the special operations component of the ANA.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.44",
+   "quote": "The growing ANA Special Operations Command (ANASOC) has also made strides"
+  },
+  {
+   "source": "Afghan Border Police",
+   "target": "Afghan National Security Forces",
+   "type": "member_of",
+   "detail": "ABP is part of the layered ANSF security concept.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.43",
+   "quote": "Afghan Border Police (ABP), National Directorate of Security (NDS), etc.), providing security"
+  },
+  {
+   "source": "National Directorate of Security",
+   "target": "Afghan National Security Forces",
+   "type": "member_of",
+   "detail": "NDS is listed in the layered ANSF security concept.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.43",
+   "quote": "National Directorate of Security (NDS), etc.), providing security to the Afghan people"
+  },
+  {
+   "source": "International Security Assistance Force",
+   "target": "Afghan National Security Forces",
+   "type": "trained_by",
+   "detail": "ANSF were developed through ISAF partnership training and equipping programs; ISAF partnered units with Afghan forces.",
+   "date": "2009",
+   "confidence": "stated",
+   "timestamp": "p.43",
+   "quote": "A combined ANSI' and fntemational ccurity Assistance Force (lSAF) partnership established training programs and an equipping plan"
+  },
+  {
+   "source": "Afghan National Security Forces",
+   "target": "Taliban",
+   "type": "rival_of",
+   "detail": "The surge-era effort aimed to field Afghan forces capable of pushing back the Taliban.",
+   "date": "2009",
+   "confidence": "stated",
+   "timestamp": "p.43",
+   "quote": "capable of pushing back the Taliban and establishingsccurity in popul«tcd areas"
+  },
+  {
+   "source": "Barack Obama",
+   "target": "U.S. Department of Defense",
+   "type": "other",
+   "detail": "Obama announced the troop surge that prompted the Coalition effort to grow the ANSF.",
+   "date": "2009",
+   "confidence": "stated",
+   "timestamp": "p.43",
+   "quote": "with President Obama's announcement of the U.S. troop surge. a concerted Coalition effort to grow the ANSF was lnidated"
+  },
+  {
+   "source": "Kabul Military Training Center",
+   "target": "Kabul",
+   "type": "located_in",
+   "detail": "KMTC described as the premier institutional training center.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.44",
+   "quote": "the premier Kabul Military Treining Center (l(MTC)"
+  },
+  {
+   "source": "Afghan National Security Forces",
+   "target": "Kabul Military Training Center",
+   "type": "trained_by",
+   "detail": "ANSF received leadership and technical training through institutional training centers including KMTC.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.44",
+   "quote": "institutional \\raining centers, including the premier Kabul Military Treining Center (l(MTC). the ANSF have received leadership and technical training"
+  },
+  {
+   "source": "Ministry of Defense",
+   "target": "Afghan National Security Forces",
+   "type": "other",
+   "detail": "Ministries of Defense and Interior must organize, resource, train and sustain the forces; DoD focuses on ministerial development.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.45",
+   "quote": "The Ministries of Defense and Interior must bave the capacity to organiZI!', resource, train. and sustain-thcir forces"
+  },
+  {
+   "source": "U.S. Department of Defense",
+   "target": "Ministry of Defense",
+   "type": "trained_by",
+   "detail": "DoD deploys functional experts to develop ministry capabilities of MoD and MoI.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.45",
+   "quote": "deploy DoD functional experts to help develop crucial minis1ry capabiliLies"
+  },
+  {
+   "source": "John F. Sopko",
+   "target": "SIGAR",
+   "type": "leads",
+   "detail": "The testifying Inspector General (\"I\") sent letters on behalf of SIGAR to agency heads, speaking as SIGAR's head.",
+   "date": "2013-03-25",
+   "confidence": "inferred",
+   "timestamp": "p.4",
+   "quote": "on March 25, 2013, I sent letters to the Secretary of State, the Secretary of Defense, and the Administrator of the U.S. Agency for International Development"
+  },
+  {
+   "source": "USAID",
+   "target": "Afghan Ministry of Education",
+   "type": "other",
+   "detail": "USAID received enrollment data from the Afghan government, and even the Ministry of Education questioned the numbers.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "USAID was receiving its enrollment data from the Afghan government and had taken few, if any, steps to attempt to verify the data’s accuracy"
+  },
+  {
+   "source": "USAID",
+   "target": "World Health Organization",
+   "type": "other",
+   "detail": "USAID used a WHO estimate as its life-expectancy baseline without disclosing its limited data.",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "the baseline it used for comparison came from a World Health Organization (WHO) report that could only make an estimate because of limited data"
+  },
+  {
+   "source": "SIGAR",
+   "target": "USAID",
+   "type": "other",
+   "detail": "SIGAR's 2017 health sector audit found USAID overstated life expectancy gains and used a weak maternal mortality baseline.",
+   "date": "2017",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "when SIGAR issued an audit of Afghanistan’s health sector in 2017, we found that while USAID publicly reported a 22-year increase"
+  },
+  {
+   "source": "SIGAR",
+   "target": "U.S. Department of Defense",
+   "type": "other",
+   "detail": "SIGAR's women's programs audit found DoD reported gains without comprehensive assessment.",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "although the Department of Defense, Department of State, and USAID reported gains and improvements in the status of Afghan women"
+  },
+  {
+   "source": "Ryan Crocker",
+   "target": "SIGAR",
+   "type": "other",
+   "detail": "Crocker suggested SIGAR launch its Lessons Learned Program.",
+   "date": "2014",
+   "confidence": "stated",
+   "timestamp": "p.6",
+   "quote": "at the suggestion of a number of prominent officials, including Ambassador Ryan Crocker and General John Allen, that SIGAR formally launched its Lessons Learned Program in 2014"
+  },
+  {
+   "source": "John Allen",
+   "target": "SIGAR",
+   "type": "other",
+   "detail": "Allen suggested SIGAR launch its Lessons Learned Program.",
+   "date": "2014",
+   "confidence": "stated",
+   "timestamp": "p.6",
+   "quote": "Ambassador Ryan Crocker and General John Allen, that SIGAR formally launched its Lessons Learned Program in 2014"
+  },
+  {
+   "source": "National Security Council",
+   "target": "SIGAR",
+   "type": "other",
+   "detail": "NSC staff blessed the launch of the Lessons Learned Program.",
+   "date": "2014",
+   "confidence": "stated",
+   "timestamp": "p.6",
+   "quote": "launched its Lessons Learned Program in 2014, with the blessing of the National Security Council staff"
+  },
+  {
+   "source": "SIGAR",
+   "target": "SIGAR",
+   "type": "other",
+   "detail": "Lessons Learned Program is a unit of SIGAR.",
+   "confidence": "stated",
+   "timestamp": "p.6",
+   "quote": "SIGAR’s Lessons Learned Program also fulfills our statutory obligation"
+  },
+  {
+   "source": "SIGAR",
+   "target": "U.S. Department of State",
+   "type": "reports_to",
+   "detail": "SIGAR is required to inform the Secretaries of State and Defense of problems in programs.",
+   "confidence": "stated",
+   "timestamp": "p.6",
+   "quote": "SIGAR is also required to inform the Secretaries of State and Defense about “problems and deficiencies"
+  },
+  {
+   "source": "SIGAR",
+   "target": "U.S. Department of Defense",
+   "type": "reports_to",
+   "detail": "SIGAR is required to inform the Secretary of Defense of deficiencies.",
+   "confidence": "stated",
+   "timestamp": "p.6",
+   "quote": "SIGAR is also required to inform the Secretaries of State and Defense"
+  },
+  {
+   "source": "US Department of Defense",
+   "target": "Commander's Emergency Response Fund",
+   "type": "other",
+   "detail": "DoD mandated performance metrics for CERP projects over $50,000, tracked up to 365 days after completion.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.26",
+   "quote": "the Department of Defense mandated that projects executed through the Commander's Emergency Response Program (CERP) have performance metrics for all projects over $50,000"
+  },
+  {
+   "source": "USAID",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "USAID supports health programming in 13 of Afghanistan's 34 provinces.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.26",
+   "quote": "specific to the 13 of 34 provinces supported by USAID"
+  },
+  {
+   "source": "World Bank",
+   "target": "World Health Organization",
+   "type": "other",
+   "detail": "The World Bank excluded the Afghanistan Mortality Survey from its report and preferred statistics from a single international database, giving life expectancy of 48 years.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.26",
+   "quote": "The World Bank however, purposely did not include the Mortality Survey results in a recent report"
+  },
+  {
+   "source": "U.S. Department of State",
+   "target": "USAID",
+   "type": "allied_with",
+   "detail": "State and USAID sent a joint response letter to SIGAR whose indicators are critiqued.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.26",
+   "quote": "the joint State/USAID letter does not identify discrete program-specific indicators"
+  },
+  {
+   "source": "USAID",
+   "target": "Afghan Ministry of Education",
+   "type": "other",
+   "detail": "USAID efforts built schools and trained teachers, with unclear connection to national enrollment figures and Afghan capacity to use the assets transferred.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.26",
+   "quote": "what if any connection there is with the schools built and teachers trained through USAID efforts"
+  },
+  {
+   "source": "World Bank",
+   "target": "Afghan Ministry of Education",
+   "type": "other",
+   "detail": "The World Bank noted that school construction crowded out operations and maintenance, with allocations far below requirements.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.27",
+   "quote": "school construction, the same indicator touted in both letters has crowded out operations and maintenance, with allocations falling far below requirements"
+  },
+  {
+   "source": "Afghan National Security Forces",
+   "target": "US Department of Defense",
+   "type": "trained_by",
+   "detail": "More than 194,000 ANSF personnel received literacy and numeracy training according to the Defense letter.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.27",
+   "quote": "more than 194,000 Afghan National Security Force personnel had some level of literacy and numeracy training"
+  },
+  {
+   "source": "USAID Office of Inspector General",
+   "target": "USAID",
+   "type": "other",
+   "detail": "The USAID IG found in 2012 that an alternative-development program was directed to focus only on the licit economy and to ignore poppy eradication assistance goals.",
+   "date": "2012",
+   "confidence": "stated",
+   "timestamp": "p.27",
+   "quote": "In 2012, the USAID Inspector General found that a key USAID alternative-development program was directed by USAID to focus only on expanding the licit economy"
+  },
+  {
+   "source": "State Department Office of Inspector General",
+   "target": "Bureau of Administration, Office of Logistics Management, Office of Acquisitions Management",
+   "type": "other",
+   "detail": "The State OIG published an audit of A/LM/AQM finding performance metrics not tied to Business Plan goals.",
+   "date": "2019-12",
+   "confidence": "stated",
+   "timestamp": "p.27",
+   "quote": "the State Department's Office of Inspector General published an audit of the Bureau of Administration (A Bureau), Office of Logistics Management, Office of Acquisitions Management"
+  },
+  {
+   "source": "Bureau of Administration, Office of Logistics Management, Office of Acquisitions Management",
+   "target": "Bureau of International Narcotics and Law Enforcement (INL)",
+   "type": "other",
+   "detail": "A/LM/AQM provides services for operations, missions and programs of INL, among other bureaus.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.28",
+   "quote": "Those services include operations, missions, and programs of the Bureau of International Narcotics and Law Enforcement Affairs"
+  },
+  {
+   "source": "Bureau of Administration, Office of Logistics Management, Office of Acquisitions Management",
+   "target": "Department of State",
+   "type": "member_of",
+   "detail": "A/LM/AQM is the office directing Department acquisition programs for State.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.27",
+   "quote": "which directs Department acquisition programs and manages a 1 percent fee for its services"
+  },
+  {
+   "source": "Department of Defense Inspector General",
+   "target": "Department of Defense",
+   "type": "other",
+   "detail": "The DoD IG audited a military construction project and found Air Force construction-management officials did not monitor contractor quality for four projects worth $36.9 million.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.28",
+   "quote": "did not develop a formal process to monitor, assess, and document the quality of work performed by contractor personnel for four projects valued at $36.9 million"
+  },
+  {
+   "source": "SIGAR",
+   "target": "US Department of Defense",
+   "type": "other",
+   "detail": "SIGAR's March 25, 2013 letter requested lists of the 10 most and least successful reconstruction projects from agencies.",
+   "date": "2013-03-25",
+   "confidence": "inferred",
+   "timestamp": "p.28",
+   "quote": "a list of the 10 Afghanistan reconstruction projects/programs funded and deemed most successful by the (agency)"
+  },
+  {
+   "source": "SIGAR",
+   "target": "NATO Stability Police Center of Excellence",
+   "type": "other",
+   "detail": "The NATO Stability Police Center of Excellence cited SIGAR's Reconstructing the ANDSF report in its Joint Analysis Report.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.14",
+   "quote": "the report was cited by the NATO Stability Police Center of Excellence in its Joint Analysis Report"
+  },
+  {
+   "source": "Todd Young",
+   "target": "Mike Pompeo",
+   "type": "other",
+   "detail": "Senator Young asked Pompeo during Senate testimony to state in writing which SIGAR report recommendations he would implement.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.14",
+   "quote": "Senator Todd Young asked him to respond in writing indicating which of the report’s recommendations he would implement"
+  },
+  {
+   "source": "SIGAR",
+   "target": "Joseph Dunford",
+   "type": "other",
+   "detail": "SIGAR Lessons Learned staff participated in a multiday session convened by Chairman of the Joint Chiefs Dunford on reconstruction activities.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.14",
+   "quote": "participated in a multiday session convened by the Chairman of the Joint Chiefs of Staff, General Joseph Dunford"
+  },
+  {
+   "source": "SIGAR",
+   "target": "US Joint Chiefs of Staff",
+   "type": "other",
+   "detail": "SIGAR staff took part in a failure analysis session run by the Joint Chiefs of Staff.",
+   "date": "2017",
+   "confidence": "stated",
+   "timestamp": "p.14",
+   "quote": "failure analysis session led by the Secretary of Defense and run by the Joint Chiefs of Staff"
+  },
+  {
+   "source": "SIGAR",
+   "target": "US Central Command",
+   "type": "other",
+   "detail": "SIGAR staff briefed the Commander of U.S. Central Command on the ANDSF report.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.14",
+   "quote": "briefings on Reconstructing the Afghan National Defense and Security Forces to the Commander of U.S. Central Command"
+  },
+  {
+   "source": "SIGAR",
+   "target": "National Security Council",
+   "type": "other",
+   "detail": "SIGAR staff briefed National Security Council staff.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.14",
+   "quote": "National Security Council staff"
+  },
+  {
+   "source": "SIGAR",
+   "target": "Combined Security Transition Command – Afghanistan",
+   "type": "other",
+   "detail": "SIGAR staff briefed the CSTC-A commander.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.14",
+   "quote": "the Commander of the Combined Security Transition Command – Afghanistan"
+  },
+  {
+   "source": "SIGAR",
+   "target": "NATO",
+   "type": "other",
+   "detail": "NATO hosted an all-day event on SIGAR's Divided Responsibility report at its Brussels headquarters.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.15",
+   "quote": "NATO hosted an all-day event on the topic of the report at its headquarters in Brussels"
+  },
+  {
+   "source": "NATO",
+   "target": "Brussels",
+   "type": "located_in",
+   "detail": "NATO headquarters is in Brussels.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.15",
+   "quote": "at its headquarters in Brussels"
+  },
+  {
+   "source": "SIGAR",
+   "target": "Ashraf Ghani",
+   "type": "other",
+   "detail": "SIGAR staff joined a roundtable with President Ghani's senior economic advisor.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.15",
+   "quote": "closed-door roundtable with Afghan President Ashraf Ghani’s senior economic advisor"
+  },
+  {
+   "source": "Ashraf Ghani",
+   "target": "Government of Afghanistan",
+   "type": "leads",
+   "detail": "Ghani is identified as Afghan President.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.15",
+   "quote": "Afghan President Ashraf Ghani"
+  },
+  {
+   "source": "Taliban",
+   "target": "Government of Afghanistan",
+   "type": "rival_of",
+   "detail": "Taliban resurgence undermined reconstruction and government.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.16",
+   "quote": "abuses committed by coalition-aligned warlords drove many Afghans into the arms of the resurgent Taliban"
+  },
+  {
+   "source": "U.S. Department of Defense",
+   "target": "Taliban",
+   "type": "rival_of",
+   "detail": "The coalition inadvertently aided Taliban resurgence by allying with warlords.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.16",
+   "quote": "The United States also inadvertently aided the Taliban’s resurgence by forming alliances of convenience with warlords"
+  },
+  {
+   "source": "ISAF",
+   "target": "Taliban",
+   "type": "rival_of",
+   "detail": "The coalition opposed the Taliban while paying warlords for security.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.16",
+   "quote": "The coalition paid warlords to provide security"
+  },
+  {
+   "source": "SIGAR",
+   "target": "U.S. Congress",
+   "type": "reports_to",
+   "detail": "SIGAR submits quarterly reports to Congress as required by law.",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "compiling the quarterly reports we are required by law to submit to Congress"
+  },
+  {
+   "source": "SIGAR",
+   "target": "Resolute Support",
+   "type": "other",
+   "detail": "The prior Resolute Support commander suggested the lessons learned report on reintegration of enemy combatants and the elections report.",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "were specifically suggested by the prior Resolute Support commander and the outgoing U.S. Ambassador in Afghanistan"
+  },
+  {
+   "source": "Task Force for Business and Stability Operations",
+   "target": "U.S. Department of Defense",
+   "type": "member_of",
+   "detail": "The Task Force for Business and Stability Operations was a now-defunct DOD program.",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "programs run by DOD’s now-defunct Task Force for Business and Stability Operations"
+  },
+  {
+   "source": "SIGAR",
+   "target": "Task Force for Business and Stability Operations",
+   "type": "other",
+   "detail": "SIGAR's Office of Special Projects examined the Task Force's programs, which spurred the Private Sector Development report.",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "its examination of programs run by DOD’s now-defunct Task Force for Business and Stability Operations was a major impetus"
+  },
+  {
+   "source": "SIGAR",
+   "target": "Drug Enforcement Administration",
+   "type": "allied_with",
+   "detail": "SIGAR investigators work with the DEA, FBI and other IG offices.",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "including other IG offices, the Drug Enforcement Administration, the FBI, and others"
+  }
+ ],
+ "sources_cited": [
+  "SIGAR Lessons Learned reports (Divided Responsibility 2019; Corruption in Conflict; Private Sector Development and Economic Growth; reintegration of enemy combatants)",
+  "SIGAR quarterly reports",
+  "USAID 1988 study 'A Retrospective Review of U.S. Assistance to Afghanistan: 1950 to 1979'",
+  "National Defense Authorization Act FY2008 and FY2015",
+  "Inspector General Act of 1978",
+  "SIGAR Corruption in Conflict (Sept 2016)",
+  "SIGAR Reconstructing the ANDSF (Sept 2017)",
+  "SIGAR Private Sector Development and Economic Growth (Apr 2018)",
+  "SIGAR Stabilization (May 2018)",
+  "SIGAR Counternarcotics (June 2018)",
+  "SIGAR Divided Responsibility (June 2019)",
+  "SIGAR Reintegration of Ex-Combatants (Sept 2019)",
+  "2018 and 2019 National Defense Authorization Acts",
+  "SIGAR Reconstructing the Afghan National Defense and Security Forces report",
+  "SIGAR Stabilization report",
+  "SIGAR Reintegration of Ex-Combatants report",
+  "SIGAR High Risk List report",
+  "SIGAR Counternarcotics report",
+  "2018 National Defense Authorization Act",
+  "Stabilization Assistance Review 2018",
+  "OMB memorandum 'Use of Evidence and Evaluation in the 2014 Budget' (May 2012)",
+  "Joint State/USAID response letter, 9 May 2013",
+  "DoD response letter, 18 June 2013",
+  "USAID Inspector General 2011 health audit",
+  "Afghanistan Mortality Survey 2010",
+  "World Bank report on life expectancy and school construction",
+  "USAID Inspector General 2012 audit of alternative development program",
+  "State OIG audit of A/LM/AQM",
+  "World Bank, Afghanistan in Transition: Looking Beyond 2014, Vol. 2 (May 2012)",
+  "USAID OIG Audit F-306-12-004-P (June 29, 2012)",
+  "State OIG AUD-FM-13-29 (May 2013)",
+  "DOD IG Report DODIG-2013-052 (March 2013)",
+  "SIGAR January 2013 Quarterly Report to Congress",
+  "OMB Memorandum, 18 May 2012",
+  "SIGAR letter of March 25, 2013",
+  "DoD Response to SIGAR March 25, 2013 Inquiry",
+  "Report on Progress Toward Security and Stability in Afghanistan"
+ ],
+ "key_claims": [
+  "USAID and other agencies routinely overstated positive results in education, health and women's programs without verifiable evidence.",
+  "SIGAR's Lessons Learned Program was launched in 2014 to provide institutional memory against the 'annual lobotomy' of personnel rotations.",
+  "Over $133 billion has been spent on Afghan reconstruction, including more than $70 billion on security forces and about $9 billion on counternarcotics.",
+  "The 2013 U.S. rule-of-law strategy for Afghanistan had no performance measures, versus 27 in the 2009 strategy.",
+  "The Taliban filled the void in districts vacated by coalition forces by 2014, outcompeting Afghan forces and civil servants.",
+  "SIGAR concluded that reintegration programs did not weaken the insurgency or reduce violence and should resume only after a peace agreement.",
+  "Counternarcotics efforts failed to produce lasting reductions in poppy cultivation, and drug money continued to flow to insurgent groups.",
+  "The US spent over $70 billion on an ANDSF that could not provide nationwide security.",
+  "Corruption undermined the US mission from the start of Operation Enduring Freedom.",
+  "The US inadvertently aided the Taliban's resurgence by allying with warlords whose abuses drove Afghans toward the Taliban.",
+  "SIGAR says unchecked corruption, abetted by US spending, undermined strategic goals.",
+  "US aid to Afghanistan exceeded 45 percent of GDP by 2004 and over 100 percent in 2007 and 2010.",
+  "SIGAR warns a peace deal with the Taliban requires planning, including reintegrating an estimated 60,000 Taliban fighters.",
+  "US personnel sent to Afghanistan often did not know the difference between al-Qaeda and the Taliban.",
+  "SIGAR found the State/USAID and DoD responses did not provide the requested ten most/least successful projects.",
+  "SIGAR argued national-level indicators lack causal links to specific US programs.",
+  "SIGAR noted USAID's agriculture program ignored poppy eradication goals, with increased poppy cultivation in covered provinces.",
+  "SIGAR said ANSF illiteracy (86% in 2009) and turnover limit what literacy training numbers show.",
+  "School construction crowded out operations and maintenance funding per the World Bank.",
+  "SIGAR argues agency indicators lack credible links between outputs and outcomes, e.g. in education, anticorruption and counternarcotics.",
+  "DOD and State/USAID responses did not address sustainment of Afghan government capacity beyond limited examples.",
+  "State/USAID say they evaluate projects against their own initial standards and do not compare projects.",
+  "USAID alternative-development program was directed away from poppy eradication goals, with opium cultivation rising in covered provinces.",
+  "State and USAID claim measurable gains in education, health, revenue and women's roles since 2001.",
+  "The letter acknowledges fraud, delays, contractor overcharges and insecurity as constant features of assistance in Afghanistan.",
+  "USAID ended the Strategic Provincial Roads project in fall 2011 for underperformance.",
+  "INL halted central prison renovation after poor contractor performance and corruption.",
+  "DoD claims ANSF grew 73 percent since 2009 to over 340,000 personnel.",
+  "DoD states ANSF were leading over 80 percent of operations by mid-2013.",
+  "DoD says core objectives are denying al-Qaeda safe haven and preventing Taliban overthrow of the Afghan government.",
+  "State Department halted projects such as the jirga grant and prison renovation due to inadequate oversight.",
+  "ISAF's ANSF infrastructure program will end with more than 3,900 structures valued at $9.4 billion, below the originally planned $11.38 billion.",
+  "ANSF facility maintenance capacity is nascent and the MoD and MoI have too few facility engineers.",
+  "DoD obligated more than $230 million in CERP funds for over 4,000 education projects.",
+  "The Kandahar Bridging Solution increased power, and Shorandam factories grew from three in 2010 to about 66.",
+  "Afghan ministries still need training and assistance to sustain infrastructure operations and maintenance, which will be a challenge for transition."
+ ]
+}

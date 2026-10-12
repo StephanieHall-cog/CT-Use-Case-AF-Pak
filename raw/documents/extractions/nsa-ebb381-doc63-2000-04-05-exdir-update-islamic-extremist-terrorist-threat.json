@@ -1,0 +1,90 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc63-2000-04-05-exdir-update-islamic-extremist-terrorist-threat",
+  "title": "EXDIR Update - Islamic Extremist Terrorist Threat",
+  "authors": "Central Intelligence Agency",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "2000-04-05",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7xgb-ivxcp/2000-04-05-exdir-update-islamic-extremist.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 3,
+  "kind": "briefing",
+  "note": "Highlighted for its budget warning: CT supplemental funding still at NSC-OMB level, and due to budgetary constraints CTC/UBL will move from an offensive to a defensive posture.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 63",
+  "relevance": "high",
+  "ocr": 1
+ },
+ "persons": [],
+ "organizations": [
+  {
+   "name": "CIA Counterterrorist Center/UBL Station",
+   "aliases": [
+    "CTC/UBL",
+    "CIA/UBL"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Central Intelligence Agency"
+   ],
+   "rivals": [
+    "al-Qa'ida"
+   ],
+   "country_base": "United States",
+   "notes": "The slide text is garbled by OCR. It appears to say that, because of budget constraints, 'CTC/UBL will move . . . to defensive posture'. The wording is partly inferred."
+  },
+  {
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Author of the briefing slides, an EXDIR (Executive Director) update on the Islamic extremist terrorist threat."
+  },
+  {
+   "name": "Uzbek Initiative",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Appears only as a slide title on p.2. The content is not legible in this chunk."
+  }
+ ],
+ "places": [],
+ "events": [
+  {
+   "date": "2000-04",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "The briefing slide says budget constraints would force CTC/UBL to move to a defensive posture, and it notes a need for a forward-moving CT supplemental. The OCR is heavily garbled, so the details are uncertain.",
+   "place": "",
+   "actors": [
+    "CIA Counterterrorist Center/UBL Station"
+   ],
+   "timestamp": "p.3"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "CIA Counterterrorist Center/UBL Station",
+   "target": "Central Intelligence Agency",
+   "type": "member_of",
+   "detail": "The CTC/UBL unit is a component of CIA, as the document's CIA origin and its budget discussion imply. The OCR text never states this directly.",
+   "date": "2000-04-05",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "Crc/UBL will"
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "The briefing slide says a counterterrorism supplemental budget request is pending at the NSC/OMB level, and the text is partly garbled.",
+  "The slide says the supplemental needs to be moved forward soon because of an expected congressional recess for conventions and campaigning in the elections.",
+  "The slide appears to say that, because of budget constraints, CTC/UBL will move to a defensive posture; this reading is uncertain because of the OCR damage.",
+  "The document contains a slide titled 'Uzbek Initiative', but no detail is legible."
+ ]
+}

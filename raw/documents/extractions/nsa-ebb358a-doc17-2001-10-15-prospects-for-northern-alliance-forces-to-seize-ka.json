@@ -1,0 +1,450 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb358a-doc17-2001-10-15-prospects-for-northern-alliance-forces-to-seize-ka",
+  "title": "Prospects for Northern Alliance Forces to Seize Kabul",
+  "authors": "Defense Intelligence Agency",
+  "publisher": "National Security Archive (GWU), New Documents Detail America's Strategic Response to 9/11",
+  "published": "2001-10-15",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB358a/doc17.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB358a/index.htm",
+  "pages": 2,
+  "kind": "intelligence report",
+  "note": "[Secret/Noforn/X1] Compares Taliban and Northern Alliance strength around Kabul. The Taliban Kabul Central Corps has about 130 tanks and 7,000 soldiers against Fahim Khan's roughly 10,000 troops. The Alliance is unlikely to seize Kabul unaided, but Russian arms deliveries via Tajikistan may change the balance. The Alliance took Kabul on November 13, 2001.",
+  "collection": "NSAEBB358a",
+  "doc_number": "Document 17",
+  "relevance": "high",
+  "ocr": 2
+ },
+ "persons": [
+  {
+   "name": "Fahim Khan",
+   "aliases": [
+    "General Fahim",
+    "Fahim",
+    "Mohammed Fahim"
+   ],
+   "role": "Commander of Northern Alliance (UIFSA) forces; Jamiat-e Islami commander",
+   "organizations": [
+    "Northern Alliance",
+    "Jamiat-e Islami"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Kabul",
+    "Panjsher Valley"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "UIFSA commander Fahim Khan stated publicly on 14 October 2001 that his forces would only attempt to take the city when “the situation [there] is favorable,”"
+    },
+    {
+     "timestamp": "p.2",
+     "quote": "Northern Alliance forces, under the command of General Fahim Khan, number about 10,000 troops"
+    },
+    {
+     "timestamp": "p.2",
+     "quote": "General Fahim has stated he will not attack until allied air strikes have sufficiently weakened Taliban defenses"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Northern Alliance",
+   "aliases": [
+    "UIFSA",
+    "United Islamic Front for the Salvation of Afghanistan"
+   ],
+   "type": "militia",
+   "parent_or_allies": [
+    "Jamiat-e Islami",
+    "Russia"
+   ],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "About 10,000 troops with ~40 tanks near Panjsher Valley; assessed as outmatched in weapons; Russia delivering equipment via Parkhar, Tajikistan."
+  },
+  {
+   "name": "Jamiat-e Islami",
+   "aliases": [],
+   "type": "political movement",
+   "parent_or_allies": [
+    "Northern Alliance"
+   ],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Fahim's forces are Jamiat-e Islami."
+  },
+  {
+   "name": "Taliban",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [
+    "Northern Alliance"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Kabul Central Corps approx 130 tanks, 85 APCs, 85 artillery pieces, 7,000 soldiers."
+  },
+  {
+   "name": "Kabul Central Corps",
+   "aliases": [],
+   "type": "military",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Taliban force defending Kabul."
+  },
+  {
+   "name": "Defense Intelligence Agency",
+   "aliases": [
+    "DIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Author of the information paper."
+  },
+  {
+   "name": "Noble Eagle ITF",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Approving/preparing office."
+  },
+  {
+   "name": "United Nations",
+   "aliases": [
+    "UN"
+   ],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Suggested source of assistance to feed Kabul's population."
+  },
+  {
+   "name": "Russia",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Northern Alliance"
+   ],
+   "rivals": [],
+   "country_base": "Russia",
+   "notes": "Reportedly delivering T-55 tanks, APCs, artillery, helicopters to the Northern Alliance."
+  }
+ ],
+ "places": [
+  {
+   "name": "Kabul",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Capital; objective of Northern Alliance; population 700,000 to one million."
+  },
+  {
+   "name": "Shomali Plains",
+   "type": "region",
+   "country": "Afghanistan",
+   "parent": "Kabul",
+   "significance": "Open terrain north of Kabul favoring mobile armored forces."
+  },
+  {
+   "name": "Panjsher Valley",
+   "type": "valley",
+   "country": "Afghanistan",
+   "parent": "Panjshir",
+   "significance": "Location of Northern Alliance forces, over 50 km northeast of Kabul."
+  },
+  {
+   "name": "Parkhar",
+   "type": "base",
+   "country": "Tajikistan",
+   "parent": "Tajikistan",
+   "significance": "Supply base in southern Tajikistan for Russian deliveries to the Northern Alliance."
+  },
+  {
+   "name": "Hindu Kush",
+   "type": "region",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Mountain range hampering supply transport, especially in winter."
+  },
+  {
+   "name": "Tajikistan",
+   "type": "country",
+   "country": "Tajikistan",
+   "parent": "",
+   "significance": "Source of Northern Alliance supplies."
+  },
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Country of focus."
+  }
+ ],
+ "events": [
+  {
+   "date": "2001-10-14",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Fahim Khan stated publicly his forces would only attempt to take Kabul when the situation is favorable.",
+   "place": "Kabul",
+   "actors": [
+    "Fahim Khan"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-10-15",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "DIA information paper assessing Northern Alliance prospects to seize Kabul after coalition air strikes.",
+   "place": "Kabul",
+   "actors": [
+    "Defense Intelligence Agency"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-10",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Russia reportedly delivering tanks, APCs, artillery and helicopters to the Northern Alliance via Parkhar.",
+   "place": "Parkhar",
+   "actors": [
+    "Russia",
+    "Northern Alliance"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "2001-10-14",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Fahim Khan stated publicly his forces would only try to take Kabul when the situation there is favorable.",
+   "place": "Kabul",
+   "actors": [
+    "Fahim Khan",
+    "Northern Alliance"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-10",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Coalition air strikes on Taliban targets throughout Afghanistan; Fahim stated he will not attack until strikes weaken Taliban defenses.",
+   "place": "Afghanistan",
+   "actors": [
+    "Taliban",
+    "Fahim Khan"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "2001-10",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Russia reportedly delivering tanks, APCs, artillery, helicopters and ammunition to the Northern Alliance via Parkhar.",
+   "place": "Parkhar",
+   "actors": [
+    "Russia",
+    "Northern Alliance"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "2001-10-15",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "DIA information paper assessing Northern Alliance prospects for seizing Kabul.",
+   "place": "Kabul",
+   "actors": [
+    "Defense Intelligence Agency",
+    "Noble Eagle ITF"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Fahim Khan",
+   "target": "Northern Alliance",
+   "type": "leads",
+   "detail": "Fahim commands Northern Alliance forces of about 10,000 troops.",
+   "date": "2001-10",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Northern Alliance forces, under the command of General Fahim Khan, number about 10,000 troops"
+  },
+  {
+   "source": "Fahim Khan",
+   "target": "Jamiat-e Islami",
+   "type": "member_of",
+   "detail": "Fahim's forces are described as Jamiat-e Islami forces.",
+   "date": "2001-10",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "The capture of Kabul by Fahim’s Jamiat-e Islami forces"
+  },
+  {
+   "source": "Northern Alliance",
+   "target": "Russia",
+   "type": "funded_by",
+   "detail": "Russia reportedly supplying arms and equipment via Parkhar, Tajikistan.",
+   "date": "2001-10",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Russia is reportedly delivering approximately forty to fifty T-55 tanks, sixty APCs"
+  },
+  {
+   "source": "Northern Alliance",
+   "target": "Taliban",
+   "type": "rival_of",
+   "detail": "Northern Alliance seeks to drive the Taliban from Kabul.",
+   "date": "2001-10",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "a major operational objective for the anti-Taliban forces is to drive the Taliban from the highly symbolic capital city"
+  },
+  {
+   "source": "Kabul Central Corps",
+   "target": "Taliban",
+   "type": "member_of",
+   "detail": "Taliban force defending Kabul.",
+   "date": "2001-10",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Taliban strength in the Kabul Central Corps is approximately 130 tanks"
+  },
+  {
+   "source": "Fahim Khan",
+   "target": "Jamiat-e Islami",
+   "type": "leads",
+   "detail": "The text refers to Fahim's Jamiat-e Islami forces.",
+   "date": "2001-10",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "The capture of Kabul by Fahim's Jamiat-e Islami forces would signal that the Northern Alliance has assumed symbolic control"
+  },
+  {
+   "source": "Jamiat-e Islami",
+   "target": "Northern Alliance",
+   "type": "member_of",
+   "detail": "Fahim's Jamiat-e Islami forces are part of the Northern Alliance.",
+   "date": "2001-10",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "The capture of Kabul by Fahim's Jamiat-e Islami forces would signal that the Northern Alliance has assumed symbolic control"
+  },
+  {
+   "source": "Taliban",
+   "target": "Kabul",
+   "type": "located_in",
+   "detail": "Taliban hold Kabul, which opposition forces seek to seize.",
+   "date": "2001-10",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "drive the Taliban from the highly symbolic capital city"
+  },
+  {
+   "source": "Kabul Central Corps",
+   "target": "Kabul",
+   "type": "located_in",
+   "detail": "Taliban Kabul Central Corps is deployed in and around Kabul.",
+   "date": "2001-10",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Taliban strength in the Kabul Central Corps is approximately 130 tanks"
+  },
+  {
+   "source": "Northern Alliance",
+   "target": "Panjsher Valley",
+   "type": "located_in",
+   "detail": "Northern Alliance tanks, APCs and artillery are located in the Panjsher Valley.",
+   "date": "2001-10",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "a few artillery pieces located in the Panjsher Valley, over fifty kilometers to the northeast of Kabul"
+  },
+  {
+   "source": "Russia",
+   "target": "Parkhar",
+   "type": "located_in",
+   "detail": "Russian supplies flow via the Parkhar supply base.",
+   "date": "2001-10",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "to the Northern Alliance via the Parkhar supply base in southern Tajikistan"
+  },
+  {
+   "source": "Parkhar",
+   "target": "Tajikistan",
+   "type": "located_in",
+   "detail": "Parkhar supply base is in southern Tajikistan.",
+   "date": "2001-10",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Parkhar supply base in southern Tajikistan"
+  },
+  {
+   "source": "Northern Alliance",
+   "target": "United Nations",
+   "type": "other",
+   "detail": "Northern Alliance would probably need to request UN assistance to care for Kabul's population.",
+   "date": "2001-10",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "It would probably need to request assistance from an outside body, such as the United Nations"
+  },
+  {
+   "source": "Shomali Plains",
+   "target": "Kabul",
+   "type": "located_in",
+   "detail": "Shomali Plains lie north of Kabul.",
+   "date": "2001-10",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "the open terrain of the Shomali Plains to the north of the city favors mobile armored forces"
+  },
+  {
+   "source": "Noble Eagle ITF",
+   "target": "Defense Intelligence Agency",
+   "type": "other",
+   "detail": "Noble Eagle ITF prepared the information paper.",
+   "date": "2001-10-15",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "Prepared by: Approved by: Noble Eagle ITF"
+  }
+ ],
+ "sources_cited": [
+  "Recent intelligence reporting (unspecified)"
+ ],
+ "key_claims": [
+  "The Northern Alliance cannot successfully conduct a large-scale offensive to seize and hold Kabul at its present combat power.",
+  "Taliban Kabul Central Corps (~7,000 soldiers, 130 tanks) outmatches Northern Alliance (~10,000 troops, ~40 tanks) in weapons.",
+  "Winter and difficult Hindu Kush supply lines hurt the Northern Alliance more than the Taliban.",
+  "Fahim Khan is relying on coalition air strikes to weaken the Taliban and conserve his forces for post-conflict posturing.",
+  "Northern Alliance leaders reportedly shelved plans to take Kabul by force, approaching only to the city's limits.",
+  "Anti-Taliban groups disagree over how to form a post-Taliban representative government."
+ ]
+}

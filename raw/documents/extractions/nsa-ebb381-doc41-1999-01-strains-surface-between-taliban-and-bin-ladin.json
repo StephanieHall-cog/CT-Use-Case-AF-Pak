@@ -1,0 +1,205 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc41-1999-01-strains-surface-between-taliban-and-bin-ladin",
+  "title": "Strains Surface Between Taliban and Bin Ladin",
+  "authors": "Central Intelligence Agency",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "1999-01",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7xbr-uusml/1999-01-strains-surface-between-taliban-and-bin.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 1,
+  "kind": "report",
+  "note": "CIA analytic report, undated. Cited in 9/11 Commission Report as January 1999 (p. 342; Chapter 11, Endnote 5).",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 41",
+  "relevance": "high",
+  "ocr": 0
+ },
+ "persons": [
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Bin Ladin",
+    "Bin Ladlr",
+    "Bin Ladln"
+   ],
+   "role": "terrorist financier who called for violence against Americans; given safehaven in Afghanistan by the Taliban",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "over whether to continue to give Bin Ladin safehaven"
+    },
+    {
+     "timestamp": "p.1",
+     "quote": "the Taliban to date has given no indication it plans to expel the terrorist financier"
+    }
+   ]
+  },
+  {
+   "name": "Mullah Omar",
+   "aliases": [
+    "Omar",
+    "Mullah Muhammad Omar"
+   ],
+   "role": "Taliban leader who previously expressed dissatisfaction with Bin Ladin's high visibility",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Omar previously has expressed dissatisfaction with Bin Ladin's high visibility"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Taliban",
+   "aliases": [],
+   "type": "political movement",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Gives safehaven to Bin Ladin; strains over whether to continue, but no indication of plans to expel him."
+  },
+  {
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Author of the document."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "South Asia",
+   "significance": "Location of Taliban rule and Bin Ladin's safehaven"
+  }
+ ],
+ "events": [
+  {
+   "date": "1999-01",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Strains reported between Taliban and Bin Ladin over whether to continue giving him safehaven after his call for violence against Americans; Taliban shows no sign of expelling him.",
+   "place": "Afghanistan",
+   "actors": [
+    "Taliban",
+    "Usama bin Ladin",
+    "Mullah Omar"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1999-01",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "CIA assessment reports strains between the Taliban and Bin Ladin over whether to continue giving him safehaven, with no sign of expulsion.",
+   "place": "Afghanistan",
+   "actors": [
+    "Central Intelligence Agency",
+    "Taliban",
+    "Usama bin Ladin",
+    "Mullah Omar"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Usama bin Ladin",
+   "target": "Taliban",
+   "type": "sheltered_by",
+   "detail": "Taliban provides safehaven to Bin Ladin, though strains exist over continuing it.",
+   "date": "1999-01",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "over whether to continue to give Bin Ladin safehaven"
+  },
+  {
+   "source": "Mullah Omar",
+   "target": "Usama bin Ladin",
+   "type": "other",
+   "detail": "Omar previously expressed dissatisfaction with Bin Ladin's high visibility.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Omar previously has expressed dissatisfaction with Bin Ladin's high visibility"
+  },
+  {
+   "source": "Mullah Omar",
+   "target": "Taliban",
+   "type": "leads",
+   "detail": "Omar is identified in the context of Taliban decisions on Bin Ladin.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Omar previously has expressed dissatisfaction with Bin Ladin's high visibility"
+  },
+  {
+   "source": "Taliban",
+   "target": "Usama bin Ladin",
+   "type": "other",
+   "detail": "The Taliban have given no indication they plan to expel Bin Ladin, described as a terrorist financier.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "the Taliban to date has given no indication It plans to expel the terrorist financier"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Bin Ladin is given safehaven by the Taliban in Afghanistan.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "SOUTH ASIA: Afghanistan: Strains Surface Between Taliban and Bin Ladlr"
+  },
+  {
+   "source": "Taliban",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "The Taliban are the Afghan authorities discussed in the Afghanistan-focused assessment.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "SOUTH ASIA: Afghanistan: Strains Surface Between Taliban and Bin Ladlr"
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "Strains have surfaced between the Taliban and Bin Ladin over his calls for violence against Americans.",
+  "Taliban leadership is debating whether to continue giving Bin Ladin safehaven.",
+  "Mullah Omar earlier expressed dissatisfaction with Bin Ladin's high visibility.",
+  "The Taliban has given no indication it plans to expel Bin Ladin."
+ ]
+}

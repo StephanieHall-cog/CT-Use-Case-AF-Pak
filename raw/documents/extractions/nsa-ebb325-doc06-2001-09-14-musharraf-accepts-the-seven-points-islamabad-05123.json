@@ -1,0 +1,500 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb325-doc06-2001-09-14-musharraf-accepts-the-seven-points-islamabad-05123",
+  "title": "Musharraf Accepts The Seven Points (Islamabad 05123)",
+  "authors": "U.S. Embassy Islamabad",
+  "publisher": "National Security Archive (GWU), \"No-Go\" Tribal Areas Became Basis for Afghan Insurgency Documents Show",
+  "published": "2001-09-14",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB325/doc06.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB325/index.htm",
+  "pages": 4,
+  "kind": "cable",
+  "note": "[Secret] After meeting his military commanders, Musharraf accepts the seven U.S. requests \"without conditions,\" while noting technical issues needing clarification. He asks whether the U.S. mission targets UBL and his supporters or the Taliban as well, urges a prompt economic recovery effort after military action, and says Islamabad wants a friendly government in Kabul.",
+  "collection": "NSAEBB325",
+  "doc_number": "Document 6",
+  "relevance": "high",
+  "ocr": 4
+ },
+ "persons": [
+  {
+   "name": "Pervez Musharraf",
+   "aliases": [
+    "General Musharraf",
+    "Musharraf"
+   ],
+   "role": "Pakistani head of government and army chief (General) in September 2001",
+   "organizations": [
+    "Government of Pakistan",
+    "Pakistan Army"
+   ],
+   "nationality_or_origin": "Pakistani",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Islamabad",
+    "Pakistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "GENERAL MUSHARRAF ACCEPTS THE SEVEN ACTIONS WE ARE ASKING OF THE GOP TO SUPPORT OUR EFFORTS AGAINST INTERNATIONAL TERRORISM."
+    },
+    {
+     "timestamp": "p.1",
+     "quote": "HE SAID HE ACCEPTED THE POINTS WITHOUT CONDITIONS AND THAT HIS MILITARY LEADERSHIP CONCURRED."
+    }
+   ]
+  },
+  {
+   "name": "Wendy Chamberlin",
+   "aliases": [
+    "Ambassador Chamberlin"
+   ],
+   "role": "US Ambassador to Pakistan; classifier of the cable",
+   "organizations": [
+    "US Embassy Islamabad",
+    "US Department of State"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Islamabad"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "CLASSIFIED BY AMBASSADOR CHAMBERLIN; REASONS 1.5 (B) AND (D)"
+    },
+    {
+     "timestamp": "p.1",
+     "quote": "IN A 90-MINUTE MEETING WITH THE AMBASSADOR AND POLCOUNSELOR LATE SEPTEMBER 14, MUSHARRAF"
+    }
+   ]
+  },
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "UBL",
+    "Osama bin Laden"
+   ],
+   "role": "al-Qa'ida leader; target of potential US strikes",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.3",
+     "quote": "DO WE INTEND TO STRIKE UBL AND HIS SUPPORTERS, OR THE TALIBAN AS WELL?"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Government of Pakistan",
+   "aliases": [
+    "GOP"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "United States"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Asked by the US to take seven actions supporting counterterrorism efforts."
+  },
+  {
+   "name": "Pakistan Army",
+   "aliases": [
+    "Pakistani military leadership",
+    "Corps Commanders"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "Government of Pakistan"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Corps commanders met all day with Musharraf and concurred with accepting the seven points."
+  },
+  {
+   "name": "US Embassy Islamabad",
+   "aliases": [
+    "AMEMBASSY ISLAMABAD"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "US Department of State"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Originator of the cable."
+  },
+  {
+   "name": "US Department of State",
+   "aliases": [
+    "SECSTATE WASHDC"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Recipient of the cable."
+  },
+  {
+   "name": "Taliban",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Described as the Afghan friendly government in Kabul; question whether US would strike Taliban."
+  },
+  {
+   "name": "al-Qa'ida",
+   "aliases": [
+    "al-Qaeda"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Implied via UBL and his supporters."
+  }
+ ],
+ "places": [
+  {
+   "name": "Islamabad",
+   "type": "city",
+   "country": "Pakistan",
+   "parent": "Pakistan",
+   "significance": "Site of the meeting between Musharraf and the US Ambassador."
+  },
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Accepted US counterterrorism demands."
+  },
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Target of potential US action against UBL and the Taliban."
+  },
+  {
+   "name": "Kabul",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Seat of the Taliban government that Musharraf warned against alienating."
+  }
+ ],
+ "events": [
+  {
+   "date": "2001-09-14",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "90-minute late meeting in which Musharraf told the Ambassador and Political Counselor that he accepted the seven US points without conditions, after an all-day meeting with his corps commanders.",
+   "place": "Islamabad",
+   "actors": [
+    "Pervez Musharraf",
+    "Wendy Chamberlin",
+    "Pakistan Army"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-09-14",
+   "date_precision": "day",
+   "type": "agreement",
+   "description": "Musharraf accepted the seven points and invited a US interagency team to work out implementation details.",
+   "place": "Islamabad",
+   "actors": [
+    "Pervez Musharraf",
+    "Government of Pakistan"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-09-14",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "The US Embassy Islamabad sent cable 05123 ('Musharraf Accepts The Seven Points') to the State Department; this is section 02 of 02.",
+   "place": "Islamabad",
+   "actors": [
+    "US Embassy Islamabad",
+    "US Department of State"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "2001-09-13",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "An unnamed speaker, presumably Pakistani leader Musharraf given the cable title, asked whether the US intended to strike UBL and his supporters or also the Taliban. He stressed the importance of not alienating the friendly Afghan government in Kabul. The date is approximate, shortly before the cable's date.",
+   "place": "Islamabad",
+   "actors": [
+    "Pervez Musharraf",
+    "Usama bin Ladin",
+    "Taliban"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "2001-09-14",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "US Embassy Islamabad sends cable 05123, 'Musharraf Accepts the Seven Points', to the Secretary of State. It reports that Musharraf and his military leadership are on board and that Pakistan will need full US support.",
+   "place": "Islamabad",
+   "actors": [
+    "US Embassy Islamabad",
+    "US Department of State",
+    "Pervez Musharraf"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "2001-09-13",
+   "date_precision": "approx",
+   "type": "meeting",
+   "description": "A Pakistani interlocutor, evidently Musharraf, asks whether the US intends to strike UBL and supporters or the Taliban as well, and stresses not alienating the friendly Afghan government in Kabul.",
+   "place": "Islamabad",
+   "actors": [
+    "Pervez Musharraf",
+    "Wendy Chamberlin",
+    "Taliban",
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "2001-09-14",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "Musharraf holds a 90-minute meeting with Ambassador Chamberlin and the Political Counselor and accepts the seven US points without conditions; he discussed them earlier in an all-day meeting with his corps commanders.",
+   "place": "Islamabad",
+   "actors": [
+    "Pervez Musharraf",
+    "Wendy Chamberlin",
+    "Pakistan Army"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-09-14",
+   "date_precision": "day",
+   "type": "agreement",
+   "description": "Pakistan, through Musharraf, accepts the seven US requests for support against international terrorism; the military leadership concurs and he invites an interagency team to address implementation details.",
+   "place": "Islamabad",
+   "actors": [
+    "Pervez Musharraf",
+    "Government of Pakistan",
+    "Pakistan Army",
+    "US Embassy Islamabad"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-09-14",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "US Embassy Islamabad cables the Musharraf acceptance report to the State Department.",
+   "place": "Islamabad",
+   "actors": [
+    "US Embassy Islamabad",
+    "US Department of State"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Pervez Musharraf",
+   "target": "Wendy Chamberlin",
+   "type": "met_with",
+   "detail": "Musharraf met the Ambassador for 90 minutes on 14 September 2001 to convey acceptance of the seven points.",
+   "date": "2001-09-14",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "IN A 90-MINUTE MEETING WITH THE AMBASSADOR AND POLCOUNSELOR LATE SEPTEMBER 14, MUSHARRAF SAID HE HAD STUDIED THE POINTS"
+  },
+  {
+   "source": "Pervez Musharraf",
+   "target": "Pakistan Army",
+   "type": "leads",
+   "detail": "Musharraf consulted his corps commanders, who concurred.",
+   "date": "2001-09-14",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "DISCUSSED THEM IN AN ALL-DAY MEETING WITH HIS CORPS COMMANDERS AND OTHER RANKING MILITARY OFFICERS."
+  },
+  {
+   "source": "Government of Pakistan",
+   "target": "Taliban",
+   "type": "other",
+   "detail": "Musharraf cautioned against alienating the Afghan government in Kabul (the Taliban).",
+   "date": "2001-09-14",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "IMPORTANT, HE SAID, NOT TO ALIENATE THE AFGHAN FRIENDLY GOVERNMENT IN KABUL."
+  },
+  {
+   "source": "US Embassy Islamabad",
+   "target": "US Department of State",
+   "type": "reports_to",
+   "detail": "The cable was sent from the US Embassy in Islamabad to the Secretary of State in Washington, marked IMMEDIATE.",
+   "date": "2001-09-14",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "FM AMEMBASSY ISLAMABAD ; . TO SECSTATE WASHDC IMMEDIATE 9020"
+  },
+  {
+   "source": "Taliban",
+   "target": "Kabul",
+   "type": "located_in",
+   "detail": "The text refers to the 'Afghan friendly government in Kabul', which in context is the Taliban regime. The identification is inferred from context.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "NOT TO ALIENATE THE AFGHAN FRIENDLY GOVERNMENT IN KABUL."
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Taliban",
+   "type": "other",
+   "detail": "The text asks whether US strikes would target UBL and his supporters 'or the Taliban as well', which links the two in the discussion without stating a relationship. The link is inferred from context.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "DO WE INTEND TO STRIKE UBL AND HIS SUPPORTERS, OR THE TALIBAN AS WELL?"
+  },
+  {
+   "source": "Pervez Musharraf",
+   "target": "Government of Pakistan",
+   "type": "leads",
+   "detail": "Musharraf is shown committing Pakistan to the US requests.",
+   "date": "2001-09-14",
+   "confidence": "inferred",
+   "timestamp": "p.4",
+   "quote": "MUSHARRAF IS PERSONALLY ON BOARD"
+  },
+  {
+   "source": "Taliban",
+   "target": "Kabul",
+   "type": "located_in",
+   "detail": "The Taliban government is the 'friendly' Afghan government in Kabul that the speaker says should not be alienated.",
+   "date": "2001-09-14",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "NOT TO ALIENATE THE AFGHAN FRIENDLY GOVERNMENT IN KABUL"
+  },
+  {
+   "source": "Government of Pakistan",
+   "target": "Taliban",
+   "type": "allied_with",
+   "detail": "Pakistan's concern about alienating the 'friendly' Afghan government in Kabul suggests a friendly relationship with the Taliban regime.",
+   "date": "2001-09-14",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "NOT TO ALIENATE THE AFGHAN FRIENDLY GOVERNMENT IN KABUL"
+  },
+  {
+   "source": "Government of Pakistan",
+   "target": "Taliban",
+   "type": "negotiated_with",
+   "detail": "The speaker asks whether the US intends to strike the Taliban as well as UBL, which bears on how Pakistan handles the Taliban government.",
+   "date": "2001-09-14",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "DO WE INTEND TO STRIKE UBL AND HIS SUPPORTERS, OR THE TALIBAN AS WELL?"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Taliban",
+   "type": "allied_with",
+   "detail": "The text separates UBL and his supporters from the Taliban as possible targets, implying a linkage between them.",
+   "date": "2001-09-14",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "STRIKE UBL AND HIS SUPPORTERS, OR THE TALIBAN AS WELL?"
+  },
+  {
+   "source": "Pervez Musharraf",
+   "target": "Pakistan Army",
+   "type": "met_with",
+   "detail": "Musharraf discussed the points in an all-day meeting with his corps commanders and other senior officers.",
+   "date": "2001-09-14",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "DISCUSSED THEM IN AN ALL-DAY MEETING WITH HIS CORPS COMMANDERS AND OTHER RANKING MILITARY OFFICERS."
+  },
+  {
+   "source": "Wendy Chamberlin",
+   "target": "US Embassy Islamabad",
+   "type": "leads",
+   "detail": "Chamberlin is the Ambassador who classified and sent the cable from the Embassy.",
+   "date": "2001-09-14",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "CLASSIFIED BY AMBASSADOR CHAMBERLIN"
+  },
+  {
+   "source": "US Embassy Islamabad",
+   "target": "Islamabad",
+   "type": "located_in",
+   "detail": "The US Embassy is located in Islamabad.",
+   "date": "2001-09-14",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "FM AMEMBASSY ISLAMABAD"
+  },
+  {
+   "source": "Government of Pakistan",
+   "target": "Pakistan",
+   "type": "located_in",
+   "detail": "The GOP is Pakistan's government.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "SEVEN ACTIONS WE ARE ASKING OF THE GOP"
+  },
+  {
+   "source": "Pervez Musharraf",
+   "target": "US Embassy Islamabad",
+   "type": "negotiated_with",
+   "detail": "Musharraf accepted the seven US points and invited an interagency team to work out implementation details.",
+   "date": "2001-09-14",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "MUSHARRAF DISCUSSED IMPLEMENTATION DETAILS REMAINING TO BE WORKED OUT REGARDING THE POINTS AND INVITED US TO SEND AN INTERAGENCY TEAM"
+  }
+ ],
+ "sources_cited": [
+  "US Embassy Islamabad cable ISLAMABAD 005123, 14 September 2001 (declassified)"
+ ],
+ "key_claims": [
+  "Musharraf accepted the seven US counterterrorism points without conditions on 14 September 2001.",
+  "Pakistan's top military commanders concurred with Musharraf's decision.",
+  "Musharraf raised technical and security implementation issues and invited a US interagency team to resolve them.",
+  "Musharraf asked whether the US would strike UBL and supporters only or the Taliban as well, and urged not to alienate the Kabul government.",
+  "The Embassy assessed that Musharraf and his military leadership were personally on board."
+ ]
+}

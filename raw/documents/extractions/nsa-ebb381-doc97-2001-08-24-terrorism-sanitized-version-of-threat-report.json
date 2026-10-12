@@ -1,0 +1,107 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc97-2001-08-24-terrorism-sanitized-version-of-threat-report",
+  "title": "Terrorism: Sanitized Version of Threat Report",
+  "authors": "CIA",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "2001-08-24",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7xl1-j1w1s/2001-08-24-terrorism-sanitized-version-of-threat.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 2,
+  "kind": "intelligence report",
+  "note": "CIA intelligence report. As of late August 2001, indications that an al-Qaeda-associated individual was considering terrorist operations in the US; no further information on timing or targets. Source: Chapter 8, Endnote 39.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 97",
+  "relevance": "medium",
+  "ocr": 0
+ },
+ "persons": [],
+ "organizations": [
+  {
+   "name": "al-Qa'ida",
+   "aliases": [
+    "al-Qaeda",
+    "al-Qa'ida"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "A report as of late August 2001 says an individual associated with al-Qa'ida was considering mounting terrorist operations in the United States."
+  },
+  {
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Issuer of the sanitized threat report, an information report not finally evaluated intelligence."
+  }
+ ],
+ "places": [
+  {
+   "name": "United States",
+   "type": "country",
+   "country": "United States",
+   "parent": "",
+   "significance": "Location of alleged targets of possible al-Qa'ida terrorist operations or attacks."
+  }
+ ],
+ "events": [
+  {
+   "date": "2001-08",
+   "date_precision": "month",
+   "type": "other",
+   "description": "As of late August 2001, indications that an individual associated with al-Qa'ida was considering mounting terrorist operations in the United States. No further information was available on timing, attacks, or targets.",
+   "place": "United States",
+   "actors": [
+    "al-Qa'ida"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "2001-08",
+   "date_precision": "month",
+   "type": "other",
+   "description": "As of late August 2001 there were indications that an individual associated with al-Qa'ida was considering mounting terrorist operations in the United States. No further information was available on the timing of attacks or the alleged targets.",
+   "place": "United States",
+   "actors": [
+    "al-Qa'ida"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "2001-08-24",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "The CIA issued a sanitized version of a threat report on terrorism to White House, State, military and other agency recipients. Per the document header, it was approved for release on 25 April 2012.",
+   "place": "United States",
+   "actors": [
+    "Central Intelligence Agency"
+   ],
+   "timestamp": "p.2"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "al-Qa'ida",
+   "target": "United States",
+   "type": "other",
+   "detail": "An individual associated with al-Qa'ida was reportedly considering mounting terrorist operations in the United States (a targeting relationship).",
+   "date": "late August 2001",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "AN INDIVIDUAL ASSOCIATED WITH AL-QA'IDA WAS CONSIDERING MOUNTING TERRORIST OPERATIONS IN THE UNITED STATES."
+  }
+ ],
+ "sources_cited": [
+  "CIA information report (sanitized version of threat report), approved for release 25 April 2012"
+ ],
+ "key_claims": [
+  "As of late August 2001 there were indications that an individual associated with al-Qa'ida was considering mounting terrorist operations in the United States.",
+  "No further information was available on the timing of any attacks or on the alleged targets in the United States."
+ ]
+}

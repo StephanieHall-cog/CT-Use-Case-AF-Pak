@@ -1,0 +1,611 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb358a-doc11-2001-09-24-mahmud-plans-2nd-mission-to-afghanistan-islamabad",
+  "title": "Mahmud Plans 2nd Mission to Afghanistan (Islamabad 05337)",
+  "authors": "U.S. Embassy Islamabad",
+  "publisher": "National Security Archive (GWU), New Documents Detail America's Strategic Response to 9/11",
+  "published": "2001-09-24",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB358a/doc11.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB358a/index.htm",
+  "pages": 3,
+  "kind": "cable",
+  "note": "[Secret] ISI Director Mahmoud tells Ambassador Chamberlin he will make a last-minute plea to the Taliban, preferring a negotiated solution and saying Omar is frightened. He promises full Pakistani support, including for military action. Chamberlin says Omar has refused every U.S. demand and the trip cannot delay military planning.",
+  "collection": "NSAEBB358a",
+  "doc_number": "Document 11",
+  "relevance": "high",
+  "ocr": 3
+ },
+ "persons": [
+  {
+   "name": "Mahmud Ahmed",
+   "aliases": [
+    "General Mahmud",
+    "Mahmud"
+   ],
+   "role": "Chief of Pakistani Intelligence (ISI); planning a second mission to meet Mullah Omar",
+   "organizations": [
+    "ISI"
+   ],
+   "nationality_or_origin": "Pakistani",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan",
+    "Pakistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Chief of Pakistani Intelligence General Mahmud plans to meet a second time with the Taliban's Mullah Omar"
+    },
+    {
+     "timestamp": "p.2",
+     "quote": "\"I implore you,\" Mahmud told the Ambassador, \"not to act in anger. Real victory will come in negotiations.\""
+    }
+   ]
+  },
+  {
+   "name": "Mullah Omar",
+   "aliases": [
+    "Mullah Muhammad Omar"
+   ],
+   "role": "Taliban leader, target of Pakistani/US demands",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Despite Omar's intransigence during Mahmud's September 17 meeting with him"
+    },
+    {
+     "timestamp": "p.2",
+     "quote": "Omar himself, he said, is frightened."
+    }
+   ]
+  },
+  {
+   "name": "Usama Bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "UBL",
+    "Bin Laden"
+   ],
+   "role": "al-Qa'ida leader whose surrender was demanded",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "surrender Usama Bin Laden and his Al Qaida lieutenants"
+    }
+   ]
+  },
+  {
+   "name": "Wendy Chamberlin",
+   "aliases": [
+    "Ambassador Chamberlin"
+   ],
+   "role": "US Ambassador to Pakistan",
+   "organizations": [
+    "US Department of State"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Islamabad"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "CLASSIFIED BY AMBASSADOR CHAMBERLIN"
+    },
+    {
+     "timestamp": "p.2",
+     "quote": "Ambassador said she was pleased Mahmud had reiterated this commitment."
+    }
+   ]
+  },
+  {
+   "name": "Major General Chilton",
+   "aliases": [
+    "Kevin Chilton"
+   ],
+   "role": "Leader of the JCS/CENTCOM team in military coordination talks with Pakistan",
+   "organizations": [
+    "JCS",
+    "CENTCOM"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Islamabad"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "JCS/CENTCOM team led by Major General (S) Chilton"
+    }
+   ]
+  },
+  {
+   "name": "Pervez Musharraf",
+   "aliases": [
+    "President Musharraf"
+   ],
+   "role": "President of Pakistan",
+   "organizations": [
+    "Government of Pakistan"
+   ],
+   "nationality_or_origin": "Pakistani",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Pakistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.3",
+     "quote": "Mahmud's eleventh-hour mission also serves President Musharraf's domestic interests."
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Taliban",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Led by Mullah Omar; asked to surrender bin Laden and close training camps."
+  },
+  {
+   "name": "al-Qa'ida",
+   "aliases": [
+    "Al Qaida",
+    "al-Qaeda"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Target of US demands; training camps to be shut and inspected."
+  },
+  {
+   "name": "ISI",
+   "aliases": [
+    "Pakistani Intelligence"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Headed by General Mahmud."
+  },
+  {
+   "name": "JCS/CENTCOM team",
+   "aliases": [
+    "JCS",
+    "CENTCOM"
+   ],
+   "type": "military",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Met Pakistani counterparts for military coordination."
+  },
+  {
+   "name": "Shelter Now International",
+   "aliases": [
+    "Shelter Now"
+   ],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Aid group whose staff (the 'Shelter Now detainees') were held by the Taliban."
+  },
+  {
+   "name": "U.S. Embassy Islamabad",
+   "aliases": [
+    "AMEMBASSY ISLAMABAD"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Author of cable."
+  },
+  {
+   "name": "Government of the United Arab Emirates",
+   "aliases": [
+    "UAE"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "UAE",
+   "notes": "Had severed relations with the Taliban."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Destination of Mahmud's second mission; Pakistan withdrawing diplomats."
+  },
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Pledged to stand behind US."
+  },
+  {
+   "name": "Islamabad",
+   "type": "city",
+   "country": "Pakistan",
+   "parent": "Pakistan",
+   "significance": "Location of US Embassy and talks."
+  }
+ ],
+ "events": [
+  {
+   "date": "2001-09-17",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "Mahmud met Mullah Omar; Omar was intransigent.",
+   "place": "Afghanistan",
+   "actors": [
+    "Mahmud Ahmed",
+    "Mullah Omar"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-09-25",
+   "date_precision": "day",
+   "type": "travel",
+   "description": "Planned second Mahmud trip to meet Omar, possibly with Pakistani religious leaders, to press for surrender of bin Laden and release of Shelter Now detainees.",
+   "place": "Afghanistan",
+   "actors": [
+    "Mahmud Ahmed",
+    "Mullah Omar"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-09-23",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "Mahmud briefed Ambassador Chamberlin during JCS/CENTCOM military coordination discussions.",
+   "place": "Islamabad",
+   "actors": [
+    "Mahmud Ahmed",
+    "Wendy Chamberlin",
+    "Major General Chilton"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-09-11",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "September 11 attacks; US ended willingness to negotiate with the Taliban.",
+   "place": "",
+   "actors": [
+    "al-Qa'ida"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "2001-09-25",
+   "date_precision": "day",
+   "type": "travel",
+   "description": "Mahmud planned a second trip to Afghanistan as early as Sept 25 to meet Omar, possibly with Pakistani religious leaders.",
+   "place": "Afghanistan",
+   "actors": [
+    "Mahmud Ahmed",
+    "Mullah Omar"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-09-24",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "JCS/CENTCOM team met Pakistani counterparts for joint military coordination; Mahmud briefed the Ambassador.",
+   "place": "Islamabad",
+   "actors": [
+    "JCS/CENTCOM team",
+    "Major General Chilton",
+    "Mahmud Ahmed",
+    "Wendy Chamberlin"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "2001-09-11",
+   "date_precision": "day",
+   "type": "other",
+   "description": "U.S. willingness to continue discussions with the Taliban ended after September 11.",
+   "place": "",
+   "actors": [
+    "U.S. Embassy Islamabad",
+    "Taliban"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "2001-09-26",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Pakistan planned to withdraw its remaining diplomats from Afghanistan within 48 hours and was considering severing relations.",
+   "place": "Afghanistan",
+   "actors": [
+    "Mahmud Ahmed",
+    "Taliban"
+   ],
+   "timestamp": "p.2"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Mahmud Ahmed",
+   "target": "ISI",
+   "type": "leads",
+   "detail": "Mahmud is chief of Pakistani intelligence.",
+   "date": "2001-09",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Chief of Pakistani Intelligence General Mahmud"
+  },
+  {
+   "source": "Mahmud Ahmed",
+   "target": "Mullah Omar",
+   "type": "met_with",
+   "detail": "Met on Sept 17 and planned a second meeting.",
+   "date": "2001-09-17",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Mahmud's September 17 meeting with him"
+  },
+  {
+   "source": "Mahmud Ahmed",
+   "target": "Mullah Omar",
+   "type": "negotiated_with",
+   "detail": "Pressing Omar to surrender bin Laden and shut camps.",
+   "date": "2001-09",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "to press him to meet our demands on Usama Bin Laden and Al Quaida"
+  },
+  {
+   "source": "Mullah Omar",
+   "target": "Taliban",
+   "type": "leads",
+   "detail": "Omar is the Taliban leader.",
+   "date": "2001-09",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "the Taliban's Mullah Omar"
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "al-Qa'ida",
+   "type": "leads",
+   "detail": "Bin Laden and his al-Qa'ida lieutenants.",
+   "date": "2001-09",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "surrender Usama Bin Laden and his Al Qaida lieutenants"
+  },
+  {
+   "source": "Mahmud Ahmed",
+   "target": "Pervez Musharraf",
+   "type": "reports_to",
+   "detail": "Mission serves Musharraf's domestic interests.",
+   "date": "2001-09",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "Mahmud's eleventh-hour mission also serves President Musharraf's domestic interests."
+  },
+  {
+   "source": "Wendy Chamberlin",
+   "target": "Mahmud Ahmed",
+   "type": "met_with",
+   "detail": "Ambassador met Mahmud and told him his trip must not delay military planning.",
+   "date": "2001-09-23",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "your efforts should not impede any of the military planning we are engaged in today"
+  },
+  {
+   "source": "Major General Chilton",
+   "target": "JCS/CENTCOM team",
+   "type": "leads",
+   "detail": "Chilton led the team.",
+   "date": "2001-09",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "JCS/CENTCOM team led by Major General (S) Chilton"
+  },
+  {
+   "source": "Mahmud Ahmed",
+   "target": "ISI",
+   "type": "leads",
+   "detail": "Mahmud is described as Chief of Pakistani Intelligence (ISI).",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Chief of Pakistani Intelligence General Mahmud plans to meet a second time with the Taliban's Mullah Omar"
+  },
+  {
+   "source": "Mahmud Ahmed",
+   "target": "Mullah Omar",
+   "type": "negotiated_with",
+   "detail": "Mahmud presses Omar to surrender Bin Ladin, release Shelter Now detainees and close camps.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "to press him to meet our demands on Usama Bin Laden and Al Quaida and to release the Shelter Now detainees"
+  },
+  {
+   "source": "Mullah Omar",
+   "target": "Taliban",
+   "type": "leads",
+   "detail": "Omar is identified as the Taliban's leader.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "the Taliban's Mullah Omar"
+  },
+  {
+   "source": "Mullah Omar",
+   "target": "Shelter Now International",
+   "type": "captured",
+   "detail": "The Taliban hold Shelter Now detainees whose release is demanded from Omar.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "release the Shelter Now detainees"
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "al-Qa'ida",
+   "type": "leads",
+   "detail": "Bin Ladin is surrounded by Al Qaida lieutenants.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "surrender Usama Bin Laden and his Al Qaida lieutenants"
+  },
+  {
+   "source": "Mahmud Ahmed",
+   "target": "JCS/CENTCOM team",
+   "type": "met_with",
+   "detail": "Mahmud discussed his plans during a discussion on military coordination with the team.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Mahmud discussed his plans during a larger discussion on military coordination with the JCS/CENTCOM team"
+  },
+  {
+   "source": "Major General Chilton",
+   "target": "JCS/CENTCOM team",
+   "type": "leads",
+   "detail": "The team was led by Major General Chilton.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "JCS/CENTCOM team led by Major General (S) Chilton"
+  },
+  {
+   "source": "Wendy Chamberlin",
+   "target": "Mahmud Ahmed",
+   "type": "met_with",
+   "detail": "Ambassador Chamberlin met Mahmud; he told her of his mission and they discussed it.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Mahmud told the Ambassador his mission was taking place in parallel with U.S.-Pakistani military planning."
+  },
+  {
+   "source": "Wendy Chamberlin",
+   "target": "U.S. Embassy Islamabad",
+   "type": "leads",
+   "detail": "Chamberlin is the Ambassador who classified the cable.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "CLASSIFIED BY AMBASSADOR CHAMBERLIN"
+  },
+  {
+   "source": "Wendy Chamberlin",
+   "target": "Pervez Musharraf",
+   "type": "met_with",
+   "detail": "The Ambassador repeated Musharraf's words back to him, and Mahmud was present.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "When Musharraf said Pakistan would stand by us no matter what, Ambassador looked at, him and repeated his words back to him."
+  },
+  {
+   "source": "Mahmud Ahmed",
+   "target": "Pervez Musharraf",
+   "type": "reports_to",
+   "detail": "Mahmud's mission serves Musharraf's domestic interests.",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "Mahmud's eleventh-hour mission also serves President Musharraf's domestic interests."
+  },
+  {
+   "source": "Government of the United Arab Emirates",
+   "target": "Taliban",
+   "type": "rival_of",
+   "detail": "The UAE formally severed relations with the Taliban's Afghanistan.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "considering formally severing relations, as the UAE has done"
+  },
+  {
+   "source": "ISI",
+   "target": "Taliban",
+   "type": "negotiated_with",
+   "detail": "Pakistani intelligence chief tries to persuade the Taliban to surrender Bin Ladin.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "Mahmud is trying to persuade the Taliban to save some of itself by surrendering Bin Laden"
+  },
+  {
+   "source": "Taliban",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "The Taliban govern Afghanistan.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "If the Taliban are eliminated, he said, Afghanistan will revert to warlordism."
+  },
+  {
+   "source": "al-Qa'ida",
+   "target": "Taliban",
+   "type": "sheltered_by",
+   "detail": "Bin Ladin and al-Qa'ida camps are in Taliban-held Afghanistan.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "shut down terrorist training camps and allow us to inspect them"
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "ISI chief Mahmud planned a second mission to Mullah Omar to demand surrender of bin Laden and al-Qa'ida, closure and inspection of camps, and release of Shelter Now detainees.",
+  "Mahmud claimed the mission ran parallel to US-Pakistani military planning and did not change Pakistan's commitments.",
+  "Mahmud argued the Taliban were weak, Omar frightened, and that Afghans should deal with al-Qa'ida themselves.",
+  "Mahmud warned that eliminating the Taliban would produce warlordism and a generation of angry young Muslim men.",
+  "Pakistan planned to withdraw its remaining diplomats from Afghanistan within 48 hours and was considering severing relations as the UAE had.",
+  "The US Embassy assessed Mahmud had virtually no chance of success, but the mission served Musharraf's domestic political needs."
+ ]
+}

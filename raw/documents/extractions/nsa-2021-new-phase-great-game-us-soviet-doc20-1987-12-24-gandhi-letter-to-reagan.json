@@ -1,0 +1,607 @@
+{
+ "document": {
+  "doc_id": "nsa-2021-new-phase-great-game-us-soviet-doc20-1987-12-24-gandhi-letter-to-reagan",
+  "title": "Gandhi Letter to Reagan",
+  "authors": "Rajiv Gandhi",
+  "publisher": "National Security Archive (GWU), A New Phase in the Great Game: U.S., Soviets, India, Pakistan vied to shape a new Afghanistan in late 1980s | National Security Archive",
+  "published": "1987-12-24",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/5707179/Document-20-Gandhi-Letter-to-Reagan.pdf",
+  "source_page": "https://nsarchive.gwu.edu/briefing-book/afghanistan-russia-programs/2019-02-01/new-phase-great-game-us-soviets-india-pakistan-vied-shape-new-afghanistan-late-1980s",
+  "pages": 5,
+  "kind": "letter",
+  "note": "Gandhi congratulates Reagan on the INF treaty and informs him of his meeting with Najibullah and Indian outreach to Zahir Shah and other groups inside and outside Afghanistan to facilitate a stable, representative political order.",
+  "collection": "new-new-phase-great-game-us-soviets-indi",
+  "doc_number": "Document 20",
+  "relevance": "medium",
+  "ocr": 4
+ },
+ "persons": [
+  {
+   "name": "Rajiv Gandhi",
+   "aliases": [
+    "Rajiv Gandhi"
+   ],
+   "role": "Prime Minister of India; author of the letter",
+   "organizations": [
+    "Government of India"
+   ],
+   "nationality_or_origin": "Indian",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "New Delhi"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "I had a meeting in Delhi today with Mr. Najibullah, who made a transit halt on his way to Vietnam."
+    }
+   ]
+  },
+  {
+   "name": "Ronald Reagan",
+   "aliases": [
+    "Ronald Wilson Reagan"
+   ],
+   "role": "President of the United States; addressee",
+   "organizations": [
+    "United States Government"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Washington D.C."
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.4",
+     "quote": "The Hon'ble Ronald Reagan President of the United States of America Washington D.C."
+    }
+   ]
+  },
+  {
+   "name": "Mikhail Gorbachev",
+   "aliases": [
+    "Mr. Gorbachev"
+   ],
+   "role": "Soviet leader; signed INF agreement with Reagan",
+   "organizations": [
+    "Soviet Union"
+   ],
+   "nationality_or_origin": "Soviet",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Washington D.C."
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "your recent discussions with Mr. Gorbachev, particularly on the nuclear disarmament issue and the Afghanistan problem."
+    }
+   ]
+  },
+  {
+   "name": "Najibullah",
+   "aliases": [
+    "Mohammad Najibullah",
+    "Mr. Najibullah"
+   ],
+   "role": "Afghan leader (PDPA), met Gandhi in Delhi during transit halt to Vietnam",
+   "organizations": [
+    "PDPA"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Delhi",
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "Mr. Najibullah and the PDPA are showing greater flexibility in approaching the political issues involved."
+    }
+   ]
+  },
+  {
+   "name": "Zahir Shah",
+   "aliases": [
+    "King Zahir Shah"
+   ],
+   "role": "Former Afghan king in exile in Rome; India proposed continued discussions",
+   "organizations": [],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Rome"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "We have contacted King Zahir Shah in Rome and proposed continued discussions with him."
+    }
+   ]
+  },
+  {
+   "name": "Dean",
+   "aliases": [
+    "Ambassador Dean"
+   ],
+   "role": "US Ambassador (to India) who delivered Reagan's letter",
+   "organizations": [
+    "United States Government"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "New Delhi"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Your letter was handed over to me by Ambassador Dean."
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "PDPA",
+   "aliases": [
+    "People's Democratic Party of Afghanistan"
+   ],
+   "type": "political movement",
+   "parent_or_allies": [
+    "Soviet Union"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Ruling party led by Najibullah."
+  },
+  {
+   "name": "Soviet Union",
+   "aliases": [
+    "USSR"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Soviet Union",
+   "notes": "Committed to withdraw troops from Afghanistan."
+  },
+  {
+   "name": "United States Government",
+   "aliases": [
+    "US"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": ""
+  },
+  {
+   "name": "Government of India",
+   "aliases": [
+    "India"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "India",
+   "notes": ""
+  },
+  {
+   "name": "Senate Appropriations Committee",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Proposed linking India and Pakistan nuclear programmes."
+  },
+  {
+   "name": "Six-Nation Five-Continent peace initiative",
+   "aliases": [],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Summit planned in Stockholm."
+  }
+ ],
+ "places": [
+  {
+   "name": "New Delhi",
+   "type": "city",
+   "country": "India",
+   "parent": "India",
+   "significance": "Letter origin and site of Gandhi-Najibullah meeting."
+  },
+  {
+   "name": "Washington D.C.",
+   "type": "city",
+   "country": "United States",
+   "parent": "United States",
+   "significance": "Site of Reagan-Gorbachev summit."
+  },
+  {
+   "name": "Geneva",
+   "type": "city",
+   "country": "Switzerland",
+   "parent": "Switzerland",
+   "significance": "Venue of forthcoming proximity talks on Afghanistan."
+  },
+  {
+   "name": "Rome",
+   "type": "city",
+   "country": "Italy",
+   "parent": "Italy",
+   "significance": "Residence of King Zahir Shah."
+  },
+  {
+   "name": "Stockholm",
+   "type": "city",
+   "country": "Sweden",
+   "parent": "Sweden",
+   "significance": "Venue of summit of Six-Nation peace initiative."
+  },
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Subject of Soviet withdrawal and settlement."
+  },
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Hoped to adopt constructive approach."
+  },
+  {
+   "name": "Iran",
+   "type": "country",
+   "country": "Iran",
+   "parent": "",
+   "significance": "Hoped to adopt constructive approach."
+  },
+  {
+   "name": "Vietnam",
+   "type": "country",
+   "country": "Vietnam",
+   "parent": "",
+   "significance": "Najibullah's destination."
+  }
+ ],
+ "events": [
+  {
+   "date": "1987-12-24",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "Rajiv Gandhi met Najibullah in Delhi during a transit halt on his way to Vietnam.",
+   "place": "New Delhi",
+   "actors": [
+    "Rajiv Gandhi",
+    "Najibullah"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1987-12-24",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Gandhi's letter to Reagan on INF treaty, Afghanistan and the India-Pakistan nuclear issue.",
+   "place": "New Delhi",
+   "actors": [
+    "Rajiv Gandhi",
+    "Ronald Reagan"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1987-10-20",
+   "date_precision": "day",
+   "type": "other",
+   "description": "Direction on Indo-US cooperation set in Washington DC.",
+   "place": "Washington D.C.",
+   "actors": [
+    "Rajiv Gandhi",
+    "Ronald Reagan"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1987-12",
+   "date_precision": "month",
+   "type": "agreement",
+   "description": "Reagan and Gorbachev signed INF agreement at the Washington summit; Soviet commitment to withdraw from Afghanistan noted.",
+   "place": "Washington D.C.",
+   "actors": [
+    "Ronald Reagan",
+    "Mikhail Gorbachev"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1987-12-24",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Gandhi writes to Reagan reporting on his meeting with Najibullah and Afghan policy.",
+   "place": "New Delhi",
+   "actors": [
+    "Rajiv Gandhi",
+    "Ronald Reagan"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1987-12-24",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "Gandhi met Najibullah in Delhi during his transit halt en route to Vietnam.",
+   "place": "New Delhi",
+   "actors": [
+    "Rajiv Gandhi",
+    "Najibullah"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1987-12",
+   "date_precision": "month",
+   "type": "agreement",
+   "description": "Reagan and Gorbachev signed the INF agreement eliminating short and medium-range nuclear weapons.",
+   "place": "Washington D.C.",
+   "actors": [
+    "Ronald Reagan",
+    "Mikhail Gorbachev"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1988-01",
+   "date_precision": "month",
+   "type": "meeting",
+   "description": "Planned Stockholm summit of the Six-Nation Five-Continent peace initiative.",
+   "place": "Stockholm",
+   "actors": [
+    "Six-Nation Five-Continent peace initiative",
+    "Government of India"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1988",
+   "date_precision": "approx",
+   "type": "meeting",
+   "description": "Forthcoming proximity talks in Geneva on Afghanistan settlement.",
+   "place": "Geneva",
+   "actors": [
+    "Najibullah",
+    "Pakistan",
+    "Afghanistan"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1987-10-20",
+   "date_precision": "day",
+   "type": "agreement",
+   "description": "Direction on Indo-US cooperation set in Washington DC on October 20.",
+   "place": "Washington D.C.",
+   "actors": [
+    "Government of India",
+    "United States Government"
+   ],
+   "timestamp": "p.3"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Rajiv Gandhi",
+   "target": "Najibullah",
+   "type": "met_with",
+   "detail": "Gandhi met Najibullah in Delhi on a transit halt.",
+   "date": "1987-12-24",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "I had a meeting in Delhi today with Mr. Najibullah, who made a transit halt on his way to Vietnam."
+  },
+  {
+   "source": "Rajiv Gandhi",
+   "target": "Zahir Shah",
+   "type": "other",
+   "detail": "India contacted Zahir Shah in Rome and proposed continued discussions.",
+   "date": "1987",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "We have contacted King Zahir Shah in Rome and proposed continued discussions with him."
+  },
+  {
+   "source": "Najibullah",
+   "target": "PDPA",
+   "type": "leads",
+   "detail": "Najibullah and the PDPA mentioned together as showing flexibility.",
+   "date": "1987",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "Mr. Najibullah and the PDPA are showing greater flexibility in approaching the political issues involved."
+  },
+  {
+   "source": "Rajiv Gandhi",
+   "target": "Ronald Reagan",
+   "type": "other",
+   "detail": "Gandhi corresponded with Reagan, thanking him for confidence on Gorbachev discussions.",
+   "date": "1987-12-24",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "I thank you for taking me into confidence about your recent discussions with Mr. Gorbachev"
+  },
+  {
+   "source": "Ronald Reagan",
+   "target": "Mikhail Gorbachev",
+   "type": "met_with",
+   "detail": "Signed INF agreement at summit.",
+   "date": "1987-12",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "The agreement you signed with Mr. Gorbachev on the elimination of short and medium-range nuclear weapons"
+  },
+  {
+   "source": "Ronald Reagan",
+   "target": "Mikhail Gorbachev",
+   "type": "negotiated_with",
+   "detail": "Reagan and Gorbachev signed an agreement eliminating short and medium-range nuclear weapons (INF treaty) and discussed Afghanistan.",
+   "date": "1987-12",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "The agreement you signed with Mr. Gorbachev on the elimination of short and medium-range nuclear weapons is truly historical."
+  },
+  {
+   "source": "Dean",
+   "target": "Ronald Reagan",
+   "type": "reports_to",
+   "detail": "Ambassador Dean delivered Reagan's letter to Gandhi, acting as his representative.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Your letter was handed over to me by Ambassador Dean."
+  },
+  {
+   "source": "Dean",
+   "target": "Rajiv Gandhi",
+   "type": "met_with",
+   "detail": "Ambassador Dean handed Reagan's letter to Gandhi.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Your letter was handed over to me by Ambassador Dean."
+  },
+  {
+   "source": "Najibullah",
+   "target": "PDPA",
+   "type": "member_of",
+   "detail": "Najibullah is named together with the PDPA as showing greater flexibility on political issues.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "Mr. Najibullah and the PDPA are showing greater flexibility in approaching the political issues involved."
+  },
+  {
+   "source": "Najibullah",
+   "target": "Soviet Union",
+   "type": "other",
+   "detail": "Najibullah cited the Soviet commitment to withdraw troops as creating conditions for a peaceful settlement.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "the commitment made by the Soviet Union on the withdrawal of their troops had created conditions for a peaceful settlement"
+  },
+  {
+   "source": "Government of India",
+   "target": "Zahir Shah",
+   "type": "negotiated_with",
+   "detail": "India contacted King Zahir Shah in Rome and proposed continued discussions.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "We have contacted King Zahir Shah in Rome and proposed continued discussions with him."
+  },
+  {
+   "source": "Zahir Shah",
+   "target": "Rome",
+   "type": "located_in",
+   "detail": "Zahir Shah was in Rome.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "We have contacted King Zahir Shah in Rome"
+  },
+  {
+   "source": "Rajiv Gandhi",
+   "target": "Government of India",
+   "type": "leads",
+   "detail": "Gandhi writes as Prime Minister of India.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "PRIME MINISTER New Delhi December 24, 1987"
+  },
+  {
+   "source": "Rajiv Gandhi",
+   "target": "Six-Nation Five-Continent peace initiative",
+   "type": "member_of",
+   "detail": "Gandhi's India participates in the initiative, whose summit is to be held in Stockholm.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "forthcoming summit meeting in Stockholm next month of the Six-Nation Five-Continent peace initiative"
+  },
+  {
+   "source": "Six-Nation Five-Continent peace initiative",
+   "target": "Stockholm",
+   "type": "located_in",
+   "detail": "Initiative's summit scheduled in Stockholm in January 1988.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "forthcoming summit meeting in Stockholm next month"
+  },
+  {
+   "source": "Ronald Reagan",
+   "target": "Senate Appropriations Committee",
+   "type": "rival_of",
+   "detail": "Reagan intervened to correct the Committee's proposal linking India's and Pakistan's nuclear programmes.",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "your intervention in correcting the distorted perspective of the proposal which had been put forward by the Senate Appropriations Committee"
+  },
+  {
+   "source": "Government of India",
+   "target": "United States Government",
+   "type": "allied_with",
+   "detail": "India seeks continued close consultation and Indo-US cooperation.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "We look forward to continued close consultation and interaction with the United States in this process."
+  },
+  {
+   "source": "Government of India",
+   "target": "Pakistan",
+   "type": "other",
+   "detail": "India hopes Pakistan will adopt a constructive approach on Afghanistan.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "We hope Pakistan and Iran will also adopt a constructive approach"
+  },
+  {
+   "source": "Government of India",
+   "target": "Iran",
+   "type": "other",
+   "detail": "India hopes Iran will adopt a constructive approach on Afghanistan.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "Iran will also adopt a constructive approach to help resolve the many critical and sensitive aspects"
+  }
+ ],
+ "sources_cited": [
+  "Reagan letter to Gandhi (referenced, delivered by Ambassador Dean)"
+ ],
+ "key_claims": [
+  "India urged a broad-based government in Afghanistan embracing all sections of opinion.",
+  "Najibullah told Gandhi that the Soviet withdrawal commitment created conditions for a peaceful settlement.",
+  "India sought contact with King Zahir Shah and other groups inside and outside Afghanistan.",
+  "Gandhi hoped Pakistan and Iran would adopt a constructive approach to the Afghanistan settlement.",
+  "Gandhi thanked Reagan for correcting the Senate Appropriations Committee's linking of Indian and Pakistani nuclear programmes."
+ ]
+}

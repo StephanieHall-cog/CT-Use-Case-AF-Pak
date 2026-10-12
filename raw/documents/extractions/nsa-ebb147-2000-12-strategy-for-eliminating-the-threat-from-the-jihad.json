@@ -1,0 +1,1947 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb147-2000-12-strategy-for-eliminating-the-threat-from-the-jihad",
+  "title": "Strategy for Eliminating the Threat from the Jihadist Networks of al-Qida: Status and Prospects (Tab A)",
+  "authors": "NSC Counterterrorism Security Group staff (Richard Clarke)",
+  "publisher": "National Security Archive (GWU), Bush Administration's First Memo on al-Qaeda Declassified",
+  "published": "2000-12",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB147/clarke%20attachment.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB147/index.htm",
+  "pages": 13,
+  "kind": "report",
+  "note": "December 2000 Clinton-era NSC strategy paper, attached to the Clarke memo as Tab A. It reviews the al-Qaeda threat and the record to date, incorporates the CIA's Blue Sky ideas, and poses near-term policy choices. The goal was to roll back al-Qaeda over three to five years. It warns that continued operations at the current level 'will not seriously attrite their ability to plan and conduct attacks'.",
+  "collection": "NSAEBB147",
+  "doc_number": null,
+  "relevance": "high",
+  "ocr": 13
+ },
+ "persons": [
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Usama bin Laden",
+    "bin Ladin",
+    "bin Laden"
+   ],
+   "role": "Leader of al Qida; publicly declared war on the US in 1998; moved headquarters from Sudan to Afghanistan in 1996",
+   "organizations": [
+    "al Qida",
+    "al-Qida"
+   ],
+   "nationality_or_origin": "Saudi (stripped of citizenship)",
+   "status": "alive",
+   "status_detail": "At time of writing (Dec 2000) sheltered by Taliban in Afghanistan",
+   "family": [],
+   "locations": [
+    "Sudan",
+    "Khartoum",
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "The al Qida terrorist organization lead by Usama bin Ladin has stitched together a network of terrorist cells and groups to wage jihad."
+    },
+    {
+     "timestamp": "p.3",
+     "quote": "In 1998, Usama bin Ladin publicly declared war on the United States."
+    },
+    {
+     "timestamp": "p.6",
+     "quote": "US diplomacy with Saudi Arabia resulted in the Kingdom depriving bin Ladin of his Saudi citizenship"
+    },
+    {
+     "timestamp": "p.11",
+     "quote": "Pakistan's acquiescence in the Taliban's hosting of terrorist camps and bin Laden"
+    },
+    {
+     "timestamp": "p.12",
+     "quote": "Support for bin Laden comes also from a small but dedicated cadre of Islamist leaders"
+    },
+    {
+     "timestamp": "p.12",
+     "quote": "bin Laden, who is a hero especially in the Pushtun-ethnic border areas near Afghanistan"
+    }
+   ]
+  },
+  {
+   "name": "Mullah Omar",
+   "aliases": [
+    "Mullah Mohammed Omar"
+   ],
+   "role": "Ruler of the Taliban regime in Afghanistan",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.6",
+     "quote": "the ruler (Mullah Omar) has prohibited any action against al Qida."
+    }
+   ]
+  },
+  {
+   "name": "Sheik Rahman",
+   "aliases": [
+    "Omar Abdel Rahman",
+    "Sheikh Rahman"
+   ],
+   "role": "Cleric linked to the NY-NJ tunnels plot cell, linked to al Qida",
+   "organizations": [
+    "al Qida"
+   ],
+   "nationality_or_origin": "Egyptian",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [
+    {
+     "relation": "son",
+     "name": "Sheik Rahman's son (unnamed al Qida network commander)"
+    }
+   ],
+   "locations": [
+    "New York",
+    "New Jersey"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.3",
+     "quote": "Sheik Rahman and the cell arrested in New York and New Jersey for planning to destroy the NY-NJ tunnels were also linked to al Qida."
+    }
+   ]
+  },
+  {
+   "name": "Ali Muhammad",
+   "aliases": [
+    "Ali Mohamed"
+   ],
+   "role": "Former US Army Sergeant, suspect in East Africa bombings, informant on al Qida sleeper network in US",
+   "organizations": [
+    "al Qida"
+   ],
+   "nationality_or_origin": "",
+   "status": "detained",
+   "status_detail": "Suspect in East Africa bombings; providing information to US authorities",
+   "family": [],
+   "locations": [
+    "United States"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.4",
+     "quote": "A suspect in the East Africa bombings (former US Army Sergeant Ali Muhammad) has informed"
+    }
+   ]
+  },
+  {
+   "name": "Ahmad Shah Masood",
+   "aliases": [
+    "Ahamd Shah Masood",
+    "Ahmad Shah Massoud",
+    "Masood"
+   ],
+   "role": "Leader of the Northern Alliance, anti-Taliban commander",
+   "organizations": [
+    "Northern Alliance"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.9",
+     "quote": "Massive support to anti-Taliban groups such as the Northern Alliance led by Ahamd Shah Masood."
+    },
+    {
+     "timestamp": "p.11",
+     "quote": "would allow Masood to stay in the fight with the Taliban and al-Qida as a credible, conventional threat"
+    }
+   ]
+  },
+  {
+   "name": "Benazir Bhutto",
+   "aliases": [
+    "Bhutto"
+   ],
+   "role": "Pakistani government (prime minister) that supported the Taliban",
+   "organizations": [
+    "Government of Pakistan"
+   ],
+   "nationality_or_origin": "Pakistani",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Pakistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.11",
+     "quote": "Support for the Taliban has run through three Pakistani governments — Bhutto, Sharif, and now Musharraf"
+    },
+    {
+     "timestamp": "p.11",
+     "quote": "three Pakistani governments — Bhutto, Sharif, and now Musharraf"
+    }
+   ]
+  },
+  {
+   "name": "Nawaz Sharif",
+   "aliases": [
+    "Sharif"
+   ],
+   "role": "Pakistani government (prime minister) that supported the Taliban",
+   "organizations": [
+    "Government of Pakistan"
+   ],
+   "nationality_or_origin": "Pakistani",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Pakistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.11",
+     "quote": "Support for the Taliban has run through three Pakistani governments — Bhutto, Sharif, and now Musharraf"
+    },
+    {
+     "timestamp": "p.11",
+     "quote": "three Pakistani governments — Bhutto, Sharif, and now Musharraf"
+    }
+   ]
+  },
+  {
+   "name": "Pervez Musharraf",
+   "aliases": [
+    "Musharraf",
+    "Chief Executive Musharraf"
+   ],
+   "role": "Current Pakistani ruler whose government supports the Taliban",
+   "organizations": [
+    "Government of Pakistan",
+    "Pakistani Army",
+    "Pakistani military"
+   ],
+   "nationality_or_origin": "Pakistani",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Pakistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.11",
+     "quote": "Support for the Taliban has run through three Pakistani governments — Bhutto, Sharif, and now Musharraf"
+    },
+    {
+     "timestamp": "p.13",
+     "quote": "Chief Executive Musharraf has been clear in his discussions with American officials that: he opposes terrorism and al Qida"
+    }
+   ]
+  },
+  {
+   "name": "Masood",
+   "aliases": [
+    "Ahmad Shah Massoud",
+    "Ahmed Shah Masood"
+   ],
+   "role": "Northern Alliance military leader; proposed recipient of covert US assistance",
+   "organizations": [
+    "Northern Alliance"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.11",
+     "quote": "would allow Masood to stay in the fight with the Taliban and al-Qida as a credible, conventional threat"
+    }
+   ]
+  },
+  {
+   "name": "Ramzi Yousef",
+   "aliases": [
+    "Ramzi Ahmed Yousef"
+   ],
+   "role": "Terrorist rendered by Pakistan to the US",
+   "organizations": [],
+   "nationality_or_origin": "",
+   "status": "detained",
+   "status_detail": "rendered by Pakistan to the US",
+   "family": [],
+   "locations": [
+    "Pakistan",
+    "United States"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.12",
+     "quote": "Pakistan's rendition to the US of Ramzi Yousef and Mir Aimal Kansi"
+    }
+   ]
+  },
+  {
+   "name": "Mir Aimal Kansi",
+   "aliases": [
+    "Mir Aimal Kasi",
+    "Aimal Kasi"
+   ],
+   "role": "Fugitive rendered by Pakistan to the US",
+   "organizations": [],
+   "nationality_or_origin": "Pakistani",
+   "status": "detained",
+   "status_detail": "rendered by Pakistan to the US",
+   "family": [],
+   "locations": [
+    "Pakistan",
+    "United States"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.12",
+     "quote": "Pakistan's rendition to the US of Ramzi Yousef and Mir Aimal Kansi"
+    }
+   ]
+  },
+  {
+   "name": "Khalil Deek",
+   "aliases": [
+    "Khalil al-Deek"
+   ],
+   "role": "Suspect rendered by Pakistan to Jordan",
+   "organizations": [],
+   "nationality_or_origin": "",
+   "status": "detained",
+   "status_detail": "rendered by Pakistan to Jordan the previous year",
+   "family": [],
+   "locations": [
+    "Pakistan",
+    "Jordan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.12",
+     "quote": "and to Jordan last year of Khalil Deek were sharply criticized by the Islamic parties"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "al Qida",
+   "aliases": [
+    "al-Qa'ida",
+    "al-Qaeda",
+    "al Qaida",
+    "the base"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban",
+    "Egyptian Islamic Jihad",
+    "Islamic Movement of Uzbekistan"
+   ],
+   "rivals": [
+    "United States"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Led by Usama bin Ladin; HQ moved from Sudan to Afghanistan in 1996; trained up to 50,000 jihadists; 55th Brigade fights for Taliban."
+  },
+  {
+   "name": "Taliban",
+   "aliases": [
+    "Taliban regime"
+   ],
+   "type": "political movement",
+   "parent_or_allies": [
+    "al Qida",
+    "Pakistan",
+    "al-Qida",
+    "Pakistani military"
+   ],
+   "rivals": [
+    "Northern Alliance"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Harbors al Qida; Mullah Omar prohibited action against it."
+  },
+  {
+   "name": "Northern Alliance",
+   "aliases": [
+    "Afghan Northern Alliance"
+   ],
+   "type": "militia",
+   "parent_or_allies": [
+    "United States"
+   ],
+   "rivals": [
+    "Taliban",
+    "al Qida",
+    "al-Qida"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Led by Ahmad Shah Masood; supported by Russia and India."
+  },
+  {
+   "name": "55th Brigade",
+   "aliases": [
+    "55th Brigade"
+   ],
+   "type": "militia",
+   "parent_or_allies": [
+    "al Qida",
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Described as al Qida-provided best fighting unit for the Taliban."
+  },
+  {
+   "name": "Pakistani Army",
+   "aliases": [
+    "Pakistani military"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Provided Taliban with advisors, intelligence, training, equipment, and placed personnel in Taliban units."
+  },
+  {
+   "name": "Government of Pakistan",
+   "aliases": [
+    "Pakistan"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [
+    "India"
+   ],
+   "country_base": "Pakistan",
+   "notes": "Supports Taliban under 'strategic depth' concept."
+  },
+  {
+   "name": "Al Ittihad al-Islami",
+   "aliases": [
+    "al Ittihad"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al Qida"
+   ],
+   "rivals": [],
+   "country_base": "Somalia",
+   "notes": "Active in Kenya and Somalia."
+  },
+  {
+   "name": "Egyptian Islamic Jihad",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al Qida"
+   ],
+   "rivals": [],
+   "country_base": "Egypt",
+   "notes": "Sponsored by al Qida."
+  },
+  {
+   "name": "Islamic Movement of Uzbekistan",
+   "aliases": [
+    "IMU"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al Qida"
+   ],
+   "rivals": [],
+   "country_base": "Uzbekistan",
+   "notes": ""
+  },
+  {
+   "name": "Abu Sayyaf Group",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al Qida"
+   ],
+   "rivals": [],
+   "country_base": "Philippines",
+   "notes": ""
+  },
+  {
+   "name": "Libyan Islamic Fighting Group",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al Qida"
+   ],
+   "rivals": [],
+   "country_base": "Libya",
+   "notes": ""
+  },
+  {
+   "name": "Aden-Abyan Islamic Army",
+   "aliases": [
+    "Abayan Islamic Army of Yemen"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al Qida"
+   ],
+   "rivals": [],
+   "country_base": "Yemen",
+   "notes": ""
+  },
+  {
+   "name": "Chechen Mujaheedin",
+   "aliases": [
+    "Chechnyan Mujaheedin"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al Qida"
+   ],
+   "rivals": [],
+   "country_base": "Chechnya",
+   "notes": ""
+  },
+  {
+   "name": "Asbat al Ansar",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al Qida"
+   ],
+   "rivals": [],
+   "country_base": "Lebanon",
+   "notes": "Palestinian group."
+  },
+  {
+   "name": "Armed Islamic Group",
+   "aliases": [
+    "GIA"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al Qida"
+   ],
+   "rivals": [],
+   "country_base": "Algeria",
+   "notes": "Former members in a Canadian-based cell."
+  },
+  {
+   "name": "CIA",
+   "aliases": [
+    "Central Intelligence Agency"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [
+    "al Qida"
+   ],
+   "country_base": "United States",
+   "notes": "Virtual Station, CTC, Predator flights, covert action in Afghanistan."
+  },
+  {
+   "name": "CIA Counterterrorism Center",
+   "aliases": [
+    "CTC"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "CIA"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Builds partner capability."
+  },
+  {
+   "name": "Abu Nidal Organization",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Cited as example of previously rolled-back group."
+  },
+  {
+   "name": "Japanese Red Army",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Japan",
+   "notes": "Cited as rolled-back group."
+  },
+  {
+   "name": "United Nations Security Council",
+   "aliases": [
+    "UN Security Council"
+   ],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "",
+   "notes": "Sanctions on Afghanistan; December 2000 resolution passed 13-0-2."
+  },
+  {
+   "name": "al-Qida",
+   "aliases": [
+    "al-Qaeda",
+    "al Qida"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [
+    "Northern Alliance"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Sanctuary in Afghanistan under Taliban sponsorship is its center of gravity."
+  },
+  {
+   "name": "Pakistani military",
+   "aliases": [],
+   "type": "military",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Believes the Taliban is the best means of achieving strategic depth."
+  },
+  {
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Requested removal of operational detail; Predator UAV operations."
+  },
+  {
+   "name": "UN Security Council",
+   "aliases": [
+    "UNSC"
+   ],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Sanctions are a lever on Pakistan."
+  },
+  {
+   "name": "International Monetary Fund",
+   "aliases": [
+    "IMF"
+   ],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Economic support package sought by Musharraf."
+  },
+  {
+   "name": "Pakistani madrassas",
+   "aliases": [
+    "madrassas"
+   ],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Feed fundamentalism."
+  },
+  {
+   "name": "Islamic parties of Pakistan",
+   "aliases": [
+    "Islamist right wing"
+   ],
+   "type": "political movement",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Minimal electoral influence but street power; support bin Laden."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Al Qida HQ since 1996, training camps, Taliban sanctuary."
+  },
+  {
+   "name": "Sudan",
+   "type": "country",
+   "country": "Sudan",
+   "parent": "",
+   "significance": "Former al Qida base until 1996."
+  },
+  {
+   "name": "Khartoum",
+   "type": "city",
+   "country": "Sudan",
+   "parent": "Sudan",
+   "significance": "Bin Ladin asked to leave."
+  },
+  {
+   "name": "Derunta camp",
+   "type": "base",
+   "country": "Afghanistan",
+   "parent": "Jalalabad",
+   "significance": "Camp identified as development and testing facility for poisons and chemical weapons."
+  },
+  {
+   "name": "Jalalabad",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Near Derunta camp."
+  },
+  {
+   "name": "Uzbekistan",
+   "type": "country",
+   "country": "Uzbekistan",
+   "parent": "",
+   "significance": "Predator UAV flights operated from there."
+  },
+  {
+   "name": "Kenya",
+   "type": "country",
+   "country": "Kenya",
+   "parent": "",
+   "significance": "US embassy bombed in 1998."
+  },
+  {
+   "name": "Tanzania",
+   "type": "country",
+   "country": "Tanzania",
+   "parent": "",
+   "significance": "US embassy bombed in 1998."
+  },
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Taliban sponsor; limited cooperation against al Qida."
+  },
+  {
+   "name": "Yemen",
+   "type": "country",
+   "country": "Yemen",
+   "parent": "",
+   "significance": "1992 plot, planned and executed attacks on US Navy ship (Oct 2000)."
+  },
+  {
+   "name": "Jordan",
+   "type": "country",
+   "country": "Jordan",
+   "parent": "",
+   "significance": "Millennium plot cell."
+  },
+  {
+   "name": "Kashmir",
+   "type": "region",
+   "country": "",
+   "parent": "",
+   "significance": "Pakistan's proxy war nexus with Taliban hosting of terrorist camps."
+  },
+  {
+   "name": "Kabul",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Strategic depth seeks friendly government there."
+  },
+  {
+   "name": "Bosnia",
+   "type": "country",
+   "country": "Bosnia",
+   "parent": "",
+   "significance": "Islamic cause supported by bin Laden."
+  },
+  {
+   "name": "Chechnya",
+   "type": "region",
+   "country": "Russia",
+   "parent": "",
+   "significance": "Islamic cause supported by bin Laden."
+  }
+ ],
+ "events": [
+  {
+   "date": "1996",
+   "date_precision": "year",
+   "type": "travel",
+   "description": "Al Qida moved its headquarters from Sudan to Afghanistan after diplomatic pressure on Sudan.",
+   "place": "Afghanistan",
+   "actors": [
+    "al Qida",
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1998",
+   "date_precision": "year",
+   "type": "statement",
+   "description": "Usama bin Ladin publicly declared war on the United States.",
+   "place": "",
+   "actors": [
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1998-08",
+   "date_precision": "month",
+   "type": "attack",
+   "description": "Al Qida suicide truck-bombed US embassies in Kenya and Tanzania.",
+   "place": "Kenya",
+   "actors": [
+    "al Qida"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1998-08",
+   "date_precision": "month",
+   "type": "strike",
+   "description": "US struck al Qida facilities in Afghanistan and an associated chemical plant in Sudan.",
+   "place": "Afghanistan",
+   "actors": [
+    "CIA",
+    "al Qida"
+   ],
+   "timestamp": "p.7"
+  },
+  {
+   "date": "1999-12",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Simultaneous disruption of over twenty al Qida cells to prevent Millennium attacks.",
+   "place": "",
+   "actors": [
+    "al Qida",
+    "CIA"
+   ],
+   "timestamp": "p.7"
+  },
+  {
+   "date": "2000-09",
+   "date_precision": "month",
+   "type": "other",
+   "description": "CIA began covert Predator UAV flights into Afghanistan from Uzbekistan.",
+   "place": "Uzbekistan",
+   "actors": [
+    "CIA"
+   ],
+   "timestamp": "p.8"
+  },
+  {
+   "date": "2000-10",
+   "date_precision": "month",
+   "type": "attack",
+   "description": "Successful attack on a US Navy ship in Yemen.",
+   "place": "Yemen",
+   "actors": [
+    "al Qida"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "2000-12",
+   "date_precision": "month",
+   "type": "agreement",
+   "description": "US and Russia co-sponsored further UN sanctions on Taliban (arms embargo); passed 13-0-2.",
+   "place": "",
+   "actors": [
+    "United Nations Security Council",
+    "Taliban"
+   ],
+   "timestamp": "p.6"
+  },
+  {
+   "date": "2000-10",
+   "date_precision": "month",
+   "type": "attack",
+   "description": "Attack on USS Cole, after which Pakistan asked the US not to violate its airspace for punitive strikes.",
+   "place": "",
+   "actors": [
+    "al-Qida",
+    "Government of Pakistan"
+   ],
+   "timestamp": "p.13"
+  },
+  {
+   "date": "1999",
+   "date_precision": "year",
+   "type": "arrest",
+   "description": "Pakistan rendered Khalil Deek to Jordan, criticized by Islamic parties.",
+   "place": "Jordan",
+   "actors": [
+    "Government of Pakistan",
+    "Khalil Deek"
+   ],
+   "timestamp": "p.12"
+  },
+  {
+   "date": "2001-03",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Proposed resumption of Predator UAV operations.",
+   "place": "Afghanistan",
+   "actors": [
+    "Central Intelligence Agency"
+   ],
+   "timestamp": "p.11"
+  },
+  {
+   "date": "1996",
+   "date_precision": "year",
+   "type": "other",
+   "description": "CIA created a 'Virtual Station' dedicated to collection against al Qida.",
+   "place": "",
+   "actors": [
+    "CIA",
+    "al Qida"
+   ],
+   "timestamp": "p.5"
+  },
+  {
+   "date": "1997",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Saudis disrupted a plot by an al Qida cell in the Kingdom; CIA identifying cells and working with local services.",
+   "place": "Saudi Arabia",
+   "actors": [
+    "al Qida",
+    "CIA"
+   ],
+   "timestamp": "p.6"
+  },
+  {
+   "date": "1998",
+   "date_precision": "year",
+   "type": "attack",
+   "description": "Near-simultaneous suicide truck bombings destroyed the US embassies in Kenya and Tanzania.",
+   "place": "Kenya; Tanzania",
+   "actors": [
+    "al Qida"
+   ],
+   "timestamp": "p.6"
+  },
+  {
+   "date": "1998-08",
+   "date_precision": "month",
+   "type": "strike",
+   "description": "US struck al Qida facilities in Afghanistan and a chemical plant in Sudan.",
+   "place": "Afghanistan; Sudan",
+   "actors": [
+    "al Qida"
+   ],
+   "timestamp": "p.7"
+  },
+  {
+   "date": "1998-late",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "US began telling Taliban leadership they were culpable for harboring al Qida.",
+   "place": "",
+   "actors": [
+    "Taliban"
+   ],
+   "timestamp": "p.6"
+  },
+  {
+   "date": "1999",
+   "date_precision": "year",
+   "type": "designation",
+   "description": "UN sanctions on Afghanistan sponsored by Saudis and US; US seized over $250,000,000 in Taliban funds.",
+   "place": "Afghanistan",
+   "actors": [
+    "United Nations Security Council",
+    "Taliban"
+   ],
+   "timestamp": "p.6"
+  },
+  {
+   "date": "2000-12",
+   "date_precision": "month",
+   "type": "designation",
+   "description": "US and Russia co-sponsored further UN sanctions; passed 13-0-2 with China and Malaysia abstaining.",
+   "place": "",
+   "actors": [
+    "United Nations Security Council",
+    "Taliban"
+   ],
+   "timestamp": "p.6"
+  },
+  {
+   "date": "1996",
+   "date_precision": "year",
+   "type": "travel",
+   "description": "Al Qida moved its headquarters from Sudan to Afghanistan after US diplomatic pressure on Sudan.",
+   "place": "Afghanistan",
+   "actors": [
+    "al Qida",
+    "Sudan"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1992",
+   "date_precision": "year",
+   "type": "attack",
+   "description": "Attempted attack on US Air Force personnel in Yemen in which al Qida played a role.",
+   "place": "Yemen",
+   "actors": [
+    "al Qida"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1993",
+   "date_precision": "year",
+   "type": "attack",
+   "description": "World Trade Center bombing and Mogadishu attack on US forces, with indications of al Qida role.",
+   "place": "New York; Mogadishu",
+   "actors": [
+    "al Qida"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1998-08",
+   "date_precision": "month",
+   "type": "attack",
+   "description": "Al Qida attacked US embassies in Kenya and Tanzania.",
+   "place": "Kenya; Tanzania",
+   "actors": [
+    "al Qida"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1999-12",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Planned multi-site attacks on Americans in Jordan, disrupted; al Qida cell involved.",
+   "place": "Jordan",
+   "actors": [
+    "al Qida"
+   ],
+   "timestamp": "p.4"
+  },
+  {
+   "date": "2000-10",
+   "date_precision": "month",
+   "type": "attack",
+   "description": "Successful attack on a US Navy ship in Yemen following earlier failed attempt.",
+   "place": "Yemen",
+   "actors": [
+    "al Qida"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1996",
+   "date_precision": "year",
+   "type": "other",
+   "description": "CIA created a 'Virtual Station' focused on al Qida.",
+   "place": "",
+   "actors": [
+    "CIA",
+    "al Qida"
+   ],
+   "timestamp": "p.5"
+  },
+  {
+   "date": "2000-12",
+   "date_precision": "month",
+   "type": "other",
+   "description": "CIA proposal: massive support to anti-Taliban groups such as the Northern Alliance.",
+   "place": "Afghanistan",
+   "actors": [
+    "CIA",
+    "Northern Alliance",
+    "Ahmad Shah Masood"
+   ],
+   "timestamp": "p.9"
+  },
+  {
+   "date": "approx 2001-03",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Proposed continuation of Predator UAV operations, resuming in March.",
+   "place": "Afghanistan",
+   "actors": [
+    "CIA"
+   ],
+   "timestamp": "p.11"
+  },
+  {
+   "date": "approx 2001-spring",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Possible introduction of armed UAVs into Afghanistan in the Spring if testing succeeds.",
+   "place": "Afghanistan",
+   "actors": [
+    "CIA"
+   ],
+   "timestamp": "p.9"
+  },
+  {
+   "date": "1999",
+   "date_precision": "year",
+   "type": "arrest",
+   "description": "Pakistan rendered Khalil Deek to Jordan.",
+   "place": "Jordan",
+   "actors": [
+    "Government of Pakistan",
+    "Khalil Deek"
+   ],
+   "timestamp": "p.12"
+  },
+  {
+   "date": "2000-10",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "After the attack on the USS Cole, Pakistan asked the US not to violate Pakistani airspace for punitive strikes in Afghanistan.",
+   "place": "Afghanistan",
+   "actors": [
+    "Government of Pakistan"
+   ],
+   "timestamp": "p.13"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Usama bin Ladin",
+   "target": "al Qida",
+   "type": "leads",
+   "detail": "Bin Ladin leads al Qida.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "The al Qida terrorist organization lead by Usama bin Ladin"
+  },
+  {
+   "source": "al Qida",
+   "target": "Taliban",
+   "type": "sheltered_by",
+   "detail": "Taliban provide sanctuary to al Qida in Afghanistan.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.6",
+   "quote": "the Taliban cease to provide sanctuary to al Qida"
+  },
+  {
+   "source": "Mullah Omar",
+   "target": "Taliban",
+   "type": "leads",
+   "detail": "Mullah Omar is Taliban ruler.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.6",
+   "quote": "the ruler (Mullah Omar) has prohibited any action against al Qida."
+  },
+  {
+   "source": "Taliban",
+   "target": "Pakistani Army",
+   "type": "trained_by",
+   "detail": "Pakistani Army provided Taliban with advisors, intelligence, training, equipment.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "The Pakistani Army has also provided the Taliban with advisors, intelligence, training, equipment, and placed personnel in Taliban units."
+  },
+  {
+   "source": "55th Brigade",
+   "target": "al Qida",
+   "type": "member_of",
+   "detail": "Al Qida provided the 55th Brigade as the Taliban's best fighting unit.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "providing the best fighting unit (the 55th Brigade)"
+  },
+  {
+   "source": "Ahmad Shah Masood",
+   "target": "Northern Alliance",
+   "type": "leads",
+   "detail": "Masood leads the Northern Alliance.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.9",
+   "quote": "Northern Alliance led by Ahamd Shah Masood"
+  },
+  {
+   "source": "Northern Alliance",
+   "target": "Taliban",
+   "type": "rival_of",
+   "detail": "Civil war between Northern Alliance and Taliban.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "The Afghan Northern Alliance is engaged in civil war with the Taliban."
+  },
+  {
+   "source": "Egyptian Islamic Jihad",
+   "target": "al Qida",
+   "type": "funded_by",
+   "detail": "EIJ among organizations substantially sponsored by al Qida.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "The organizations substantially sponsored by the al Qida network include"
+  },
+  {
+   "source": "Islamic Movement of Uzbekistan",
+   "target": "al Qida",
+   "type": "funded_by",
+   "detail": "IMU substantially sponsored by al Qida.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "--the Islamic Movement of Uzbekistan"
+  },
+  {
+   "source": "Sheik Rahman",
+   "target": "al Qida",
+   "type": "other",
+   "detail": "Rahman and his cell linked to al Qida; son is major commander.",
+   "date": "1993",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "the Sheik's son is now a major al Qida network commander."
+  },
+  {
+   "source": "Taliban",
+   "target": "al-Qida",
+   "type": "hosted_by",
+   "detail": "Reverse direction: al-Qida has sanctuary under Taliban sponsorship.",
+   "confidence": "stated",
+   "timestamp": "p.11",
+   "quote": "sanctuary in Afghanistan under Taliban sponsorship"
+  },
+  {
+   "source": "al-Qida",
+   "target": "Taliban",
+   "type": "sheltered_by",
+   "detail": "al-Qida's sanctuary in Afghanistan is under Taliban sponsorship.",
+   "confidence": "stated",
+   "timestamp": "p.11",
+   "quote": "sanctuary in Afghanistan under Taliban sponsorship"
+  },
+  {
+   "source": "Government of Pakistan",
+   "target": "Taliban",
+   "type": "allied_with",
+   "detail": "Three successive Pakistani governments supported the Taliban under 'strategic depth'.",
+   "confidence": "stated",
+   "timestamp": "p.11",
+   "quote": "Support for the Taliban has run through three Pakistani governments"
+  },
+  {
+   "source": "Masood",
+   "target": "Northern Alliance",
+   "type": "leads",
+   "detail": "Masood's forces are the proposed recipient of covert US assistance against the Taliban.",
+   "confidence": "inferred",
+   "timestamp": "p.11",
+   "quote": "Covert US assistance to the Northern Alliance to oppose the Taliban militarily"
+  },
+  {
+   "source": "Northern Alliance",
+   "target": "Taliban",
+   "type": "rival_of",
+   "detail": "The Northern Alliance is the Taliban's only remaining military opponent.",
+   "confidence": "stated",
+   "timestamp": "p.11",
+   "quote": "the Taliban's only remaining military opponent"
+  },
+  {
+   "source": "Pervez Musharraf",
+   "target": "Taliban",
+   "type": "allied_with",
+   "detail": "Musharraf believes Pakistan's goals are best achieved through support to the Taliban but is unable to persuade them to yield bin Ladin.",
+   "confidence": "stated",
+   "timestamp": "p.13",
+   "quote": "best be achieved through support to Taliban"
+  },
+  {
+   "source": "Government of Pakistan",
+   "target": "Ramzi Yousef",
+   "type": "other",
+   "detail": "Pakistan rendered Yousef to the US.",
+   "confidence": "stated",
+   "timestamp": "p.12",
+   "quote": "Pakistan's rendition to the US of Ramzi Yousef and Mir Aimal Kansi"
+  },
+  {
+   "source": "Government of Pakistan",
+   "target": "Mir Aimal Kansi",
+   "type": "other",
+   "detail": "Pakistan rendered Kansi to the US.",
+   "confidence": "stated",
+   "timestamp": "p.12",
+   "quote": "Pakistan's rendition to the US of Ramzi Yousef and Mir Aimal Kansi"
+  },
+  {
+   "source": "Government of Pakistan",
+   "target": "Khalil Deek",
+   "type": "other",
+   "detail": "Pakistan rendered Deek to Jordan.",
+   "confidence": "stated",
+   "timestamp": "p.12",
+   "quote": "to Jordan last year of Khalil Deek"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Islamic parties of Pakistan",
+   "type": "other",
+   "detail": "Bin Laden receives support from Pakistani Islamist leaders.",
+   "confidence": "stated",
+   "timestamp": "p.12",
+   "quote": "Support for bin Laden comes also from a small but dedicated cadre of Islamist leaders"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Sudan",
+   "type": "hosted_by",
+   "detail": "Bin Ladin was based in Sudan until the Sudanese government asked him to leave Khartoum under US pressure.",
+   "confidence": "stated",
+   "timestamp": "p.5-6",
+   "quote": "decision by the Sudanese government to request bin Ladin to abandon Khartoum and move his headquarters to the camps in Afghanistan."
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Bin Ladin moved his headquarters to camps in Afghanistan.",
+   "confidence": "stated",
+   "timestamp": "p.6",
+   "quote": "abandon Khartoum and move his headquarters to the camps in Afghanistan"
+  },
+  {
+   "source": "al Qida",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Al Qida maintains training camps and sanctuary in Afghanistan.",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "the significant camp and facility infrastructure for training and safehaven sanctuary in Afghanistan"
+  },
+  {
+   "source": "al Qida",
+   "target": "Taliban",
+   "type": "sheltered_by",
+   "detail": "The Taliban provide sanctuary to al Qida.",
+   "confidence": "stated",
+   "timestamp": "p.6",
+   "quote": "The Pakistani government requested that the Taliban cease to provide sanctuary to al Qida"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Taliban",
+   "type": "sheltered_by",
+   "detail": "US says Taliban complicit in harboring al Qida and bin Ladin.",
+   "confidence": "stated",
+   "timestamp": "p.6",
+   "quote": "their complicity in harboring al Qida makes them equally culpable for al Qida operations against us"
+  },
+  {
+   "source": "Mullah Omar",
+   "target": "Taliban",
+   "type": "leads",
+   "detail": "Mullah Omar is the ruler of the Taliban.",
+   "confidence": "stated",
+   "timestamp": "p.6",
+   "quote": "the ruler (Mullah Omar) has prohibited any action against al Qida"
+  },
+  {
+   "source": "Mullah Omar",
+   "target": "al Qida",
+   "type": "allied_with",
+   "detail": "Omar prohibited any action against al Qida.",
+   "confidence": "stated",
+   "timestamp": "p.6",
+   "quote": "the ruler (Mullah Omar) has prohibited any action against al Qida"
+  },
+  {
+   "source": "Pakistani Army",
+   "target": "Taliban",
+   "type": "allied_with",
+   "detail": "Pakistani Army provided advisors, intelligence, training, equipment and placed personnel in Taliban units.",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "The Pakistani Army has also provided the Taliban with advisors, intelligence, training, equipment, and placed personnel in Taliban units."
+  },
+  {
+   "source": "al Qida",
+   "target": "55th Brigade",
+   "type": "leads",
+   "detail": "Al Qida provides the 55th Brigade, the Taliban's best fighting unit.",
+   "confidence": "inferred",
+   "timestamp": "p.7",
+   "quote": "providing the best fighting unit (the 55th Brigade) and literally buying the support of provincial leaders"
+  },
+  {
+   "source": "55th Brigade",
+   "target": "Taliban",
+   "type": "member_of",
+   "detail": "The 55th Brigade fights as part of the Taliban forces.",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "al Qida has been a major source of the Taliban's success, providing the best fighting unit (the 55th Brigade)"
+  },
+  {
+   "source": "Ahmad Shah Masood",
+   "target": "Northern Alliance",
+   "type": "leads",
+   "detail": "Northern Alliance led by Masood.",
+   "confidence": "stated",
+   "timestamp": "p.9",
+   "quote": "anti-Taliban groups such as the Northern Alliance led by Ahamd Shah Masood"
+  },
+  {
+   "source": "Northern Alliance",
+   "target": "CIA",
+   "type": "allied_with",
+   "detail": "US gives limited intelligence and non-lethal equipment to Northern Alliance in exchange for intelligence on al Qida.",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "The US has provided very limited intelligence and non-lethal equipment to the Northern Alliance, in exchange for intelligence on al Qida."
+  },
+  {
+   "source": "CIA",
+   "target": "CIA Counterterrorism Center",
+   "type": "other",
+   "detail": "CTC is the CIA's Counter-terrorism Center building partner capability.",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "Through the CIA's Counter-terrorism Center (CTC) and State's Anti-Terrorism Assistance Program"
+  },
+  {
+   "source": "United Nations Security Council",
+   "target": "Taliban",
+   "type": "rival_of",
+   "detail": "UN sanctions imposed on Afghanistan for harboring bin Ladin, including arms embargo on the Taliban.",
+   "confidence": "stated",
+   "timestamp": "p.6",
+   "quote": "a one sided arms embargo (only on the Taliban, not on the Northern Alliance)"
+  },
+  {
+   "source": "al Qida",
+   "target": "Kenya",
+   "type": "other",
+   "detail": "Al Qida bombed the US embassy in Kenya.",
+   "confidence": "stated",
+   "timestamp": "p.6",
+   "quote": "al Qida destroyed the US embassies in Kenya and Tanzania in 1998"
+  },
+  {
+   "source": "al Qida",
+   "target": "Tanzania",
+   "type": "other",
+   "detail": "Al Qida bombed the US embassy in Tanzania.",
+   "confidence": "stated",
+   "timestamp": "p.6",
+   "quote": "al Qida destroyed the US embassies in Kenya and Tanzania in 1998"
+  },
+  {
+   "source": "CIA",
+   "target": "Uzbekistan",
+   "type": "hosted_by",
+   "detail": "Predator UAV flights operated out of Uzbekistan.",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "covert flights into Afghanistan using the Predator UAV operating out of Uzbekistan"
+  },
+  {
+   "source": "al Qida",
+   "target": "Taliban",
+   "type": "allied_with",
+   "detail": "Al Qida seeks to establish theocracies similar to the Taliban regime, and its camps and HQ are in Taliban-ruled Afghanistan.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "establish theocracies similar to the Taliban regime in Afghanistan."
+  },
+  {
+   "source": "al Qida",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Al Qida ran training camps in Afghanistan.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "advanced training in espionage, sabotage, weapons, and explosives at a series of al Qida camps in Afghanistan"
+  },
+  {
+   "source": "al Qida",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Al Qida moved its headquarters to Afghanistan in 1996.",
+   "date": "1996",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "al Qida moved its headquarters to Afghanistan in 1996."
+  },
+  {
+   "source": "Al Ittihad al-Islami",
+   "target": "al Qida",
+   "type": "funded_by",
+   "detail": "Al Ittihad in Kenya and Somalia is substantially sponsored by the al Qida network.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "The organizations substantially sponsored by the al Qida network include: --al Ittihad in Kenya and Somalia"
+  },
+  {
+   "source": "Abu Sayyaf Group",
+   "target": "al Qida",
+   "type": "funded_by",
+   "detail": "Abu Sayyaf Group in the Philippines is sponsored by al Qida.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "--the Abu Sayyaf Group in the Philippines"
+  },
+  {
+   "source": "Libyan Islamic Fighting Group",
+   "target": "al Qida",
+   "type": "funded_by",
+   "detail": "LIFG is listed as sponsored by al Qida.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "--the Libyan Islamic Fighting Group"
+  },
+  {
+   "source": "Aden-Abyan Islamic Army",
+   "target": "al Qida",
+   "type": "funded_by",
+   "detail": "The Abayan Islamic Army of Yemen is sponsored by al Qida.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "--the Abayan Islamic Army of Yemen"
+  },
+  {
+   "source": "Chechen Mujaheedin",
+   "target": "al Qida",
+   "type": "funded_by",
+   "detail": "Chechen Mujaheedin are listed as sponsored by al Qida.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "--the Chechnyan Mujaheedin"
+  },
+  {
+   "source": "Asbat al Ansar",
+   "target": "al Qida",
+   "type": "funded_by",
+   "detail": "Palestinian Asbat al Ansar is sponsored by al Qida.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "--the Palestinian Asbat al Ansar"
+  },
+  {
+   "source": "Armed Islamic Group",
+   "target": "al Qida",
+   "type": "funded_by",
+   "detail": "GIA is listed as sponsored by al Qida.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "--the Armed Islamic Group (GIA)"
+  },
+  {
+   "source": "al Qida",
+   "target": "Sudan",
+   "type": "located_in",
+   "detail": "Al Qida's leader and some central infrastructure were located in Sudan before 1996.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "The group's leader and some of its central infrastructure were located in Sudan, although the training camps were in Afghanistan."
+  },
+  {
+   "source": "al Qida",
+   "target": "Sheik Rahman",
+   "type": "other",
+   "detail": "Sheik Rahman and the NY-NJ tunnels cell were linked to al Qida.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "Sheik Rahman and the cell arrested in New York and New Jersey for planning to destroy the NY-NJ tunnels were also linked to al Qida."
+  },
+  {
+   "source": "Sheik Rahman",
+   "target": "al Qida",
+   "type": "family",
+   "detail": "Sheik Rahman's son is a major al Qida network commander (family link to the group).",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "In fact, the Sheik's son is now a major al Qida network commander."
+  },
+  {
+   "source": "al Qida",
+   "target": "al Qida",
+   "type": "other",
+   "detail": "Al Qida allegedly funded and trained the Manila cell plotting to bomb US 747s in 1993.",
+   "date": "1993",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "the Manila cell that was preparing bombs for six US flag 747s in 1993 was funded and trained by al Qida."
+  },
+  {
+   "source": "Ali Muhammad",
+   "target": "al Qida",
+   "type": "other",
+   "detail": "Ali Muhammad, a suspect in East Africa bombings, informed on al Qida sleeper network in the US.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "A suspect in the East Africa bombings (former US Army Sergeant Ali Muhammad) has informed"
+  },
+  {
+   "source": "Derunta camp",
+   "target": "Jalalabad",
+   "type": "located_in",
+   "detail": "Derunta camp is near Jalalabad.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "Al Qida's Derunta camp near Jalalabad in Afghanistan has been identified as a development and testing facility"
+  },
+  {
+   "source": "Derunta camp",
+   "target": "al Qida",
+   "type": "member_of",
+   "detail": "Derunta camp is an al Qida facility for poisons/chemical weapons testing.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "Al Qida's Derunta camp near Jalalabad in Afghanistan has been identified as a development and testing facility for poisons"
+  },
+  {
+   "source": "Jalalabad",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Jalalabad is in Afghanistan.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.4",
+   "quote": "Derunta camp near Jalalabad in Afghanistan"
+  },
+  {
+   "source": "CIA",
+   "target": "CIA",
+   "type": "other",
+   "detail": "CIA created a 'Virtual Station' dedicated to al Qida in 1996.",
+   "date": "1996",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "A \"Virtual Station\" was created by CIA, an organization modeled on a CIA overseas Station dedicated to collection and operations against al Qida."
+  },
+  {
+   "source": "Northern Alliance",
+   "target": "Ahmad Shah Masood",
+   "type": "leads",
+   "detail": "The Northern Alliance is described as led by Ahmad Shah Masood.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.9",
+   "quote": "anti-Taliban groups such as the Northern Alliance led by Ahamd Shah Masood"
+  },
+  {
+   "source": "Ahmad Shah Masood",
+   "target": "Taliban",
+   "type": "rival_of",
+   "detail": "Masood would be kept in the fight against the Taliban and al-Qida.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.11",
+   "quote": "would allow Masood to stay in the fight with the Taliban and al-Qida"
+  },
+  {
+   "source": "Ahmad Shah Masood",
+   "target": "al-Qida",
+   "type": "rival_of",
+   "detail": "Masood would fight the Taliban and al-Qida as a conventional threat.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.11",
+   "quote": "Masood to stay in the fight with the Taliban and al-Qida as a credible, conventional threat"
+  },
+  {
+   "source": "Taliban",
+   "target": "al Qida",
+   "type": "sheltered_by",
+   "detail": "Al Qida's sanctuary in Afghanistan is under Taliban sponsorship (al Qida is the recipient).",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.11",
+   "quote": "sanctuary in Afghanistan under Taliban sponsorship"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Taliban",
+   "type": "sheltered_by",
+   "detail": "The Taliban host bin Laden and terrorist camps; Pakistan acquiesces.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.11",
+   "quote": "Pakistan's acquiescence in the Taliban's hosting of terrorist camps and bin Laden"
+  },
+  {
+   "source": "Taliban",
+   "target": "Pakistani Army",
+   "type": "funded_by",
+   "detail": "The Pakistani military has backed the Taliban as the best means of strategic depth.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.11",
+   "quote": "The Pakistani military has consistently believed the Taliban was the best means of achieving that goal."
+  },
+  {
+   "source": "Taliban",
+   "target": "Government of Pakistan",
+   "type": "allied_with",
+   "detail": "Support for the Taliban has run through the Bhutto, Sharif and Musharraf governments.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.11",
+   "quote": "Support for the Taliban has run through three Pakistani governments — Bhutto, Sharif, and now Musharraf"
+  },
+  {
+   "source": "Benazir Bhutto",
+   "target": "Taliban",
+   "type": "allied_with",
+   "detail": "Bhutto's government supported the Taliban.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.11",
+   "quote": "three Pakistani govemments — Bhutto, Sharif, and now Musharraf"
+  },
+  {
+   "source": "Nawaz Sharif",
+   "target": "Taliban",
+   "type": "allied_with",
+   "detail": "Sharif's government supported the Taliban.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.11",
+   "quote": "three Pakistani govemments — Bhutto, Sharif, and now Musharraf"
+  },
+  {
+   "source": "Pervez Musharraf",
+   "target": "Taliban",
+   "type": "allied_with",
+   "detail": "Musharraf's government continues support for the Taliban.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.11",
+   "quote": "Bhutto, Sharif, and now Musharraf"
+  },
+  {
+   "source": "Pervez Musharraf",
+   "target": "Government of Pakistan",
+   "type": "leads",
+   "detail": "Musharraf is Chief Executive of Pakistan.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.13",
+   "quote": "Chief Executive Musharraf has been clear in his discussions with American officials"
+  },
+  {
+   "source": "Pakistani military",
+   "target": "Taliban",
+   "type": "allied_with",
+   "detail": "The Pakistani military views the Taliban as the best means of securing strategic depth in Kabul.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.11",
+   "quote": "The Pakistani military has consistently believed the Taliban was the best means"
+  },
+  {
+   "source": "Taliban",
+   "target": "Kabul",
+   "type": "located_in",
+   "detail": "Pakistan wants a friendly (Taliban) government in Kabul.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.11",
+   "quote": "ensuring a friendly government in Kabul that will not pose a threat"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Islamic parties of Pakistan",
+   "type": "funded_by",
+   "detail": "Bin Laden receives support from a cadre of Islamist leaders in Pakistan.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.12",
+   "quote": "Support for bin Laden comes also from a small but dedicated cadre of Islamist leaders"
+  },
+  {
+   "source": "Government of Pakistan",
+   "target": "Ramzi Yousef",
+   "type": "captured",
+   "detail": "Pakistan rendered Yousef to the US.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.12",
+   "quote": "Pakistan's rendition to the US of Ramzi Yousef and Mir Aimal Kansi"
+  },
+  {
+   "source": "Government of Pakistan",
+   "target": "Mir Aimal Kansi",
+   "type": "captured",
+   "detail": "Pakistan rendered Kansi to the US.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.12",
+   "quote": "Pakistan's rendition to the US of Ramzi Yousef and Mir Aimal Kansi"
+  },
+  {
+   "source": "Government of Pakistan",
+   "target": "Khalil Deek",
+   "type": "captured",
+   "detail": "Pakistan rendered Deek to Jordan last year.",
+   "date": "1999",
+   "confidence": "stated",
+   "timestamp": "p.12",
+   "quote": "and to Jordan last year of Khalil Deek"
+  },
+  {
+   "source": "Islamic parties of Pakistan",
+   "target": "Government of Pakistan",
+   "type": "rival_of",
+   "detail": "Islamic parties sharply criticized the renditions.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.12",
+   "quote": "were sharply criticized by the Islamic parties"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Pervez Musharraf",
+   "type": "rival_of",
+   "detail": "Overt support for action against bin Laden would threaten Musharraf's government.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.12",
+   "quote": "would be so unpopular as to threaten Musharraf's government"
+  },
+  {
+   "source": "Pervez Musharraf",
+   "target": "al Qida",
+   "type": "rival_of",
+   "detail": "Musharraf says he opposes terrorism and al Qida.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.13",
+   "quote": "he opposes terrorism and al Qida"
+  },
+  {
+   "source": "Taliban",
+   "target": "Pakistan",
+   "type": "other",
+   "detail": "Pakistan was unable to persuade the Taliban to yield bin Ladin.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.13",
+   "quote": "Pakistan has been unable to persuade the Taliban to yield up bin Ladin"
+  },
+  {
+   "source": "Pakistani madrassas",
+   "target": "Taliban",
+   "type": "allied_with",
+   "detail": "Fundamentalism is fed by the madrassas and Taliban hard-liners.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.12",
+   "quote": "fundamentalism fed by the madrassas of Pakistan and by Taliban hard-liners"
+  },
+  {
+   "source": "CIA",
+   "target": "Northern Alliance",
+   "type": "funded_by",
+   "detail": "The CIA proposes covert assistance to the Northern Alliance, including funding.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.11",
+   "quote": "Covert US assistance to the Northem Alliance.to oppose the Taliban militarily."
+  }
+ ],
+ "sources_cited": [
+  "Intelligence Finding authorizing lethal force",
+  "UN Security Council sanctions resolution (Dec 2000)",
+  "Captured computers (referenced re chemical weapons)"
+ ],
+ "key_claims": [
+  "Al Qida is both an independent terrorist organization and sponsor/coordinator of semi-independent terrorist groups.",
+  "Al Qida moved its HQ to Afghanistan in 1996 and trained up to 50,000 jihadists in Afghan camps.",
+  "Mullah Omar has blocked any Taliban action against al Qida despite some willing Taliban leaders.",
+  "Al Qida provides the Taliban's best fighting unit (55th Brigade) and buys provincial leaders' support.",
+  "Pakistani Army provides advisors and training to the Taliban; Pakistan's support flows from the strategic depth concept and Kashmir.",
+  "The strategy proposes covert aid to Masood's Northern Alliance and continued armed Predator operations.",
+  "Al-Qida's center of gravity is its sanctuary in Afghanistan under Taliban sponsorship.",
+  "Pakistan's support for the Taliban across the Bhutto, Sharif and Musharraf governments rests on 'strategic depth' against India.",
+  "Pakistan's tolerance of Taliban-hosted terrorist camps and bin Laden stems from the nexus with its proxy war in Kashmir.",
+  "Pakistan cooperates on terrorism mainly when its role is invisible or deniable to Islamist parties.",
+  "Overt Pakistani support for US action against bin Laden would threaten Musharraf's government.",
+  "US levers on Pakistan include UNSC sanctions, domestic opposition to Sunni extremists, and IMF economic support.",
+  "Musharraf says Pakistan cannot or will not persuade the Taliban to yield bin Ladin."
+ ]
+}

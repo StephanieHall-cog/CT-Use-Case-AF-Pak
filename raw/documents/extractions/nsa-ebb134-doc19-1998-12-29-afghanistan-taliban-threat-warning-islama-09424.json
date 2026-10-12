@@ -1,0 +1,482 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb134-doc19-1998-12-29-afghanistan-taliban-threat-warning-islama-09424",
+  "title": "Afghanistan: Taliban \"Threat Warning\" (Islama 09424)",
+  "authors": "U.S. Embassy Islamabad",
+  "publisher": "National Security Archive (GWU), Mullah Omar Called Washington in 1998, New Documents Show",
+  "published": "1998-12-29",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB134/Doc%2013.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB134/index.htm",
+  "pages": 2,
+  "kind": "cable",
+  "note": "[Secret (NODIS)] The Taliban send an unspecific message that terrorists backed by Ahmed Shah Massoud and Iranian intelligence are plotting against the U.S. State believes the motives are probably political, since Massoud and Iran are among the Taliban's most powerful enemies.",
+  "collection": "NSAEBB134",
+  "doc_number": "Document 19",
+  "relevance": "high",
+  "ocr": 2
+ },
+ "persons": [
+  {
+   "name": "Ahmad Shah Masood",
+   "aliases": [
+    "Ahmad Shah Massoud",
+    "Ahmad Shah Masoud"
+   ],
+   "role": "Taliban political and military enemy; anti-Taliban commander accused by Taliban of planning terrorist act",
+   "organizations": [],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "AGENTS OF AHMAD SHAH MASOOD, THEIR POLITICAL AND MILITARY ENEMY"
+    }
+   ]
+  },
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "UBL",
+    "Bin Ladin"
+   ],
+   "role": "Subject of earlier US message to Taliban regarding his activities; made media statements",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "THE LAST MESSAGE WE GAVE TO THE TALIBAN REGARDING BIN LADIN'S ACTIVITIES"
+    },
+    {
+     "timestamp": "p.2",
+     "quote": "DISTANCE BETWEEN THEM AND UBL AFTER HIS LATEST STATEMENTS TO THE MEDIA"
+    }
+   ]
+  },
+  {
+   "name": "Alan Eastham",
+   "aliases": [
+    "Eastham"
+   ],
+   "role": "US Chargé d'affaires (CDA), Embassy Islamabad",
+   "organizations": [
+    "US Embassy Islamabad",
+    "US Department of State"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Islamabad"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "CLASSIFIED BY CDA ALAN EASTHAM"
+    },
+    {
+     "timestamp": "p.2",
+     "quote": "CHARGE CONVENED AN AD HOC MEETING OF CONCERNED SECTIONS"
+    }
+   ]
+  },
+  {
+   "name": "Joe Novak",
+   "aliases": [
+    "John Wick"
+   ],
+   "role": "Political officer (POLOFF), US Embassy Islamabad; addressee of Taliban letter under the name 'John Wick'",
+   "organizations": [
+    "US Embassy Islamabad"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Islamabad"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "FYI JOHN WICK IS UNDOUBTEDLY POLOFF JOE NOVAK."
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Taliban",
+   "aliases": [
+    "Islamic Emirate of Afghanistan"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [
+    "Ahmad Shah Masood's forces",
+    "Iran"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Controlled the Afghan embassy in Islamabad; sent warning letter."
+  },
+  {
+   "name": "Embassy of the Islamic Emirate of Afghanistan in Islamabad",
+   "aliases": [
+    "Taliban-controlled Afghan Embassy in Islamabad"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Faxed the letter to US Embassy 26 Dec 1998."
+  },
+  {
+   "name": "US Embassy Islamabad",
+   "aliases": [
+    "AMEMBASSY ISLAMABAD"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "US Department of State"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Author of cable; doubts the Taliban warning."
+  },
+  {
+   "name": "US Department of State",
+   "aliases": [
+    "SECSTATE"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Cable recipient."
+  },
+  {
+   "name": "Intelligence service of the Islamic Republic of Iran",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Iran"
+   ],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Iran",
+   "notes": "Accused by Taliban of forming joint terrorist group with Masood's men."
+  },
+  {
+   "name": "al-Qa'ida",
+   "aliases": [
+    "al-Qaeda"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Implied via bin Ladin references."
+  }
+ ],
+ "places": [
+  {
+   "name": "Islamabad",
+   "type": "city",
+   "country": "Pakistan",
+   "parent": "Pakistan",
+   "significance": "Location of both US Embassy and Taliban-controlled Afghan embassy."
+  },
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Taliban-ruled state."
+  },
+  {
+   "name": "Iran",
+   "type": "country",
+   "country": "Iran",
+   "parent": "",
+   "significance": "Accused by Taliban of plotting with Masood's men."
+  }
+ ],
+ "events": [
+  {
+   "date": "1998-12-26",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Taliban-controlled Afghan embassy faxed letter to US Embassy warning of a possible terrorist act against a US embassy or political agency in an unknown country by Masood's men and Iranian intelligence.",
+   "place": "Islamabad",
+   "actors": [
+    "Embassy of the Islamic Emirate of Afghanistan in Islamabad",
+    "US Embassy Islamabad",
+    "Ahmad Shah Masood"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998-12-29",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "US Embassy Islamabad cabled the letter to Washington, assessing it as political statement or disinformation; Chargé convened ad hoc meeting.",
+   "place": "Islamabad",
+   "actors": [
+    "Alan Eastham",
+    "US Embassy Islamabad"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1998-12-26",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Taliban-controlled Afghan embassy in Islamabad faxed the US Embassy a letter warning of a planned terrorist act by Masood's men and Iranian intelligence against a US embassy or agency in an unknown country.",
+   "place": "Islamabad",
+   "actors": [
+    "Embassy of the Islamic Emirate of Afghanistan in Islamabad",
+    "Taliban",
+    "Ahmad Shah Masood",
+    "Intelligence service of the Islamic Republic of Iran",
+    "US Embassy Islamabad"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998-12-29",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "Charge Eastham convened an ad hoc meeting of embassy sections, which judged the letter a political statement or possible disinformation rather than a real threat warning.",
+   "place": "Islamabad",
+   "actors": [
+    "Alan Eastham",
+    "US Embassy Islamabad",
+    "Taliban"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1998-12-29",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "US Embassy Islamabad cabled the text of the Taliban letter and its assessment to the State Department.",
+   "place": "Islamabad",
+   "actors": [
+    "US Embassy Islamabad",
+    "US Department of State",
+    "Alan Eastham"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Taliban",
+   "target": "Ahmad Shah Masood",
+   "type": "rival_of",
+   "detail": "Taliban describe Masood as their political and military enemy.",
+   "date": "1998-12",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "AHMAD SHAH MASOOD, THEIR POLITICAL AND MILITARY ENEMY"
+  },
+  {
+   "source": "Taliban",
+   "target": "Intelligence service of the Islamic Republic of Iran",
+   "type": "rival_of",
+   "detail": "Iran and Masood described as implacable foes of the Taliban.",
+   "date": "1998-12",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "IRAN AND MASOOD, WHO, AT LEAST FOR NOW, ARE IMPLACABLE FOES OF THE TALIBAN"
+  },
+  {
+   "source": "Ahmad Shah Masood",
+   "target": "Intelligence service of the Islamic Republic of Iran",
+   "type": "allied_with",
+   "detail": "Taliban allege a joint terrorist group of Masood's men and Iranian intelligence.",
+   "date": "1998-12",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "JOINT TERRORIST GROUP COMPOSED OF AHMAD SHAH MASOOD MEN AND THE INTELLIGENCE SERVICE OF THE ISLAMIC REPUBLIC OF IRAN"
+  },
+  {
+   "source": "Embassy of the Islamic Emirate of Afghanistan in Islamabad",
+   "target": "Joe Novak",
+   "type": "other",
+   "detail": "Letter addressed to 'John Wick', identified by the embassy as Joe Novak.",
+   "date": "1998-12-26",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "JOHN WICK IS UNDOUBTEDLY POLOFF JOE NOVAK."
+  },
+  {
+   "source": "Taliban",
+   "target": "Usama bin Ladin",
+   "type": "other",
+   "detail": "US Embassy assesses the letter gives the Taliban some distance from UBL after his media statements.",
+   "date": "1998-12",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "PROVIDES SOME, IF NOT MUCH, DISTANCE BETWEEN THEM AND UBL"
+  },
+  {
+   "source": "Embassy of the Islamic Emirate of Afghanistan in Islamabad",
+   "target": "Taliban",
+   "type": "member_of",
+   "detail": "The Afghan embassy in Islamabad is described as Taliban-controlled and speaks for the Taliban.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "THE TALIBAN-CONTROLLED AFGHAN EMBASSY IN ISLAMABAD FAXED THIS EMBASSY A LETTER"
+  },
+  {
+   "source": "Embassy of the Islamic Emirate of Afghanistan in Islamabad",
+   "target": "Islamabad",
+   "type": "located_in",
+   "detail": "The Taliban-run Afghan embassy is located in Islamabad.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "THE TALIBAN-CONTROLLED AFGHAN EMBASSY IN ISLAMABAD"
+  },
+  {
+   "source": "US Embassy Islamabad",
+   "target": "Islamabad",
+   "type": "located_in",
+   "detail": "The US Embassy is located in Islamabad.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "FM AMEMBASSY ISLAMABAD"
+  },
+  {
+   "source": "US Embassy Islamabad",
+   "target": "US Department of State",
+   "type": "reports_to",
+   "detail": "The embassy sent the cable to the Secretary of State in Washington.",
+   "date": "1998-12-29",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "FM AMEMBASSY ISLAMABAD TO SECSTATE WASHDC IMMEDIATE 2558"
+  },
+  {
+   "source": "Alan Eastham",
+   "target": "US Embassy Islamabad",
+   "type": "member_of",
+   "detail": "Alan Eastham is the Charge d'Affaires (CDA) at the US Embassy Islamabad and classified the cable.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "CLASSIFIED BY CDA ALAN EASTHAM"
+  },
+  {
+   "source": "Joe Novak",
+   "target": "US Embassy Islamabad",
+   "type": "member_of",
+   "detail": "Joe Novak is a political officer at the embassy, addressed in the letter under the name John Wick.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "FYI JOHN WICK IS UNDOUBTEDLY POLOFF JOE NOVAK."
+  },
+  {
+   "source": "Embassy of the Islamic Emirate of Afghanistan in Islamabad",
+   "target": "US Embassy Islamabad",
+   "type": "other",
+   "detail": "The Afghan embassy sent the US Embassy a letter warning of a possible terrorist act against a US embassy.",
+   "date": "1998-12-26",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "FAXED THIS EMBASSY A LETTER EXPRESSING THEIR CONCERN OVER POSSIBLE FUTURE BUT UNSPECIFIED ACTION"
+  },
+  {
+   "source": "Ahmad Shah Masood",
+   "target": "Intelligence service of the Islamic Republic of Iran",
+   "type": "allied_with",
+   "detail": "The Taliban letter alleges a joint terrorist group composed of Masood's men and Iranian intelligence (alleged by Taliban, doubted by the US).",
+   "date": "1998-12-26",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "A JOINT TERRORIST GROUP COMPOSED OF AHMAD SHAH MASOOD MEN AND THE INTELLIGENCE SERVICE OF THE ISLAMIC REPUBLIC OF IRAN"
+  },
+  {
+   "source": "Ahmad Shah Masood",
+   "target": "Taliban",
+   "type": "rival_of",
+   "detail": "Masood is described as the Taliban's political and military enemy and an implacable foe.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "IRAN AND MASOOD, WHO, AT LEAST FOR NOW, ARE IMPLACABLE FOES OF THE TALIBAN"
+  },
+  {
+   "source": "Iran",
+   "target": "Taliban",
+   "type": "rival_of",
+   "detail": "Iran is described as an implacable foe of the Taliban.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "IRAN AND MASOOD, WHO, AT LEAST FOR NOW, ARE IMPLACABLE FOES OF THE TALIBAN"
+  },
+  {
+   "source": "Intelligence service of the Islamic Republic of Iran",
+   "target": "Iran",
+   "type": "member_of",
+   "detail": "The intelligence service belongs to the Islamic Republic of Iran.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "THE INTELLIGENCE SERVICE OF THE ISLAMIC REPUBLIC OF IRAN"
+  },
+  {
+   "source": "Ahmad Shah Masood",
+   "target": "US Department of State",
+   "type": "other",
+   "detail": "Taliban perceive, based on rumor, that the USG and Masood are moving closer together; the US embassy treats this as a possible motive for the letter.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "THE USG AND MASOOD ARE MOVING CLOSER TOGETHER"
+  },
+  {
+   "source": "US Embassy Islamabad",
+   "target": "Taliban",
+   "type": "other",
+   "detail": "The embassy previously passed the Taliban a message regarding bin Ladin's activities.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "PARALLELS THE LAST MESSAGE WE GAVE TO THE TALIBAN REGARDING BIN LADIN'S ACTIVITIES"
+  }
+ ],
+ "sources_cited": [
+  "ISLAMABAD 9134 (earlier Taliban letter, REFTEL)"
+ ],
+ "key_claims": [
+  "The Taliban-controlled Afghan embassy warned the US of a supposed plot by Masood's men and Iranian intelligence to attack a US embassy in an unspecified country.",
+  "US Embassy officials unanimously judged the warning to be a political statement or possible disinformation.",
+  "The Taliban may have been motivated by a rumored US–Masood rapprochement.",
+  "The letter lacked detailed or verifiable information, paralleling the US message to the Taliban about bin Ladin's activities.",
+  "The letter may have been meant to create distance between the Taliban and Usama bin Ladin after his media statements."
+ ]
+}

@@ -1,0 +1,759 @@
+{
+ "document": {
+  "doc_id": "nsa-2021-soviet-withdrawal-afghanistan-doc04-1988-02-01-reagan-message-to-rajiv-gandhi-circa-mid-february",
+  "title": "Reagan Message to Rajiv Gandhi circa mid-February 1988",
+  "authors": "President Reagan (via Ambassador John Gunther Dean)",
+  "publisher": "National Security Archive (GWU), The Soviet Withdrawal from Afghanistan 1989 | National Security Archive",
+  "published": "1988-02-01",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/5752888/National-Security-Archive-Doc-04-Reagan-Message.pdf",
+  "source_page": "https://nsarchive.gwu.edu/briefing-book/afghanistan-russia-programs/2019-02-27/soviet-withdrawal-afghanistan-1989",
+  "pages": 3,
+  "kind": "letter",
+  "note": "Reagan thanks Gandhi for advance word of Gorbachev's withdrawal statement and restates the US bottom line: complete, irreversible Soviet withdrawal, Afghan self-determination and refugee return. He dismisses Gandhi's fears of a fundamentalist takeover, claiming the resistance is moderate, and says the Najibullah regime cannot hold power without the Soviet Army.",
+  "collection": "new-soviet-withdrawal-afghanistan-1989",
+  "doc_number": "Document 04",
+  "relevance": "medium",
+  "ocr": 2
+ },
+ "persons": [
+  {
+   "name": "Ronald Reagan",
+   "aliases": [
+    "President Reagan"
+   ],
+   "role": "President of the United States",
+   "organizations": [
+    "United States Government"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "United States"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "The President has asked me to pass on his thanks for your letter of February 8"
+    }
+   ]
+  },
+  {
+   "name": "Rajiv Gandhi",
+   "aliases": [],
+   "role": "Prime Minister of India, recipient of the message",
+   "organizations": [
+    "Government of India"
+   ],
+   "nationality_or_origin": "Indian",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "India"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "thanks for your letter of February 8 and the subsequent information provided about Mr. Vorontsov's visit"
+    }
+   ]
+  },
+  {
+   "name": "John Gunther Dean",
+   "aliases": [
+    "Ambassador Dean"
+   ],
+   "role": "US Ambassador to India, conveying the President's message",
+   "organizations": [
+    "United States Government"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "India"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "The President has asked me to pass on his thanks"
+    }
+   ]
+  },
+  {
+   "name": "Mikhail Gorbachev",
+   "aliases": [
+    "Gorbachev"
+   ],
+   "role": "Soviet leader who made the 8 February 1988 statement on Afghan withdrawal",
+   "organizations": [
+    "Soviet Union"
+   ],
+   "nationality_or_origin": "Soviet",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Soviet Union"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Gorbachev's February 8 statement is a clear step forward"
+    }
+   ]
+  },
+  {
+   "name": "Yuli Vorontsov",
+   "aliases": [
+    "Mr. Vorontsov",
+    "Yuliy Vorontsov"
+   ],
+   "role": "Soviet envoy who visited India and Islamabad",
+   "organizations": [
+    "Soviet Union"
+   ],
+   "nationality_or_origin": "Soviet",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Islamabad",
+    "India"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Vorontsov's trip to Islamabad focused on other issues, particularly the issue of interim arrangements"
+    }
+   ]
+  },
+  {
+   "name": "Diego Cordovez",
+   "aliases": [
+    "Cordovez"
+   ],
+   "role": "UN mediator for the Geneva talks on Afghanistan",
+   "organizations": [
+    "United Nations"
+   ],
+   "nationality_or_origin": "Ecuadorian",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Geneva"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "as a result of Cordovez' recent consultations between the U.S., the USSR and Pakistan"
+    }
+   ]
+  },
+  {
+   "name": "Najibullah",
+   "aliases": [
+    "Najibullah regime"
+   ],
+   "role": "Head of the Afghan Communist government in Kabul",
+   "organizations": [
+    "Government of Afghanistan (PDPA)"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Kabul"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "the Najibullah regime cannot hold power without the Soviet Army"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "United States Government",
+   "aliases": [
+    "U.S."
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Pakistan"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Seeks complete, irreversible Soviet withdrawal and Afghan self-determination."
+  },
+  {
+   "name": "Soviet Union",
+   "aliases": [
+    "USSR",
+    "Soviets",
+    "Soviet Army"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Najibullah regime"
+   ],
+   "rivals": [],
+   "country_base": "Soviet Union",
+   "notes": "Announced a withdrawal timetable on 8 Feb 1988."
+  },
+  {
+   "name": "Government of India",
+   "aliases": [
+    "India"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "India",
+   "notes": "Kept the US informed; praised for keeping Pakistan informed."
+  },
+  {
+   "name": "Government of Pakistan",
+   "aliases": [
+    "Pakistan"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Party to Geneva talks and interim arrangements consultations."
+  },
+  {
+   "name": "Afghan resistance",
+   "aliases": [
+    "resistance"
+   ],
+   "type": "militia",
+   "parent_or_allies": [
+    "conservative Islamic governments and movements"
+   ],
+   "rivals": [
+    "Najibullah regime"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Described as having a moderate political orientation."
+  },
+  {
+   "name": "Najibullah regime",
+   "aliases": [
+    "Government of Afghanistan (PDPA)"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Soviet Union"
+   ],
+   "rivals": [
+    "Afghan resistance"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Regarded by the US as unable to hold power without the Soviet Army."
+  },
+  {
+   "name": "United Nations",
+   "aliases": [
+    "UNGA"
+   ],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "UNGA resolution and Cordovez mediation on Afghanistan."
+  },
+  {
+   "name": "Government of Sri Lanka",
+   "aliases": [
+    "Sri Lanka"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Sri Lanka",
+   "notes": "Mentioned in the separate Sri Lanka section."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Subject of Soviet withdrawal."
+  },
+  {
+   "name": "Islamabad",
+   "type": "city",
+   "country": "Pakistan",
+   "parent": "Pakistan",
+   "significance": "Vorontsov visited to discuss interim arrangements."
+  },
+  {
+   "name": "Geneva",
+   "type": "city",
+   "country": "Switzerland",
+   "parent": "Switzerland",
+   "significance": "Venue for talks beginning March 2, 1988."
+  },
+  {
+   "name": "Moscow",
+   "type": "city",
+   "country": "Soviet Union",
+   "parent": "Soviet Union",
+   "significance": "Ministerial talks February 21-23."
+  },
+  {
+   "name": "Kabul",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Seat of the Najibullah regime."
+  },
+  {
+   "name": "Sri Lanka",
+   "type": "country",
+   "country": "Sri Lanka",
+   "parent": "",
+   "significance": "Secondary topic: reconstruction aid."
+  }
+ ],
+ "events": [
+  {
+   "date": "1988-02-08",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Gorbachev statement on Afghan withdrawal: front loading, shortened timetable, date certain, phasing, monitoring.",
+   "place": "Soviet Union",
+   "actors": [
+    "Mikhail Gorbachev"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1988-02-08",
+   "date_precision": "day",
+   "type": "other",
+   "description": "Rajiv Gandhi sent a letter to Reagan with advance notice of the Gorbachev announcement.",
+   "place": "India",
+   "actors": [
+    "Rajiv Gandhi",
+    "Ronald Reagan"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1988-02",
+   "date_precision": "month",
+   "type": "travel",
+   "description": "Vorontsov visited Islamabad to discuss interim arrangements.",
+   "place": "Islamabad",
+   "actors": [
+    "Yuli Vorontsov"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1988-02-21",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "US-Soviet ministerial talks in Moscow, Feb 21-23.",
+   "place": "Moscow",
+   "actors": [
+    "United States Government",
+    "Soviet Union"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1988-03-02",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "Next Geneva round on Afghanistan begins.",
+   "place": "Geneva",
+   "actors": [
+    "Diego Cordovez",
+    "United States Government",
+    "Soviet Union",
+    "Government of Pakistan"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1987-12",
+   "date_precision": "month",
+   "type": "meeting",
+   "description": "US-Soviet Summit, after which the Soviet position on withdrawal evolved.",
+   "place": "",
+   "actors": [
+    "United States Government",
+    "Soviet Union"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1987-12",
+   "date_precision": "month",
+   "type": "meeting",
+   "description": "Reagan-Gorbachev Summit, after which the Soviet position on withdrawal evolved.",
+   "place": "",
+   "actors": [
+    "Ronald Reagan",
+    "Mikhail Gorbachev"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1988-02-08",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Gorbachev statement on Afghanistan withdrawal (front loading, shortened timetable, date certain, phasing, monitoring).",
+   "place": "Moscow",
+   "actors": [
+    "Mikhail Gorbachev",
+    "Soviet Union"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1988-02-08",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Rajiv Gandhi sends letter to Reagan with advance notice of Gorbachev announcement.",
+   "place": "",
+   "actors": [
+    "Rajiv Gandhi",
+    "Ronald Reagan"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1988-02",
+   "date_precision": "month",
+   "type": "travel",
+   "description": "Vorontsov travels to Islamabad to discuss interim arrangements.",
+   "place": "Islamabad",
+   "actors": [
+    "Yuli Vorontsov",
+    "Government of Pakistan"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1988-02-21",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "Ministerial talks in Moscow February 21-23 (U.S.-Soviet).",
+   "place": "Moscow",
+   "actors": [
+    "United States Government",
+    "Soviet Union"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1988-03-02",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "Next Geneva round on Afghanistan begins, expected to complete details of four instruments.",
+   "place": "Geneva",
+   "actors": [
+    "United Nations",
+    "Diego Cordovez",
+    "Soviet Union",
+    "Government of Pakistan",
+    "United States Government"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1988-02",
+   "date_precision": "approx",
+   "type": "meeting",
+   "description": "Cordovez conducts recent consultations with U.S., USSR and Pakistan on interim arrangements.",
+   "place": "",
+   "actors": [
+    "Diego Cordovez",
+    "United States Government",
+    "Soviet Union",
+    "Government of Pakistan"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Yuli Vorontsov",
+   "target": "Government of India",
+   "type": "met_with",
+   "detail": "Vorontsov's visit to India was reported to the US by Gandhi.",
+   "date": "1988-02",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "subsequent information provided about Mr. Vorontsov's visit"
+  },
+  {
+   "source": "Diego Cordovez",
+   "target": "Government of Pakistan",
+   "type": "met_with",
+   "detail": "Cordovez consulted the US, USSR and Pakistan on interim arrangements.",
+   "date": "1988-02",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Cordovez' recent consultations between the U.S., the USSR and Pakistan"
+  },
+  {
+   "source": "Najibullah regime",
+   "target": "Soviet Union",
+   "type": "other",
+   "detail": "US judges the regime dependent on the Soviet Army for survival.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "the Najibullah regime cannot hold power without the Soviet Army"
+  },
+  {
+   "source": "Afghan resistance",
+   "target": "conservative Islamic governments and movements",
+   "type": "allied_with",
+   "detail": "The resistance has strong ties to conservative Islamic governments and movements.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "its strong ties to conservative Islamic governments and movements should be reassuring"
+  },
+  {
+   "source": "John Gunther Dean",
+   "target": "Ronald Reagan",
+   "type": "reports_to",
+   "detail": "Dean conveys the President's message to Gandhi.",
+   "date": "1988-02",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "The President has asked me to pass on his thanks"
+  },
+  {
+   "source": "Ronald Reagan",
+   "target": "Rajiv Gandhi",
+   "type": "other",
+   "detail": "Reagan thanks Gandhi for his February 8 letter and information on Vorontsov's visit, via Ambassador Dean.",
+   "date": "1988-02",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "The President has asked me to pass on his thanks for your letter of February 8 and the subsequent information provided about Mr. Vorontsov's visit"
+  },
+  {
+   "source": "John Gunther Dean",
+   "target": "Ronald Reagan",
+   "type": "reports_to",
+   "detail": "Dean conveys the President's message to Gandhi as his envoy.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "The President has asked me to pass on his thanks"
+  },
+  {
+   "source": "Rajiv Gandhi",
+   "target": "Mikhail Gorbachev",
+   "type": "other",
+   "detail": "Gandhi gave Reagan advance notice of Gorbachev's announcement and pressed the Soviets on withdrawal modalities, including front loading.",
+   "date": "1988-02",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "your advance notice of the Gorbachev announcement conveyed in your letter."
+  },
+  {
+   "source": "Rajiv Gandhi",
+   "target": "Soviet Union",
+   "type": "other",
+   "detail": "Gandhi emphasized acceptable withdrawal modalities, including front loading, to the Soviets.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "your emphasis to the Soviets on acceptable modalities of withdrawal, including front loading."
+  },
+  {
+   "source": "Mikhail Gorbachev",
+   "target": "Soviet Union",
+   "type": "leads",
+   "detail": "Gorbachev made the Soviet statement on withdrawal on February 8.",
+   "date": "1988-02-08",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Gorbachev's February 8 statement is a clear step forward"
+  },
+  {
+   "source": "Yuli Vorontsov",
+   "target": "Islamabad",
+   "type": "other",
+   "detail": "Vorontsov traveled to Islamabad to discuss interim arrangements.",
+   "date": "1988-02",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Vorontsov's trip to Islamabad forcused on other issues, particularly the issue of interim arrangements"
+  },
+  {
+   "source": "Yuli Vorontsov",
+   "target": "Soviet Union",
+   "type": "member_of",
+   "detail": "Vorontsov acted as a Soviet envoy on Afghanistan.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Vorontsov's trip to Islamabad forcused on other issues"
+  },
+  {
+   "source": "Diego Cordovez",
+   "target": "United Nations",
+   "type": "member_of",
+   "detail": "Cordovez conducted UN-brokered consultations between the U.S., USSR and Pakistan.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Cordovez' recent consultations between the U.S., the USSR and Pakistan"
+  },
+  {
+   "source": "Diego Cordovez",
+   "target": "United States Government",
+   "type": "met_with",
+   "detail": "Cordovez consulted with the U.S., USSR and Pakistan on interim arrangements.",
+   "date": "1988-02",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Cordovez' recent consultations between the U.S., the USSR and Pakistan."
+  },
+  {
+   "source": "Diego Cordovez",
+   "target": "Soviet Union",
+   "type": "met_with",
+   "detail": "Cordovez consulted with the USSR on interim arrangements.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Cordovez' recent consultations between the U.S., the USSR and Pakistan."
+  },
+  {
+   "source": "Diego Cordovez",
+   "target": "Government of Pakistan",
+   "type": "met_with",
+   "detail": "Cordovez consulted with Pakistan on interim arrangements.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Cordovez' recent consultations between the U.S., the USSR and Pakistan."
+  },
+  {
+   "source": "United States Government",
+   "target": "Soviet Union",
+   "type": "negotiated_with",
+   "detail": "Ministerial talks in Moscow February 21-23 to build U.S.-Soviet understanding ahead of Geneva.",
+   "date": "1988-02-21",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "The ministerial talks in Moscow February 21-23 can also contribute to a fuller U.S.-Soviet understanding"
+  },
+  {
+   "source": "United States Government",
+   "target": "Government of Pakistan",
+   "type": "negotiated_with",
+   "detail": "U.S., USSR and Pakistan agree that any successor government must come from the Afghans themselves.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "general agreement between the U.S., the USSR, and Pakistan that whatever emerges as an interim or eventual successor government in Afghanistan"
+  },
+  {
+   "source": "Soviet Union",
+   "target": "Najibullah regime",
+   "type": "allied_with",
+   "detail": "The Najibullah regime depends on the Soviet Army to hold power.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "the Najibullah regime cannot hold power without the Soviet Army"
+  },
+  {
+   "source": "Najibullah",
+   "target": "Najibullah regime",
+   "type": "leads",
+   "detail": "Najibullah heads the regime in Kabul.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "the Najibullah regime cannot hold power without the Soviet Army"
+  },
+  {
+   "source": "Najibullah regime",
+   "target": "Kabul",
+   "type": "located_in",
+   "detail": "The regime holds power in Kabul.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "a new regime with genuine popular support (including that of the resistance) assumes power in Kabul"
+  },
+  {
+   "source": "Afghan resistance",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "The resistance operates in Afghanistan.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "The moderate political orientation of the Afghan resistance"
+  },
+  {
+   "source": "Afghan resistance",
+   "target": "Government of Pakistan",
+   "type": "other",
+   "detail": "The resistance is described as having strong ties to conservative Islamic governments and movements.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "its strong ties to conservative Islamic governments and movements should be reassuring"
+  },
+  {
+   "source": "Government of India",
+   "target": "Government of Pakistan",
+   "type": "other",
+   "detail": "India's efforts to keep Pakistan informed of its activities are described as helpful.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "India's recent efforts to keep Pakistan informed of its activities are most helpful."
+  },
+  {
+   "source": "United States Government",
+   "target": "Government of Sri Lanka",
+   "type": "funded_by",
+   "detail": "U.S. has begun appropriating money for reconstruction in Sri Lanka (US as provider).",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "We have already begun appropriating money for reconstruction work"
+  },
+  {
+   "source": "Government of Sri Lanka",
+   "target": "Sri Lanka",
+   "type": "located_in",
+   "detail": "Government of Sri Lanka is working to restore peace in Sri Lanka.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "hope you and the Government of Sri Lanka can restore peace in Sri Lanka"
+  }
+ ],
+ "sources_cited": [
+  "Rajiv Gandhi letter of 8 February 1988",
+  "Gorbachev statement of 8 February 1988",
+  "UNGA resolution on Afghanistan"
+ ],
+ "key_claims": [
+  "The US saw the Soviets as more serious about withdrawing from Afghanistan than before, after Gorbachev's 8 Feb 1988 statement.",
+  "The US bottom line was complete, irreversible Soviet withdrawal in the shortest time, self-determination for the Afghans, and the return of refugees.",
+  "The US believed the Najibullah regime could not survive without the Soviet Army.",
+  "The US discounted the risk of a Khomeini-style fundamentalist regime in Kabul, citing Afghan history, the small Shi'a minority and the moderate resistance.",
+  "The US, USSR and Pakistan agreed that any successor government must be the product of Afghans themselves.",
+  "The US wanted Soviet participation in an agreement guaranteeing an independent, neutral, non-aligned Afghanistan."
+ ]
+}

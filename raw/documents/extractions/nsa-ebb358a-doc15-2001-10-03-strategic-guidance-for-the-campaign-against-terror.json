@@ -1,0 +1,328 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb358a-doc15-2001-10-03-strategic-guidance-for-the-campaign-against-terror",
+  "title": "Strategic Guidance for the Campaign Against Terrorism",
+  "authors": "Office of the Secretary of Defense",
+  "publisher": "National Security Archive (GWU), New Documents Detail America's Strategic Response to 9/11",
+  "published": "2001-10-03",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB358a/doc15.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB358a/index.htm",
+  "pages": 16,
+  "kind": "memo",
+  "note": "[Top Secret] Expansive strategic guidance to DoD for developing campaign plans, specifying threats (terrorist organizations, harboring states including the Taliban and Iraq Baathist Party, WMD proliferation), objectives, means, concepts and campaign elements.",
+  "collection": "NSAEBB358a",
+  "doc_number": "Document 15",
+  "relevance": "medium",
+  "ocr": 16
+ },
+ "persons": [
+  {
+   "name": "Douglas J. Feith",
+   "aliases": [
+    "Doug Feith"
+   ],
+   "role": "Under Secretary of Defense for Policy (USD(P)); classifying authority of the memorandum and briefing slides",
+   "organizations": [
+    "US Department of Defense",
+    "Office of the Secretary of Defense"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Pentagon",
+    "Washington, DC"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Classified by: Hon. Douglas J. Feith"
+    },
+    {
+     "timestamp": "p.2",
+     "quote": "Classified by: Hon, Douglas J, Feith, USD(P)"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "al-Qa'ida",
+   "aliases": [
+    "al Qaida",
+    "al-Qaeda"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [
+    "United States"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Named as a terrorist organization with global reach threatening the US; listed as a target of plans and operations against terrorist organizations."
+  },
+  {
+   "name": "Taliban",
+   "aliases": [],
+   "type": "political movement",
+   "parent_or_allies": [
+    "al-Qa'ida"
+   ],
+   "rivals": [
+    "United States"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Listed among state regimes that support terrorists, against which plans and operations are possibly to be developed."
+  },
+  {
+   "name": "Iraq Baathist Party",
+   "aliases": [
+    "Iraqi Baath Party"
+   ],
+   "type": "political movement",
+   "parent_or_allies": [],
+   "rivals": [
+    "United States"
+   ],
+   "country_base": "Iraq",
+   "notes": "Listed on the campaign elements slide among state regimes that support terrorists, possibly to be targeted."
+  },
+  {
+   "name": "Office of the Secretary of Defense",
+   "aliases": [
+    "OSD"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "US Department of Defense"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Issuing office of the strategic guidance memorandum."
+  },
+  {
+   "name": "US Department of Defense",
+   "aliases": [
+    "DoD",
+    "Pentagon"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [
+    "al-Qa'ida",
+    "Taliban"
+   ],
+   "country_base": "United States",
+   "notes": "Directed to develop campaign plans against terrorism aligned with the guidance."
+  },
+  {
+   "name": "Joint Chiefs of Staff",
+   "aliases": [
+    "JCS"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "US Department of Defense"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Chairman is a memo addressee."
+  }
+ ],
+ "places": [
+  {
+   "name": "Pentagon",
+   "type": "base",
+   "country": "United States",
+   "parent": "Washington, DC",
+   "significance": "Location of the Office of the Secretary of Defense that issued the memo."
+  },
+  {
+   "name": "Washington, DC",
+   "type": "city",
+   "country": "United States",
+   "parent": "United States",
+   "significance": "Memo origin."
+  },
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Implied through the Taliban and al-Qa'ida references; not named in the text."
+  },
+  {
+   "name": "Iraq",
+   "type": "country",
+   "country": "Iraq",
+   "parent": "",
+   "significance": "Iraq Baathist Party named as possible target on the campaign elements slide."
+  }
+ ],
+ "events": [
+  {
+   "date": "2001-10-03",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Secretary of Defense memorandum issues approved strategic guidance for DoD campaign plans against terrorism, effective immediately.",
+   "place": "Pentagon",
+   "actors": [
+    "Office of the Secretary of Defense",
+    "Douglas J. Feith"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-10-03",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Secretary of Defense issues memorandum with approved Strategic Guidance for the Campaign Against Terrorism to DoD components and combatant commanders.",
+   "place": "Washington, DC",
+   "actors": [
+    "Office of the Secretary of Defense",
+    "US Department of Defense",
+    "Joint Chiefs of Staff",
+    "Douglas J. Feith"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Douglas J. Feith",
+   "target": "US Department of Defense",
+   "type": "member_of",
+   "detail": "Feith is identified as USD(P) and classifying authority.",
+   "date": "2001-10-03",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Classified by: Hon, Douglas J, Feith, USD(P)"
+  },
+  {
+   "source": "Taliban",
+   "target": "al-Qa'ida",
+   "type": "other",
+   "detail": "Slide lists al Qaida as a terrorist organization target and the Taliban as a state regime supporting terrorists, implying a harboring relationship.",
+   "date": "2001-10",
+   "confidence": "inferred",
+   "timestamp": "p.11",
+   "quote": "Terrorist Organizations, Possibly Including: al Qaida ... Possibly Including: Taliban"
+  },
+  {
+   "source": "Douglas J. Feith",
+   "target": "Office of the Secretary of Defense",
+   "type": "member_of",
+   "detail": "Feith, as USD(P), classified the memorandum and guidance within the Office of the Secretary of Defense.",
+   "date": "2001-10-03",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "Classified by: Hon, Douglas J, Feith, USD(P)"
+  },
+  {
+   "source": "Office of the Secretary of Defense",
+   "target": "Joint Chiefs of Staff",
+   "type": "other",
+   "detail": "The memorandum is addressed to the Chairman, Joint Chiefs of Staff, directing him to align campaign plans with the guidance.",
+   "date": "2001-10-03",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "CHAIRMAN, JOINT CHIBFS OF STAFF"
+  },
+  {
+   "source": "Office of the Secretary of Defense",
+   "target": "US Department of Defense",
+   "type": "leads",
+   "detail": "The Secretary of Defense issues the guidance directing the Department of Defense to develop campaign plans against terrorism.",
+   "date": "2001-10-03",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Attached is the approved strategic guidance for the Department of Defense to develop campaign plans against terrorism."
+  },
+  {
+   "source": "Office of the Secretary of Defense",
+   "target": "al-Qa'ida",
+   "type": "rival_of",
+   "detail": "The guidance lists al Qaida as a terrorist organization to be targeted by plans and operations.",
+   "date": "2001-10-03",
+   "confidence": "stated",
+   "timestamp": "p.11",
+   "quote": "Plans and Operations Against Terrorist Organizations, Possibly Including: al Qaida"
+  },
+  {
+   "source": "Office of the Secretary of Defense",
+   "target": "Taliban",
+   "type": "rival_of",
+   "detail": "The Taliban are listed as a state regime that supports terrorists, possibly targeted by plans and operations.",
+   "date": "2001-10-03",
+   "confidence": "stated",
+   "timestamp": "p.11",
+   "quote": "Plans and Operations Against State Regimes That Support Terrorists, Possibly Including: Taliban"
+  },
+  {
+   "source": "Office of the Secretary of Defense",
+   "target": "Iraq Baathist Party",
+   "type": "rival_of",
+   "detail": "The Iraq Baathist Party is listed among regimes that support terrorists, possibly targeted by plans and operations.",
+   "date": "2001-10-03",
+   "confidence": "stated",
+   "timestamp": "p.11",
+   "quote": "Taliban Iraq Baathist Party"
+  },
+  {
+   "source": "Taliban",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "The Taliban regime is listed as a state supporter of terrorism, implicitly governing Afghanistan.",
+   "confidence": "inferred",
+   "timestamp": "p.11",
+   "quote": "Plans and Operations Against State Regimes That Support Terrorists, Possibly Including: Taliban"
+  },
+  {
+   "source": "Iraq Baathist Party",
+   "target": "Iraq",
+   "type": "located_in",
+   "detail": "The Iraq Baathist Party is the regime in Iraq listed as a possible target.",
+   "confidence": "inferred",
+   "timestamp": "p.11",
+   "quote": "Iraq Baathist Party"
+  },
+  {
+   "source": "Taliban",
+   "target": "al-Qa'ida",
+   "type": "allied_with",
+   "detail": "The Taliban are categorized as a state supporter or harborer of terrorist organizations, implicitly including al Qaida.",
+   "confidence": "inferred",
+   "timestamp": "p.11",
+   "quote": "States that harbor, sponsor, finance, sanction or otherwise support those terrorist organizations"
+  },
+  {
+   "source": "US Department of Defense",
+   "target": "Pentagon",
+   "type": "located_in",
+   "detail": "The Secretary of Defense's office is at the Pentagon.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "THE SECRETARY OF DEFENSE 1000 DEFENSE PENTAGON WASHINGTON, DC 20301-1000"
+  },
+  {
+   "source": "Pentagon",
+   "target": "Washington, DC",
+   "type": "located_in",
+   "detail": "The Pentagon address is in Washington, DC.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "DEFENSE PENTAGON WASHINGTON, DC 20301-1000"
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "The guidance identifies al Qaida as the principal terrorist organization with global reach threatening the US.",
+  "The Taliban is listed as a possible target among state regimes supporting terrorists.",
+  "The Iraq Baathist Party is named on the same slide as a possible state-supporter target.",
+  "The campaign targets states that harbor, sponsor or finance terrorists as well as non-state entities such as banks, foundations and corporations.",
+  "The memo envisions a sustained global campaign using all instruments of US power with multiple coalitions tailored to specific purposes."
+ ]
+}

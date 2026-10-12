@@ -1,0 +1,360 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc40-1998-12-24-excised-timeframe-for-completion-of-hijacking-oper",
+  "title": "[Excised] Timeframe for Completion of Hijacking Operation [Excised]",
+  "authors": "Central Intelligence Agency",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "1998-12-24",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7x7g-tbo1k/1998-12-24-excised-timeframe-for-completion-of.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 4,
+  "kind": "intelligence report",
+  "note": "CIA intelligence report on the timeframe for completion of the hijacking operation. Cited in 9/11 Commission Report Chapter 4, Endnote 113.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 40",
+  "relevance": "medium",
+  "ocr": 2
+ },
+ "persons": [
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Usama bin Laden",
+    "Bin Ladin"
+   ],
+   "role": "Leader who hoped to complete a hijack operation in the United States, per CIA information report",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "United States"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "USAMA ( (BIN LADIN) ) J ~OPES- TO-- HAVE_ COMPLETED THE HIJACK OPERATION"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Originator of the 24 December 1998 information report; the document is marked not finally evaluated intelligence."
+  },
+  {
+   "name": "Federal Bureau of Investigation",
+   "aliases": [
+    "FBI"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Addressee of the report."
+  },
+  {
+   "name": "Federal Aviation Administration",
+   "aliases": [
+    "FAA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Addressee (FAA National HQ)."
+  },
+  {
+   "name": "National Security Agency",
+   "aliases": [
+    "NSA",
+    "DIRNSA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Addressee of the report."
+  },
+  {
+   "name": "Defense Intelligence Agency",
+   "aliases": [
+    "DIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Addressee of the report."
+  },
+  {
+   "name": "US Secret Service",
+   "aliases": [
+    "Secret Service"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Addressee of the report."
+  },
+  {
+   "name": "White House Situation Room",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Immediate addressee of the report."
+  },
+  {
+   "name": "US Department of State, Bureau of Intelligence and Research",
+   "aliases": [
+    "SECSTATE//INR",
+    "INR"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Addressee of the report."
+  },
+  {
+   "name": "US Department of Justice, Office of Intelligence Policy and Review",
+   "aliases": [
+    "DOJ OIPR"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Addressee of the report."
+  },
+  {
+   "name": "US Department of Transportation",
+   "aliases": [
+    "DOT S-60"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Addressee of the report."
+  }
+ ],
+ "places": [
+  {
+   "name": "United States",
+   "type": "country",
+   "country": "United States",
+   "parent": "",
+   "significance": "Location where the hijack operation was intended to be completed."
+  },
+  {
+   "name": "Washington, D.C.",
+   "type": "city",
+   "country": "United States",
+   "parent": "United States",
+   "significance": "Small airport near here, or near New York, where key operatives were reportedly arrested."
+  },
+  {
+   "name": "New York",
+   "type": "city",
+   "country": "United States",
+   "parent": "United States",
+   "significance": "Alternative location of the small airport where operatives may have been arrested."
+  }
+ ],
+ "events": [
+  {
+   "date": "1998-12-24",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA information report disseminated on the timeframe for Bin Ladin's planned hijack operation in the United States.",
+   "place": "United States",
+   "actors": [
+    "Central Intelligence Agency"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1998-12",
+   "date_precision": "approx",
+   "type": "arrest",
+   "description": "Key operatives of the hijack plot reportedly arrested at a small airport near Washington, D.C. or New York; the operation may have run into trouble.",
+   "place": "Washington, D.C.",
+   "actors": [
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1998-01-10",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Date by which Usama bin Ladin hoped to complete the hijack operation in the US ('circa 10 January 1998' as OCR'd; probably 1999).",
+   "place": "United States",
+   "actors": [
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1998-12-24",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA information report distributed on the timeframe for completion of a Bin Ladin hijacking operation in the United States.",
+   "place": "Washington, D.C.",
+   "actors": [
+    "Central Intelligence Agency",
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1998-01-10",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Target date (circa 10 January 1998, as printed) by which Bin Ladin hoped to complete the hijack operation in the United States.",
+   "place": "United States",
+   "actors": [
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1998",
+   "date_precision": "approx",
+   "type": "arrest",
+   "description": "Report suggests the operation may have run into trouble because key operatives had been arrested at a small airport near Washington, D.C. or New York.",
+   "place": "Washington, D.C.; New York",
+   "actors": [
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.2"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Usama bin Ladin",
+   "target": "United States",
+   "type": "other",
+   "detail": "Bin Ladin hoped to complete a hijack operation in the United States by circa 10 January 1998 (date as printed in the report).",
+   "date": "1998",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "USAMA ( (BIN LADIN) ) J ~OPES- TO-- HAVE_ COMPLETED THE HIJACK OPERATION I I I IN THE UNITED STATES BYI ICIRCA 10 JANUARY 1998."
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "White House Situation Room",
+   "type": "other",
+   "detail": "The CIA information report is addressed to the White House Situation Room among its recipients.",
+   "date": "1998-12-24",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "IMMEDIATE WHITE HOUSE SITUATION ROO~, .."
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "Federal Bureau of Investigation",
+   "type": "other",
+   "detail": "The CIA report is distributed to the FBI.",
+   "date": "1998-12-24",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "DIRNSA, FEDERAL BUREAU: OF INVESTIGATION,."
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "Federal Aviation Administration",
+   "type": "other",
+   "detail": "The CIA report is distributed to FAA national headquarters.",
+   "date": "1998-12-24",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "FAA-NATIONAL'HQ"
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "National Security Agency",
+   "type": "other",
+   "detail": "The CIA report is distributed to the NSA director's office (DIRNSA).",
+   "date": "1998-12-24",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "DIRNSA, FEDERAL BUREAU: OF INVESTIGATION,."
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "Defense Intelligence Agency",
+   "type": "other",
+   "detail": "The CIA report is distributed to DIA Washington.",
+   "date": "1998-12-24",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "SECSTATE WASHDC//INR.//, DIA WASHINGTON·DC"
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "US Secret Service",
+   "type": "other",
+   "detail": "The CIA report is distributed to the Secret Service.",
+   "date": "1998-12-24",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "SECRET SERVICE//ID//"
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "US Department of State, Bureau of Intelligence and Research",
+   "type": "other",
+   "detail": "The CIA report is distributed to State/INR.",
+   "date": "1998-12-24",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "SECSTATE WASHDC//INR.//"
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "US Department of Justice, Office of Intelligence Policy and Review",
+   "type": "other",
+   "detail": "The CIA report is distributed to DOJ OIPR.",
+   "date": "1998-12-24",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "DEPARTMENT OF JUSTICE WASH DC//OIPR//"
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "US Department of Transportation",
+   "type": "other",
+   "detail": "The CIA report is distributed to the Department of Transportation (S-60).",
+   "date": "1998-12-24",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "DEPT OF TRANSPORTATION//S-60//"
+  }
+ ],
+ "sources_cited": [
+  "CIA information report, 24 December 1998 (not finally evaluated intelligence)"
+ ],
+ "key_claims": [
+  "Usama bin Ladin hoped to complete a hijack operation in the United States by about 10 January.",
+  "The operation may have run into trouble because key operatives had reportedly been arrested at a small airport near Washington, D.C. or New York.",
+  "The report is unevaluated information with extensive redactions, so sourcing and details are excised."
+ ]
+}
