@@ -92,7 +92,7 @@ def main():
             for fam in p.get("family", []) or []:
                 fi = ent("persons", fam.get("name"), dataset, ep)
                 if fi: con.execute("INSERT INTO relationships(source_id,target_id,type,detail,confidence,episode_idx,dataset) VALUES(?,?,?,?,?,?,?)",
-                                   (i, fi, "family", "derived:person.family — " + (f"{fam.get('relation')} ({ents[i]['name']} is {fam.get('relation')} of {ents[fi]['name']})"
+                                   (i, fi, "family", "derived:person.family — " + (f"{fam.get('relation')} ({ents[fi]['name']} is {fam.get('relation').rstrip(' of')} of {ents[i]['name']})"
                                     if fam.get("relation") else "family"), "stated", idx, dataset))
             locs = ", ".join(p.get("locations", []) or [])
             for l in p.get("locations", []) or []: ent("places", l, dataset, ep)
