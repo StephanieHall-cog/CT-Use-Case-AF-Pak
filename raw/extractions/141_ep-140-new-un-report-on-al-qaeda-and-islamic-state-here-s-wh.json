@@ -1,0 +1,1845 @@
+{
+ "episode": {
+  "idx": 141,
+  "title": "Ep. 140 — New UN report on al Qaeda and Islamic State: here's what to know",
+  "published": "Tue, 06 Feb 2024 00:00:00 +0000",
+  "guid": "8214cf80-ec0b-4e51-a583-aa8e0f680af0"
+ },
+ "persons": [
+  {
+   "name": "Edmund Fitton-Brown",
+   "aliases": [
+    "Edmund Fitton Brown",
+    "Edomac"
+   ],
+   "role": "Guest; former coordinator of the UN Monitoring Team, former UK ambassador to Yemen, senior advisor to the Counter-Extremism Project, project director of FDD's Axis of Resistance project",
+   "organizations": [
+    "UN Monitoring Team",
+    "Counter-Extremism Project",
+    "FDD"
+   ],
+   "nationality_or_origin": "British",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": true,
+   "mentions": [
+    {
+     "timestamp": "01:14",
+     "quote": "the former coordinator for the United Nations Sanctions and Monitoring Team, the former ambassador for the United Kingdom to Yemen. Currently, he's a senior advisor to the Counter-Extremism Project"
+    }
+   ]
+  },
+  {
+   "name": "Saif al-Adel",
+   "aliases": [
+    "Safe Al-Aidl",
+    "safe al-Adle",
+    "SAFE",
+    "safety Falado",
+    "Safe Sun (son context)"
+   ],
+   "role": "De facto leader of al-Qaeda since Zawahiri's killing (unannounced); long established in Iran; his son Khalid operates in Yemen for AQAP",
+   "organizations": [
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Egyptian",
+   "status": "alive",
+   "status_detail": "In Iran; one UN member state (implicitly Iran) denies al-Qaeda leaders are present there",
+   "family": [
+    {
+     "relation": "son",
+     "name": "Khalid Saif al-Adel (Muhammad Salah al-Din Zaidan)"
+    }
+   ],
+   "locations": [
+    "Iran",
+    "Yemen"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "13:23",
+     "quote": "when he was killed, Saif al-Adle, the number two, took over as the head of Al-Qaeda... They still haven't said that publicly"
+    },
+    {
+     "timestamp": "12:46",
+     "quote": "the fact that he's been long established in Iran is something that that's old news"
+    },
+    {
+     "timestamp": "17:06",
+     "quote": "safe will be thinking, okay, I'm in Iran right now, but what if I had to leave?... Could I go to Yemen?"
+    }
+   ]
+  },
+  {
+   "name": "Khalid Saif al-Adel (Muhammad Salah al-Din Zaidan)",
+   "aliases": [
+    "Khalid",
+    "Glade, Muhammad Salahaddin Zandani",
+    "Safe Sun"
+   ],
+   "role": "Son of Saif al-Adel; resides in Yemen close to AQAP senior leadership; delivers al-Qaeda directives, runs recruitment and media, manages AQAP internal strife; 'a very effective arm of his father in Yemen'",
+   "organizations": [
+    "al-Qaeda",
+    "AQAP"
+   ],
+   "nationality_or_origin": "Egyptian",
+   "status": "alive",
+   "status_detail": "Travels to southern Yemen intensified since mid-August 2023, protected by Ibrahim al-Banna",
+   "family": [
+    {
+     "relation": "father",
+     "name": "Saif al-Adel"
+    }
+   ],
+   "locations": [
+    "Yemen",
+    "southern Yemen"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "17:06",
+     "quote": "al-Qaeda further tighten control over AQAP, especially through the son of Saif al-Aido, his name is Glade, Muhammad Salahaddin Zandani, who resides in Yemen and is close to AQAP senior leadership"
+    },
+    {
+     "timestamp": "18:05",
+     "quote": "Khalid delivers al-Qaeda directives and plays a critical role in recruitment, media, and managing AQAP internal strife"
+    }
+   ]
+  },
+  {
+   "name": "Ibrahim al-Banna",
+   "aliases": [
+    "Ibrahim al-Ban"
+   ],
+   "role": "AQAP security leader who protects the movements of Khalid Saif al-Adel in southern Yemen",
+   "organizations": [
+    "AQAP"
+   ],
+   "nationality_or_origin": "Egyptian",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Yemen"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "18:05",
+     "quote": "His travels to southern Yemen have intensified since mid-August with his movements protected by the security leader Ibrahim al-Ban"
+    }
+   ]
+  },
+  {
+   "name": "Ayman al-Zawahiri",
+   "aliases": [
+    "Amen al-Zawahiri",
+    "Eman al-Zawahiri",
+    "Eamon al-Zawahri",
+    "Zawahari"
+   ],
+   "role": "Late al-Qaeda emir, killed by the US in Kabul; Taliban deny he was ever there, preventing al-Qaeda from announcing a successor",
+   "organizations": [
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Egyptian",
+   "status": "dead",
+   "status_detail": "Killed in a US strike in Kabul (2022); Taliban claim no evidence he was in the rubble",
+   "family": [],
+   "locations": [
+    "Kabul",
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "14:06",
+     "quote": "They claim that they looked at the site of... this outrageous American intervention in Kabul, and they could see no evidence at all that anyone answering to the description of Eman al-Zawahiri was in the rubble"
+    },
+    {
+     "timestamp": "23:04",
+     "quote": "through patient old Zawahari and all of his writings on Jerusalem, Al-Qaeda was particularly well-placed to respond"
+    }
+   ]
+  },
+  {
+   "name": "Nasir al-Wuhayshi",
+   "aliases": [
+    "Nasser al-Wahishi"
+   ],
+   "role": "AQAP emir; formerly Osama bin Laden's aide-de-camp and al-Qaeda general manager, in direct line to lead al-Qaeda; killed in US drone strike (host says 2013)",
+   "organizations": [
+    "AQAP",
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Yemeni",
+   "status": "dead",
+   "status_detail": "Killed by US drone strike (host: '2013, I believe')",
+   "family": [],
+   "locations": [
+    "Yemen"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "18:05",
+     "quote": "Nasser al-Wahishi, who served as Osama bin Laden's aid to camp, he was al-Qaeda's general manager. The U.S. killed him in a drone strike in 2013, I believe"
+    }
+   ]
+  },
+  {
+   "name": "Ibrahim al-Asiri",
+   "aliases": [
+    "as Siri"
+   ],
+   "role": "AQAP master bomb technician behind its innovative IED external-operations threat; killed by the United States",
+   "organizations": [
+    "AQAP"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "dead",
+   "status_detail": "Killed by the United States",
+   "family": [],
+   "locations": [
+    "Yemen"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "20:57",
+     "quote": "they had that master bomb technician of course as Siri who was also taken out by the United States"
+    }
+   ]
+  },
+  {
+   "name": "Osama bin Laden",
+   "aliases": [],
+   "role": "Late al-Qaeda founder; Wuhayshi was his aide-de-camp",
+   "organizations": [
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "dead",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "18:05",
+     "quote": "Nasser al-Wahishi, who served as Osama bin Laden's aid to camp"
+    }
+   ]
+  },
+  {
+   "name": "Abu Hafs al-Hashimi al-Qurashi",
+   "aliases": [
+    "Abu Hafts",
+    "Abu Haft"
+   ],
+   "role": "New Islamic State caliph; identity, nationality and location unknown; UN hints he may not be Iraqi or based in Syria",
+   "organizations": [
+    "Islamic State"
+   ],
+   "nationality_or_origin": "unknown",
+   "status": "alive",
+   "status_detail": "Kunya only; 'we know nothing about this guy'",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "38:47",
+     "quote": "this new guy, Abu Hafts... this is a nomadere, it's a kunya, it doesn't mean anything"
+    },
+    {
+     "timestamp": "39:29",
+     "quote": "there is this hint in paragraph one that maybe this time it's not an Iraqi. And maybe this time they're not in Syria"
+    }
+   ]
+  },
+  {
+   "name": "Abu Bakr al-Baghdadi",
+   "aliases": [
+    "Baghdad"
+   ],
+   "role": "Former Islamic State caliph who 'lasted for quite a while'; successors' life expectancy progressively shorter",
+   "organizations": [
+    "Islamic State"
+   ],
+   "nationality_or_origin": "Iraqi",
+   "status": "dead",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "36:56",
+     "quote": "Baghdad actually lasted for quite a while, and then his successor lasted for a couple of years"
+    }
+   ]
+  },
+  {
+   "name": "Abu Sara al-Iraqi",
+   "aliases": [
+    "Abusara Alaraki",
+    "Abu Saar al-Araqi",
+    "Abkhosara",
+    "Abusar al-Araki"
+   ],
+   "role": "Head of the Islamic State's General Directorate of Provinces; described as the group's shadow leader / de facto general manager; killed about a year before the episode",
+   "organizations": [
+    "Islamic State",
+    "General Directorate of Provinces"
+   ],
+   "nationality_or_origin": "Iraqi",
+   "status": "dead",
+   "status_detail": "Killed c. early 2023 per previous UN report",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "37:32",
+     "quote": "the death of a man called Abusara Alaraki, who was the head of the general directorate of provinces. And that guy was described as maybe as a sort of a shadow leader of the organization"
+    },
+    {
+     "timestamp": "41:05",
+     "quote": "it was almost like he was described as al-Qaeda, what Al-Qaeda would call it's general manager"
+    }
+   ]
+  },
+  {
+   "name": "Bilal al-Sudani",
+   "aliases": [
+    "Balas al-Sudani",
+    "Bilal al-Sadadhani",
+    "Blasadani",
+    "Al-Sudani"
+   ],
+   "role": "Head of the Islamic State's al-Karrar regional office in Puntland, northern Somalia; directed funding, operations and logistics for ISCAP (Mozambique, DRC, South Africa) and payments to ISKP; killed by US forces",
+   "organizations": [
+    "Islamic State",
+    "al-Karrar office"
+   ],
+   "nationality_or_origin": "Sudanese",
+   "status": "dead",
+   "status_detail": "Killed by the Americans, who attributed his funding to ISIL operations in Afghanistan",
+   "family": [],
+   "locations": [
+    "Puntland",
+    "Somalia"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "42:04",
+     "quote": "Balas al-Sudani. He was the head of the Al-Qarara regional office in northern Somalia, Pontland... he was directing a lot of the funding, the operations, the support"
+    },
+    {
+     "timestamp": "44:46",
+     "quote": "Bilal al-Sadani was killed by the Americans specifically because they attributed his funding activities to some of the ISIL operations in Afghanistan"
+    }
+   ]
+  },
+  {
+   "name": "Khalid Batarfi",
+   "aliases": [
+    "Khalid Batafi"
+   ],
+   "role": "AQAP emir; his temporary incarceration was the subject of an earlier LWJ–UN Monitoring Team disagreement",
+   "organizations": [
+    "AQAP"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Yemen"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "09:16",
+     "quote": "It was over the temporary incarceration of Khalid Batafi"
+    }
+   ]
+  },
+  {
+   "name": "Ibn Omar",
+   "aliases": [
+    "even Omar"
+   ],
+   "role": "Former leader of Islamic State Mozambique, harsh toward civilians; killed in 2023",
+   "organizations": [
+    "ISCAP",
+    "Islamic State"
+   ],
+   "nationality_or_origin": "Mozambican",
+   "status": "dead",
+   "status_detail": "Killed in 2023 ('last year')",
+   "family": [],
+   "locations": [
+    "Mozambique"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "73:38",
+     "quote": "even Omar being the sort of former leader of IAS Moes. He was killed last year, you know, big loss"
+    }
+   ]
+  },
+  {
+   "name": "Farido",
+   "aliases": [
+    "Farido Arunae"
+   ],
+   "role": "Leader of Islamic State Mozambique; took over before Ibn Omar's death; more relaxed approach to civilians reportedly on IS central directives",
+   "organizations": [
+    "ISCAP",
+    "Islamic State"
+   ],
+   "nationality_or_origin": "Mozambican",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Mozambique",
+    "Macomia"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "73:38",
+     "quote": "his successor, Farido Arunae, sort of already became the leader before Ibn Omar was killed. Farido was taken a more relaxed approach to civilians"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "UN Monitoring Team",
+   "aliases": [
+    "UN Security Council Analytical Support and Sanctions Monitoring Team",
+    "monitoring team"
+   ],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "10 experts with intelligence/financial/legal/diplomatic backgrounds; reports (~10,500 words) built from member-state intelligence, triangulated; Taliban trashes every report; report drafted December 2023"
+  },
+  {
+   "name": "al-Qaeda",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban",
+    "AQAP",
+    "AQIS",
+    "Tehrik-i-Taliban Pakistan",
+    "al-Shabaab",
+    "JNIM",
+    "AQIM",
+    "Ansaru",
+    "Government of Iran"
+   ],
+   "rivals": [
+    "Islamic State"
+   ],
+   "country_base": "Afghanistan/Iran",
+   "notes": "Led de facto by Saif al-Adel from Iran; training camps in 10 of 34 Afghan provinces, madrasas in 5, weapons depot in Panjshir, safe houses in Herat/Farah/Helmand/Kabul, facilitation network to Iran; decentralized media but centralized media strategy; exploited 7 October"
+  },
+  {
+   "name": "Taliban",
+   "aliases": [
+    "Afghan Taliban",
+    "Islamic Emirate"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda",
+    "Tehrik-i-Taliban Pakistan"
+   ],
+   "rivals": [
+    "Pakistan",
+    "National Resistance Front"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Denies Zawahiri was in Kabul; trashes every UN report; concerned about embarrassment from extremists; colluding with TTP against Pakistan; in talks with Iran on managing al-Qaeda risk"
+  },
+  {
+   "name": "AQAP",
+   "aliases": [
+    "Al-Qaeda in the Arabian Peninsula",
+    "ACAP",
+    "H-UAP"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda"
+   ],
+   "rivals": [
+    "Islamic State"
+   ],
+   "country_base": "Yemen",
+   "notes": "Al-Qaeda tightened control via Saif al-Adel's son Khalid; possible truce with Houthis; attacks mainly on Saudi/UAE/Yemeni government; media and external-ops (IED) specialization; ramped up propaganda after 7 Oct"
+  },
+  {
+   "name": "Houthis",
+   "aliases": [],
+   "type": "militia",
+   "parent_or_allies": [
+    "Government of Iran"
+   ],
+   "rivals": [],
+   "country_base": "Yemen",
+   "notes": "UN report: AQAP may be in a truce with the Houthis"
+  },
+  {
+   "name": "AQIS",
+   "aliases": [
+    "al-Qaeda in the Indian Subcontinent"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda",
+    "Tehrik-i-Taliban Pakistan"
+   ],
+   "rivals": [
+    "Pakistan"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "UN: licensed involvement with TTP in terrorist activity against Pakistan"
+  },
+  {
+   "name": "Tehrik-i-Taliban Pakistan",
+   "aliases": [
+    "TTP",
+    "Movement of the Taliban in Pakistan",
+    "Pakistani Taliban"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda",
+    "AQIS",
+    "Taliban"
+   ],
+   "rivals": [
+    "Pakistan"
+   ],
+   "country_base": "Afghanistan/Pakistan",
+   "notes": "Supported by al-Qaeda; suicide bombers trained in al-Qaeda camps in Afghanistan; launching far more attacks in Pakistan than ISIS does anywhere"
+  },
+  {
+   "name": "Islamic State Khorasan Province",
+   "aliases": [
+    "ISIL-Khorasan",
+    "ISIS-K",
+    "ISKP",
+    "Khorasan province"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Islamic State",
+    "al-Karrar office"
+   ],
+   "rivals": [
+    "Taliban",
+    "al-Qaeda"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "UN assesses ISKP the greater external threat (Roggio disagrees); attack in Iran; uses Central Asians (Tajiks, Uzbeks) for European plots; own Tajik/Uzbek-language propaganda; received ~$25,000/month from al-Karrar office; UN retracted earlier claim about its leader"
+  },
+  {
+   "name": "Islamic State",
+   "aliases": [
+    "ISIL",
+    "ISIS",
+    "IS Central"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [
+    "al-Qaeda"
+   ],
+   "country_base": "Iraq/Syria",
+   "notes": "Succession of caliphs with shortening life expectancy; new caliph Abu Hafs unknown; UN hints leadership may be shifting away from Iraq/Syria and toward geographically dispersed model; centralized media"
+  },
+  {
+   "name": "General Directorate of Provinces",
+   "aliases": [
+    "GDP"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Islamic State"
+   ],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Oversees ISIS regional offices; headed by Abu Sara al-Iraqi until his death; 'more relevant than the actual caliph'"
+  },
+  {
+   "name": "al-Karrar office",
+   "aliases": [
+    "Al-Qarar office",
+    "Al-Qarara",
+    "Al-Karrar"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Islamic State",
+    "ISCAP",
+    "Islamic State Khorasan Province"
+   ],
+   "rivals": [],
+   "country_base": "Puntland, Somalia",
+   "notes": "ISIS regional office led by Bilal al-Sudani; essential funding node; moved money to Mozambique, DRC, South Africa and Afghanistan; funded by crime (extortion, taxes, kidnapping) pooled in Somalia and South Africa"
+  },
+  {
+   "name": "al-Furqan office",
+   "aliases": [
+    "Alford-Karne office",
+    "Al-Fa-Kan office",
+    "Al-Qarne office"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Islamic State",
+    "ISWAP"
+   ],
+   "rivals": [],
+   "country_base": "Nigeria",
+   "notes": "ISIS regional office hosted by ISWAP; one of three offices; may be taking on al-Karrar's role"
+  },
+  {
+   "name": "ISWAP",
+   "aliases": [
+    "IS West Africa Province",
+    "Iswap"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Islamic State",
+    "al-Furqan office"
+   ],
+   "rivals": [
+    "Boko Haram",
+    "Nigerian military"
+   ],
+   "country_base": "northeastern Nigeria / Lake Chad Basin",
+   "notes": "Several thousand fighters, perhaps the largest single ISIL fighting force; donations from Gulf donors"
+  },
+  {
+   "name": "Boko Haram",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [
+    "ISWAP"
+   ],
+   "country_base": "Nigeria",
+   "notes": "Two remnant factions; unclear whether they align with al-Qaeda, ISIS or merge with ISWAP"
+  },
+  {
+   "name": "Ansaru",
+   "aliases": [
+    "Ansarro",
+    "Saarou"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda",
+    "AQIM",
+    "JNIM"
+   ],
+   "rivals": [],
+   "country_base": "northwest Nigeria",
+   "notes": "Al-Qaeda's nominal Nigerian branch; bogged down fighting bandits; below expected capability"
+  },
+  {
+   "name": "JNIM",
+   "aliases": [
+    "J&IAM",
+    "Jainim",
+    "J&M",
+    "Jama'at Nusrat al-Islam wal-Muslimin"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda",
+    "Tuareg/Azawad factions",
+    "Ansaru"
+   ],
+   "rivals": [
+    "Malian army",
+    "ISGS (truce)"
+   ],
+   "country_base": "Sahel",
+   "notes": "Expanding in Mali, Burkina Faso, Niger and coastal states (Benin, Ghana, Togo, Ivory Coast); works with Tuareg factions against Malian army; truce with ISGS since summer 2023"
+  },
+  {
+   "name": "ISGS",
+   "aliases": [
+    "Islamic State in the Greater Sahara",
+    "Islamic State Sahel"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Islamic State"
+   ],
+   "rivals": [
+    "JNIM (truce)"
+   ],
+   "country_base": "northern Mali (Menaka)",
+   "notes": "Controls territory in extreme north Mali, implementing sharia; presence in northern Benin forest as transit route; truce with JNIM"
+  },
+  {
+   "name": "al-Shabaab",
+   "aliases": [
+    "Shabab",
+    "Shabob"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda"
+   ],
+   "rivals": [
+    "Somali federal government",
+    "African Union"
+   ],
+   "country_base": "Somalia",
+   "notes": "7,000-12,000 fighters, ~$100M/year from illicit taxation in Mogadishu; resilient against government offensive; increasingly global (pilot training arrests, Costa Rica arrests); sanctioned under Somalia committee not al-Qaeda committee"
+  },
+  {
+   "name": "ISCAP",
+   "aliases": [
+    "Islamic State Central Africa Province",
+    "IS Mozambique",
+    "ISMos",
+    "ADF"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Islamic State",
+    "al-Karrar office"
+   ],
+   "rivals": [
+    "Rwandan forces",
+    "SADC forces"
+   ],
+   "country_base": "Mozambique/DRC",
+   "notes": "IS Mozambique resurging in Macomia after Rwandan/SADC interventions; ADF in DRC; UN caveat about 'no direct command and control' disputed by hosts"
+  },
+  {
+   "name": "Hezbollah",
+   "aliases": [],
+   "type": "militia",
+   "parent_or_allies": [
+    "Government of Iran"
+   ],
+   "rivals": [],
+   "country_base": "Lebanon",
+   "notes": "Trained al-Qaeda's 1998 embassy bombers in Lebanon on Iran's orders"
+  },
+  {
+   "name": "Hamas",
+   "aliases": [],
+   "type": "political movement",
+   "parent_or_allies": [],
+   "rivals": [
+    "Islamic State"
+   ],
+   "country_base": "Gaza",
+   "notes": "7 October attack; ISIS deems Hamas apostates while al-Qaeda exploits the war"
+  },
+  {
+   "name": "Government of Iran",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [
+    "al-Qaeda",
+    "Hezbollah",
+    "Houthis"
+   ],
+   "rivals": [],
+   "country_base": "Iran",
+   "notes": "Hosts Saif al-Adel; implicitly the member state denying al-Qaeda presence; talks with Taliban on managing al-Qaeda risk; 'spider at the center of the web'"
+  },
+  {
+   "name": "Pakistan",
+   "aliases": [
+    "Islamabad"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [
+    "Tehrik-i-Taliban Pakistan",
+    "AQIS"
+   ],
+   "country_base": "Pakistan",
+   "notes": "Furious that Afghan Taliban is colluding with TTP after Pakistan supported the Taliban insurgency"
+  },
+  {
+   "name": "National Resistance Front",
+   "aliases": [
+    "Northern Alliance"
+   ],
+   "type": "militia",
+   "parent_or_allies": [],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Panjshir",
+   "notes": "Successor to the Northern Alliance; last anti-Taliban resistance in Panjshir, now site of an al-Qaeda weapons depot"
+  },
+  {
+   "name": "Counter-Extremism Project",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Fitton-Brown is senior advisor"
+  },
+  {
+   "name": "FDD",
+   "aliases": [
+    "Foundation for Defense of Democracies",
+    "FDD's Long War Journal"
+   ],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Foundation for Defense of Democracies; launching Axis of Resistance project with Fitton-Brown"
+  },
+  {
+   "name": "Bridgeway Foundation",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Caleb Weiss's employer; field work on ISIS financing in East/Central/Southern Africa"
+  },
+  {
+   "name": "SIGAR",
+   "aliases": [
+    "Special Inspector General for Afghanistan Reconstruction"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Praised by Roggio alongside the Monitoring Team"
+  },
+  {
+   "name": "ECOWAS",
+   "aliases": [],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "West Africa",
+   "notes": "Mali, Burkina Faso and Niger broke away"
+  },
+  {
+   "name": "MINUSMA",
+   "aliases": [
+    "Minosma"
+   ],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Mali",
+   "notes": "UN mission evacuating from Mali"
+  },
+  {
+   "name": "Wagner",
+   "aliases": [],
+   "type": "militia",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Russia",
+   "notes": "Sahel juntas contract Wagner rather than traditional CT partners"
+  },
+  {
+   "name": "African Union",
+   "aliases": [
+    "ATMIS"
+   ],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [
+    "al-Shabaab"
+   ],
+   "country_base": "Somalia",
+   "notes": "Drawing down from Somalia; Shabaab overruns bases handed to the Somali National Army"
+  },
+  {
+   "name": "Somali National Army",
+   "aliases": [
+    "SNA"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "African Union"
+   ],
+   "rivals": [
+    "al-Shabaab"
+   ],
+   "country_base": "Somalia",
+   "notes": "Crumbling in some areas; phase two offensive in Jubaland/Southwest State not started"
+  },
+  {
+   "name": "United States",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Killed Zawahiri (Kabul), Wuhayshi, al-Asiri, Bilal al-Sudani"
+  },
+  {
+   "name": "Tuareg/Azawad factions",
+   "aliases": [],
+   "type": "militia",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "northern Mali",
+   "notes": "Clan-based Tuareg militias allied with JNIM against the Malian army"
+  }
+ ],
+ "places": [
+  {
+   "name": "Iran",
+   "type": "country",
+   "country": "Iran",
+   "parent": "",
+   "significance": "Saif al-Adel's base; facilitation network from Afghanistan; ISKP attack; talks with Taliban"
+  },
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Al-Qaeda training camps in 10 of 34 provinces, madrasas in 5, safe houses in 4"
+  },
+  {
+   "name": "Kabul",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Kabul province",
+   "significance": "Zawahiri killed there; al-Qaeda safe houses in Kabul province"
+  },
+  {
+   "name": "Panjshir",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Al-Qaeda base to stock weaponry; former National Resistance Front bastion"
+  },
+  {
+   "name": "Herat",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Al-Qaeda safe houses on the Iranian border"
+  },
+  {
+   "name": "Farah",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Al-Qaeda safe houses on the Iranian border"
+  },
+  {
+   "name": "Helmand",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Al-Qaeda safe houses"
+  },
+  {
+   "name": "Jowzjan",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Ex-Taliban group there pledged allegiance to ISIL years ago"
+  },
+  {
+   "name": "Yemen",
+   "type": "country",
+   "country": "Yemen",
+   "parent": "",
+   "significance": "Khalid Saif al-Adel's base; AQAP; possible fallback for Saif al-Adel"
+  },
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Target of TTP/AQIS attacks from Afghanistan"
+  },
+  {
+   "name": "Gaza",
+   "type": "region",
+   "country": "Palestinian territories",
+   "parent": "",
+   "significance": "War after 7 October exploited by al-Qaeda propaganda"
+  },
+  {
+   "name": "Lebanon",
+   "type": "country",
+   "country": "Lebanon",
+   "parent": "",
+   "significance": "Hezbollah trained 1998 embassy bombers there"
+  },
+  {
+   "name": "Somalia",
+   "type": "country",
+   "country": "Somalia",
+   "parent": "",
+   "significance": "Al-Shabaab; ISIS al-Karrar office in Puntland"
+  },
+  {
+   "name": "Puntland",
+   "type": "region",
+   "country": "Somalia",
+   "parent": "Somalia",
+   "significance": "Base of ISIS al-Karrar office"
+  },
+  {
+   "name": "Mogadishu",
+   "type": "city",
+   "country": "Somalia",
+   "parent": "Somalia",
+   "significance": "Al-Shabaab illicit taxation (~$100M/yr)"
+  },
+  {
+   "name": "Mali",
+   "type": "country",
+   "country": "Mali",
+   "parent": "",
+   "significance": "JNIM consolidation; ISGS in north; left ECOWAS; MINUSMA expelled"
+  },
+  {
+   "name": "Menaka",
+   "type": "region",
+   "country": "Mali",
+   "parent": "Mali",
+   "significance": "Extreme north ceded to ISGS under JNIM–ISGS truce"
+  },
+  {
+   "name": "Burkina Faso",
+   "type": "country",
+   "country": "Burkina Faso",
+   "parent": "",
+   "significance": "JNIM expansion; left ECOWAS"
+  },
+  {
+   "name": "Niger",
+   "type": "country",
+   "country": "Niger",
+   "parent": "",
+   "significance": "JNIM expansion; coup; left ECOWAS"
+  },
+  {
+   "name": "Benin",
+   "type": "country",
+   "country": "Benin",
+   "parent": "",
+   "significance": "JNIM spread; ISGS uses northern forest as transit route"
+  },
+  {
+   "name": "Nigeria",
+   "type": "country",
+   "country": "Nigeria",
+   "parent": "",
+   "significance": "ISWAP and al-Furqan office in northeast; Ansaru and bandits in northwest; wealthy donors"
+  },
+  {
+   "name": "Lake Chad Basin",
+   "type": "region",
+   "country": "",
+   "parent": "Nigeria/Cameroon/Chad/Niger",
+   "significance": "ISWAP area of operations"
+  },
+  {
+   "name": "Mozambique",
+   "type": "country",
+   "country": "Mozambique",
+   "parent": "",
+   "significance": "IS Mozambique resurgence; SADC withdrawal"
+  },
+  {
+   "name": "Macomia",
+   "type": "district",
+   "country": "Mozambique",
+   "parent": "Cabo Delgado",
+   "significance": "IS Mozambique headquarters area; villages and a town reoccupied"
+  },
+  {
+   "name": "Democratic Republic of the Congo",
+   "type": "country",
+   "country": "DRC",
+   "parent": "",
+   "significance": "ADF/ISCAP"
+  },
+  {
+   "name": "South Africa",
+   "type": "country",
+   "country": "South Africa",
+   "parent": "",
+   "significance": "ISIS financial facilitators (Johannesburg); kidnapping for ransom"
+  },
+  {
+   "name": "Johannesburg",
+   "type": "city",
+   "country": "South Africa",
+   "parent": "South Africa",
+   "significance": "Non-ideological ISIS financial facilitator network"
+  },
+  {
+   "name": "Europe",
+   "type": "region",
+   "country": "",
+   "parent": "",
+   "significance": "Elevated inspired/facilitated plot threat, mainly ISKP via Central Asians"
+  },
+  {
+   "name": "Philippines",
+   "type": "country",
+   "country": "Philippines",
+   "parent": "",
+   "significance": "Al-Shabaab member arrested taking flight lessons"
+  },
+  {
+   "name": "Costa Rica",
+   "type": "country",
+   "country": "Costa Rica",
+   "parent": "",
+   "significance": "Two al-Shabaab members, incl. son of a senior leader, arrested"
+  }
+ ],
+ "events": [
+  {
+   "date": "2024-01",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Release of the latest UN Monitoring Team report on al-Qaeda/ISIL (drafted December 2023), discussed in this episode",
+   "place": "",
+   "actors": [
+    "UN Monitoring Team"
+   ],
+   "timestamp": "02:21"
+  },
+  {
+   "date": "2022",
+   "date_precision": "year",
+   "type": "death",
+   "description": "Zawahiri killed in a US strike in Kabul; Saif al-Adel took over without public announcement; Taliban deny he was there",
+   "place": "Kabul",
+   "actors": [
+    "Ayman al-Zawahiri",
+    "Saif al-Adel",
+    "Taliban"
+   ],
+   "timestamp": "13:23"
+  },
+  {
+   "date": "2023-10-07",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "Hamas 7 October attack; al-Qaeda, especially AQAP from Yemen, ramped up propaganda to exploit the Gaza war",
+   "place": "Gaza",
+   "actors": [
+    "Hamas",
+    "al-Qaeda",
+    "AQAP"
+   ],
+   "timestamp": "21:41"
+  },
+  {
+   "date": "2023-08",
+   "date_precision": "month",
+   "type": "travel",
+   "description": "Khalid Saif al-Adel's travels to southern Yemen intensified from mid-August, protected by Ibrahim al-Banna",
+   "place": "southern Yemen",
+   "actors": [
+    "Khalid Saif al-Adel (Muhammad Salah al-Din Zaidan)",
+    "Ibrahim al-Banna"
+   ],
+   "timestamp": "18:05"
+  },
+  {
+   "date": "2013",
+   "date_precision": "year",
+   "type": "death",
+   "description": "Nasir al-Wuhayshi killed in US drone strike (host's date; actual 2015)",
+   "place": "Yemen",
+   "actors": [
+    "Nasir al-Wuhayshi",
+    "United States"
+   ],
+   "timestamp": "18:05"
+  },
+  {
+   "date": "1998",
+   "date_precision": "year",
+   "type": "attack",
+   "description": "1998 US embassy bombings; al-Qaeda bombers trained in Lebanon by Hezbollah on Iran's orders",
+   "place": "Lebanon",
+   "actors": [
+    "al-Qaeda",
+    "Hezbollah",
+    "Government of Iran"
+   ],
+   "timestamp": "24:56"
+  },
+  {
+   "date": "2019",
+   "date_precision": "year",
+   "type": "statement",
+   "description": "Al-Shabaab and JNIM 'Jerusalem will not be Judaized' propaganda campaigns, indicating central al-Qaeda direction",
+   "place": "",
+   "actors": [
+    "al-Shabaab",
+    "JNIM",
+    "al-Qaeda"
+   ],
+   "timestamp": "27:29"
+  },
+  {
+   "date": "2023",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Al-Qaeda opened eight new training camps in four additional Afghan provinces (now 10 of 34), runs madrasas in five provinces, a weapons depot in Panjshir, safe houses in Herat, Farah, Helmand and Kabul, and a facilitation network into Iran across three provinces",
+   "place": "Afghanistan",
+   "actors": [
+    "al-Qaeda",
+    "Taliban"
+   ],
+   "timestamp": "27:58"
+  },
+  {
+   "date": "2024-01",
+   "date_precision": "month",
+   "type": "attack",
+   "description": "ISIL-Khorasan attack in Iran, 'a big one'",
+   "place": "Iran",
+   "actors": [
+    "Islamic State Khorasan Province"
+   ],
+   "timestamp": "32:47"
+  },
+  {
+   "date": "2023",
+   "date_precision": "year",
+   "type": "death",
+   "description": "Abu Sara al-Iraqi, head of the ISIS General Directorate of Provinces, killed (reported in previous UN report, 'a year ago')",
+   "place": "",
+   "actors": [
+    "Abu Sara al-Iraqi",
+    "Islamic State"
+   ],
+   "timestamp": "37:32"
+  },
+  {
+   "date": "2023",
+   "date_precision": "year",
+   "type": "appointment",
+   "description": "Abu Hafs al-Hashimi al-Qurashi named new ISIS caliph; identity, nationality and location unknown",
+   "place": "",
+   "actors": [
+    "Abu Hafs al-Hashimi al-Qurashi",
+    "Islamic State"
+   ],
+   "timestamp": "38:47"
+  },
+  {
+   "date": "2023",
+   "date_precision": "year",
+   "type": "death",
+   "description": "Bilal al-Sudani, head of ISIS al-Karrar office, killed by US forces over funding of ISIL operations in Afghanistan",
+   "place": "Puntland",
+   "actors": [
+    "Bilal al-Sudani",
+    "United States"
+   ],
+   "timestamp": "44:46"
+  },
+  {
+   "date": "2023",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Previous UN report: al-Karrar office sending about $25,000 a month to ISKP",
+   "place": "Somalia",
+   "actors": [
+    "al-Karrar office",
+    "Islamic State Khorasan Province"
+   ],
+   "timestamp": "42:34"
+  },
+  {
+   "date": "2012",
+   "date_precision": "year",
+   "type": "offensive",
+   "description": "Al-Qaeda took over northern Mali with the help of Tuareg groups",
+   "place": "Mali",
+   "actors": [
+    "al-Qaeda",
+    "AQIM",
+    "Tuareg/Azawad factions"
+   ],
+   "timestamp": "48:00"
+  },
+  {
+   "date": "2023",
+   "date_precision": "year",
+   "type": "agreement",
+   "description": "JNIM–ISGS truce/detente since summer 2023, confirmed by UN: JNIM cedes Menaka to ISGS, ISGS refrains from attacking JNIM in the tri-border area",
+   "place": "Mali",
+   "actors": [
+    "JNIM",
+    "ISGS"
+   ],
+   "timestamp": "49:39"
+  },
+  {
+   "date": "2024-01",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Mali, Burkina Faso and Niger break away from ECOWAS; MINUSMA evacuating Mali; France lost influence",
+   "place": "Mali",
+   "actors": [
+    "ECOWAS",
+    "MINUSMA"
+   ],
+   "timestamp": "52:35"
+  },
+  {
+   "date": "2023",
+   "date_precision": "year",
+   "type": "death",
+   "description": "Ibn Omar, former leader of IS Mozambique, killed ('last year')",
+   "place": "Mozambique",
+   "actors": [
+    "Ibn Omar",
+    "ISCAP"
+   ],
+   "timestamp": "73:38"
+  },
+  {
+   "date": "2024-01",
+   "date_precision": "month",
+   "type": "offensive",
+   "description": "IS Mozambique reoccupied villages and a town in Macomia district, first large territorial occupation since 2021, as SADC forces prepare to withdraw",
+   "place": "Macomia",
+   "actors": [
+    "ISCAP"
+   ],
+   "timestamp": "74:45"
+  },
+  {
+   "date": "2024-01",
+   "date_precision": "month",
+   "type": "arrest",
+   "description": "Two al-Shabaab members, including the son of a senior leader, arrested in Costa Rica in the last couple of months",
+   "place": "Costa Rica",
+   "actors": [
+    "al-Shabaab"
+   ],
+   "timestamp": "83:58"
+  },
+  {
+   "date": "approx 2021",
+   "date_precision": "approx",
+   "type": "arrest",
+   "description": "Al-Shabaab member arrested in the Philippines taking flight lessons; another arrested months later in an East African country",
+   "place": "Philippines",
+   "actors": [
+    "al-Shabaab"
+   ],
+   "timestamp": "83:58"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Edmund Fitton-Brown",
+   "target": "UN Monitoring Team",
+   "type": "other",
+   "detail": "Former coordinator of the Monitoring Team",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "01:14",
+   "quote": "Edmund is the former coordinator for the United Nations Sanctions and Monitoring Team"
+  },
+  {
+   "source": "Edmund Fitton-Brown",
+   "target": "FDD",
+   "type": "member_of",
+   "detail": "Project director for FDD's Axis of Resistance project",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "01:14",
+   "quote": "Edmund is our project director for FDD's Access of Resistance Project"
+  },
+  {
+   "source": "Saif al-Adel",
+   "target": "Government of Iran",
+   "type": "sheltered_by",
+   "detail": "Long established in Iran; one member state (implicitly Iran) denies it",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "12:46",
+   "quote": "the fact that he's been long established in Iran is something that that's old news"
+  },
+  {
+   "source": "Saif al-Adel",
+   "target": "Ayman al-Zawahiri",
+   "type": "succeeded",
+   "detail": "Took over as head of al-Qaeda after Zawahiri's killing; not announced publicly",
+   "date": "2022",
+   "confidence": "stated",
+   "timestamp": "13:23",
+   "quote": "when he was killed, Saif al-Adle, the number two, took over as the head of Al-Qaeda"
+  },
+  {
+   "source": "Saif al-Adel",
+   "target": "al-Qaeda",
+   "type": "leads",
+   "detail": "De facto emir; 'more agile than Zawahiri'",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "23:04",
+   "quote": "SAFE is more agile than Zawahari was. And SAFE son is a very effective arm of his father in Yemen"
+  },
+  {
+   "source": "Khalid Saif al-Adel (Muhammad Salah al-Din Zaidan)",
+   "target": "Saif al-Adel",
+   "type": "family",
+   "detail": "Son of Saif al-Adel",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "17:06",
+   "quote": "the son of Saif al-Aido, his name is Glade, Muhammad Salahaddin Zandani, who resides in Yemen"
+  },
+  {
+   "source": "Khalid Saif al-Adel (Muhammad Salah al-Din Zaidan)",
+   "target": "AQAP",
+   "type": "other",
+   "detail": "Al-Qaeda tightens control over AQAP through Khalid, who delivers directives and manages recruitment, media and internal strife",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "18:05",
+   "quote": "Khalid delivers al-Qaeda directives and plays a critical role in recruitment, media, and managing AQAP internal strife"
+  },
+  {
+   "source": "Khalid Saif al-Adel (Muhammad Salah al-Din Zaidan)",
+   "target": "Yemen",
+   "type": "located_in",
+   "detail": "Resides in Yemen, close to AQAP senior leadership",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "17:06",
+   "quote": "who resides in Yemen and is close to AQAP seniorly leadership"
+  },
+  {
+   "source": "Ibrahim al-Banna",
+   "target": "Khalid Saif al-Adel (Muhammad Salah al-Din Zaidan)",
+   "type": "other",
+   "detail": "AQAP security leader protecting Khalid's movements",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "18:05",
+   "quote": "his movements protected by the security leader Ibrahim al-Ban"
+  },
+  {
+   "source": "al-Qaeda",
+   "target": "AQAP",
+   "type": "leads",
+   "detail": "Al-Qaeda further tightened control over AQAP",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "17:06",
+   "quote": "al-Qaeda further tighten control over AQAP, especially through the son of Saif al-Aido"
+  },
+  {
+   "source": "Ayman al-Zawahiri",
+   "target": "Taliban",
+   "type": "sheltered_by",
+   "detail": "Killed in Kabul; Taliban deny he was there to avoid admitting they hosted him",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "14:06",
+   "quote": "the Taliban have camped out on that, they've effectively denied that Eamon al-Zawahri was ever in Afghanistan"
+  },
+  {
+   "source": "United States",
+   "target": "Ayman al-Zawahiri",
+   "type": "killed",
+   "detail": "US strike in Kabul",
+   "date": "2022",
+   "confidence": "stated",
+   "timestamp": "14:40",
+   "quote": "there is nothing more embarrassing than getting yourself droned in the middle of Kabul"
+  },
+  {
+   "source": "Nasir al-Wuhayshi",
+   "target": "Osama bin Laden",
+   "type": "reports_to",
+   "detail": "Served as bin Laden's aide-de-camp; later al-Qaeda general manager",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "18:05",
+   "quote": "Nasser al-Wahishi, who served as Osama bin Laden's aid to camp, he was al-Qaeda's general manager"
+  },
+  {
+   "source": "United States",
+   "target": "Nasir al-Wuhayshi",
+   "type": "killed",
+   "detail": "Drone strike",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "18:05",
+   "quote": "The U.S. killed him in a drone strike in 2013, I believe"
+  },
+  {
+   "source": "United States",
+   "target": "Ibrahim al-Asiri",
+   "type": "killed",
+   "detail": "AQAP bomb maker taken out by the US",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "20:57",
+   "quote": "that master bomb technician of course as Siri who was also taken out by the United States"
+  },
+  {
+   "source": "Government of Iran",
+   "target": "Taliban",
+   "type": "negotiated_with",
+   "detail": "Conversations between Iranians and Taliban on managing the al-Qaeda risk (other-source reporting, not well established)",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "15:55",
+   "quote": "you've got conversations going on between the Iranians and the Taliban about... what do we do to... manage the risk?"
+  },
+  {
+   "source": "al-Qaeda",
+   "target": "Iran",
+   "type": "located_in",
+   "detail": "AQ-associated installations near the Iranian border; facilitation network into Iran",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "15:15",
+   "quote": "a lot of the sort of AQ-associated installations appear to be not too far from the Iranian border"
+  },
+  {
+   "source": "AQIS",
+   "target": "Tehrik-i-Taliban Pakistan",
+   "type": "allied_with",
+   "detail": "UN: AQIS licensed involvement with TTP in terrorism against Pakistan",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "16:31",
+   "quote": "the report points to AQIS, al-Qaeda in the Indian subcontinent, licensed involvement with the Pakistani Taliban in terrorist activity against Pakistan"
+  },
+  {
+   "source": "Taliban",
+   "target": "Tehrik-i-Taliban Pakistan",
+   "type": "allied_with",
+   "detail": "Afghan Taliban colluding with and supporting TTP terrorism inside Pakistan",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "16:31",
+   "quote": "the Afghan Taliban is colluding with the Pakistani Taliban to allow and indeed to support terrorist activity inside Pakistan"
+  },
+  {
+   "source": "Pakistan",
+   "target": "Taliban",
+   "type": "rival_of",
+   "detail": "Pakistan furious after supporting the Taliban insurgency",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "16:31",
+   "quote": "Pakistan is furious about this. I suppose it feels disappointed that having been very supportive of the Afghan Taliban"
+  },
+  {
+   "source": "Tehrik-i-Taliban Pakistan",
+   "target": "al-Qaeda",
+   "type": "trained_by",
+   "detail": "TTP supported by al-Qaeda; AQ camps used to train TTP suicide bombers",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "30:23",
+   "quote": "the movement of the Taliban in Pakistan, which is supported by al-Qaeda, some of these camps are being used to train... suicide bombers"
+  },
+  {
+   "source": "AQAP",
+   "target": "Houthis",
+   "type": "other",
+   "detail": "UN: AQAP may be in a truce with the Houthis; AQAP attacks target Saudi/UAE/Yemeni government instead",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "19:15",
+   "quote": "Al-Qaeda in the Arabian Peninsula may be in some kind of truce with the Houthis"
+  },
+  {
+   "source": "JNIM",
+   "target": "ISGS",
+   "type": "other",
+   "detail": "Truce/detente since summer 2023 confirmed by UN; zones of influence in northern Mali",
+   "date": "2023",
+   "confidence": "stated",
+   "timestamp": "49:39",
+   "quote": "they seem to have this secret alliance... J&I.M has kind of let ISGS have Manaka"
+  },
+  {
+   "source": "Hezbollah",
+   "target": "al-Qaeda",
+   "type": "trained_by",
+   "detail": "Al-Qaeda's 1998 embassy bombers trained in Lebanon by Hezbollah on Iran's orders",
+   "date": "1998",
+   "confidence": "stated",
+   "timestamp": "24:56",
+   "quote": "the members were trained in Lebanon by Hezbollah on the orders of Iran"
+  },
+  {
+   "source": "al-Shabaab",
+   "target": "al-Qaeda",
+   "type": "member_of",
+   "detail": "Self-proclaimed al-Qaeda affiliate, its preeminent branch per Roggio",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "46:27",
+   "quote": "in Somalia, the Shabab is probably, I would call Al-Qaeda's preeminent branch"
+  },
+  {
+   "source": "al-Qaeda",
+   "target": "Panjshir",
+   "type": "located_in",
+   "detail": "Al-Qaeda base to stock weaponry in Panjshir",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "28:33",
+   "quote": "There's a new base to, quote, stock weaponry and quote, in Panshir of all places"
+  },
+  {
+   "source": "al-Qaeda",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Training camps in 10 of 34 provinces; madrasas in 5; safe houses in Herat, Farah, Helmand, Kabul",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "27:58",
+   "quote": "So now Al-Qaeda is running training camps in 10 of Afghanistan's 34 provinces"
+  },
+  {
+   "source": "al-Qaeda",
+   "target": "Herat",
+   "type": "located_in",
+   "detail": "Safe houses facilitating movement to Iran",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "29:10",
+   "quote": "the safe houses are in the same four provinces, Herat Fara, Helmand, and Kabul province"
+  },
+  {
+   "source": "Taliban",
+   "target": "al-Qaeda",
+   "type": "sheltered_by",
+   "detail": "Taliban is the state supporting al-Qaeda's infrastructure build-up",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "34:05",
+   "quote": "I see that infrastructure being built with the support of the state, which is the Taliban"
+  },
+  {
+   "source": "Islamic State Khorasan Province",
+   "target": "Europe",
+   "type": "other",
+   "detail": "ISKP uses Central Asians (Tajiks, Uzbeks) in frustrated plots in Europe",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "32:47",
+   "quote": "the use by ISIL Khorasan of Central Asian nationals, particularly Tajik's... attack plots that have been frustrated in Europe"
+  },
+  {
+   "source": "Abu Sara al-Iraqi",
+   "target": "General Directorate of Provinces",
+   "type": "leads",
+   "detail": "Head of the GDP; shadow leader",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "37:32",
+   "quote": "Abusara Alaraki, who was the head of the general directorate of provinces"
+  },
+  {
+   "source": "Abu Hafs al-Hashimi al-Qurashi",
+   "target": "Islamic State",
+   "type": "leads",
+   "detail": "New ISIS caliph of unknown identity",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "38:47",
+   "quote": "maybe this new guy, Abu Hafts... is a name they can use in propaganda"
+  },
+  {
+   "source": "Bilal al-Sudani",
+   "target": "al-Karrar office",
+   "type": "leads",
+   "detail": "Head of al-Karrar regional office in Puntland",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "42:04",
+   "quote": "He was the head of the Al-Qarara regional office in northern Somalia, Pontland"
+  },
+  {
+   "source": "al-Karrar office",
+   "target": "Islamic State Khorasan Province",
+   "type": "funded_by",
+   "detail": "Al-Karrar sent about $25,000 a month to ISKP (previous UN report)",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "42:34",
+   "quote": "Al-Qarar was sending, I think it was like $25,000, either a month or a year, to Issa K. Yeah, to month"
+  },
+  {
+   "source": "al-Karrar office",
+   "target": "ISCAP",
+   "type": "funded_by",
+   "detail": "Al-Karrar directs funding, operations, logistics for IS in Central Africa, Mozambique, South Africa",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "42:04",
+   "quote": "he was directing a lot of the funding, the operations, the support, logistical stuff for the Islamic State in Central Africa, Mozambique, and South Africa"
+  },
+  {
+   "source": "United States",
+   "target": "Bilal al-Sudani",
+   "type": "killed",
+   "detail": "Killed for funding ISIL operations in Afghanistan",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "44:46",
+   "quote": "Bilal al-Sadani was killed by the Americans specifically because they attributed his funding activities to some of the ISIL operations in Afghanistan"
+  },
+  {
+   "source": "al-Furqan office",
+   "target": "ISWAP",
+   "type": "hosted_by",
+   "detail": "ISWAP hosts the al-Furqan office, one of three ISIS regional offices",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "57:00",
+   "quote": "ISWAP, West Africa province, is also the host of the Alford-Karne office of ISIS"
+  },
+  {
+   "source": "JNIM",
+   "target": "Tuareg/Azawad factions",
+   "type": "allied_with",
+   "detail": "JNIM works with local Tuareg/Azawadi factions against the Malian army",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "47:30",
+   "quote": "the report mentions J&M is working with local Tuareg factions against the Malian army"
+  },
+  {
+   "source": "Ansaru",
+   "target": "JNIM",
+   "type": "allied_with",
+   "detail": "AQIM/JNIM support Ansaru, which is bogged down with bandits",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "51:56",
+   "quote": "they point to a QIM, J&M, and not only support them. It seems like they've been kind of bogged down with interfighting with bandits"
+  },
+  {
+   "source": "Ansaru",
+   "target": "al-Qaeda",
+   "type": "member_of",
+   "detail": "Al-Qaeda's nominal branch in Nigeria",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "51:20",
+   "quote": "Al-Qaeda's nominal branch in Nigeria and Saarou being sort of that force multiplier"
+  },
+  {
+   "source": "Ibn Omar",
+   "target": "ISCAP",
+   "type": "leads",
+   "detail": "Former leader of IS Mozambique, killed 2023",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "73:38",
+   "quote": "even Omar being the sort of former leader of IAS Moes. He was killed last year"
+  },
+  {
+   "source": "Farido",
+   "target": "Ibn Omar",
+   "type": "succeeded",
+   "detail": "Became leader before Ibn Omar's death",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "73:38",
+   "quote": "his successor, Farido Arunae, sort of already became the leader before Ibn Omar was killed"
+  },
+  {
+   "source": "al-Shabaab",
+   "target": "Mogadishu",
+   "type": "located_in",
+   "detail": "~$100M/yr from illicit taxation in Mogadishu",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "67:59",
+   "quote": "Al-Shabaab continues to generate an estimated $100 million each year, mostly from its illicit taxation in Mogadishu"
+  },
+  {
+   "source": "Khalid Batarfi",
+   "target": "AQAP",
+   "type": "leads",
+   "detail": "Head of AQAP (temporary incarceration disputed earlier)",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "09:16",
+   "quote": "It was over the temporary incarceration of Khalid Batafi"
+  },
+  {
+   "source": "al-Qaeda",
+   "target": "Islamic State",
+   "type": "rival_of",
+   "detail": "Al-Qaeda better placed than ISIS to exploit 7 October; ISIS deems Hamas apostates",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "22:26",
+   "quote": "Al-Qaeda is so much better placed on this than ISIL is, because ISIL is obsessed with its unbending theology"
+  }
+ ],
+ "sources_cited": [
+  "UN Monitoring Team 33rd report on ISIL/al-Qaeda (Jan/Feb 2024)",
+  "Previous UN Monitoring Team report (mid-2023) on Abu Sara al-Iraqi and al-Karrar funding of ISKP",
+  "Bridgeway Foundation/GWU paper on ISIS financing in East, Central and Southern Africa",
+  "Militant Wire (Lucas Webber) on ISKP Central Asian propaganda",
+  "New York Times on al-Shabaab pilot-training arrests",
+  "Caleb Weiss West Point thesis on al-Qaeda in Mali"
+ ],
+ "key_claims": [
+  "Saif al-Adel runs al-Qaeda from Iran but cannot be announced because the Taliban deny Zawahiri was ever killed in Kabul.",
+  "Al-Qaeda is building infrastructure in Taliban-ruled Afghanistan: camps in 10 provinces, madrasas, a Panjshir weapons depot, safe houses near the Iranian border and a facilitation network into Iran; Roggio argues this makes AQ a greater threat than ISKP, contrary to the UN's assessment.",
+  "The Afghan Taliban and AQIS are colluding with the TTP in attacks on Pakistan, with TTP suicide bombers trained in al-Qaeda camps.",
+  "Saif al-Adel's son Khalid is al-Qaeda's instrument for tightening control over AQAP from Yemen; AQAP may have a truce with the Houthis.",
+  "Al-Qaeda's decentralized media with a centralized strategy let it exploit 7 October faster than ISIS.",
+  "ISIS may be shifting from short-lived Iraqi caliphs in Syria to a geographically dispersed leadership model; the real power sat with GDP head Abu Sara al-Iraqi and al-Karrar's Bilal al-Sudani.",
+  "The JNIM–ISGS truce and JNIM's alliances with Tuareg factions have created a contiguous jihadist battlespace from Mauritania to Cameroon.",
+  "Al-Shabaab remains resilient with 7-12k fighters and ~$100M/yr and is going global (pilot training, Costa Rica arrests); the humanitarian carve-out and Somalia-committee sanctions are criticized.",
+  "The 'no direct command and control' caveat for IS Mozambique/ISCAP is a member-state talking point the hosts reject."
+ ]
+}

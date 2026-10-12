@@ -1,0 +1,823 @@
+{
+ "episode": {
+  "idx": 332,
+  "title": "Seeking forgiveness from the Taliban",
+  "published": "Wed, 29 Jul 2026 15:00:18 +0000",
+  "guid": "95df2004-2cb0-4722-94b2-f82cceb40034"
+ },
+ "persons": [
+  {
+   "name": "Will Selber",
+   "aliases": [],
+   "role": "Guest; former US Air Force foreign area officer with 4+ years deployed to Iraq and Afghanistan (incl. a year in Ghorak, Kandahar); author of 'Grumpy Combat Veteran' Substack and the article 'Seeking Forgiveness from the Taliban'",
+   "organizations": [
+    "US Air Force"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Kandahar",
+    "Ghorak"
+   ],
+   "is_presenter_or_guest": true,
+   "mentions": [
+    {
+     "timestamp": "01:22",
+     "quote": "Will is a former U.S. [Air Force] foreign area officer who deployed for over four years to Iraq and Afghanistan... He's the owner of Grumpy Combat Veteran on Substack"
+    }
+   ]
+  },
+  {
+   "name": "Thomas Gibbons-Neff",
+   "aliases": [
+    "Thomas Gibbons Neff",
+    "Neff",
+    "Gimmons Neff"
+   ],
+   "role": "Former Marine infantryman who fought in Marjah, Helmand in 2010; departing New York Times reporter who travelled to Afghanistan to meet the Taliban commander he fought and a Taliban minister, seeking 'absolution'; article 'Why I Sought Out the Taliban Commander I Had Fought'; leaving to teach English",
+   "organizations": [
+    "New York Times",
+    "US Marine Corps"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Marjah",
+    "Helmand",
+    "Kabul",
+    "Rhode Island"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "00:43",
+     "quote": "Neff is searching for absolution for fighting the Taliban and killing some of its members. So we traveled to Afghanistan, met with Taliban commander... he fought against in Marja in Helmand province in 2010"
+    },
+    {
+     "timestamp": "28:21",
+     "quote": "he meets with the Taliban minister. And he says, to him, I apologize for his dead friends and the innocent people killed in the war"
+    }
+   ]
+  },
+  {
+   "name": "Mullah Ghalab",
+   "aliases": [
+    "Taliban commander at Helmand"
+   ],
+   "role": "Taliban commander in Helmand whom Gibbons-Neff fought in Marjah in 2010 and interviewed; told Neff 'me, I do forgive you'",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Helmand",
+    "Marjah"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "36:10",
+     "quote": "what monsters, guys like Sirajun and Haqani or Mullah Ghalab who Neff interviewed are"
+    },
+    {
+     "timestamp": "12:55",
+     "quote": "the Taliban commander at Helman is like, I don't know if everybody else can forgive you, but me, I do forgive you"
+    }
+   ]
+  },
+  {
+   "name": "Sirajuddin Haqqani",
+   "aliases": [
+    "Sarah Juden a Connie",
+    "Sarajeun Haqani",
+    "Sarjean Hakani",
+    "Surajun",
+    "Serjean Khani",
+    "Syriuddin Hakani",
+    "Sirajun Haqani"
+   ],
+   "role": "Head of the Haqqani Network (which insists 'we're Taliban'); author of the New York Times op-ed 'What We, the Taliban, Want'; US-designated; Roggio used his and his father's statements in legal cases to show the Haqqanis are part of the Taliban",
+   "organizations": [
+    "Haqqani Network",
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "",
+   "family": [
+    {
+     "relation": "father",
+     "name": "Jalaluddin Haqqani"
+    }
+   ],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "31:53",
+     "quote": "Sarjean Hakani, he was the head of what was known as the, we called the Haqqani Network... here was the title of his article, what we, comma, the Taliban want"
+    },
+    {
+     "timestamp": "30:33",
+     "quote": "this is the Sarah Juden a Connie story from a couple of years ago where it was like he's just this moderate guy"
+    }
+   ]
+  },
+  {
+   "name": "Jalaluddin Haqqani",
+   "aliases": [
+    "Jalud"
+   ],
+   "role": "Father of Sirajuddin Haqqani; his statements also used in legal cases on the Haqqanis' Taliban membership",
+   "organizations": [
+    "Haqqani Network",
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "dead",
+   "status_detail": "",
+   "family": [
+    {
+     "relation": "son",
+     "name": "Sirajuddin Haqqani"
+    }
+   ],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "32:27",
+     "quote": "as other statements from Sir Zhuddin and others, his father, Jalud, in legal cases"
+    }
+   ]
+  },
+  {
+   "name": "Hibatullah Akhundzada",
+   "aliases": [
+    "Akunzada",
+    "Mullah Abia Tula Akanzada"
+   ],
+   "role": "Head of the Taliban; his own son was a suicide bomber",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "",
+   "family": [
+    {
+     "relation": "son",
+     "name": "son of Hibatullah Akhundzada (suicide bomber, unnamed)"
+    }
+   ],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "36:10",
+     "quote": "the head of the Taliban, Mullah Abia Tula Akanzada, his own son, was a suicide bomber"
+    }
+   ]
+  },
+  {
+   "name": "Abdul Raziq",
+   "aliases": [
+    "General Razik"
+   ],
+   "role": "Afghan general (Kandahar) whose human-rights abuses the New York Times explored after the war; a US ally with 'a sordid past'",
+   "organizations": [
+    "Afghan National Security Forces"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "dead",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Kandahar"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "31:17",
+     "quote": "after the war, they did this whole thing on General Razik. as well... exploration of like human rights abuses"
+    }
+   ]
+  },
+  {
+   "name": "David Petraeus",
+   "aliases": [
+    "General Petraeus"
+   ],
+   "role": "US general Neff could have interviewed instead of the Taliban",
+   "organizations": [
+    "US military"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "18:21",
+     "quote": "you can't tell me that Neff couldn't have gotten given his position an interview with General Petraeus"
+    }
+   ]
+  },
+  {
+   "name": "Stanley McChrystal",
+   "aliases": [
+    "General McChrystal"
+   ],
+   "role": "US commander in Afghanistan whose restrictive rules of engagement era is recalled",
+   "organizations": [
+    "US military"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "26:08",
+     "quote": "you had the whole McChrystal error when it was really restricted"
+    }
+   ]
+  },
+  {
+   "name": "John Nicholson",
+   "aliases": [
+    "General Nicholson"
+   ],
+   "role": "US general in Afghanistan Neff could have interviewed",
+   "organizations": [
+    "US military"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "18:21",
+     "quote": "With General McChrystal, General Nicholson. I mean, we'd go down the line"
+    }
+   ]
+  },
+  {
+   "name": "Barack Obama",
+   "aliases": [
+    "President Obama"
+   ],
+   "role": "US president during the 2010 Helmand surge",
+   "organizations": [
+    "US Government"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "15:26",
+     "quote": "interview President Obama who was in charge during the time that he was there during the surge, during that heavy fighting in Helmand, in Marja"
+    }
+   ]
+  },
+  {
+   "name": "Joe Biden",
+   "aliases": [],
+   "role": "US president who executed the withdrawal; Afghans angry about Doha and 'what Biden did'",
+   "organizations": [
+    "US Government"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "12:24",
+     "quote": "the Doha agreement went down and what Biden did was awful and they're mad about it"
+    }
+   ]
+  },
+  {
+   "name": "son of Hibatullah Akhundzada (suicide bomber, unnamed)",
+   "aliases": [],
+   "role": "Son of Taliban emir Hibatullah Akhundzada who carried out a suicide bombing",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "dead",
+   "status_detail": "Died as a suicide bomber (per host)",
+   "family": [
+    {
+     "relation": "father",
+     "name": "Hibatullah Akhundzada"
+    }
+   ],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "36:10",
+     "quote": "the head of the Taliban, Mullah Abia Tula Akanzada, his own son, was a suicide bomber"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Taliban",
+   "aliases": [
+    "Talibs",
+    "Taloms"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda",
+    "Haqqani Network"
+   ],
+   "rivals": [
+    "Afghan National Security Forces",
+    "United States"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Still allied with al-Qaeda and hosting training camps; hunting interpreters and former ANSF; bans on women's movement, speech and schooling; public lashings, beheadings, sexual assault as punishment; used children/women as suicide bombers; attacks on hospitals and hotels"
+  },
+  {
+   "name": "Haqqani Network",
+   "aliases": [
+    "Hakani network",
+    "Haqqqqqani's"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban",
+    "al-Qaeda"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Led by Sirajuddin Haqqani; members say 'there's no Haqqani network, we're Taliban'; designated FTO; 'an arm of al-Qaeda, or al-Qaeda was the arm of the Haqqani network'; ran suicide camps and training camps"
+  },
+  {
+   "name": "al-Qaeda",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban",
+    "Haqqani Network"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Harbored by the Taliban before 9/11 and to this day; the reason the US invaded"
+  },
+  {
+   "name": "New York Times",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Published Neff's article; accused of whitewashing the Taliban (Sirajuddin op-ed, Raziq abuses story)"
+  },
+  {
+   "name": "US Marine Corps",
+   "aliases": [
+    "Marines"
+   ],
+   "type": "military",
+   "parent_or_allies": [],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "United States",
+   "notes": "Neff's service; Marjah 2010; Haditha unit embed anecdote"
+  },
+  {
+   "name": "Afghan National Security Forces",
+   "aliases": [
+    "Afghan National Army",
+    "ANSF"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "United States"
+   ],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Supported by most Afghans per Asia Foundation polls; former members hunted by Taliban"
+  },
+  {
+   "name": "Asia Foundation",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Standard opinion polling in Afghanistan showing majority support for US presence and government"
+  },
+  {
+   "name": "US Department of Defense",
+   "aliases": [
+    "Pentagon",
+    "DOD"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "No general has taken accountability for losing the war"
+  },
+  {
+   "name": "US military",
+   "aliases": [],
+   "type": "military",
+   "parent_or_allies": [
+    "Afghan National Security Forces"
+   ],
+   "rivals": [
+    "Taliban",
+    "al-Qaeda"
+   ],
+   "country_base": "United States",
+   "notes": "Generals criticized for profiting and never accounting for failure"
+  },
+  {
+   "name": "United States",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "United States",
+   "notes": "Invaded Afghanistan after 9/11 to go after al-Qaeda"
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Neff's return trip; Taliban rule"
+  },
+  {
+   "name": "Marjah",
+   "type": "district",
+   "country": "Afghanistan",
+   "parent": "Helmand",
+   "significance": "Where Neff fought the Taliban commander in 2010"
+  },
+  {
+   "name": "Helmand",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "2010 surge fighting; Taliban commander's home"
+  },
+  {
+   "name": "Nawzad",
+   "type": "district",
+   "country": "Afghanistan",
+   "parent": "Helmand",
+   "significance": "'Absolute hellhole' districts during the surge"
+  },
+  {
+   "name": "Kabul",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Kabul province",
+   "significance": "Neff walked the streets seeking a 'pardon'"
+  },
+  {
+   "name": "Kandahar",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Selber served a year in Ghorak; Raziq"
+  },
+  {
+   "name": "Ghorak",
+   "type": "district",
+   "country": "Afghanistan",
+   "parent": "Kandahar",
+   "significance": "Selber's deployment"
+  },
+  {
+   "name": "Haditha",
+   "type": "city",
+   "country": "Iraq",
+   "parent": "Anbar",
+   "significance": "Roggio's 2005 embed anecdote on restraint"
+  },
+  {
+   "name": "Rhode Island",
+   "type": "region",
+   "country": "United States",
+   "parent": "",
+   "significance": "Neff brought gifts from Rhode Island for Taliban interlocutors"
+  }
+ ],
+ "events": [
+  {
+   "date": "2010",
+   "date_precision": "year",
+   "type": "offensive",
+   "description": "Marine fighting in Marjah, Helmand, during the Obama surge; Neff killed six or seven people",
+   "place": "Marjah",
+   "actors": [
+    "Thomas Gibbons-Neff",
+    "US Marine Corps",
+    "Taliban",
+    "Mullah Ghalab"
+   ],
+   "timestamp": "00:43"
+  },
+  {
+   "date": "2026-07",
+   "date_precision": "month",
+   "type": "meeting",
+   "description": "Gibbons-Neff travelled to Afghanistan, met the Taliban commander he fought and a Taliban minister, apologized, and published 'Why I Sought Out the Taliban Commander I Had Fought' in the NYT",
+   "place": "Afghanistan",
+   "actors": [
+    "Thomas Gibbons-Neff",
+    "Mullah Ghalab",
+    "Taliban",
+    "New York Times"
+   ],
+   "timestamp": "00:43"
+  },
+  {
+   "date": "2026-07",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Will Selber published 'Seeking Forgiveness from the Taliban' on Substack within 24 hours",
+   "place": "",
+   "actors": [
+    "Will Selber"
+   ],
+   "timestamp": "01:56"
+  },
+  {
+   "date": "2020",
+   "date_precision": "year",
+   "type": "statement",
+   "description": "New York Times published Sirajuddin Haqqani's op-ed 'What We, the Taliban, Want' (hosts: 'a couple of years ago')",
+   "place": "",
+   "actors": [
+    "Sirajuddin Haqqani",
+    "New York Times"
+   ],
+   "timestamp": "31:53"
+  },
+  {
+   "date": "2021-08",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Fall of Afghanistan; five-year anniversary approaching; no general has taken accountability",
+   "place": "Afghanistan",
+   "actors": [
+    "Taliban",
+    "US military"
+   ],
+   "timestamp": "16:41"
+  },
+  {
+   "date": "2001-09-11",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "9/11 by al-Qaeda, harbored by the Taliban, killed over 3,000; the reason the US invaded; 25th anniversary approaching",
+   "place": "",
+   "actors": [
+    "al-Qaeda",
+    "Taliban"
+   ],
+   "timestamp": "09:05"
+  },
+  {
+   "date": "2026",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Taliban conduct: women barred from going out without a male relative, speech restricted, no schooling; public lashings, beheadings, sexual assault as punishment; hunting interpreters and former ANSF",
+   "place": "Afghanistan",
+   "actors": [
+    "Taliban"
+   ],
+   "timestamp": "14:11"
+  },
+  {
+   "date": "approx 2005",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Roggio's first embed in Haditha, Iraq, weeks after the alleged massacre; Marines chased a suspected suicide-bomb car on foot rather than shooting",
+   "place": "Haditha",
+   "actors": [
+    "US Marine Corps"
+   ],
+   "timestamp": "26:38"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Thomas Gibbons-Neff",
+   "target": "Mullah Ghalab",
+   "type": "met_with",
+   "detail": "Met in Afghanistan the Taliban commander he fought in Marjah in 2010; was 'forgiven'",
+   "date": "2026",
+   "confidence": "stated",
+   "timestamp": "00:43",
+   "quote": "met with the Taliban commander he fought against in Marja in Helmand province in 2010"
+  },
+  {
+   "source": "Thomas Gibbons-Neff",
+   "target": "Taliban",
+   "type": "met_with",
+   "detail": "Met a Taliban minister and apologized; 'as close as I would get to a pardon'",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "28:21",
+   "quote": "he meets with the Taliban minister. And he says, to him, I apologize for his dead friends and the innocent people killed in the war"
+  },
+  {
+   "source": "Thomas Gibbons-Neff",
+   "target": "New York Times",
+   "type": "member_of",
+   "detail": "Departing NYT reporter",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "00:07",
+   "quote": "Thomas Gibbons Neff, a former Marine, in New York Times, reporter"
+  },
+  {
+   "source": "Mullah Ghalab",
+   "target": "Taliban",
+   "type": "member_of",
+   "detail": "Taliban commander in Helmand",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "12:55",
+   "quote": "the Taliban commander at Helman is like... me, I do forgive you"
+  },
+  {
+   "source": "Sirajuddin Haqqani",
+   "target": "Haqqani Network",
+   "type": "leads",
+   "detail": "Head of the Haqqani Network",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "31:53",
+   "quote": "Sarjean Hakani, he was the head of what was known as the, we called the Haqqani Network"
+  },
+  {
+   "source": "Haqqani Network",
+   "target": "Taliban",
+   "type": "member_of",
+   "detail": "Haqqanis insist 'there's no Haqqani network, we're Taliban'; Sirajuddin's op-ed 'What We, the Taliban, Want'",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "31:53",
+   "quote": "other members of the Hakani's would say, that's not, there's no Haqqani network, we're Taliban"
+  },
+  {
+   "source": "Sirajuddin Haqqani",
+   "target": "Jalaluddin Haqqani",
+   "type": "family",
+   "detail": "Son of Jalaluddin",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "32:27",
+   "quote": "statements from Sir Zhuddin and others, his father, Jalud"
+  },
+  {
+   "source": "Haqqani Network",
+   "target": "al-Qaeda",
+   "type": "allied_with",
+   "detail": "Designated for supporting/being members of al-Qaeda, suicide camps; 'an arm of al-Qaeda'",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "32:27",
+   "quote": "They essentially were like, you know, an arm of al-Qaeda, or al-Qaeda was the arm of the Haqqani network, depending on the day"
+  },
+  {
+   "source": "al-Qaeda",
+   "target": "Taliban",
+   "type": "sheltered_by",
+   "detail": "Taliban harbored al-Qaeda before 9/11 and continue to do so, providing training-camp ground",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "38:08",
+   "quote": "the Taliban sheltering al-Qaeda and continuing to do so to this day"
+  },
+  {
+   "source": "Taliban",
+   "target": "al-Qaeda",
+   "type": "allied_with",
+   "detail": "Still allied with al-Qaeda and providing ground for training camps",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "16:41",
+   "quote": "a group that's still allied with Al Qaeda that's providing the country with ground for training camps"
+  },
+  {
+   "source": "Hibatullah Akhundzada",
+   "target": "Taliban",
+   "type": "leads",
+   "detail": "Head of the Taliban",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "36:10",
+   "quote": "the head of the Taliban, Mullah Abia Tula Akanzada"
+  },
+  {
+   "source": "Hibatullah Akhundzada",
+   "target": "son of Hibatullah Akhundzada (suicide bomber, unnamed)",
+   "type": "family",
+   "detail": "His own son was a suicide bomber",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "36:10",
+   "quote": "his own son, was a suicide bomber"
+  },
+  {
+   "source": "Taliban",
+   "target": "Afghan National Security Forces",
+   "type": "rival_of",
+   "detail": "Taliban hunting interpreters and former ANSF members",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "13:34",
+   "quote": "hunting the interpreters and former members of the Afghan National Security forces"
+  },
+  {
+   "source": "Sirajuddin Haqqani",
+   "target": "New York Times",
+   "type": "other",
+   "detail": "NYT published his op-ed, which Roggio calls 'the fluffer of all fluffers'",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "33:02",
+   "quote": "that article is, was the fluffer of all fluffers of the Taliban"
+  },
+  {
+   "source": "Abdul Raziq",
+   "target": "Afghan National Security Forces",
+   "type": "member_of",
+   "detail": "Afghan general and US ally scrutinized by NYT for abuses",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "31:17",
+   "quote": "they did this whole thing on General Razik... exploration of like human rights abuses"
+  },
+  {
+   "source": "United States",
+   "target": "al-Qaeda",
+   "type": "rival_of",
+   "detail": "US invaded Afghanistan to go after al-Qaeda, which the Taliban harbored",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "09:05",
+   "quote": "the U.S. invaded Afghanistan to go after al-Qaeda, which was harbored by the Taliban"
+  }
+ ],
+ "sources_cited": [
+  "Thomas Gibbons-Neff, 'Why I Sought Out the Taliban Commander I Had Fought' (New York Times, Jul 2026)",
+  "Will Selber, 'Seeking Forgiveness from the Taliban' (Grumpy Combat Veteran Substack)",
+  "Sirajuddin Haqqani NYT op-ed 'What We, the Taliban, Want'",
+  "Asia Foundation Afghanistan surveys",
+  "NYT story on Gen. Abdul Raziq's abuses"
+ ],
+ "key_claims": [
+  "Gibbons-Neff sought absolution from the wrong party: the Taliban still shelter al-Qaeda, host training camps, hunt interpreters and ex-ANSF, and run a 'gender apartheid' regime, none of which his article addresses.",
+  "The article omits 9/11 and the Taliban's harboring of al-Qaeda, framing the war as invaders vs. freedom fighters.",
+  "Most Afghans (Asia Foundation polling) supported the US presence and government and did not want the US to leave as it did.",
+  "The NYT has whitewashed the Taliban before, notably Sirajuddin Haqqani's 'What We, the Taliban, Want' op-ed; Roggio used that op-ed in legal cases to prove the Haqqanis are part of the Taliban.",
+  "Hibatullah Akhundzada's own son was a suicide bomber; Taliban commanders' claim that their fighters have no suicides reflects that culture.",
+  "US generals have never taken accountability for losing the war; the hosts expect more whitewashing around the 5th anniversary of the fall and 25th of 9/11."
+ ]
+}

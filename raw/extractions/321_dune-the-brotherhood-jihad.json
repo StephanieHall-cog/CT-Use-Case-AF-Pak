@@ -1,0 +1,724 @@
+{
+ "episode": {
+  "idx": 321,
+  "title": "Dune: The Brotherhood Jihad",
+  "published": "Mon, 18 May 2026 21:00:49 +0000",
+  "guid": "a93a81a7-1fea-4dcb-861c-51807f73e053"
+ },
+ "persons": [
+  {
+   "name": "Edmund Fitton-Brown",
+   "aliases": [
+    "Edmund Fitten Brown"
+   ],
+   "role": "Guest; FDD senior fellow (Arabian Peninsula, terrorism); British ambassador to Yemen 2015-2017; UN Monitoring Team coordinator for five years; served in Egypt in the 1990s",
+   "organizations": [
+    "FDD",
+    "UN Monitoring Team"
+   ],
+   "nationality_or_origin": "British",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": true,
+   "mentions": [
+    {
+     "timestamp": "00:40",
+     "quote": "Edmund is a senior fellow at FDD... Edmund served as the British ambassador to Yemen in 2015 through 2017. He then joined the United Nations for five years"
+    }
+   ]
+  },
+  {
+   "name": "Gamal Abdel Nasser",
+   "aliases": [
+    "Gamal Abdul-Nasar",
+    "NASA"
+   ],
+   "role": "Egyptian president, father of Arab nationalism; crushed the Muslim Brotherhood after it turned to terrorism against him",
+   "organizations": [
+    "Egyptian government"
+   ],
+   "nationality_or_origin": "Egyptian",
+   "status": "dead",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Egypt"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "03:28",
+     "quote": "the rise of Gamal Abdul-Nasar, who was the sort of, in many ways, was the father of Arab nationalism"
+    }
+   ]
+  },
+  {
+   "name": "Anwar Sadat",
+   "aliases": [],
+   "role": "Nasser's successor, assassinated by Muslim Brotherhood splinter groups that later became al-Qaeda",
+   "organizations": [
+    "Egyptian government"
+   ],
+   "nationality_or_origin": "Egyptian",
+   "status": "dead",
+   "status_detail": "Assassinated",
+   "family": [],
+   "locations": [
+    "Egypt"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "04:53",
+     "quote": "Anwar Sadat, was assassinated, but not by the Muslim brother. He was assassinated by people who had split off from the Muslim Brotherhood and formed the organizations that we now think of as having eventually become Al-Qaeda"
+    }
+   ]
+  },
+  {
+   "name": "John Jenkins",
+   "aliases": [
+    "Sir John Jenkins"
+   ],
+   "role": "Senior British diplomat who co-authored the 2014-15 UK Muslim Brotherhood Review",
+   "organizations": [
+    "UK government"
+   ],
+   "nationality_or_origin": "British",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "United Kingdom"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "25:19",
+     "quote": "Sir John Jenkins, a very senior diplomat and Charles Farr, a very senior home office official"
+    }
+   ]
+  },
+  {
+   "name": "Charles Farr",
+   "aliases": [],
+   "role": "Senior UK Home Office official who co-authored the Muslim Brotherhood Review",
+   "organizations": [
+    "UK government"
+   ],
+   "nationality_or_origin": "British",
+   "status": "dead",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "United Kingdom"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "25:19",
+     "quote": "Charles Farr, a very senior home office official"
+    }
+   ]
+  },
+  {
+   "name": "Abdul Majeed al-Zindani",
+   "aliases": [
+    "Zendani"
+   ],
+   "role": "Yemeni Islah/Muslim Brotherhood figure designated for al-Qaeda ties; died a couple of years ago",
+   "organizations": [
+    "al-Islah",
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Yemeni",
+   "status": "dead",
+   "status_detail": "US-designated; dead 'for a couple of years now'",
+   "family": [],
+   "locations": [
+    "Yemen"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "32:20",
+     "quote": "if that wasn't al-Qaeda, and Zendani wasn't al-Qaeda, I don't know what it was, right? And he was designated"
+    }
+   ]
+  },
+  {
+   "name": "Ahmad Sharawi",
+   "aliases": [
+    "Ahmed Sharrari"
+   ],
+   "role": "FDD colleague who documented Iranian strikes on Gulf states during the Iran war",
+   "organizations": [
+    "FDD"
+   ],
+   "nationality_or_origin": "",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": true,
+   "mentions": [
+    {
+     "timestamp": "18:25",
+     "quote": "Our colleague Ahmed Sharrari, he's documented that well... They've been hit four times as much as the next country"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Muslim Brotherhood",
+   "aliases": [],
+   "type": "political movement",
+   "parent_or_allies": [
+    "Hamas",
+    "al-Islah"
+   ],
+   "rivals": [
+    "United Arab Emirates",
+    "Egyptian government"
+   ],
+   "country_base": "Egypt (founded 1920s)",
+   "notes": "'Daddy of all Islamist movements'; tactically flexible, terrorist when it suits; goal of global caliphate on a century timescale via migration, demographics, conversion and civil-society infiltration; US designated Egyptian, Jordanian, Lebanese branches (Jan) and Sudanese (Feb); al-Islah possible next"
+  },
+  {
+   "name": "Hamas",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Muslim Brotherhood",
+    "Government of Iran"
+   ],
+   "rivals": [
+    "Israel",
+    "Qatar"
+   ],
+   "country_base": "Gaza",
+   "notes": "The Palestinian Muslim Brotherhood; close to Iran; refused to side with Qatar against Iran, breaking the Qatar relationship"
+  },
+  {
+   "name": "al-Qaeda",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Government of Iran"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan/Iran",
+   "notes": "Grew out of Muslim Brotherhood splinters that killed Sadat; 'child of the Muslim Brotherhood'; leader based in Iran, so part of the Iranian axis"
+  },
+  {
+   "name": "Taliban",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Emerged from the anti-Soviet mujahideen the West empowered"
+  },
+  {
+   "name": "al-Islah",
+   "aliases": [
+    "Islah"
+   ],
+   "type": "political movement",
+   "parent_or_allies": [
+    "Muslim Brotherhood"
+   ],
+   "rivals": [],
+   "country_base": "Yemen",
+   "notes": "Yemeni Muslim Brotherhood affiliate, candidate for US designation; Zindani's party"
+  },
+  {
+   "name": "Government of Iran",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [
+    "al-Qaeda",
+    "Hamas",
+    "Hezbollah",
+    "Houthis"
+   ],
+   "rivals": [
+    "United Arab Emirates",
+    "Qatar",
+    "Israel",
+    "United States"
+   ],
+   "country_base": "Iran",
+   "notes": "At war with US/Israel since 28 Feb (2026) after June 2025 12-day war; struck Gulf neighbors (UAE hit most, then Kuwait, Saudi Arabia); revolution originally inspired by the Muslim Brotherhood"
+  },
+  {
+   "name": "United Arab Emirates",
+   "aliases": [
+    "Emirates"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [
+    "Muslim Brotherhood",
+    "Government of Iran"
+   ],
+   "country_base": "UAE",
+   "notes": "Virulently opposed to the Brotherhood; hit hardest by Iranian attacks"
+  },
+  {
+   "name": "Qatar",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [
+    "Government of Iran"
+   ],
+   "country_base": "Qatar",
+   "notes": "Formerly sympathetic to Iran and host of Hamas; attacked by Iran; relationship with Hamas broken down"
+  },
+  {
+   "name": "Al Jazeera",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [
+    "Qatar"
+   ],
+   "rivals": [],
+   "country_base": "Qatar",
+   "notes": "Split between Qatar loyalists and Brotherhood-ideology journalists unwilling to criticize Iran"
+  },
+  {
+   "name": "Hezbollah",
+   "aliases": [],
+   "type": "militia",
+   "parent_or_allies": [
+    "Government of Iran"
+   ],
+   "rivals": [
+    "Israel"
+   ],
+   "country_base": "Lebanon",
+   "notes": "Iranian proxy; ceasefire referenced"
+  },
+  {
+   "name": "Houthis",
+   "aliases": [],
+   "type": "militia",
+   "parent_or_allies": [
+    "Government of Iran"
+   ],
+   "rivals": [],
+   "country_base": "Yemen",
+   "notes": "Iranian proxy"
+  },
+  {
+   "name": "UK government",
+   "aliases": [
+    "Britain"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United Kingdom",
+   "notes": "Commissioned 2014-15 Muslim Brotherhood Review (Jenkins/Farr), findings unwelcome; 'Londonistan'; Labour reframes Islamophobia as 'anti-Muslim hostility'"
+  },
+  {
+   "name": "MI5",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [
+    "UK government"
+   ],
+   "rivals": [],
+   "country_base": "United Kingdom",
+   "notes": "Resources focused on al-Qaeda, not the Brotherhood"
+  },
+  {
+   "name": "Egyptian government",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [
+    "Muslim Brotherhood"
+   ],
+   "country_base": "Egypt",
+   "notes": "Nasser crushed the Brotherhood; military deposed Brotherhood government after Arab Spring; complained of extremists in London in the 1990s"
+  },
+  {
+   "name": "FDD",
+   "aliases": [
+    "Foundation for Defense of Democracies"
+   ],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Foundation for Defense of Democracies"
+  },
+  {
+   "name": "United States",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [
+    "Government of Iran",
+    "Muslim Brotherhood"
+   ],
+   "country_base": "United States",
+   "notes": "Designation campaign against Brotherhood branches slowed by the Iran war"
+  }
+ ],
+ "places": [
+  {
+   "name": "Egypt",
+   "type": "country",
+   "country": "Egypt",
+   "parent": "",
+   "significance": "Birthplace of the Muslim Brotherhood (1920s); Nasser, Sadat; Brotherhood briefly in power after Arab Spring"
+  },
+  {
+   "name": "United Kingdom",
+   "type": "country",
+   "country": "United Kingdom",
+   "parent": "",
+   "significance": "Brotherhood embedded in civil society; 'Londonistan'; Muslim Brotherhood Review"
+  },
+  {
+   "name": "London",
+   "type": "city",
+   "country": "United Kingdom",
+   "parent": "United Kingdom",
+   "significance": "'Londonistan' hub for exiled Islamists in the 1990s"
+  },
+  {
+   "name": "Gaza",
+   "type": "region",
+   "country": "Palestinian territories",
+   "parent": "",
+   "significance": "Hamas, the Palestinian Muslim Brotherhood"
+  },
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Anti-Soviet jihad empowered future Taliban and al-Qaeda; 'dotted line' to 9/11"
+  },
+  {
+   "name": "Iran",
+   "type": "country",
+   "country": "Iran",
+   "parent": "",
+   "significance": "At war with US/Israel; al-Qaeda leader based there"
+  },
+  {
+   "name": "United Arab Emirates",
+   "type": "country",
+   "country": "UAE",
+   "parent": "",
+   "significance": "Hit hardest by Iranian attacks; leads Muslim opposition to the Brotherhood"
+  },
+  {
+   "name": "Qatar",
+   "type": "country",
+   "country": "Qatar",
+   "parent": "",
+   "significance": "Attacked by Iran; Hamas residence in doubt"
+  },
+  {
+   "name": "Yemen",
+   "type": "country",
+   "country": "Yemen",
+   "parent": "",
+   "significance": "Al-Islah; Fitton-Brown ambassador 2015-17"
+  },
+  {
+   "name": "Canada",
+   "type": "country",
+   "country": "Canada",
+   "parent": "",
+   "significance": "'Anti-Palestinian racism' concept chills speech"
+  },
+  {
+   "name": "Strait of Hormuz",
+   "type": "region",
+   "country": "",
+   "parent": "",
+   "significance": "Iranian maritime lawlessness threat"
+  }
+ ],
+ "events": [
+  {
+   "date": "approx 1928",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Muslim Brotherhood founded in Egypt in the 1920s; nearing its centenary",
+   "place": "Egypt",
+   "actors": [
+    "Muslim Brotherhood"
+   ],
+   "timestamp": "02:17"
+  },
+  {
+   "date": "1981",
+   "date_precision": "year",
+   "type": "death",
+   "description": "Anwar Sadat assassinated by Brotherhood splinter groups that later became al-Qaeda (date not stated by host)",
+   "place": "Egypt",
+   "actors": [
+    "Anwar Sadat",
+    "al-Qaeda"
+   ],
+   "timestamp": "04:53"
+  },
+  {
+   "date": "2001-09-11",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "9/11, 'a dotted line' from the defeat of the Soviets in Afghanistan 12 years earlier",
+   "place": "",
+   "actors": [
+    "al-Qaeda"
+   ],
+   "timestamp": "20:46"
+  },
+  {
+   "date": "2015",
+   "date_precision": "year",
+   "type": "statement",
+   "description": "UK government Muslim Brotherhood Review by John Jenkins and Charles Farr (commissioned 2014-15); findings treated as unwelcome",
+   "place": "United Kingdom",
+   "actors": [
+    "John Jenkins",
+    "Charles Farr",
+    "UK government",
+    "Muslim Brotherhood"
+   ],
+   "timestamp": "25:19"
+  },
+  {
+   "date": "2023-10-07",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "Hamas attack on Israel began a new era, leading to zero-tolerance policy toward Iran and its proxies",
+   "place": "Gaza",
+   "actors": [
+    "Hamas",
+    "Israel"
+   ],
+   "timestamp": "26:34"
+  },
+  {
+   "date": "2025-06",
+   "date_precision": "month",
+   "type": "other",
+   "description": "12-day war with Iran",
+   "place": "Iran",
+   "actors": [
+    "Government of Iran",
+    "Israel",
+    "United States"
+   ],
+   "timestamp": "27:12"
+  },
+  {
+   "date": "2026-02-28",
+   "date_precision": "day",
+   "type": "other",
+   "description": "Start of the war with Iran (US/Israel); Iran attacked Gulf neighbors, hitting the UAE four times as often as Kuwait and Saudi Arabia",
+   "place": "Iran",
+   "actors": [
+    "Government of Iran",
+    "United Arab Emirates",
+    "Qatar"
+   ],
+   "timestamp": "27:12"
+  },
+  {
+   "date": "2026-01",
+   "date_precision": "month",
+   "type": "designation",
+   "description": "US designated the Egyptian, Jordanian and Lebanese branches of the Muslim Brotherhood as terrorist organizations",
+   "place": "",
+   "actors": [
+    "United States",
+    "Muslim Brotherhood"
+   ],
+   "timestamp": "30:16"
+  },
+  {
+   "date": "2026-02",
+   "date_precision": "month",
+   "type": "designation",
+   "description": "US designated the Sudanese Muslim Brotherhood branch; al-Islah (Yemen) under consideration",
+   "place": "",
+   "actors": [
+    "United States",
+    "Muslim Brotherhood",
+    "al-Islah"
+   ],
+   "timestamp": "31:02"
+  },
+  {
+   "date": "2026",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Qatar–Hamas relationship broke down after Hamas refused to side with Qatar against Iran",
+   "place": "Qatar",
+   "actors": [
+    "Qatar",
+    "Hamas",
+    "Government of Iran"
+   ],
+   "timestamp": "29:03"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Hamas",
+   "target": "Muslim Brotherhood",
+   "type": "member_of",
+   "detail": "Hamas is the Palestinian Muslim Brotherhood",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "07:59",
+   "quote": "the Muslim Brotherhood in Palestine, which of course we know better by the name of Hamas"
+  },
+  {
+   "source": "al-Qaeda",
+   "target": "Muslim Brotherhood",
+   "type": "other",
+   "detail": "Al-Qaeda emerged from Brotherhood splinters; 'child of the Muslim Brotherhood'",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "16:36",
+   "quote": "al-Qaeda, which is the child of the Muslim Brotherhood"
+  },
+  {
+   "source": "Muslim Brotherhood",
+   "target": "Gamal Abdel Nasser",
+   "type": "rival_of",
+   "detail": "Brotherhood turned to terrorism against Nasser and was crushed",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "04:13",
+   "quote": "the Muslim Brotherhood became more and more committed to terrorist means to oppose NASA, and they were defeated and they were crushed"
+  },
+  {
+   "source": "al-Qaeda",
+   "target": "Government of Iran",
+   "type": "allied_with",
+   "detail": "Iranian axis now includes al-Qaeda because its leader is based in Iran",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "27:51",
+   "quote": "There is an Iranian axis which now really includes al-Qaeda... because the leader of al-Qaeda is based in Iran"
+  },
+  {
+   "source": "Hamas",
+   "target": "Government of Iran",
+   "type": "allied_with",
+   "detail": "Close to and works with Iran; did not side with Qatar against Iran",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "28:28",
+   "quote": "Hamas... is close to the Iranians, works closely with them"
+  },
+  {
+   "source": "Hamas",
+   "target": "Qatar",
+   "type": "hosted_by",
+   "detail": "Hamas residence in Qatar may not resume after relationship broke down",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "29:03",
+   "quote": "it may well be that Hamas will never be able to resume its residence in Qatar"
+  },
+  {
+   "source": "Government of Iran",
+   "target": "United Arab Emirates",
+   "type": "rival_of",
+   "detail": "Iran hit the UAE four times as much as the next country",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "18:25",
+   "quote": "The Emirates have been hit hardest... four times as much as the next country, which was Kuwait and then the Saudis"
+  },
+  {
+   "source": "United Arab Emirates",
+   "target": "Muslim Brotherhood",
+   "type": "rival_of",
+   "detail": "Virulently opposed to the Brotherhood",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "17:50",
+   "quote": "the United Arab Emirates, is virulently opposed to the Muslim Brotherhood"
+  },
+  {
+   "source": "al-Islah",
+   "target": "Muslim Brotherhood",
+   "type": "member_of",
+   "detail": "Yemeni affiliate of the Brotherhood",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "31:02",
+   "quote": "al-Isla, the Yemeni affiliate of the Muslim Brotherhood"
+  },
+  {
+   "source": "Abdul Majeed al-Zindani",
+   "target": "al-Islah",
+   "type": "member_of",
+   "detail": "Islah figure who was effectively al-Qaeda and US-designated",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "32:20",
+   "quote": "there is certainly one branch of the Muslim Brotherhood that... if that wasn't al-Qaeda, and Zendani wasn't al-Qaeda, I don't know what it was"
+  },
+  {
+   "source": "Taliban",
+   "target": "al-Qaeda",
+   "type": "allied_with",
+   "detail": "Both emerged from the Western-backed anti-Soviet resistance and were hostile to the West",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "20:46",
+   "quote": "we were empowering people who would later emerge as the Taliban, would later emerge as al-Qaeda"
+  },
+  {
+   "source": "United States",
+   "target": "Muslim Brotherhood",
+   "type": "other",
+   "detail": "Designated Egyptian, Jordanian, Lebanese (Jan) and Sudanese (Feb) branches; campaign slowed by Iran war",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "30:16",
+   "quote": "We had three designations in January, the Egyptian, Jordanian and Lebanese branches of the Muslim Brother. Then we had a fourth in February. That was Sudan"
+  },
+  {
+   "source": "John Jenkins",
+   "target": "UK government",
+   "type": "member_of",
+   "detail": "Senior diplomat who co-wrote the Muslim Brotherhood Review",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "25:19",
+   "quote": "Sir John Jenkins, a very senior diplomat and Charles Farr, a very senior home office official"
+  }
+ ],
+ "sources_cited": [
+  "UK Muslim Brotherhood Review (Jenkins/Farr, 2015)",
+  "Ahmad Sharawi's FDD tally of Iranian strikes on Gulf states",
+  "US State Department designations of Muslim Brotherhood branches (Jan-Feb 2026)"
+ ],
+ "key_claims": [
+  "The Muslim Brotherhood is the parent of Sunni Islamism; it uses terrorism where it works (Hamas) and patient civil-society infiltration where it does not (Britain), aiming at a global caliphate on a century timescale.",
+  "Al-Qaeda descends from Brotherhood splinters that killed Sadat; Zindani's Islah shows the incestuous AQ–Brotherhood overlap.",
+  "Western complacency (Cold War 'enemy's enemy' in Afghanistan, 'end of history' arrogance, Londonistan, Islamophobia charges) let the Brotherhood embed in the West.",
+  "The Iran war, which grew out of 7 October, has slowed but not halted US designations of Brotherhood branches; al-Islah may be next.",
+  "Sectarian lines are blurring: the Iranian axis now includes al-Qaeda (leader in Iran) and Hamas; Qatar's break with Hamas and tensions inside Al Jazeera are things to watch."
+ ]
+}

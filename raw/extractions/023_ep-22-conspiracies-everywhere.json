@@ -1,0 +1,1375 @@
+{
+ "episode": {
+  "idx": 23,
+  "title": "Ep. 22 - Conspiracies Everywhere",
+  "published": "Tue, 18 Aug 2020 11:00:00 +0000",
+  "guid": "6a56392a-ab85-47f2-b2d3-850d165aeb7a"
+ },
+ "persons": [
+  {
+   "name": "Osama bin Laden",
+   "aliases": [
+    "osan bin Laden"
+   ],
+   "role": "al-Qaeda founder and leader",
+   "organizations": [
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "dead",
+   "status_detail": "killed in 2011 (implied: documents seized from his compound)",
+   "family": [],
+   "locations": [
+    "Afghanistan",
+    "Abbottabad compound (implied)"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "09:51",
+     "quote": "Osama bin Laden, you could see in the files capturing his compound, he was mildly or not so mildly perturbed"
+    },
+    {
+     "timestamp": "13:01",
+     "quote": "Osama bin Laden was a conspiracy thinking terrorist"
+    },
+    {
+     "timestamp": "26:32",
+     "quote": "and before him osan bin Laden around the globe"
+    },
+    {
+     "timestamp": "32:56",
+     "quote": "conspiracy theory around our role and getting the bin Laden files released"
+    }
+   ]
+  },
+  {
+   "name": "Nasir al-Wuhayshi",
+   "aliases": [
+    "Nazar al-Waheishi",
+    "Waheci",
+    "Wahishi"
+   ],
+   "role": "former aide to Osama bin Laden; later al-Qaeda in the Arabian Peninsula leader",
+   "organizations": [
+    "al-Qaeda",
+    "AQAP"
+   ],
+   "nationality_or_origin": "Yemeni",
+   "status": "dead",
+   "status_detail": "described as 'posthumously' publishing; killed in 2015 (not stated)",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "04:55",
+     "quote": "Nazar al-Waheishi. He was the former aide to camp to Osama bin Laden."
+    },
+    {
+     "timestamp": "05:05",
+     "quote": "posthumously, Al-Qaeda started publishing a series from Waheci explaining the thinking behind 9-11"
+    }
+   ]
+  },
+  {
+   "name": "Ayman al-Zawahiri",
+   "aliases": [
+    "Zawahiri",
+    "iman al-zahuburi"
+   ],
+   "role": "al-Qaeda leader",
+   "organizations": [
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Egyptian",
+   "status": "unknown",
+   "status_detail": "al-Qaeda leader at time of episode (2020)",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "16:23",
+     "quote": "before Zawahiri ejected it it's such a stupid thing of course it was"
+    },
+    {
+     "timestamp": "26:36",
+     "quote": "groups saluting iman al-zahuburi and before him osan bin Laden around the globe"
+    },
+    {
+     "timestamp": "26:32",
+     "quote": "groups saluting iman al-zahuburi and before him osan bin Laden around the globe"
+    }
+   ]
+  },
+  {
+   "name": "Adam Gadahn",
+   "aliases": [
+    "Adam Godin",
+    "Adam Gadahn"
+   ],
+   "role": "American al-Qaeda spokesman",
+   "organizations": [
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "United States"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "16:57",
+     "quote": "Adam Godin... He repeated conspiracy theories constantly in his statements."
+    }
+   ]
+  },
+  {
+   "name": "Jalaluddin Haqqani",
+   "aliases": [
+    "Jalalid"
+   ],
+   "role": "Afghan mujahideen commander, founder of Haqqani network",
+   "organizations": [
+    "Haqqani Network"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "dead",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "13:39",
+     "quote": "Jalalid and Akhani and bin Laden and others didn't give [US credit]"
+    }
+   ]
+  },
+  {
+   "name": "Bashar al-Assad",
+   "aliases": [
+    "Assad"
+   ],
+   "role": "Syrian president",
+   "organizations": [
+    "Assad regime",
+    "Syrian government"
+   ],
+   "nationality_or_origin": "Syrian",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Syria",
+    "Damascus"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "19:28",
+     "quote": "in Syria, ISIS was supposedly in cahoots with the Assad regime"
+    },
+    {
+     "timestamp": "23:47",
+     "quote": "Assad regime was sending jihadis across the border from Syria and Iraq"
+    },
+    {
+     "timestamp": "27:25",
+     "quote": "intelligence analysts actually believe this conspiracy theory that Assad stood up the Islamic State"
+    }
+   ]
+  },
+  {
+   "name": "Abu Ghadiya",
+   "aliases": [
+    "Abu Gadda"
+   ],
+   "role": "head of al-Qaeda in Iraq foreign fighter facilitation network in eastern Syria",
+   "organizations": [
+    "al-Qaeda in Iraq"
+   ],
+   "nationality_or_origin": "Iraqi",
+   "status": "dead",
+   "status_detail": "killed by US cross-border raid in Syria in 2008",
+   "family": [],
+   "locations": [
+    "eastern Syria"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "24:48",
+     "quote": "that raid, I believe, against Abu Gadda... we killed him in 2008"
+    }
+   ]
+  },
+  {
+   "name": "David Petraeus",
+   "aliases": [
+    "Petraeus"
+   ],
+   "role": "US general in Iraq",
+   "organizations": [
+    "US military"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Iraq"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "24:15",
+     "quote": "General Petraeus warned Assad of that at the time"
+    }
+   ]
+  },
+  {
+   "name": "Marjorie Taylor Greene",
+   "aliases": [
+    "Marjorie Taylor Green"
+   ],
+   "role": "Republican congressional nominee in Georgia",
+   "organizations": [],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "won Republican nomination Aug 2020",
+   "family": [],
+   "locations": [
+    "Georgia, USA"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "03:30",
+     "quote": "she won the nomination... Marjorie Taylor Green... questioned whether a plane hit the Pentagon"
+    }
+   ]
+  },
+  {
+   "name": "Christopher Hitchens",
+   "aliases": [],
+   "role": "author, cited for pattern-seeking idea",
+   "organizations": [],
+   "nationality_or_origin": "British-American",
+   "status": "dead",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "06:19",
+     "quote": "Christopher Hitchens... humans are pattern-seeking mammals"
+    }
+   ]
+  },
+  {
+   "name": "George W. Bush",
+   "aliases": [
+    "Bush"
+   ],
+   "role": "US president at time of 9/11",
+   "organizations": [
+    "Bush administration"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "10:56",
+     "quote": "the Bush administration really did this for some nefarious reason"
+    }
+   ]
+  },
+  {
+   "name": "John Kerry",
+   "aliases": [],
+   "role": "2004 Democratic presidential candidate",
+   "organizations": [],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "11:32",
+     "quote": "certainly John Kerry in 2004 went after Bush in every way he could"
+    }
+   ]
+  },
+  {
+   "name": "Saddam Hussein",
+   "aliases": [],
+   "role": "Iraqi dictator",
+   "organizations": [
+    "Iraqi Ba'ath regime"
+   ],
+   "nationality_or_origin": "Iraqi",
+   "status": "dead",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Kuwait",
+    "Iraq"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "13:55",
+     "quote": "ejecting Saddam Hussein from Kuwait"
+    },
+    {
+     "timestamp": "29:26",
+     "quote": "just as they made up this idea that Saddam was in cahoots with al-Qaeda"
+    }
+   ]
+  },
+  {
+   "name": "Muammar Gaddafi",
+   "aliases": [
+    "Qaddafi"
+   ],
+   "role": "Libyan ruler",
+   "organizations": [],
+   "nationality_or_origin": "Libyan",
+   "status": "dead",
+   "status_detail": "overthrown",
+   "family": [],
+   "locations": [
+    "Libya"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "15:48",
+     "quote": "when the Qaddafi regime was overthrown, who did the United States support in Libya?"
+    }
+   ]
+  },
+  {
+   "name": "Saif al-Adel",
+   "aliases": [
+    "Saif al-Ado"
+   ],
+   "role": "senior al-Qaeda figure reportedly in Iran, with a managerial role (per UN/State Dept)",
+   "organizations": [
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Egyptian",
+   "status": "alive",
+   "status_detail": "described as playing a managerial role in al-Qaeda while working from inside Iran",
+   "family": [],
+   "locations": [
+    "Iran"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "31:01",
+     "quote": "The State Department now talking about Saif al-Ado and Abu Muhammad al-Mazeri"
+    }
+   ]
+  },
+  {
+   "name": "Abu Muhammad al-Masri",
+   "aliases": [
+    "Abu Muhammad al-Mazeri"
+   ],
+   "role": "senior al-Qaeda figure reportedly in Iran, with a managerial role",
+   "organizations": [
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Egyptian",
+   "status": "alive",
+   "status_detail": "stated alive at the time of the episode; he was in fact killed in Tehran on 7 Aug 2020, but this is not stated in this chunk",
+   "family": [],
+   "locations": [
+    "Iran"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "31:01",
+     "quote": "Saif al-Ado and Abu Muhammad al-Mazeri having managerial playing a managerial role within al-Qaeda's goal of my work from inside Iran"
+    }
+   ]
+  },
+  {
+   "name": "Haji Bashar Noorzai",
+   "aliases": [
+    "Haji Bashar Narazi"
+   ],
+   "role": "Taliban financier and drug lord",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "detained",
+   "status_detail": "arrested by US in 2005; hosts unsure whether he was turned over to the Afghans and what his status is now",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "40:38",
+     "quote": "Haji Bashar Narazi. He was a Taliban financier and drug lord the u.s arrested him in 2005"
+    }
+   ]
+  },
+  {
+   "name": "Aminullah",
+   "aliases": [],
+   "role": "head of the Taliban's Peshawar Shura; dual-hatted al-Qaeda and Taliban leader",
+   "organizations": [
+    "Taliban",
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "designated by the US; runs the Ganj Madrasa in Peshawar, called an al-Qaeda training camp",
+   "family": [],
+   "locations": [
+    "Peshawar"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "42:09",
+     "quote": "the Aminullah, who's the head of the Taliban's Peshawar Shura. He's a dual-hatted al-Qaeda and Taliban leader"
+    }
+   ]
+  },
+  {
+   "name": "Abdul Rashid Baluch",
+   "aliases": [
+    "Abdul Rashid Baluch"
+   ],
+   "role": "Taliban liaison officer to al-Qaeda",
+   "organizations": [
+    "Taliban",
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "",
+   "status": "released",
+   "status_detail": "US-designated global terrorist; freed in 2019 in exchange for three kidnapped Indian engineers",
+   "family": [],
+   "locations": [
+    "Karachi"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "42:40",
+     "quote": "late 2019 ... Abdul Rashid Baluch, who's a U.S. designated global terrorist"
+    },
+    {
+     "timestamp": "42:52",
+     "quote": "served as a Taliban liaison officer to al-Qaeda and was responsible for planning meetings between the Taliban team leadership and al-Qaeda members in Karachi, Pakistan"
+    }
+   ]
+  },
+  {
+   "name": "Austin Scott Miller",
+   "aliases": [
+    "General Miller"
+   ],
+   "role": "commander of US Forces and Resolute Support in Afghanistan",
+   "organizations": [
+    "US military",
+    "Resolute Support"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "45:54",
+     "quote": "even General Miller at one point said somewhere below 8,000 and really we can't effectively run counterterrorism operations"
+    }
+   ]
+  },
+  {
+   "name": "Zalmay Khalilzad",
+   "aliases": [
+    "Kalil-Zad",
+    "Kalilazade"
+   ],
+   "role": "US special representative for Afghanistan reconciliation",
+   "organizations": [
+    "US State Department"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "47:58",
+     "quote": "Inter-Afghan talks, which the Kalil-Zad ... are portraying as the Afghan government"
+    },
+    {
+     "timestamp": "48:20",
+     "quote": "you have Kalilazade and Pompeo, check that box"
+    }
+   ]
+  },
+  {
+   "name": "Mike Pompeo",
+   "aliases": [
+    "Pompeo"
+   ],
+   "role": "US Secretary of State",
+   "organizations": [
+    "US State Department"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "48:20",
+     "quote": "you have Kalilazade and Pompeo, check that box and say, look, we're all good here"
+    }
+   ]
+  },
+  {
+   "name": "Barack Obama",
+   "aliases": [
+    "President Obama"
+   ],
+   "role": "former US president",
+   "organizations": [
+    "Obama administration"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "29:38",
+     "quote": "it was the Obama administration, even as President Obama was desperate to cut a deal with the Iranians, that documented Iran's collusion with al-Qaeda"
+    }
+   ]
+  },
+  {
+   "name": "Kim Dozier",
+   "aliases": [
+    "Kim Dozier"
+   ],
+   "role": "journalist",
+   "organizations": [],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "41:43",
+     "quote": "Kim Dozier notes that a lot of these in an article ... some of them are tied to al-Qaeda"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "al-Qaeda",
+   "aliases": [
+    "Al-Qaeda"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban",
+    "Iran"
+   ],
+   "rivals": [
+    "ISIS"
+   ],
+   "country_base": "",
+   "notes": "Founded on conspiracy theory of Zionist-Crusader alliance; claimed 9/11"
+  },
+  {
+   "name": "Taliban",
+   "aliases": [
+    "Islamic Emirate"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda"
+   ],
+   "rivals": [
+    "ISIS",
+    "Afghan government"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Accuses US and Afghan government of backing ISIS; signed deal with US; goal of re-establishing Islamic Emirate"
+  },
+  {
+   "name": "Islamic State",
+   "aliases": [
+    "ISIS",
+    "Islamic State in Iraq and Syria",
+    "al-Qaeda in Iraq"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [
+    "Taliban",
+    "al-Qaeda",
+    "Assad regime"
+   ],
+   "country_base": "Syria/Iraq",
+   "notes": "Subject of conspiracy theories; was part of al-Qaeda before Zawahiri ejected it"
+  },
+  {
+   "name": "Assad regime",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Iran",
+    "Russia"
+   ],
+   "rivals": [
+    "Islamic State"
+   ],
+   "country_base": "Syria",
+   "notes": "Sent jihadis to Iraq in Iraq war"
+  },
+  {
+   "name": "Nusra Front",
+   "aliases": [
+    "Onozir front"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda"
+   ],
+   "rivals": [
+    "Assad regime"
+   ],
+   "country_base": "Syria",
+   "notes": "Led jihadist coalition that took Idlib; then part of al-Qaeda"
+  },
+  {
+   "name": "Ahrar al-Sham",
+   "aliases": [
+    "Orr al-Shan"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [
+    "Assad regime"
+   ],
+   "country_base": "Syria",
+   "notes": "Played leading role in fall of Raqqa"
+  },
+  {
+   "name": "Global Engagement Center",
+   "aliases": [
+    "State Department's Global Engagement Center"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "US State Department"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Published report on seven Russian proxy sites"
+  },
+  {
+   "name": "Global Research",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Website trafficking in 9/11 conspiracy theories"
+  },
+  {
+   "name": "Free Syrian Army",
+   "aliases": [],
+   "type": "militia",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Syria",
+   "notes": "Mentioned in theory about Raqqa"
+  },
+  {
+   "name": "Afghan government",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [
+    "United States"
+   ],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Releasing the remaining 400 Taliban prisoners after the Loya Jirga."
+  },
+  {
+   "name": "Loya Jirga",
+   "aliases": [
+    "lawyer jirga"
+   ],
+   "type": "other",
+   "parent_or_allies": [
+    "Afghan government"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "3,200-person grand council that endorsed release of the last 400 Taliban prisoners; the Taliban denounced it as illegitimate."
+  },
+  {
+   "name": "Intra-Afghan negotiating team",
+   "aliases": [
+    "inter-Afghan talks"
+   ],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Nebulous negotiating body drawn from society and the government."
+  },
+  {
+   "name": "US Department of the Treasury",
+   "aliases": [
+    "Treasury Department"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Issued designations documenting Iran-al-Qaeda collusion."
+  },
+  {
+   "name": "US Department of State",
+   "aliases": [
+    "State Department"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Issued designations/statements on Iran-al-Qaeda ties and on Saif al-Adel and Abu Muhammad al-Masri."
+  },
+  {
+   "name": "UN Security Council Monitoring Team",
+   "aliases": [
+    "UN Security Council team of experts"
+   ],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Reports document al-Qaeda figures' managerial roles from inside Iran."
+  },
+  {
+   "name": "Iran",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [
+    "al-Qaeda"
+   ],
+   "rivals": [],
+   "country_base": "Iran",
+   "notes": "Hosts argue it colluded with al-Qaeda per official US designations."
+  },
+  {
+   "name": "Resolute Support",
+   "aliases": [],
+   "type": "military",
+   "parent_or_allies": [
+    "United States"
+   ],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "NATO mission commanded by General Miller."
+  },
+  {
+   "name": "Taliban Peshawar Shura",
+   "aliases": [
+    "Peshawar Shura"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Headed by Aminullah."
+  },
+  {
+   "name": "Ganj Madrasa",
+   "aliases": [
+    "Gangesh Madrasa"
+   ],
+   "type": "other",
+   "parent_or_allies": [
+    "al-Qaeda",
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Peshawar madrasa run by Aminullah, called an al-Qaeda training camp."
+  },
+  {
+   "name": "United States",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "US arrested Haji Bashar Noorzai in 2005"
+  }
+ ],
+ "places": [
+  {
+   "name": "Nangarhar",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Theater where Taliban and al-Qaeda fought ISIS"
+  },
+  {
+   "name": "Raqqa",
+   "type": "city",
+   "country": "Syria",
+   "parent": "Syria",
+   "significance": "Provincial capital whose fall involved jihadists"
+  },
+  {
+   "name": "Deir ez-Zor",
+   "type": "city",
+   "country": "Syria",
+   "parent": "Syria",
+   "significance": "Fell with jihadis playing a large role"
+  },
+  {
+   "name": "Idlib",
+   "type": "city",
+   "country": "Syria",
+   "parent": "Syria",
+   "significance": "Fell to jihadi-led coalition led by Nusra Front"
+  },
+  {
+   "name": "Palmyra",
+   "type": "city",
+   "country": "Syria",
+   "parent": "Syria",
+   "significance": "Remote hub with major bases overrun by Islamic State"
+  },
+  {
+   "name": "Damascus",
+   "type": "city",
+   "country": "Syria",
+   "parent": "Syria",
+   "significance": "Jihadists were close to marching on it"
+  },
+  {
+   "name": "Pentagon",
+   "type": "other",
+   "country": "United States",
+   "parent": "",
+   "significance": "9/11 target"
+  },
+  {
+   "name": "Bosnia and Herzegovina",
+   "type": "country",
+   "country": "Bosnia and Herzegovina",
+   "parent": "",
+   "significance": "US intervened for Muslims; bin Laden claimed arms delays"
+  },
+  {
+   "name": "Kuwait",
+   "type": "country",
+   "country": "Kuwait",
+   "parent": "",
+   "significance": "US ejected Saddam from Kuwait"
+  },
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "US withdrawal, Taliban prisoner release and talks."
+  },
+  {
+   "name": "Iran",
+   "type": "country",
+   "country": "Iran",
+   "parent": "",
+   "significance": "Alleged al-Qaeda safe haven; al-Qaeda managers working from inside."
+  },
+  {
+   "name": "Syria",
+   "type": "country",
+   "country": "Syria",
+   "parent": "",
+   "significance": "Analytic errors about the Syrian war and Assad."
+  },
+  {
+   "name": "Iraq",
+   "type": "country",
+   "country": "Iraq",
+   "parent": "",
+   "significance": "Iraq war and Saddam Hussein conspiracy discussion."
+  },
+  {
+   "name": "Libya",
+   "type": "country",
+   "country": "Libya",
+   "parent": "",
+   "significance": "Cited as a policy disaster."
+  },
+  {
+   "name": "Doha",
+   "type": "city",
+   "country": "Qatar",
+   "parent": "Qatar",
+   "significance": "Site of the 29 Feb 2020 US-Taliban deal."
+  },
+  {
+   "name": "Peshawar",
+   "type": "city",
+   "country": "Pakistan",
+   "parent": "Khyber Pakhtunkhwa",
+   "significance": "Seat of the Taliban's Peshawar Shura and the Ganj Madrasa."
+  },
+  {
+   "name": "Karachi",
+   "type": "city",
+   "country": "Pakistan",
+   "parent": "Sindh",
+   "significance": "Taliban-al-Qaeda meetings arranged by Abdul Rashid Baluch."
+  },
+  {
+   "name": "Central Asia",
+   "type": "region",
+   "country": "",
+   "parent": "",
+   "significance": "Mentioned in the oil conspiracy theory."
+  }
+ ],
+ "events": [
+  {
+   "date": "2001-09-11",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "9/11 attacks by al-Qaeda",
+   "place": "United States",
+   "actors": [
+    "al-Qaeda",
+    "Osama bin Laden"
+   ],
+   "timestamp": "03:39"
+  },
+  {
+   "date": "2001-08-06",
+   "date_precision": "day",
+   "type": "other",
+   "description": "President's Daily Brief warning bin Laden determined to strike in US",
+   "place": "United States",
+   "actors": [
+    "Osama bin Laden",
+    "Bush administration"
+   ],
+   "timestamp": "11:54"
+  },
+  {
+   "date": "2008",
+   "date_precision": "year",
+   "type": "strike",
+   "description": "US cross-border raid in Syria killed Abu Ghadiya",
+   "place": "eastern Syria",
+   "actors": [
+    "Abu Ghadiya"
+   ],
+   "timestamp": "24:52"
+  },
+  {
+   "date": "2020-08",
+   "date_precision": "month",
+   "type": "other",
+   "description": "US State Department Global Engagement Center report on seven Russian proxy sites",
+   "place": "United States",
+   "actors": [
+    "Global Engagement Center"
+   ],
+   "timestamp": "01:42"
+  },
+  {
+   "date": "2020-02-29",
+   "date_precision": "day",
+   "type": "agreement",
+   "description": "US-Taliban withdrawal deal signed in Doha, with release of Taliban prisoners negotiated without Afghan government consent.",
+   "place": "Doha",
+   "actors": [
+    "United States",
+    "Taliban"
+   ],
+   "timestamp": "36:52"
+  },
+  {
+   "date": "2020-08",
+   "date_precision": "approx",
+   "type": "release",
+   "description": "Afghan government, after the Loya Jirga, proceeds to release the final 400 Taliban prisoners, completing the 5,000 release.",
+   "place": "Afghanistan",
+   "actors": [
+    "Afghan government",
+    "Loya Jirga",
+    "Taliban"
+   ],
+   "timestamp": "36:37"
+  },
+  {
+   "date": "2019",
+   "date_precision": "year",
+   "type": "release",
+   "description": "Abdul Rashid Baluch freed in exchange for three kidnapped Indian engineers, as the Taliban were negotiating with the US.",
+   "place": "Afghanistan",
+   "actors": [
+    "Abdul Rashid Baluch",
+    "Taliban"
+   ],
+   "timestamp": "43:06"
+  },
+  {
+   "date": "2005",
+   "date_precision": "year",
+   "type": "arrest",
+   "description": "US arrested Haji Bashar Noorzai, a Taliban financier and drug lord.",
+   "place": "",
+   "actors": [
+    "Haji Bashar Noorzai",
+    "United States"
+   ],
+   "timestamp": "40:44"
+  },
+  {
+   "date": "2006",
+   "date_precision": "year",
+   "type": "statement",
+   "description": "Host writes that Iran-al-Qaeda ties do not mean war with Iran is warranted (published 2007).",
+   "place": "",
+   "actors": [],
+   "timestamp": "34:06"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Nasir al-Wuhayshi",
+   "target": "Osama bin Laden",
+   "type": "other",
+   "detail": "Wuhayshi was former aide to bin Laden.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "04:55",
+   "quote": "He was the former aide to camp to Osama bin Laden."
+  },
+  {
+   "source": "Osama bin Laden",
+   "target": "al-Qaeda",
+   "type": "leads",
+   "detail": "Bin Laden was head of al-Qaeda.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "10:45",
+   "quote": "The guy's the head of Al-Qaeda"
+  },
+  {
+   "source": "Adam Gadahn",
+   "target": "al-Qaeda",
+   "type": "member_of",
+   "detail": "American spokesman repeating conspiracy theories.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "16:57",
+   "quote": "He repeated conspiracy theories constantly in his statements."
+  },
+  {
+   "source": "Ayman al-Zawahiri",
+   "target": "Islamic State",
+   "type": "other",
+   "detail": "Zawahiri ejected the Islamic State from al-Qaeda.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "16:23",
+   "quote": "before Zawahiri ejected it"
+  },
+  {
+   "source": "David Petraeus",
+   "target": "Bashar al-Assad",
+   "type": "other",
+   "detail": "Petraeus warned Assad that jihadist pipeline would turn on him.",
+   "date": "2008",
+   "confidence": "stated",
+   "timestamp": "24:15",
+   "quote": "General Petraeus warned Assad of that at the time"
+  },
+  {
+   "source": "Abu Ghadiya",
+   "target": "Assad regime",
+   "type": "located_in",
+   "detail": "Ran a network in eastern Syria; Assad regime objected to raid killing him.",
+   "date": "2008",
+   "confidence": "stated",
+   "timestamp": "24:52",
+   "quote": "The Assad regime objected to the U.S. cross-border raid inside Syria to kill Abu Gadda"
+  },
+  {
+   "source": "Taliban",
+   "target": "al-Qaeda",
+   "type": "allied_with",
+   "detail": "Taliban and al-Qaeda mounted offensive against ISIS in eastern Afghanistan.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "18:18",
+   "quote": "the Taliban and al-Qaeda were mounting their offensive against ISIS"
+  },
+  {
+   "source": "Taliban",
+   "target": "Islamic State",
+   "type": "rival_of",
+   "detail": "Taliban fight ISIS and accuse US of backing it.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "17:28",
+   "quote": "they accused the United States and the Afghan government of backing the Islamic state"
+  },
+  {
+   "source": "Nusra Front",
+   "target": "al-Qaeda",
+   "type": "member_of",
+   "detail": "Nusra Front was al-Qaeda's affiliate at the time of Idlib's fall.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "22:40",
+   "quote": "which at the time was part of al-Qaeda"
+  },
+  {
+   "source": "Assad regime",
+   "target": "Islamic State",
+   "type": "rival_of",
+   "detail": "ISIS killed Assad's soldiers and overran bases.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "21:39",
+   "quote": "major bases out there that the Islamic State overran"
+  },
+  {
+   "source": "Afghan government",
+   "target": "Loya Jirga",
+   "type": "other",
+   "detail": "Afghan government convened the Loya Jirga to debate release of the last 400 Taliban prisoners.",
+   "date": "2020",
+   "confidence": "stated",
+   "timestamp": "38:29",
+   "quote": "The Afghan government called what they called together a lawyer, Jirga"
+  },
+  {
+   "source": "Aminullah",
+   "target": "Taliban Peshawar Shura",
+   "type": "leads",
+   "detail": "Head of the Taliban's Peshawar Shura.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "42:25",
+   "quote": "He's the head of the Taliban's Peshawar Shores"
+  },
+  {
+   "source": "Aminullah",
+   "target": "al-Qaeda",
+   "type": "member_of",
+   "detail": "Dual-hatted al-Qaeda and Taliban leader.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "42:17",
+   "quote": "He's a dual-hatted al-Qaeda and Taliban leader"
+  },
+  {
+   "source": "Aminullah",
+   "target": "Ganj Madrasa",
+   "type": "leads",
+   "detail": "Runs the Ganj Madrasa in Peshawar, an al-Qaeda training camp.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "42:20",
+   "quote": "He runs something called the Gangesh Madrasa and Peshawar"
+  },
+  {
+   "source": "Abdul Rashid Baluch",
+   "target": "Taliban",
+   "type": "member_of",
+   "detail": "Taliban liaison officer to al-Qaeda.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "42:51",
+   "quote": "He served as a Taliban liaison officer to al-Qaeda"
+  },
+  {
+   "source": "Abdul Rashid Baluch",
+   "target": "al-Qaeda",
+   "type": "met_with",
+   "detail": "Planned meetings between Taliban leadership and al-Qaeda in Karachi.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "42:57",
+   "quote": "responsible of planning meetings between the Taliban team leadership and al-Qaeda members in Karachi, Pakistan"
+  },
+  {
+   "source": "Taliban",
+   "target": "Abdul Rashid Baluch",
+   "type": "other",
+   "detail": "Taliban secured Baluch's release by holding Indian engineers hostage.",
+   "date": "2019",
+   "confidence": "stated",
+   "timestamp": "44:16",
+   "quote": "they held out Indian hostages in order to get him released"
+  },
+  {
+   "source": "Haji Bashar Noorzai",
+   "target": "Taliban",
+   "type": "member_of",
+   "detail": "Taliban financier and drug lord.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "40:44",
+   "quote": "He was a Taliban financier and drug lord"
+  },
+  {
+   "source": "United States",
+   "target": "Haji Bashar Noorzai",
+   "type": "captured",
+   "detail": "US arrested him in 2005.",
+   "date": "2005",
+   "confidence": "stated",
+   "timestamp": "40:46",
+   "quote": "the u.s arrested him in 2005"
+  },
+  {
+   "source": "Saif al-Adel",
+   "target": "Iran",
+   "type": "located_in",
+   "detail": "Reportedly plays a managerial role in al-Qaeda from inside Iran.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "31:05",
+   "quote": "playing a managerial role within al-Qaeda's goal of my work from inside Iran"
+  },
+  {
+   "source": "Abu Muhammad al-Masri",
+   "target": "Iran",
+   "type": "located_in",
+   "detail": "Reportedly plays a managerial role in al-Qaeda from inside Iran.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "31:05",
+   "quote": "Saif al-Ado and Abu Muhammad al-Mazeri having managerial playing a managerial role"
+  },
+  {
+   "source": "al-Qaeda",
+   "target": "Iran",
+   "type": "allied_with",
+   "detail": "US designations document Iran's collusion with al-Qaeda.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "29:38",
+   "quote": "documented Iran's collusion with al-Qaeda in a series of official terrorist designations"
+  },
+  {
+   "source": "Austin Scott Miller",
+   "target": "Resolute Support",
+   "type": "leads",
+   "detail": "Commander of US forces and Resolute Support in Afghanistan.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "46:04",
+   "quote": "General Miller, of course, being the commander of U.S. forces and resolute support"
+  },
+  {
+   "source": "Zalmay Khalilzad",
+   "target": "Taliban",
+   "type": "negotiated_with",
+   "detail": "Led US negotiations with the Taliban on the withdrawal deal.",
+   "date": "2020",
+   "confidence": "inferred",
+   "timestamp": "48:20",
+   "quote": "you have Kalilazade and Pompeo, check that box"
+  },
+  {
+   "source": "Taliban",
+   "target": "Afghan government",
+   "type": "rival_of",
+   "detail": "Taliban deems the Afghan government corrupt and illegitimate, and denounced the Loya Jirga.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "46:39",
+   "quote": "It denounced it. It said it's not legitimate."
+  }
+ ],
+ "sources_cited": [
+  "State Department Global Engagement Center report on seven Russian proxy sites",
+  "Documents captured from Osama bin Laden's compound",
+  "President's Daily Brief, 6 August 2001",
+  "US Treasury and State Department terrorist designations",
+  "9/11 Commission Report",
+  "US district court documents",
+  "Al-Qaeda internal testimonies",
+  "UN Security Council Monitoring Team reports",
+  "Afghan news agency reporting on the 400 prisoners",
+  "Kim Dozier article (Times)",
+  "US designation of Abdul Rashid Baluch"
+ ],
+ "key_claims": [
+  "Al-Qaeda and modern jihadism are founded on a conspiracy theory of a Zionist-Crusader alliance against Muslims.",
+  "Bin Laden was annoyed by people denying al-Qaeda's responsibility for 9/11, per captured compound files.",
+  "The Taliban's claim that the US backs ISIS is likely propaganda; some US officials acknowledged indirect support for the Taliban/al-Qaeda offensive against ISIS in eastern Afghanistan.",
+  "The theory that Assad created or controlled ISIS is rejected: the Assad regime lost territory and soldiers to ISIS, though Assad did earlier facilitate jihadists into Iraq.",
+  "US officials have 'disconnected the dots' on al-Qaeda–Taliban ties, intentionally ignoring links to fit a policy of withdrawing from Afghanistan.",
+  "ISIS was originally part of al-Qaeda before Zawahiri ejected it.",
+  "Hosts argue that analysts who 'disconnect the dots' deny the cohesive network linking al-Qaeda and ISIS to their global affiliates.",
+  "Official US designations from the Obama administration document Iran's collusion with al-Qaeda, so the claim is not a neocon fabrication.",
+  "Hosts claim the Taliban remains tied to al-Qaeda, and that Afghan press data shows many of the final 400 prisoners are dangerous, with 44 blacklisted and possible al-Qaeda links.",
+  "Hosts say the Taliban has worked to free dual-hatted al-Qaeda-Taliban figures, citing Abdul Rashid Baluch's 2019 release for three Indian engineers.",
+  "The Afghan government has surrendered to the US-Taliban deal, while the Taliban refuses to accept anything less than an Islamic Emirate and uses talks to run out the clock.",
+  "Aminullah, head of the Taliban's Peshawar Shura, is described as a dual-hatted al-Qaeda and Taliban leader running the Ganj Madrasa training camp.",
+  "Hosts argue the US could have withdrawn without legitimizing the Taliban or absolving its al-Qaeda ties."
+ ]
+}

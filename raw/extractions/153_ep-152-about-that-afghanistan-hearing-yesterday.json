@@ -1,0 +1,758 @@
+{
+ "episode": {
+  "idx": 153,
+  "title": "Ep. 152 — About that Afghanistan hearing yesterday...",
+  "published": "Wed, 20 Mar 2024 18:00:00 +0000",
+  "guid": "17e89646-8273-4a5c-94e4-3a86b7a9d4b5"
+ },
+ "persons": [
+  {
+   "name": "Mark Milley",
+   "aliases": [
+    "General Millie",
+    "Millie"
+   ],
+   "role": "Former Chairman of the Joint Chiefs of Staff (appointed 2018 per host) during the Afghanistan withdrawal; testified to House Foreign Affairs Committee 19 Mar 2024",
+   "organizations": [
+    "Joint Chiefs of Staff",
+    "US military"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "00:37",
+     "quote": "the Foreign Affairs Committee had General Mark Milley, the former chairman of the Joint Chiefs of Staff"
+    },
+    {
+     "timestamp": "08:12",
+     "quote": "June 23rd, 2021. He downplayed Taliban control in Afghanistan districts... 81 of them... in the hands of the Taliban"
+    },
+    {
+     "timestamp": "13:26",
+     "quote": "during his testimony yesterday, he said that there were only 170,000 Afghan security personnel... And there was over 100,000 Taliban"
+    }
+   ]
+  },
+  {
+   "name": "Kenneth McKenzie",
+   "aliases": [
+    "General McKenzie"
+   ],
+   "role": "Former commander of US Central Command during the withdrawal; reportedly described the Taliban as 'our partners' at Kabul airport",
+   "organizations": [
+    "CENTCOM",
+    "US military"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "00:37",
+     "quote": "General Kenneth McKenzie, the former commander of U.S. Central Command"
+    },
+    {
+     "timestamp": "16:03",
+     "quote": "general McKenzie reportedly described the Taliban as his, as our partners, even though he said publicly yesterday, that wasn't the case"
+    }
+   ]
+  },
+  {
+   "name": "Austin Scott Miller",
+   "aliases": [
+    "General Miller"
+   ],
+   "role": "Commander of Resolute Support (2018-2019); said al-Qaeda was operating 'across the country' (2019) and that district security status was 'immaterial' (2018); supported peace talks",
+   "organizations": [
+    "Resolute Support",
+    "US military"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "05:31",
+     "quote": "in 2019, General Miller, who at the time was the Resolute Support Mission Commander, he had said that al-Qaeda is operating across the country"
+    },
+    {
+     "timestamp": "06:46",
+     "quote": "In 2018, General Miller stated... the security status in Afghanistan's 407 districts was immaterial"
+    }
+   ]
+  },
+  {
+   "name": "Zalmay Khalilzad",
+   "aliases": [
+    "Zalmeh Khalazid"
+   ],
+   "role": "US Special Representative for Afghanistan Reconciliation; led negotiations with the Taliban",
+   "organizations": [
+    "US State Department"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Doha"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "02:04",
+     "quote": "Zalmeh Khalazid, the special representative for Afghanistan reconciliation, his role in this. Those were all major diplomatic state failures"
+    }
+   ]
+  },
+  {
+   "name": "Joe Biden",
+   "aliases": [
+    "President Biden"
+   ],
+   "role": "US President who announced the withdrawal and reportedly insisted on keeping only ~1,000 troops against the generals' 2,500 minimum",
+   "organizations": [
+    "US Government"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "14:49",
+     "quote": "President Biden insisted, at least it appears to be President Biden, insisted that the U.S. keep about a thousand troops in Afghanistan"
+    }
+   ]
+  },
+  {
+   "name": "Donald Trump",
+   "aliases": [
+    "President Trump"
+   ],
+   "role": "US President whose administration negotiated with the Taliban",
+   "organizations": [
+    "US Government"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "07:32",
+     "quote": "Did both Generals Millie and McKenzie support Trump's negotiations with the Taliban?"
+    }
+   ]
+  },
+  {
+   "name": "Antony Blinken",
+   "aliases": [
+    "Secretary Blinken"
+   ],
+   "role": "US Secretary of State blamed by Congress for the failure to call the NEO",
+   "organizations": [
+    "US State Department"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "16:38",
+     "quote": "to pin the blame on the state department on Secretary Blinken to make this a political issue"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Taliban",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda",
+    "Haqqani Network",
+    "Badri 313"
+   ],
+   "rivals": [
+    "Afghan government",
+    "Afghan National Security Forces"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Controlled ~80 districts at withdrawal announcement, 139 of 407 by 23 Jun 2021, ~220 a month later; >100,000 fighters per Milley (Roggio: 100-200k with auxiliaries); seized Kunduz (twice), Ghazni and Farah cities before 2021"
+  },
+  {
+   "name": "al-Qaeda",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Operating 'across the country' per Gen. Miller 2019; earlier military estimates of 50-100 confined to Kunar/Nuristan were disproved by the Shorabak camp raid (150 killed)"
+  },
+  {
+   "name": "Haqqani Network",
+   "aliases": [
+    "Hakani network"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban",
+    "Badri 313"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Badri 313 are 'the jackboots for the Haqqani network'"
+  },
+  {
+   "name": "Badri 313",
+   "aliases": [],
+   "type": "militia",
+   "parent_or_allies": [
+    "Haqqani Network",
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Kabul",
+   "notes": "Taliban special-forces unit tied to the Haqqani Network; US forces partnered with it outside Hamid Karzai International Airport in Aug 2021"
+  },
+  {
+   "name": "Afghan National Security Forces",
+   "aliases": [
+    "ANSF",
+    "Afghan security personnel"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "Afghan government"
+   ],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Milley claimed 375,000 personnel at withdrawal; in testimony said only 170,000"
+  },
+  {
+   "name": "Afghan government",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [
+    "United States"
+   ],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Collapsed in August 2021 ('in 11 days' per Milley)"
+  },
+  {
+   "name": "US State Department",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Blamed for late NEO and reliance on Taliban negotiations"
+  },
+  {
+   "name": "CENTCOM",
+   "aliases": [
+    "U.S. Central Command"
+   ],
+   "type": "military",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Commanded by McKenzie; official assessment of Taliban-al-Qaeda ties questioned"
+  },
+  {
+   "name": "Resolute Support",
+   "aliases": [],
+   "type": "military",
+   "parent_or_allies": [
+    "NATO"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "NATO mission commanded by Gen. Miller"
+  },
+  {
+   "name": "House Foreign Affairs Committee",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Held the 19 Mar 2024 hearing with Milley and McKenzie; Roggio says it 'punted'"
+  },
+  {
+   "name": "Afghanistan War Commission",
+   "aliases": [
+    "Afghanistan commission"
+   ],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Roggio doubts it will investigate failures since it includes people involved in failed policy"
+  },
+  {
+   "name": "US Department of Defense",
+   "aliases": [
+    "Defense Department"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Estimated Taliban at ~50,000, contradicted by Milley's >100,000 figure"
+  },
+  {
+   "name": "Joint Chiefs of Staff",
+   "aliases": [],
+   "type": "military",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Milley chairman"
+  },
+  {
+   "name": "US military",
+   "aliases": [],
+   "type": "military",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Partnered with Badri 313 at Kabul airport; generals Milley/McKenzie/Miller"
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Subject of the hearing; 407 districts"
+  },
+  {
+   "name": "Kabul",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Kabul province",
+   "significance": "Taliban entry triggered the NEO; airport evacuation"
+  },
+  {
+   "name": "Hamid Karzai International Airport",
+   "type": "base",
+   "country": "Afghanistan",
+   "parent": "Kabul",
+   "significance": "US forces partnered with Badri 313 outside the airport during the evacuation"
+  },
+  {
+   "name": "Bagram",
+   "type": "base",
+   "country": "Afghanistan",
+   "parent": "Parwan",
+   "significance": "US unable to secure Bagram with ~1,000 troops"
+  },
+  {
+   "name": "Kunar",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Earlier military claims confined al-Qaeda to Kunar and Nuristan"
+  },
+  {
+   "name": "Nuristan",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Earlier military claims confined al-Qaeda to Kunar and Nuristan"
+  },
+  {
+   "name": "Shorabak",
+   "type": "district",
+   "country": "Afghanistan",
+   "parent": "Kandahar",
+   "significance": "Raid on al-Qaeda camp killed ~150, disproving the 50-100 estimate"
+  },
+  {
+   "name": "Kandahar",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Location of the Shorabak al-Qaeda camp"
+  },
+  {
+   "name": "Kunduz",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Kunduz",
+   "significance": "Seized twice by the Taliban before 2021"
+  },
+  {
+   "name": "Ghazni",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Ghazni",
+   "significance": "Seized by the Taliban before 2021"
+  },
+  {
+   "name": "Farah",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Farah",
+   "significance": "Seized by the Taliban before 2021"
+  },
+  {
+   "name": "Zaranj",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Nimruz",
+   "significance": "First provincial capital to fall, 6 Aug 2021"
+  }
+ ],
+ "events": [
+  {
+   "date": "2024-03-19",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "House Foreign Affairs Committee hearing on Afghanistan with Generals Milley and McKenzie; blame directed at State Department for late NEO",
+   "place": "Washington",
+   "actors": [
+    "Mark Milley",
+    "Kenneth McKenzie",
+    "House Foreign Affairs Committee"
+   ],
+   "timestamp": "00:00"
+  },
+  {
+   "date": "2019",
+   "date_precision": "year",
+   "type": "statement",
+   "description": "Gen. Miller said al-Qaeda was operating 'across the country' in Afghanistan, contradicting earlier estimates of 50-100 confined to Kunar/Nuristan",
+   "place": "Afghanistan",
+   "actors": [
+    "Austin Scott Miller",
+    "al-Qaeda"
+   ],
+   "timestamp": "05:31"
+  },
+  {
+   "date": "approx 2015",
+   "date_precision": "approx",
+   "type": "strike",
+   "description": "Raid on al-Qaeda camp in Shorabak, Kandahar killed ~150 al-Qaeda fighters (date not stated by host)",
+   "place": "Shorabak",
+   "actors": [
+    "al-Qaeda",
+    "US military"
+   ],
+   "timestamp": "05:31"
+  },
+  {
+   "date": "2018",
+   "date_precision": "year",
+   "type": "statement",
+   "description": "Gen. Miller said district security status was 'immaterial' and the true metric was peace talks with the Taliban; Milley appointed CJCS (per host)",
+   "place": "Afghanistan",
+   "actors": [
+    "Austin Scott Miller",
+    "Mark Milley"
+   ],
+   "timestamp": "06:46"
+  },
+  {
+   "date": "2021-06-23",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Milley said the Taliban held ~81 districts and were incapable of taking cities; LWJ counted 139 of 407 districts under Taliban control and ~200 contested",
+   "place": "Afghanistan",
+   "actors": [
+    "Mark Milley",
+    "Taliban"
+   ],
+   "timestamp": "08:12"
+  },
+  {
+   "date": "2021-07",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "One month later Milley said the Taliban controlled over half (~220) of districts",
+   "place": "Afghanistan",
+   "actors": [
+    "Mark Milley",
+    "Taliban"
+   ],
+   "timestamp": "09:33"
+  },
+  {
+   "date": "2021-08-06",
+   "date_precision": "day",
+   "type": "offensive",
+   "description": "Zaranj, capital of Nimruz, first provincial capital to fall to the Taliban",
+   "place": "Zaranj",
+   "actors": [
+    "Taliban"
+   ],
+   "timestamp": "11:09"
+  },
+  {
+   "date": "2021-08",
+   "date_precision": "month",
+   "type": "offensive",
+   "description": "Taliban entered Kabul; NEO called only then; Afghan government collapsed ('in 11 days' per Milley)",
+   "place": "Kabul",
+   "actors": [
+    "Taliban",
+    "Afghan government",
+    "US State Department"
+   ],
+   "timestamp": "01:23"
+  },
+  {
+   "date": "2021-08",
+   "date_precision": "month",
+   "type": "meeting",
+   "description": "US forces partnered with Taliban unit Badri 313, tied to the Haqqani Network, outside Hamid Karzai International Airport",
+   "place": "Hamid Karzai International Airport",
+   "actors": [
+    "US military",
+    "Badri 313",
+    "Haqqani Network",
+    "Kenneth McKenzie"
+   ],
+   "timestamp": "16:03"
+  },
+  {
+   "date": "2021-04",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Biden announced the withdrawal; Taliban final campaign began as soon as it was announced (approx)",
+   "place": "Afghanistan",
+   "actors": [
+    "Joe Biden",
+    "Taliban"
+   ],
+   "timestamp": "12:15"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Mark Milley",
+   "target": "Joint Chiefs of Staff",
+   "type": "leads",
+   "detail": "Former chairman",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "00:37",
+   "quote": "General Mark Milley, the former chairman of the Joint Chiefs of Staff"
+  },
+  {
+   "source": "Kenneth McKenzie",
+   "target": "CENTCOM",
+   "type": "leads",
+   "detail": "Former CENTCOM commander",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "00:37",
+   "quote": "General Kenneth McKenzie, the former commander of U.S. Central Command"
+  },
+  {
+   "source": "Austin Scott Miller",
+   "target": "Resolute Support",
+   "type": "leads",
+   "detail": "Resolute Support commander 2018-19",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "05:31",
+   "quote": "General Miller, who at the time was the Resolute Support Mission Commander"
+  },
+  {
+   "source": "Zalmay Khalilzad",
+   "target": "Taliban",
+   "type": "negotiated_with",
+   "detail": "Led State Department negotiations treating the Taliban as a partner",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "02:04",
+   "quote": "The State Department's dependence on negotiations with the Taliban, Zalmeh Khalazid, the special representative for Afghanistan reconciliation"
+  },
+  {
+   "source": "Taliban",
+   "target": "al-Qaeda",
+   "type": "sheltered_by",
+   "detail": "Al-Qaeda's presence across the country was clearly supported by the Taliban",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "06:03",
+   "quote": "when al-Qaeda was clearly supported by the Taliban to establish such a presence, quote, across the country"
+  },
+  {
+   "source": "al-Qaeda",
+   "target": "Taliban",
+   "type": "sheltered_by",
+   "detail": "Taliban support enabled al-Qaeda presence across Afghanistan",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "06:03",
+   "quote": "al-Qaeda was clearly supported by the Taliban to establish such a presence"
+  },
+  {
+   "source": "Badri 313",
+   "target": "Haqqani Network",
+   "type": "member_of",
+   "detail": "Badri 313 are the jackboots for the Haqqani Network; Taliban special forces",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "16:03",
+   "quote": "a unit known as Badri 313, which are the jackboots for the Haqqani network? This is basically Taliban special forces"
+  },
+  {
+   "source": "Badri 313",
+   "target": "Taliban",
+   "type": "member_of",
+   "detail": "Described as Taliban special forces",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "16:38",
+   "quote": "This is basically Taliban special forces"
+  },
+  {
+   "source": "Haqqani Network",
+   "target": "Taliban",
+   "type": "member_of",
+   "detail": "Haqqani unit serves as Taliban special forces",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "16:38",
+   "quote": "This is basically Taliban special forces"
+  },
+  {
+   "source": "US military",
+   "target": "Badri 313",
+   "type": "met_with",
+   "detail": "US partnered with Badri 313 outside Kabul airport during the evacuation",
+   "date": "2021-08",
+   "confidence": "stated",
+   "timestamp": "16:03",
+   "quote": "partnering with the Taliban outside of Hamid Karzai International Airport in Kabul... the Taliban that they were dealing with was a unit known as Badri 313"
+  },
+  {
+   "source": "Kenneth McKenzie",
+   "target": "Taliban",
+   "type": "other",
+   "detail": "Reportedly described the Taliban as 'our partners'",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "16:03",
+   "quote": "general McKenzie reportedly described the Taliban as his, as our partners"
+  },
+  {
+   "source": "Taliban",
+   "target": "Zaranj",
+   "type": "captured",
+   "detail": "First provincial capital to fall, 6 Aug 2021",
+   "date": "2021-08-06",
+   "confidence": "stated",
+   "timestamp": "11:09",
+   "quote": "Zerange, the provincial capital of Nimruz, was the first of fall on August 6th"
+  },
+  {
+   "source": "Taliban",
+   "target": "Kunduz",
+   "type": "captured",
+   "detail": "Seized Kunduz city twice before 2021",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "11:09",
+   "quote": "Condu City, Ghazni City, and Fara City. Obviously, Kanzhou City was seized twice"
+  },
+  {
+   "source": "Taliban",
+   "target": "Afghan government",
+   "type": "rival_of",
+   "detail": "Taliban military campaign to take over Afghanistan; government collapsed Aug 2021",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "12:50",
+   "quote": "the Taliban had a military and political plan to take over Afghanistan"
+  },
+  {
+   "source": "al-Qaeda",
+   "target": "Shorabak",
+   "type": "located_in",
+   "detail": "Al-Qaeda camp in Shorabak, Kandahar, raided with ~150 killed",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "05:31",
+   "quote": "the raid on the camp in Shurabakh, and 150 Al-Qaeda were killed there, and Kandahar sort of blew that narrative out of the water"
+  },
+  {
+   "source": "al-Qaeda",
+   "target": "Kunar",
+   "type": "located_in",
+   "detail": "Earlier US military estimates confined al-Qaeda (50-100) to Kunar and Nuristan",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "05:31",
+   "quote": "the military was saying, oh, al-Qaeda's confined to Koonar in Nuristan, and there's 50 to 100"
+  },
+  {
+   "source": "Antony Blinken",
+   "target": "US State Department",
+   "type": "leads",
+   "detail": "Secretary of State",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "16:38",
+   "quote": "to pin the blame on the state department on Secretary Blinken"
+  },
+  {
+   "source": "Joe Biden",
+   "target": "US military",
+   "type": "other",
+   "detail": "Biden insisted on ~1,000 troops vs generals' 2,500 minimum",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "14:49",
+   "quote": "both Miller and McKenzie repeatedly said 2,500 troops was the minimum... President Biden insisted... that the U.S. keep about a thousand troops"
+  }
+ ],
+ "sources_cited": [
+  "House Foreign Affairs Committee hearing with Milley and McKenzie (19 Mar 2024)",
+  "FDD's Long War Journal Taliban district-control map",
+  "Roggio/Joscelyn LWJ article on Gen. Miller's 'across the country' statement (2019)",
+  "Milley press statements 23 Jun 2021 and July 2021",
+  "Defense Department Taliban strength estimates"
+ ],
+ "key_claims": [
+  "Congress let Milley and McKenzie off the hook; blame was redirected to the State Department and the late NEO.",
+  "US generals supported peace talks even as Gen. Miller acknowledged al-Qaeda operating across Afghanistan with Taliban support.",
+  "Milley's June 2021 claim of ~81 Taliban districts and 'incapable of taking cities' was contradicted by LWJ's count (139 controlled) and by his own figure (~220) a month later.",
+  "The Taliban's final campaign began as soon as the withdrawal was announced; Afghanistan did not fall 'in 11 days'.",
+  "Milley's ANSF (375k vs 170k) and Taliban (50k DoD vs >100k) numbers were wrong or massaged; Roggio estimated 100-200k Taliban with auxiliaries.",
+  "US forces partnered at Kabul airport with Badri 313, the Haqqani Network's elite unit."
+ ]
+}
