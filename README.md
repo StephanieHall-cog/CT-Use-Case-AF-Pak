@@ -40,4 +40,4 @@ python3 scripts/build_db.py --synthetic synthetic/*.json
 - `raw/reports/batch_XX_report.md` — per-batch extraction notes, including which episodes were hand-extracted.
 
 ## Current build
-93 episodes · 1,635 entities (persons/organizations/places) · 3,536 aliases · 6,571 relationships · 1,394 dated events · 2,720 mentions.
+93 episodes · 1,632 entities (persons/organizations/places) · 3,525 aliases · 6,571 relationships · 1,394 dated events · 2,720 mentions.
