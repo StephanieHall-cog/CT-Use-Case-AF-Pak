@@ -43,6 +43,8 @@ def test_build_with_isw_maps():
     assert q("select count(*) from map_sources where url is null or url=''")[0][0] == 0
     # podcast events untouched
     assert q("select count(*) from events where source='podcast' and episode_idx is null")[0][0] == 0
+    assert q("select count(*) from events where source='document' and doc_id is null")[0][0] == 0
+    assert q("select count(*) from events where source='isw_maps' and (episode_idx is not null or doc_id is not null or map_plot_id is null)")[0][0] == 0
     # geocoded plots carry a method + precision and fall inside the wider region
     assert q("select count(*) from map_plots where lat is not null and (geo_method is null or geo_precision_km is null)")[0][0] == 0
     assert q("select count(*) from map_plots where lat is not null and not (lat between 20 and 45 and lon between 55 and 85)")[0][0] == 0

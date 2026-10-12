@@ -1,6 +1,7 @@
 entity_id,lat,lon,geoname_id,feature_code,admin1,method,confidence,name,country,parent_place
 L-cc5f9bfe20,34.1463,73.21168,1185056,PPLA2,Khyber Pakhtunkhwa,gazetteer,high,Abbottabad,Pakistan,Khyber Pakhtunkhwa
 L-5066194008,33.0,66.0,1149361,PCLI,,gazetteer,high,Afghanistan,Afghanistan,
+L-a1a42469f3,33.94253,69.71908,1148939,PPLA2,Paktia,gazetteer,high,Alikhel,Afghanistan,Paktia
 L-7721d4eb27,33.30584,68.44696,7052953,ADM2,Ghazni,gazetteer,high,Andar district,Afghanistan,Ghazni
 L-47f3b29988,35.62405,69.17861,7052857,ADM2,Baghlan,gazetteer,high,Andarab,Afghanistan,Baghlan
 L-4a07791681,36.75,72.0,1147745,ADM1,Badakhshan,gazetteer,high,Badakhshan,Afghanistan,Afghanistan
@@ -19,11 +20,11 @@ L-2938b92132,35.69941,66.06164,1123343,PPL,Sar-e Pol Province,gazetteer,medium,B
 L-9347bcc93a,34.44301,72.49933,1182146,ADM2,Khyber Pakhtunkhwa,gazetteer,high,Buner,Pakistan,Northwest Frontier Province
 L-7f149ad6fe,36.25829,72.24302,1181064,ADM2,Khyber Pakhtunkhwa,gazetteer,low,Chitral,Pakistan,Khyber Pakhtunkhwa
 L-05784d7076,30.43206,63.29802,1149052,PPLA2,Helmand,gazetteer,low,Dishu,Afghanistan,Helmand
-L-ca530505de,33.0,70.5,-2,ADM1H,Khyber Pakhtunkhwa,gazetteer,medium,FATA,Pakistan,Pakistan
 L-f5874ca60d,37.11664,70.58002,1142170,PPLA,Badakhshan,gazetteer,high,Faizabad,Afghanistan,Badakhshan
 L-0aa50c843d,32.37451,62.11638,1142264,PPLA,Farah,gazetteer,high,Farah,Afghanistan,Farah
 L-d735526db4,36.25,64.83333,1142226,ADM1,Faryab,gazetteer,high,Faryab,Afghanistan,Afghanistan
 L-358a48ad72,33.0,70.5,-2,ADM1H,Khyber Pakhtunkhwa,gazetteer,medium,Federally Administered Tribal Areas,Pakistan,Pakistan
+L-34ff2be3fc,33.59744,69.22592,1141857,PPLA,Paktia,gazetteer,high,Gardez,Afghanistan,Paktia
 L-67be999c81,31.82089,64.57005,1141540,PPLA2,Helmand,gazetteer,high,Gereshk district,Afghanistan,Helmand
 L-899440dab9,33.33333,67.75,1141268,ADM1,Ghazni,gazetteer,low,Ghazni,Afghanistan,Afghanistan
 L-eb45391791,32.0439,65.19566,7053301,ADM2,Kandahar,gazetteer,high,Ghorak,Afghanistan,Kandahar
@@ -31,6 +32,7 @@ L-04bcfd86b4,34.5658,69.2126,-14,AIRP,Kabul,gazetteer,high,Hamid Karzai Internat
 L-4583fe6851,31.0,64.0,1140043,ADM1,Helmand,gazetteer,high,Helmand,Afghanistan,Afghanistan
 L-8bb158b296,34.5,62.0,1140025,ADM1,Herat,gazetteer,high,Herat,Afghanistan,Afghanistan
 L-bc8dec3eed,33.72148,73.04329,1176615,PPLC,Islamabad,gazetteer,high,Islamabad,Pakistan,Pakistan
+L-280aeb30ef,33.97765,69.67276,7053979,ADM2,Paktia,gazetteer,high,Jaji,Afghanistan,Paktia
 L-2257fbe752,34.42647,70.45153,1139715,PPLA,Nangarhar,gazetteer,high,Jalalabad,Afghanistan,Nangarhar
 L-7f1cab0759,36.83333,65.83333,1139049,ADM1,Jowzjan,gazetteer,high,Jowzjan,Afghanistan,Afghanistan
 L-4227add3d7,34.52813,69.17233,1138958,PPLC,Kabul,gazetteer,high,Kabul,Afghanistan,Afghanistan
@@ -51,13 +53,16 @@ L-7730e034b9,33.71017,70.3401,1172574,ADM2,Khyber Pakhtunkhwa,gazetteer,high,Kur
 L-3152965a18,31.558,74.35071,1172451,PPLA,Punjab,gazetteer,high,Lahore,Pakistan,Punjab
 L-4e81f00b4e,31.59382,64.37161,1134720,PPLA,Helmand,gazetteer,high,Lashkar Gah,Afghanistan,Helmand
 L-0f9c99a88b,34.0,69.25,1134561,ADM1,Logar,gazetteer,high,Logar,Afghanistan,Afghanistan
+L-711f85fa7a,33.3,69.4,-6,RGN,Paktia,gazetteer,medium,Loya Paktia,Afghanistan,Afghanistan
 L-e92ce00fc0,31.4463,67.25274,7053303,ADM2,Kandahar,gazetteer,high,Maruf,Afghanistan,Kandahar
 L-277f3aa4b0,31.58363,64.99332,7053304,ADM2,Kandahar,gazetteer,high,Maywand,Afghanistan,Kandahar
+L-a418808146,36.70904,67.11087,1133616,PPLA,Balkh,gazetteer,high,Mazar-e-Sharif,Afghanistan,Balkh
 L-58f7a66bdc,36.70904,67.11087,1133616,PPLA,Balkh,gazetteer,high,Mazar-i-Sharif,Afghanistan,Balkh
 L-113ca8fd17,33.00059,70.07117,1170367,PPL,Khyber Pakhtunkhwa,gazetteer,high,Miram Shah,Pakistan,North Waziristan
 L-2e9ffed67e,33.00059,70.07117,1170367,PPL,Khyber Pakhtunkhwa,gazetteer,high,Miranshah,Pakistan,North Waziristan
 L-59fdf6ceb5,32.46905,64.73632,7053028,ADM2,Helmand,gazetteer,high,Musa Qala,Afghanistan,Helmand
 L-d34bd85dd4,34.33333,70.41667,1132366,ADM1,Nangarhar,gazetteer,high,Nangarhar,Afghanistan,Afghanistan
+L-c028de932a,33.20652,69.24003,7053780,ADM2,Paktika,gazetteer,high,Nika,Afghanistan,Paktia
 L-ff604e103d,31.0,62.5,1131821,ADM1,Nimroz,gazetteer,high,Nimroz,Afghanistan,Afghanistan
 L-feefda48d7,31.0,62.5,1131821,ADM1,Nimroz,gazetteer,high,Nimruz,Afghanistan,Afghanistan
 L-bce548de30,32.95087,69.95764,1168875,ADM2,Khyber Pakhtunkhwa,gazetteer,high,North Waziristan,Pakistan,FATA

@@ -1,0 +1,1562 @@
+{
+ "document": {
+  "doc_id": "ctc-sentinel-2009-al-qaida-pakistan-strategy",
+  "title": "Al-Qa'ida's Pakistan Strategy",
+  "authors": "Don Rassler",
+  "publisher": "CTC Sentinel 2(6), Combating Terrorism Center at West Point",
+  "published": "2009-06",
+  "url": "https://ctc.westpoint.edu/al-qaidas-pakistan-strategy/",
+  "kind": "article"
+ },
+ "persons": [
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Osama bin Laden"
+   ],
+   "role": "al-Qa`ida leader who issued statements calling for jihad in Pakistan",
+   "organizations": [
+    "al-Qa`ida"
+   ],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Pakistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "para 6",
+     "quote": "Usama bin Ladin publicly acknowledged al-Qa`ida's failure to prioritize the jihad in Pakistan"
+    }
+   ]
+  },
+  {
+   "name": "Abu Yahya al-Libi",
+   "aliases": [
+    "Abu Yahya al-Libi"
+   ],
+   "role": "notable al-Qa`ida figure and ideologue; issued statements on jihad against Pakistan (Sept 2007, April 2009)",
+   "organizations": [
+    "al-Qa`ida"
+   ],
+   "nationality_or_origin": "Libyan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "para 7",
+     "quote": "As notable al-Qa`ida figure Abu Yahya al-Libi argued"
+    },
+    {
+     "timestamp": "para 18",
+     "quote": "As Abu Yahya al-Libi noted this past April"
+    }
+   ]
+  },
+  {
+   "name": "Abu Faraj al-Libi",
+   "aliases": [
+    "Abu Faraj al-Libi"
+   ],
+   "role": "al-Qa`ida operative who allegedly ordered a Dec 2003 assassination attempt on Musharraf",
+   "organizations": [
+    "al-Qa`ida"
+   ],
+   "nationality_or_origin": "Libyan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Pakistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "para 13",
+     "quote": "al-Qa`ida operative Abu Faraj al-Libi allegedly ordered an assassination attempt"
+    }
+   ]
+  },
+  {
+   "name": "Pervez Musharraf",
+   "aliases": [
+    "Parvez Musharraf"
+   ],
+   "role": "Pakistani President until 2008; target of al-Qa`ida and assassination attempts",
+   "organizations": [
+    "Pakistani Army"
+   ],
+   "nationality_or_origin": "Pakistani",
+   "status": "unknown",
+   "status_detail": "left office in 2008",
+   "family": [],
+   "locations": [
+    "Pakistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "para 5",
+     "quote": "portray former Pakistani President Pervez Musharraf as an apostate"
+    }
+   ]
+  },
+  {
+   "name": "Mullah Nazir Ahmed",
+   "aliases": [
+    "Mullah Nazir",
+    "Maulvi Nazir"
+   ],
+   "role": "Pakistani Taliban leader and amir of mujahidin in South Waziristan; interviewed by al-Sahab April 2009",
+   "organizations": [
+    "Pakistani Taliban"
+   ],
+   "nationality_or_origin": "Pakistani",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "South Waziristan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "para 15",
+     "quote": "Pakistani Taliban groups led by Mullah Nazir Ahmed and Hafiz Gul Bahadur were in violent conflict with Baitullah Mehsud"
+    }
+   ]
+  },
+  {
+   "name": "Hafiz Gul Bahadur",
+   "aliases": [
+    "Gul Bahadur"
+   ],
+   "role": "Pakistani Taliban leader (North Waziristan); deputy amir of Shura Ittihad-i-Mujahidin",
+   "organizations": [
+    "Pakistani Taliban",
+    "Shura Ittihad-i-Mujahidin"
+   ],
+   "nationality_or_origin": "Pakistani",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Waziristan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "para 15",
+     "quote": "an umbrella group led by Baitullah Mehsud with Gul Bahadur serving as deputy amir"
+    }
+   ]
+  },
+  {
+   "name": "Baitullah Mehsud",
+   "aliases": [
+    "Baitullah Mahsud"
+   ],
+   "role": "TTP leader; amir of Shura Ittihad-i-Mujahidin",
+   "organizations": [
+    "Tehrik-i-Taliban Pakistan",
+    "Shura Ittihad-i-Mujahidin"
+   ],
+   "nationality_or_origin": "Pakistani",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Waziristan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "para 15",
+     "quote": "Baitullah Mehsud's anti-government TTP"
+    }
+   ]
+  },
+  {
+   "name": "Mullah Omar",
+   "aliases": [
+    "Mullah Mohammad Omar"
+   ],
+   "role": "Afghan Taliban leader; led Afghan jihad via Quetta shura; urged Pakistani factions to reconcile",
+   "organizations": [
+    "Taliban",
+    "Quetta Shura"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Baluchistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "para 15",
+     "quote": "Mullah Omar reportedly urged both factions to reconcile their differences"
+    }
+   ]
+  },
+  {
+   "name": "Asif Ali Zardari",
+   "aliases": [],
+   "role": "Pakistani President; reported target of Karachi terrorist cell, June 2009",
+   "organizations": [],
+   "nationality_or_origin": "Pakistani",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Karachi"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "para 13",
+     "quote": "plans to target Pakistani President Asif Ali Zardari and a number of provincial chief ministers"
+    }
+   ]
+  },
+  {
+   "name": "Ayman al-Zawahiri",
+   "aliases": [
+    "Ayman al-Zawahri"
+   ],
+   "role": "senior al-Qa`ida leader who attacked Musharraf and urged Pakistani soldiers to disobey",
+   "organizations": [
+    "al-Qa`ida"
+   ],
+   "nationality_or_origin": "Egyptian",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "para 22",
+     "quote": "Al-Zawahiri Attacks Pakistani President, Urges Army to Topple Him"
+    }
+   ]
+  },
+  {
+   "name": "Yousaf Raza Gilani",
+   "aliases": [
+    "Prime Minister Gilani"
+   ],
+   "role": "Pakistani Prime Minister; alleged target per Long War Journal",
+   "organizations": [],
+   "nationality_or_origin": "Pakistani",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "para 32",
+     "quote": "claims that Prime Minister Gilani and General Kiyani were also targets"
+    }
+   ]
+  },
+  {
+   "name": "Ashfaq Parvez Kayani",
+   "aliases": [
+    "General Kiyani",
+    "Kiyani"
+   ],
+   "role": "Pakistani Army chief; alleged target",
+   "organizations": [
+    "Pakistani Army"
+   ],
+   "nationality_or_origin": "Pakistani",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "para 32",
+     "quote": "Prime Minister Gilani and General Kiyani were also targets"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "al-Qa`ida",
+   "aliases": [
+    "al-Qaeda"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Tehrik-i-Taliban Pakistan",
+    "Taliban"
+   ],
+   "rivals": [
+    "Pakistani government"
+   ],
+   "country_base": "Pakistan",
+   "notes": "Uses FATA as safe haven; shapes Pakistani militant environment as ideologue, force multiplier and mediator."
+  },
+  {
+   "name": "Tehrik-i-Taliban Pakistan",
+   "aliases": [
+    "TTP",
+    "Pakistani Taliban"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qa`ida"
+   ],
+   "rivals": [
+    "Pakistani government"
+   ],
+   "country_base": "Pakistan",
+   "notes": "Described as al-Qa`ida's primary partner in the fight."
+  },
+  {
+   "name": "Shura Ittihad-i-Mujahidin",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Tehrik-i-Taliban Pakistan"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Umbrella group fostered by Mullah Omar, led by Baitullah Mehsud with Gul Bahadur as deputy."
+  },
+  {
+   "name": "Taliban",
+   "aliases": [
+    "Afghan Taliban"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qa`ida"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": ""
+  },
+  {
+   "name": "Quetta Shura",
+   "aliases": [
+    "Quetta shura council"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Baluchistan-based council leading Afghan jihad."
+  },
+  {
+   "name": "al-Sahab",
+   "aliases": [
+    "As-Sahab"
+   ],
+   "type": "other",
+   "parent_or_allies": [
+    "al-Qa`ida"
+   ],
+   "rivals": [],
+   "country_base": "",
+   "notes": "al-Qa`ida media arm; released Mullah Nazir interview April 2009."
+  },
+  {
+   "name": "al-Fajr Media Center",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [
+    "al-Qa`ida"
+   ],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Released al-Libi statement April 30, 2009."
+  },
+  {
+   "name": "Lashkar-i-Jhangvi",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Operational relationship with al-Qa`ida unclear."
+  },
+  {
+   "name": "Jaysh-i-Muhammad",
+   "aliases": [
+    "Jaish-e-Mohammed"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qa`ida"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Kashmiri group reported to have executed Dec 25, 2003 attack planned by al-Qa`ida."
+  },
+  {
+   "name": "Lashkar-i-Tayyiba",
+   "aliases": [
+    "Lashkar-e-Taiba"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Member in Karachi troika; links to al-Qa`ida disputed."
+  },
+  {
+   "name": "Fidayin-i-Islam",
+   "aliases": [
+    "Fedayeen"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Claimed Marriott Hotel bombing."
+  },
+  {
+   "name": "Pakistani Army",
+   "aliases": [],
+   "type": "military",
+   "parent_or_allies": [],
+   "rivals": [
+    "al-Qa`ida"
+   ],
+   "country_base": "Pakistan",
+   "notes": ""
+  },
+  {
+   "name": "Lal Masjid",
+   "aliases": [
+    "Red Mosque"
+   ],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "July 2007 conflict spurred al-Qa`ida calls for jihad."
+  },
+  {
+   "name": "Combating Terrorism Center",
+   "aliases": [
+    "CTC"
+   ],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Publisher."
+  }
+ ],
+ "places": [
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Al-Qa`ida safe haven and target"
+  },
+  {
+   "name": "Federally Administered Tribal Areas",
+   "type": "region",
+   "country": "Pakistan",
+   "parent": "Pakistan",
+   "significance": "Al-Qa`ida's physical center of gravity"
+  },
+  {
+   "name": "Baluchistan",
+   "type": "province",
+   "country": "Pakistan",
+   "parent": "Pakistan",
+   "significance": "Quetta shura base"
+  },
+  {
+   "name": "North-West Frontier Province",
+   "type": "province",
+   "country": "Pakistan",
+   "parent": "Pakistan",
+   "significance": "Part of al-Qa`ida's center of gravity"
+  },
+  {
+   "name": "Waziristan",
+   "type": "region",
+   "country": "Pakistan",
+   "parent": "FATA",
+   "significance": "Pakistani Taliban base"
+  },
+  {
+   "name": "South Waziristan",
+   "type": "region",
+   "country": "Pakistan",
+   "parent": "FATA",
+   "significance": "Mullah Nazir's area"
+  },
+  {
+   "name": "Islamabad",
+   "type": "city",
+   "country": "Pakistan",
+   "parent": "Pakistan",
+   "significance": "Marriott Hotel bombing Sept 2008"
+  },
+  {
+   "name": "Karachi",
+   "type": "city",
+   "country": "Pakistan",
+   "parent": "Sindh",
+   "significance": "Terrorist cell disrupted June 2009"
+  },
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Focus of jihad"
+  }
+ ],
+ "events": [
+  {
+   "date": "2007-07",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Lal Masjid (Red Mosque) conflict erupts; al-Qa`ida renews calls for jihad in Pakistan.",
+   "place": "Islamabad",
+   "actors": [
+    "Lal Masjid",
+    "al-Qa`ida"
+   ],
+   "timestamp": "para 6"
+  },
+  {
+   "date": "2007-09-10",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Abu Yahya al-Libi statement collapsing near/far enemy distinction.",
+   "place": "",
+   "actors": [
+    "Abu Yahya al-Libi"
+   ],
+   "timestamp": "para 26"
+  },
+  {
+   "date": "2007-09-20",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Bin Ladin posts 'Remove the Apostate' on al-Buraq website.",
+   "place": "",
+   "actors": [
+    "Usama bin Ladin"
+   ],
+   "timestamp": "para 24"
+  },
+  {
+   "date": "2003-12-25",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "Double suicide attack on Musharraf, reportedly planned by al-Qa`ida and executed by Jaysh-i-Muhammad.",
+   "place": "Pakistan",
+   "actors": [
+    "Jaysh-i-Muhammad",
+    "al-Qa`ida",
+    "Abu Faraj al-Libi",
+    "Pervez Musharraf"
+   ],
+   "timestamp": "para 13"
+  },
+  {
+   "date": "2008-09",
+   "date_precision": "month",
+   "type": "attack",
+   "description": "Marriott Hotel bombing in Islamabad, claimed by Fidayin-i-Islam, with al-Qa`ida hallmarks.",
+   "place": "Islamabad",
+   "actors": [
+    "Fidayin-i-Islam"
+   ],
+   "timestamp": "para 13"
+  },
+  {
+   "date": "2009-06",
+   "date_precision": "month",
+   "type": "arrest",
+   "description": "Terrorist cell plotting against Zardari disrupted in Karachi.",
+   "place": "Karachi",
+   "actors": [
+    "Asif Ali Zardari"
+   ],
+   "timestamp": "para 13"
+  },
+  {
+   "date": "2007-12",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Conflict between Nazir/Gul Bahadur and Baitullah Mehsud's TTP lasts until mid-2008.",
+   "place": "Waziristan",
+   "actors": [
+    "Mullah Nazir Ahmed",
+    "Hafiz Gul Bahadur",
+    "Baitullah Mehsud"
+   ],
+   "timestamp": "para 15"
+  },
+  {
+   "date": "2009-04-07",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "al-Sahab 56-minute interview with Mullah Nazir.",
+   "place": "South Waziristan",
+   "actors": [
+    "Mullah Nazir Ahmed",
+    "al-Sahab"
+   ],
+   "timestamp": "para 38"
+  },
+  {
+   "date": "2009-04-30",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Abu Yahya al-Libi releases 'Sharpening the Blades of Battle' via al-Fajr.",
+   "place": "",
+   "actors": [
+    "Abu Yahya al-Libi",
+    "al-Fajr Media Center"
+   ],
+   "timestamp": "para 41"
+  },
+  {
+   "date": "2007-07",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Lal Masjid (Red Mosque) conflict erupts; al-Qa`ida uses it to renew calls for jihad against Pakistan.",
+   "place": "Islamabad",
+   "actors": [
+    "Lal Masjid",
+    "al-Qa`ida",
+    "Usama bin Ladin"
+   ],
+   "timestamp": "para 6"
+  },
+  {
+   "date": "2007-09",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Abu Yahya al-Libi statement nullifying near/far enemy distinctions.",
+   "place": "",
+   "actors": [
+    "Abu Yahya al-Libi",
+    "al-Qa`ida"
+   ],
+   "timestamp": "para 7"
+  },
+  {
+   "date": "2003-12",
+   "date_precision": "month",
+   "type": "attack",
+   "description": "Two assassination attempts on Musharraf; one allegedly ordered by Abu Faraj al-Libi.",
+   "place": "Pakistan",
+   "actors": [
+    "Abu Faraj al-Libi",
+    "Pervez Musharraf"
+   ],
+   "timestamp": "para 13"
+  },
+  {
+   "date": "2003-12-25",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "Double suicide attack on Musharraf planned by al-Qa`ida, executed by Jaysh-i-Muhammad.",
+   "place": "Pakistan",
+   "actors": [
+    "al-Qa`ida",
+    "Jaysh-i-Muhammad",
+    "Pervez Musharraf"
+   ],
+   "timestamp": "para 13"
+  },
+  {
+   "date": "2008-09",
+   "date_precision": "month",
+   "type": "attack",
+   "description": "Marriott Hotel bombing in Islamabad, unclaimed but with al-Qa`ida hallmarks.",
+   "place": "Islamabad",
+   "actors": [
+    "al-Qa`ida"
+   ],
+   "timestamp": "para 13"
+  },
+  {
+   "date": "2009-06",
+   "date_precision": "month",
+   "type": "arrest",
+   "description": "A terrorist cell planning to target Zardari and provincial chief ministers was disrupted in Karachi.",
+   "place": "Karachi",
+   "actors": [
+    "Asif Ali Zardari",
+    "Tehrik-i-Taliban Pakistan",
+    "Lashkar-i-Tayyiba",
+    "al-Qa`ida"
+   ],
+   "timestamp": "para 13"
+  },
+  {
+   "date": "2007-12",
+   "date_precision": "month",
+   "type": "offensive",
+   "description": "Start of violent conflict between Nazir/Gul Bahadur and Baitullah Mehsud's TTP, lasting to mid-2008.",
+   "place": "Waziristan",
+   "actors": [
+    "Mullah Nazir Ahmed",
+    "Hafiz Gul Bahadur",
+    "Baitullah Mehsud",
+    "Tehrik-i-Taliban Pakistan"
+   ],
+   "timestamp": "para 15"
+  },
+  {
+   "date": "2008",
+   "date_precision": "approx",
+   "type": "agreement",
+   "description": "Formation of Shura Ittihad-i-Mujahidin under Baitullah Mehsud with Gul Bahadur as deputy, fostered by Mullah Omar.",
+   "place": "Waziristan",
+   "actors": [
+    "Mullah Omar",
+    "Baitullah Mehsud",
+    "Hafiz Gul Bahadur",
+    "Shura Ittihad-i-Mujahidin"
+   ],
+   "timestamp": "para 15"
+  },
+  {
+   "date": "2009-04",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Al-Sahab releases 56-minute video interview with Mullah Nazir declaring the Taliban alliance merged.",
+   "place": "Waziristan",
+   "actors": [
+    "al-Sahab",
+    "Mullah Nazir Ahmed"
+   ],
+   "timestamp": "para 15"
+  },
+  {
+   "date": "2008",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Musharraf leaves office after sustained al-Qa`ida calls for his ouster.",
+   "place": "Pakistan",
+   "actors": [
+    "Pervez Musharraf",
+    "al-Qa`ida"
+   ],
+   "timestamp": "para 5"
+  },
+  {
+   "date": "2004-03-25",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Zawahiri attacks the Pakistani president and urges the army to topple him (al-Jazira).",
+   "place": "",
+   "actors": [
+    "Ayman al-Zawahiri",
+    "Pervez Musharraf",
+    "Pakistani Army"
+   ],
+   "timestamp": "para 22"
+  },
+  {
+   "date": "2006-04-29",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Al-Sahab releases a Zawahiri message urging Pakistani soldiers to disobey orders.",
+   "place": "",
+   "actors": [
+    "Ayman al-Zawahiri",
+    "al-Sahab",
+    "Pakistani Army"
+   ],
+   "timestamp": "para 23"
+  },
+  {
+   "date": "2007-09-20",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Usama bin Ladin's 'Remove the Apostate' is posted on the al-Buraq Islamic Network website.",
+   "place": "",
+   "actors": [
+    "Usama bin Ladin"
+   ],
+   "timestamp": "para 24"
+  },
+  {
+   "date": "2007-09-10",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Abu Yahya al-Libi's 'No Room for International Legitimacy' statement.",
+   "place": "",
+   "actors": [
+    "Abu Yahya al-Libi"
+   ],
+   "timestamp": "para 26"
+  },
+  {
+   "date": "2003-12",
+   "date_precision": "month",
+   "type": "attack",
+   "description": "Attack on Musharraf, followed by arrests (BBC, December 27, 2003); five later received capital punishment (August 2005).",
+   "place": "Pakistan",
+   "actors": [
+    "Pervez Musharraf"
+   ],
+   "timestamp": "para 30"
+  },
+  {
+   "date": "2005-08-28",
+   "date_precision": "day",
+   "type": "other",
+   "description": "Five people sentenced to capital punishment for the attack on Musharraf (Pakistan Times report date).",
+   "place": "Pakistan",
+   "actors": [
+    "Pervez Musharraf"
+   ],
+   "timestamp": "para 30"
+  },
+  {
+   "date": "2007-11",
+   "date_precision": "month",
+   "type": "attack",
+   "description": "Jihadis strike the Pakistani Army and ISI again (analysis of November 25, 2007).",
+   "place": "Pakistan",
+   "actors": [
+    "Pakistani Army"
+   ],
+   "timestamp": "para 31"
+  },
+  {
+   "date": "2009-06-04",
+   "date_precision": "day",
+   "type": "travel",
+   "description": "Seven al-Qa`ida commanders reportedly enter Pakistan, reportedly targeting Pakistani leaders including Gilani and Kayani.",
+   "place": "Pakistan",
+   "actors": [
+    "al-Qa`ida",
+    "Yousaf Raza Gilani",
+    "Ashfaq Parvez Kayani"
+   ],
+   "timestamp": "para 32"
+  },
+  {
+   "date": "2008-09",
+   "date_precision": "month",
+   "type": "attack",
+   "description": "Fidayin-i-Islam claims responsibility for an attack (Dawn, September 23, 2008).",
+   "place": "Pakistan",
+   "actors": [
+    "Fidayin-i-Islam"
+   ],
+   "timestamp": "para 34"
+  },
+  {
+   "date": "2008-07-22",
+   "date_precision": "day",
+   "type": "other",
+   "description": "Asia Times Online reports a plot to divide the Taliban was foiled.",
+   "place": "",
+   "actors": [
+    "Taliban"
+   ],
+   "timestamp": "para 35"
+  },
+  {
+   "date": "2009-03-26",
+   "date_precision": "day",
+   "type": "other",
+   "description": "New York Times reports that Afghan and Pakistan Taliban close ranks.",
+   "place": "",
+   "actors": [
+    "Taliban",
+    "Tehrik-i-Taliban Pakistan"
+   ],
+   "timestamp": "para 37"
+  },
+  {
+   "date": "2009-04-07",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Interview with Mullah Nazir Ahmed, amir of mujahideen in South Waziristan, posted on Jamia Hafsa Forum.",
+   "place": "South Waziristan",
+   "actors": [
+    "Mullah Nazir Ahmed"
+   ],
+   "timestamp": "para 38"
+  },
+  {
+   "date": "2009-04-30",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Abu Yahya al-Libi's 'Sharpening the Blades of Battle Against the Government and Army of Pakistan' released by al-Fajr Media Center.",
+   "place": "",
+   "actors": [
+    "Abu Yahya al-Libi",
+    "al-Fajr Media Center"
+   ],
+   "timestamp": "para 41"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Baitullah Mehsud",
+   "target": "Shura Ittihad-i-Mujahidin",
+   "type": "leads",
+   "detail": "Baitullah Mehsud led the umbrella group.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "para 15",
+   "quote": "an umbrella group led by Baitullah Mehsud with Gul Bahadur serving as deputy amir"
+  },
+  {
+   "source": "Hafiz Gul Bahadur",
+   "target": "Baitullah Mehsud",
+   "type": "deputy_of",
+   "detail": "Gul Bahadur was deputy amir.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "para 15",
+   "quote": "Gul Bahadur serving as deputy amir"
+  },
+  {
+   "source": "Mullah Omar",
+   "target": "Shura Ittihad-i-Mujahidin",
+   "type": "other",
+   "detail": "Omar fostered creation of the umbrella group.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "para 15",
+   "quote": "he also fostered the creation of the Shura Ittihad-i-Mujahidin"
+  },
+  {
+   "source": "Mullah Nazir Ahmed",
+   "target": "Baitullah Mehsud",
+   "type": "rival_of",
+   "detail": "Violent conflict December 2007 to mid-2008.",
+   "date": "2007-12",
+   "confidence": "stated",
+   "timestamp": "para 15",
+   "quote": "were in violent conflict with Baitullah Mehsud's anti-government TTP"
+  },
+  {
+   "source": "al-Qa`ida",
+   "target": "Tehrik-i-Taliban Pakistan",
+   "type": "allied_with",
+   "detail": "TTP is al-Qa`ida's primary partner.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "para 13",
+   "quote": "its primary partner in the fight, Tehrik-i-Taliban Pakistan (TTP)"
+  },
+  {
+   "source": "Abu Faraj al-Libi",
+   "target": "Pervez Musharraf",
+   "type": "other",
+   "detail": "Allegedly ordered assassination attempt.",
+   "date": "2003-12",
+   "confidence": "stated",
+   "timestamp": "para 13",
+   "quote": "allegedly ordered an assassination attempt"
+  },
+  {
+   "source": "Jaysh-i-Muhammad",
+   "target": "al-Qa`ida",
+   "type": "allied_with",
+   "detail": "Executed attack planned by al-Qa`ida.",
+   "date": "2003-12-25",
+   "confidence": "stated",
+   "timestamp": "para 13",
+   "quote": "planned by al-Qa`ida but executed by the Kashmiri group Jaysh-i-Muhammad"
+  },
+  {
+   "source": "Abu Yahya al-Libi",
+   "target": "al-Qa`ida",
+   "type": "member_of",
+   "detail": "Notable al-Qa`ida figure.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "para 7",
+   "quote": "notable al-Qa`ida figure Abu Yahya al-Libi"
+  },
+  {
+   "source": "Mullah Omar",
+   "target": "Quetta Shura",
+   "type": "leads",
+   "detail": "Afghan jihad led by Omar and the Quetta shura.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "para 21",
+   "quote": "led by Mullah Omar and the now Baluchistan-based Quetta shura council"
+  },
+  {
+   "source": "al-Qa`ida",
+   "target": "Mullah Nazir Ahmed",
+   "type": "other",
+   "detail": "al-Sahab interview certified the reconciliation.",
+   "date": "2009-04",
+   "confidence": "stated",
+   "timestamp": "para 15",
+   "quote": "al-Sahab released a 56-minute video interview with Mullah Nazir"
+  },
+  {
+   "source": "al-Qa`ida",
+   "target": "Pakistan",
+   "type": "located_in",
+   "detail": "Since 2001 al-Qa`ida has used Pakistan as an operational safe haven to plan attacks.",
+   "date": "since 2001",
+   "confidence": "stated",
+   "timestamp": "para 1",
+   "quote": "since 2001 Pakistan has served primarily as an operational safe haven where al-Qa`ida and its affiliates can plan local, regional and international terrorist attacks"
+  },
+  {
+   "source": "al-Qa`ida",
+   "target": "Federally Administered Tribal Areas",
+   "type": "located_in",
+   "detail": "The FATA is described as al-Qa`ida's physical center of gravity.",
+   "confidence": "stated",
+   "timestamp": "para 1",
+   "quote": "Pakistan’s Federally Administered Tribal Areas (FATA) and smaller parts of Baluchistan and the North-West Frontier Province (NWFP) comprise al-Qa`ida’s physical center of gravity."
+  },
+  {
+   "source": "al-Qa`ida",
+   "target": "Baluchistan",
+   "type": "located_in",
+   "detail": "Parts of Baluchistan are included in al-Qa`ida's physical center of gravity.",
+   "confidence": "stated",
+   "timestamp": "para 1",
+   "quote": "smaller parts of Baluchistan and the North-West Frontier Province (NWFP) comprise al-Qa`ida’s physical center of gravity"
+  },
+  {
+   "source": "al-Qa`ida",
+   "target": "North-West Frontier Province",
+   "type": "located_in",
+   "detail": "Parts of NWFP are included in al-Qa`ida's physical center of gravity.",
+   "confidence": "stated",
+   "timestamp": "para 1",
+   "quote": "smaller parts of Baluchistan and the North-West Frontier Province (NWFP) comprise al-Qa`ida’s physical center of gravity"
+  },
+  {
+   "source": "al-Qa`ida",
+   "target": "Pervez Musharraf",
+   "type": "rival_of",
+   "detail": "Al-Qa`ida portrayed Musharraf as an apostate and consistently called for his ouster.",
+   "confidence": "stated",
+   "timestamp": "para 5",
+   "quote": "Al-Qa`ida devoted significant energy attempting to portray former Pakistani President Pervez Musharraf as an apostate"
+  },
+  {
+   "source": "al-Qa`ida",
+   "target": "Pakistani Army",
+   "type": "rival_of",
+   "detail": "Al-Qa`ida portrays the Army as a servant of the US campaign and urges soldiers to revolt.",
+   "confidence": "stated",
+   "timestamp": "para 6",
+   "quote": "urging soldiers of the Pakistani Army to revolt against the entity they committed to protect"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "al-Qa`ida",
+   "type": "leads",
+   "detail": "Bin Ladin issued a statement on behalf of al-Qa`ida after Lal Masjid acknowledging its neglect of jihad in Pakistan.",
+   "confidence": "inferred",
+   "timestamp": "para 6",
+   "quote": "Usama bin Ladin publicly acknowledged al-Qa`ida’s failure to prioritize the jihad in Pakistan"
+  },
+  {
+   "source": "al-Qa`ida",
+   "target": "Lal Masjid",
+   "type": "other",
+   "detail": "Al-Qa`ida exploited the July 2007 Lal Masjid conflict to renew calls for jihad in Pakistan.",
+   "date": "2007-07",
+   "confidence": "stated",
+   "timestamp": "para 6",
+   "quote": "al-Qa`ida seized upon the event and used it to renew calls for jihad in Pakistan"
+  },
+  {
+   "source": "Abu Yahya al-Libi",
+   "target": "al-Qa`ida",
+   "type": "member_of",
+   "detail": "Described as a notable al-Qa`ida figure.",
+   "confidence": "stated",
+   "timestamp": "para 7",
+   "quote": "As notable al-Qa`ida figure Abu Yahya al-Libi argued"
+  },
+  {
+   "source": "al-Qa`ida",
+   "target": "Tehrik-i-Taliban Pakistan",
+   "type": "allied_with",
+   "detail": "The TTP is described as al-Qa`ida's primary partner in the fight in Pakistan.",
+   "confidence": "stated",
+   "timestamp": "para 13",
+   "quote": "its primary partner in the fight, Tehrik-i-Taliban Pakistan (TTP) and its associated elements"
+  },
+  {
+   "source": "al-Qa`ida",
+   "target": "Lashkar-i-Jhangvi",
+   "type": "allied_with",
+   "detail": "Operational relationship unclear but groups share a similar cause.",
+   "confidence": "inferred",
+   "timestamp": "para 13",
+   "quote": "the precise nature of al-Qa`ida’s operational relationships with groups such as Lashkar-i-Jhangvi or elements of the TTP are less than clear, these groups share a similar cause"
+  },
+  {
+   "source": "Abu Faraj al-Libi",
+   "target": "al-Qa`ida",
+   "type": "member_of",
+   "detail": "Identified as an al-Qa`ida operative.",
+   "confidence": "stated",
+   "timestamp": "para 13",
+   "quote": "al-Qa`ida operative Abu Faraj al-Libi allegedly ordered an assassination attempt"
+  },
+  {
+   "source": "Jaysh-i-Muhammad",
+   "target": "Pervez Musharraf",
+   "type": "other",
+   "detail": "Jaysh-i-Muhammad executed the December 2003 double suicide attack targeting Musharraf.",
+   "date": "2003-12-25",
+   "confidence": "inferred",
+   "timestamp": "para 13",
+   "quote": "The double suicide attack that was executed on December 25, 2003 was reportedly planned by al-Qa`ida but executed by the Kashmiri group Jaysh-i-Muhammad"
+  },
+  {
+   "source": "Tehrik-i-Taliban Pakistan",
+   "target": "Asif Ali Zardari",
+   "type": "other",
+   "detail": "A Karachi cell including a Pakistani Taliban member planned to target Zardari.",
+   "date": "2009-06",
+   "confidence": "inferred",
+   "timestamp": "para 13",
+   "quote": "one member of the Pakistani Taliban, one member of Lashkar-e-Taiba, and one member of al Qaeda"
+  },
+  {
+   "source": "Lashkar-i-Tayyiba",
+   "target": "Asif Ali Zardari",
+   "type": "other",
+   "detail": "A Karachi cell included a Lashkar-e-Taiba member and planned to target Zardari.",
+   "date": "2009-06",
+   "confidence": "inferred",
+   "timestamp": "para 13",
+   "quote": "one member of the Pakistani Taliban, one member of Lashkar-e-Taiba, and one member of al Qaeda"
+  },
+  {
+   "source": "al-Qa`ida",
+   "target": "Asif Ali Zardari",
+   "type": "other",
+   "detail": "A cell with an al-Qaeda member was disrupted before targeting Zardari.",
+   "date": "2009-06",
+   "confidence": "inferred",
+   "timestamp": "para 13",
+   "quote": "a “major terrorist cell” with plans to target Pakistani President Asif Ali Zardari"
+  },
+  {
+   "source": "Mullah Nazir Ahmed",
+   "target": "Baitullah Mehsud",
+   "type": "rival_of",
+   "detail": "Nazir's group was in violent conflict with Baitullah Mehsud's TTP from Dec 2007 to mid-2008.",
+   "date": "2007-12 to 2008",
+   "confidence": "stated",
+   "timestamp": "para 15",
+   "quote": "Pakistani Taliban groups led by Mullah Nazir Ahmed and Hafiz Gul Bahadur were in violent conflict with Baitullah Mehsud’s anti-government TTP"
+  },
+  {
+   "source": "Hafiz Gul Bahadur",
+   "target": "Baitullah Mehsud",
+   "type": "rival_of",
+   "detail": "Gul Bahadur's group was in violent conflict with Mehsud's TTP.",
+   "date": "2007-12 to 2008",
+   "confidence": "stated",
+   "timestamp": "para 15",
+   "quote": "Pakistani Taliban groups led by Mullah Nazir Ahmed and Hafiz Gul Bahadur were in violent conflict with Baitullah Mehsud’s anti-government TTP"
+  },
+  {
+   "source": "Baitullah Mehsud",
+   "target": "Tehrik-i-Taliban Pakistan",
+   "type": "leads",
+   "detail": "Mehsud's anti-government TTP.",
+   "confidence": "stated",
+   "timestamp": "para 15",
+   "quote": "Baitullah Mehsud’s anti-government TTP"
+  },
+  {
+   "source": "Mullah Omar",
+   "target": "Mullah Nazir Ahmed",
+   "type": "other",
+   "detail": "Mullah Omar reportedly urged the factions to reconcile.",
+   "confidence": "stated",
+   "timestamp": "para 15",
+   "quote": "Mullah Omar reportedly urged both factions to reconcile their differences"
+  },
+  {
+   "source": "Mullah Omar",
+   "target": "Hafiz Gul Bahadur",
+   "type": "other",
+   "detail": "Mullah Omar reportedly urged the factions to reconcile.",
+   "confidence": "stated",
+   "timestamp": "para 15",
+   "quote": "Mullah Omar reportedly urged both factions to reconcile their differences"
+  },
+  {
+   "source": "Mullah Omar",
+   "target": "Baitullah Mehsud",
+   "type": "other",
+   "detail": "Mullah Omar urged Mehsud's faction to reconcile.",
+   "confidence": "stated",
+   "timestamp": "para 15",
+   "quote": "Mullah Omar reportedly urged both factions to reconcile their differences"
+  },
+  {
+   "source": "Mullah Omar",
+   "target": "Shura Ittihad-i-Mujahidin",
+   "type": "other",
+   "detail": "Mullah Omar fostered creation of the umbrella group.",
+   "confidence": "stated",
+   "timestamp": "para 15",
+   "quote": "he also fostered the creation of the Shura Ittihad-i-Mujahidin, an umbrella group"
+  },
+  {
+   "source": "Baitullah Mehsud",
+   "target": "Shura Ittihad-i-Mujahidin",
+   "type": "leads",
+   "detail": "Mehsud leads the umbrella group.",
+   "confidence": "stated",
+   "timestamp": "para 15",
+   "quote": "an umbrella group led by Baitullah Mehsud with Gul Bahadur serving as deputy amir"
+  },
+  {
+   "source": "Hafiz Gul Bahadur",
+   "target": "Baitullah Mehsud",
+   "type": "deputy_of",
+   "detail": "Gul Bahadur serves as deputy amir of the Shura Ittihad-i-Mujahidin under Mehsud.",
+   "confidence": "stated",
+   "timestamp": "para 15",
+   "quote": "Baitullah Mehsud with Gul Bahadur serving as deputy amir"
+  },
+  {
+   "source": "Hafiz Gul Bahadur",
+   "target": "Shura Ittihad-i-Mujahidin",
+   "type": "member_of",
+   "detail": "Deputy amir of the group.",
+   "confidence": "stated",
+   "timestamp": "para 15",
+   "quote": "Gul Bahadur serving as deputy amir"
+  },
+  {
+   "source": "al-Sahab",
+   "target": "al-Qa`ida",
+   "type": "member_of",
+   "detail": "Al-Sahab is al-Qa`ida's media production arm.",
+   "confidence": "stated",
+   "timestamp": "para 15",
+   "quote": "al-Qa`ida’s media production arm al-Sahab"
+  },
+  {
+   "source": "al-Sahab",
+   "target": "Mullah Nazir Ahmed",
+   "type": "other",
+   "detail": "Al-Sahab released a 56-minute video interview with Mullah Nazir in April 2009.",
+   "date": "2009-04",
+   "confidence": "stated",
+   "timestamp": "para 15",
+   "quote": "al-Sahab released a 56-minute video interview with Mullah Nazir"
+  },
+  {
+   "source": "Mullah Nazir Ahmed",
+   "target": "Waziristan",
+   "type": "located_in",
+   "detail": "Nazir cooperates with Taliban groups in Waziristan.",
+   "confidence": "stated",
+   "timestamp": "para 15",
+   "quote": "his cooperation with other Taliban groups in Waziristan"
+  },
+  {
+   "source": "al-Qa`ida",
+   "target": "Mullah Nazir Ahmed",
+   "type": "other",
+   "detail": "Al-Qa`ida influences Nazir and certified the new Taliban alliance.",
+   "confidence": "stated",
+   "timestamp": "para 16",
+   "quote": "Mullah Nazir’s own view of the jihad waged by the Pakistani Taliban reflects the depth of al-Qa`ida’s influence."
+  },
+  {
+   "source": "Abu Yahya al-Libi",
+   "target": "al-Fajr Media Center",
+   "type": "other",
+   "detail": "Al-Libi's April 2009 statement against the Pakistani government and army was released through al-Fajr Media Center.",
+   "date": "2009-04-30",
+   "confidence": "stated",
+   "timestamp": "para 41",
+   "quote": "Abu Yahya al-Libi, \"Sharpening the Blades of Battle Against the Government and Army of Pakistan,\" al-Fajr Media Center, April 30, 2009."
+  },
+  {
+   "source": "Abu Yahya al-Libi",
+   "target": "Pakistani Army",
+   "type": "rival_of",
+   "detail": "Al-Libi called for battle against the Pakistani government and army.",
+   "date": "2009-04-30",
+   "confidence": "stated",
+   "timestamp": "para 41",
+   "quote": "Sharpening the Blades of Battle Against the Government and Army of Pakistan"
+  },
+  {
+   "source": "al-Qa`ida",
+   "target": "Pakistan",
+   "type": "rival_of",
+   "detail": "Al-Qa`ida promotes cooperation of local Pakistani groups opposed to the Pakistani state and facilitates attacks against it.",
+   "confidence": "stated",
+   "timestamp": "para 18",
+   "quote": "al-Qa`ida has redirected substantial energy toward promoting the cooperation and effectiveness of local Pakistani groups opposed to the Pakistani state."
+  },
+  {
+   "source": "al-Qa`ida",
+   "target": "Pakistan",
+   "type": "other",
+   "detail": "Al-Qa`ida serves as a mediator among Pakistani militant groups, taking a supporting role in the anti-government insurgency.",
+   "confidence": "stated",
+   "timestamp": "para 18",
+   "quote": "By rallying support for jihad in Pakistan, helping to facilitate attacks against the Pakistani state, and serving as a mediator, al-Qa`ida has positioned itself"
+  },
+  {
+   "source": "Islamabad",
+   "target": "Pakistan",
+   "type": "located_in",
+   "detail": "Islamabad stands for the Pakistani government, whose alliance with the US al-Qa`ida seeks to undermine.",
+   "confidence": "inferred",
+   "timestamp": "para 18",
+   "quote": "undermine Islamabad's alliance with the United States"
+  },
+  {
+   "source": "Mullah Omar",
+   "target": "Quetta Shura",
+   "type": "leads",
+   "detail": "The Afghan jihad has been led primarily by Mullah Omar and the Quetta shura council.",
+   "confidence": "inferred",
+   "timestamp": "para 21",
+   "quote": "The jihad in Afghanistan has primarily been led by Mullah Omar and the now Baluchistan-based Quetta shura council."
+  },
+  {
+   "source": "Mullah Omar",
+   "target": "Taliban",
+   "type": "leads",
+   "detail": "Mullah Omar leads the Afghan insurgency.",
+   "confidence": "inferred",
+   "timestamp": "para 21",
+   "quote": "The jihad in Afghanistan has primarily been led by Mullah Omar"
+  },
+  {
+   "source": "Quetta Shura",
+   "target": "Baluchistan",
+   "type": "located_in",
+   "detail": "The Quetta shura council is now based in Baluchistan.",
+   "confidence": "stated",
+   "timestamp": "para 21",
+   "quote": "the now Baluchistan-based Quetta shura council"
+  },
+  {
+   "source": "Quetta Shura",
+   "target": "Afghanistan",
+   "type": "other",
+   "detail": "The Quetta shura helps lead the Afghan insurgency.",
+   "confidence": "stated",
+   "timestamp": "para 21",
+   "quote": "The jihad in Afghanistan has primarily been led by Mullah Omar and the now Baluchistan-based Quetta shura council."
+  },
+  {
+   "source": "Ayman al-Zawahiri",
+   "target": "Pervez Musharraf",
+   "type": "rival_of",
+   "detail": "Zawahiri attacked the Pakistani president and urged the army to topple him.",
+   "date": "2004-03-25",
+   "confidence": "stated",
+   "timestamp": "para 22",
+   "quote": "Al-Zawahiri Attacks Pakistani President, Urges Army to Topple Him,\" al-Jazira, March 25, 2004."
+  },
+  {
+   "source": "Ayman al-Zawahiri",
+   "target": "Pakistani Army",
+   "type": "other",
+   "detail": "Zawahiri urged Pakistani soldiers to disobey orders and urged the army to topple Musharraf.",
+   "date": "2006-04-29",
+   "confidence": "stated",
+   "timestamp": "para 23",
+   "quote": "Al-Zawahiri Praises Iraq's Al-Qa`ida, Urges Pakistani Soldiers to Disobey Orders,\" al-Sahab, April 29, 2006."
+  },
+  {
+   "source": "Ayman al-Zawahiri",
+   "target": "al-Sahab",
+   "type": "other",
+   "detail": "Al-Sahab released Zawahiri's April 2006 message.",
+   "date": "2006-04-29",
+   "confidence": "stated",
+   "timestamp": "para 23",
+   "quote": "al-Sahab, April 29, 2006."
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Pervez Musharraf",
+   "type": "rival_of",
+   "detail": "Bin Ladin's statement 'Remove the Apostate' targeted Musharraf, per the document's context of anti-Pakistani-state statements.",
+   "date": "2007-09-20",
+   "confidence": "inferred",
+   "timestamp": "para 24",
+   "quote": "Usama bin Ladin, \"Remove the Apostate,\" posted on the al-Buraq Islamic Network website, September 20, 2007."
+  },
+  {
+   "source": "al-Qa`ida",
+   "target": "Lal Masjid",
+   "type": "other",
+   "detail": "At least four al-Qa`ida statements were released since the Lal Masjid event.",
+   "confidence": "stated",
+   "timestamp": "para 25",
+   "quote": "The author identifies at least four such statements released since the Lal Masjid event."
+  },
+  {
+   "source": "Abu Yahya al-Libi",
+   "target": "Pakistan",
+   "type": "other",
+   "detail": "Al-Libi stated that the US cannot move forward or backward in Afghanistan without Pakistan's support.",
+   "date": "2009-04",
+   "confidence": "stated",
+   "timestamp": "para 18",
+   "quote": "the United States, despite its strength and its developed equipment, cannot go forward or backward without the support of Pakistan"
+  },
+  {
+   "source": "Pervez Musharraf",
+   "target": "al-Qa`ida",
+   "type": "rival_of",
+   "detail": "Jihadis attacked Musharraf; arrests and capital punishments followed, cited in a note on al-Qa`ida links to attacks in Pakistan.",
+   "date": "2003-12",
+   "confidence": "inferred",
+   "timestamp": "para 30",
+   "quote": "Attack on Musharraf; 5 Get Capital Punishment,\" Pakistan Times, August 28, 2005; \"Arrests Follow Musharraf Attack,\" BBC, December 27, 2003."
+  },
+  {
+   "source": "al-Qa`ida",
+   "target": "Pakistani Army",
+   "type": "rival_of",
+   "detail": "Jihadis struck the Pakistani Army and ISI again in November 2007.",
+   "date": "2007-11",
+   "confidence": "inferred",
+   "timestamp": "para 31",
+   "quote": "Jihadis Strike at Pak Army and ISI Again,\" South Asia Analysis Group, November 25, 2007."
+  },
+  {
+   "source": "al-Qa`ida",
+   "target": "Yousaf Raza Gilani",
+   "type": "other",
+   "detail": "Al-Qa`ida operatives reportedly targeted Pakistani leaders including Prime Minister Gilani (Long War Journal claim).",
+   "date": "2009-06-04",
+   "confidence": "stated",
+   "timestamp": "para 32",
+   "quote": "The Long War Journal claims that Prime Minister Gilani and General Kiyani were also targets."
+  },
+  {
+   "source": "al-Qa`ida",
+   "target": "Ashfaq Parvez Kayani",
+   "type": "other",
+   "detail": "Al-Qa`ida operatives reportedly targeted General Kayani (Long War Journal claim).",
+   "date": "2009-06-04",
+   "confidence": "stated",
+   "timestamp": "para 32",
+   "quote": "The Long War Journal claims that Prime Minister Gilani and General Kiyani were also targets."
+  },
+  {
+   "source": "al-Qa`ida",
+   "target": "Pakistan",
+   "type": "other",
+   "detail": "Seven Qaida commanders reportedly entered Pakistan in June 2009.",
+   "date": "2009-06-04",
+   "confidence": "stated",
+   "timestamp": "para 32",
+   "quote": "Seven Qaida Commanders Enter Pakistan,\" Daily Times, June 4, 2009"
+  },
+  {
+   "source": "al-Qa`ida",
+   "target": "Lashkar-i-Tayyiba",
+   "type": "allied_with",
+   "detail": "Links between al-Qa`ida and LeT are asserted, but experts disagree about their strength.",
+   "confidence": "inferred",
+   "timestamp": "para 33",
+   "quote": "significant disagreements exist among academics and counterterrorism professionals about the strength of the links between al-Qa`ida and Lashkar-i-Tayyiba."
+  },
+  {
+   "source": "Fidayin-i-Islam",
+   "target": "Pakistan",
+   "type": "other",
+   "detail": "The previously unknown group Fidayin-i-Islam claimed responsibility for a September 2008 attack in Pakistan.",
+   "date": "2008-09",
+   "confidence": "stated",
+   "timestamp": "para 34",
+   "quote": "An unknown Pakistani group, Fidayin-i-Islam, claimed responsibility for the attack."
+  },
+  {
+   "source": "Taliban",
+   "target": "Tehrik-i-Taliban Pakistan",
+   "type": "allied_with",
+   "detail": "Afghan and Pakistan Taliban were reported to be closing ranks in March 2009.",
+   "date": "2009-03-26",
+   "confidence": "inferred",
+   "timestamp": "para 37",
+   "quote": "Afghan and Pakistan Taliban Close Ranks, New York Times, March 26, 2009."
+  },
+  {
+   "source": "Mullah Nazir Ahmed",
+   "target": "South Waziristan",
+   "type": "located_in",
+   "detail": "Mullah Nazir Ahmed is the amir of mujahideen in South Waziristan.",
+   "date": "2009-04-07",
+   "confidence": "stated",
+   "timestamp": "para 38",
+   "quote": "Interview with the Amir of Mujihadeen in South Waziristan / Mullah Nazir Ahmed,\" Jamia Hafsa Forum, April 7, 2009."
+  },
+  {
+   "source": "Mullah Nazir Ahmed",
+   "target": "Shura Ittihad-i-Mujahidin",
+   "type": "member_of",
+   "detail": "Nazir is an amir of mujahideen in South Waziristan; the document elsewhere ties him to the Shura Ittihad-i-Mujahidin (inferred).",
+   "confidence": "inferred",
+   "timestamp": "para 38",
+   "quote": "Interview with the Amir of Mujihadeen in South Waziristan / Mullah Nazir Ahmed"
+  }
+ ],
+ "sources_cited": [
+  "OSC translations of al-Zawahiri interview (April 22, 2008)",
+  "al-Jazira, March 25, 2004",
+  "al-Sahab, April 29, 2006",
+  "Bin Ladin, 'Remove the Apostate', Sept 20, 2007",
+  "Abu Yahya al-Libi, 'Sharpening the Blades of Battle', al-Fajr, April 30, 2009",
+  "Daily Times, June 4, 2009",
+  "Dawn, June 6, 2009",
+  "Long War Journal, Bill Roggio, June 4, 2009",
+  "Asia Times Online, July 22, 2008",
+  "New York Times, March 26, 2009",
+  "Jamia Hafsa Forum interview with Mullah Nazir, April 7, 2009"
+ ],
+ "key_claims": [
+  "Al-Qa`ida's Pakistan strategy has shifted toward promoting confrontation with the Pakistani state while playing a secondary operational role.",
+  "Al-Qa`ida acts through three roles: religious justification, force multiplier, and mediator/coalition builder.",
+  "The Lal Masjid conflict of July 2007 was the turning point for al-Qa`ida's calls for jihad in Pakistan.",
+  "Al-Qa`ida defers leadership to local militants to protect its safe haven in FATA.",
+  "Al-Qa`ida certified the reconciliation between Nazir/Gul Bahadur and Baitullah Mehsud via the al-Sahab interview.",
+  "Abu Yahya al-Libi conflated near and far enemies, treating the US, Pakistan and Afghanistan as a single enemy."
+ ]
+}

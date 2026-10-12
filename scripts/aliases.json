@@ -69,7 +69,10 @@
    "Bin Laden",
    "OBL",
    "Usama bin Laden",
-   "Osama Bin Ladin"
+   "Osama Bin Ladin",
+   "Usama bin Ladin",
+   "Bin Ladin",
+   "Usama Bin Ladin"
   ],
   "Hamza bin Laden": [
    "Hamza Bin Ladin",
@@ -226,10 +229,15 @@
    "Maulana Masood Azhar"
   ],
   "Abu Hamza al-Muhajir": [],
-  "Abdullah Azzam": [],
+  "Abdullah Azzam": [
+   "'Abdullah 'Azzam",
+   "Abdallah Azzam"
+  ],
   "Khalid Sheikh Mohammed": [
    "KSM",
-   "Khalid Shaikh Mohammad"
+   "Khalid Shaikh Mohammad",
+   "Khalid Shaykh Muhammad",
+   "Khalid Shaikh Mohammed"
   ],
   "Abu Zubaydah": [],
   "Amin ul-Haq": [
@@ -334,6 +342,175 @@
    "Abd al-Hadi al-Iraqi",
    "Abd al Hadi al-Iraqi",
    "Nashwan al-Tamir"
+  ],
+  "Muhammad Atef": [
+   "Abu Hafs al-Masri",
+   "Abu Hafs",
+   "Muhammad Atif",
+   "Mohammed Atef"
+  ],
+  "Abdul Rasul Sayyaf": [
+   "'Abd al-Rabb Rasul Sayyaf",
+   "'Abd al-Rabb al-Rasul Sayyaf",
+   "Abd al-Rabb al-Rasul Sayyaf",
+   "Abd al-Rabb Rasul Sayyaf",
+   "Professor Sayyaf",
+   "Abdul Rab Rasul Sayyaf"
+  ],
+  "Mullah Sangeen Zadran": [
+   "Mullah Sangeen",
+   "Mawlawi Sangeen",
+   "Sangeen Zadran"
+  ],
+  "Humam al-Balawi": [
+   "Humam Khalil Abu-Mulal al-Balawi",
+   "Abu Dujanah al-Khorasani",
+   "Abu Dujanah al-Khurasani",
+   "Abu Dujana al-Khorasani"
+  ],
+  "Atiyah Abd al-Rahman": [
+   "Attiyat Allah",
+   "Atiyatullah",
+   "Atiyah Abd al-Rahman al-Libi"
+  ],
+  "Nasser al-Bahri": [
+   "Nasir al-Bahri",
+   "Abu Jandal"
+  ],
+  "Mike Mullen": [
+   "Michael Mullen",
+   "Admiral Michael Mullen",
+   "Admiral Mullen"
+  ],
+  "Mustafa Hamid": [
+   "Abu'l Walid al-Masri",
+   "Abu'l-Walid al-Masri",
+   "Abu al-Walid al-Masri",
+   "Abu Walid al-Masri",
+   "Abu'l-Walid",
+   "Mustafa Hamid Abu al-Walid",
+   "Hashim al-Makki"
+  ],
+  "Yunus Khalis": [
+   "Yunis Khalis",
+   "Mawlawi Yunis Khalis",
+   "Mawlawi Yunus Khalis",
+   "Younis Khalis"
+  ],
+  "Mohammad Daoud Khan": [
+   "Muhammad Daoud",
+   "Daoud Khan",
+   "Mohammad Daoud",
+   "Mohammed Daoud Khan",
+   "Sardar Mohammad Daoud Khan"
+  ],
+  "Mawlawi Hanif Shah": [
+   "Hanif Shah",
+   "Commander Mawlawi Hanif Shah"
+  ],
+  "Mawlawi Aziz Khan": [
+   "Mawlawi 'Aziz Khan",
+   "Aziz Khan"
+  ],
+  "Abu Dujanah al-San'ani": [
+   "Abu-Dujanah al-San`ani",
+   "Abu Dujanah al-Sanaani",
+   "Mohammed Naqaa al-Hamli",
+   "Mohammed Naqaa al-Hamali"
+  ],
+  "Saddam Hussein al-Hussami": [
+   "Ghazwan al-Yemeni",
+   "al-Hussami al-Yemeni"
+  ],
+  "Sami ul-Haq": [
+   "Sami al-Haq",
+   "Samiul Haq",
+   "Maulana Sami ul-Haq"
+  ],
+  "Fazlur Rehman": [
+   "Fazlur Rahman",
+   "Mawlana Fazlur Rahman",
+   "Maulana Fazlur Rehman"
+  ],
+  "Fazlur Rehman Khalil": [
+   "Fazlur Rahman Khalil",
+   "Fazal-ur-Rehman Khalil"
+  ],
+  "Abu Ubaidah al-Banshiri": [
+   "Abu 'Ubayda al-Banshiri",
+   "Abu Ubayda al-Banshiri"
+  ],
+  "Zaki-ur-Rehman Lakhvi": [
+   "Zakiur Rahman Lakhvi",
+   "Zakiur Rehman Lakhvi"
+  ],
+  "Ashfaq Parvez Kayani": [
+   "Ashfaq Kayani",
+   "General Kayani"
+  ],
+  "Mohammad Najibullah": [
+   "Najibullah",
+   "President Najibullah",
+   "Dr. Najibullah"
+  ],
+  "Fazul Abdullah Mohammed": [
+   "Abdullah Muhammad Fazul",
+   "Harun Fazul",
+   "Fazul Abdullah Muhammad"
+  ],
+  "Badruddin Haqqani": [
+   "Badruddin"
+  ],
+  "Nasiruddin Haqqani": [
+   "Nasiruddin"
+  ],
+  "Jan Baz Zadran": [
+   "Janbaz Zadran"
+  ],
+  "Mike McConnell": [
+   "John Michael McConnell"
+  ],
+  "Noman Benotman": [
+   "Numan Benotman"
+  ],
+  "Abu Sulayman al-Utaybi": [
+   "Abu Sulaiman al-Otaibi"
+  ],
+  "Abu Hasan al-Saidi": [
+   "Abu-Hasan al-Sa'idi"
+  ],
+  "Abu Jafar al-Qandahari": [
+   "Abu Ja'far al-Qandahari",
+   "Ayman Sabri Faraj",
+   "Abu Ja'far al-Masri al-Qandahari"
+  ],
+  "Enaam Arnaout": [
+   "Abu Mahmud al-Suri"
+  ],
+  "Tahir Yuldashev": [
+   "Muhammad Tahir Yuldashev",
+   "Tohir Yoldosh"
+  ],
+  "Stanley McChrystal": [
+   "Stanley A. McChrystal",
+   "General McChrystal"
+  ],
+  "Mustafa Abu al-Yazid": [
+   "Mustafa Abu'l-Yazid",
+   "Shaykh Said al-Masri",
+   "Sheikh Saeed al-Masri"
+  ],
+  "Abu Musab al-Suri": [
+   "Abu Mus`ab al-Suri",
+   "Mustafa Setmariam Nasar"
+  ],
+  "Ahmad Zaidan": [
+   "Ahmad Zaydan"
+  ],
+  "Mullah Nazir": [
+   "Mullah Nazir Ahmed",
+   "Maulvi Nazir",
+   "Mullah Nazir Ahmad"
   ]
  },
  "organizations": {
@@ -358,7 +535,10 @@
    "al-Qaeda core",
    "AQ core",
    "Al-Qaeda Central",
-   "Kida"
+   "Kida",
+   "al-Qa'ida",
+   "al-Qa`ida",
+   "al-Qaida"
   ],
   "al-Qaeda in the Indian Subcontinent": [
    "AQIS",
@@ -373,7 +553,9 @@
    "Tehrik-e-Taliban Pakistan",
    "Tehrik-e-Taliban Pakistan (TTP)",
    "Tehrik-e Taliban-e Pakistan",
-   "Tehrik-e-Taliban-e Pakistan"
+   "Tehrik-e-Taliban-e Pakistan",
+   "Tehrik-e Taliban Pakistan",
+   "Tehrik-i Taliban Pakistan"
   ],
   "Islamic State Khorasan Province": [
    "ISKP",
@@ -396,7 +578,8 @@
    "ISI",
    "Pakistani ISI",
    "Pakistan's ISI",
-   "Pakistani intelligence"
+   "Pakistani intelligence",
+   "Inter-Services Intelligence Directorate"
   ],
   "Pakistan Army": [
    "Pakistani military",
@@ -525,6 +708,74 @@
    "Foreign and Commonwealth Office",
    "FCO",
    "UK Foreign Office"
+  ],
+  "Hizb-e-Islami Khalis": [
+   "Hizb-e-Islami (Khalis faction)",
+   "Hizb-e-Islami (Khalis)",
+   "Hizb-e Islami (Khalis)",
+   "Hezb-e-Islami Khalis",
+   "HIK"
+  ],
+  "Hizb-e-Islami Gulbuddin": [
+   "Hizb-i-Islami Gulbuddin",
+   "Hezb-e Islami Gulbuddin",
+   "Hezb-e-Islami Gulbuddin",
+   "HIG",
+   "Hizb-e Islami Hekmatyar"
+  ],
+  "Jamiat Ulema-e-Islam": [
+   "Jamiat-e-Ulama-e-Islam",
+   "Jamiat Ulema-e Islam",
+   "JUI"
+  ],
+  "Harakat-ul-Mujahidin": [
+   "Harakat ul-Mujahidin",
+   "HuM",
+   "Harakat al-Ansar",
+   "Harakat ul-Ansar"
+  ],
+  "Maktab al-Khidamat": [
+   "MAK",
+   "Afghan Services Bureau"
+  ],
+  "Manba al-Jihad": [
+   "Manba' al-Jihad"
+  ],
+  "Manba al-Ulum madrassa": [
+   "Manba' al-'Ulum madrassa",
+   "Manba' al-'Ulum"
+  ],
+  "Darul Uloom Haqqania": [
+   "Dar al-'Ulum Haqqaniyya",
+   "Haqqaniyya madrassa"
+  ],
+  "al-Qaeda in Iraq": [
+   "al-Qa'ida in Iraq",
+   "AQI"
+  ],
+  "Central Intelligence Agency": [
+   "CIA"
+  ],
+  "Defense Intelligence Agency": [
+   "DIA"
+  ],
+  "Islamic Jihad Union": [
+   "IJU"
+  ],
+  "Libyan Islamic Fighting Group": [
+   "LIFG"
+  ],
+  "Harakat-ul-Jihad al-Islami": [
+   "HuJI"
+  ],
+  "Benevolence International Foundation": [
+   "BIF"
+  ],
+  "Eritrean Islamic Jihad Movement": [
+   "EIJM"
+  ],
+  "al-Sahab": [
+   "As-Sahab"
   ]
  },
  "places": {
@@ -621,6 +872,17 @@
    "U.S.",
    "US",
    "America"
+  ],
+  "Federally Administered Tribal Areas": [
+   "FATA"
+  ],
+  "Zhawara": [
+   "Zhawar",
+   "Zhawar Kili"
+  ],
+  "Lajja": [
+   "Lizha",
+   "Lezhi"
   ]
  }
 }

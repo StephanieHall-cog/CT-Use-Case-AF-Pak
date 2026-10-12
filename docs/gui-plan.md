@@ -19,10 +19,13 @@ start without re-reading the extraction pipeline.
 | Mentions with role-in-episode and locations | `mentions` | Entity → episode list; "where was X placed" |
 | `dataset` real \| synthetic, `S`-prefixed synthetic IDs | every table | Global real/synthetic filter; mandatory badge |
 | Episode metadata + transcript path | `episodes` | Source viewer: jump to timestamp in transcript |
+| Official biodata: UN 1988 Sanctions List (140 listings; 20 Haqqani-Network-linked) and FBI Wanted – Terrorism (54 items) — aliases, original-script names, DOB/POB, addresses, passports, designation, physical description, reward, narrative summary, photo URL, INTERPOL link | `profiles`, `entities.sources`, `aliases.source` | "Official profile" tab on the entity page; source chips (podcast / UN / FBI) on nodes; photo + identifiers for FBI subjects; link-out to the UN narrative and FBI poster |
+| UN-stated family / command links (`son_of`, `brother_of`, `uncle_of`, `founder_of`, `leader_of`, `deputy_of`, `subordinate_of`) with the UN sentence as quote | `relationships.source='un_1988'` | Fourth edge style (official listing); "official only" toggle; family tree for the Haqqani clan |
 
 Not in the data (do not promise it in the GUI): geocoordinates (places are names + parent
-place only), imagery, identifiers beyond names, independently adjudicated facts. Every
-assertion is "the podcast said" — the UI must say so.
+place only), independently adjudicated facts, and — for anyone without a UN/FBI profile —
+imagery or identifiers beyond names. Every podcast assertion is "the podcast said"; every
+profile field is "as listed by the UN 1988 Committee / FBI on <date>" — the UI must say which.
 
 ## 2. Edge semantics to encode in the renderer
 
@@ -41,7 +44,7 @@ Direction convention: `source` acts on / belongs to `target` (A `sheltered_by` B
 ## 3. Screens
 
 1. **Search / landing** — one box searching `entities.name` + `aliases.alias`; result rows show kind, dataset badge, n_episodes, status.
-2. **Entity page** (person / org / place) — header (name, aliases, role, status with "as of" date), tabs: Relationships (table + mini-graph), Events, Episodes (mentions with timestamp links), Family (persons), Roster (orgs), Located-here (places).
+2. **Entity page** (person / org / place) — header (name, aliases, role, status with "as of" date, source chips), tabs: Relationships (table + mini-graph), Events, Episodes (mentions with timestamp links), Family (persons), Roster (orgs), Located-here (places), **Official profile** (one card per `profiles` row: UN reference + listed-on + designation + DOB/POB + addresses + documents + narrative; FBI category + photo + physical description + reward + caution text; each card links out to its source URL and shows the snapshot date).
 3. **Link chart** — Cytoscape.js or Sigma.js over `db/exports/graph.json`. Controls: degree (1/2), edge-type checkboxes, stated/inferred/derived toggles, dataset filter, time window (by episode publish date), min-episodes slider for nodes. Click edge → evidence drawer (quote, episode title, timestamp, "open transcript").
 4. **Timeline** — `events` + dated relationships; swimlanes by organization; precision shown (year/month/day).
 5. **Events & Mapping** — Leaflet map + synchronized timeline over two layers that must stay visually distinct:

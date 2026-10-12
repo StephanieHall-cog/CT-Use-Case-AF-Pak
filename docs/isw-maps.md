@@ -119,6 +119,6 @@ legend + image corner coordinates for overlays), `place_coords.csv/json`.
 | [Ttp Attacks and Locations of Deportations of Afghan Refugees in Pakistan Between August and October 2023](https://understandingwar.org/map/ttp-attacks-and-locations-of-deportations-of-afghan-refugees-in-pakistan-between-august-and-october-2023/) | 2023-08-01 → 2023-10-31 | October 13, 2023 | event_points | 56 (56) | 4 | 11.6 |
 | [Satellite View of Miram Shah, The Headquarters of North Waziristan](https://understandingwar.org/map/satellite-view/) |  | 2025-05-15 | reference | 1 (1) | 0 | — |
 
-**58 maps · 1986 plots · 1930 geocoded** · map_text rows: 601 · place_coords: 95
+**58 maps · 1986 plots · 1930 geocoded** · map_text rows: 601 · place_coords: 100
 
 Plots by event_type: attack 830, control 327, presence 181, support_zone 122, security_operation 109, contested 94, base 67, hq 64, other 51, operation 48, protest 34, closure 22, activity 13, supply_zone 7, sanctuary 4, mining_project 4, infiltration route 3, governor_appointment 3, deportation 2, clash 1

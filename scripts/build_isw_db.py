@@ -133,6 +133,7 @@ def load_isw(con, R=None, gaz=None, verbose=True):
     cols = {r[1] for r in con.execute("PRAGMA table_info(events)")}
     if "source" not in cols: con.execute("ALTER TABLE events ADD COLUMN source TEXT DEFAULT 'podcast'")
     if "map_plot_id" not in cols: con.execute("ALTER TABLE events ADD COLUMN map_plot_id INTEGER")
+    if "doc_id" in cols: con.execute("UPDATE events SET source='document' WHERE doc_id IS NOT NULL AND (source IS NULL OR source='podcast')")
     ent_ids = {r[0] for r in con.execute("SELECT id FROM entities")}
     man = {m["slug"]: m for m in json.load(open(os.path.join(ROOT, "isw", "manifest.json")))}
     from build_db import eid  # deterministic ids shared with the podcast build
