@@ -1,105 +1,528 @@
 {
  "_comment": "Canonical name -> known aliases/mis-hearings. Matching is case/diacritic-insensitive after normalize(). Extend after reviewing scripts/review_names.py output.",
  "persons": {
-  "Sirajuddin Haqqani": ["Siraj Haqqani", "Siraj Hakani", "Sirajuddin Hakani", "Siraj", "Khalifa Siraj", "Sirajuddin Haqani"],
-  "Jalaluddin Haqqani": ["Jalaludin Haqqani", "Jalaluddin Hakani"],
-  "Khalil Haqqani": ["Khalil ur-Rahman Haqqani", "Khalil-ur-Rahman Haqqani", "Khalil Hakani", "Khalil al-Rahman Haqqani"],
-  "Anas Haqqani": ["Anas Hakani"],
-  "Abdul Aziz Haqqani": ["Aziz Haqqani"],
-  "Hibatullah Akhundzada": ["Haibatullah Akhundzada", "Hibatullah Akundzada", "Haibatullah Akhunzada", "Hibatullah", "Mullah Hibatullah", "Sheikh Hibatullah", "Hebatullah Akhundzada"],
-  "Mullah Mohammad Omar": ["Mullah Omar", "Mohammed Omar", "Mullah Muhammad Omar"],
-  "Mullah Mohammad Yaqoob": ["Mullah Yaqoob", "Mohammad Yaqoob", "Mullah Yacoub", "Yaqoob Mujahid", "Mullah Yaqub"],
-  "Abdul Ghani Baradar": ["Mullah Baradar", "Baradar", "Mullah Abdul Ghani Baradar", "Bradar"],
-  "Akhtar Mohammad Mansour": ["Mullah Mansour", "Akhtar Mansour", "Mullah Akhtar Mansour", "Mullah Mansoor"],
-  "Ayman al-Zawahiri": ["Zawahiri", "Zawahari", "Ayman al Zawahiri", "Aiman al-Zawahiri", "Dr. Zawahiri"],
-  "Osama bin Laden": ["Bin Laden", "OBL", "Usama bin Laden", "Osama Bin Ladin"],
-  "Hamza bin Laden": ["Hamza Bin Ladin", "Hamza"],
-  "Saif al-Adel": ["Saif al Adel", "Sayf al-Adl", "Saif al-Adl", "Seif al-Adel", "Mohammed Salah al-Din Zaidan"],
-  "Abu Muhammad al-Masri": ["Abu Mohammed al-Masri", "Abdullah Ahmed Abdullah", "Abu Muhammad al Masri"],
-  "Abd al-Rahman al-Maghrebi": ["Abdul Rahman al-Maghrebi", "al-Maghrebi", "Abderrahman al-Maghrebi"],
-  "Husam Abd al-Rauf": ["Abu Muhsin al-Masri", "Hussam Abdul Rauf", "Abu Mohsen al-Masri"],
+  "Sirajuddin Haqqani": [
+   "Siraj Haqqani",
+   "Siraj Hakani",
+   "Sirajuddin Hakani",
+   "Siraj",
+   "Khalifa Siraj",
+   "Sirajuddin Haqani"
+  ],
+  "Jalaluddin Haqqani": [
+   "Jalaludin Haqqani",
+   "Jalaluddin Hakani"
+  ],
+  "Khalil Haqqani": [
+   "Khalil ur-Rahman Haqqani",
+   "Khalil-ur-Rahman Haqqani",
+   "Khalil Hakani",
+   "Khalil al-Rahman Haqqani"
+  ],
+  "Anas Haqqani": [
+   "Anas Hakani"
+  ],
+  "Abdul Aziz Haqqani": [
+   "Aziz Haqqani"
+  ],
+  "Hibatullah Akhundzada": [
+   "Haibatullah Akhundzada",
+   "Hibatullah Akundzada",
+   "Haibatullah Akhunzada",
+   "Hibatullah",
+   "Mullah Hibatullah",
+   "Sheikh Hibatullah",
+   "Hebatullah Akhundzada"
+  ],
+  "Mullah Mohammad Omar": [
+   "Mullah Omar",
+   "Mohammed Omar",
+   "Mullah Muhammad Omar"
+  ],
+  "Mullah Mohammad Yaqoob": [
+   "Mullah Yaqoob",
+   "Mohammad Yaqoob",
+   "Mullah Yacoub",
+   "Yaqoob Mujahid",
+   "Mullah Yaqub"
+  ],
+  "Abdul Ghani Baradar": [
+   "Mullah Baradar",
+   "Baradar",
+   "Mullah Abdul Ghani Baradar",
+   "Bradar"
+  ],
+  "Akhtar Mohammad Mansour": [
+   "Mullah Mansour",
+   "Akhtar Mansour",
+   "Mullah Akhtar Mansour",
+   "Mullah Mansoor"
+  ],
+  "Ayman al-Zawahiri": [
+   "Zawahiri",
+   "Zawahari",
+   "Ayman al Zawahiri",
+   "Aiman al-Zawahiri",
+   "Dr. Zawahiri"
+  ],
+  "Osama bin Laden": [
+   "Bin Laden",
+   "OBL",
+   "Usama bin Laden",
+   "Osama Bin Ladin"
+  ],
+  "Hamza bin Laden": [
+   "Hamza Bin Ladin",
+   "Hamza"
+  ],
+  "Saif al-Adel": [
+   "Saif al Adel",
+   "Sayf al-Adl",
+   "Saif al-Adl",
+   "Seif al-Adel",
+   "Mohammed Salah al-Din Zaidan"
+  ],
+  "Abu Muhammad al-Masri": [
+   "Abu Mohammed al-Masri",
+   "Abdullah Ahmed Abdullah",
+   "Abu Muhammad al Masri"
+  ],
+  "Abd al-Rahman al-Maghrebi": [
+   "Abd al-Rahman al-Maghrabi",
+   "Abderrahman al-Maghrebi",
+   "Abdul Rahman al-Maghrebi",
+   "al-Maghrebi"
+  ],
+  "Husam Abd al-Rauf": [
+   "Abu Muhsin al-Masri",
+   "Hussam Abdul Rauf",
+   "Abu Mohsen al-Masri"
+  ],
   "Abu Ikhlas al-Masri": [],
-  "Farouq al-Qahtani": ["Faruq al-Qahtani", "Farouk al-Qatari"],
-  "Asim Umar": ["Maulana Asim Umar", "Sanaul Haq"],
-  "Osama Mahmood": ["Usama Mahmood", "Osama Mehmood"],
-  "Noor Wali Mehsud": ["Mufti Noor Wali Mehsud", "Nur Wali Mehsud", "Noor Wali"],
-  "Baitullah Mehsud": ["Beitullah Mehsud"],
+  "Farouq al-Qahtani": [
+   "Faruq al-Qahtani",
+   "Farouk al-Qatari"
+  ],
+  "Asim Umar": [
+   "Maulana Asim Umar",
+   "Sanaul Haq"
+  ],
+  "Osama Mahmood": [
+   "Usama Mahmood",
+   "Osama Mehmood"
+  ],
+  "Noor Wali Mehsud": [
+   "Mufti Noor Wali Mehsud",
+   "Nur Wali Mehsud",
+   "Noor Wali"
+  ],
+  "Baitullah Mehsud": [
+   "Beitullah Mehsud"
+  ],
   "Hakimullah Mehsud": [],
-  "Mullah Fazlullah": ["Fazlullah", "Maulana Fazlullah"],
-  "Sanaullah Ghafari": ["Shahab al-Muhajir", "Shihab al-Muhajir", "Sanaullah Ghafari (Shahab al-Muhajir)"],
-  "Abu Bakr al-Baghdadi": ["Baghdadi"],
-  "Zalmay Khalilzad": ["Khalilzad", "Zal Khalilzad"],
-  "Ashraf Ghani": ["Ghani", "President Ghani"],
-  "Hamid Karzai": ["Karzai"],
-  "Amrullah Saleh": ["Saleh"],
-  "Ahmad Massoud": ["Ahmad Masood", "Massoud", "Ahmad Shah Massoud Jr."],
-  "Ahmad Shah Massoud": ["Ahmed Shah Massoud", "Massoud (senior)"],
-  "Sami Sadat": ["Lt. Gen. Sami Sadat", "General Sami Sadat", "Lieutenant General Sami Sadat"],
-  "Abdul Hakim Haqqani": ["Abdul Hakim Ishaqzai", "Sheikh Abdul Hakim"],
-  "Zabihullah Mujahid": ["Zabiullah Mujahid"],
-  "Suhail Shaheen": ["Sohail Shaheen"],
-  "Amir Khan Muttaqi": ["Muttaqi"],
-  "Mohammad Hassan Akhund": ["Mullah Hassan Akhund", "Hasan Akhund"],
-  "Abdul Qayyum Zakir": ["Mullah Zakir", "Qayyum Zakir"],
-  "Ibrahim Sadr": ["Mullah Ibrahim Sadr"],
-  "Tajmir Jawad": ["Taj Mir Jawad"],
-  "Mullah Dadullah": ["Dadullah"],
-  "Asim Munir": ["General Asim Munir", "Gen. Munir"],
-  "Qamar Javed Bajwa": ["General Bajwa", "Bajwa"],
-  "Faiz Hameed": ["Lt. Gen. Faiz Hameed", "General Faiz Hameed"],
+  "Mullah Fazlullah": [
+   "Fazlullah",
+   "Maulana Fazlullah"
+  ],
+  "Sanaullah Ghafari": [
+   "Shahab al-Muhajir",
+   "Shihab al-Muhajir",
+   "Sanaullah Ghafari (Shahab al-Muhajir)"
+  ],
+  "Abu Bakr al-Baghdadi": [
+   "Baghdadi"
+  ],
+  "Zalmay Khalilzad": [
+   "Khalilzad",
+   "Zal Khalilzad"
+  ],
+  "Ashraf Ghani": [
+   "Ghani",
+   "President Ghani"
+  ],
+  "Hamid Karzai": [
+   "Karzai"
+  ],
+  "Amrullah Saleh": [
+   "Saleh"
+  ],
+  "Ahmad Massoud": [
+   "Ahmad Masood",
+   "Ahmad Masoud",
+   "Ahmad Massoud (NRF)",
+   "Ahmad Shah Massoud Jr.",
+   "Massoud"
+  ],
+  "Ahmad Shah Massoud": [
+   "Ahmed Shah Massoud",
+   "Massoud (senior)"
+  ],
+  "Sami Sadat": [
+   "Lt. Gen. Sami Sadat",
+   "General Sami Sadat",
+   "Lieutenant General Sami Sadat"
+  ],
+  "Abdul Hakim Haqqani": [
+   "Abdul Hakim Ishaqzai",
+   "Sheikh Abdul Hakim"
+  ],
+  "Zabihullah Mujahid": [
+   "Zabiullah Mujahid"
+  ],
+  "Suhail Shaheen": [
+   "Sohail Shaheen"
+  ],
+  "Amir Khan Muttaqi": [
+   "Muttaqi"
+  ],
+  "Mohammad Hassan Akhund": [
+   "Mullah Hassan Akhund",
+   "Hasan Akhund"
+  ],
+  "Abdul Qayyum Zakir": [
+   "Mullah Zakir",
+   "Qayyum Zakir"
+  ],
+  "Ibrahim Sadr": [
+   "Mullah Ibrahim Sadr"
+  ],
+  "Tajmir Jawad": [
+   "Taj Mir Jawad"
+  ],
+  "Mullah Dadullah": [
+   "Dadullah"
+  ],
+  "Asim Munir": [
+   "General Asim Munir",
+   "Gen. Munir"
+  ],
+  "Qamar Javed Bajwa": [
+   "General Bajwa",
+   "Bajwa"
+  ],
+  "Faiz Hameed": [
+   "Lt. Gen. Faiz Hameed",
+   "General Faiz Hameed"
+  ],
   "Imran Khan": [],
-  "Shehbaz Sharif": ["Shahbaz Sharif"],
-  "Pervez Musharraf": ["Musharraf"],
-  "Qassem Soleimani": ["Qasem Soleimani", "Soleimani"],
-  "Edmund Fitton-Brown": ["Fitton-Brown", "Edmund"],
-  "Hafiz Saeed": ["Hafiz Muhammad Saeed"],
-  "Masood Azhar": ["Maulana Masood Azhar"],
+  "Shehbaz Sharif": [
+   "Shahbaz Sharif"
+  ],
+  "Pervez Musharraf": [
+   "Musharraf"
+  ],
+  "Qassem Soleimani": [
+   "Qasem Soleimani",
+   "Soleimani"
+  ],
+  "Edmund Fitton-Brown": [
+   "Fitton-Brown",
+   "Edmund"
+  ],
+  "Hafiz Saeed": [
+   "Hafiz Muhammad Saeed"
+  ],
+  "Masood Azhar": [
+   "Maulana Masood Azhar"
+  ],
   "Abu Hamza al-Muhajir": [],
   "Abdullah Azzam": [],
-  "Khalid Sheikh Mohammed": ["KSM", "Khalid Shaikh Mohammad"],
+  "Khalid Sheikh Mohammed": [
+   "KSM",
+   "Khalid Shaikh Mohammad"
+  ],
   "Abu Zubaydah": [],
-  "Amin ul-Haq": ["Amin al-Haq", "Dr. Amin al-Haq"],
-  "Yasin al-Suri": ["Ezedin Abdel Aziz Khalil"],
+  "Amin ul-Haq": [
+   "Amin al-Haq",
+   "Dr. Amin al-Haq"
+  ],
+  "Yasin al-Suri": [
+   "Ezedin Abdel Aziz Khalil"
+  ],
   "Abu Hafs al-Mauritani": [],
-  "Mahfouz Ould al-Walid": ["Abu Hafs al-Mauritani"]
+  "Mahfouz Ould al-Walid": [
+   "Abu Hafs al-Mauritani"
+  ],
+  "Abu Mohammad al-Jolani": [
+   "Abu Mohammad al-Julani",
+   "Abu Muhammad al-Jolani",
+   "Abu Muhammad al-Julani",
+   "Ahmad al-Sharaa",
+   "Ahmed al-Sharaa",
+   "Jolani",
+   "Julani"
+  ],
+  "Mohammed Saeed al-Shamrani": [
+   "Mohammed Alshamrani",
+   "Mohammed Saeed al-Shumrani",
+   "Mohammed al-Shamrani"
+  ],
+  "Qasim al-Rimi": [
+   "Qasim al-Raymi",
+   "Qasim al-Reemi",
+   "Qassim al-Rimi"
+  ],
+  "Saad bin Atef al-Awlaki": [
+   "Sa'ad bin Atef al-Awlaki",
+   "Saad al-Awlaki"
+  ],
+  "Asim Omar": [
+   "Asim Omar (AQIS)",
+   "Asim Umar"
+  ],
+  "Unnamed son of Hibatullah Akhundzada": [
+   "Son of Hibatullah Akhundzada (unnamed)",
+   "unnamed son of Hibatullah Akhundzada (suicide bomber, Gereshk, Helmand, c.2017)",
+   "unnamed son of Hibatullah Akhundzada (suicide bomber, Helmand)"
+  ],
+  "Unnamed Taliban shadow governor (Helmand)": [
+   "Taliban shadow governor (Helmand)"
+  ]
  },
  "organizations": {
-  "Taliban": ["Islamic Emirate of Afghanistan", "Islamic Emirate", "Afghan Taliban", "IEA", "the Emirate"],
-  "Haqqani Network": ["Haqqanis", "Haqqani network", "Hakani Network", "Haqqani"],
-  "al-Qaeda": ["Al Qaeda", "Al-Qaida", "AQ", "al Qaeda core", "al-Qaeda core", "AQ core", "Al-Qaeda Central", "Kida"],
-  "al-Qaeda in the Indian Subcontinent": ["AQIS", "Al Qaeda in the Indian Subcontinent", "Qaedat al-Jihad in the Indian Subcontinent"],
-  "Tehrik-i-Taliban Pakistan": ["TTP", "Pakistani Taliban", "Tehreek-e-Taliban Pakistan", "Movement of the Taliban in Pakistan"],
-  "Islamic State Khorasan Province": ["ISKP", "ISIS-K", "IS-K", "ISIS-Khorasan", "Islamic State Khorasan", "Islamic State in Khorasan", "Daesh Khorasan", "ISK"],
-  "Islamic State": ["ISIS", "ISIL", "Daesh", "IS", "Islamic State core"],
-  "Inter-Services Intelligence": ["ISI", "Pakistani ISI", "Pakistan's ISI", "Pakistani intelligence"],
-  "Pakistan Army": ["Pakistani military", "Pakistan military", "Pakistani Army"],
-  "Islamic Revolutionary Guard Corps": ["IRGC", "Revolutionary Guards", "Quds Force", "IRGC-QF"],
-  "National Resistance Front": ["NRF", "National Resistance Front of Afghanistan", "Panjshir resistance"],
-  "Afghanistan Freedom Front": ["AFF"],
-  "UN Monitoring Team": ["UN Analytical Support and Sanctions Monitoring Team", "UN Sanctions Monitoring Team", "Monitoring Team", "UN 1267 Monitoring Team"],
-  "Lashkar-e-Taiba": ["LeT", "Lashkar-e-Tayyiba"],
-  "Jaish-e-Mohammed": ["JeM", "Jaish-e-Muhammad"],
-  "Turkistan Islamic Party": ["TIP", "East Turkestan Islamic Movement", "ETIM"],
-  "Islamic Movement of Uzbekistan": ["IMU"],
-  "Quetta Shura": ["Quetta Shura Taliban", "Rahbari Shura", "Leadership Council"],
-  "Afghan National Army": ["ANA", "Afghan army", "ANDSF", "Afghan National Defense and Security Forces", "Afghan security forces"],
-  "CENTCOM": ["U.S. Central Command", "US Central Command", "Central Command"],
-  "Hezbollah": ["Lebanese Hezbollah", "Hizballah"],
+  "Taliban": [
+   "Islamic Emirate of Afghanistan",
+   "Islamic Emirate",
+   "Afghan Taliban",
+   "IEA",
+   "the Emirate"
+  ],
+  "Haqqani Network": [
+   "Haqqanis",
+   "Haqqani network",
+   "Hakani Network",
+   "Haqqani"
+  ],
+  "al-Qaeda": [
+   "Al Qaeda",
+   "Al-Qaida",
+   "AQ",
+   "al Qaeda core",
+   "al-Qaeda core",
+   "AQ core",
+   "Al-Qaeda Central",
+   "Kida"
+  ],
+  "al-Qaeda in the Indian Subcontinent": [
+   "AQIS",
+   "Al Qaeda in the Indian Subcontinent",
+   "Qaedat al-Jihad in the Indian Subcontinent"
+  ],
+  "Tehrik-i-Taliban Pakistan": [
+   "TTP",
+   "Pakistani Taliban",
+   "Tehreek-e-Taliban Pakistan",
+   "Movement of the Taliban in Pakistan"
+  ],
+  "Islamic State Khorasan Province": [
+   "ISKP",
+   "ISIS-K",
+   "IS-K",
+   "ISIS-Khorasan",
+   "Islamic State Khorasan",
+   "Islamic State in Khorasan",
+   "Daesh Khorasan",
+   "ISK"
+  ],
+  "Islamic State": [
+   "ISIS",
+   "ISIL",
+   "Daesh",
+   "IS",
+   "Islamic State core"
+  ],
+  "Inter-Services Intelligence": [
+   "ISI",
+   "Pakistani ISI",
+   "Pakistan's ISI",
+   "Pakistani intelligence"
+  ],
+  "Pakistan Army": [
+   "Pakistani military",
+   "Pakistan military",
+   "Pakistani Army"
+  ],
+  "Islamic Revolutionary Guard Corps": [
+   "IRGC",
+   "Revolutionary Guards",
+   "Quds Force",
+   "IRGC-QF"
+  ],
+  "National Resistance Front": [
+   "NRF",
+   "National Resistance Front of Afghanistan",
+   "Panjshir resistance"
+  ],
+  "Afghanistan Freedom Front": [
+   "AFF"
+  ],
+  "UN Monitoring Team": [
+   "UN Analytical Support and Sanctions Monitoring Team",
+   "UN Sanctions Monitoring Team",
+   "Monitoring Team",
+   "UN 1267 Monitoring Team"
+  ],
+  "Lashkar-e-Taiba": [
+   "LeT",
+   "Lashkar-e-Tayyiba"
+  ],
+  "Jaish-e-Mohammed": [
+   "JeM",
+   "Jaish-e-Muhammad"
+  ],
+  "Turkistan Islamic Party": [
+   "TIP",
+   "East Turkestan Islamic Movement",
+   "ETIM"
+  ],
+  "Islamic Movement of Uzbekistan": [
+   "IMU"
+  ],
+  "Quetta Shura": [
+   "Quetta Shura Taliban",
+   "Rahbari Shura",
+   "Leadership Council"
+  ],
+  "Afghan National Army": [
+   "ANA",
+   "Afghan army",
+   "ANDSF",
+   "Afghan National Defense and Security Forces",
+   "Afghan security forces"
+  ],
+  "CENTCOM": [
+   "U.S. Central Command",
+   "US Central Command",
+   "Central Command"
+  ],
+  "Hezbollah": [
+   "Lebanese Hezbollah",
+   "Hizballah"
+  ],
   "Hamas": [],
-  "Shabaab": ["al-Shabaab", "Al Shabaab", "Harakat al-Shabaab"],
-  "al-Qaeda in the Arabian Peninsula": ["AQAP"],
-  "Hay'at Tahrir al-Sham": ["HTS", "Hayat Tahrir al-Sham", "Jabhat al-Nusra", "Al-Nusra Front"],
-  "Ansar al-Furqan": [], "Jamaat-ul-Ahrar": ["JuA"]
+  "Shabaab": [
+   "al-Shabaab",
+   "Al Shabaab",
+   "Harakat al-Shabaab"
+  ],
+  "al-Qaeda in the Arabian Peninsula": [
+   "AQAP"
+  ],
+  "Hay'at Tahrir al-Sham": [
+   "HTS",
+   "Hayat Tahrir al-Sham",
+   "Jabhat al-Nusra",
+   "Al-Nusra Front"
+  ],
+  "Ansar al-Furqan": [],
+  "Jamaat-ul-Ahrar": [
+   "JuA"
+  ],
+  "United States": [
+   "U.S.",
+   "US government",
+   "United States government",
+   "Washington"
+  ],
+  "Senate Banking Committee": [],
+  "Taliban Five": [
+   "Taliban 5"
+  ]
  },
  "places": {
-  "Kabul": [], "Kandahar": ["Kandahar province", "Kandahar city"], "Kunar": ["Kuna province", "Kunar province"], "Nuristan": [],
-  "Helmand": ["Helmand province"], "Nangarhar": ["Nangarhar province"], "Panjshir": ["Panjshir Valley", "Panjshir province"],
-  "Paktika": [], "Paktia": ["Paktya"], "Khost": [], "Logar": [], "Ghazni": [], "Zabul": [], "Badakhshan": [], "Takhar": [], "Baghlan": [],
-  "Bagram Airfield": ["Bagram", "Bagram Air Base", "Bagram air base"], "Doha": ["Doha, Qatar"], "Islamabad": [], "Peshawar": [],
-  "Quetta": [], "Karachi": [], "Rawalpindi": [], "North Waziristan": ["North Waziristan Agency", "Miranshah area"], "South Waziristan": [],
-  "Waziristan": ["the Waziristans"], "Miranshah": ["Miran Shah"], "Khyber Pakhtunkhwa": ["KP", "KPK", "NWFP", "North-West Frontier Province"],
-  "Balochistan": ["Baluchistan"], "Durand Line": ["Afghan-Pakistan border", "Afghanistan-Pakistan border", "Pak-Afghan border"],
-  "Tehran": [], "Abbottabad": [], "Sherpur": ["Sherpur, Kabul", "Shirpur"], "Torkham": ["Torkham crossing"], "Spin Boldak": ["Chaman"],
-  "Afghanistan": [], "Pakistan": [], "Iran": [], "Qatar": [], "Syria": [], "Yemen": [], "Somalia": [], "Mali": [], "United States": ["U.S.", "US", "America"]
+  "Kabul": [],
+  "Kandahar": [
+   "Kandahar province",
+   "Kandahar city"
+  ],
+  "Kunar": [
+   "Kuna province",
+   "Kunar province"
+  ],
+  "Nuristan": [],
+  "Helmand": [
+   "Helmand province"
+  ],
+  "Nangarhar": [
+   "Nangarhar province"
+  ],
+  "Panjshir": [
+   "Panjshir Valley",
+   "Panjshir province"
+  ],
+  "Paktika": [],
+  "Paktia": [
+   "Paktya"
+  ],
+  "Khost": [],
+  "Logar": [],
+  "Ghazni": [],
+  "Zabul": [],
+  "Badakhshan": [],
+  "Takhar": [],
+  "Baghlan": [],
+  "Bagram Airfield": [
+   "Bagram",
+   "Bagram Air Base",
+   "Bagram air base"
+  ],
+  "Doha": [
+   "Doha, Qatar"
+  ],
+  "Islamabad": [],
+  "Peshawar": [],
+  "Quetta": [],
+  "Karachi": [],
+  "Rawalpindi": [],
+  "North Waziristan": [
+   "North Waziristan Agency",
+   "Miranshah area"
+  ],
+  "South Waziristan": [],
+  "Waziristan": [
+   "the Waziristans"
+  ],
+  "Miranshah": [
+   "Miran Shah"
+  ],
+  "Khyber Pakhtunkhwa": [
+   "KP",
+   "KPK",
+   "NWFP",
+   "North-West Frontier Province"
+  ],
+  "Balochistan": [
+   "Baluchistan"
+  ],
+  "Durand Line": [
+   "Afghan-Pakistan border",
+   "Afghanistan-Pakistan border",
+   "Pak-Afghan border"
+  ],
+  "Tehran": [],
+  "Abbottabad": [],
+  "Sherpur": [
+   "Sherpur, Kabul",
+   "Shirpur"
+  ],
+  "Torkham": [
+   "Torkham crossing"
+  ],
+  "Spin Boldak": [
+   "Chaman"
+  ],
+  "Afghanistan": [],
+  "Pakistan": [],
+  "Iran": [],
+  "Qatar": [],
+  "Syria": [],
+  "Yemen": [],
+  "Somalia": [],
+  "Mali": [],
+  "United States": [
+   "U.S.",
+   "US",
+   "America"
+  ]
  }
 }

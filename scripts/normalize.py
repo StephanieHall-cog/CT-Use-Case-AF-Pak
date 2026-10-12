@@ -30,5 +30,9 @@ class Resolver:
     def resolve_any(self, name):
         for kind in ("persons", "organizations", "places"):
             r = self.resolve(kind, name)
-            if r != name.strip(): return kind, r
+            if r != name.strip() or self.is_known(kind, r): return kind, r
         return None, name.strip()
+
+    def is_known(self, kind, name):
+        f = fold(name)
+        return f in self.canon.get(kind, {})

@@ -1,0 +1,16 @@
+{
+ "episode": {"idx": null, "title": "SYNTHETIC: training scenario — fictional Kunar facilitation cell", "published": "2026-01-01"},
+ "persons": [
+  {"name": "Zubair Kohistani", "aliases": ["Abu Zubair"], "role": "fictional facilitator", "organizations": ["al-Qaeda"], "nationality_or_origin": "Afghan (fictional)", "status": "alive", "family": [], "locations": ["Kunar"], "is_presenter_or_guest": false,
+   "mentions": [{"timestamp": "000:00", "quote": "SYNTHETIC record for exercise use."}]},
+  {"name": "Faridun Sadiqi", "aliases": [], "role": "fictional courier", "organizations": [], "nationality_or_origin": "Tajik (fictional)", "status": "alive", "family": [], "locations": ["Kunar"], "is_presenter_or_guest": false,
+   "mentions": [{"timestamp": "000:00", "quote": "SYNTHETIC record for exercise use."}]}
+ ],
+ "organizations": [], "places": [{"name": "Kunar", "type": "province", "country": "Afghanistan"}],
+ "events": [{"date": "2025-11-02", "date_precision": "day", "type": "meeting", "description": "SYNTHETIC: cell meeting in Asadabad", "place": "Kunar", "actors": ["Zubair Kohistani", "Faridun Sadiqi"], "timestamp": "000:00"}],
+ "relationships": [
+  {"source": "Zubair Kohistani", "target": "Faridun Sadiqi", "type": "commands", "detail": "SYNTHETIC", "date": "2025", "confidence": "stated", "timestamp": "000:00", "quote": "SYNTHETIC"},
+  {"source": "Zubair Kohistani", "target": "al-Qaeda", "type": "member_of", "detail": "SYNTHETIC link to a real organization", "date": "2025", "confidence": "stated", "timestamp": "000:00", "quote": "SYNTHETIC"}
+ ],
+ "sources_cited": [], "key_claims": []
+}

@@ -57,9 +57,16 @@ def main():
         return i
 
     files = [(f, "real") for f in sorted(glob.glob(f"{ROOT}/raw/extractions/*.json"))] + [(f, "synthetic") for f in a.synthetic]
+    GLOBAL_KIND = {}
+    for _f, _ds in files:
+        _d = json.load(open(_f))
+        for _kind in ("persons", "organizations", "places"):
+            for _it in _d.get(_kind, []) or []:
+                for _nm in [_it.get("name")] + (_it.get("aliases", []) or []):
+                    if _nm: GLOBAL_KIND.setdefault(fold(_nm), _kind)
     for f, dataset in files:
         d = json.load(open(f)); ep = d.get("episode", {}); idx = ep.get("idx")
-        local = {}
+        local = dict(GLOBAL_KIND)
         for kind in ("persons", "organizations", "places"):
             for it in d.get(kind, []) or []:
                 for nm in [it.get("name")] + (it.get("aliases", []) or []):
@@ -151,7 +158,7 @@ def main():
              con.execute("SELECT id,kind,name,dataset,role,nationality,status,n_episodes,country FROM entities")]
     edges = []
     for r in con.execute("""SELECT source_id,target_id,type,count(*),group_concat(DISTINCT episode_idx),min(confidence),max(detail) FROM relationships GROUP BY source_id,target_id,type"""):
-        edges.append(dict(source=r[0], target=r[1], type=r[2], n=r[3], episodes=[int(x) for x in str(r[4]).split(",")], confidence=r[5], detail=r[6]))
+        edges.append(dict(source=r[0], target=r[1], type=r[2], n=r[3], episodes=[int(x) for x in str(r[4] or "").split(",") if x not in ("", "None")], confidence=r[5], detail=r[6]))
     for r in con.execute("SELECT entity_id, org_id, count(DISTINCT episode_idx), group_concat(DISTINCT episode_idx) FROM memberships GROUP BY entity_id, org_id"):
         edges.append(dict(source=r[0], target=r[1], type="member_of", n=r[2], episodes=[int(x) for x in str(r[3]).split(",")], confidence="stated", detail=None))
     json.dump({"nodes": nodes, "edges": edges}, open(f"{ROOT}/db/exports/graph.json", "w"), indent=0, ensure_ascii=False)

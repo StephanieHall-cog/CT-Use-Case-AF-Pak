@@ -87,7 +87,7 @@
 "dataset": "real",
 "role": null,
 "status": null,
-"n_episodes": 28,
+"n_episodes": 29,
 "country": "Afghanistan"
 },
 {
@@ -217,7 +217,7 @@
 "dataset": "real",
 "role": null,
 "status": null,
-"n_episodes": 1,
+"n_episodes": 2,
 "country": "United States"
 },
 {
@@ -298,16 +298,6 @@
 "role": null,
 "status": null,
 "n_episodes": 2,
-"country": null
-},
-{
-"id": "P-36118d24fb",
-"kind": "person",
-"name": "France",
-"dataset": "real",
-"role": null,
-"status": null,
-"n_episodes": 1,
 "country": null
 },
 {
@@ -421,14 +411,14 @@
 "country": null
 },
 {
-"id": "O-f305ab3b3c",
+"id": "O-bf8c8b2e18",
 "kind": "organization",
-"name": "US government",
+"name": "United States",
 "dataset": "real",
 "role": null,
 "status": null,
-"n_episodes": 15,
-"country": null
+"n_episodes": 25,
+"country": "United States"
 },
 {
 "id": "L-db311f4d40",
@@ -509,16 +499,6 @@
 "status": "alive",
 "n_episodes": 3,
 "country": null
-},
-{
-"id": "O-bf8c8b2e18",
-"kind": "organization",
-"name": "United States",
-"dataset": "real",
-"role": null,
-"status": null,
-"n_episodes": 19,
-"country": "United States"
 },
 {
 "id": "O-f366d405b2",
@@ -807,7 +787,7 @@
 "dataset": "real",
 "role": null,
 "status": null,
-"n_episodes": 13,
+"n_episodes": 12,
 "country": "Iran"
 },
 {
@@ -1101,24 +1081,14 @@
 "country": null
 },
 {
-"id": "P-8c1f589fa9",
-"kind": "person",
-"name": "United States",
-"dataset": "real",
-"role": null,
-"status": null,
-"n_episodes": 13,
-"country": null
-},
-{
-"id": "P-27c50dd5bc",
-"kind": "person",
+"id": "L-d3993907e3",
+"kind": "place",
 "name": "Iran",
 "dataset": "real",
 "role": null,
 "status": null,
-"n_episodes": 2,
-"country": null
+"n_episodes": 15,
+"country": "Iran"
 },
 {
 "id": "P-3bc7c339d7",
@@ -1127,7 +1097,7 @@
 "dataset": "real",
 "role": "Saudi Air Force trainee and AQAP sleeper agent; Pensacola shooter",
 "status": "dead",
-"n_episodes": 1,
+"n_episodes": 2,
 "country": null
 },
 {
@@ -1157,7 +1127,7 @@
 "dataset": "real",
 "role": "AQAP emir",
 "status": "dead",
-"n_episodes": 1,
+"n_episodes": 2,
 "country": null
 },
 {
@@ -1361,13 +1331,13 @@
 "country": null
 },
 {
-"id": "P-af534b2143",
+"id": "P-0a71995422",
 "kind": "person",
-"name": "unnamed son of Hibatullah Akhundzada (suicide bomber, Gereshk, Helmand, c.2017)",
+"name": "Unnamed son of Hibatullah Akhundzada",
 "dataset": "real",
 "role": null,
 "status": null,
-"n_episodes": 1,
+"n_episodes": 2,
 "country": null
 },
 {
@@ -1511,16 +1481,6 @@
 "country": "France"
 },
 {
-"id": "P-2e7c62f075",
-"kind": "person",
-"name": "Mohammed Saeed al-Shumrani",
-"dataset": "real",
-"role": null,
-"status": null,
-"n_episodes": 1,
-"country": null
-},
-{
 "id": "O-ccd5a13e79",
 "kind": "organization",
 "name": "FBI",
@@ -1581,13 +1541,13 @@
 "country": null
 },
 {
-"id": "P-5826c96035",
+"id": "P-5e36b496d9",
 "kind": "person",
-"name": "Asim Umar",
+"name": "Asim Omar",
 "dataset": "real",
 "role": "al-Qaeda in the Indian Subcontinent (AQIS) leader",
 "status": "dead",
-"n_episodes": 2,
+"n_episodes": 3,
 "country": null
 },
 {
@@ -1617,7 +1577,7 @@
 "dataset": "real",
 "role": null,
 "status": null,
-"n_episodes": 5,
+"n_episodes": 6,
 "country": "United States (New York)"
 },
 {
@@ -1831,13 +1791,13 @@
 "country": null
 },
 {
-"id": "P-26d70993d0",
+"id": "P-399c8414c5",
 "kind": "person",
-"name": "Abu Mohammad al-Julani",
+"name": "Abu Mohammad al-Jolani",
 "dataset": "real",
 "role": "Leader of Jabhat al-Nusra, then Jabhat Fatah al-Sham, then Hayat Tahrir al-Sham (HTS)",
 "status": "alive",
-"n_episodes": 1,
+"n_episodes": 6,
 "country": null
 },
 {
@@ -1859,16 +1819,6 @@
 "status": "alive",
 "n_episodes": 10,
 "country": null
-},
-{
-"id": "L-d3993907e3",
-"kind": "place",
-"name": "Iran",
-"dataset": "real",
-"role": null,
-"status": null,
-"n_episodes": 13,
-"country": "Iran"
 },
 {
 "id": "P-2937ee4049",
@@ -2387,7 +2337,7 @@
 "dataset": "real",
 "role": null,
 "status": null,
-"n_episodes": 3,
+"n_episodes": 4,
 "country": "Turkey"
 },
 {
@@ -2541,24 +2491,14 @@
 "country": "Afghanistan"
 },
 {
-"id": "P-7b8866b1e2",
-"kind": "person",
+"id": "O-b05833349e",
+"kind": "organization",
 "name": "Long War Journal",
 "dataset": "real",
 "role": null,
 "status": null,
-"n_episodes": 1,
-"country": null
-},
-{
-"id": "P-01e4a72987",
-"kind": "person",
-"name": "unnamed son of Hibatullah Akhundzada (suicide bomber, Helmand)",
-"dataset": "real",
-"role": null,
-"status": null,
-"n_episodes": 1,
-"country": null
+"n_episodes": 2,
+"country": "United States"
 },
 {
 "id": "L-b0413d7a42",
@@ -2851,9 +2791,9 @@
 "country": "Russia"
 },
 {
-"id": "P-854733a659",
-"kind": "person",
-"name": "Taliban 5",
+"id": "O-afffa13f87",
+"kind": "organization",
+"name": "Taliban Five",
 "dataset": "real",
 "role": null,
 "status": null,
@@ -2868,16 +2808,6 @@
 "role": null,
 "status": null,
 "n_episodes": 1,
-"country": null
-},
-{
-"id": "P-0bba3736d2",
-"kind": "person",
-"name": "US government",
-"dataset": "real",
-"role": null,
-"status": null,
-"n_episodes": 4,
 "country": null
 },
 {
@@ -3001,16 +2931,6 @@
 "country": null
 },
 {
-"id": "P-9f36ca6199",
-"kind": "person",
-"name": "Qasim al-Raymi",
-"dataset": "real",
-"role": "AQAP emir",
-"status": "dead",
-"n_episodes": 1,
-"country": null
-},
-{
 "id": "P-96f4db50ab",
 "kind": "person",
 "name": "Ahmed Diriye",
@@ -3038,16 +2958,6 @@
 "role": "al-Shabaab spokesman",
 "status": "alive",
 "n_episodes": 2,
-"country": null
-},
-{
-"id": "P-d48d195e12",
-"kind": "person",
-"name": "Abu Muhammad al-Jolani",
-"dataset": "real",
-"role": "leader of Hayat Tahrir al-Sham; former al-Qaeda regional emir in Syria",
-"status": "alive",
-"n_episodes": 1,
 "country": null
 },
 {
@@ -3109,16 +3019,6 @@
 "status": null,
 "n_episodes": 1,
 "country": "Yemen"
-},
-{
-"id": "P-9a44f7088b",
-"kind": "person",
-"name": "Mohammed al-Shamrani",
-"dataset": "real",
-"role": "AQAP sleeper agent and Saudi second lieutenant; Pensacola Naval Air Station attacker",
-"status": "dead",
-"n_episodes": 1,
-"country": null
 },
 {
 "id": "P-8dbb5bae8b",
@@ -3531,16 +3431,6 @@
 "country": null
 },
 {
-"id": "P-76bf3727e9",
-"kind": "person",
-"name": "US military",
-"dataset": "real",
-"role": null,
-"status": null,
-"n_episodes": 1,
-"country": null
-},
-{
 "id": "L-2c38797420",
 "kind": "place",
 "name": "Mosul, Iraq",
@@ -3577,7 +3467,7 @@
 "dataset": "real",
 "role": "al-Qaeda general manager; longtime head of As-Sahab",
 "status": "alive",
-"n_episodes": 3,
+"n_episodes": 4,
 "country": null
 },
 {
@@ -3881,26 +3771,6 @@
 "country": "Pakistan"
 },
 {
-"id": "P-b258aef4a6",
-"kind": "person",
-"name": "Obama administration",
-"dataset": "real",
-"role": null,
-"status": null,
-"n_episodes": 1,
-"country": null
-},
-{
-"id": "P-9758f6e409",
-"kind": "person",
-"name": "Trump administration",
-"dataset": "real",
-"role": null,
-"status": null,
-"n_episodes": 1,
-"country": null
-},
-{
 "id": "L-2298cf7a86",
 "kind": "place",
 "name": "Kenya/Tanzania",
@@ -3948,16 +3818,6 @@
 "role": "Former President of Afghanistan",
 "status": "alive",
 "n_episodes": 2,
-"country": null
-},
-{
-"id": "P-5e36b496d9",
-"kind": "person",
-"name": "Asim Omar",
-"dataset": "real",
-"role": "Senior al-Qaeda in the Indian Subcontinent (AQIS) leader/emir; career direct courier to Zawahiri",
-"status": "dead",
-"n_episodes": 1,
 "country": null
 },
 {
@@ -4017,7 +3877,7 @@
 "dataset": "real",
 "role": null,
 "status": null,
-"n_episodes": 1,
+"n_episodes": 2,
 "country": "Afghanistan"
 },
 {
@@ -4054,16 +3914,6 @@
 "id": "L-6ef56aa531",
 "kind": "place",
 "name": "Indian subcontinent",
-"dataset": "real",
-"role": null,
-"status": null,
-"n_episodes": 1,
-"country": null
-},
-{
-"id": "P-7fd2fbabab",
-"kind": "person",
-"name": "Taliban shadow governor (Helmand)",
 "dataset": "real",
 "role": null,
 "status": null,
@@ -4681,16 +4531,6 @@
 "country": "United States"
 },
 {
-"id": "O-378cede70a",
-"kind": "organization",
-"name": "United States government",
-"dataset": "real",
-"role": null,
-"status": null,
-"n_episodes": 3,
-"country": "United States"
-},
-{
 "id": "L-2a8fd0e307",
 "kind": "place",
 "name": "Xinjiang",
@@ -4721,18 +4561,8 @@
 "country": null
 },
 {
-"id": "P-83a54e5b9e",
-"kind": "person",
-"name": "Senate Armed Services Committee",
-"dataset": "real",
-"role": null,
-"status": null,
-"n_episodes": 1,
-"country": null
-},
-{
-"id": "P-eacb1d0637",
-"kind": "person",
+"id": "O-b98421a38f",
+"kind": "organization",
 "name": "Senate Banking Committee",
 "dataset": "real",
 "role": null,
@@ -5557,18 +5387,8 @@
 "dataset": "real",
 "role": null,
 "status": null,
-"n_episodes": 1,
+"n_episodes": 2,
 "country": "Somalia"
-},
-{
-"id": "O-b05833349e",
-"kind": "organization",
-"name": "Long War Journal",
-"dataset": "real",
-"role": null,
-"status": null,
-"n_episodes": 1,
-"country": "United States"
 },
 {
 "id": "L-7debc024ae",
@@ -6141,26 +5961,6 @@
 "country": null
 },
 {
-"id": "P-81190fec72",
-"kind": "person",
-"name": "Afghan forces",
-"dataset": "real",
-"role": null,
-"status": null,
-"n_episodes": 1,
-"country": null
-},
-{
-"id": "P-565a71ee96",
-"kind": "person",
-"name": "Abd al-Rahman al-Maghrabi",
-"dataset": "real",
-"role": "Al-Qaeda number three, part of the Iran-based leadership cell",
-"status": "alive",
-"n_episodes": 1,
-"country": null
-},
-{
 "id": "P-ffcc63b9ae",
 "kind": "person",
 "name": "Abu Ikhlas al-Masri",
@@ -6459,16 +6259,6 @@
 "status": null,
 "n_episodes": 1,
 "country": "Uganda"
-},
-{
-"id": "P-93ab931c45",
-"kind": "person",
-"name": "UN Monitoring Team",
-"dataset": "real",
-"role": null,
-"status": null,
-"n_episodes": 1,
-"country": null
 },
 {
 "id": "O-4b206480c2",
@@ -7117,7 +6907,7 @@
 "dataset": "real",
 "role": null,
 "status": null,
-"n_episodes": 1,
+"n_episodes": 2,
 "country": null
 },
 {
@@ -7154,16 +6944,6 @@
 "id": "O-d88987f828",
 "kind": "organization",
 "name": "Government of Mali",
-"dataset": "real",
-"role": null,
-"status": null,
-"n_episodes": 1,
-"country": null
-},
-{
-"id": "P-c715676227",
-"kind": "person",
-"name": "Taliban",
 "dataset": "real",
 "role": null,
 "status": null,
@@ -7621,16 +7401,6 @@
 "country": "Afghanistan"
 },
 {
-"id": "P-e2ba6abbfe",
-"kind": "person",
-"name": "Afghan government",
-"dataset": "real",
-"role": null,
-"status": null,
-"n_episodes": 1,
-"country": null
-},
-{
 "id": "O-b381a8ae11",
 "kind": "organization",
 "name": "U.S. Army",
@@ -7841,23 +7611,13 @@
 "country": null
 },
 {
-"id": "P-399c8414c5",
+"id": "P-71835da534",
 "kind": "person",
-"name": "Abu Mohammad al-Jolani",
-"dataset": "real",
-"role": "Leader of Hay'at Tahrir al-Sham",
-"status": "alive",
-"n_episodes": 3,
-"country": null
-},
-{
-"id": "P-44d02dc12e",
-"kind": "person",
-"name": "Sa'ad bin Atef al-Awlaki",
+"name": "Saad bin Atef al-Awlaki",
 "dataset": "real",
 "role": "New leader of AQAP",
 "status": "alive",
-"n_episodes": 1,
+"n_episodes": 2,
 "country": null
 },
 {
@@ -8154,16 +7914,6 @@
 "id": "L-884cfbed48",
 "kind": "place",
 "name": "Somalia/Yemen",
-"dataset": "real",
-"role": null,
-"status": null,
-"n_episodes": 1,
-"country": null
-},
-{
-"id": "P-3b2a26f5b0",
-"kind": "person",
-"name": "United Nations",
 "dataset": "real",
 "role": null,
 "status": null,
@@ -8811,16 +8561,6 @@
 "country": "Afghanistan"
 },
 {
-"id": "P-71835da534",
-"kind": "person",
-"name": "Saad bin Atef al-Awlaki",
-"dataset": "real",
-"role": "Emir of al-Qaeda in the Arabian Peninsula (AQAP)",
-"status": "alive",
-"n_episodes": 1,
-"country": null
-},
-{
 "id": "O-8519099cf1",
 "kind": "organization",
 "name": "al-Shabaab (former)",
@@ -9081,36 +8821,6 @@
 "country": null
 },
 {
-"id": "P-c42d08cf39",
-"kind": "person",
-"name": "Russia",
-"dataset": "real",
-"role": null,
-"status": null,
-"n_episodes": 1,
-"country": null
-},
-{
-"id": "P-93b0a51f0f",
-"kind": "person",
-"name": "Israel",
-"dataset": "real",
-"role": null,
-"status": null,
-"n_episodes": 1,
-"country": null
-},
-{
-"id": "P-4a2a7e6d3f",
-"kind": "person",
-"name": "Ahmed al-Sharaa",
-"dataset": "real",
-"role": "Self-appointed president of Syria; former leader of al-Qaeda's branch in Syria (Nusra Front/HTS), Specially Designated Global Terrorist",
-"status": "alive",
-"n_episodes": 1,
-"country": null
-},
-{
 "id": "L-7a9279df9d",
 "kind": "place",
 "name": "Damascus",
@@ -9233,6 +8943,39 @@
 ],
 "edges": [
 {
+"source": "L-2c51233e32",
+"target": "O-03898888bd",
+"type": "funded_by",
+"n": 1,
+"episodes": [
+14
+],
+"confidence": "inferred",
+"detail": "The hosts say the Pakistani state supports the Afghan Taliban and its terrorist proxies; no money is mentioned, so this is general backing."
+},
+{
+"source": "L-2c51233e32",
+"target": "O-03898888bd",
+"type": "other",
+"n": 1,
+"episodes": [
+11
+],
+"confidence": "stated",
+"detail": "Pakistan supports the Taliban."
+},
+{
+"source": "L-a3bea16196",
+"target": "O-a53d7af511",
+"type": "funded_by",
+"n": 1,
+"episodes": [
+19
+],
+"confidence": "stated",
+"detail": "Saudi Arabia has been a permissive fundraising environment for Haqqanis and other Taliban groups."
+},
+{
 "source": "L-a3bea16196",
 "target": "P-064ace146c",
 "type": "captured",
@@ -9242,6 +8985,84 @@
 ],
 "confidence": "stated",
 "detail": "Arrested in Sudan and extradited to Saudi in mid-2002."
+},
+{
+"source": "L-d3993907e3",
+"target": "O-03898888bd",
+"type": "allied_with",
+"n": 1,
+"episodes": [
+19
+],
+"confidence": "stated",
+"detail": "Iran provides training camps, cash and safe haven to the Taliban."
+},
+{
+"source": "L-d3993907e3",
+"target": "O-03898888bd",
+"type": "rival_of",
+"n": 1,
+"episodes": [
+97
+],
+"confidence": "stated",
+"detail": "Public mudslinging; Iran accused the Taliban of bringing ISIL figures into Afghanistan"
+},
+{
+"source": "L-d3993907e3",
+"target": "O-612bbcec92",
+"type": "allied_with",
+"n": 1,
+"episodes": [
+196
+],
+"confidence": "inferred",
+"detail": "The Houthis are described as Iran's proxy."
+},
+{
+"source": "L-d3993907e3",
+"target": "O-c74761bdcd",
+"type": "allied_with",
+"n": 2,
+"episodes": [
+41,
+89
+],
+"confidence": "inferred",
+"detail": "The hosts say Iran has a long-demonstrated relationship with al-Qaeda, which three successive US administrations have pointed out."
+},
+{
+"source": "L-d3993907e3",
+"target": "O-c74761bdcd",
+"type": "other",
+"n": 1,
+"episodes": [
+295
+],
+"confidence": "stated",
+"detail": "Fitton-Brown: since Zawahiri's death Iran controls al-Qaeda; al-Qaeda becoming a partial member of the axis of resistance"
+},
+{
+"source": "L-d3993907e3",
+"target": "O-ff312dc4b0",
+"type": "allied_with",
+"n": 1,
+"episodes": [
+295
+],
+"confidence": "stated",
+"detail": "Iran is friends with Russia; al-Qaeda is friends with Iran"
+},
+{
+"source": "L-d3993907e3",
+"target": "P-c4d8ea1c89",
+"type": "other",
+"n": 1,
+"episodes": [
+19
+],
+"confidence": "stated",
+"detail": "Iran is held responsible for over 600 US deaths in Iraq via Shia militias."
 },
 {
 "source": "O-015c455948",
@@ -9355,6 +9176,39 @@
 },
 {
 "source": "O-03898888bd",
+"target": "L-1034b9e2e6",
+"type": "allied_with",
+"n": 1,
+"episodes": [
+272
+],
+"confidence": "stated",
+"detail": "Taliban has business and economic relationships with China, which hosts say gives Beijing a vote on any US return."
+},
+{
+"source": "O-03898888bd",
+"target": "L-2c51233e32",
+"type": "allied_with",
+"n": 1,
+"episodes": [
+17
+],
+"confidence": "stated",
+"detail": "Pakistan uses the Taliban as a proxy and counterweight to India"
+},
+{
+"source": "O-03898888bd",
+"target": "L-2c51233e32",
+"type": "sheltered_by",
+"n": 1,
+"episodes": [
+17
+],
+"confidence": "stated",
+"detail": "Pakistan serves as a safe haven for the Afghan Taliban and the Haqqani Network"
+},
+{
+"source": "O-03898888bd",
 "target": "L-398995489f",
 "type": "other",
 "n": 1,
@@ -9410,6 +9264,17 @@
 },
 {
 "source": "O-03898888bd",
+"target": "L-8a8d4b3973",
+"type": "hosted_by",
+"n": 1,
+"episodes": [
+19
+],
+"confidence": "stated",
+"detail": "Qatar hosts the Taliban political office and allows fundraising and recruiting; senior Taliban figures live there."
+},
+{
+"source": "O-03898888bd",
 "target": "L-b9fad1f86c",
 "type": "located_in",
 "n": 1,
@@ -9421,14 +9286,15 @@
 },
 {
 "source": "O-03898888bd",
-"target": "L-db311f4d40",
-"type": "negotiated_with",
-"n": 1,
+"target": "L-d3993907e3",
+"type": "funded_by",
+"n": 2,
 "episodes": [
-43
+72,
+295
 ],
 "confidence": "stated",
-"detail": "The Taliban agreed to the withdrawal deal with the US and have not killed Americans since 29 Feb 2020."
+"detail": "The Taliban took state aid from the Iranians to fight the Americans."
 },
 {
 "source": "O-03898888bd",
@@ -9515,17 +9381,6 @@
 ],
 "confidence": "stated",
 "detail": null
-},
-{
-"source": "O-03898888bd",
-"target": "O-2e80a68a8a",
-"type": "hosted_by",
-"n": 1,
-"episodes": [
-19
-],
-"confidence": "stated",
-"detail": "Qatar hosts the Taliban political office and allows fundraising and recruiting; senior Taliban figures live there."
 },
 {
 "source": "O-03898888bd",
@@ -9694,12 +9549,12 @@
 "source": "O-03898888bd",
 "target": "O-76e0819fb8",
 "type": "allied_with",
-"n": 2,
+"n": 1,
 "episodes": [
 272
 ],
 "confidence": "stated",
-"detail": "Taliban has business and economic relationships with China, which hosts say gives Beijing a vote on any US return."
+"detail": null
 },
 {
 "source": "O-03898888bd",
@@ -9866,6 +9721,17 @@
 {
 "source": "O-03898888bd",
 "target": "O-bf8c8b2e18",
+"type": "negotiated_with",
+"n": 1,
+"episodes": [
+43
+],
+"confidence": "stated",
+"detail": "The Taliban agreed to the withdrawal deal with the US and have not killed Americans since 29 Feb 2020."
+},
+{
+"source": "O-03898888bd",
+"target": "O-bf8c8b2e18",
 "type": "other",
 "n": 1,
 "episodes": [
@@ -9996,18 +9862,6 @@
 },
 {
 "source": "O-03898888bd",
-"target": "O-da84c3d5bc",
-"type": "funded_by",
-"n": 2,
-"episodes": [
-72,
-295
-],
-"confidence": "stated",
-"detail": "The Taliban took state aid from the Iranians to fight the Americans."
-},
-{
-"source": "O-03898888bd",
 "target": "O-ef8c31d464",
 "type": "rival_of",
 "n": 1,
@@ -10021,25 +9875,14 @@
 "source": "O-03898888bd",
 "target": "O-f20f68a6b1",
 "type": "allied_with",
-"n": 4,
+"n": 3,
 "episodes": [
 17,
 19,
 58
 ],
 "confidence": "stated",
-"detail": "Pakistan uses the Taliban as a proxy and counterweight to India"
-},
-{
-"source": "O-03898888bd",
-"target": "O-f20f68a6b1",
-"type": "sheltered_by",
-"n": 1,
-"episodes": [
-17
-],
-"confidence": "stated",
-"detail": "Pakistan serves as a safe haven for the Afghan Taliban and the Haqqani Network"
+"detail": null
 },
 {
 "source": "O-03898888bd",
@@ -10522,6 +10365,17 @@
 },
 {
 "source": "O-18f7004238",
+"target": "L-d3993907e3",
+"type": "allied_with",
+"n": 1,
+"episodes": [
+225
+],
+"confidence": "stated",
+"detail": "Special groups were Iranian-backed; AAH tried to take kidnapped US soldiers to Iran."
+},
+{
+"source": "O-18f7004238",
 "target": "O-b2f77d4ca0",
 "type": "allied_with",
 "n": 1,
@@ -10552,17 +10406,6 @@
 ],
 "confidence": "stated",
 "detail": null
-},
-{
-"source": "O-18f7004238",
-"target": "P-27c50dd5bc",
-"type": "allied_with",
-"n": 1,
-"episodes": [
-225
-],
-"confidence": "stated",
-"detail": "Special groups were Iranian-backed; AAH tried to take kidnapped US soldiers to Iran."
 },
 {
 "source": "O-1b06ba7d4d",
@@ -10750,17 +10593,6 @@
 },
 {
 "source": "O-27b2cc8f2c",
-"target": "L-63ff22e41a",
-"type": "other",
-"n": 1,
-"episodes": [
-295
-],
-"confidence": "stated",
-"detail": "JNIM instituted a fuel blockade around the Malian capital"
-},
-{
-"source": "O-27b2cc8f2c",
 "target": "L-8aa844448e",
 "type": "located_in",
 "n": 1,
@@ -10780,6 +10612,17 @@
 ],
 "confidence": "stated",
 "detail": "Forming attack zones in Bamako's suburbs and nearby military installations, like the Taliban around Afghan provincial capitals"
+},
+{
+"source": "O-27b2cc8f2c",
+"target": "O-22ed0183a3",
+"type": "other",
+"n": 1,
+"episodes": [
+295
+],
+"confidence": "stated",
+"detail": "JNIM instituted a fuel blockade around the Malian capital"
 },
 {
 "source": "O-27b2cc8f2c",
@@ -11500,29 +11343,6 @@
 "detail": null
 },
 {
-"source": "O-378cede70a",
-"target": "O-03898888bd",
-"type": "rival_of",
-"n": 2,
-"episodes": [
-58,
-272
-],
-"confidence": "stated",
-"detail": null
-},
-{
-"source": "O-378cede70a",
-"target": "O-c74761bdcd",
-"type": "rival_of",
-"n": 1,
-"episodes": [
-84
-],
-"confidence": "stated",
-"detail": null
-},
-{
 "source": "O-393c930784",
 "target": "O-03898888bd",
 "type": "allied_with",
@@ -11703,17 +11523,6 @@
 },
 {
 "source": "O-3c539938bb",
-"target": "O-378cede70a",
-"type": "killed",
-"n": 1,
-"episodes": [
-272
-],
-"confidence": "stated",
-"detail": "Abbey Gate bombing killed 13 US service members."
-},
-{
-"source": "O-3c539938bb",
 "target": "O-451eeb922b",
 "type": "other",
 "n": 1,
@@ -11808,6 +11617,17 @@
 ],
 "confidence": "stated",
 "detail": null
+},
+{
+"source": "O-3c539938bb",
+"target": "O-bf8c8b2e18",
+"type": "killed",
+"n": 1,
+"episodes": [
+272
+],
+"confidence": "stated",
+"detail": "Abbey Gate bombing killed 13 US service members."
 },
 {
 "source": "O-3c539938bb",
@@ -12781,6 +12601,28 @@
 },
 {
 "source": "O-612bbcec92",
+"target": "L-d3993907e3",
+"type": "funded_by",
+"n": 1,
+"episodes": [
+11
+],
+"confidence": "stated",
+"detail": "The Houthis are described as Iranian-backed."
+},
+{
+"source": "O-612bbcec92",
+"target": "L-d3993907e3",
+"type": "member_of",
+"n": 1,
+"episodes": [
+295
+],
+"confidence": "stated",
+"detail": "Houthis described as an Iranian proxy"
+},
+{
+"source": "O-612bbcec92",
 "target": "O-9bb6536200",
 "type": "allied_with",
 "n": 2,
@@ -12888,17 +12730,6 @@
 },
 {
 "source": "O-612bbcec92",
-"target": "O-da84c3d5bc",
-"type": "member_of",
-"n": 1,
-"episodes": [
-295
-],
-"confidence": "stated",
-"detail": "Houthis described as an Iranian proxy"
-},
-{
-"source": "O-612bbcec92",
 "target": "O-f9faeb82dc",
 "type": "rival_of",
 "n": 1,
@@ -12907,17 +12738,6 @@
 ],
 "confidence": "stated",
 "detail": null
-},
-{
-"source": "O-612bbcec92",
-"target": "P-27c50dd5bc",
-"type": "funded_by",
-"n": 1,
-"episodes": [
-11
-],
-"confidence": "stated",
-"detail": "The Houthis are described as Iranian-backed."
 },
 {
 "source": "O-61fa3002f5",
@@ -13053,17 +12873,6 @@
 "detail": null
 },
 {
-"source": "O-6bbdf0eb17",
-"target": "O-a53d7af511",
-"type": "funded_by",
-"n": 1,
-"episodes": [
-19
-],
-"confidence": "stated",
-"detail": "Saudi Arabia has been a permissive fundraising environment for Haqqanis and other Taliban groups."
-},
-{
 "source": "O-6c51ba9cd8",
 "target": "O-455195f939",
 "type": "allied_with",
@@ -13095,6 +12904,17 @@
 ],
 "confidence": "stated",
 "detail": null
+},
+{
+"source": "O-6e0f19f16b",
+"target": "L-d3993907e3",
+"type": "rival_of",
+"n": 1,
+"episodes": [
+295
+],
+"confidence": "stated",
+"detail": "ISIS attacked Iran (Kerman); Iranians sponsor al-Qaeda but not ISIS"
 },
 {
 "source": "O-6e0f19f16b",
@@ -13301,12 +13121,12 @@
 "source": "O-6e0f19f16b",
 "target": "O-da84c3d5bc",
 "type": "rival_of",
-"n": 2,
+"n": 1,
 "episodes": [
 295
 ],
 "confidence": "stated",
-"detail": "ISIS attacked Iran (Kerman); Iranians sponsor al-Qaeda but not ISIS"
+"detail": null
 },
 {
 "source": "O-6e0f19f16b",
@@ -13407,6 +13227,17 @@
 ],
 "confidence": "stated",
 "detail": null
+},
+{
+"source": "O-6fc0fd1db8",
+"target": "O-645c37b9b2",
+"type": "other",
+"n": 1,
+"episodes": [
+41
+],
+"confidence": "stated",
+"detail": "Designated MOIS in Feb 2012 over facilitation of al-Qaeda."
 },
 {
 "source": "O-71fe1321b5",
@@ -13969,6 +13800,17 @@
 },
 {
 "source": "O-7d9412a62e",
+"target": "L-2c51233e32",
+"type": "sheltered_by",
+"n": 1,
+"episodes": [
+17
+],
+"confidence": "stated",
+"detail": "JeM operates from Pakistani territory"
+},
+{
+"source": "O-7d9412a62e",
 "target": "O-03898888bd",
 "type": "allied_with",
 "n": 2,
@@ -14011,17 +13853,6 @@
 ],
 "confidence": "stated",
 "detail": null
-},
-{
-"source": "O-7d9412a62e",
-"target": "O-f20f68a6b1",
-"type": "sheltered_by",
-"n": 1,
-"episodes": [
-17
-],
-"confidence": "stated",
-"detail": "JeM operates from Pakistani territory"
 },
 {
 "source": "O-7dcced52b5",
@@ -15670,6 +15501,17 @@
 "detail": "Resistance groups say they fight al-Qaeda fighters alongside the Taliban every day."
 },
 {
+"source": "O-afffa13f87",
+"target": "L-8a8d4b3973",
+"type": "located_in",
+"n": 1,
+"episodes": [
+19
+],
+"confidence": "stated",
+"detail": "The five Taliban released in the Bergdahl swap went to Qatar."
+},
+{
 "source": "O-b05833349e",
 "target": "O-6316cf663c",
 "type": "allied_with",
@@ -15679,6 +15521,17 @@
 ],
 "confidence": "stated",
 "detail": null
+},
+{
+"source": "O-b1256f3a04",
+"target": "L-2c51233e32",
+"type": "sheltered_by",
+"n": 1,
+"episodes": [
+17
+],
+"confidence": "stated",
+"detail": "LeT operates from Pakistani territory"
 },
 {
 "source": "O-b1256f3a04",
@@ -15763,17 +15616,6 @@
 ],
 "confidence": "stated",
 "detail": null
-},
-{
-"source": "O-b1256f3a04",
-"target": "O-f20f68a6b1",
-"type": "sheltered_by",
-"n": 1,
-"episodes": [
-17
-],
-"confidence": "stated",
-"detail": "LeT operates from Pakistani territory"
 },
 {
 "source": "O-b1256f3a04",
@@ -16025,14 +15867,14 @@
 "source": "O-bb189daba9",
 "target": "O-bf8c8b2e18",
 "type": "allied_with",
-"n": 3,
+"n": 4,
 "episodes": [
 11,
 101,
 295
 ],
 "confidence": "stated",
-"detail": null
+"detail": "SDF were US CT partners vital to the defeat of ISIS and guard the camps"
 },
 {
 "source": "O-bb189daba9",
@@ -16044,17 +15886,6 @@
 ],
 "confidence": "stated",
 "detail": null
-},
-{
-"source": "O-bb189daba9",
-"target": "P-8c1f589fa9",
-"type": "allied_with",
-"n": 1,
-"episodes": [
-295
-],
-"confidence": "stated",
-"detail": "SDF were US CT partners vital to the defeat of ISIS and guard the camps"
 },
 {
 "source": "O-bb2ec1b3a1",
@@ -16174,9 +16005,11 @@
 "source": "O-bf8c8b2e18",
 "target": "O-03898888bd",
 "type": "rival_of",
-"n": 1,
+"n": 3,
 "episodes": [
-12
+12,
+58,
+272
 ],
 "confidence": "stated",
 "detail": null
@@ -16207,9 +16040,10 @@
 "source": "O-bf8c8b2e18",
 "target": "O-c74761bdcd",
 "type": "rival_of",
-"n": 1,
+"n": 2,
 "episodes": [
-83
+83,
+84
 ],
 "confidence": "stated",
 "detail": null
@@ -16227,6 +16061,39 @@
 },
 {
 "source": "O-bf8c8b2e18",
+"target": "P-18f78f3620",
+"type": "killed",
+"n": 1,
+"episodes": [
+17
+],
+"confidence": "stated",
+"detail": "He was killed by a drone strike after entering Idlib."
+},
+{
+"source": "O-bf8c8b2e18",
+"target": "P-3cdd916edc",
+"type": "killed",
+"n": 1,
+"episodes": [
+14
+],
+"confidence": "stated",
+"detail": "Mansour was killed by the Obama administration in Pakistan."
+},
+{
+"source": "O-bf8c8b2e18",
+"target": "P-61bd6cd482",
+"type": "killed",
+"n": 1,
+"episodes": [
+196
+],
+"confidence": "stated",
+"detail": "Killed in a US Special Forces operation in Somalia."
+},
+{
+"source": "O-bf8c8b2e18",
 "target": "P-b89c97e733",
 "type": "killed",
 "n": 1,
@@ -16240,12 +16107,49 @@
 "source": "O-bf8c8b2e18",
 "target": "P-babae3a4fe",
 "type": "killed",
+"n": 5,
+"episodes": [
+83,
+84,
+89,
+97,
+295
+],
+"confidence": "inferred",
+"detail": "US killed Zawahiri on 31 July 2022"
+},
+{
+"source": "O-bf8c8b2e18",
+"target": "P-bc2cdd4bf3",
+"type": "killed",
 "n": 1,
 "episodes": [
-83
+17
 ],
 "confidence": "stated",
-"detail": "US airstrike, most likely a drone, killed Zawahiri in Kabul."
+"detail": "The US killed Shishani."
+},
+{
+"source": "O-bf8c8b2e18",
+"target": "P-d4af197885",
+"type": "killed",
+"n": 2,
+"episodes": [
+84
+],
+"confidence": "stated",
+"detail": "Killed in a US raid on an al-Qaeda camp in Barmal."
+},
+{
+"source": "O-bf8c8b2e18",
+"target": "P-e4b777af1b",
+"type": "killed",
+"n": 1,
+"episodes": [
+17
+],
+"confidence": "stated",
+"detail": "Killed by a US drone strike with an R-9X missile in Idlib."
 },
 {
 "source": "O-bf8c8b2e18",
@@ -16257,6 +16161,18 @@
 ],
 "confidence": "stated",
 "detail": "Drafted a renunciation-of-terrorism statement in Mullah Omar's name in 2013, when he was already dead."
+},
+{
+"source": "O-bf8c8b2e18",
+"target": "P-fecff9c653",
+"type": "killed",
+"n": 2,
+"episodes": [
+97,
+295
+],
+"confidence": "stated",
+"detail": "Found and killed by the US in Yemen"
 },
 {
 "source": "O-c0e28d58fc",
@@ -16547,6 +16463,74 @@
 ],
 "confidence": "stated",
 "detail": "UN-identified training facilities in at least 13 of 34 provinces, safe houses, madrasas, weapons depot, facilitation routes to Iran."
+},
+{
+"source": "O-c74761bdcd",
+"target": "L-d3993907e3",
+"type": "allied_with",
+"n": 4,
+"episodes": [
+41,
+295,
+337
+],
+"confidence": "stated",
+"detail": "Roggio: the 'secret deal' between al-Qaeda and Iran disclosed under Obama still exists; dozens of designated AQ operatives in Iran form Saif al-Adel's staff."
+},
+{
+"source": "O-c74761bdcd",
+"target": "L-d3993907e3",
+"type": "funded_by",
+"n": 1,
+"episodes": [
+295
+],
+"confidence": "stated",
+"detail": "Iran provided weapons, training, safe haven and intelligence to al-Qaeda per Cabrera case"
+},
+{
+"source": "O-c74761bdcd",
+"target": "L-d3993907e3",
+"type": "hosted_by",
+"n": 1,
+"episodes": [
+97
+],
+"confidence": "stated",
+"detail": "Iran hosts al-Qaeda's leadership including the leader"
+},
+{
+"source": "O-c74761bdcd",
+"target": "L-d3993907e3",
+"type": "negotiated_with",
+"n": 1,
+"episodes": [
+41
+],
+"confidence": "stated",
+"detail": "Al-Qaeda kidnapped an Iranian diplomat to force the release of five senior leaders in 2015."
+},
+{
+"source": "O-c74761bdcd",
+"target": "L-d3993907e3",
+"type": "rival_of",
+"n": 1,
+"episodes": [
+41
+],
+"confidence": "stated",
+"detail": "The two clash, e.g. in Syria and Yemen, and al-Qaeda kidnapped Iranian personnel."
+},
+{
+"source": "O-c74761bdcd",
+"target": "L-d3993907e3",
+"type": "sheltered_by",
+"n": 1,
+"episodes": [
+20
+],
+"confidence": "stated",
+"detail": "An agreement allows al-Qaeda a facilitation network and leaders to operate in Iran."
 },
 {
 "source": "O-c74761bdcd",
@@ -17101,69 +17085,13 @@
 "source": "O-c74761bdcd",
 "target": "O-da84c3d5bc",
 "type": "allied_with",
-"n": 6,
+"n": 2,
 "episodes": [
-41,
 295,
 337
 ],
 "confidence": "stated",
-"detail": "Roggio: the 'secret deal' between al-Qaeda and Iran disclosed under Obama still exists; dozens of designated AQ operatives in Iran form Saif al-Adel's staff."
-},
-{
-"source": "O-c74761bdcd",
-"target": "O-da84c3d5bc",
-"type": "funded_by",
-"n": 1,
-"episodes": [
-295
-],
-"confidence": "stated",
-"detail": "Iran provided weapons, training, safe haven and intelligence to al-Qaeda per Cabrera case"
-},
-{
-"source": "O-c74761bdcd",
-"target": "O-da84c3d5bc",
-"type": "hosted_by",
-"n": 1,
-"episodes": [
-97
-],
-"confidence": "stated",
-"detail": "Iran hosts al-Qaeda's leadership including the leader"
-},
-{
-"source": "O-c74761bdcd",
-"target": "O-da84c3d5bc",
-"type": "negotiated_with",
-"n": 1,
-"episodes": [
-41
-],
-"confidence": "stated",
-"detail": "Al-Qaeda kidnapped an Iranian diplomat to force the release of five senior leaders in 2015."
-},
-{
-"source": "O-c74761bdcd",
-"target": "O-da84c3d5bc",
-"type": "rival_of",
-"n": 1,
-"episodes": [
-41
-],
-"confidence": "stated",
-"detail": "The two clash, e.g. in Syria and Yemen, and al-Qaeda kidnapped Iranian personnel."
-},
-{
-"source": "O-c74761bdcd",
-"target": "O-da84c3d5bc",
-"type": "sheltered_by",
-"n": 1,
-"episodes": [
-20
-],
-"confidence": "stated",
-"detail": "An agreement allows al-Qaeda a facilitation network and leaders to operate in Iran."
+"detail": null
 },
 {
 "source": "O-c74761bdcd",
@@ -17455,14 +17383,25 @@
 },
 {
 "source": "O-d66d55c01b",
-"target": "O-2e80a68a8a",
+"target": "L-8a8d4b3973",
 "type": "rival_of",
-"n": 2,
+"n": 1,
 "episodes": [
 19
 ],
 "confidence": "stated",
 "detail": "UAE and Qatar reportedly competed to host the Taliban office and are now rivals."
+},
+{
+"source": "O-d66d55c01b",
+"target": "O-2e80a68a8a",
+"type": "rival_of",
+"n": 1,
+"episodes": [
+19
+],
+"confidence": "stated",
+"detail": null
 },
 {
 "source": "O-d72d82dc19",
@@ -17567,25 +17506,14 @@
 "source": "O-da84c3d5bc",
 "target": "O-03898888bd",
 "type": "allied_with",
-"n": 4,
+"n": 3,
 "episodes": [
 19,
 72,
 295
 ],
 "confidence": "stated",
-"detail": "Iran provides training camps, cash and safe haven to the Taliban."
-},
-{
-"source": "O-da84c3d5bc",
-"target": "O-03898888bd",
-"type": "rival_of",
-"n": 1,
-"episodes": [
-97
-],
-"confidence": "stated",
-"detail": "Public mudslinging; Iran accused the Taliban of bringing ISIL figures into Afghanistan"
+"detail": null
 },
 {
 "source": "O-da84c3d5bc",
@@ -17602,13 +17530,13 @@
 "source": "O-da84c3d5bc",
 "target": "O-612bbcec92",
 "type": "allied_with",
-"n": 3,
+"n": 2,
 "episodes": [
 196,
 295
 ],
-"confidence": "inferred",
-"detail": "The Houthis are described as Iran's proxy."
+"confidence": "stated",
+"detail": null
 },
 {
 "source": "O-da84c3d5bc",
@@ -17662,26 +17590,14 @@
 "source": "O-da84c3d5bc",
 "target": "O-c74761bdcd",
 "type": "allied_with",
-"n": 5,
+"n": 3,
 "episodes": [
 41,
-89,
 295,
 337
 ],
-"confidence": "inferred",
-"detail": "The hosts say Iran has a long-demonstrated relationship with al-Qaeda, which three successive US administrations have pointed out."
-},
-{
-"source": "O-da84c3d5bc",
-"target": "O-c74761bdcd",
-"type": "other",
-"n": 1,
-"episodes": [
-295
-],
 "confidence": "stated",
-"detail": "Fitton-Brown: since Zawahiri's death Iran controls al-Qaeda; al-Qaeda becoming a partial member of the axis of resistance"
+"detail": null
 },
 {
 "source": "O-da84c3d5bc",
@@ -17715,28 +17631,6 @@
 ],
 "confidence": "stated",
 "detail": null
-},
-{
-"source": "O-da84c3d5bc",
-"target": "P-c42d08cf39",
-"type": "allied_with",
-"n": 1,
-"episodes": [
-295
-],
-"confidence": "stated",
-"detail": "Iran is friends with Russia; al-Qaeda is friends with Iran"
-},
-{
-"source": "O-da84c3d5bc",
-"target": "P-c4d8ea1c89",
-"type": "other",
-"n": 1,
-"episodes": [
-19
-],
-"confidence": "stated",
-"detail": "Iran is held responsible for over 600 US deaths in Iraq via Shia militias."
 },
 {
 "source": "O-e08247748c",
@@ -18062,28 +17956,6 @@
 ],
 "confidence": "stated",
 "detail": null
-},
-{
-"source": "O-f20f68a6b1",
-"target": "O-03898888bd",
-"type": "funded_by",
-"n": 1,
-"episodes": [
-14
-],
-"confidence": "inferred",
-"detail": "The hosts say the Pakistani state supports the Afghan Taliban and its terrorist proxies; no money is mentioned, so this is general backing."
-},
-{
-"source": "O-f20f68a6b1",
-"target": "O-03898888bd",
-"type": "other",
-"n": 1,
-"episodes": [
-11
-],
-"confidence": "stated",
-"detail": "Pakistan supports the Taliban."
 },
 {
 "source": "O-f20f68a6b1",
@@ -18629,6 +18501,17 @@
 },
 {
 "source": "P-0c749eafc5",
+"target": "L-d3993907e3",
+"type": "sheltered_by",
+"n": 1,
+"episodes": [
+41
+],
+"confidence": "stated",
+"detail": "Operated in Iran under an explicit agreement between the Iranian regime and al-Qaeda."
+},
+{
+"source": "P-0c749eafc5",
 "target": "O-c74761bdcd",
 "type": "leads",
 "n": 1,
@@ -18648,17 +18531,6 @@
 ],
 "confidence": "stated",
 "detail": "Head of al-Qaeda's facilitation network in Iran."
-},
-{
-"source": "P-0c749eafc5",
-"target": "O-da84c3d5bc",
-"type": "sheltered_by",
-"n": 1,
-"episodes": [
-41
-],
-"confidence": "stated",
-"detail": "Operated in Iran under an explicit agreement between the Iranian regime and al-Qaeda."
 },
 {
 "source": "P-0cfdd63b7d",
@@ -18873,6 +18745,17 @@
 },
 {
 "source": "P-0fd865c0cc",
+"target": "L-2c51233e32",
+"type": "sheltered_by",
+"n": 1,
+"episodes": [
+17
+],
+"confidence": "stated",
+"detail": "Believed to reside in Pakistan under state protection"
+},
+{
+"source": "P-0fd865c0cc",
 "target": "O-7d9412a62e",
 "type": "leads",
 "n": 1,
@@ -18881,17 +18764,6 @@
 ],
 "confidence": "inferred",
 "detail": "Named alongside JeM in the State report"
-},
-{
-"source": "P-0fd865c0cc",
-"target": "O-f20f68a6b1",
-"type": "sheltered_by",
-"n": 1,
-"episodes": [
-17
-],
-"confidence": "stated",
-"detail": "Believed to reside in Pakistan under state protection"
 },
 {
 "source": "P-101e88bea1",
@@ -19097,7 +18969,7 @@
 },
 {
 "source": "P-172a3f603c",
-"target": "P-8c1f589fa9",
+"target": "O-bf8c8b2e18",
 "type": "leads",
 "n": 1,
 "episodes": [
@@ -19358,28 +19230,6 @@
 "detail": "Long-time companion of bin Laden."
 },
 {
-"source": "P-26d70993d0",
-"target": "O-78f561d34e",
-"type": "leads",
-"n": 2,
-"episodes": [
-17
-],
-"confidence": "stated",
-"detail": "Julani was regional emir of al-Qaeda's Syrian branch, the Nusra Front."
-},
-{
-"source": "P-26d70993d0",
-"target": "P-6d1c27de99",
-"type": "rival_of",
-"n": 1,
-"episodes": [
-17
-],
-"confidence": "stated",
-"detail": "Julani refused subordination to Baghdadi, who wanted to lead both Iraq and Syria."
-},
-{
 "source": "P-2828c525e1",
 "target": "O-03898888bd",
 "type": "other",
@@ -19418,7 +19268,7 @@
 },
 {
 "source": "P-283f179ce3",
-"target": "P-9f36ca6199",
+"target": "P-b89c97e733",
 "type": "succeeded",
 "n": 1,
 "episodes": [
@@ -19448,6 +19298,52 @@
 ],
 "confidence": "inferred",
 "detail": "uncle (Khalil Haqqani is uncle of Sirajuddin Haqqani)"
+},
+{
+"source": "P-2937ee4049",
+"target": "L-d3993907e3",
+"type": "located_in",
+"n": 2,
+"episodes": [
+17,
+41
+],
+"confidence": "stated",
+"detail": "He is based in Iran."
+},
+{
+"source": "P-2937ee4049",
+"target": "L-d3993907e3",
+"type": "other",
+"n": 1,
+"episodes": [
+41
+],
+"confidence": "stated",
+"detail": "Killed in Iran in August 2020, first reported by the New York Times."
+},
+{
+"source": "P-2937ee4049",
+"target": "L-d3993907e3",
+"type": "sheltered_by",
+"n": 3,
+"episodes": [
+20,
+41
+],
+"confidence": "stated",
+"detail": "He was operating in Iran when killed."
+},
+{
+"source": "P-2937ee4049",
+"target": "L-d3993907e3",
+"type": "trained_by",
+"n": 1,
+"episodes": [
+41
+],
+"confidence": "stated",
+"detail": "The 9/11 Commission says Iran and Hezbollah gave tactical expertise to al-Qaeda operatives including Abu Muhammad al-Masri."
 },
 {
 "source": "P-2937ee4049",
@@ -19484,53 +19380,7 @@
 },
 {
 "source": "P-2937ee4049",
-"target": "O-da84c3d5bc",
-"type": "located_in",
-"n": 2,
-"episodes": [
-17,
-41
-],
-"confidence": "stated",
-"detail": "He is based in Iran."
-},
-{
-"source": "P-2937ee4049",
-"target": "O-da84c3d5bc",
-"type": "other",
-"n": 1,
-"episodes": [
-41
-],
-"confidence": "stated",
-"detail": "Killed in Iran in August 2020, first reported by the New York Times."
-},
-{
-"source": "P-2937ee4049",
-"target": "O-da84c3d5bc",
-"type": "sheltered_by",
-"n": 3,
-"episodes": [
-20,
-41
-],
-"confidence": "stated",
-"detail": "He was operating in Iran when killed."
-},
-{
-"source": "P-2937ee4049",
-"target": "O-da84c3d5bc",
-"type": "trained_by",
-"n": 1,
-"episodes": [
-41
-],
-"confidence": "stated",
-"detail": "The 9/11 Commission says Iran and Hezbollah gave tactical expertise to al-Qaeda operatives including Abu Muhammad al-Masri."
-},
-{
-"source": "P-2937ee4049",
-"target": "P-26d70993d0",
+"target": "P-399c8414c5",
 "type": "rival_of",
 "n": 1,
 "episodes": [
@@ -19708,14 +19558,17 @@
 "source": "P-399c8414c5",
 "target": "O-78f561d34e",
 "type": "leads",
-"n": 3,
+"n": 7,
 "episodes": [
+17,
+20,
 196,
 225,
-295
+295,
+337
 ],
 "confidence": "stated",
-"detail": "Leader of HTS"
+"detail": "Leads HTS."
 },
 {
 "source": "P-399c8414c5",
@@ -19730,11 +19583,23 @@
 },
 {
 "source": "P-399c8414c5",
-"target": "O-f51acaaac8",
-"type": "leads",
+"target": "O-c74761bdcd",
+"type": "member_of",
 "n": 1,
 "episodes": [
-295
+337
+],
+"confidence": "stated",
+"detail": "Formerly led al-Qaeda's branch in Syria; designated SDGT for it."
+},
+{
+"source": "P-399c8414c5",
+"target": "O-f51acaaac8",
+"type": "leads",
+"n": 2,
+"episodes": [
+295,
+337
 ],
 "confidence": "stated",
 "detail": "Took over Syria; now heads the government"
@@ -19754,12 +19619,13 @@
 "source": "P-399c8414c5",
 "target": "P-6d1c27de99",
 "type": "rival_of",
-"n": 1,
+"n": 2,
 "episodes": [
+17,
 225
 ],
 "confidence": "stated",
-"detail": "Dispute between them led to the formation of the Islamic State."
+"detail": "Julani refused subordination to Baghdadi, who wanted to lead both Iraq and Syria."
 },
 {
 "source": "P-399c8414c5",
@@ -19771,6 +19637,17 @@
 ],
 "confidence": "stated",
 "detail": "Met and shook hands with the US president"
+},
+{
+"source": "P-399c8414c5",
+"target": "P-babae3a4fe",
+"type": "reports_to",
+"n": 1,
+"episodes": [
+20
+],
+"confidence": "stated",
+"detail": "Previously held a formal bayah to Zawahiri as al-Qaeda's regional emir; the relationship is strained and murky."
 },
 {
 "source": "P-3ad7c1f7b5",
@@ -20005,28 +19882,6 @@
 "detail": "Western-trained Afghan lieutenant general"
 },
 {
-"source": "P-44d02dc12e",
-"target": "O-9bb6536200",
-"type": "leads",
-"n": 1,
-"episodes": [
-196
-],
-"confidence": "stated",
-"detail": "New leader of AQAP."
-},
-{
-"source": "P-44d02dc12e",
-"target": "P-283f179ce3",
-"type": "succeeded",
-"n": 1,
-"episodes": [
-196
-],
-"confidence": "inferred",
-"detail": "Became new AQAP leader after Batarfi's death."
-},
-{
 "source": "P-47221a3be6",
 "target": "O-9bb6536200",
 "type": "member_of",
@@ -20036,39 +19891,6 @@
 ],
 "confidence": "stated",
 "detail": "AQAP ideologue and former Guantanamo detainee."
-},
-{
-"source": "P-4a2a7e6d3f",
-"target": "O-78f561d34e",
-"type": "leads",
-"n": 1,
-"episodes": [
-337
-],
-"confidence": "stated",
-"detail": "HTS was his former organization."
-},
-{
-"source": "P-4a2a7e6d3f",
-"target": "O-c74761bdcd",
-"type": "member_of",
-"n": 1,
-"episodes": [
-337
-],
-"confidence": "stated",
-"detail": "Formerly led al-Qaeda's branch in Syria; designated SDGT for it."
-},
-{
-"source": "P-4a2a7e6d3f",
-"target": "O-f51acaaac8",
-"type": "leads",
-"n": 1,
-"episodes": [
-337
-],
-"confidence": "stated",
-"detail": "Self-appointed president of Syria."
 },
 {
 "source": "P-4acb13c912",
@@ -20163,14 +19985,15 @@
 },
 {
 "source": "P-5224f98669",
-"target": "P-01e4a72987",
+"target": "P-0a71995422",
 "type": "family",
-"n": 2,
+"n": 4,
 "episodes": [
+12,
 19
 ],
 "confidence": "stated",
-"detail": "son (Hibatullah Akhundzada is son of unnamed son of Hibatullah Akhundzada (suicide bomber, Helmand))"
+"detail": "son (Hibatullah Akhundzada is son of Unnamed son of Hibatullah Akhundzada)"
 },
 {
 "source": "P-5224f98669",
@@ -20193,17 +20016,6 @@
 ],
 "confidence": "stated",
 "detail": "Mansour is described as Akhundzada's predecessor as Taliban emir."
-},
-{
-"source": "P-5224f98669",
-"target": "P-af534b2143",
-"type": "family",
-"n": 2,
-"episodes": [
-12
-],
-"confidence": "stated",
-"detail": "son (Hibatullah Akhundzada is son of unnamed son of Hibatullah Akhundzada (suicide bomber, Gereshk, Helmand, c.2017))"
 },
 {
 "source": "P-52f6823018",
@@ -20261,28 +20073,6 @@
 "detail": "Posted support for AQAP and cited Ibrahim al-Rubaish, though no claim of responsibility had been made."
 },
 {
-"source": "P-565a71ee96",
-"target": "O-c74761bdcd",
-"type": "member_of",
-"n": 1,
-"episodes": [
-89
-],
-"confidence": "stated",
-"detail": "Al-Qaeda number three, part of the Iran-based leadership cell with Saif al-Adel."
-},
-{
-"source": "P-565a71ee96",
-"target": "O-da84c3d5bc",
-"type": "located_in",
-"n": 1,
-"episodes": [
-89
-],
-"confidence": "stated",
-"detail": "Based in Iran with Saif al-Adel in a leadership cell."
-},
-{
 "source": "P-579ff0f1bb",
 "target": "P-4f6af5c7d3",
 "type": "family",
@@ -20292,28 +20082,6 @@
 ],
 "confidence": "stated",
 "detail": "brother (Dzhokhar Tsarnaev is brother of Tamerlan Tsarnaev)"
-},
-{
-"source": "P-5826c96035",
-"target": "O-03898888bd",
-"type": "sheltered_by",
-"n": 1,
-"episodes": [
-14
-],
-"confidence": "stated",
-"detail": "Asim Umar was killed in Helmand in a Sept 2019 raid where al-Qaeda was said to be harbored by the Taliban."
-},
-{
-"source": "P-5826c96035",
-"target": "P-babae3a4fe",
-"type": "reports_to",
-"n": 1,
-"episodes": [
-20
-],
-"confidence": "stated",
-"detail": "Had a courier with direct communication to Zawahiri."
 },
 {
 "source": "P-582bf67f38",
@@ -20361,7 +20129,7 @@
 },
 {
 "source": "P-591ba13515",
-"target": "P-4a2a7e6d3f",
+"target": "P-399c8414c5",
 "type": "met_with",
 "n": 1,
 "episodes": [
@@ -20441,8 +20209,9 @@
 "source": "P-5e36b496d9",
 "target": "O-03898888bd",
 "type": "sheltered_by",
-"n": 1,
+"n": 2,
 "episodes": [
+14,
 43
 ],
 "confidence": "stated",
@@ -20461,7 +20230,7 @@
 },
 {
 "source": "P-5e36b496d9",
-"target": "P-7fd2fbabab",
+"target": "P-9df924c3ff",
 "type": "sheltered_by",
 "n": 1,
 "episodes": [
@@ -20474,12 +20243,13 @@
 "source": "P-5e36b496d9",
 "target": "P-babae3a4fe",
 "type": "reports_to",
-"n": 1,
+"n": 2,
 "episodes": [
+20,
 43
 ],
 "confidence": "stated",
-"detail": "Asim Omar was a career direct courier to Zawahiri."
+"detail": "Had a courier with direct communication to Zawahiri."
 },
 {
 "source": "P-5eed861be2",
@@ -20539,6 +20309,17 @@
 },
 {
 "source": "P-6957408306",
+"target": "L-d3993907e3",
+"type": "sheltered_by",
+"n": 1,
+"episodes": [
+20
+],
+"confidence": "stated",
+"detail": "He operates from inside Iran leading al-Qaeda military affairs."
+},
+{
+"source": "P-6957408306",
 "target": "O-58428b36fc",
 "type": "leads",
 "n": 1,
@@ -20558,17 +20339,6 @@
 ],
 "confidence": "stated",
 "detail": "Worked with al-Qaeda-affiliated groups including the Pakistan Taliban."
-},
-{
-"source": "P-6957408306",
-"target": "O-da84c3d5bc",
-"type": "sheltered_by",
-"n": 1,
-"episodes": [
-20
-],
-"confidence": "stated",
-"detail": "He operates from inside Iran leading al-Qaeda military affairs."
 },
 {
 "source": "P-6adf4bf81b",
@@ -20711,7 +20481,7 @@
 },
 {
 "source": "P-6d1c27de99",
-"target": "P-4a2a7e6d3f",
+"target": "P-399c8414c5",
 "type": "rival_of",
 "n": 1,
 "episodes": [
@@ -20757,23 +20527,25 @@
 "source": "P-71835da534",
 "target": "O-9bb6536200",
 "type": "leads",
-"n": 1,
+"n": 2,
 "episodes": [
+196,
 295
 ],
 "confidence": "stated",
-"detail": "Leader of AQAP"
+"detail": "New leader of AQAP."
 },
 {
 "source": "P-71835da534",
 "target": "P-283f179ce3",
 "type": "succeeded",
-"n": 1,
+"n": 2,
 "episodes": [
+196,
 295
 ],
-"confidence": "stated",
-"detail": "Al-Awlaki (Yemeni) succeeded Batarfi (Saudi) as AQAP leader"
+"confidence": "inferred",
+"detail": "Became new AQAP leader after Batarfi's death."
 },
 {
 "source": "P-73fb72ee31",
@@ -20910,13 +20682,43 @@
 {
 "source": "P-7cdd19eb28",
 "target": "L-d3993907e3",
-"type": "located_in",
-"n": 1,
+"type": "hosted_by",
+"n": 3,
 "episodes": [
-83
+196,
+295,
+337
+],
+"confidence": "stated",
+"detail": "Saif al-Adel resides in Iran as a guest of the Iranian government; began as house arrest"
+},
+{
+"source": "P-7cdd19eb28",
+"target": "L-d3993907e3",
+"type": "located_in",
+"n": 3,
+"episodes": [
+17,
+83,
+295
 ],
 "confidence": "stated",
 "detail": "Supposedly based in Iran; frontrunner to succeed Zawahiri."
+},
+{
+"source": "P-7cdd19eb28",
+"target": "L-d3993907e3",
+"type": "sheltered_by",
+"n": 6,
+"episodes": [
+20,
+41,
+89,
+97,
+196
+],
+"confidence": "stated",
+"detail": "The monitoring team says he is in Iran as a guest of the Iranian government."
 },
 {
 "source": "P-7cdd19eb28",
@@ -20990,46 +20792,6 @@
 },
 {
 "source": "P-7cdd19eb28",
-"target": "O-da84c3d5bc",
-"type": "hosted_by",
-"n": 3,
-"episodes": [
-196,
-295,
-337
-],
-"confidence": "stated",
-"detail": "Saif al-Adel resides in Iran as a guest of the Iranian government; began as house arrest"
-},
-{
-"source": "P-7cdd19eb28",
-"target": "O-da84c3d5bc",
-"type": "located_in",
-"n": 2,
-"episodes": [
-17,
-295
-],
-"confidence": "stated",
-"detail": "He is based in Iran."
-},
-{
-"source": "P-7cdd19eb28",
-"target": "O-da84c3d5bc",
-"type": "sheltered_by",
-"n": 6,
-"episodes": [
-20,
-41,
-89,
-97,
-196
-],
-"confidence": "stated",
-"detail": "The monitoring team says he is in Iran as a guest of the Iranian government."
-},
-{
-"source": "P-7cdd19eb28",
 "target": "P-181fb5f148",
 "type": "family",
 "n": 3,
@@ -21042,7 +20804,7 @@
 },
 {
 "source": "P-7cdd19eb28",
-"target": "P-26d70993d0",
+"target": "P-399c8414c5",
 "type": "rival_of",
 "n": 1,
 "episodes": [
@@ -21169,12 +20931,26 @@
 "source": "P-84dd83860c",
 "target": "L-d3993907e3",
 "type": "located_in",
-"n": 1,
+"n": 3,
 "episodes": [
-83
+41,
+83,
+89
 ],
 "confidence": "stated",
 "detail": "Supposedly based in Iran; possible successor."
+},
+{
+"source": "P-84dd83860c",
+"target": "L-d3993907e3",
+"type": "sheltered_by",
+"n": 2,
+"episodes": [
+41,
+97
+],
+"confidence": "inferred",
+"detail": "Relocated to Iran, probably after 2015."
 },
 {
 "source": "P-84dd83860c",
@@ -21189,26 +20965,14 @@
 },
 {
 "source": "P-84dd83860c",
-"target": "O-da84c3d5bc",
-"type": "located_in",
+"target": "O-c74761bdcd",
+"type": "member_of",
 "n": 1,
 "episodes": [
-41
+89
 ],
 "confidence": "stated",
-"detail": "Rewards for Justice says he relocated to Iran."
-},
-{
-"source": "P-84dd83860c",
-"target": "O-da84c3d5bc",
-"type": "sheltered_by",
-"n": 2,
-"episodes": [
-41,
-97
-],
-"confidence": "inferred",
-"detail": "Relocated to Iran, probably after 2015."
+"detail": "Al-Qaeda number three, part of the Iran-based leadership cell with Saif al-Adel."
 },
 {
 "source": "P-84dd83860c",
@@ -21233,15 +20997,15 @@
 "detail": "son-in-law of (Abd al-Rahman al-Maghrebi is son-in-law of of Ayman al-Zawahiri)"
 },
 {
-"source": "P-854733a659",
-"target": "O-2e80a68a8a",
-"type": "located_in",
+"source": "P-8680adbfb6",
+"target": "L-2c51233e32",
+"type": "sheltered_by",
 "n": 1,
 "episodes": [
-19
+17
 ],
 "confidence": "stated",
-"detail": "The five Taliban released in the Bergdahl swap went to Qatar."
+"detail": "Believed to reside in Pakistan under state protection"
 },
 {
 "source": "P-8680adbfb6",
@@ -21253,17 +21017,6 @@
 ],
 "confidence": "stated",
 "detail": "Key LeT commander and Mumbai mastermind"
-},
-{
-"source": "P-8680adbfb6",
-"target": "O-f20f68a6b1",
-"type": "sheltered_by",
-"n": 1,
-"episodes": [
-17
-],
-"confidence": "stated",
-"detail": "Believed to reside in Pakistan under state protection"
 },
 {
 "source": "P-893bc9c241",
@@ -21308,98 +21061,6 @@
 ],
 "confidence": "stated",
 "detail": "Stu was the Uruzgan provincial analyst at KIFC."
-},
-{
-"source": "P-8c1f589fa9",
-"target": "P-18f78f3620",
-"type": "killed",
-"n": 1,
-"episodes": [
-17
-],
-"confidence": "stated",
-"detail": "He was killed by a drone strike after entering Idlib."
-},
-{
-"source": "P-8c1f589fa9",
-"target": "P-3cdd916edc",
-"type": "killed",
-"n": 1,
-"episodes": [
-14
-],
-"confidence": "stated",
-"detail": "Mansour was killed by the Obama administration in Pakistan."
-},
-{
-"source": "P-8c1f589fa9",
-"target": "P-61bd6cd482",
-"type": "killed",
-"n": 1,
-"episodes": [
-196
-],
-"confidence": "stated",
-"detail": "Killed in a US Special Forces operation in Somalia."
-},
-{
-"source": "P-8c1f589fa9",
-"target": "P-babae3a4fe",
-"type": "killed",
-"n": 4,
-"episodes": [
-84,
-89,
-97,
-295
-],
-"confidence": "inferred",
-"detail": "US killed Zawahiri on 31 July 2022"
-},
-{
-"source": "P-8c1f589fa9",
-"target": "P-bc2cdd4bf3",
-"type": "killed",
-"n": 1,
-"episodes": [
-17
-],
-"confidence": "stated",
-"detail": "The US killed Shishani."
-},
-{
-"source": "P-8c1f589fa9",
-"target": "P-d4af197885",
-"type": "killed",
-"n": 2,
-"episodes": [
-84
-],
-"confidence": "stated",
-"detail": "Killed in a US raid on an al-Qaeda camp in Barmal."
-},
-{
-"source": "P-8c1f589fa9",
-"target": "P-e4b777af1b",
-"type": "killed",
-"n": 1,
-"episodes": [
-17
-],
-"confidence": "stated",
-"detail": "Killed by a US drone strike with an R-9X missile in Idlib."
-},
-{
-"source": "P-8c1f589fa9",
-"target": "P-fecff9c653",
-"type": "killed",
-"n": 2,
-"episodes": [
-97,
-295
-],
-"confidence": "stated",
-"detail": "Found and killed by the US in Yemen"
 },
 {
 "source": "P-90601f4c40",
@@ -21596,23 +21257,13 @@
 "source": "P-a91ef284f9",
 "target": "O-27009e72c2",
 "type": "leads",
-"n": 1,
+"n": 2,
 "episodes": [
-43
+43,
+124
 ],
 "confidence": "inferred",
 "detail": "Ghani heads the Afghan government."
-},
-{
-"source": "P-a91ef284f9",
-"target": "P-e2ba6abbfe",
-"type": "leads",
-"n": 1,
-"episodes": [
-124
-],
-"confidence": "stated",
-"detail": "Ghani administration launched an anti-corruption initiative that devolved into 'effective corruption'."
 },
 {
 "source": "P-aa69619c83",
@@ -21627,6 +21278,17 @@
 },
 {
 "source": "P-ab0c0145fd",
+"target": "L-d3993907e3",
+"type": "negotiated_with",
+"n": 1,
+"episodes": [
+41
+],
+"confidence": "stated",
+"detail": "Negotiated the agreement with Iran under which Suri's network operated."
+},
+{
+"source": "P-ab0c0145fd",
 "target": "O-c74761bdcd",
 "type": "member_of",
 "n": 2,
@@ -21636,17 +21298,6 @@
 ],
 "confidence": "inferred",
 "detail": "Senior al-Qaeda figure."
-},
-{
-"source": "P-ab0c0145fd",
-"target": "O-da84c3d5bc",
-"type": "negotiated_with",
-"n": 1,
-"episodes": [
-41
-],
-"confidence": "stated",
-"detail": "Negotiated the agreement with Iran under which Suri's network operated."
 },
 {
 "source": "P-ab0c0145fd",
@@ -21783,17 +21434,6 @@
 "detail": "Rubin is cited as vouching that Haqqani is no longer a threat to the US and as facilitating his NYT op-ed."
 },
 {
-"source": "P-b258aef4a6",
-"target": "O-645c37b9b2",
-"type": "other",
-"n": 1,
-"episodes": [
-41
-],
-"confidence": "stated",
-"detail": "Designated MOIS in Feb 2012 over facilitation of al-Qaeda."
-},
-{
 "source": "P-b2873fccec",
 "target": "O-d1575d7367",
 "type": "leads",
@@ -21820,7 +21460,7 @@
 },
 {
 "source": "P-b325e17488",
-"target": "P-4a2a7e6d3f",
+"target": "P-399c8414c5",
 "type": "met_with",
 "n": 1,
 "episodes": [
@@ -22225,17 +21865,6 @@
 },
 {
 "source": "P-babae3a4fe",
-"target": "P-26d70993d0",
-"type": "rival_of",
-"n": 1,
-"episodes": [
-17
-],
-"confidence": "stated",
-"detail": "Al-Qaeda senior leadership disagrees with Julani on holding territory under Turkish protection; hosts say it has not publicly disowned him."
-},
-{
-"source": "P-babae3a4fe",
 "target": "P-399c8414c5",
 "type": "allied_with",
 "n": 1,
@@ -22244,6 +21873,17 @@
 ],
 "confidence": "stated",
 "detail": "Zawahiri sided with Jolani as head of the jihad in Syria and told Baghdadi to stay in Iraq."
+},
+{
+"source": "P-babae3a4fe",
+"target": "P-399c8414c5",
+"type": "rival_of",
+"n": 1,
+"episodes": [
+17
+],
+"confidence": "stated",
+"detail": "Al-Qaeda senior leadership disagrees with Julani on holding territory under Turkish protection; hosts say it has not publicly disowned him."
 },
 {
 "source": "P-babae3a4fe",
@@ -22428,7 +22068,7 @@
 },
 {
 "source": "P-c0972e83a7",
-"target": "P-26d70993d0",
+"target": "P-399c8414c5",
 "type": "rival_of",
 "n": 1,
 "episodes": [
@@ -22593,28 +22233,6 @@
 ],
 "confidence": "inferred",
 "detail": "Bergen is affiliated with New America Foundation, where the debate took place."
-},
-{
-"source": "P-d48d195e12",
-"target": "O-78f561d34e",
-"type": "leads",
-"n": 1,
-"episodes": [
-20
-],
-"confidence": "stated",
-"detail": "Leads HTS."
-},
-{
-"source": "P-d48d195e12",
-"target": "P-babae3a4fe",
-"type": "reports_to",
-"n": 1,
-"episodes": [
-20
-],
-"confidence": "stated",
-"detail": "Previously held a formal bayah to Zawahiri as al-Qaeda's regional emir; the relationship is strained and murky."
 },
 {
 "source": "P-d4af197885",
@@ -23042,17 +22660,6 @@
 },
 {
 "source": "P-f9015bfd20",
-"target": "L-abe4262d49",
-"type": "located_in",
-"n": 1,
-"episodes": [
-225
-],
-"confidence": "stated",
-"detail": "Visited Turkey in late November 2024 for a weapons expo."
-},
-{
-"source": "P-f9015bfd20",
 "target": "O-03898888bd",
 "type": "deputy_of",
 "n": 2,
@@ -23073,6 +22680,17 @@
 ],
 "confidence": "stated",
 "detail": "Taliban minister of defense."
+},
+{
+"source": "P-f9015bfd20",
+"target": "O-056774fed0",
+"type": "located_in",
+"n": 1,
+"episodes": [
+225
+],
+"confidence": "stated",
+"detail": "Visited Turkey in late November 2024 for a weapons expo."
 },
 {
 "source": "P-f9015bfd20",
@@ -23123,6 +22741,17 @@
 },
 {
 "source": "P-ffcc63b9ae",
+"target": "O-bf8c8b2e18",
+"type": "captured",
+"n": 1,
+"episodes": [
+89
+],
+"confidence": "stated",
+"detail": "Captured by US forces in Kunar in 2010."
+},
+{
+"source": "P-ffcc63b9ae",
 "target": "O-c74761bdcd",
 "type": "member_of",
 "n": 1,
@@ -23131,17 +22760,6 @@
 ],
 "confidence": "stated",
 "detail": "Al-Qaeda operations commander in Kunar/Nuristan."
-},
-{
-"source": "P-ffcc63b9ae",
-"target": "P-8c1f589fa9",
-"type": "captured",
-"n": 1,
-"episodes": [
-89
-],
-"confidence": "stated",
-"detail": "Captured by US forces in Kunar in 2010."
 },
 {
 "source": "P-016010ab8b",
@@ -23283,7 +22901,7 @@
 },
 {
 "source": "P-087fbc7397",
-"target": "O-f305ab3b3c",
+"target": "O-bf8c8b2e18",
 "type": "member_of",
 "n": 7,
 "episodes": [
@@ -23812,25 +23430,25 @@
 },
 {
 "source": "P-1ee6b26794",
-"target": "O-d8f6d5bbb1",
-"type": "member_of",
-"n": 2,
-"episodes": [
-3,
-14
-],
-"confidence": "stated",
-"detail": null
-},
-{
-"source": "P-1ee6b26794",
-"target": "O-f305ab3b3c",
+"target": "O-bf8c8b2e18",
 "type": "member_of",
 "n": 3,
 "episodes": [
 12,
 19,
 56
+],
+"confidence": "stated",
+"detail": null
+},
+{
+"source": "P-1ee6b26794",
+"target": "O-d8f6d5bbb1",
+"type": "member_of",
+"n": 2,
+"episodes": [
+3,
+14
 ],
 "confidence": "stated",
 "detail": null
@@ -23945,39 +23563,6 @@
 "n": 1,
 "episodes": [
 41
-],
-"confidence": "stated",
-"detail": null
-},
-{
-"source": "P-26d70993d0",
-"target": "O-78f561d34e",
-"type": "member_of",
-"n": 1,
-"episodes": [
-17
-],
-"confidence": "stated",
-"detail": null
-},
-{
-"source": "P-26d70993d0",
-"target": "O-c74761bdcd",
-"type": "member_of",
-"n": 1,
-"episodes": [
-17
-],
-"confidence": "stated",
-"detail": null
-},
-{
-"source": "P-26d70993d0",
-"target": "O-d9b24e5c80",
-"type": "member_of",
-"n": 1,
-"episodes": [
-17
 ],
 "confidence": "stated",
 "detail": null
@@ -24243,11 +23828,14 @@
 "source": "P-399c8414c5",
 "target": "O-78f561d34e",
 "type": "member_of",
-"n": 3,
+"n": 6,
 "episodes": [
+17,
+20,
 196,
 225,
-295
+295,
+337
 ],
 "confidence": "stated",
 "detail": null
@@ -24267,9 +23855,23 @@
 "source": "P-399c8414c5",
 "target": "O-c74761bdcd",
 "type": "member_of",
+"n": 4,
+"episodes": [
+17,
+20,
+225,
+337
+],
+"confidence": "stated",
+"detail": null
+},
+{
+"source": "P-399c8414c5",
+"target": "O-d9b24e5c80",
+"type": "member_of",
 "n": 1,
 "episodes": [
-225
+17
 ],
 "confidence": "stated",
 "detail": null
@@ -24278,9 +23880,10 @@
 "source": "P-399c8414c5",
 "target": "O-f51acaaac8",
 "type": "member_of",
-"n": 1,
+"n": 2,
 "episodes": [
-295
+295,
+337
 ],
 "confidence": "stated",
 "detail": null
@@ -24310,7 +23913,7 @@
 },
 {
 "source": "P-3b07911e34",
-"target": "O-f305ab3b3c",
+"target": "O-bf8c8b2e18",
 "type": "member_of",
 "n": 1,
 "episodes": [
@@ -24334,9 +23937,10 @@
 "source": "P-3bc7c339d7",
 "target": "O-9bb6536200",
 "type": "member_of",
-"n": 1,
+"n": 2,
 "episodes": [
-12
+12,
+20
 ],
 "confidence": "stated",
 "detail": null
@@ -24478,67 +24082,12 @@
 "detail": null
 },
 {
-"source": "P-44d02dc12e",
-"target": "O-9bb6536200",
-"type": "member_of",
-"n": 1,
-"episodes": [
-196
-],
-"confidence": "stated",
-"detail": null
-},
-{
-"source": "P-44d02dc12e",
-"target": "O-c74761bdcd",
-"type": "member_of",
-"n": 1,
-"episodes": [
-196
-],
-"confidence": "stated",
-"detail": null
-},
-{
 "source": "P-47221a3be6",
 "target": "O-9bb6536200",
 "type": "member_of",
 "n": 1,
 "episodes": [
 12
-],
-"confidence": "stated",
-"detail": null
-},
-{
-"source": "P-4a2a7e6d3f",
-"target": "O-78f561d34e",
-"type": "member_of",
-"n": 1,
-"episodes": [
-337
-],
-"confidence": "stated",
-"detail": null
-},
-{
-"source": "P-4a2a7e6d3f",
-"target": "O-c74761bdcd",
-"type": "member_of",
-"n": 1,
-"episodes": [
-337
-],
-"confidence": "stated",
-"detail": null
-},
-{
-"source": "P-4a2a7e6d3f",
-"target": "O-f51acaaac8",
-"type": "member_of",
-"n": 1,
-"episodes": [
-337
 ],
 "confidence": "stated",
 "detail": null
@@ -24635,6 +24184,20 @@
 },
 {
 "source": "P-4e12469aee",
+"target": "O-bf8c8b2e18",
+"type": "member_of",
+"n": 4,
+"episodes": [
+12,
+19,
+56,
+70
+],
+"confidence": "stated",
+"detail": null
+},
+{
+"source": "P-4e12469aee",
 "target": "O-d34463acc9",
 "type": "member_of",
 "n": 1,
@@ -24652,20 +24215,6 @@
 "episodes": [
 3,
 14
-],
-"confidence": "stated",
-"detail": null
-},
-{
-"source": "P-4e12469aee",
-"target": "O-f305ab3b3c",
-"type": "member_of",
-"n": 4,
-"episodes": [
-12,
-19,
-56,
-70
 ],
 "confidence": "stated",
 "detail": null
@@ -24813,47 +24362,12 @@
 "detail": null
 },
 {
-"source": "P-565a71ee96",
-"target": "O-c74761bdcd",
-"type": "member_of",
-"n": 1,
-"episodes": [
-89
-],
-"confidence": "stated",
-"detail": null
-},
-{
 "source": "P-568b7769ab",
 "target": "O-c74761bdcd",
 "type": "member_of",
 "n": 1,
 "episodes": [
 72
-],
-"confidence": "stated",
-"detail": null
-},
-{
-"source": "P-5826c96035",
-"target": "O-6e8004155e",
-"type": "member_of",
-"n": 2,
-"episodes": [
-14,
-20
-],
-"confidence": "stated",
-"detail": null
-},
-{
-"source": "P-5826c96035",
-"target": "O-c74761bdcd",
-"type": "member_of",
-"n": 2,
-"episodes": [
-14,
-20
 ],
 "confidence": "stated",
 "detail": null
@@ -24953,8 +24467,10 @@
 "source": "P-5e36b496d9",
 "target": "O-6e8004155e",
 "type": "member_of",
-"n": 1,
+"n": 3,
 "episodes": [
+14,
+20,
 43
 ],
 "confidence": "stated",
@@ -24964,8 +24480,10 @@
 "source": "P-5e36b496d9",
 "target": "O-c74761bdcd",
 "type": "member_of",
-"n": 1,
+"n": 3,
 "episodes": [
+14,
+20,
 43
 ],
 "confidence": "stated",
@@ -25213,8 +24731,9 @@
 "source": "P-71835da534",
 "target": "O-9bb6536200",
 "type": "member_of",
-"n": 1,
+"n": 2,
 "episodes": [
+196,
 295
 ],
 "confidence": "stated",
@@ -25224,8 +24743,9 @@
 "source": "P-71835da534",
 "target": "O-c74761bdcd",
 "type": "member_of",
-"n": 1,
+"n": 2,
 "episodes": [
+196,
 295
 ],
 "confidence": "stated",
@@ -25430,7 +24950,7 @@
 },
 {
 "source": "P-80f6baca96",
-"target": "O-f305ab3b3c",
+"target": "O-bf8c8b2e18",
 "type": "member_of",
 "n": 1,
 "episodes": [
@@ -25465,10 +24985,11 @@
 "source": "P-84dd83860c",
 "target": "O-c74761bdcd",
 "type": "member_of",
-"n": 3,
+"n": 4,
 "episodes": [
 41,
 83,
+89,
 97
 ],
 "confidence": "stated",
@@ -25786,22 +25307,11 @@
 },
 {
 "source": "P-988bd2cbf2",
-"target": "O-f305ab3b3c",
+"target": "O-bf8c8b2e18",
 "type": "member_of",
 "n": 1,
 "episodes": [
 19
-],
-"confidence": "stated",
-"detail": null
-},
-{
-"source": "P-9a44f7088b",
-"target": "O-9bb6536200",
-"type": "member_of",
-"n": 1,
-"episodes": [
-20
 ],
 "confidence": "stated",
 "detail": null
@@ -25848,17 +25358,6 @@
 "episodes": [
 97,
 124
-],
-"confidence": "stated",
-"detail": null
-},
-{
-"source": "P-9f36ca6199",
-"target": "O-9bb6536200",
-"type": "member_of",
-"n": 1,
-"episodes": [
-20
 ],
 "confidence": "stated",
 "detail": null
@@ -26112,7 +25611,7 @@
 },
 {
 "source": "P-b325e17488",
-"target": "O-f305ab3b3c",
+"target": "O-bf8c8b2e18",
 "type": "member_of",
 "n": 11,
 "episodes": [
@@ -26259,9 +25758,10 @@
 "source": "P-b89c97e733",
 "target": "O-9bb6536200",
 "type": "member_of",
-"n": 1,
+"n": 2,
 "episodes": [
-12
+12,
+20
 ],
 "confidence": "stated",
 "detail": null
@@ -26537,7 +26037,7 @@
 },
 {
 "source": "P-c53df57d2b",
-"target": "O-f305ab3b3c",
+"target": "O-bf8c8b2e18",
 "type": "member_of",
 "n": 2,
 "episodes": [
@@ -26560,7 +26060,7 @@
 },
 {
 "source": "P-c6a9503fe7",
-"target": "O-f305ab3b3c",
+"target": "O-bf8c8b2e18",
 "type": "member_of",
 "n": 1,
 "episodes": [
@@ -26616,7 +26116,7 @@
 },
 {
 "source": "P-caed9052b9",
-"target": "O-f305ab3b3c",
+"target": "O-bf8c8b2e18",
 "type": "member_of",
 "n": 6,
 "episodes": [
@@ -26815,28 +26315,6 @@
 "detail": null
 },
 {
-"source": "P-d48d195e12",
-"target": "O-78f561d34e",
-"type": "member_of",
-"n": 1,
-"episodes": [
-20
-],
-"confidence": "stated",
-"detail": null
-},
-{
-"source": "P-d48d195e12",
-"target": "O-c74761bdcd",
-"type": "member_of",
-"n": 1,
-"episodes": [
-20
-],
-"confidence": "stated",
-"detail": null
-},
-{
 "source": "P-d4af197885",
 "target": "O-c74761bdcd",
 "type": "member_of",
@@ -26883,7 +26361,7 @@
 },
 {
 "source": "P-d7342839e5",
-"target": "O-f305ab3b3c",
+"target": "O-bf8c8b2e18",
 "type": "member_of",
 "n": 1,
 "episodes": [
@@ -26988,7 +26466,7 @@
 },
 {
 "source": "P-e60c04eaa2",
-"target": "O-f305ab3b3c",
+"target": "O-bf8c8b2e18",
 "type": "member_of",
 "n": 1,
 "episodes": [
@@ -27033,7 +26511,7 @@
 },
 {
 "source": "P-e7e8cdc6c7",
-"target": "O-f305ab3b3c",
+"target": "O-bf8c8b2e18",
 "type": "member_of",
 "n": 5,
 "episodes": [
