@@ -10,8 +10,10 @@ Companion to the podcast pipeline in `scripts/`. Same entity-id scheme (`P-/O-/L
 | Posts enumerated from `longwarjournal.org` sitemaps (2004–2026) | 63,999 posts + 10 reference pages |
 | Posts crawled (title, date, author, tags, categories, body) | 64,008 (0 failures) |
 | Relevant to Afghanistan / Pakistan / Taliban / Haqqani / al-Qaeda-AQIS / TTP / ISKP (tag or keyword filter) | 24,675 |
-| Articles run through LLM extraction | 14884 (extraction paused: Anthropic credits exhausted; `pipeline.py submit` resumes the remaining ~9.8k) |
-| …of which the model confirmed in-scope (`relevant=true`) | 10390 |
+| Articles run through LLM extraction | 24,675 (all of them; 24,383 Haiku 4.5, 292 Sonnet 4.6) |
+| …of which the model confirmed in-scope (`relevant=true`) | 15,152 |
+| Resulting entities / relationships / events | 36,922 (10,841 people, 9,181 orgs, 16,900 places) / 145,945 / 67,005 |
+| Graph export | 18,957 nodes, 53,159 edges |
 
 Relevance filter (`pipeline.py::is_relevant`): article carries one of the AfPak tags (Afghanistan, Pakistan, Taliban,
 Haqqani Network, al Qaeda, AQIS, TTP/Movement of the Taliban in Pakistan, ISKP, Lashkar-e-Taiba, Jaish-e-Mohammed,
@@ -28,6 +30,11 @@ Waziristan, Khorasan, …) **or** the title/body matches ≥3 AfPak keywords. Ou
    with the article metadata embedded under `article`. Truncated or malformed outputs are automatically re-queued
    (`submit` re-submits any relevant article that has no extraction file).
 3. `build_lwj_db.py` – merges all extraction files into `db/lwj_afpak.sqlite` and `db/lwj_exports/*.csv|json`.
+4. `validate_lwj_db.py` – referential-integrity and schema checks (dangling ids, blank edge types, self-edges, bad dates,
+   alias==name); exits non-zero on hard failures and prints soft warnings (quote-less edges, cross-kind name overlaps).
+
+Coverage by year follows LWJ's own AfPak output: ~2,500–4,250 articles/yr for 2008–2012, falling to <150/yr after 2019
+(the site's later AfPak coverage is mostly in the Taliban-control and strike trackers listed in `pages.txt`).
 
 ## Extraction schema (per article JSON)
 
@@ -45,7 +52,10 @@ sources_cited[]  key_claims[]
 Relationship direction: source = actor / junior party, target = recipient / senior party
 (`TTP sheltered_by Taliban`, `Sirajuddin Haqqani deputy_of Hibatullah Akhundzada`, `killer killed victim`,
 `person member_of org`, `subject based_in place`). For `family` edges the `detail` column is the **source's** relation to the target
-(`Jalaluddin Haqqani —family(father)→ Sirajuddin Haqqani`).
+(`Jalaluddin Haqqani —family(father)→ Sirajuddin Haqqani`). The builder adds a normalised `relationships.kin` column
+(son/father/brother/…) parsed from the free-text `detail`, and for asymmetric kin (parent/child, uncle/nephew, in-laws) it
+orients each pair by majority vote across all articles; the minority rows are flipped and marked `confidence=inferred`,
+so the raw `detail` text is preserved while the graph direction is consistent.
 
 ## Database (`db/lwj_afpak.sqlite`)
 
@@ -56,7 +66,7 @@ Relationship direction: source = actor / junior party, target = recipient / seni
 | `aliases` | every alternate spelling / kunya / title seen for an entity |
 | `memberships`, `roles` | person→org and person→title, per article (so titles can be dated) |
 | `mentions` | one row per person per article with the supporting quote and the locations the article tied them to |
-| `relationships` | typed edge with detail, date, confidence, article id, publication date, quote |
+| `relationships` | typed edge with detail, kin (family only), date, confidence, article id, publication date, quote |
 | `events`, `event_actors` | dated events with place, casualties, and actor/target links |
 | `claims`, `sources_cited` | the article's key analytic claims and the sources it cites |
 | `person_status_history` | status (alive/killed/captured/…) as reported in each article, for timeline views |
@@ -75,6 +85,10 @@ kind. Expect residual splits for rare spellings; `db/lwj_exports/entities.csv` s
 and additions go in `scripts/aliases.json`.
 
 ## Exports (`db/lwj_exports/`)
+
+The SQLite file (118 MB) and the larger CSVs are committed gzip-compressed (`gunzip -k db/lwj_afpak.sqlite.gz`,
+`gunzip -k db/lwj_exports/*.gz`) to stay under GitHub's 100 MB file limit.
+
 
 `articles.csv`, `entities.csv`, `aliases.csv`, `relationships.csv` (joined names + article url + quote), `events.csv`,
 `mentions.csv`, `roles.csv`, `memberships.csv`, and `graph.json` (`nodes` = every person plus any org/place seen in ≥2

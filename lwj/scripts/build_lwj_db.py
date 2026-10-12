@@ -17,7 +17,7 @@ CREATE TABLE aliases(entity_id TEXT, alias TEXT, source TEXT, PRIMARY KEY(entity
 CREATE TABLE memberships(entity_id TEXT, org_id TEXT, article_id TEXT, published TEXT, PRIMARY KEY(entity_id, org_id, article_id));
 CREATE TABLE roles(entity_id TEXT, role TEXT, article_id TEXT, published TEXT, PRIMARY KEY(entity_id, role, article_id));
 CREATE TABLE mentions(id INTEGER PRIMARY KEY AUTOINCREMENT, entity_id TEXT, article_id TEXT, published TEXT, quote TEXT, role_in_article TEXT, locations TEXT);
-CREATE TABLE relationships(id INTEGER PRIMARY KEY AUTOINCREMENT, source_id TEXT, target_id TEXT, type TEXT, detail TEXT, date TEXT, confidence TEXT,
+CREATE TABLE relationships(id INTEGER PRIMARY KEY AUTOINCREMENT, source_id TEXT, target_id TEXT, type TEXT, detail TEXT, kin TEXT, date TEXT, confidence TEXT,
   article_id TEXT, published TEXT, quote TEXT, dataset TEXT DEFAULT 'real');
 CREATE TABLE events(id INTEGER PRIMARY KEY AUTOINCREMENT, date TEXT, date_precision TEXT, type TEXT, description TEXT, place_id TEXT, place_text TEXT,
   casualties TEXT, article_id TEXT, published TEXT, dataset TEXT DEFAULT 'real');
@@ -204,13 +204,47 @@ def main():
                 else: con.execute(f"UPDATE OR IGNORE {tbl} SET {c}=? WHERE {c}=?",(newid,old)); con.execute(f"DELETE FROM {tbl} WHERE {c}=?",(old,)) if tbl!="events" else None
         del ents[old]
     con.execute("DELETE FROM relationships WHERE source_id=target_id")
+    # normalise model output that escaped the schema
+    con.execute("UPDATE relationships SET type='other' WHERE type IS NULL OR trim(type)=''")
+    con.execute("UPDATE relationships SET confidence='inferred' WHERE confidence IS NULL OR confidence NOT IN ('stated','inferred')")
+    con.execute("UPDATE events SET date=NULL WHERE date IS NOT NULL AND date NOT GLOB '[0-9]*'")
+    con.execute("UPDATE events SET date_precision='unknown' WHERE date IS NULL OR date=''")
+    con.execute("UPDATE events SET date_precision='approx' WHERE date_precision LIKE '%approx%' AND date_precision!='approx'")
+    con.execute("UPDATE events SET date_precision='approx' WHERE date_precision IS NULL OR date_precision NOT IN ('day','month','year','approx','unknown')")
     for i,r in ents.items():
-        r["aliases"].discard(r["name"])
+        r["aliases"]={al for al in r["aliases"] if al.lower()!=r["name"].lower()}
         pubs=sorted(p for p in r["pubs"] if p)
         con.execute("INSERT INTO entities(id,kind,name,dataset,role,nationality,status,status_detail,org_type,country,place_type,parent_place,n_articles,first_mentioned,last_mentioned,notes) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)",
                     (i,r["kind"],r["name"],r["dataset"],r.get("role"),r.get("nationality"),r.get("status"),r.get("status_detail"),r.get("org_type"),r.get("country"),
                      r.get("place_type"),r.get("parent_place"),len(r["arts"]),pubs[0] if pubs else None,pubs[-1] if pubs else None,r.get("notes")))
         for al in r["aliases"]: con.execute("INSERT OR IGNORE INTO aliases VALUES(?,?,?)",(i,al,"extraction"))
+    # family edges: normalise free-text detail to a kin term, then fix direction for asymmetric kin by
+    # majority vote per pair (the model sometimes writes "Jalaluddin -son-> Sirajuddin"; direction rule is
+    # detail = source's relation to target, so minority-orientation rows are flipped and marked inferred).
+    SENIOR={"father","mother","parent","uncle","aunt","grandfather","grandmother","father-in-law","mother-in-law"}
+    JUNIOR={"son","daughter","child","nephew","niece","grandson","granddaughter","son-in-law","daughter-in-law"}
+    KIN=re.compile(r"\b(father-in-law|mother-in-law|son-in-law|daughter-in-law|brother-in-law|sister-in-law|grandfather|grandmother|grandson|granddaughter|half-brother|step-?son|father|mother|son|daughter|brother|sister|cousin|uncle|aunt|nephew|niece|wife|husband|widow|spouse|relative|tribe|clan)s?\b",re.I)
+    def kin_of(detail):
+        m=KIN.search(detail or ""); 
+        if not m: return "relative"
+        k=m.group(1).lower().replace("stepson","son").replace("step-son","son").replace("half-brother","brother").replace("widow","wife")
+        return k
+    rows=con.execute("SELECT id,source_id,target_id,detail FROM relationships WHERE type='family'").fetchall()
+    for rid,src,tgt,detail in rows: con.execute("UPDATE relationships SET kin=? WHERE id=?",(kin_of(detail),rid))
+    votes=collections.defaultdict(lambda: collections.Counter())
+    for rid,src,tgt,kin in con.execute("SELECT id,source_id,target_id,kin FROM relationships WHERE type='family'"):
+        if kin in SENIOR: votes[frozenset((src,tgt))][src]+=1
+        elif kin in JUNIOR: votes[frozenset((src,tgt))][tgt]+=1
+    flipped=0
+    for rid,src,tgt,kin in con.execute("SELECT id,source_id,target_id,kin FROM relationships WHERE type='family'").fetchall():
+        v=votes.get(frozenset((src,tgt)))
+        if not v or len(v)<2 and (kin not in SENIOR|JUNIOR): continue
+        senior=v.most_common(1)[0][0]
+        if v[senior]==v[src if senior==tgt else tgt]: continue
+        implied=src if kin in SENIOR else tgt if kin in JUNIOR else None
+        if implied and implied!=senior:
+            con.execute("UPDATE relationships SET source_id=?,target_id=?,confidence='inferred' WHERE id=?",(tgt,src,rid)); flipped+=1
+    print("family edges re-oriented by majority vote:",flipped)
     con.commit()
     def dump(q,name):
         cur=con.execute(q); cols=[c[0] for c in cur.description]; rows=cur.fetchall()
@@ -218,7 +252,7 @@ def main():
             w=csv.writer(fh); w.writerow(cols); w.writerows(rows)
     dump("SELECT * FROM articles ORDER BY published","articles")
     dump("SELECT * FROM entities ORDER BY kind, n_articles DESC, name","entities")
-    dump("""SELECT r.id, s.name AS source, s.kind AS source_kind, r.type, t.name AS target, t.kind AS target_kind, r.detail, r.date, r.confidence,
+    dump("""SELECT r.id, s.name AS source, s.kind AS source_kind, r.type, t.name AS target, t.kind AS target_kind, r.detail, r.kin, r.date, r.confidence,
             r.article_id, ar.title AS article, ar.url, r.published, r.quote FROM relationships r JOIN entities s ON s.id=r.source_id JOIN entities t ON t.id=r.target_id
             LEFT JOIN articles ar ON ar.id=r.article_id ORDER BY r.published, r.id""","relationships")
     dump("""SELECT ev.id, ev.date, ev.date_precision, ev.type, ev.description, ev.place_text, ev.casualties,

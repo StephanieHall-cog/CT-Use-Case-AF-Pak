@@ -3,3 +3,9 @@ audio/
 *.wav
 __pycache__/
 .DS_Store
+
+# LWJ artifacts are committed gzip-compressed only
+db/lwj_afpak.sqlite
+db/lwj_afpak.sqlite-journal
+db/lwj_exports/*.csv
+db/lwj_exports/graph.json
