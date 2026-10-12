@@ -1,0 +1,623 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb227-doc18-1996-11-12-afghanistan-taliban-deny-they-are-sheltering-hua-m",
+  "title": "Afghanistan: Taliban Deny They Are Sheltering HUA Militants, Usama bin Laden (Islama 09517)",
+  "authors": "U.S. Embassy Islamabad",
+  "publisher": "National Security Archive (GWU), Pakistan: \"The Taliban's Godfather\"?",
+  "published": "1996-11-12",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB227/18.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB227/index.htm",
+  "pages": 7,
+  "kind": "cable",
+  "note": "[Confidential] Ambassador Simons presses Taliban acting foreign minister Mullah Ghaus on HUA militants in Khost camps and bin Laden near Jalalabad. Ghaus denies any foreigners are in Khost and suggests bin Laden left with Hekmatyar. The page adds 9/11 Commission context on bin Laden's return and Pakistani intelligence facilitation.",
+  "collection": "NSAEBB227",
+  "doc_number": "Document 18",
+  "relevance": "high",
+  "ocr": 7
+ },
+ "persons": [
+  {
+   "name": "Thomas W. Simons, Jr.",
+   "aliases": [
+    "Ambassador Simons"
+   ],
+   "role": "U.S. Ambassador to Pakistan",
+   "organizations": [
+    "U.S. Embassy Islamabad",
+    "U.S. Department of State"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Islamabad"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "CLASSIFIED BY AMBASSADOR THOMAS W. SIMONS, JR."
+    },
+    {
+     "timestamp": "p.3",
+     "quote": "IN A NOVEMBER 8 MEETING, AMBASSADOR SIMONS TOLD TALIBAN \"ACTING FOREIGN MINISTER\" MULLAH MOHAMMED GHAUS"
+    }
+   ]
+  },
+  {
+   "name": "Mullah Mohammed Ghaus",
+   "aliases": [
+    "Mullah Ghaus",
+    "Mohammad Ghaus",
+    "Ghous"
+   ],
+   "role": "Taliban \"acting foreign minister\"",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.3",
+     "quote": "TALIBAN \"ACTING FOREIGN MINISTER\" MULLAH MOHAMMED GHAUS"
+    },
+    {
+     "timestamp": "p.4",
+     "quote": "THERE ARE NO FOREIGNERS IN KHOST PROVINCE--ONLY TALIBAN."
+    }
+   ]
+  },
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Usama bin Laden",
+    "Bin Laden"
+   ],
+   "role": "Fugitive Saudi financier of terrorist attacks; reported to be in Jalalabad area",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "unknown",
+   "status_detail": "Whereabouts disputed in Nov 1996",
+   "family": [],
+   "locations": [
+    "Jalalabad",
+    "Nangarhar"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.3",
+     "quote": "FUGITIVE SAUDI NATIONAL USAMA BIN LADEN, WHO... HAS BEEN INVOLVED IN FINANCING TERRORIST ATTACKS ON U.S. TARGETS"
+    },
+    {
+     "timestamp": "p.4",
+     "quote": "BIN LADEN WAS INVITED TO AFGHANISTAN BY (HEZB-I-ISLAMI LEADER AND OUSTED PRIME MINISTER) HEKMATYAR."
+    }
+   ]
+  },
+  {
+   "name": "Gulbuddin Hekmatyar",
+   "aliases": [
+    "Hekmatyar",
+    "Gulbuddin Hekmatyar"
+   ],
+   "role": "Hezb-i-Islami leader and ousted Afghan prime minister; per Ghaus, invited bin Laden to Afghanistan",
+   "organizations": [
+    "Hezb-i-Islami"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "Left Kabul when the Taliban took it",
+   "family": [],
+   "locations": [
+    "Kabul"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.4",
+     "quote": "HEKMATYAR LEFT KABUL WHEN WE TOOK IT OVER. MAYBE BIN LADEN WENT WITH HIM."
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Harakat-ul-Ansar",
+   "aliases": [
+    "HUA",
+    "Harakat ul-Ansar"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Kashmiri militant group implicated in kidnappings of Westerners in Indian-held Kashmir; possible US terrorist designation; reportedly training in camps in Khost"
+  },
+  {
+   "name": "Taliban",
+   "aliases": [
+    "Taliban administration"
+   ],
+   "type": "political movement",
+   "parent_or_allies": [],
+   "rivals": [
+    "Hezb-i-Islami"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Controls Kabul, Jalalabad, Khost; denies sheltering HUA or bin Laden"
+  },
+  {
+   "name": "Hezb-i-Islami",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Led by Hekmatyar"
+  },
+  {
+   "name": "U.S. Embassy Islamabad",
+   "aliases": [
+    "AMEMBASSY ISLAMABAD"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "U.S. Department of State"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Author of cable"
+  },
+  {
+   "name": "U.S. Department of State",
+   "aliases": [
+    "SECSTATE"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Cable addressee"
+  },
+  {
+   "name": "UNDCP",
+   "aliases": [
+    "UN Drug Control Programme"
+   ],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Checked Taliban poppy ban report and found it false; pressing Taliban for statement on narcotics"
+  },
+  {
+   "name": "The News",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Pakistani newspaper that published 26 Oct 1996 article on HUA training in Khost"
+  },
+  {
+   "name": "U.S. Consulate Peshawar",
+   "aliases": [
+    "AMCONSUL PESHAWAR"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "U.S. Department of State"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Received report from Pakistani journalist on bin Laden in Jalalabad"
+  },
+  {
+   "name": "Afghan Arabs",
+   "aliases": [
+    "Afghan Arab militants"
+   ],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Vacated two camps in Paktia (Khost) allegedly then used by HUA"
+  }
+ ],
+ "places": [
+  {
+   "name": "Khost",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Paktia",
+   "significance": "Alleged site of two camps vacated by Afghan Arabs, reportedly used by HUA; Taliban deny foreigners present"
+  },
+  {
+   "name": "Paktia",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Taliban-controlled province containing Khost camps"
+  },
+  {
+   "name": "Jalalabad",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Nangarhar",
+   "significance": "Reported location of bin Laden"
+  },
+  {
+   "name": "Nangarhar",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Taliban officials there reportedly said bin Laden was in Jalalabad"
+  },
+  {
+   "name": "Kabul",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Taken by Taliban; Hekmatyar left"
+  },
+  {
+   "name": "Islamabad",
+   "type": "city",
+   "country": "Pakistan",
+   "parent": "Pakistan",
+   "significance": "Location of US Embassy"
+  },
+  {
+   "name": "Indian-held Kashmir",
+   "aliases": [
+    "Kashmir"
+   ],
+   "type": "region",
+   "country": "India",
+   "parent": "India",
+   "significance": "Site of HUA kidnappings of Westerners"
+  },
+  {
+   "name": "Peshawar",
+   "type": "city",
+   "country": "Pakistan",
+   "parent": "Pakistan",
+   "significance": "US consulate"
+  }
+ ],
+ "events": [
+  {
+   "date": "1996-11-08",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "Ambassador Simons met Taliban acting FM Ghaus, raised HUA in Khost and bin Laden in Jalalabad; Ghaus denied both.",
+   "place": "Islamabad",
+   "actors": [
+    "Thomas W. Simons, Jr.",
+    "Mullah Mohammed Ghaus"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1996-10-26",
+   "date_precision": "day",
+   "type": "other",
+   "description": "The News published article alleging HUA militants training in two camps vacated by Afghan Arabs in Khost.",
+   "place": "Khost",
+   "actors": [
+    "The News",
+    "Harakat-ul-Ansar"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1996-11-12",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "US Embassy Islamabad cabled State reporting the meeting and doubting Taliban candor.",
+   "place": "Islamabad",
+   "actors": [
+    "U.S. Embassy Islamabad"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1996-11-08",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "Ambassador Simons raised HUA sheltering and bin Laden's whereabouts with Ghaus; Ghaus denied both.",
+   "place": "Islamabad",
+   "actors": [
+    "Thomas W. Simons, Jr.",
+    "Mullah Mohammed Ghaus",
+    "Taliban"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1996-10-26",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "The News article alleged HUA militants training in two camps vacated by Afghan Arabs in Khost.",
+   "place": "Khost",
+   "actors": [
+    "The News",
+    "Harakat-ul-Ansar",
+    "Afghan Arabs"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1996-11-12",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Embassy Islamabad cable reporting the Taliban denial.",
+   "place": "Islamabad",
+   "actors": [
+    "U.S. Embassy Islamabad",
+    "U.S. Department of State"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1996",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Taliban took Kabul; Hekmatyar left.",
+   "place": "Kabul",
+   "actors": [
+    "Taliban",
+    "Gulbuddin Hekmatyar"
+   ],
+   "timestamp": "p.4"
+  },
+  {
+   "date": "1996",
+   "date_precision": "approx",
+   "type": "designation",
+   "description": "US warned HUA may soon be designated a terrorist organization.",
+   "place": "",
+   "actors": [
+    "Harakat-ul-Ansar",
+    "Thomas W. Simons, Jr."
+   ],
+   "timestamp": "p.3"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Mullah Mohammed Ghaus",
+   "target": "Taliban",
+   "type": "member_of",
+   "detail": "Ghaus is Taliban acting foreign minister.",
+   "date": "1996-11",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "TALIBAN \"ACTING FOREIGN MINISTER\" MULLAH MOHAMMED GHAUS"
+  },
+  {
+   "source": "Thomas W. Simons, Jr.",
+   "target": "Mullah Mohammed Ghaus",
+   "type": "met_with",
+   "detail": "Simons met Ghaus on 8 Nov 1996 to raise HUA and bin Laden.",
+   "date": "1996-11-08",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "IN A NOVEMBER 8 MEETING, AMBASSADOR SIMONS TOLD TALIBAN \"ACTING FOREIGN MINISTER\" MULLAH MOHAMMED GHAUS"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Gulbuddin Hekmatyar",
+   "type": "hosted_by",
+   "detail": "Per Ghaus, Hekmatyar invited bin Laden to Afghanistan.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "BIN LADEN WAS INVITED TO AFGHANISTAN BY (HEZB-I-ISLAMI LEADER AND OUSTED PRIME MINISTER) HEKMATYAR."
+  },
+  {
+   "source": "Gulbuddin Hekmatyar",
+   "target": "Hezb-i-Islami",
+   "type": "leads",
+   "detail": "Hekmatyar is Hezb-i-Islami leader.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "HEZB-I-ISLAMI LEADER AND OUSTED PRIME MINISTER) HEKMATYAR"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Taliban",
+   "type": "sheltered_by",
+   "detail": "US suspected bin Laden was in Jalalabad with Taliban acquiescence; Taliban deny it.",
+   "date": "1996-11",
+   "confidence": "inferred",
+   "timestamp": "p.4",
+   "quote": "WE HOPE HE IS NOT THERE WITH TALIBAN ACQUIESCENSE"
+  },
+  {
+   "source": "Harakat-ul-Ansar",
+   "target": "Taliban",
+   "type": "sheltered_by",
+   "detail": "Press alleged HUA militants sheltered/training in Taliban-controlled Khost; denied by Ghaus.",
+   "date": "1996-10",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "HARAKAT-UL-ANSAR MILITANTS ARE BEING SHELTERED IN TALIBAN-CONTROLLED AREAS"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Jalalabad",
+   "type": "located_in",
+   "detail": "Reported by US and Taliban Nangarhar officials (via journalist) to be in Jalalabad.",
+   "date": "1996-11",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "TALIBAN NANGARHAR PROVINCE OFFICIALS HAVE TOLD HIM THAT BIN LADEN IS IN JALALABAD"
+  },
+  {
+   "source": "Mullah Mohammed Ghaus",
+   "target": "Taliban",
+   "type": "member_of",
+   "detail": "Ghaus is the Taliban's 'acting foreign minister'.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "TALIBAN \"ACTING FOREIGN MINISTER\" GHAUS"
+  },
+  {
+   "source": "Thomas W. Simons, Jr.",
+   "target": "U.S. Embassy Islamabad",
+   "type": "leads",
+   "detail": "Simons is the Ambassador at the Embassy in Islamabad, which sent the cable.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "CLASSIFIED BY AMBASSADOR THOMAS W. SIMONS, JR."
+  },
+  {
+   "source": "Harakat-ul-Ansar",
+   "target": "Taliban",
+   "type": "sheltered_by",
+   "detail": "A press report alleged HUA militants were sheltered in Taliban-controlled areas; Ghaus denied it.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "HARAKAT-UL-ANSAR MILITANTS ARE BEING SHELTERED IN TALIBAN-CONTROLLED AREAS"
+  },
+  {
+   "source": "Harakat-ul-Ansar",
+   "target": "Khost",
+   "type": "located_in",
+   "detail": "The News alleged HUA militants train in two camps in Khost, Paktia; denied by Ghaus.",
+   "date": "1996-10-26",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "HUA MILITANTS ARE TRAINING IN TWO CAMPS VACATED BY \"AFGHAN ARAB\" MILITANTS IN AFGHANISTAN'S TALIBAN-CONTROLLED PAKTIA (KHOST) PROVINCE"
+  },
+  {
+   "source": "Harakat-ul-Ansar",
+   "target": "Afghan Arabs",
+   "type": "other",
+   "detail": "HUA allegedly used two camps vacated by Afghan Arab militants.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "TWO CAMPS VACATED BY \"AFGHAN ARAB\" MILITANTS"
+  },
+  {
+   "source": "Khost",
+   "target": "Paktia",
+   "type": "located_in",
+   "detail": "Khost is identified with Paktia province.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "TALIBAN-CONTROLLED PAKTIA (KHOST) PROVINCE"
+  },
+  {
+   "source": "Jalalabad",
+   "target": "Nangarhar",
+   "type": "located_in",
+   "detail": "Jalalabad is in Nangarhar province.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "TALIBAN-CONTROLLED CITY OF JALALABAD, IN NANGARHAR PROVINCE"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Jalalabad",
+   "type": "located_in",
+   "detail": "US received reports bin Laden is in or near Jalalabad; Taliban denied.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "HE IS IN OR NEAR THE TALIBAN-CONTROLLED CITY OF JALALABAD"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Taliban",
+   "type": "sheltered_by",
+   "detail": "Simons hoped bin Laden was not in Jalalabad with Taliban acquiescence; Ghaus denied it; Taliban Nangarhar officials reportedly told a journalist he was in Jalalabad.",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "WE HOPE HE IS NOT THERE WITH TALIBAN ACQUIESCENSE"
+  },
+  {
+   "source": "Taliban",
+   "target": "Gulbuddin Hekmatyar",
+   "type": "rival_of",
+   "detail": "Hekmatyar left Kabul when the Taliban took it over.",
+   "confidence": "inferred",
+   "timestamp": "p.4",
+   "quote": "HEKMATYAR LEFT KABUL WHEN WE TOOK IT OVER"
+  },
+  {
+   "source": "Taliban",
+   "target": "Kabul",
+   "type": "located_in",
+   "detail": "Taliban captured and control Kabul.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "HEKMATYAR LEFT KABUL WHEN WE TOOK IT OVER"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Gulbuddin Hekmatyar",
+   "type": "other",
+   "detail": "Ghaus speculated bin Laden may have left Kabul with Hekmatyar.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "MAYBE BIN LADEN WENT WITH HIM."
+  },
+  {
+   "source": "UNDCP",
+   "target": "Taliban",
+   "type": "negotiated_with",
+   "detail": "UNDCP checked with Taliban on the poppy ban report and presses them for an official statement on narcotics.",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "UNDCP HAS BEEN PRESSING THE TALIBAN TO PROVIDE AN OFFICIAL STATEMENT"
+  },
+  {
+   "source": "U.S. Consulate Peshawar",
+   "target": "The News",
+   "type": "other",
+   "detail": "Consulate Peshawar reported via a Pakistani journalist that Taliban Nangarhar officials said bin Laden is in Jalalabad (journalist not named; not The News).",
+   "confidence": "inferred",
+   "timestamp": "p.4",
+   "quote": "A RESPECTED PAKISTANI JOURNALIST TOLD CONSULATE PESHAWAR"
+  },
+  {
+   "source": "Harakat-ul-Ansar",
+   "target": "Indian-held Kashmir",
+   "type": "other",
+   "detail": "HUA implicated in kidnappings of Westerners in Indian-held Kashmir.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "KIDNAPPINGS OF WESTERNERS IN INDIAN-HELD KASHMIR"
+  }
+ ],
+ "sources_cited": [
+  "The News article of 26 October 1996",
+  "ISLAMABAD 9508",
+  "PESHAWAR 1059",
+  "ISLAMABAD 9320",
+  "ISLAMABAD 9281",
+  "UNDCP consultation"
+ ],
+ "key_claims": [
+  "The Taliban acting foreign minister Ghaus denied that HUA militants or bin Laden were in Taliban-controlled areas.",
+  "Ghaus claimed Hekmatyar invited bin Laden to Afghanistan and that bin Laden may have left Kabul with him.",
+  "US reports mostly placed bin Laden near Jalalabad in Nangarhar.",
+  "A Pakistani journalist said Taliban Nangarhar officials told him bin Laden was in Jalalabad.",
+  "The Embassy assessed that evidence increasingly suggested the Taliban were not being candid.",
+  "The US considered designating HUA a terrorist organization due to its implication in kidnappings of Westerners in Kashmir."
+ ]
+}

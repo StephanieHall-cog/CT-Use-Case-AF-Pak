@@ -1,0 +1,214 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc80-2001-05-24-title-excised-a-group-presently-in-the-united-stat",
+  "title": "[Title Excised] \"A Group Presently in the United States Planning to Conduct a Terrorist Operation Involving the Use of High Explosives\"",
+  "authors": "Central Intelligence Agency",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "2001-05-24",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7xgb-ivxcp/2001-05-24-title-excised-a-group-presently-in.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 4,
+  "kind": "intelligence report",
+  "note": "CIA intelligence report on a group in the US planning a terrorist operation with high explosives. Cited in 9/11 Commission Report, Chapter 8, Endnote 9.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 80",
+  "relevance": "medium",
+  "ocr": 1
+ },
+ "persons": [],
+ "organizations": [
+  {
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Issuer of the information report dated 24 May 2001."
+  },
+  {
+   "name": "National Security Agency",
+   "aliases": [
+    "DIRNSA",
+    "NSA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Addressee (DIRNSA, Fort George G. Meade MD)."
+  },
+  {
+   "name": "Department of State",
+   "aliases": [
+    "SECSTATE",
+    "INR"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Addressee (SECSTATE WASHDC//INR/DSITA/SCT//)."
+  },
+  {
+   "name": "Defense Intelligence Agency",
+   "aliases": [
+    "DIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Addressee."
+  },
+  {
+   "name": "Federal Bureau of Investigation",
+   "aliases": [
+    "FBI"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Addressee."
+  },
+  {
+   "name": "U.S. Embassy",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Received the call-in that was the source of the report; location excised."
+  }
+ ],
+ "places": [
+  {
+   "name": "United States",
+   "type": "country",
+   "country": "United States",
+   "parent": "",
+   "significance": "Reported location of the group planning a terrorist operation using high explosives."
+  },
+  {
+   "name": "Washington DC",
+   "type": "city",
+   "country": "United States",
+   "parent": "United States",
+   "significance": "Location of most addressee agencies."
+  }
+ ],
+ "events": [
+  {
+   "date": "2001-05-24",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA issued a corrected information report based on a call-in to a U.S. Embassy, claiming a group presently in the United States planned a terrorist operation using high explosives.",
+   "place": "United States",
+   "actors": [
+    "Central Intelligence Agency",
+    "U.S. Embassy"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "2001-05-24",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "The CIA issued a corrected information report, not finally evaluated, on a call-in warning of a group in the US planning a high-explosives terrorist operation. It was disseminated to US agencies including NSA, DIA, State and FBI.",
+   "place": "Washington DC",
+   "actors": [
+    "Central Intelligence Agency",
+    "National Security Agency",
+    "Defense Intelligence Agency",
+    "Department of State",
+    "Federal Bureau of Investigation"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "approx 2001-05",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "An unnamed person (redacted) called the U.S. Embassy and volunteered that a group in the United States was planning a terrorist operation using high explosives. The exact date and embassy location are redacted.",
+   "place": "U.S. Embassy",
+   "actors": [
+    "U.S. Embassy"
+   ],
+   "timestamp": "p.3"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Central Intelligence Agency",
+   "target": "Federal Bureau of Investigation",
+   "type": "other",
+   "detail": "The CIA information report on the alleged plot was addressed to the FBI in its distribution list.",
+   "date": "2001-05-24",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "FEDERAL BUREAU OF INVESTIGATION, SECRE'l' SERVICE//ID//,"
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "National Security Agency",
+   "type": "other",
+   "detail": "The CIA report was addressed to NSA (DIRNSA) in its distribution list.",
+   "date": "2001-05-24",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "DIRNSA, ANCHORY FT GEORGE G MEADE MD"
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "Defense Intelligence Agency",
+   "type": "other",
+   "detail": "The CIA report was addressed to DIA in its distribution list.",
+   "date": "2001-05-24",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "DIA WASHINGTON DC,. JOINT STAFF WASHINGTON DC"
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "Department of State",
+   "type": "other",
+   "detail": "The CIA report was addressed to the State Department (SECSTATE, INR) in its distribution list.",
+   "date": "2001-05-24",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "SECSTATE WAS'HDC//INR/DSITA/SCT//"
+  },
+  {
+   "source": "U.S. Embassy",
+   "target": "Central Intelligence Agency",
+   "type": "other",
+   "detail": "Information from a call-in to the U.S. Embassy was the source of the CIA information report (the caller is redacted).",
+   "date": "2001-05",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "ACCORDING TO INFORMATION RECEIVED FR.OM A CALL-IN TO THE U.S. EMBASSY"
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "United States",
+   "type": "other",
+   "detail": "The report concerns an unnamed group allegedly in the United States planning a high-explosives terrorist operation.",
+   "date": "2001-05-24",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "A GRuuP PRESENTLY IN THE UNITED STATES PLANNING TO C A TERRORIST OPERATION INVOLVING THE USE OF HIGH EXPLOSIVES."
+  }
+ ],
+ "sources_cited": [
+  "Call-in to a U.S. Embassy (location excised)"
+ ],
+ "key_claims": [
+  "A call-in to a U.S. Embassy volunteered that a group in the United States was planning a terrorist operation involving high explosives.",
+  "The report is a corrected version of an earlier report with the same heading and was not finally evaluated intelligence.",
+  "The report was distributed widely across US intelligence, military, law enforcement and White House Situation Room addressees.",
+  "Names of the group, individuals and the originating embassy are redacted or excised."
+ ]
+}

@@ -1,0 +1,948 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc52-1999-07-29-ariana-afghan-airlines-assets-and-activities-oti-i",
+  "title": "Ariana Afghan Airlines: Assets and Activities (OTI IR 1999-170CX)",
+  "authors": "Office of Transnational Issues, CIA",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "1999-07-29",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7xbr-uusml/1999-07-29-ariana-afghan-airlines-assets-and.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 19,
+  "kind": "intelligence report",
+  "note": "OTI intelligence report on the assets and activities of Ariana Afghan Airlines. Cited in 9/11 Commission Report Chapter 2, Endnote 77.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 52",
+  "relevance": "high",
+  "ocr": 7
+ },
+ "persons": [
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Usama bin Ladin"
+   ],
+   "role": "Terrorist financier who chartered Ariana aircraft",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "Terrorist financier Usama 'bin Ladin has chartered Ariana aircraft to transport personnel and supplies."
+    },
+    {
+     "timestamp": "p.8",
+     "quote": "Terrorist financier Usama bin Ladin has frequently chartered an Ariana Boeing 727 to move supplies and personnel"
+    }
+   ]
+  },
+  {
+   "name": "Peter Baldwin",
+   "aliases": [],
+   "role": "American head of Indamer, which owned 49 percent of Ariana at its founding in 1955",
+   "organizations": [
+    "Indamer"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Kabul"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.3",
+     "quote": "Indamer, headed by American Peter Baldwin-owned 49 percent of the airline"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Ariana Afghan Airlines",
+   "aliases": [
+    "Ariana"
+   ],
+   "type": "other",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Afghanistan's national carrier, founded 1955. The Taliban took operational control in September 1996 and retain de facto ownership. Used for military transport, drug smuggling and terrorist movements."
+  },
+  {
+   "name": "Taliban",
+   "aliases": [],
+   "type": "political movement",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Controls Ariana and earns overflight fees; uses the airline for troop and supply transport in the civil war."
+  },
+  {
+   "name": "Indamer",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "India",
+   "notes": "Indian firm that helped finance Ariana in 1955 and owned 49 percent; its shares were later bought by Pan American Airlines."
+  },
+  {
+   "name": "Pan American Airlines",
+   "aliases": [
+    "Pan Am",
+    "American Airlines"
+   ],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Bought Indamer's shares in Ariana. The text reads 'American Airlines', with a marginal 'P' preceding it that suggests Pan Am."
+  },
+  {
+   "name": "Bakhtar Afghan Airlines",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Took over the company in 1985 to become the national airline; the Ariana name was restored in 1988."
+  },
+  {
+   "name": "Air France",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "France",
+   "notes": "Held a technical support contract with Ariana, which was being re-negotiated in June 1997."
+  },
+  {
+   "name": "Sabena",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Belgium",
+   "notes": "Brussels-based airline that Ariana considered for a technical relationship in mid-1997."
+  },
+  {
+   "name": "Royal Jordanian",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Jordan",
+   "notes": "Amman-based airline that reportedly signed an aircraft service agreement with Ariana."
+  },
+  {
+   "name": "Boeing",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Held spare-parts talks with Ariana from mid-1998, with at least two deliveries."
+  },
+  {
+   "name": "International Air Transport Association",
+   "aliases": [
+    "IATA"
+   ],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Calculates the $400 overflight fee and holds the fees in trust in Switzerland."
+  },
+  {
+   "name": "Office of Transnational Issues",
+   "aliases": [
+    "OTI",
+    "CIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Author of the report."
+  },
+  {
+   "name": "International Committee of the Red Cross",
+   "aliases": [
+    "ICRC"
+   ],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Operates its own flights into Afghanistan."
+  },
+  {
+   "name": "United Nations",
+   "aliases": [
+    "UN"
+   ],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Operates its own flights into Afghanistan."
+  },
+  {
+   "name": "Government of Pakistan",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Signed an October 1996 technical support agreement giving Ariana a temporary base at Karachi."
+  },
+  {
+   "name": "Government of Saudi Arabia",
+   "aliases": [
+    "Saudi Government"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Saudi Arabia",
+   "notes": "Reportedly stopped the Jeddah leg of Ariana flights from October 1998."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Base of Ariana and the Taliban; subject of overflight fees."
+  },
+  {
+   "name": "Kabul",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Where Ariana was founded in 1955 and which the Taliban captured in September 1996; site of the international airport."
+  },
+  {
+   "name": "Qandahar",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Domestic Ariana destination."
+  },
+  {
+   "name": "Herat",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Domestic Ariana destination."
+  },
+  {
+   "name": "Jalalabad",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Domestic Ariana destination."
+  },
+  {
+   "name": "Khowst",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Domestic Ariana destination."
+  },
+  {
+   "name": "Mazar-i Sharif",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Domestic Ariana destination."
+  },
+  {
+   "name": "Amritsar",
+   "type": "city",
+   "country": "India",
+   "parent": "India",
+   "significance": "Thrice-weekly Ariana Boeing 727 service, mainly carrying consumer goods."
+  },
+  {
+   "name": "Dubai",
+   "type": "city",
+   "country": "United Arab Emirates",
+   "parent": "United Arab Emirates",
+   "significance": "Weekly Ariana destination."
+  },
+  {
+   "name": "Sharjah",
+   "type": "city",
+   "country": "United Arab Emirates",
+   "parent": "United Arab Emirates",
+   "significance": "Ariana cargo service."
+  },
+  {
+   "name": "United Arab Emirates",
+   "type": "country",
+   "country": "United Arab Emirates",
+   "parent": "",
+   "significance": "Islamic extremists flew Ariana there in 1997; also a route for illicit money."
+  },
+  {
+   "name": "Jeddah",
+   "type": "city",
+   "country": "Saudi Arabia",
+   "parent": "Saudi Arabia",
+   "significance": "Weekly Ariana destination, halted at Saudi behest from October 1998."
+  },
+  {
+   "name": "Karachi",
+   "type": "city",
+   "country": "Pakistan",
+   "parent": "Pakistan",
+   "significance": "Temporary Ariana operational and maintenance base under the October 1996 agreement."
+  },
+  {
+   "name": "Frankfurt",
+   "type": "city",
+   "country": "Germany",
+   "parent": "Germany",
+   "significance": "Charter service for a German NGO."
+  },
+  {
+   "name": "Urumchi",
+   "type": "city",
+   "country": "China",
+   "parent": "China",
+   "significance": "Planned Ariana route."
+  },
+  {
+   "name": "Ashgabat",
+   "type": "city",
+   "country": "Turkmenistan",
+   "parent": "Turkmenistan",
+   "significance": "Planned Ariana route."
+  }
+ ],
+ "events": [
+  {
+   "date": "1955",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Ariana Afghan Airlines was founded in Kabul with financial help from Indamer.",
+   "place": "Kabul",
+   "actors": [
+    "Ariana Afghan Airlines",
+    "Indamer",
+    "Peter Baldwin"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1985",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Bakhtar Afghan Airlines took over the company and the Ariana name was dropped; it was restored in 1988.",
+   "place": "Kabul",
+   "actors": [
+    "Bakhtar Afghan Airlines"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1996-09",
+   "date_precision": "month",
+   "type": "other",
+   "description": "The Taliban captured Kabul and took operational control of Ariana.",
+   "place": "Kabul",
+   "actors": [
+    "Taliban",
+    "Ariana Afghan Airlines"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1996-10",
+   "date_precision": "month",
+   "type": "agreement",
+   "description": "Technical support agreement with Pakistan gave Ariana a temporary operational and maintenance base at Karachi.",
+   "place": "Karachi",
+   "actors": [
+    "Ariana Afghan Airlines",
+    "Government of Pakistan"
+   ],
+   "timestamp": "p.6"
+  },
+  {
+   "date": "1997-06",
+   "date_precision": "month",
+   "type": "other",
+   "description": "The Air France technical support contract was being re-negotiated because it had become too expensive.",
+   "place": "",
+   "actors": [
+    "Ariana Afghan Airlines",
+    "Air France"
+   ],
+   "timestamp": "p.6"
+  },
+  {
+   "date": "1997",
+   "date_precision": "year",
+   "type": "travel",
+   "description": "Members of an Islamic extremist group flew Ariana from Afghanistan to the UAE.",
+   "place": "United Arab Emirates",
+   "actors": [
+    "Ariana Afghan Airlines"
+   ],
+   "timestamp": "p.8"
+  },
+  {
+   "date": "1998-10",
+   "date_precision": "month",
+   "type": "other",
+   "description": "The Jeddah leg was reportedly stopped at the behest of the Saudi Government.",
+   "place": "Jeddah",
+   "actors": [
+    "Government of Saudi Arabia",
+    "Ariana Afghan Airlines"
+   ],
+   "timestamp": "p.5"
+  },
+  {
+   "date": "1998-06",
+   "date_precision": "approx",
+   "type": "meeting",
+   "description": "Talks on spare parts acquisition began between Ariana and Boeing around mid-1998, with deliveries including one in early February 1999.",
+   "place": "",
+   "actors": [
+    "Ariana Afghan Airlines",
+    "Boeing"
+   ],
+   "timestamp": "p.6"
+  },
+  {
+   "date": "1955",
+   "date_precision": "year",
+   "type": "other",
+   "detail": "",
+   "description": "Ariana Afghan Airlines founded in Kabul with financial help from Indamer.",
+   "place": "Kabul",
+   "actors": [
+    "Ariana Afghan Airlines",
+    "Indamer",
+    "Peter Baldwin"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1956",
+   "date_precision": "approx",
+   "type": "agreement",
+   "description": "Afghanistan signed the Air Transport Development Project Agreement with the US; Pan American later bought Indamer's shares.",
+   "place": "Afghanistan",
+   "actors": [
+    "Pan American Airlines",
+    "Indamer"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1985",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Ariana name dropped as Bakhtar Afghan Airlines took over; name restored in 1988.",
+   "place": "Afghanistan",
+   "actors": [
+    "Bakhtar Afghan Airlines",
+    "Ariana Afghan Airlines"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1996-09",
+   "date_precision": "month",
+   "type": "offensive",
+   "description": "Taliban captured Kabul and took operational control of Ariana.",
+   "place": "Kabul",
+   "actors": [
+    "Taliban",
+    "Ariana Afghan Airlines"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1996-10",
+   "date_precision": "month",
+   "type": "agreement",
+   "description": "Technical support agreement with Pakistan gave Ariana a temporary base at Karachi.",
+   "place": "Karachi",
+   "actors": [
+    "Ariana Afghan Airlines",
+    "Government of Pakistan"
+   ],
+   "timestamp": "p.6"
+  },
+  {
+   "date": "1997-06",
+   "date_precision": "month",
+   "type": "agreement",
+   "description": "Ariana–Air France technical support contract being renegotiated as too expensive.",
+   "place": "Kabul",
+   "actors": [
+    "Ariana Afghan Airlines",
+    "Air France"
+   ],
+   "timestamp": "p.6"
+  },
+  {
+   "date": "1997",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Ariana explored technical relationship with Sabena (mid-1997).",
+   "place": "",
+   "actors": [
+    "Ariana Afghan Airlines",
+    "Sabena"
+   ],
+   "timestamp": "p.6"
+  },
+  {
+   "date": "1998",
+   "date_precision": "approx",
+   "type": "meeting",
+   "description": "Talks on spare parts between Ariana and Boeing began in mid-1998.",
+   "place": "",
+   "actors": [
+    "Ariana Afghan Airlines",
+    "Boeing"
+   ],
+   "timestamp": "p.6"
+  },
+  {
+   "date": "1998-10",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Ariana's Jeddah flights reportedly halted at Saudi Government behest.",
+   "place": "Jeddah",
+   "actors": [
+    "Ariana Afghan Airlines",
+    "Government of Saudi Arabia"
+   ],
+   "timestamp": "p.5"
+  },
+  {
+   "date": "1999-02",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Boeing spare parts delivery to Ariana in early February 1999.",
+   "place": "",
+   "actors": [
+    "Boeing",
+    "Ariana Afghan Airlines"
+   ],
+   "timestamp": "p.6"
+  },
+  {
+   "date": "1999-07-29",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA Office of Transnational Issues issued the intelligence report on Ariana Afghan Airlines.",
+   "place": "",
+   "actors": [
+    "Office of Transnational Issues"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Taliban",
+   "target": "Ariana Afghan Airlines",
+   "type": "other",
+   "detail": "The Taliban took operational control of Ariana on capturing Kabul and retain de facto ownership.",
+   "date": "1996-09",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "The Taliban took operational control of Ariana coincident with its capture of Kabul in late September 1996 and retains de facto ownership."
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Ariana Afghan Airlines",
+   "type": "other",
+   "detail": "Bin Ladin frequently chartered an Ariana Boeing 727 to move personnel and supplies.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "Terrorist financier Usama bin Ladin has frequently chartered an Ariana Boeing 727 to move supplies and personnel"
+  },
+  {
+   "source": "Peter Baldwin",
+   "target": "Indamer",
+   "type": "leads",
+   "detail": "Baldwin headed Indamer.",
+   "date": "1955",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "Indamer, headed by American Peter Baldwin-owned 49 percent of the airline"
+  },
+  {
+   "source": "Indamer",
+   "target": "Ariana Afghan Airlines",
+   "type": "funded_by",
+   "detail": "Ariana was founded with Indamer's financial help.",
+   "date": "1955",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "founded in Kabul in 1955 with financial help from the Indian firm Indamer"
+  },
+  {
+   "source": "Ariana Afghan Airlines",
+   "target": "Government of Pakistan",
+   "type": "hosted_by",
+   "detail": "Pakistan gave Ariana a temporary operational and maintenance base at Karachi.",
+   "date": "1996-10",
+   "confidence": "stated",
+   "timestamp": "p.6",
+   "quote": "provided Ariana with a temporary operational and maintenance base at Karachi"
+  },
+  {
+   "source": "Pan American Airlines",
+   "target": "Indamer",
+   "type": "other",
+   "detail": "The airline bought Indamer's shares in Ariana.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "American Airlines bought Indamer's shares"
+  },
+  {
+   "source": "Ariana Afghan Airlines",
+   "target": "Taliban",
+   "type": "funded_by",
+   "detail": "Ariana provides the Taliban with unspecified profits from its passenger, cargo and charter services (the Taliban is the recipient of funds from the airline).",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "provides the Taliban with unspecified profits from its legitimate passenger, cargo, and charter services"
+  },
+  {
+   "source": "Taliban",
+   "target": "Ariana Afghan Airlines",
+   "type": "leads",
+   "detail": "The Taliban took operational control of Ariana and retains de facto ownership.",
+   "date": "1996-09",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "The Taliban took operational control of Ariana coincident with its capture of Kabul in late September 1996 and retains de facto ownership."
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Ariana Afghan Airlines",
+   "type": "other",
+   "detail": "Bin Ladin frequently chartered an Ariana Boeing 727 to move supplies and personnel since late 1996.",
+   "date": "1996",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "Terrorist financier Usama bin Ladin has frequently chartered an Ariana"
+  },
+  {
+   "source": "Pan American Airlines",
+   "target": "Indamer",
+   "type": "succeeded",
+   "detail": "Pan American bought Indamer's shares in Ariana.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "Pan American Airlines bought Indamer's shares"
+  },
+  {
+   "source": "Bakhtar Afghan Airlines",
+   "target": "Ariana Afghan Airlines",
+   "type": "succeeded",
+   "detail": "Bakhtar took over the company in 1985 to become the new national airline; Ariana name restored in 1988.",
+   "date": "1985",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "The name Ariana was dropped in 1985, when Bakhtar Afghan Airlines took over the company"
+  },
+  {
+   "source": "Ariana Afghan Airlines",
+   "target": "Kabul",
+   "type": "located_in",
+   "detail": "Ariana was founded in Kabul.",
+   "date": "1955",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "founded in Kabul in 1955"
+  },
+  {
+   "source": "Ariana Afghan Airlines",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Ariana is Afghanistan's national carrier.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "Afghanistan's national carrier"
+  },
+  {
+   "source": "Taliban",
+   "target": "Kabul",
+   "type": "captured",
+   "detail": "Taliban captured Kabul in late September 1996.",
+   "date": "1996-09",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "its capture of Kabul in late September 1996"
+  },
+  {
+   "source": "Ariana Afghan Airlines",
+   "target": "Amritsar",
+   "type": "other",
+   "detail": "Scheduled Boeing 727 service Kabul–Amritsar thrice weekly.",
+   "date": "1999",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "scheduled Boeing 727 service from Kabul to Amritsar, India thrice weekly"
+  },
+  {
+   "source": "Ariana Afghan Airlines",
+   "target": "Dubai",
+   "type": "other",
+   "detail": "Weekly scheduled service to Dubai.",
+   "date": "1999",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "to Dubai and Jeddah, Sau.di Arabia once a week"
+  },
+  {
+   "source": "Ariana Afghan Airlines",
+   "target": "Jeddah",
+   "type": "other",
+   "detail": "Weekly service to Jeddah, reportedly stopped at Saudi government behest from October 1998.",
+   "date": "1998-10",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "to Dubai and Jeddah, Sau.di Arabia once a week"
+  },
+  {
+   "source": "Government of Saudi Arabia",
+   "target": "Ariana Afghan Airlines",
+   "type": "other",
+   "detail": "Saudi Government reportedly caused the Jeddah leg to be stopped.",
+   "date": "1998-10",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "the Jeddah leg was stopped at the behest of the Saudi Government for at least a short time beginning in .October 1998"
+  },
+  {
+   "source": "Ariana Afghan Airlines",
+   "target": "Sharjah",
+   "type": "other",
+   "detail": "Ariana conducts cargo service to Sharjah, UAE.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "k\\riana conducts c~go service to Sharj~"
+  },
+  {
+   "source": "Ariana Afghan Airlines",
+   "target": "Frankfurt",
+   "type": "other",
+   "detail": "Occasional charter service to Frankfurt for a German NGO.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "occasionally conducts charter service to Frankfurt on behalf of a German nongovernmental organization"
+  },
+  {
+   "source": "Ariana Afghan Airlines",
+   "target": "Qandahar",
+   "type": "other",
+   "detail": "Domestic network includes Qandahar.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "extensive-domestic network with flights going to Kabul, Qandahar, Herat, Jalalaba Khows and Ma?.ar-i Sharif"
+  },
+  {
+   "source": "Ariana Afghan Airlines",
+   "target": "Herat",
+   "type": "other",
+   "detail": "Domestic network includes Herat.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "Kabul, Qandahar, Herat, Jalalaba Khows and Ma?.ar-i Sharif"
+  },
+  {
+   "source": "Ariana Afghan Airlines",
+   "target": "Jalalabad",
+   "type": "other",
+   "detail": "Domestic network includes Jalalabad.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "Kabul, Qandahar, Herat, Jalalaba Khows and Ma?.ar-i Sharif"
+  },
+  {
+   "source": "Ariana Afghan Airlines",
+   "target": "Khowst",
+   "type": "other",
+   "detail": "Domestic network includes Khowst.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "Jalalaba Khows and Ma?.ar-i Sharif"
+  },
+  {
+   "source": "Ariana Afghan Airlines",
+   "target": "Mazar-i Sharif",
+   "type": "other",
+   "detail": "Domestic network includes Mazar-i Sharif.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "Khows and Ma?.ar-i Sharif"
+  },
+  {
+   "source": "Ariana Afghan Airlines",
+   "target": "Urumchi",
+   "type": "other",
+   "detail": "Service to Urumchi arranged but not implemented pending safety conditions.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "Arrangements for service to Urumchi, China and Ashgabat, Turlanenistan have apparently been made but have yet to be implemented"
+  },
+  {
+   "source": "Ariana Afghan Airlines",
+   "target": "Ashgabat",
+   "type": "other",
+   "detail": "Service to Ashgabat arranged but not implemented.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "Urumchi, China and Ashgabat, Turlanenistan have apparently been made"
+  },
+  {
+   "source": "Ariana Afghan Airlines",
+   "target": "Air France",
+   "type": "other",
+   "detail": "Technical support contract with Air France, being renegotiated June 1997 as too expensive; relationship reportedly sustained into 1999.",
+   "date": "1997-06",
+   "confidence": "stated",
+   "timestamp": "p.6",
+   "quote": "Ariana had a technical support contract with Air France when the Taliban took over its operations"
+  },
+  {
+   "source": "Ariana Afghan Airlines",
+   "target": "Sabena",
+   "type": "negotiated_with",
+   "detail": "Ariana looked into a technical relationship with Sabena in mid-1997.",
+   "date": "1997",
+   "confidence": "stated",
+   "timestamp": "p.6",
+   "quote": "Ariana was looking into the possibility of establishing a technical relationship with Brussels-based Sabena in mid-1997"
+  },
+  {
+   "source": "Ariana Afghan Airlines",
+   "target": "Royal Jordanian",
+   "type": "other",
+   "detail": "Aircraft service agreement signed with Royal Jordanian.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.6",
+   "quote": "an aircraft service agreement was signed with the Amman-based airline Royal Jordanian"
+  },
+  {
+   "source": "Ariana Afghan Airlines",
+   "target": "Boeing",
+   "type": "negotiated_with",
+   "detail": "Talks on spare parts initiated mid-1998, with deliveries including early February 1999.",
+   "date": "1998",
+   "confidence": "stated",
+   "timestamp": "p.6",
+   "quote": "talks on spare parts acquisition were initiated between Ariana and Boeing in mid-1998"
+  },
+  {
+   "source": "Ariana Afghan Airlines",
+   "target": "Government of Pakistan",
+   "type": "other",
+   "detail": "Technical support agreement gave Ariana a temporary operational and maintenance base at Karachi.",
+   "date": "1996-10",
+   "confidence": "stated",
+   "timestamp": "p.6",
+   "quote": "A technical support agreement signed in October 1996 with Pakistan provided Ariana with a temporary operational and maintenance base at Karachi"
+  },
+  {
+   "source": "Ariana Afghan Airlines",
+   "target": "Karachi",
+   "type": "located_in",
+   "detail": "Temporary base at Karachi.",
+   "date": "1996-10",
+   "confidence": "stated",
+   "timestamp": "p.6",
+   "quote": "temporary operational and maintenance base at Karachi"
+  },
+  {
+   "source": "Taliban",
+   "target": "International Air Transport Association",
+   "type": "other",
+   "detail": "Taliban receives overflight fees calculated by IATA, held in trust for civil aviation spending.",
+   "date": "1999",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "Each overflight incurs a fee of $400, which is calculated by the International Air Transport Association (IATA)."
+  },
+  {
+   "source": "International Committee of the Red Cross",
+   "target": "Afghanistan",
+   "type": "other",
+   "detail": "ICRC operates planes flying into Afghanistan.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.4",
+   "quote": "planes operated by international organizations-the International Committee of the Red Cross, the United Nations"
+  },
+  {
+   "source": "Taliban",
+   "target": "Ariana Afghan Airlines",
+   "type": "other",
+   "detail": "Taliban use Ariana to transport troops and supplies in the civil war.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.9",
+   "quote": "The carrier is frequently tasked to transport troops and supplies within Afghanistan."
+  }
+ ],
+ "sources_cited": [
+  "US Embassy reporting",
+  "US Embassy Islamabad",
+  "US diplomatic reporting",
+  "press reporting",
+  "aviation industry publication",
+  "CIA OTI Intelligence Report, 29 July 1999"
+ ],
+ "key_claims": [
+  "Ariana provides the Taliban with unspecified profits from its legitimate passenger, cargo and charter services.",
+  "Ariana has facilitated activity by terrorists and narcotics traffickers.",
+  "Usama bin Ladin frequently chartered Ariana Boeing 727s to move supplies and personnel.",
+  "The Taliban have made clear that Ariana's first priority is helping Kabul win the civil war, and the airline is frequently tasked to transport troops and supplies.",
+  "The Taliban earn about $11.7 million annually in overflight fees, banked in Switzerland and restricted to civil aviation use.",
+  "Heroin and opium are frequently smuggled from Afghanistan aboard Ariana aircraft."
+ ]
+}

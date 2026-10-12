@@ -1,0 +1,286 @@
+{
+ "document": {
+  "doc_id": "nsa-2021-rumsfeld-snowflakes-doc04-2002-01-05-rumsfeld-complains-to-george-tenet-about-the-cia",
+  "title": "Rumsfeld complains to George Tenet about the CIA",
+  "authors": "Donald Rumsfeld, Secretary of Defense",
+  "publisher": "National Security Archive (GWU), Rumsfeld Lacked Intel on Who The Enemies Were Two Years After Afghanistan Invasion, Newly Published \"Snowflakes\" Show | National Security Archive",
+  "published": "2002-01-05",
+  "url": "https://nsarchive.gwu.edu/documents/rumsfeld-lacked-intel-who-enemies-two-years-after-afghanistan-invasion-newly-published-snowflakes/04.pdf",
+  "source_page": "https://nsarchive.gwu.edu/briefing-book/foia/2021-02-01/rumsfeld-lacked-intel-who-enemies-two-years-after-afghanistan-invasion-newly-published-snowflakes",
+  "pages": 2,
+  "kind": "memo",
+  "note": "Rumsfeld complains to George Tenet about the CIA.",
+  "collection": "new-rumsfeld-snowflakes",
+  "doc_number": "Document 4",
+  "relevance": "medium",
+  "ocr": 2
+ },
+ "persons": [
+  {
+   "name": "George Tenet",
+   "aliases": [
+    "George J. Tenet"
+   ],
+   "role": "Director of Central Intelligence (CIA), recipient of the memo",
+   "organizations": [
+    "CIA"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "TO: George Tenet"
+    },
+    {
+     "timestamp": "p.1",
+     "quote": "The next thing I see is you on television giving a speech at his gravesite."
+    }
+   ]
+  },
+  {
+   "name": "Donald Rumsfeld",
+   "aliases": [
+    "Donald H. Rumsfeld",
+    "DHR"
+   ],
+   "role": "US Secretary of Defense, author of the memo",
+   "organizations": [
+    "US Department of Defense"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "FROM: Donald Rumsfeld"
+    }
+   ]
+  },
+  {
+   "name": "Gen. Franks",
+   "aliases": [
+    "Tommy Franks"
+   ],
+   "role": "Commander, CENTCOM (CINCENT); named in handwritten marginalia",
+   "organizations": [
+    "CENTCOM",
+    "US Department of Defense"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "Handwritten notes on p.2 are largely illegible and appear to mention Gen. Franks",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "Gen. Franks"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "CIA",
+   "aliases": [
+    "Central Intelligence Agency",
+    "the agency"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Criticized for contradictory public-relations policy on disclosing its casualties in Afghanistan."
+  },
+  {
+   "name": "CENTCOM",
+   "aliases": [
+    "CINCENT",
+    "US Central Command"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "US Department of Defense"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "CINCENT was told not to mention the wounded CIA officer."
+  },
+  {
+   "name": "US Department of Defense",
+   "aliases": [
+    "OSD",
+    "Office of the Secretary of Defense"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Rumsfeld's office; document stamped 11-L-0559/OSD/5950."
+  }
+ ],
+ "places": [],
+ "events": [
+  {
+   "date": "2002-01-05",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Rumsfeld sends a memo (snowflake) to George Tenet complaining about the CIA's contradictory public-relations policy on its casualties.",
+   "place": "",
+   "actors": [
+    "Donald Rumsfeld",
+    "George Tenet"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "approx 2001",
+   "date_precision": "approx",
+   "type": "death",
+   "description": "The first CIA person was killed; Tenet told others not to mention it, then spoke at his gravesite on TV.",
+   "place": "",
+   "actors": [
+    "George Tenet",
+    "CIA"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "approx 2002-01",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "A CIA person was wounded; CINCENT was told not to mention it, but CIA then publicized it repeatedly.",
+   "place": "",
+   "actors": [
+    "CIA",
+    "CENTCOM"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2002-01-05",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Rumsfeld sends memo to Tenet complaining about contradictory CIA public relations policies regarding casualties.",
+   "place": "",
+   "actors": [
+    "Donald Rumsfeld",
+    "George Tenet",
+    "CIA"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "approx 2001",
+   "date_precision": "approx",
+   "type": "death",
+   "description": "First CIA person killed; Tenet told DoD not to mention it, then spoke on television at his gravesite.",
+   "place": "",
+   "actors": [
+    "George Tenet",
+    "CIA"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "approx 2002-01",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "A CIA person was wounded; CINCENT was told not to mention it, but CIA later mentioned it repeatedly.",
+   "place": "",
+   "actors": [
+    "CIA",
+    "CENTCOM"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Donald Rumsfeld",
+   "target": "George Tenet",
+   "type": "other",
+   "detail": "Rumsfeld writes to Tenet, complaining of contradictory signals from the CIA.",
+   "date": "2002-01-05",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "I am totally confused by the contradictory signals coming out of the agency."
+  },
+  {
+   "source": "George Tenet",
+   "target": "CIA",
+   "type": "leads",
+   "detail": "Tenet is addressed as the head of CIA policy.",
+   "date": "2002-01-05",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "What in the world policy do you have?"
+  },
+  {
+   "source": "CENTCOM",
+   "target": "CIA",
+   "type": "other",
+   "detail": "CINCENT was told by everyone not to mention the wounded CIA person.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "everyone told CINCENT not to mention it. So he didn't."
+  },
+  {
+   "source": "Donald Rumsfeld",
+   "target": "US Department of Defense",
+   "type": "leads",
+   "detail": "Rumsfeld writes as Secretary of Defense; the memo is from his office, with the document's OSD reference.",
+   "date": "2002-01-05",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "FROM: Donald Rumsfeld"
+  },
+  {
+   "source": "CENTCOM",
+   "target": "US Department of Defense",
+   "type": "member_of",
+   "detail": "CINCENT, the CENTCOM commander, was told by CIA not to mention the wounding of a CIA officer and complied.",
+   "date": "2002-01",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "everyone told CINCENT not to mention it. So he didn’t."
+  },
+  {
+   "source": "Gen. Franks",
+   "target": "CENTCOM",
+   "type": "leads",
+   "detail": "Handwritten note references Gen. Franks; CINCENT is CENTCOM's commander (Franks), inferred.",
+   "date": "2002-01-05",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "Gen. Franks"
+  },
+  {
+   "source": "CIA",
+   "target": "CENTCOM",
+   "type": "other",
+   "detail": "CIA told CENTCOM/CINCENT not to publicize a CIA officer's wounding; CIA later publicized it itself, creating friction.",
+   "date": "2002-01",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "everyone told CINCENT not to mention it. So he didn’t. Now CIA is mentioning it repeatedly."
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "Rumsfeld considered CIA public-relations policy on its Afghanistan casualties contradictory and confusing.",
+  "The CIA asked others not to mention the first CIA fatality, yet Tenet then spoke publicly at the gravesite.",
+  "CENTCOM withheld news of a wounded CIA officer at others' request, then the CIA publicized it itself."
+ ]
+}

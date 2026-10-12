@@ -1,0 +1,230 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc12-1997-01-08-terrorism-fatwa-issued-in-1992-by-usama-bin-ladin",
+  "title": "Terrorism: Fatwa Issued in 1992 by Usama bin Ladin's Islamic Army to Attack U.S. Military in Saudi Arabia, Movement of Explosives [Excised] by the Islamic Army [Excised] to Saudi Arabia [Excised]",
+  "authors": "CIA",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "1997-01-08",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7wuu-jeagl/1997-01-08-terrorism-fatwa-issued-in-1992-by.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 7,
+  "kind": "intelligence report",
+  "note": "CIA Intelligence Report on a 1992 fatwa by the Islamic Army to attack the U.S. military in Saudi Arabia, and on the movement of explosives. Source: 9/11 Commission Report, Chapter 2, Endnote 47.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 12",
+  "relevance": "high",
+  "ocr": 5
+ },
+ "persons": [
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Usama bin Laden"
+   ],
+   "role": "Leader of the 'Islamic Army'; quoted as saying America is the 'head of the snake'",
+   "organizations": [
+    "Islamic Army"
+   ],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Saudi Arabia"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "BIN LADIN STATED THAT \"THE WEST IS EVIL BUT THE HEAD OF THE SNAKE IS AMERICA."
+    },
+    {
+     "timestamp": "p.2",
+     "quote": "FATWA ISSUED IN 1992 BY USAMA BIN LADIN'S ISLAMIC ARMY TO ATTACK U.S. MILITARY IN SAUDI ARABIA"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Islamic Army",
+   "aliases": [
+    "Usama bin Ladin's Islamic Army"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [
+    "United States",
+    "Western coalition forces"
+   ],
+   "country_base": "",
+   "notes": "Described as Usama bin Ladin's group; reportedly issued a fatwa in circa early 1992 permitting jihad against the Western coalition military presence in Saudi Arabia and the Gulf, specifically naming U.S. military targets. The document is heavily excised."
+  },
+  {
+   "name": "Western coalition forces",
+   "aliases": [
+    "Western coalition"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "United States"
+   ],
+   "rivals": [
+    "Islamic Army"
+   ],
+   "country_base": "",
+   "notes": "Their 'military occupation' of Saudi Arabia and the Gulf after the Persian Gulf War was the stated justification for the fatwa."
+  },
+  {
+   "name": "United States military",
+   "aliases": [
+    "U.S. military"
+   ],
+   "type": "military",
+   "parent_or_allies": [],
+   "rivals": [
+    "Islamic Army"
+   ],
+   "country_base": "United States",
+   "notes": "Named in the fatwa as a target in Saudi Arabia."
+  }
+ ],
+ "places": [
+  {
+   "name": "Saudi Arabia",
+   "type": "country",
+   "country": "Saudi Arabia",
+   "parent": "",
+   "significance": "Location of the alleged Western 'military occupation' and the stated target location of attacks on U.S. military; destination of explosives movement noted in subject line."
+  },
+  {
+   "name": "Persian Gulf",
+   "type": "region",
+   "country": "",
+   "parent": "",
+   "significance": "The Gulf War preceded the fatwa; the fatwa also refers to the occupation of the Gulf."
+  }
+ ],
+ "events": [
+  {
+   "date": "1992",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "Following the Persian Gulf War, the Islamic Army issued a fatwa proclaiming it permissible to wage jihad against the Western coalition forces' 'military occupation' of Saudi Arabia and the Gulf, stating U.S. military targets would be attacked in Saudi Arabia.",
+   "place": "Saudi Arabia",
+   "actors": [
+    "Islamic Army",
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1997-01-08",
+   "date_precision": "day",
+   "type": "other",
+   "description": "CIA cable disseminated to US agencies regarding the 1992 fatwa and the movement of explosives to Saudi Arabia.",
+   "place": "",
+   "actors": [
+    "CIA"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1992",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "Following the Persian Gulf War, the Islamic Army issued a fatwa permitting jihad against Western coalition forces' military presence in Saudi Arabia and the Gulf. It specified U.S. military targets in Saudi Arabia.",
+   "place": "Saudi Arabia",
+   "actors": [
+    "Islamic Army",
+    "Usama bin Ladin",
+    "Western coalition forces",
+    "United States military"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1997-01-08",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA cable dated 8 January 1997 reporting the 1992 fatwa and the movement of explosives by the Islamic Army to Saudi Arabia (details excised).",
+   "place": "Saudi Arabia",
+   "actors": [
+    "Islamic Army"
+   ],
+   "timestamp": "p.2"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Usama bin Ladin",
+   "target": "Islamic Army",
+   "type": "leads",
+   "detail": "The title describes the Islamic Army as Usama bin Ladin's.",
+   "date": "1992",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "FATWA ISSUED IN 1992 BY USAMA BIN LADIN'S ISLAMIC ARMY"
+  },
+  {
+   "source": "Islamic Army",
+   "target": "United States military",
+   "type": "rival_of",
+   "detail": "The fatwa stated U.S. military targets would be attacked in Saudi Arabia.",
+   "date": "1992",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "THAT U.S. MILITARY TARGETS WOULD BE ATTACKED IN SAUDI ARABIA"
+  },
+  {
+   "source": "Islamic Army",
+   "target": "Usama bin Ladin",
+   "type": "other",
+   "detail": "The cable describes the Islamic Army as Usama bin Ladin's, implying he led or headed it; the heading is OCR-garbled.",
+   "date": "1992",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "FATWA ISSUED IN 1992 BY USJIMA BIN LADIN'S :cs~c AlU1Y TO ATTACK U.S. MTLITARY. IN SAUDI ARABT"
+  },
+  {
+   "source": "Islamic Army",
+   "target": "Western coalition forces",
+   "type": "rival_of",
+   "detail": "The Islamic Army declared jihad against the Western coalition forces' military presence in Saudi Arabia and the Gulf.",
+   "date": "1992",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "PERMISSIBLE TO WAGE JIHAD AGAINST THE WESTERN COALITION. FORCE'S \"MILITARY OCCUPATION• OF SAUDI ARABIA AND THE GULF."
+  },
+  {
+   "source": "Western coalition forces",
+   "target": "Saudi Arabia",
+   "type": "located_in",
+   "detail": "The fatwa characterised coalition forces' presence in Saudi Arabia as a military occupation.",
+   "date": "1992",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "\"MILITARY OCCUPATION• OF SAUDI ARABIA AND THE GULF."
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "United States military",
+   "type": "rival_of",
+   "detail": "Bin Ladin named America as the head of the snake to be smashed.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "THE WEST IS EVIL BUT THE HEAD OF THE SNAKE IS AMERICA."
+  }
+ ],
+ "sources_cited": [
+  "CIA cable dated 8 January 1997 (TOT 082323Z JAN 97), largely excised"
+ ],
+ "key_claims": [
+  "Circa early 1992, after the Persian Gulf War, Usama bin Ladin's Islamic Army issued a fatwa permitting jihad against Western coalition forces in Saudi Arabia and the Gulf.",
+  "The fatwa specifically stated that U.S. military targets would be attacked in Saudi Arabia.",
+  "Bin Ladin is quoted as saying the West is evil but America is the 'head of the snake' that should be smashed.",
+  "The cable also concerns the movement of explosives to Saudi Arabia by the Islamic Army, but details are excised."
+ ]
+}

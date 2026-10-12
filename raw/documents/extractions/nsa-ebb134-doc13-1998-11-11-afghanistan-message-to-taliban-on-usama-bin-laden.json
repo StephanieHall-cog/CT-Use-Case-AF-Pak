@@ -1,0 +1,412 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb134-doc13-1998-11-11-afghanistan-message-to-taliban-on-usama-bin-laden",
+  "title": "Afghanistan: Message to Taliban on Usama Bin Laden (State 210367)",
+  "authors": "U.S. Department of State",
+  "publisher": "National Security Archive (GWU), Mullah Omar Called Washington in 1998, New Documents Show",
+  "published": "1998-11-11",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB134/Doc%2010.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB134/index.htm",
+  "pages": 2,
+  "kind": "cable",
+  "note": "[Secret (NODIS)] Ambassador Milam is asked to tell the Taliban that the U.S. has now provided greater evidence of bin Laden's terrorist activities and that the Taliban will be held responsible for any terrorist action he undertakes. Excised.",
+  "collection": "NSAEBB134",
+  "doc_number": "Document 13",
+  "relevance": "high",
+  "ocr": 2
+ },
+ "persons": [
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Usama Bin Laden",
+    "Osama bin Laden"
+   ],
+   "role": "Terrorist leader hosted by the Taliban; subject of US indictments and demand for his handover",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "PUBLIC ADMISSIONS OF CULPABILITY BY USAMA BIN LADEN, AND THE PUBLICLY, AVAILABLE INOICTMENTS OF USAMA BIN LADEN"
+    },
+    {
+     "timestamp": "p.2",
+     "quote": "HE AND HIS FOLLOWERS CONTINUE TO PLOT AND PLAN FOR TERRORIST ACTIONS AGAINST THE UNITED STATES AND ITS CITIZENS"
+    }
+   ]
+  },
+  {
+   "name": "Karl F. Inderfurth",
+   "aliases": [
+    "Karl Inderfurth"
+   ],
+   "role": "US Assistant Secretary of State for South Asian Affairs; classified and approved the message",
+   "organizations": [
+    "US Department of State"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "CLASSIFIED BY SA A/S KARL F. INDERFURTH"
+    }
+   ]
+  },
+  {
+   "name": "Thomas R. Pickering",
+   "aliases": [
+    "T. R. Pickering",
+    "Thomas Pickering"
+   ],
+   "role": "Under Secretary of State for Political Affairs; approved the message (P)",
+   "organizations": [
+    "US Department of State"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "APPROVED BY: P:TRPICKERING"
+    }
+   ]
+  },
+  {
+   "name": "Strobe Talbott",
+   "aliases": [
+    "Talbott"
+   ],
+   "role": "Deputy Secretary of State; cable signed TALBOTT",
+   "organizations": [
+    "US Department of State"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "TALBOTT"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Taliban",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Recipient of the US message; held responsible as hosts of Bin Laden."
+  },
+  {
+   "name": "US Department of State",
+   "aliases": [
+    "SECSTATE",
+    "State Department"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Originator of the cable."
+  },
+  {
+   "name": "US Embassy Islamabad",
+   "aliases": [
+    "AMEMBASSY ISLAMABAD"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "US Department of State"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Ambassador instructed to pass the message orally to the Taliban."
+  },
+  {
+   "name": "Government of Pakistan",
+   "aliases": [
+    "GOP"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Officials to be briefed on the message after delivery."
+  },
+  {
+   "name": "US Department of Justice",
+   "aliases": [
+    "DOJ"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Cleared the cable (J. Reynolds)."
+  },
+  {
+   "name": "National Security Council",
+   "aliases": [
+    "NSC"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Cleared the cable (J. Steinberg)."
+  },
+  {
+   "name": "Office of the Coordinator for Counterterrorism",
+   "aliases": [
+    "S/CT"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "US Department of State"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Cleared the cable (G. Gray)."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Where the Taliban host Bin Laden."
+  },
+  {
+   "name": "Islamabad",
+   "type": "city",
+   "country": "Pakistan",
+   "parent": "Pakistan",
+   "significance": "Embassy through which the message was delivered."
+  },
+  {
+   "name": "United States",
+   "type": "country",
+   "country": "United States",
+   "parent": "",
+   "significance": "Possible destination for Bin Laden's handover; source of indictments."
+  }
+ ],
+ "events": [
+  {
+   "date": "1998-11-10",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "State Department cable instructing the Ambassador in Islamabad to orally deliver a message to the Taliban demanding Bin Laden's handover and holding the Taliban responsible for further attacks.",
+   "place": "Islamabad",
+   "actors": [
+    "US Department of State",
+    "Taliban",
+    "Strobe Talbott"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998-11-10",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "State Department cable 210367 instructs the US Ambassador in Islamabad to orally convey to the Taliban a demand to turn over Usama bin Ladin to a country where he can face justice, and warns the Taliban are held responsible as his hosts.",
+   "place": "Islamabad",
+   "actors": [
+    "US Department of State",
+    "US Embassy Islamabad",
+    "Taliban",
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Usama bin Ladin",
+   "target": "Taliban",
+   "type": "hosted_by",
+   "detail": "The US holds the Taliban responsible as Bin Laden's hosts for his continued planning.",
+   "date": "1998-11",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "WE WILL CONTINUE TO HOLD YOU, AS HIS HOSTS, RESPONSIBLE FOR CONTINUED PLANNING AND ANY FURTHER ACT OF TERRORISM"
+  },
+  {
+   "source": "US Department of State",
+   "target": "Taliban",
+   "type": "negotiated_with",
+   "detail": "US demands the Taliban render Bin Laden to a country where he can face justice.",
+   "date": "1998-11",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "THAT HE BE TURNED OVER TO A STATE WHERE HE CAN FACE JUSTICE FOR HIS TERRORIST ACTS"
+  },
+  {
+   "source": "Karl F. Inderfurth",
+   "target": "US Department of State",
+   "type": "member_of",
+   "detail": "Assistant Secretary for South Asian Affairs.",
+   "date": "1998-11",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "CLASSIFIED BY SA A/S KARL F. INDERFURTH"
+  },
+  {
+   "source": "Thomas R. Pickering",
+   "target": "US Department of State",
+   "type": "member_of",
+   "detail": "Approved the cable as P.",
+   "date": "1998-11",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "APPROVED BY: P:TRPICKERING"
+  },
+  {
+   "source": "US Department of State",
+   "target": "US Embassy Islamabad",
+   "type": "other",
+   "detail": "State Department instructs the Ambassador at Islamabad to orally pass a message to an authoritative Taliban representative.",
+   "date": "1998-11-10",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "AMBASSADOR IS REQUESTED TO PASS THE FOLLOWING MESSAGE (PARA 2) ORALLY TO AN AUTHORITATIVE REPRESENTATIVE OF THE TALIBAN."
+  },
+  {
+   "source": "US Embassy Islamabad",
+   "target": "Taliban",
+   "type": "negotiated_with",
+   "detail": "Ambassador is to deliver a US demand to the Taliban that bin Ladin be handed over.",
+   "date": "1998-11",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "AMBASSADOR IS REQUESTED TO PASS THE FOLLOWING MESSAGE (PARA 2) ORALLY TO AN AUTHORITATIVE REPRESENTATIVE"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Taliban",
+   "type": "sheltered_by",
+   "detail": "The US holds the Taliban responsible as bin Ladin's hosts for his continued planning of terrorism.",
+   "date": "1998-11",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "WE WILL CONTINUE TO HOLD YOU, AS HIS HOSTS, RESPONSIBLE FOR CONTINUED PLANNING AND ANY FURTHER ACT OF TERRORISM"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Bin Ladin is treated as being in Taliban-held Afghanistan, hosted by the Taliban.",
+   "date": "1998-11",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "SHARIA COURT TRIAL REFERRED TO IN PUBLIC COMMENTS ON YOUR DEALINGS WITH USAMA BIN LADEN"
+  },
+  {
+   "source": "US Department of Justice",
+   "target": "Usama bin Ladin",
+   "type": "other",
+   "detail": "Publicly available US court indictments name bin Ladin and others.",
+   "date": "1998",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "PUBLICLY, AVAILABLE INOICTMENTS OF USAMA BIN LADEN AND OTHERS BY UNITED STATES COURTS"
+  },
+  {
+   "source": "Strobe Talbott",
+   "target": "US Department of State",
+   "type": "member_of",
+   "detail": "Cable is signed TALBOTT as the sending official.",
+   "date": "1998-11",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "TALBOTT"
+  },
+  {
+   "source": "National Security Council",
+   "target": "US Department of State",
+   "type": "other",
+   "detail": "NSC (JSTEINBERG) cleared the cable.",
+   "date": "1998-11",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "NSC:JSTEINBERG"
+  },
+  {
+   "source": "US Department of Justice",
+   "target": "US Department of State",
+   "type": "other",
+   "detail": "DOJ (JREYNOLDS) cleared the cable.",
+   "date": "1998-11",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "DOJ:JREYNOLDS"
+  },
+  {
+   "source": "Office of the Coordinator for Counterterrorism",
+   "target": "US Department of State",
+   "type": "member_of",
+   "detail": "S/CT (GGRAY) cleared the cable.",
+   "date": "1998-11",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "S/CT: GGRAY"
+  },
+  {
+   "source": "US Embassy Islamabad",
+   "target": "Government of Pakistan",
+   "type": "other",
+   "detail": "After delivery, the Ambassador may share the message with appropriate GOP officials.",
+   "date": "1998-11",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "AMBASSADOR IS AUTHORIZED TO SHARE SUBSTANCE OF MESSAGE WITH APPROPRIATE GOP OFFICIALS"
+  },
+  {
+   "source": "US Embassy Islamabad",
+   "target": "Islamabad",
+   "type": "located_in",
+   "detail": "The embassy is in Islamabad.",
+   "date": "1998-11",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "TO AMEMBASSY ISLAMABAD IMMEDIATE"
+  }
+ ],
+ "sources_cited": [
+  "US court indictments of Usama bin Ladin and others",
+  "Videotaped statement containing public admissions of culpability by Bin Laden"
+ ],
+ "key_claims": [
+  "The US held the Taliban responsible as Bin Laden's hosts for any further terrorist acts by him and his organization.",
+  "The US rejected a Sharia court trial of Bin Laden and demanded his handover to a country where he could face justice, including the United States.",
+  "The US claimed reliable information that Bin Laden and his followers were still plotting attacks on the US despite any restraints imposed by the Taliban.",
+  "The message was to be delivered orally to an authoritative Taliban representative via the Islamabad embassy, and then shared with Pakistani officials."
+ ]
+}

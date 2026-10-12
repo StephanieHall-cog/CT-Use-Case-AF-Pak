@@ -1,0 +1,489 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb57-doc10-1988-05-09-afghanistan-soviet-withdrawal-scenario",
+  "title": "Afghanistan: Soviet Withdrawal Scenario",
+  "authors": "Defense Intelligence Agency, Defense Intelligence Appraisal",
+  "publisher": "National Security Archive (GWU), Afghanistan: Lessons from the Last War",
+  "published": "1988-05-09",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB57/us10.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB57/us.html",
+  "pages": 4,
+  "kind": "intelligence report",
+  "note": "May 1988 DIA report examining plans for Soviet military withdrawal agreed between Russian diplomats and a UN negotiating team representing U.S., Pakistani, Afghan rebel and other interests.",
+  "collection": "NSAEBB57",
+  "doc_number": "Document 10",
+  "relevance": "medium",
+  "ocr": 4
+ },
+ "persons": [
+  {
+   "name": "Najibullah",
+   "aliases": [
+    "Najib",
+    "Mohammad Najibullah"
+   ],
+   "role": "President of Afghanistan (PDPA government)",
+   "organizations": [
+    "People's Democratic Party of Afghanistan (PDPA)"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Kabul"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.3",
+     "quote": "The Khalqis may also oust President Najibullah as the Soviets withdraw and then form a government that will fight the Mujahedin to the finish."
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Mujahedin",
+   "aliases": [
+    "Mujahideen",
+    "insurgents",
+    "resistance"
+   ],
+   "type": "militia",
+   "parent_or_allies": [],
+   "rivals": [
+    "People's Democratic Party of Afghanistan (PDPA)",
+    "Soviet Union"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Insurgent parties expected to isolate garrisons and cities after the Soviet withdrawal; disunity among principal parties could hamper a coherent strategy."
+  },
+  {
+   "name": "People's Democratic Party of Afghanistan (PDPA)",
+   "aliases": [
+    "PDPA"
+   ],
+   "type": "political movement",
+   "parent_or_allies": [
+    "Khalq",
+    "Parcham"
+   ],
+   "rivals": [
+    "Mujahedin"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Communist ruling party, split into Khalq and Parcham factions."
+  },
+  {
+   "name": "Khalq",
+   "aliases": [
+    "Khalqis"
+   ],
+   "type": "political movement",
+   "parent_or_allies": [
+    "People's Democratic Party of Afghanistan (PDPA)"
+   ],
+   "rivals": [
+    "Parcham"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Numerous in combat units of the armed forces; supports the Geneva accords, believing it can defeat the Mujahedin without Soviet troops."
+  },
+  {
+   "name": "Parcham",
+   "aliases": [
+    "Parchim"
+   ],
+   "type": "political movement",
+   "parent_or_allies": [
+    "People's Democratic Party of Afghanistan (PDPA)"
+   ],
+   "rivals": [
+    "Khalq"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Dominates the government; disapproves of the withdrawal agreements."
+  },
+  {
+   "name": "Soviet Union",
+   "aliases": [
+    "USSR",
+    "Soviets"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "People's Democratic Party of Afghanistan (PDPA)"
+   ],
+   "rivals": [
+    "Mujahedin"
+   ],
+   "country_base": "USSR",
+   "notes": "Begins withdrawing troops from Afghanistan on 15 May 1988 under the Geneva agreements."
+  },
+  {
+   "name": "Ministry of State Security (WAD)",
+   "aliases": [
+    "WAD",
+    "KhAD"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Afghan Government"
+   ],
+   "rivals": [
+    "Mujahedin"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Has combat units that are one of six components of the Afghan armed forces."
+  },
+  {
+   "name": "Ministry of Interior Sarandoi",
+   "aliases": [
+    "Sarandoi"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "Afghan Government"
+   ],
+   "rivals": [
+    "Mujahedin"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Paramilitary units of the Ministry of Interior."
+  },
+  {
+   "name": "Afghan Armed Forces",
+   "aliases": [
+    "Afghan forces"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "Afghan Government"
+   ],
+   "rivals": [
+    "Mujahedin"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Six components: army, air force/air defense, border security forces, Sarandoi, WAD combat units, and militia; high desertion."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Subject of the Soviet withdrawal."
+  },
+  {
+   "name": "Kabul",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Capital; last Soviet troops expected to leave by air; Mujahedin lack capability to storm it if well defended."
+  },
+  {
+   "name": "Northern Autonomous Zone",
+   "type": "region",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Cited as a possible Communist stronghold and buffer zone against the USSR."
+  },
+  {
+   "name": "Geneva",
+   "type": "city",
+   "country": "Switzerland",
+   "parent": "Switzerland",
+   "significance": "Site of the accords signed on 14 April 1988."
+  }
+ ],
+ "events": [
+  {
+   "date": "1988-04-14",
+   "date_precision": "day",
+   "type": "agreement",
+   "description": "Geneva agreements signed, providing for Soviet withdrawal from Afghanistan.",
+   "place": "Geneva",
+   "actors": [
+    "Soviet Union"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1988-05-15",
+   "date_precision": "day",
+   "type": "other",
+   "description": "Soviets expected to begin withdrawing troops from Afghanistan.",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet Union"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1989-02-15",
+   "date_precision": "day",
+   "type": "other",
+   "description": "Mandated deadline for completion of the Soviet withdrawal.",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet Union"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1988-04-14",
+   "date_precision": "day",
+   "type": "agreement",
+   "description": "Geneva agreements signed on Soviet withdrawal from Afghanistan.",
+   "place": "Geneva",
+   "actors": [
+    "Soviet Union",
+    "Afghanistan"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1988-08",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Half of Soviet troops to return to USSR within first 3 months of withdrawal.",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet Union"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1989-02-15",
+   "date_precision": "day",
+   "type": "other",
+   "description": "Mandated deadline for completion of Soviet withdrawal.",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet Union"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "approx 1988",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Recent creation of another province in the Northern Autonomous Zone.",
+   "place": "Northern Autonomous Zone",
+   "actors": [
+    "Northern Autonomous Zone"
+   ],
+   "timestamp": "p.3"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Khalq",
+   "target": "Parcham",
+   "type": "rival_of",
+   "detail": "Intense rivalry; Khalqis may try to eliminate PDPA rivals before dealing with the Mujahedin.",
+   "date": "1988",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "the Khalqis may first try to eliminate their PDPA rivals before dealing with the Mujahedin."
+  },
+  {
+   "source": "Khalq",
+   "target": "Najibullah",
+   "type": "rival_of",
+   "detail": "Khalqis may oust Najibullah as the Soviets withdraw.",
+   "date": "1988",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "The Khalqis may also oust President Najibullah as the Soviets withdraw"
+  },
+  {
+   "source": "Khalq",
+   "target": "People's Democratic Party of Afghanistan (PDPA)",
+   "type": "member_of",
+   "detail": "Faction of the PDPA.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "units loyal to the party's Khalq and Parchim factions may clash."
+  },
+  {
+   "source": "Parcham",
+   "target": "People's Democratic Party of Afghanistan (PDPA)",
+   "type": "member_of",
+   "detail": "Faction of the PDPA that dominates the government.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "The Parcham faction, which dominates the government, disapproves of the withdrawal agreements."
+  },
+  {
+   "source": "Najibullah",
+   "target": "People's Democratic Party of Afghanistan (PDPA)",
+   "type": "member_of",
+   "detail": "President of the PDPA-led government.",
+   "date": "1988",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "The Khalqis may also oust President Najibullah"
+  },
+  {
+   "source": "Soviet Union",
+   "target": "Afghan Armed Forces",
+   "type": "other",
+   "detail": "Larger Soviet garrisons will be turned over to Afghan forces, with some equipment, weapons and supplies passed to Afghan units during the withdrawal.",
+   "date": "1988",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Larger garrisons will be turned over to Afghan forces."
+  },
+  {
+   "source": "Mujahedin",
+   "target": "Afghan Armed Forces",
+   "type": "rival_of",
+   "detail": "As the Soviets withdraw, the Mujahedin will focus their efforts mainly on Afghan forces.",
+   "date": "1988",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "the Mujahedin will begin to focus their efforts mainly on Afghan forces in an effort to conserve strength"
+  },
+  {
+   "source": "Khalq",
+   "target": "People's Democratic Party of Afghanistan (PDPA)",
+   "type": "member_of",
+   "detail": "Khalq is one of the two PDPA factions.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "units loyal to the party's Khalq and Parchim factions may clash"
+  },
+  {
+   "source": "Parcham",
+   "target": "People's Democratic Party of Afghanistan (PDPA)",
+   "type": "member_of",
+   "detail": "Parcham is one of the two PDPA factions and dominates the government.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "The Parcham faction, which dominates the government, disapproves of the withdrawal agreements."
+  },
+  {
+   "source": "Khalq",
+   "target": "Parcham",
+   "type": "rival_of",
+   "detail": "Intense rivalry between PDPA factions; Khalqis may first try to eliminate their PDPA rivals.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "the Khalqis may first try to eliminate their PDPA rivals before dealing with the Mujahedin"
+  },
+  {
+   "source": "Khalq",
+   "target": "Najibullah",
+   "type": "rival_of",
+   "detail": "The Khalqis may oust President Najibullah as the Soviets withdraw.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "The Khalqis may also oust President Najibullah as the Soviets withdraw"
+  },
+  {
+   "source": "Khalq",
+   "target": "Afghan Armed Forces",
+   "type": "member_of",
+   "detail": "Khalqis are numerous in most combat units of the armed forces.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "The Khalqis are numerous in most combat units of the armed forces."
+  },
+  {
+   "source": "Najibullah",
+   "target": "Afghanistan",
+   "type": "leads",
+   "detail": "Najibullah is referred to as President of the Afghan government.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "The Khalqis may also oust President Najibullah"
+  },
+  {
+   "source": "Parcham",
+   "target": "Najibullah",
+   "type": "allied_with",
+   "detail": "Parcham dominates the government headed by Najibullah.",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "The Parcham faction, which dominates the government"
+  },
+  {
+   "source": "Ministry of Interior Sarandoi",
+   "target": "Afghan Armed Forces",
+   "type": "member_of",
+   "detail": "Sarandoi paramilitary units are one of six components of the Afghan armed forces.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "the Ministry of Interior's Sarandoi paramilitary units"
+  },
+  {
+   "source": "Ministry of State Security (WAD)",
+   "target": "Afghan Armed Forces",
+   "type": "member_of",
+   "detail": "WAD combat units are one of six components of the Afghan armed forces.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "the Ministry of State Security's (WAD's) combat units, and the militia"
+  },
+  {
+   "source": "Northern Autonomous Zone",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "The Northern Autonomous Zone is in the northern region of Afghanistan.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "Communist stronghold in the northern region of Afghanistan"
+  },
+  {
+   "source": "Northern Autonomous Zone",
+   "target": "Soviet Union",
+   "type": "other",
+   "detail": "Northern provinces have direct economic ties with the USSR, seen as preparation for a buffer zone.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "numerous direct economic ties established between the northern provinces and the USSR"
+  },
+  {
+   "source": "Kabul",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Kabul is the capital of Afghanistan.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "capturing the capital"
+  },
+  {
+   "source": "Mujahedin",
+   "target": "Soviet Union",
+   "type": "rival_of",
+   "detail": "Veteran Mujahedin are bent on carrying jihad into Soviet Central Asian areas.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "veteran Mujahedin bent on carrying an anti-Soviet holy war, or jihad, into the Central Asian minority areas of the USSR"
+  },
+  {
+   "source": "Mujahedin",
+   "target": "People's Democratic Party of Afghanistan (PDPA)",
+   "type": "rival_of",
+   "detail": "The insurgents will ultimately cause the demise of the Communist government.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "the insurgent forces' will cause the demise of the Communist"
+  }
+ ],
+ "sources_cited": [
+  "Geneva agreements signed 14 April 1988"
+ ],
+ "key_claims": [
+  "The Soviet withdrawal will likely proceed by evacuating whole garrisons, with larger garrisons turned over to Afghan forces.",
+  "Mujahedin will initially focus on Afghan forces, isolating garrisons and cities, and encourage mass defections.",
+  "The Mujahedin lack the capability to storm Kabul if well defended; it may take months of pressure unless the Afghan forces collapse internally.",
+  "Khalq-Parcham rivalry could lead to factional fighting or the ousting of Najibullah.",
+  "The communist government will ultimately fall and be replaced by an uneasy coalition of traditionalist and fundamentalist groups whose control will not extend far beyond Kabul."
+ ]
+}

@@ -1,0 +1,2180 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb97-doc02-1994-11-04-weekly-south-asia-activity-report",
+  "title": "Weekly South Asia Activity Report",
+  "authors": "U.S. Department of State",
+  "publisher": "National Security Archive (GWU), The Taliban File",
+  "published": "1994-11-04",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB97/tal2.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB97/index.htm",
+  "pages": 13,
+  "kind": "cable",
+  "note": "[Confidential] Weekly report on South Asia developments: Afghan refugees fleeing Kabul, the UN Mestiri mission, and the stranded Pakistani convoy. It mentions the debriefing of British kidnapping victims who identified their captor as \"Rohit Sharma\", i.e. Ahmed Omar Saeed Sheikh, later the self-confessed mastermind of the Daniel Pearl kidnapping.",
+  "collection": "NSAEBB97",
+  "doc_number": "Document 2",
+  "relevance": "medium",
+  "ocr": 13
+ },
+ "persons": [
+  {
+   "name": "Bella Josef Nuss",
+   "aliases": [
+    "Bela Nuss"
+   ],
+   "role": "American citizen kidnapped by Kashmiri militants in India",
+   "organizations": [],
+   "nationality_or_origin": "American",
+   "status": "released",
+   "status_detail": "found alive in chains in Ghaziabad, returned to US Embassy New Delhi",
+   "family": [],
+   "locations": [
+    "Ghaziabad",
+    "New Delhi"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "POLICE INVESTIGATING A ROBBERY FOUND THE AMERICAN -- BELLA JOSEF NUSS -- IN CHAINS IN THE TOWN OF GHAZIABAD"
+    }
+   ]
+  },
+  {
+   "name": "Chernyshev",
+   "aliases": [
+    "Chernyshev"
+   ],
+   "role": "Russian Deputy Foreign Minister",
+   "organizations": [
+    "Russian government"
+   ],
+   "nationality_or_origin": "Russian",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Islamabad"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "RUSSIAN DEPUTY FOREIGN MINISTER CHERNYSHEV AND PAKISTANI FM ASSEP ALI DISCUSSED PLANS FOR PM BHUTTO TO VISIT RUSSIA"
+    }
+   ]
+  },
+  {
+   "name": "Asef Ali",
+   "aliases": [
+    "Assef Ali",
+    "Asif Ali",
+    "Assep Ali"
+   ],
+   "role": "Pakistani Foreign Minister",
+   "organizations": [
+    "Government of Pakistan"
+   ],
+   "nationality_or_origin": "Pakistani",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Islamabad"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "ALI PRESSED FOR RUSSIA TO SUPPORT PAKISTAN'S UN POSITION ON KASHMIR"
+    }
+   ]
+  },
+  {
+   "name": "Benazir Bhutto",
+   "aliases": [
+    "PM Bhutto",
+    "Bhutto"
+   ],
+   "role": "Prime Minister of Pakistan",
+   "organizations": [
+    "PPP",
+    "Government of Pakistan"
+   ],
+   "nationality_or_origin": "Pakistani",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [
+    {
+     "relation": "mother",
+     "name": "Nusrat Bhutto"
+    }
+   ],
+   "locations": [
+    "Karachi",
+    "Pakistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.8",
+     "quote": "PM BHUTTO ADDED A RELIGIOUS NOTE IN HER REMARKS"
+    },
+    {
+     "timestamp": "p.11",
+     "quote": "HE BELIEVES BHUTTO WILL REMAIN IN POWER FOR AT LEAST ANOTHER YEAR"
+    }
+   ]
+  },
+  {
+   "name": "Nusrat Bhutto",
+   "aliases": [],
+   "role": "Mother of PM Benazir Bhutto",
+   "organizations": [],
+   "nationality_or_origin": "Pakistani",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [
+    {
+     "relation": "daughter",
+     "name": "Benazir Bhutto"
+    }
+   ],
+   "locations": [
+    "Karachi"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.8",
+     "quote": "TENSIONS WERE EVIDENT BETWEEN BENAZIR BHUTTO AND HER MOTHER, NUSRAT BHUTTO"
+    }
+   ]
+  },
+  {
+   "name": "Naseerullah Babar",
+   "aliases": [
+    "Nasirullah Babar"
+   ],
+   "role": "Pakistani Interior Minister",
+   "organizations": [
+    "Government of Pakistan"
+   ],
+   "nationality_or_origin": "Pakistani",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Herat",
+    "Kandahar"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.3",
+     "quote": "INTERIOR MINISTER BABAR AND A VISITING GROUP OF WESTERN ENVOYS, INCLUDING AMBASSADOR MONJO, SAW PROGRESS IN RECONSTRUCTION"
+    }
+   ]
+  },
+  {
+   "name": "Monjo",
+   "aliases": [
+    "John Monjo"
+   ],
+   "role": "US Ambassador to Pakistan",
+   "organizations": [
+    "US Department of State"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Herat",
+    "Kandahar",
+    "Islamabad"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.3",
+     "quote": "VISITING GROUP OF WESTERN ENVOYS, INCLUDING AMBASSADOR MONJO"
+    }
+   ]
+  },
+  {
+   "name": "Mestiri",
+   "aliases": [
+    "Mahmoud Mestiri",
+    "Mahmoud Mestiri"
+   ],
+   "role": "UN Special Envoy for Afghanistan",
+   "organizations": [
+    "United Nations"
+   ],
+   "nationality_or_origin": "Tunisian",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.7",
+     "quote": "MESTIRI IS BEGINNING PRELIMINARY DISCUSSIONS WITH AFGHANS ON FORMING AN INTERIM RULING COUNCIL"
+    }
+   ]
+  },
+  {
+   "name": "Burhanuddin Rabbani",
+   "aliases": [
+    "Rabbani"
+   ],
+   "role": "President of Afghanistan (Kabul government)",
+   "organizations": [
+    "Jamiat-i Islami"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Kabul"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.7",
+     "quote": "SUCCESSFUL MEETINGS INSIDE AFGHANISTAN WITH RABBANI, HEKMATYAR, ISMAIL KHAN, MASOOD, DOSTAM"
+    }
+   ]
+  },
+  {
+   "name": "Gulbuddin Hekmatyar",
+   "aliases": [
+    "Hekmatyar",
+    "Gulbuddin Hekmatyar"
+   ],
+   "role": "Hizb-i Islami leader imposing blockade on Kabul",
+   "organizations": [
+    "Hizb-i Islami"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Kabul"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.10",
+     "quote": "BLOCKADE IMPOSED BY HEKMATYAR AND HIS ALLIES"
+    }
+   ]
+  },
+  {
+   "name": "Ismail Khan",
+   "aliases": [
+    "Ismail Khan"
+   ],
+   "role": "Governor/commander in Herat",
+   "organizations": [],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Herat"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.7",
+     "quote": "RABBANI, HEKMATYAR, ISMAIL KHAN, MASOOD, DOSTAM, AND OTHERS"
+    }
+   ]
+  },
+  {
+   "name": "Ahmad Shah Massoud",
+   "aliases": [
+    "Ahmad Shah Masood",
+    "Masood"
+   ],
+   "role": "Defense Minister/commander; Bagram air base",
+   "organizations": [
+    "Jamiat-i Islami"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Bagram"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.9",
+     "quote": "FIFTEEN INDIAN TECHNICIANS AND THREE PILOTS ASSIST AHMAD SHAH MASOOD AT HIS BAGRAM AIR BASE"
+    }
+   ]
+  },
+  {
+   "name": "Abdul Rashid Dostum",
+   "aliases": [
+    "Dostam",
+    "Dostum"
+   ],
+   "role": "Uzbek militia leader",
+   "organizations": [
+    "Junbish-i Milli"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.9",
+     "quote": "TWO MASOOD PILOTS WHO DEFECTED TO DOSTAM IN SEPTEMBER"
+    }
+   ]
+  },
+  {
+   "name": "Abdul Haq",
+   "aliases": [
+    "Abdul Hao"
+   ],
+   "role": "Likely chair of Mestiri's security working group",
+   "organizations": [],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.7",
+     "quote": "ABDUL HAO AND PIR GAILANI WILL LIKELY CHAIR MESTIRI'S WORKING GROUPS ON SECURITY AND POLITICAL LEGITIMACY"
+    }
+   ]
+  },
+  {
+   "name": "Pir Gailani",
+   "aliases": [
+    "Sayyid Ahmad Gailani",
+    "Pir Gaylani"
+   ],
+   "role": "Likely chair of Mestiri's political legitimacy group",
+   "organizations": [
+    "National Islamic Front of Afghanistan"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.7",
+     "quote": "PIR GAILANI WILL LIKELY CHAIR"
+    }
+   ]
+  },
+  {
+   "name": "Abdul Rabb al-Rasul Sayyaf",
+   "aliases": [
+    "Sayyaf"
+   ],
+   "role": "Pashtun Islamist leader opposing Mestiri",
+   "organizations": [
+    "Ittihad-i Islami"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.7",
+     "quote": "THREE PRO-RABBANI PASHTUN ISLAMIST LEADERS (SAYYAF, KHALIS, AND MOHAMMADI) OPPOSE MESTIRI'S EFFORTS"
+    }
+   ]
+  },
+  {
+   "name": "Yunus Khalis",
+   "aliases": [
+    "Khalis"
+   ],
+   "role": "Pashtun Islamist leader opposing Mestiri",
+   "organizations": [
+    "Hizb-i Islami (Khalis)"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.7",
+     "quote": "SAYYAF, KHALIS, AND MOHAMMADI"
+    }
+   ]
+  },
+  {
+   "name": "Mohammad Nabi Mohammadi",
+   "aliases": [
+    "Mohammadi"
+   ],
+   "role": "Pashtun Islamist leader opposing Mestiri",
+   "organizations": [
+    "Harakat-i Inqilab-i Islami"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.7",
+     "quote": "SAYYAF, KHALIS, AND MOHAMMADI"
+    }
+   ]
+  },
+  {
+   "name": "Qazi Humayun",
+   "aliases": [
+    "Qazi Humayun"
+   ],
+   "role": "Pakistani Foreign Ministry official",
+   "organizations": [
+    "Pakistan Ministry of Foreign Affairs"
+   ],
+   "nationality_or_origin": "Pakistani",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Islamabad"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.9",
+     "quote": "ACCORDING TO QAZI HUMAYUN OF PAKISTAN'S FOREIGN MINISTRY"
+    }
+   ]
+  },
+  {
+   "name": "Sherpao",
+   "aliases": [
+    "Aftab Ahmad Khan Sherpao"
+   ],
+   "role": "NWFP Chief Minister",
+   "organizations": [
+    "Government of NWFP"
+   ],
+   "nationality_or_origin": "Pakistani",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Malakand",
+    "Swat",
+    "Malakand Division",
+    "North-West Frontier Province"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.11",
+     "quote": "NWFP CHIEF MINISTER SHERPAO HAD RENEGED ON PROMISES"
+    },
+    {
+     "timestamp": "p.11",
+     "quote": "NWFP CHIEF MINISTER SHERPAO HAD RENEGED ON PROMISES ... TO ESTABLISH SHARIAT LAW IN THE DIVISION"
+    }
+   ]
+  },
+  {
+   "name": "Syed Qaim Ali Shah",
+   "aliases": [
+    "Qyed Qaim Ali Shah"
+   ],
+   "role": "Pakistani UN delegate",
+   "organizations": [
+    "Government of Pakistan"
+   ],
+   "nationality_or_origin": "Pakistani",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "New York"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.7",
+     "quote": "GOP DELEGATE QYED QAIM ALI SHAH BEGAN THE CONFLICT BY LAMBASTING INDIA'S"
+    }
+   ]
+  },
+  {
+   "name": "Najmuddin Shaikh",
+   "aliases": [
+    "Shaikh"
+   ],
+   "role": "Pakistani Foreign Secretary",
+   "organizations": [
+    "Government of Pakistan"
+   ],
+   "nationality_or_origin": "Pakistani",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.8",
+     "quote": "FOREIGN SECRETARY SHAIKH WELCOMED U.S. WILLINGNESS TO CONSIDER BECOMING MORE INVOLVED IN RESOLVING THE KASHMIR DISPUTE"
+    }
+   ]
+  },
+  {
+   "name": "Yousaf Raza Gilani",
+   "aliases": [
+    "Yousaf Raza Gillani"
+   ],
+   "role": "Speaker of Pakistan's National Assembly",
+   "organizations": [
+    "National Assembly of Pakistan"
+   ],
+   "nationality_or_origin": "Pakistani",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.5",
+     "quote": "NATIONAL ASSEMBLY SPEAKER YOUSAF RAZA GILANI ORDERED THE GOP TO ALLOW THE MEMBERS TO ATTEND"
+    }
+   ]
+  },
+  {
+   "name": "Nawaz Khokhar",
+   "aliases": [],
+   "role": "PML/N opposition figure",
+   "organizations": [
+    "PML-N",
+    "Pakistan Muslim League (N)"
+   ],
+   "nationality_or_origin": "Pakistani",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.11",
+     "quote": "PML/N MILITANT NAWAZ KHOKHAR TOLD THE EMBASSY HE BELIEVES BHUTTO WILL REMAIN IN POWER"
+    }
+   ]
+  },
+  {
+   "name": "Rohit Sharma",
+   "aliases": [],
+   "role": "Kidnapper of three British nationals in New Delhi, wounded at Ghaziabad house",
+   "organizations": [],
+   "nationality_or_origin": "British passport holder",
+   "status": "unknown",
+   "status_detail": "wounded at Ghaziabad house",
+   "family": [],
+   "locations": [
+    "Ghaziabad",
+    "New Delhi",
+    "Kashmir",
+    "Bosnia"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.12",
+     "quote": "THE KIDNAPPER IDENTIFIED AS \"ROHIT SHARMA,\" WHO LEFT A RANSOM PACKAGE AT THE BBC, WAS WOUNDED AT THE GHAZIABAD HOUSE"
+    }
+   ]
+  },
+  {
+   "name": "Lahiri",
+   "aliases": [],
+   "role": "Indian MEA Joint Secretary",
+   "organizations": [
+    "Indian Ministry of External Affairs"
+   ],
+   "nationality_or_origin": "Indian",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "New Delhi"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.12",
+     "quote": "MEA JOINT SECRETARY LAHIRI WARNED OUR CHARGE THAT IF CODEL ACKERMAN'S PLANNED VISIT TO KASHMIR"
+    }
+   ]
+  },
+  {
+   "name": "Gary Ackerman",
+   "aliases": [
+    "Ackerman"
+   ],
+   "role": "US Congressman leading a CODEL to Kashmir",
+   "organizations": [],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Kashmir",
+    "Jammu"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.12",
+     "quote": "CODEL ACKERMAN'S PLANNED VISIT TO KASHMIR"
+    }
+   ]
+  },
+  {
+   "name": "William Perry",
+   "aliases": [
+    "Defense Secretary Perry"
+   ],
+   "role": "US Defense Secretary",
+   "organizations": [
+    "US Department of Defense"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.12",
+     "quote": "DEFENSE SECRETARY PERRY'S CONCEPT PAPER ON DEFENSE COOPERATION"
+    }
+   ]
+  },
+  {
+   "name": "Chandrika Kumaratunga",
+   "aliases": [
+    "Kumaratunga"
+   ],
+   "role": "Sri Lankan Prime Minister and presidential candidate",
+   "organizations": [],
+   "nationality_or_origin": "Sri Lankan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Sri Lanka"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.13",
+     "quote": "PM KUMARATUNGA'S PRESIDENTIAL CAMPAIGN HAS REGAINED DIRECTION"
+    }
+   ]
+  },
+  {
+   "name": "Gamini Dissanayake",
+   "aliases": [
+    "Dissanayake"
+   ],
+   "role": "UNP presidential candidate",
+   "organizations": [
+    "United National Party"
+   ],
+   "nationality_or_origin": "Sri Lankan",
+   "status": "dead",
+   "status_detail": "assassinated 24 October 1994",
+   "family": [
+    {
+     "relation": "wife",
+     "name": "Srima Dissanayake"
+    }
+   ],
+   "locations": [
+    "Sri Lanka"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.13",
+     "quote": "OPPOSITION (UNP) CANDIDATE DISSANAYAKE'S ASSASSINATION OCTOBER 24"
+    }
+   ]
+  },
+  {
+   "name": "Srima Dissanayake",
+   "aliases": [],
+   "role": "UNP presidential candidate after husband's death",
+   "organizations": [
+    "United National Party"
+   ],
+   "nationality_or_origin": "Sri Lankan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [
+    {
+     "relation": "wife",
+     "name": "Gamini Dissanayake"
+    }
+   ],
+   "locations": [
+    "Sri Lanka"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.13",
+     "quote": "THEIR CANDIDATE'S (SRIMA DISSANAYAKE) CHANCES"
+    }
+   ]
+  },
+  {
+   "name": "Ranil Wickremesinghe",
+   "aliases": [
+    "Wickremesinghe"
+   ],
+   "role": "UNP leader",
+   "organizations": [
+    "United National Party"
+   ],
+   "nationality_or_origin": "Sri Lankan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Sri Lanka"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.13",
+     "quote": "UNP LEADER WICKREMESINGHE IS DOING LITTLE TO HELP SRIMA"
+    }
+   ]
+  },
+  {
+   "name": "Warren Christopher",
+   "aliases": [
+    "Christopher"
+   ],
+   "role": "US Secretary of State (cable signatory)",
+   "organizations": [
+    "US Department of State"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.13",
+     "quote": "CHRISTOPHER"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Taliban",
+   "aliases": [
+    "Talebs",
+    "Taleban"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [
+    "Hizb-i Islami",
+    "National Islamic Front of Afghanistan"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Described as a new group of young religious students that took Spin Boldak and fought Kandahar commanders over the Chaman-Kandahar highway; suspected GOP support."
+  },
+  {
+   "name": "Hizb-i Islami",
+   "aliases": [
+    "HIG"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Allied commanders fought Taliban in Kandahar; Hekmatyar blockades Kabul."
+  },
+  {
+   "name": "National Islamic Front of Afghanistan",
+   "aliases": [
+    "NIFA"
+   ],
+   "type": "political movement",
+   "parent_or_allies": [],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Commanders fought Taliban in Kandahar."
+  },
+  {
+   "name": "Tehrik-e-Jafria Pakistan",
+   "aliases": [
+    "TJP"
+   ],
+   "type": "political movement",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Shia sectarian party that won 8 of 25 Northern Areas seats."
+  },
+  {
+   "name": "Government of Pakistan",
+   "aliases": [
+    "GOP"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Suspected of backing the Taliban to open trade routes."
+  },
+  {
+   "name": "United Nations",
+   "aliases": [
+    "UN"
+   ],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Mestiri mission; UNOCHA, UNHCR."
+  },
+  {
+   "name": "Movement for Enforcement of Shariat",
+   "aliases": [
+    "Tehrik-e-Nifaz-e-Shariat-e-Mohammadi"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Black-turbaned Malakand activists who killed a provincial minister."
+  },
+  {
+   "name": "Jamiat-i Islami",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Rabbani/Massoud party."
+  },
+  {
+   "name": "Junbish-i Milli",
+   "aliases": [],
+   "type": "militia",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Dostum's militia."
+  },
+  {
+   "name": "Shariat movement (Malakand)",
+   "aliases": [
+    "Tehrik-e-Nifaz-e-Shariat-e-Mohammadi"
+   ],
+   "type": "political movement",
+   "parent_or_allies": [],
+   "rivals": [
+    "Government of Pakistan"
+   ],
+   "country_base": "Pakistan",
+   "notes": "Black-turbaned activists seeking Shariat law in Malakand Division; killed a provincial minister and occupied police stations and Swat airport."
+  },
+  {
+   "name": "Pakistan Muslim League (N)",
+   "aliases": [
+    "PML/N"
+   ],
+   "type": "political movement",
+   "parent_or_allies": [],
+   "rivals": [
+    "Government of Pakistan"
+   ],
+   "country_base": "Pakistan",
+   "notes": "Opposition party; three deputies jailed."
+  },
+  {
+   "name": "International Monetary Fund",
+   "aliases": [
+    "IMF"
+   ],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Team to visit Pakistan in November 1994."
+  },
+  {
+   "name": "Indian Ministry of External Affairs",
+   "aliases": [
+    "MEA",
+    "GOI"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "India",
+   "notes": ""
+  },
+  {
+   "name": "United National Party",
+   "aliases": [
+    "UNP"
+   ],
+   "type": "political movement",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Sri Lanka",
+   "notes": ""
+  },
+  {
+   "name": "Pakistan National Assembly Privileges Committee",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Received referral on release of jailed PML/N deputies."
+  }
+ ],
+ "places": [
+  {
+   "name": "Spin Boldak",
+   "type": "border crossing",
+   "country": "Afghanistan",
+   "parent": "Kandahar",
+   "significance": "Taken over by the Taliban"
+  },
+  {
+   "name": "Kandahar",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Site of fighting between Taliban and local commanders"
+  },
+  {
+   "name": "Chaman",
+   "type": "town",
+   "country": "Pakistan",
+   "parent": "Balochistan",
+   "significance": "Chaman-Kandahar highway"
+  },
+  {
+   "name": "Kabul",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Blockaded by Hekmatyar"
+  },
+  {
+   "name": "Jalalabad",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Nangarhar",
+   "significance": "IDPs from Kabul"
+  },
+  {
+   "name": "Herat",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Visited by Babar"
+  },
+  {
+   "name": "Bagram",
+   "type": "base",
+   "country": "Afghanistan",
+   "parent": "Parwan",
+   "significance": "Massoud's air base; alleged Indian technicians"
+  },
+  {
+   "name": "Malakand",
+   "type": "region",
+   "country": "Pakistan",
+   "parent": "NWFP",
+   "significance": "Shariat agitation"
+  },
+  {
+   "name": "Swat",
+   "type": "district",
+   "country": "Pakistan",
+   "parent": "NWFP",
+   "significance": "Police stations and airport occupied"
+  },
+  {
+   "name": "Ghaziabad",
+   "type": "town",
+   "country": "India",
+   "parent": "Uttar Pradesh",
+   "significance": "American hostage found"
+  },
+  {
+   "name": "Islamabad",
+   "type": "city",
+   "country": "Pakistan",
+   "parent": "Pakistan",
+   "significance": "Tajik talks"
+  },
+  {
+   "name": "Malakand Division",
+   "type": "region",
+   "country": "Pakistan",
+   "parent": "North-West Frontier Province",
+   "significance": "Site of Shariat movement uprising"
+  },
+  {
+   "name": "North-West Frontier Province",
+   "type": "province",
+   "country": "Pakistan",
+   "parent": "Pakistan",
+   "significance": "Province of Shariat unrest"
+  },
+  {
+   "name": "Kashmir",
+   "type": "region",
+   "country": "India",
+   "parent": "",
+   "significance": "Hostage incident in June; planned CODEL visit"
+  },
+  {
+   "name": "New Delhi",
+   "type": "city",
+   "country": "India",
+   "parent": "India",
+   "significance": "Kidnapping of British nationals"
+  },
+  {
+   "name": "Bosnia",
+   "type": "country",
+   "country": "Bosnia",
+   "parent": "",
+   "significance": "Radicalized Sharma"
+  }
+ ],
+ "events": [
+  {
+   "date": "1994-10-31",
+   "date_precision": "day",
+   "type": "other",
+   "description": "American Bella Nuss kidnapped by Kashmiri militants found in Ghaziabad",
+   "place": "Ghaziabad",
+   "actors": [
+    "Bella Josef Nuss"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1994-10-30",
+   "date_precision": "day",
+   "type": "other",
+   "description": "Babar and Western envoys visited Herat and Kandahar",
+   "place": "Herat",
+   "actors": [
+    "Naseerullah Babar",
+    "Monjo"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1994-11-03",
+   "date_precision": "day",
+   "type": "offensive",
+   "description": "Shariat activists in Malakand killed a provincial minister and occupied police stations and Swat airport",
+   "place": "Swat",
+   "actors": [
+    "Movement for Enforcement of Shariat"
+   ],
+   "timestamp": "p.11"
+  },
+  {
+   "date": "1994-11",
+   "date_precision": "month",
+   "type": "attack",
+   "description": "Fighting in Kandahar between Taliban and HIG/NIFA commanders over Chaman-Kandahar highway and Spin Boldak",
+   "place": "Kandahar",
+   "actors": [
+    "Taliban",
+    "Hizb-i Islami",
+    "National Islamic Front of Afghanistan"
+   ],
+   "timestamp": "p.10"
+  },
+  {
+   "date": "1994-11-03",
+   "date_precision": "day",
+   "type": "offensive",
+   "description": "Shariat activists killed a provincial minister, occupied police stations and Swat airport, and barricaded government offices; government dispatched 8,000 troops.",
+   "place": "Malakand Division",
+   "actors": [
+    "Shariat movement (Malakand)",
+    "Government of Pakistan"
+   ],
+   "timestamp": "p.11"
+  },
+  {
+   "date": "1994-10-24",
+   "date_precision": "day",
+   "type": "death",
+   "description": "Assassination of UNP candidate Gamini Dissanayake.",
+   "place": "Sri Lanka",
+   "actors": [
+    "Gamini Dissanayake"
+   ],
+   "timestamp": "p.13"
+  },
+  {
+   "date": "1994-06",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Two hostages held in Kashmir by kidnappers who claimed to be same as those holding British victims.",
+   "place": "Kashmir",
+   "actors": [],
+   "timestamp": "p.12"
+  },
+  {
+   "date": "1994-10-31",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "Kashmiri militant group (reportedly with Afghan connections) abducted an American and threatened to kill him and three Britons unless 10 militants were released; Nuss was found in chains in Ghaziabad.",
+   "place": "Ghaziabad",
+   "actors": [
+    "Bella Josef Nuss"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1994-10",
+   "date_precision": "month",
+   "type": "meeting",
+   "description": "Russian Deputy FM Chernyshev and Pakistani FM Ali discussed PM Bhutto's visit to Russia and Kashmir while in Islamabad for Tajik talks.",
+   "place": "Islamabad",
+   "actors": [
+    "Chernyshev",
+    "Asef Ali",
+    "Benazir Bhutto"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1994-10-25",
+   "date_precision": "day",
+   "type": "other",
+   "description": "Northern Areas Council elections: Shia TJP won 8 of 25 seats, PPP 6, PML/N 1.",
+   "place": "Northern Areas",
+   "actors": [
+    "Tehrik-e-Jafria Pakistan",
+    "Pakistan Muslim League (N)"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1994-10",
+   "date_precision": "month",
+   "type": "travel",
+   "description": "Interior Minister Babar and Western envoys including Ambassador Monjo visited Herat and made a short stop in Kandahar.",
+   "place": "Herat; Kandahar",
+   "actors": [
+    "Naseerullah Babar",
+    "Monjo"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1994-10-24",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "Bombing in Sri Lanka killed UNP presidential candidate Gamini Dissanayake.",
+   "place": "Sri Lanka",
+   "actors": [
+    "Gamini Dissanayake"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1994-10-29",
+   "date_precision": "day",
+   "type": "other",
+   "description": "State funeral for Gamini Dissanayake took place peacefully.",
+   "place": "Sri Lanka",
+   "actors": [
+    "Gamini Dissanayake"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1994-11-01",
+   "date_precision": "day",
+   "type": "agreement",
+   "description": "Agreement reached to restructure and resume the McCollum program of DOD humanitarian supplies to Afghanistan, including aid for Afghans fleeing Kabul for Jalalabad.",
+   "place": "Afghanistan",
+   "actors": [
+    "United Nations"
+   ],
+   "timestamp": "p.5"
+  },
+  {
+   "date": "1994-11-01",
+   "date_precision": "day",
+   "type": "agreement",
+   "description": "Tajik government and opposition negotiators in Islamabad agreed to extend the Afghan-Tajik border cease-fire until February 1995; cease-fire began October 20.",
+   "place": "Islamabad",
+   "actors": [],
+   "timestamp": "p.5"
+  },
+  {
+   "date": "1994-10-29",
+   "date_precision": "day",
+   "type": "other",
+   "description": "Opposition deputies walked out of the National Assembly on Oct 29 and 30 after the GOP refused to allow three jailed opposition members to participate; Speaker Gilani ordered their attendance.",
+   "place": "Islamabad",
+   "actors": [
+    "Yousaf Raza Gilani",
+    "Government of Pakistan"
+   ],
+   "timestamp": "p.5"
+  },
+  {
+   "date": "1994-09",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Two Massoud pilots reportedly defected to Dostum.",
+   "place": "Afghanistan",
+   "actors": [
+    "Ahmad Shah Massoud",
+    "Abdul Rashid Dostum"
+   ],
+   "timestamp": "p.9"
+  },
+  {
+   "date": "1994-11-01",
+   "date_precision": "approx",
+   "type": "attack",
+   "description": "Fighting erupted in Kandahar province between Taliban and HIG/NIFA commanders over Chaman-Kandahar highway.",
+   "place": "Kandahar",
+   "actors": [
+    "Taliban",
+    "Hizb-i Islami",
+    "National Islamic Front of Afghanistan"
+   ],
+   "timestamp": "p.10"
+  },
+  {
+   "date": "1994-11-03",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "Shariat activists killed a provincial minister, occupied police stations and an airport in Swat, barricaded government offices.",
+   "place": "Swat",
+   "actors": [
+    "Movement for Enforcement of Shariat",
+    "Sherpao"
+   ],
+   "timestamp": "p.11"
+  },
+  {
+   "date": "1994-11",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Government dispatched 8,000 troops to Malakand Division.",
+   "place": "Malakand Division",
+   "actors": [
+    "Government of Pakistan"
+   ],
+   "timestamp": "p.11"
+  },
+  {
+   "date": "1994-10-24",
+   "date_precision": "day",
+   "type": "death",
+   "description": "UNP candidate Dissanayake assassinated.",
+   "place": "Sri Lanka",
+   "actors": [
+    "Gamini Dissanayake"
+   ],
+   "timestamp": "p.13"
+  },
+  {
+   "date": "1994-06",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Two hostages held in Kashmir by kidnappers who claimed to be the same as those holding three Britons.",
+   "place": "Kashmir",
+   "actors": [
+    "Rohit Sharma"
+   ],
+   "timestamp": "p.12"
+  },
+  {
+   "date": "1994-11-01",
+   "date_precision": "day",
+   "type": "agreement",
+   "description": "Agreement reached to restructure and resume the McCollum humanitarian supply program for Afghanistan.",
+   "place": "Afghanistan",
+   "actors": [
+    "United Nations"
+   ],
+   "timestamp": "p.5"
+  },
+  {
+   "date": "1994-10",
+   "date_precision": "month",
+   "type": "agreement",
+   "description": "Tajik government and opposition negotiators in Islamabad agreed to extend the Afghan-Tajik border cease-fire until February 1995.",
+   "place": "Islamabad",
+   "actors": [],
+   "timestamp": "p.5"
+  },
+  {
+   "date": "1994-10-29",
+   "date_precision": "day",
+   "type": "other",
+   "description": "Opposition deputies walked out of National Assembly sessions on Oct 29 and 30 over jailed opposition members.",
+   "place": "Islamabad",
+   "actors": [
+    "Yousaf Raza Gilani",
+    "Government of Pakistan"
+   ],
+   "timestamp": "p.5"
+  },
+  {
+   "date": "1994-11-02",
+   "date_precision": "day",
+   "type": "other",
+   "description": "About a thousand IDPs per day arrive in Jalalabad from Kabul; UNOCHA anticipates 150,000 new arrivals.",
+   "place": "Jalalabad",
+   "actors": [
+    "United Nations"
+   ],
+   "timestamp": "p.6"
+  },
+  {
+   "date": "1994-11",
+   "date_precision": "month",
+   "type": "meeting",
+   "description": "Mestiri began discussions on an interim ruling council after meetings with Rabbani, Hekmatyar, Ismail Khan, Masood, Dostam.",
+   "place": "Afghanistan",
+   "actors": [
+    "Mestiri",
+    "Burhanuddin Rabbani",
+    "Gulbuddin Hekmatyar",
+    "Ismail Khan",
+    "Ahmad Shah Massoud",
+    "Abdul Rashid Dostum"
+   ],
+   "timestamp": "p.7"
+  },
+  {
+   "date": "1994-10-27",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Pakistani and Indian delegates clashed over Kashmir at the UN General Assembly.",
+   "place": "Kashmir",
+   "actors": [
+    "Syed Qaim Ali Shah"
+   ],
+   "timestamp": "p.7"
+  },
+  {
+   "date": "1994-10-31",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "Foreign Secretary Shaikh met Ambassador Monjo on Kashmir and nonproliferation.",
+   "place": "Islamabad",
+   "actors": [
+    "Najmuddin Shaikh",
+    "Monjo"
+   ],
+   "timestamp": "p.8"
+  },
+  {
+   "date": "1994-10-30",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "PM Bhutto spoke at ceremony in Karachi for business women.",
+   "place": "Karachi",
+   "actors": [
+    "Benazir Bhutto",
+    "Nusrat Bhutto"
+   ],
+   "timestamp": "p.8"
+  },
+  {
+   "date": "1994-09",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Two Masood pilots reportedly defected to Dostam.",
+   "place": "Afghanistan",
+   "actors": [
+    "Ahmad Shah Massoud",
+    "Abdul Rashid Dostum"
+   ],
+   "timestamp": "p.9"
+  },
+  {
+   "date": "1994-11-03",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "Clash in Kandahar province between four local commanders and the Taliban over a test-case Pakistani convoy to Central Asia.",
+   "place": "Kandahar",
+   "actors": [
+    "Taliban"
+   ],
+   "timestamp": "p.9"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Taliban",
+   "target": "Government of Pakistan",
+   "type": "other",
+   "detail": "Observers suspected the Taliban were supported by the GOP and business interests seeking trade routes.",
+   "date": "1994-11",
+   "confidence": "inferred",
+   "timestamp": "p.10",
+   "quote": "MANY TO SUSPECT THE- TALIBAN ARE SUPPORTED BY THE GOP AND BUSINESS INTERESTS"
+  },
+  {
+   "source": "Taliban",
+   "target": "Hizb-i Islami",
+   "type": "rival_of",
+   "detail": "Fighting erupted between Taliban and alliance of HIG and NIFA commanders.",
+   "date": "1994-11",
+   "confidence": "stated",
+   "timestamp": "p.10",
+   "quote": "BETWEEN AN ALLIANCE OF ESTABLISHED HIG AND NIFA COMMANDERS AND A NEW, HITHERTO UNKNOWN GROUP CALLED THE TALIBAN"
+  },
+  {
+   "source": "Taliban",
+   "target": "Spin Boldak",
+   "type": "located_in",
+   "detail": "Taliban took over the Spin Boldak crossing.",
+   "date": "1994-11",
+   "confidence": "stated",
+   "timestamp": "p.9",
+   "quote": "HAVE TAKEN OVER THE SPIN BOLDAK CROSSING POINT ON THE AFGHAN- PAKISTAN BORDER"
+  },
+  {
+   "source": "Abdul Haq",
+   "target": "Mestiri",
+   "type": "reports_to",
+   "detail": "Likely to chair Mestiri's security working group.",
+   "date": "1994-11",
+   "confidence": "inferred",
+   "timestamp": "p.7",
+   "quote": "ABDUL HAO AND PIR GAILANI WILL LIKELY CHAIR MESTIRI'S WORKING GROUPS"
+  },
+  {
+   "source": "Abdul Rabb al-Rasul Sayyaf",
+   "target": "Mestiri",
+   "type": "rival_of",
+   "detail": "Sayyaf, Khalis, Mohammadi oppose Mestiri's efforts.",
+   "date": "1994-11",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "THREE PRO-RABBANI PASHTUN ISLAMIST LEADERS (SAYYAF, KHALIS, AND MOHAMMADI) OPPOSE MESTIRI'S EFFORTS"
+  },
+  {
+   "source": "Benazir Bhutto",
+   "target": "Nusrat Bhutto",
+   "type": "family",
+   "detail": "Mother and daughter.",
+   "date": "1994-10-30",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "BENAZIR BHUTTO AND HER MOTHER, NUSRAT BHUTTO"
+  },
+  {
+   "source": "Gulbuddin Hekmatyar",
+   "target": "Kabul",
+   "type": "other",
+   "detail": "Imposed blockade on Kabul.",
+   "date": "1994-11",
+   "confidence": "stated",
+   "timestamp": "p.10",
+   "quote": "BLOCKADE IMPOSED BY HEKMATYAR AND HIS ALLIES"
+  },
+  {
+   "source": "Shariat movement (Malakand)",
+   "target": "Sherpao",
+   "type": "rival_of",
+   "detail": "Activists complained Sherpao reneged on promises to establish Shariat law.",
+   "date": "1994-11",
+   "confidence": "stated",
+   "timestamp": "p.11",
+   "quote": "COMPLAINING THAT NWFP CHIEF MINISTER SHERPAO HAD RENEGED ON PROMISES"
+  },
+  {
+   "source": "Nawaz Khokhar",
+   "target": "Pakistan Muslim League (N)",
+   "type": "member_of",
+   "detail": "Described as PML/N militant.",
+   "confidence": "stated",
+   "timestamp": "p.11",
+   "quote": "PML/N MILITANT NAWAZ KHOKHAR"
+  },
+  {
+   "source": "Srima Dissanayake",
+   "target": "Gamini Dissanayake",
+   "type": "family",
+   "detail": "Replacement UNP candidate after assassination; relation inferred as wife.",
+   "confidence": "inferred",
+   "timestamp": "p.13",
+   "quote": "THEIR CANDIDATE'S (SRIMA DISSANAYAKE) CHANCES"
+  },
+  {
+   "source": "Ranil Wickremesinghe",
+   "target": "United National Party",
+   "type": "leads",
+   "detail": "UNP leader.",
+   "confidence": "stated",
+   "timestamp": "p.13",
+   "quote": "UNP LEADER WICKREMESINGHE"
+  },
+  {
+   "source": "Bella Josef Nuss",
+   "target": "Ghaziabad",
+   "type": "located_in",
+   "detail": "The kidnapped American was found in chains in Ghaziabad by police investigating a robbery.",
+   "date": "1994-10-31",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "POLICE INVESTIGATING A ROBBERY FOUND THE AMERICAN -- BELLA JOSEF NUSS -- IN CHAINS IN THE TOWN OF GHAZIABAD"
+  },
+  {
+   "source": "Ghaziabad",
+   "target": "New Delhi",
+   "type": "located_in",
+   "detail": "Ghaziabad is described as east of New Delhi.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "GHAZIABAD (EAST OF NEW DELHI), ALIVE AND UNHURT"
+  },
+  {
+   "source": "Chernyshev",
+   "target": "Asef Ali",
+   "type": "met_with",
+   "detail": "Russian Deputy FM Chernyshev and Pakistani FM Ali discussed PM Bhutto's planned visit to Russia while in Islamabad for Tajik talks.",
+   "date": "1994-10",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "RUSSIAN DEPUTY FOREIGN MINISTER CHERNYSHEV AND PAKISTANI FM ASSEP ALI DISCUSSED PLANS FOR PM BHUTTO TO VISIT RUSSIA"
+  },
+  {
+   "source": "Asef Ali",
+   "target": "Benazir Bhutto",
+   "type": "reports_to",
+   "detail": "Ali is foreign minister under PM Bhutto.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "PAKISTANI FM ASSEP ALI DISCUSSED PLANS FOR PM BHUTTO TO VISIT RUSSIA LATER IN 1994"
+  },
+  {
+   "source": "Chernyshev",
+   "target": "Islamabad",
+   "type": "located_in",
+   "detail": "Chernyshev was in Islamabad for Tajik talks.",
+   "date": "1994-10",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "WHILE IN. ISLAMABAD TO PARTICIPATE IN TAJIK TALKS, RUSSIAN DEPUTY FOREIGN MINISTER CHERNYSHEV"
+  },
+  {
+   "source": "Tehrik-e-Jafria Pakistan",
+   "target": "Pakistan Muslim League (N)",
+   "type": "rival_of",
+   "detail": "In Northern Areas elections TJP won 8 seats while PML/N won only one (electoral competition).",
+   "date": "1994-10-25",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "TJP) PARTY WON 8 OF 25 SEATS IN OCTOBER 25 ELECTIONS TO THE EXPANDED NORTHERN AREAS COUNCIL. THE PPP PICKED UP 6 SEATS WHILE THE PML/N WON ONLY ONE"
+  },
+  {
+   "source": "Naseerullah Babar",
+   "target": "Monjo",
+   "type": "met_with",
+   "detail": "Interior Minister Babar travelled with a group of Western envoys including Ambassador Monjo to Afghanistan.",
+   "date": "1994-10",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "INTERIOR MINISTER BABAR AND A VISITING GROUP OF WESTERN ENVOYS, INCLUDING AMBASSADOR MONJO, SAW PROGRESS IN RECONSTRUCTION"
+  },
+  {
+   "source": "Naseerullah Babar",
+   "target": "Benazir Bhutto",
+   "type": "reports_to",
+   "detail": "Babar is Interior Minister in Bhutto's government.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "INTERIOR MINISTER BABAR AND A VISITING GROUP OF WESTERN ENVOYS"
+  },
+  {
+   "source": "Government of Pakistan",
+   "target": "Afghan tribal contractors",
+   "type": "funded_by",
+   "detail": "GOP allocated USD 1.66 million for road repairs by Afghan tribal contractors, who may levy customs duties.",
+   "date": "1994-10",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "THE GOP HAS ALLOCATED USD 1.66 MILLION FOR SUPERFICIAL REPAIRS OF THE 800 KM ROAD LINKING PAKISTAN AND TURKMENISTAN. AFGHAN TRIBAL CONTRACTORS WILL"
+  },
+  {
+   "source": "Naseerullah Babar",
+   "target": "Herat",
+   "type": "located_in",
+   "detail": "Babar's party visited the Herat area.",
+   "date": "1994-10",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "SAW PROGRESS IN RECONSTRUCTION AND STABILITY NEAR HERAT"
+  },
+  {
+   "source": "Naseerullah Babar",
+   "target": "Kandahar",
+   "type": "located_in",
+   "detail": "Babar's party made a short stop in Kandahar and noted instability.",
+   "date": "1994-10",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "NOTED CONTINUING INSTABILITY IN KANDAHAR DURING A SHORT STOP THERE"
+  },
+  {
+   "source": "Chandrika Kumaratunga",
+   "target": "Gamini Dissanayake",
+   "type": "rival_of",
+   "detail": "Gamini Dissanayake was the UNP presidential candidate killed in an Oct 24 bombing; Kumaratunga refuted claims of government complicity.",
+   "date": "1994-10-24",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "BOMBING WHICH KILLED UNP PRESIDENTIAL CANDIDATE GAMINI DISSANAYAKE, PM KUMARATUNGA ACKNOWLEDGED"
+  },
+  {
+   "source": "Gamini Dissanayake",
+   "target": "United National Party",
+   "type": "member_of",
+   "detail": "Dissanayake was the UNP presidential candidate.",
+   "date": "1994-10",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "KILLED UNP PRESIDENTIAL CANDIDATE GAMINI DISSANAYAKE"
+  },
+  {
+   "source": "Yousaf Raza Gilani",
+   "target": "Government of Pakistan",
+   "type": "other",
+   "detail": "National Assembly Speaker Gilani ordered the GOP to allow jailed opposition members to attend the session.",
+   "date": "1994-10",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "NATIONAL ASSEMBLY SPEAKER YOUSAF RAZA GILANI ORDERED THE GOP TO ALLOW THE MEMBERS TO ATTEND THE SESSION"
+  },
+  {
+   "source": "Qazi Humayun",
+   "target": "Ahmad Shah Massoud",
+   "type": "other",
+   "detail": "Humayun (Pakistan Foreign Ministry) alleged Indian technicians and pilots assist Massoud at Bagram air base.",
+   "date": "1994-11",
+   "confidence": "stated",
+   "timestamp": "p.9",
+   "quote": "FIFTEEN INDIAN TECHNICIANS AND THREE PILOTS ASSIST AHMAD SHAH MASOOD AT HIS BAGRAM AIR BASE, ACCORDING TO QAZI HUMAYUN"
+  },
+  {
+   "source": "Ahmad Shah Massoud",
+   "target": "Bagram",
+   "type": "located_in",
+   "detail": "Massoud operates an air base at Bagram.",
+   "confidence": "stated",
+   "timestamp": "p.9",
+   "quote": "ASSIST AHMAD SHAH MASOOD AT HIS BAGRAM AIR BASE"
+  },
+  {
+   "source": "Qazi Humayun",
+   "target": "Government of Pakistan",
+   "type": "member_of",
+   "detail": "Humayun is from Pakistan's Foreign Ministry.",
+   "confidence": "stated",
+   "timestamp": "p.9",
+   "quote": "QAZI HUMAYUN OF PAKISTAN'S FOREIGN MINISTRY"
+  },
+  {
+   "source": "Ahmad Shah Massoud",
+   "target": "Abdul Rashid Dostum",
+   "type": "rival_of",
+   "detail": "Two Massoud pilots defected to Dostum in September.",
+   "date": "1994-09",
+   "confidence": "stated",
+   "timestamp": "p.9",
+   "quote": "TWO MASOOD PILOTS WHO DEFECTED TO DOSTAM IN SEPTEMBER"
+  },
+  {
+   "source": "Taliban",
+   "target": "Spin Boldak",
+   "type": "located_in",
+   "detail": "Taliban militiamen took over the Spin Boldak crossing point.",
+   "confidence": "stated",
+   "timestamp": "p.9",
+   "quote": "HAVE TAKEN OVER THE SPIN BOLDAK CROSSING POINT ON THE AFGHAN- PAKISTAN BORDER"
+  },
+  {
+   "source": "Taliban",
+   "target": "Kandahar",
+   "type": "rival_of",
+   "detail": "Taliban clashed with four local commanders in Kandahar province over the Pakistani convoy.",
+   "confidence": "stated",
+   "timestamp": "p.9",
+   "quote": "SHARP CLASH IN KANDAHAR PROVINCE BETWEEN FOUR LOCAL COMMANDERS AND THE \"TALEBS\""
+  },
+  {
+   "source": "Gulbuddin Hekmatyar",
+   "target": "Kabul",
+   "type": "other",
+   "detail": "Hekmatyar and allies imposed a blockade preventing UN/ICRC food deliveries into Kabul.",
+   "confidence": "stated",
+   "timestamp": "p.10",
+   "quote": "BLOCKADE IMPOSED BY HEKMATYAR AND HIS ALLIES"
+  },
+  {
+   "source": "Gulbuddin Hekmatyar",
+   "target": "United Nations",
+   "type": "other",
+   "detail": "Hekmatyar is cordial and seemingly cooperative with the UN but may be disingenuous or unable to control commanders.",
+   "confidence": "stated",
+   "timestamp": "p.10",
+   "quote": "HEKMATYAR, THOUGH CORDIAL AND SEEMINGLY COOPERATIVE WITH THE UN"
+  },
+  {
+   "source": "Taliban",
+   "target": "National Islamic Front of Afghanistan",
+   "type": "rival_of",
+   "detail": "Taliban fought NIFA commanders in Kandahar.",
+   "date": "1994-11",
+   "confidence": "stated",
+   "timestamp": "p.10",
+   "quote": "ALLIANCE OF ESTABLISHED HIG AND NIFA COMMANDERS AND A NEW, HITHERTO UNKNOWN GROUP CALLED THE TALIBAN"
+  },
+  {
+   "source": "Hizb-i Islami",
+   "target": "National Islamic Front of Afghanistan",
+   "type": "allied_with",
+   "detail": "HIG and NIFA commanders formed an alliance against the Taliban.",
+   "confidence": "stated",
+   "timestamp": "p.10",
+   "quote": "ALLIANCE OF ESTABLISHED HIG AND NIFA COMMANDERS"
+  },
+  {
+   "source": "Taliban",
+   "target": "Government of Pakistan",
+   "type": "funded_by",
+   "detail": "Many suspect the Taliban are supported by the GOP and business interests seeking trade routes.",
+   "confidence": "inferred",
+   "timestamp": "p.10",
+   "quote": "LED MANY TO SUSPECT THE- TALIBAN ARE SUPPORTED BY THE GOP AND BUSINESS INTERESTS"
+  },
+  {
+   "source": "Taliban",
+   "target": "Chaman",
+   "type": "other",
+   "detail": "Taliban's immediate goal is reopening the Chaman-Kandahar highway.",
+   "confidence": "stated",
+   "timestamp": "p.10",
+   "quote": "IMMEDIATE GOAL APPEARS TO BE REOPENING THE CHAMAN-KANDAHAR HIGHWAY"
+  },
+  {
+   "source": "Movement for Enforcement of Shariat",
+   "target": "Malakand Division",
+   "type": "located_in",
+   "detail": "Shariat activists operate in Malakand Division, NWFP.",
+   "confidence": "stated",
+   "timestamp": "p.11",
+   "quote": "MOVEMENT TO IMPLEMENT SHARIAT LAW IN THE NORTHWEST FRONTIER PROVINCES (NWFP) MALAKAND DIVISION"
+  },
+  {
+   "source": "Movement for Enforcement of Shariat",
+   "target": "Sherpao",
+   "type": "rival_of",
+   "detail": "Activists complained Sherpao reneged on promises to establish Shariat law.",
+   "confidence": "stated",
+   "timestamp": "p.11",
+   "quote": "NWFP CHIEF MINISTER SHERPAO HAD RENEGED ON PROMISES"
+  },
+  {
+   "source": "Sherpao",
+   "target": "North-West Frontier Province",
+   "type": "leads",
+   "detail": "Sherpao is NWFP chief minister.",
+   "confidence": "stated",
+   "timestamp": "p.11",
+   "quote": "NWFP CHIEF MINISTER SHERPAO"
+  },
+  {
+   "source": "Movement for Enforcement of Shariat",
+   "target": "Swat",
+   "type": "other",
+   "detail": "Activists occupied police stations and an airport in Swat.",
+   "date": "1994-11-03",
+   "confidence": "stated",
+   "timestamp": "p.11",
+   "quote": "OCCUPIED POLICE STATIONS AND AN AIRPORT IN SWAT"
+  },
+  {
+   "source": "Government of Pakistan",
+   "target": "Movement for Enforcement of Shariat",
+   "type": "rival_of",
+   "detail": "Government dispatched 8,000 troops to restore order.",
+   "confidence": "stated",
+   "timestamp": "p.11",
+   "quote": "THE GOVERNMENT HAS DISPATCHED 8,000 TROOPS TO THE AREA"
+  },
+  {
+   "source": "Pakistan Muslim League (N)",
+   "target": "Pakistan National Assembly Privileges Committee",
+   "type": "other",
+   "detail": "Speaker referred the question of jailed PML/N deputies attending to the Privileges Committee; PML/N wants an ad hoc committee.",
+   "confidence": "stated",
+   "timestamp": "p.11",
+   "quote": "SPEAKER OF THE NATIONAL ASSEMBLY HAS REFERRED THE LEGALITY OF THIS QUESTION TO THE PRIVILEGES COMMITTEE"
+  },
+  {
+   "source": "Pakistan Muslim League (N)",
+   "target": "Benazir Bhutto",
+   "type": "rival_of",
+   "detail": "Opposition PML/N confronts Bhutto government; Khokhar expects her to stay a year.",
+   "confidence": "stated",
+   "timestamp": "p.11",
+   "quote": "HE BELIEVES BHUTTO WILL REMAIN IN POWER FOR AT LEAST ANOTHER YEAR"
+  },
+  {
+   "source": "International Monetary Fund",
+   "target": "Government of Pakistan",
+   "type": "funded_by",
+   "detail": "Pakistan receives IMF disbursements under a three-year credit facility.",
+   "confidence": "stated",
+   "timestamp": "p.12",
+   "quote": "IMF DISBURSEMENTS"
+  },
+  {
+   "source": "Lahiri",
+   "target": "Indian Ministry of External Affairs",
+   "type": "member_of",
+   "detail": "Lahiri is MEA Joint Secretary.",
+   "confidence": "stated",
+   "timestamp": "p.12",
+   "quote": "MEA JOINT SECRETARY LAHIRI"
+  },
+  {
+   "source": "Lahiri",
+   "target": "Gary Ackerman",
+   "type": "other",
+   "detail": "Lahiri warned of misunderstanding if Ackerman's CODEL Kashmir visit omitted a refugee camp and state government call.",
+   "confidence": "stated",
+   "timestamp": "p.12",
+   "quote": "CODEL ACKERMAN'S PLANNED VISIT TO KASHMIR DOES NOT INCLUDE A VISIT TO A REFUGEE CAMP"
+  },
+  {
+   "source": "Lahiri",
+   "target": "William Perry",
+   "type": "negotiated_with",
+   "detail": "Lahiri gave a written response to Perry's defense cooperation concept paper.",
+   "confidence": "stated",
+   "timestamp": "p.12",
+   "quote": "WRITTEN RESPONSE (\"FOR DISCUSSION\") TO DEFENSE SECRETARY PERRY'S CONCEPT PAPER ON DEFENSE COOPERATION"
+  },
+  {
+   "source": "Rohit Sharma",
+   "target": "Ghaziabad",
+   "type": "located_in",
+   "detail": "Sharma was wounded at the Ghaziabad house.",
+   "confidence": "stated",
+   "timestamp": "p.12",
+   "quote": "WAS WOUNDED AT THE GHAZIABAD HOUSE"
+  },
+  {
+   "source": "Rohit Sharma",
+   "target": "Bosnia",
+   "type": "located_in",
+   "detail": "Sharma spent time in Bosnia where abuse of Muslim women radicalized him.",
+   "confidence": "stated",
+   "timestamp": "p.12",
+   "quote": "SPENT TIME IN BOSNIA WHERE THE ABUSE OF MUSLIM WOMEN APPARENTLY RADICALIZED HIS VIEWS"
+  },
+  {
+   "source": "Srima Dissanayake",
+   "target": "United National Party",
+   "type": "member_of",
+   "detail": "Srima is the UNP candidate replacing her husband.",
+   "confidence": "stated",
+   "timestamp": "p.13",
+   "quote": "THEIR CANDIDATE'S (SRIMA DISSANAYAKE) CHANCES"
+  },
+  {
+   "source": "Srima Dissanayake",
+   "target": "Gamini Dissanayake",
+   "type": "succeeded",
+   "detail": "Srima became UNP candidate after Dissanayake's assassination.",
+   "confidence": "inferred",
+   "timestamp": "p.13",
+   "quote": "THEIR CANDIDATE'S (SRIMA DISSANAYAKE) CHANCES"
+  },
+  {
+   "source": "Mestiri",
+   "target": "Burhanuddin Rabbani",
+   "type": "met_with",
+   "detail": "Mestiri held meetings inside Afghanistan with Rabbani as part of preparing an interim ruling council.",
+   "date": "1994-11",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "FOLLOWING HIS SUCCESSFUL MEETINGS INSIDE AFGHANISTAN WITH RABBANI, HEKMATYAR, ISMAIL KHAN, MASOOD, DOSTAM, AND OTHERS."
+  },
+  {
+   "source": "Mestiri",
+   "target": "Gulbuddin Hekmatyar",
+   "type": "met_with",
+   "detail": "Mestiri met Hekmatyar inside Afghanistan.",
+   "date": "1994-11",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "FOLLOWING HIS SUCCESSFUL MEETINGS INSIDE AFGHANISTAN WITH RABBANI, HEKMATYAR, ISMAIL KHAN, MASOOD, DOSTAM, AND OTHERS."
+  },
+  {
+   "source": "Mestiri",
+   "target": "Ismail Khan",
+   "type": "met_with",
+   "detail": "Mestiri met Ismail Khan inside Afghanistan.",
+   "date": "1994-11",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "FOLLOWING HIS SUCCESSFUL MEETINGS INSIDE AFGHANISTAN WITH RABBANI, HEKMATYAR, ISMAIL KHAN, MASOOD, DOSTAM, AND OTHERS."
+  },
+  {
+   "source": "Mestiri",
+   "target": "Ahmad Shah Massoud",
+   "type": "met_with",
+   "detail": "Mestiri met Masood inside Afghanistan.",
+   "date": "1994-11",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "FOLLOWING HIS SUCCESSFUL MEETINGS INSIDE AFGHANISTAN WITH RABBANI, HEKMATYAR, ISMAIL KHAN, MASOOD, DOSTAM, AND OTHERS."
+  },
+  {
+   "source": "Mestiri",
+   "target": "Abdul Rashid Dostum",
+   "type": "met_with",
+   "detail": "Mestiri met Dostam inside Afghanistan.",
+   "date": "1994-11",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "FOLLOWING HIS SUCCESSFUL MEETINGS INSIDE AFGHANISTAN WITH RABBANI, HEKMATYAR, ISMAIL KHAN, MASOOD, DOSTAM, AND OTHERS."
+  },
+  {
+   "source": "Abdul Haq",
+   "target": "Mestiri",
+   "type": "member_of",
+   "detail": "Abdul Haq will likely chair Mestiri's working group on security.",
+   "date": "1994-11",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "ABDUL HAO AND PIR GAILANI WILL LIKELY CHAIR MESTIRI'S WORKING GROUPS ON SECURITY AND POLITICAL LEGITIMACY, RESPECTIVELY."
+  },
+  {
+   "source": "Pir Gailani",
+   "target": "Mestiri",
+   "type": "member_of",
+   "detail": "Pir Gailani will likely chair Mestiri's working group on political legitimacy.",
+   "date": "1994-11",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "ABDUL HAO AND PIR GAILANI WILL LIKELY CHAIR MESTIRI'S WORKING GROUPS ON SECURITY AND POLITICAL LEGITIMACY, RESPECTIVELY."
+  },
+  {
+   "source": "Yunus Khalis",
+   "target": "Mestiri",
+   "type": "rival_of",
+   "detail": "Khalis opposes Mestiri's efforts.",
+   "date": "1994-11",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "THREE PRO-RABBANI PASHTUN ISLAMIST LEADERS (SAYYAF, KHALIS, AND MOHAMMADI) OPPOSE MESTIRI'S EFFORTS."
+  },
+  {
+   "source": "Mohammad Nabi Mohammadi",
+   "target": "Mestiri",
+   "type": "rival_of",
+   "detail": "Mohammadi opposes Mestiri's efforts.",
+   "date": "1994-11",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "THREE PRO-RABBANI PASHTUN ISLAMIST LEADERS (SAYYAF, KHALIS, AND MOHAMMADI) OPPOSE MESTIRI'S EFFORTS."
+  },
+  {
+   "source": "Abdul Rabb al-Rasul Sayyaf",
+   "target": "Burhanuddin Rabbani",
+   "type": "allied_with",
+   "detail": "Sayyaf described as pro-Rabbani.",
+   "date": "1994-11",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "THREE PRO-RABBANI PASHTUN ISLAMIST LEADERS (SAYYAF, KHALIS, AND MOHAMMADI)"
+  },
+  {
+   "source": "Yunus Khalis",
+   "target": "Burhanuddin Rabbani",
+   "type": "allied_with",
+   "detail": "Khalis described as pro-Rabbani.",
+   "date": "1994-11",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "THREE PRO-RABBANI PASHTUN ISLAMIST LEADERS (SAYYAF, KHALIS, AND MOHAMMADI)"
+  },
+  {
+   "source": "Mohammad Nabi Mohammadi",
+   "target": "Burhanuddin Rabbani",
+   "type": "allied_with",
+   "detail": "Mohammadi described as pro-Rabbani.",
+   "date": "1994-11",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "THREE PRO-RABBANI PASHTUN ISLAMIST LEADERS (SAYYAF, KHALIS, AND MOHAMMADI)"
+  },
+  {
+   "source": "Ahmad Shah Massoud",
+   "target": "Bagram",
+   "type": "located_in",
+   "detail": "Masood holds Bagram air base where Indian technicians and pilots allegedly assist him.",
+   "date": "1994-11",
+   "confidence": "stated",
+   "timestamp": "p.9",
+   "quote": "FIFTEEN INDIAN TECHNICIANS AND THREE PILOTS ASSIST AHMAD SHAH MASOOD AT HIS BAGRAM AIR BASE"
+  },
+  {
+   "source": "Taliban",
+   "target": "Spin Boldak",
+   "type": "located_in",
+   "detail": "Taliban militiamen took over the Spin Boldak crossing point.",
+   "date": "1994",
+   "confidence": "stated",
+   "timestamp": "p.9",
+   "quote": "WHO HAVE TAKEN OVER THE SPIN BOLDAK CROSSING POINT ON THE AFGHAN- PAKISTAN BORDER"
+  },
+  {
+   "source": "Taliban",
+   "target": "Kandahar",
+   "type": "rival_of",
+   "detail": "Taliban clashed with four local commanders in Kandahar province over the Pakistani convoy.",
+   "date": "1994-11",
+   "confidence": "stated",
+   "timestamp": "p.9",
+   "quote": "SHARP CLASH IN KANDAHAR PROVINCE BETWEEN FOUR LOCAL COMMANDERS AND THE \"TALEBS\""
+  },
+  {
+   "source": "Najmuddin Shaikh",
+   "target": "Monjo",
+   "type": "met_with",
+   "detail": "Shaikh met Ambassador Monjo on October 31.",
+   "date": "1994-10-31",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "DURING AN OCTOBER 31 MEETING WITH AMBASSADOR MONJO."
+  },
+  {
+   "source": "Syed Qaim Ali Shah",
+   "target": "Government of Pakistan",
+   "type": "member_of",
+   "detail": "Shah was GOP delegate at UN General Assembly.",
+   "date": "1994-10-27",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "GOP DELEGATE QYED QAIM ALI SHAH BEGAN THE CONFLICT BY LAMBASTING INDIA'S"
+  },
+  {
+   "source": "Pakistan Muslim League (N)",
+   "target": "Government of Pakistan",
+   "type": "rival_of",
+   "detail": "Opposition Muslim League ran ads criticizing the government's power project.",
+   "date": "1994-11",
+   "confidence": "inferred",
+   "timestamp": "p.9",
+   "quote": "OPPOSITION PAKISTAN MUSLIM LEAGUE RAN A SERIES OF PRESS ADS IN KARACHI"
+  }
+ ],
+ "sources_cited": [
+  "Islamabad 10418",
+  "Peshawar 1030",
+  "Peshawar 1022",
+  "Islamabad 10475",
+  "PAB/VOA telcon",
+  "Islamabad 10473",
+  "Islamabad 10446",
+  "Peshawar 1027",
+  "Peshawar 1031",
+  "Islamabad 10368",
+  "Islamabad 10468",
+  "Islamabad 10483",
+  "Karachi 5246",
+  "New Delhi 17808",
+  "New Delhi 17807",
+  "Colombo 5783"
+ ],
+ "key_claims": [
+  "The Taliban emerged in early November 1994 as a new, well-armed group of religious students fighting HIG and NIFA commanders in Kandahar.",
+  "The Taliban's immediate goal appeared to be reopening the Chaman-Kandahar highway.",
+  "Many suspected the Taliban were backed by the Government of Pakistan and business interests seeking trade routes to Central Asia.",
+  "The Taliban's clash united normally rival Kandahar commanders.",
+  "Mestiri's interim council initiative was opposed by Sayyaf, Khalis, and Mohammadi.",
+  "Hekmatyar's blockade prevented UN and ICRC food deliveries to Kabul.",
+  "Shariat activists in Malakand Division escalated violence in early November 1994, killing a provincial minister and occupying Swat airport.",
+  "Pakistan deployed 8,000 troops to restore order in Malakand.",
+  "Pakistan's refugee plan was expected to rely on incentives rather than forced returns.",
+  "British kidnappers in New Delhi claimed links to the June Kashmir hostage-takers."
+ ]
+}

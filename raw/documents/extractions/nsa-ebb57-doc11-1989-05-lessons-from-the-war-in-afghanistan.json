@@ -1,0 +1,757 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb57-doc11-1989-05-lessons-from-the-war-in-afghanistan",
+  "title": "Lessons from the War in Afghanistan",
+  "authors": "U.S. Army",
+  "publisher": "National Security Archive (GWU), Afghanistan: Lessons from the Last War",
+  "published": "1989-05",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB57/us11.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB57/us.html",
+  "pages": 25,
+  "kind": "report",
+  "note": "Mid-1989 Army report on lessons learned from the Afghan war; heavily excised, but illustrates how much the U.S. ascertained from observing events in Afghanistan.",
+  "collection": "NSAEBB57",
+  "doc_number": "Document 11",
+  "relevance": "medium",
+  "ocr": 25
+ },
+ "persons": [
+  {
+   "name": "Babrak Karmal",
+   "aliases": [
+    "Babrak Karmal"
+   ],
+   "role": "Afghan communist leader installed by the Soviets in December 1979",
+   "organizations": [
+    "Democratic Republic of Afghanistan"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "The Soviets installed in power a new Afghan communist leader, Babrak Karmal"
+    }
+   ]
+  },
+  {
+   "name": "Ahmet Shah Masood",
+   "aliases": [
+    "Ahmad Shah Massoud",
+    "Ahmed Shah Masood"
+   ],
+   "role": "Mujahideen commander in the Panjsher Valley",
+   "organizations": [
+    "Mujahideen"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Panjsher Valley",
+    "Hindu Kush"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.6",
+     "quote": "The legendary commander in the Panjsher Valley, Ahmet Shah Masood, finally gave up attempts to defend his valley."
+    }
+   ]
+  },
+  {
+   "name": "General-Lieutenant Gromov",
+   "aliases": [
+    "Boris Gromov"
+   ],
+   "role": "Last commander of the Soviet 40th Army in Afghanistan",
+   "organizations": [
+    "Soviet 40th Army"
+   ],
+   "nationality_or_origin": "Soviet",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "No Soviet garrison or major outpost was ever overrun. (General-Lieutenant Gromov, last commander of the Soviet 40th Army in Afghanistan)"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Mujahideen",
+   "aliases": [
+    "Muhahideen",
+    "Mujahidin"
+   ],
+   "type": "militia",
+   "parent_or_allies": [],
+   "rivals": [
+    "Soviet 40th Army",
+    "Democratic Republic of Afghanistan",
+    "Soviet Army"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Term applied to all fighters in the Jihad. Disunified; groups associated with political organizations in Pakistan or Iran for weapons, supplies and intelligence. Sanctuaries in Pakistan and Iran."
+  },
+  {
+   "name": "Soviet 40th Army",
+   "aliases": [
+    "Limited Contingent",
+    "40th Army"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "Democratic Republic of Afghanistan"
+   ],
+   "rivals": [
+    "Mujahideen"
+   ],
+   "country_base": "USSR",
+   "notes": "Soviet force in Afghanistan; withdrew last combat forces 15 Feb 1989."
+  },
+  {
+   "name": "Democratic Republic of Afghanistan",
+   "aliases": [
+    "Republic of Afghanistan"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Soviet 40th Army"
+   ],
+   "rivals": [
+    "Mujahideen"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Afghan communist government; its army was ineffective."
+  },
+  {
+   "name": "U.S. Army",
+   "aliases": [],
+   "type": "military",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Author of the study."
+  },
+  {
+   "name": "Soviet Army",
+   "aliases": [
+    "Soviet forces"
+   ],
+   "type": "military",
+   "parent_or_allies": [],
+   "rivals": [
+    "Mujahideen"
+   ],
+   "country_base": "Soviet Union",
+   "notes": "Subject of the conclusion; the text discusses officer training, adaptability and lessons learned from Afghanistan, and notes its decontamination equipment is mounted on trucks and is a soft target."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Site of Soviet war"
+  },
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Mujahideen sanctuary and location of political organizations"
+  },
+  {
+   "name": "Iran",
+   "type": "country",
+   "country": "Iran",
+   "parent": "",
+   "significance": "Mujahideen sanctuary and location of political organizations"
+  },
+  {
+   "name": "Panjsher Valley",
+   "type": "valley",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Masood's base"
+  },
+  {
+   "name": "Hindu Kush",
+   "type": "region",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Masood's groups attacked strategic approaches"
+  },
+  {
+   "name": "Jagdalek Valley",
+   "type": "valley",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Example of Mujahideen base camp layout and air-defense tactics"
+  }
+ ],
+ "events": [
+  {
+   "date": "1978-04",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Afghan communist coup, followed by uprisings against the new government",
+   "place": "Afghanistan",
+   "actors": [
+    "Democratic Republic of Afghanistan"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1979-12-27",
+   "date_precision": "day",
+   "type": "offensive",
+   "description": "Soviet invasion/intervention; major Soviet units introduced in late December 1979",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet 40th Army",
+    "Babrak Karmal"
+   ],
+   "timestamp": "p.19"
+  },
+  {
+   "date": "1989-02-15",
+   "date_precision": "day",
+   "type": "other",
+   "description": "Soviet Union withdrew last combat forces from Afghanistan",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet 40th Army",
+    "General-Lieutenant Gromov"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "approx 1980s",
+   "date_precision": "approx",
+   "type": "attack",
+   "description": "A Soviet battalion raided a Mujahideen ammunition storage area deep in the mountains, whose location an Afghan informer had revealed. The Afghan guide became lost, and the battalion commander returned to the area where earlier rockets had landed. He reasoned the rockets were pre-registered on the route, and the guide became reoriented and the mission continued.",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet Army",
+    "Mujahideen"
+   ],
+   "timestamp": "p.24"
+  },
+  {
+   "date": "1979-12-27",
+   "date_precision": "day",
+   "type": "offensive",
+   "description": "Soviet invasion of Afghanistan; chemical/toxin attacks on Mujahideen were reported as early as six months before.",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet Army",
+    "Mujahideen"
+   ],
+   "timestamp": "p.19"
+  },
+  {
+   "date": "1979-06 to 1981-06",
+   "date_precision": "approx",
+   "type": "attack",
+   "description": "US government received reports of 47 separate toxic agent attacks against Mujahideen with a death toll of more than 3000 (unsubstantiated).",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet Army",
+    "Mujahideen",
+    "U.S. Army"
+   ],
+   "timestamp": "p.19"
+  },
+  {
+   "date": "approx 1980s",
+   "date_precision": "approx",
+   "type": "attack",
+   "description": "A Soviet battalion raid to destroy a Mujahideen ammunition storage area, located via an Afghan informer; the battalion commander reoriented a lost Afghan guide by returning to a rocket impact area.",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet Army",
+    "Mujahideen"
+   ],
+   "timestamp": "p.24"
+  },
+  {
+   "date": "1978-04",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Afghan Communist Party coup, after which the COIN effort began.",
+   "place": "Afghanistan",
+   "actors": [
+    "Democratic Republic of Afghanistan"
+   ],
+   "timestamp": "p.13"
+  },
+  {
+   "date": "1979-12",
+   "date_precision": "month",
+   "type": "offensive",
+   "description": "Soviet combat forces introduced into Afghanistan, framed as an 'intervention' in an ongoing COIN effort.",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet Army",
+    "Soviet 40th Army",
+    "Democratic Republic of Afghanistan"
+   ],
+   "timestamp": "p.13"
+  },
+  {
+   "date": "1980",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "By mid-1980 the Soviets acquired additional missions: eliminating insurgent centers, separating insurgents from the population, interdicting outside aid and sanctuary.",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet Army"
+   ],
+   "timestamp": "p.13"
+  },
+  {
+   "date": "approx 1980s",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Masood abandoned defense of the Panjsher Valley and organized Mujahideen groups to attack strategic approaches across the Hindu Kush.",
+   "place": "Panjsher Valley",
+   "actors": [
+    "Ahmet Shah Masood",
+    "Mujahideen"
+   ],
+   "timestamp": "p.6"
+  },
+  {
+   "date": "1978-04",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Afghan communist coup, followed by uprisings against the new government.",
+   "place": "Afghanistan",
+   "actors": [
+    "Democratic Republic of Afghanistan"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1979-12",
+   "date_precision": "month",
+   "type": "offensive",
+   "description": "Soviets introduced major units into Afghanistan in late December, beginning the war.",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet Army",
+    "Soviet 40th Army"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1979-12",
+   "date_precision": "approx",
+   "type": "appointment",
+   "description": "Soviets installed Babrak Karmal as new Afghan communist leader.",
+   "place": "Afghanistan",
+   "actors": [
+    "Babrak Karmal",
+    "Soviet Army"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1989-02-15",
+   "date_precision": "day",
+   "type": "other",
+   "description": "Soviet Union withdrew its last combat forces from Afghanistan after nine years.",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet 40th Army"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "approx 1980s",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Masood gave up defending the Panjsher Valley and organized Mujahideen groups to attack approaches across the Hindu Kush.",
+   "place": "Panjsher Valley",
+   "actors": [
+    "Ahmet Shah Masood",
+    "Mujahideen"
+   ],
+   "timestamp": "p.6"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Babrak Karmal",
+   "target": "Soviet 40th Army",
+   "type": "other",
+   "detail": "Karmal was installed in power by the Soviets.",
+   "date": "1979-12",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "The Soviets installed in power a new Afghan communist leader, Babrak Karmal"
+  },
+  {
+   "source": "Ahmet Shah Masood",
+   "target": "Mujahideen",
+   "type": "leads",
+   "detail": "Commander who organized and trained Mujahideen groups.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.6",
+   "quote": "he organized and trained Mujahideen groups to attack strategically vital approaches throughout the Hindu-Kush mountains"
+  },
+  {
+   "source": "General-Lieutenant Gromov",
+   "target": "Soviet 40th Army",
+   "type": "leads",
+   "detail": "Last commander of the 40th Army.",
+   "date": "1989",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "last commander of the Soviet 40th Army in Afghanistan"
+  },
+  {
+   "source": "Mujahideen",
+   "target": "Pakistan",
+   "type": "hosted_by",
+   "detail": "Mujahideen had sanctuaries in Pakistan and Iran.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "The Mujahideen hed sanctuaries in Pakistan and Iran and received significant outside material support."
+  },
+  {
+   "source": "Mujahideen",
+   "target": "Iran",
+   "type": "hosted_by",
+   "detail": "Mujahideen had sanctuaries in Iran.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "The Mujahideen hed sanctuaries in Pakistan and Iran"
+  },
+  {
+   "source": "Soviet Army",
+   "target": "Mujahideen",
+   "type": "rival_of",
+   "detail": "Soviet forces raided a Mujahideen ammunition storage area in the mountains.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.24",
+   "quote": "a raid to destroy a Mujahideen ammunition storage area, whose location deep in the mountains had been revealed by an Afghan informer"
+  },
+  {
+   "source": "Mujahideen",
+   "target": "Soviet Army",
+   "type": "rival_of",
+   "detail": "Mujahideen ambushed Soviet surface convoys and Soviet units used smoke to escape Mujahideen ambushes.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.18",
+   "quote": "the Mujahideen frequently ambushed surface convoys."
+  },
+  {
+   "source": "Soviet Army",
+   "target": "Mujahideen",
+   "type": "other",
+   "detail": "Soviet chemical/toxin attacks against the Mujahideen were reported (unsubstantiated).",
+   "date": "1979-1981",
+   "confidence": "stated",
+   "timestamp": "p.19",
+   "quote": "Attacks with chemical/toxin weapons against the Mujahideen in Afghanistan were reported as early as 6 months before the Soviet invasion"
+  },
+  {
+   "source": "Soviet Army",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Soviet forces operated in and invaded Afghanistan.",
+   "date": "1979-12-27",
+   "confidence": "stated",
+   "timestamp": "p.19",
+   "quote": "the Soviet invasion on 27 December 1979"
+  },
+  {
+   "source": "Mujahideen",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Mujahideen fought in Afghanistan.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.19",
+   "quote": "chemical/toxin weapons against the Mujahideen in Afghanistan"
+  },
+  {
+   "source": "Ahmet Shah Masood",
+   "target": "Panjsher Valley",
+   "type": "located_in",
+   "detail": "Masood is described as the legendary Mujahideen commander in the Panjsher Valley.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.6",
+   "quote": "The legendary commander in the Panjsher Valley, Ahmet Shah Masood, finally gave up attempts to defend his valley."
+  },
+  {
+   "source": "Ahmet Shah Masood",
+   "target": "Mujahideen",
+   "type": "member_of",
+   "detail": "Masood was a Mujahideen commander who organized and trained groups to attack strategic approaches.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.6",
+   "quote": "he organized and trained Mujahideen groups to attack strategically vital approaches throughout the Hindu-Kush mountains."
+  },
+  {
+   "source": "Ahmet Shah Masood",
+   "target": "Soviet Army",
+   "type": "rival_of",
+   "detail": "Masood's men were reportedly more than a match for Soviet elite troops in the mountains.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.6",
+   "quote": "they were more than a match for the Soviet elite troops who frequently made forays into the meuntain areas."
+  },
+  {
+   "source": "Ahmet Shah Masood",
+   "target": "Hindu Kush",
+   "type": "other",
+   "detail": "Masood directed Mujahideen attacks on strategic approaches throughout the Hindu Kush.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.6",
+   "quote": "attack strategically vital approaches throughout the Hindu-Kush mountains."
+  },
+  {
+   "source": "Mujahideen",
+   "target": "Soviet 40th Army",
+   "type": "rival_of",
+   "detail": "Mujahideen insurgents fought the Soviet forces and government army.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.6",
+   "quote": "presented few large-scale targets for tha Soviets and the government arny."
+  },
+  {
+   "source": "Mujahideen",
+   "target": "Democratic Republic of Afghanistan",
+   "type": "rival_of",
+   "detail": "Mujahideen fought the government army and had informants inside it.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.10",
+   "quote": "The Mujahideen had a large number of informants in the government army who provided information"
+  },
+  {
+   "source": "Mujahideen",
+   "target": "Jagdalek Valley",
+   "type": "located_in",
+   "detail": "Mujahideen base camps were located in the Jagdalek Valley.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.11",
+   "quote": "In the Jagdalek Valley a typical bese camp would be tucked into a crease between two ridges"
+  },
+  {
+   "source": "Soviet Army",
+   "target": "Democratic Republic of Afghanistan",
+   "type": "allied_with",
+   "detail": "Soviet forces intervened to take over security so government forces could fight the insurgency.",
+   "date": "1979-12",
+   "confidence": "stated",
+   "timestamp": "p.13",
+   "quote": "taking over security responsibilities, so that government forces could concentrate on putting down the ever-growing insurgency."
+  },
+  {
+   "source": "Soviet Army",
+   "target": "Democratic Republic of Afghanistan",
+   "type": "trained_by",
+   "detail": "A Soviet objective was to train and equip government forces (Afghan government trained by Soviets).",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.13",
+   "quote": "Train and equip government forces"
+  },
+  {
+   "source": "Soviet Army",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Soviet 'Limited Contingent' was deployed in Afghanistan.",
+   "date": "1979-12",
+   "confidence": "stated",
+   "timestamp": "p.13",
+   "quote": "the Soviet “Limited Contingent’ in Afghanistan soon found itself enmeshed in full-fledged COIN operations."
+  },
+  {
+   "source": "Soviet 40th Army",
+   "target": "Soviet Army",
+   "type": "member_of",
+   "detail": "The 40th Army is the Soviet Army formation that fought in Afghanistan.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "General-Lieutenant Gromov, last commander of the Soviet 40th Army in Afghanistan"
+  },
+  {
+   "source": "Soviet 40th Army",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "The 40th Army operated and was based in Afghanistan.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "the 40th Army settied into bases along the primary LOCs and near key cities and towns."
+  },
+  {
+   "source": "Babrak Karmal",
+   "target": "Democratic Republic of Afghanistan",
+   "type": "leads",
+   "detail": "The Soviets installed Karmal as Afghan communist leader.",
+   "date": "1979-12",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "The Soviets installed in power a new Afghan communist leader, Babrak Karmal"
+  },
+  {
+   "source": "Babrak Karmal",
+   "target": "Soviet Army",
+   "type": "funded_by",
+   "detail": "Karmal was installed in power by the Soviets, who sought to prop up his government.",
+   "date": "1979-12",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "The Soviets installed in power a new Afghan communist leader, Babrak Karmal"
+  },
+  {
+   "source": "Democratic Republic of Afghanistan",
+   "target": "Soviet Army",
+   "type": "funded_by",
+   "detail": "Soviet economic and military aid was a major source of Afghan government support.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Soviet economic and military aid became a major source of Afghan government support."
+  },
+  {
+   "source": "Mujahideen",
+   "target": "Pakistan",
+   "type": "sheltered_by",
+   "detail": "The Mujahideen had sanctuaries in Pakistan.",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "The Mujahideen hed sanctuaries in Pakistan and Iran and received significant outside material support."
+  },
+  {
+   "source": "Mujahideen",
+   "target": "Iran",
+   "type": "sheltered_by",
+   "detail": "The Mujahideen had sanctuaries in Iran.",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "The Mujahideen hed sanctuaries in Pakistan and Iran and received significant outside material support."
+  },
+  {
+   "source": "Mujahideen",
+   "target": "Pakistan",
+   "type": "allied_with",
+   "detail": "Mujahideen groups associated with political organizations in Pakistan to obtain weapons, supplies and intelligence.",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "Mujahideen groups often associated themselves with political organizations in Pakistan or Iran, primarily for the purpose of acquiring weapons, supplies, and intelligence"
+  },
+  {
+   "source": "Mujahideen",
+   "target": "Iran",
+   "type": "allied_with",
+   "detail": "Mujahideen groups associated with political organizations in Iran to obtain weapons, supplies and intelligence.",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "Mujahideen groups often associated themselves with political organizations in Pakistan or Iran, primarily for the purpose of acquiring weapons, supplies, and intelligence"
+  },
+  {
+   "source": "Mujahideen",
+   "target": "Soviet 40th Army",
+   "type": "rival_of",
+   "detail": "Mujahideen fought the Soviet invaders.",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "the ‘Jihad' declared first against the communist Afghan gevernment, and then against the Soviet invaders."
+  },
+  {
+   "source": "Mujahideen",
+   "target": "Democratic Republic of Afghanistan",
+   "type": "rival_of",
+   "detail": "Jihad was declared against the communist Afghan government.",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "the ‘Jihad' declared first against the communist Afghan gevernment"
+  },
+  {
+   "source": "Ahmet Shah Masood",
+   "target": "Panjsher Valley",
+   "type": "located_in",
+   "detail": "Masood was the commander in the Panjsher Valley.",
+   "confidence": "stated",
+   "timestamp": "p.6",
+   "quote": "The legendary commander in the Panjsher Valley, Ahmet Shah Masood"
+  },
+  {
+   "source": "Ahmet Shah Masood",
+   "target": "Mujahideen",
+   "type": "member_of",
+   "detail": "Masood was a Mujahideen commander.",
+   "confidence": "stated",
+   "timestamp": "p.6",
+   "quote": "he organized and trained Mujahideen groups to attack strategically vital approaches throughout the Hindu-Kush mountains"
+  },
+  {
+   "source": "Ahmet Shah Masood",
+   "target": "Soviet Army",
+   "type": "rival_of",
+   "detail": "Masood's men were more than a match for Soviet elite troops.",
+   "confidence": "stated",
+   "timestamp": "p.6",
+   "quote": "they were more than a match for the Soviet elite troops who frequently made forays into the meuntain areas."
+  },
+  {
+   "source": "Panjsher Valley",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Panjsher Valley is in Afghanistan (Hindu Kush).",
+   "confidence": "inferred",
+   "timestamp": "p.6",
+   "quote": "The legendary commander in the Panjsher Valley"
+  }
+ ],
+ "sources_cited": [
+  "IZVESTIYA (late 1986 commentary)",
+  "Harry G. Summers, On Strategy",
+  "FM 100-15 (Coordinating Draft, January 1988)"
+ ],
+ "key_claims": [
+  "Mujahideen lacked unified leadership and strategic planning, but this disunity hindered Soviet infiltration of their leadership.",
+  "Mujahideen groups affiliated with political organizations in Pakistan or Iran mainly to obtain weapons, supplies and intelligence.",
+  "Mujahideen had sanctuaries in Pakistan and Iran and significant outside material support.",
+  "Ahmad Shah Masood abandoned static defense of the Panjsher and trained groups to attack strategic approaches across the Hindu Kush.",
+  "The Soviet Union's Limited Contingent was constrained in size, leaving areas vulnerable when forces were concentrated elsewhere.",
+  "Combat experience gained by Soviet officers in Afghanistan will have a significant impact on the quality of training in the Soviet Army for the next several years.",
+  "Soviet doctrine may not change greatly, but tactical, combat support and combat service support skills should be enhanced.",
+  "Some Soviet tactical commanders showed quick thinking, such as a battalion commander who deduced that rockets were pre-registered on the route to a Mujahideen ammunition storage area.",
+  "The Mujahideen's weapons progressed from small arms and machine guns up to 12.7mm to RPGs, mortars, recoilless rifles and free rockets by mid-war.",
+  "Soviet decontamination equipment is mounted on trucks and thus presents a soft target.",
+  "Reports of toxic agents in rockets, bombs, sprays and landmines could not be substantiated."
+ ]
+}

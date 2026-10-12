@@ -23,11 +23,12 @@ backbone for a terrorist-network tracking GUI; a separate `synthetic/` namespace
 | `scripts/profile_matches.json` | hand-curated identity links from UN / FBI profiles to podcast-derived people (unlisted profiles become their own entities) |
 | `scripts/build_db.py` | merges episode + document extractions → `db/afpak.sqlite` + `db/exports/*.csv` + `db/exports/graph.json` |
 | `scripts/extract_doc.py` | two-pass Claude extraction for documents (entities pass, then an exhaustive relationships/events pass) |
+| `scripts/extract_doc_batch.py` | same two passes via the Anthropic Message Batches API for bulk document loads (used for the 446 National Security Archive documents) |
 | `scripts/review_docs.py` | QA listing for document extractions (new vs. merged persons, non-actor names, dangling edge endpoints) |
 | `isw/` | ISW Map Room source (`isw_maps`): `manifest.json` (58 maps), `maps/<slug>.json` (vision-extracted legend/anchors/plots), `images/` (≤1600 px map JPEGs), gazetteer, `dead_pages.json` — see `docs/isw-maps.md` |
 | `scripts/isw_scrape.py` / `isw_extract.py` / `build_isw_db.py` | collect Map Room pages+images (Chrome over CDP) → Claude-vision digitisation → georeference + load `map_*`/`place_coords` tables + GeoJSON |
 | `synthetic/` | fictional supplement records (same schema, `dataset='synthetic'`, ids prefixed `S`) |
-| `docs/` | GUI plan and network findings |
+| `docs/` | GUI plan, network findings, National Security Archive source inventory (`docs/nsa-sources.md`) |
 
 ## Rebuild
 ```
@@ -66,6 +67,7 @@ Map exports: `db/exports/isw_plots.geojson`, `isw_maps.json`, `place_coords.json
 - `docs/network-findings.md` — what the 93 episodes reveal (narrative + generated tables; regenerate the tables with `python3 scripts/report.py`).
 - `docs/gui-plan.md` — how to turn this database into an analyst GUI (incl. the Events & Mapping tab).
 - `docs/isw-maps.md` — ISW Map Room source: collection, extraction, georeferencing, tables, caveats, map inventory.
+- `docs/nsa-sources.md` — National Security Archive briefing books surveyed, the 446 declassified documents ingested (with source URLs, dates, originators, extraction counts), maps/graphics inventory and caveats.
 - `raw/reports/batch_XX_report.md` — per-batch extraction notes, including which episodes were hand-extracted.
 
 ## Refresh external sources
@@ -75,7 +77,13 @@ python3 scripts/un_sanctions.py          # → raw/sanctions/un_1988.json (merge
 python3 scripts/fbi_wanted.py --fetch    # → raw/sanctions/fbi_wanted.json
 python3 scripts/build_db.py
 ```
+To add more documents (e.g. further National Security Archive briefing books): write `raw/documents/<doc_id>.txt` (JSON header line + `[PDF p.N]` text; OCR scanned PDFs with Tesseract), then
+```
+python3 scripts/extract_doc_batch.py raw/documents/<doc_id>.txt ...   # or extract_doc.py for one or two files
+python3 scripts/review_docs.py <doc_id> ...                             # add transliteration variants to scripts/aliases.json
+python3 scripts/build_db.py
+```
 
 ## Current build
-93 episodes + 3 open-access documents · 1,930 entities (persons/organizations/places) · 4,251 aliases · 7,503 relationships (6,571 podcast + 861 document + 71 UN-stated) · 1,657 dated events (263 from documents) · 2,939 mentions · 194 official profiles (140 UN 1988 listings, 54 FBI Wanted items).
+93 episodes + 449 open-access documents (446 National Security Archive declassified records + 3 CTC/Harmony papers) · 6,476 entities (persons/organizations/places; 4,676 appear only in documents) · 9,084 aliases · 32,013 relationships (6,571 podcast + 24,510 NSA documents + 861 CTC documents + 71 UN-stated) · 12,960 dated events (9,580 from documents) · 9,231 mentions · 194 official profiles (140 UN 1988 listings, 54 FBI Wanted items).
 ISW map layer: 58 maps · 1,986 plot points (1,930 geocoded) · 601 printed names/text blocks · 100 geocoded podcast/document places (`place_coords`).

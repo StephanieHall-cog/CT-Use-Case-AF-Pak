@@ -1,0 +1,132 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc102-2002-08-07-terrorism-amount-of-money-it-takes-to-keep-al-qa-i",
+  "title": "Terrorism: Amount of Money It Takes to Keep al-Qa'ida Functioning (PWR080702-05)",
+  "authors": "CIA",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "2002-08-07",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7xqj-swjpt/2002-08-07-terrorism-amount-of-money-it-takes-to.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 1,
+  "kind": "report",
+  "note": "CIA analytic report on the cost of keeping al-Qaeda functioning. Source: Chapter 5, Endnotes 111, 127.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 102",
+  "relevance": "high",
+  "ocr": 0
+ },
+ "persons": [],
+ "organizations": [
+  {
+   "name": "al-Qa'ida",
+   "aliases": [
+    "al-Qaeda"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "CIA estimated it spent about $30 million per year before 11 September 2001; sustaining its remaining cadre probably costs much less. Major expenses are payments to the Taliban (no longer made), bribes and payments to those providing refuge and travel assistance, and terrorist operations."
+  },
+  {
+   "name": "Taliban",
+   "aliases": [],
+   "type": "political movement",
+   "parent_or_allies": [
+    "al-Qa'ida"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Previously received roughly $20 million per year from al-Qa'ida in exchange for operating in Afghanistan."
+  },
+  {
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Author of the document."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Al-Qa'ida operated there in exchange for payments to the Taliban."
+  }
+ ],
+ "events": [
+  {
+   "date": "2002-08-07",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA report PWR080702-05 assessing how much it costs al-Qa'ida to keep functioning after 11 September.",
+   "place": "",
+   "actors": [
+    "Central Intelligence Agency",
+    "al-Qa'ida"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2002-08-07",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA assessment PWR080702-05 estimates that sustaining al-Qa'ida's remaining cadre costs much less than the roughly $30 million per year spent before 11 September; the group no longer pays the Taliban about $20 million per year.",
+   "place": "",
+   "actors": [
+    "Central Intelligence Agency",
+    "al-Qa'ida",
+    "Taliban"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "al-Qa'ida",
+   "target": "Taliban",
+   "type": "funded_by",
+   "detail": "Before 11 September, al-Qa'ida paid the Taliban roughly $20 million per year in exchange for operating in Afghanistan, though it no longer does so. The direction is al-Qa'ida paying the Taliban, so the Taliban were the recipient and al-Qa'ida the funder.",
+   "date": "before 2001-09-11",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Al-Qa'ida no longer ~ys roughly $20 nilllfon er ear to the Tah1>an in ex.chan e for o eratin in A anistan"
+  },
+  {
+   "source": "al-Qa'ida",
+   "target": "Taliban",
+   "type": "hosted_by",
+   "detail": "Al-Qa'ida operated in Afghanistan under Taliban rule and, before 11 September 2001, paid the Taliban roughly $20 million per year in exchange; it no longer pays this.",
+   "date": "before 2001-09-11",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Al-Qa'ida no longer pays roughly $20 million per year to the Taliban in exchange for operating in Afghanistan"
+  },
+  {
+   "source": "al-Qa'ida",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Al-Qa'ida operated in Afghanistan in exchange for payments to the Taliban.",
+   "date": "before 2001-09-11",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "in exchange for operating in Afghanistan"
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "Sustaining al-Qa'ida's remaining cadre probably costs much less than the $30 million per year the CIA estimated it spent before 11 September.",
+  "Al-Qa'ida no longer pays the Taliban roughly $20 million per year for operating in Afghanistan.",
+  "Al-Qa'ida members probably pay numerous bribes to police and border authorities.",
+  "Al-Qa'ida is probably generous to individuals providing refuge and travel assistance.",
+  "Terrorist operations are al-Qa'ida's other major expense."
+ ]
+}

@@ -1,0 +1,377 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc47-1999-04-09-islamic-terrorists-using-nongovernmental-organizat",
+  "title": "Islamic Terrorists: Using Nongovernmental Organizations Extensively (CTC 99-40007)",
+  "authors": "Counterterrorist Center, CIA",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "1999-04-09",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7xbr-uusml/1999-04-09-islamic-terrorists-using.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 27,
+  "kind": "intelligence report",
+  "note": "CTC intelligence report CTC 99-40007 on Islamic terrorists' extensive use of nongovernmental organizations. Cited in 9/11 Commission Report Chapter 6, Endnote 86.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 47",
+  "relevance": "high",
+  "ocr": 11
+ },
+ "persons": [
+  {
+   "name": "Usama Bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Usama bin Laden"
+   ],
+   "role": "Co-founder of Maktab al-Khidamat (MAK) in Peshawar in 1984; leader of al-Qa'ida who exploited NGOs such as al-Haramayn",
+   "organizations": [
+    "al-Qa'ida",
+    "Maktab al-Khidamat",
+    "al-Haramayn"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Peshawar"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.5",
+     "quote": "Established in Peshawar in 1984 by Usama Bin Ladin and Palestinian Abdallah Azzam"
+    },
+    {
+     "timestamp": "p.8",
+     "quote": "Usama Bin Ladin has .established close relationshins with emoloyees in several al-Haramayn office"
+    },
+    {
+     "timestamp": "p.10",
+     "quote": "Bin Ladin apparently has created his own NGOs and planted members of his organization, al-Qa'ida, in others."
+    }
+   ]
+  },
+  {
+   "name": "Abdallah Azzam",
+   "aliases": [
+    "Abdullah Azzam"
+   ],
+   "role": "Palestinian co-founder of Maktab al-Khidamat (MAK)",
+   "organizations": [
+    "Maktab al-Khidamat"
+   ],
+   "nationality_or_origin": "Palestinian",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Peshawar"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.5",
+     "quote": "Established in Peshawar in 1984 by Usama Bin Ladin and Palestinian Abdallah Azzam to facilitate the travel and training of Arab volunteers"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Maktab al-Khidamat",
+   "aliases": [
+    "MAK"
+   ],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Pakistan-based NGO established in Peshawar in 1984 to facilitate travel and training of Arab volunteers fighting with the mujahidin in Afghanistan; the premier example of a private NGO used by terrorists; has opened offices in at least 20 countries since the mid-1980s."
+  },
+  {
+   "name": "al-Qa'ida",
+   "aliases": [
+    "al-Qaeda"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Bin Ladin's organization; members planted in or coopted within NGOs."
+  },
+  {
+   "name": "al-Haramayn",
+   "aliases": [
+    "Al-Haramain Islamic Foundation"
+   ],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Saudi Arabia",
+   "notes": "Gulf-based NGO; case study of Bin Ladin's diversion of resources through sympathetic employees in its offices."
+  },
+  {
+   "name": "United Nations High Commission for Refugees",
+   "aliases": [
+    "UNHCR"
+   ],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Accreditation of Islamic NGOs gives credentials that terrorists use to travel and establish cells."
+  },
+  {
+   "name": "DCI Counterterrorist Center",
+   "aliases": [
+    "CTC",
+    "Counterterrorist Center"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "CIA"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Author of the intelligence report."
+  }
+ ],
+ "places": [
+  {
+   "name": "Peshawar",
+   "type": "city",
+   "country": "Pakistan",
+   "parent": "Khyber Pakhtunkhwa",
+   "significance": "Where MAK was established in 1984 by Bin Ladin and Azzam."
+  },
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Arab volunteers trained and fought with the mujahidin there; supported by Islamic NGOs in the 1980s."
+  },
+  {
+   "name": "Bosnia",
+   "type": "country",
+   "country": "Bosnia and Herzegovina",
+   "parent": "",
+   "significance": "Islamic NGOs supported Bosnian mujahedin in the 1990s."
+  }
+ ],
+ "events": [
+  {
+   "date": "1984",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Maktab al-Khidamat (MAK) established in Peshawar by Usama Bin Ladin and Abdallah Azzam to facilitate travel and training of Arab volunteers.",
+   "place": "Peshawar",
+   "actors": [
+    "Usama Bin Ladin",
+    "Abdallah Azzam",
+    "Maktab al-Khidamat"
+   ],
+   "timestamp": "p.5"
+  },
+  {
+   "date": "1999-04-09",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA DCI Counterterrorist Center issues intelligence report on terrorist use of NGOs.",
+   "place": "",
+   "actors": [
+    "DCI Counterterrorist Center"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1984",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Founding of Maktab al-Khidamat (MAK) in Peshawar by Bin Ladin and Abdallah Azzam to facilitate Arab volunteers' travel and training for the Afghan jihad.",
+   "place": "Peshawar",
+   "actors": [
+    "Usama Bin Ladin",
+    "Abdallah Azzam",
+    "Maktab al-Khidamat"
+   ],
+   "timestamp": "p.5"
+  },
+  {
+   "date": "approx 1985",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "MAK opened new offices in at least 20 countries since the mid-1980s.",
+   "place": "",
+   "actors": [
+    "Maktab al-Khidamat"
+   ],
+   "timestamp": "p.5"
+  },
+  {
+   "date": "approx 1995",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Outbreak of Balkans conflict in mid-1990s led Islamic activists to open Europe-based NGOs to aid Bosnian Muslims.",
+   "place": "Bosnia",
+   "actors": [],
+   "timestamp": "p.5"
+  },
+  {
+   "date": "1999-04-09",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "DCI Counterterrorist Center issued intelligence report on Islamic terrorists' use of NGOs.",
+   "place": "",
+   "actors": [
+    "DCI Counterterrorist Center"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Usama Bin Ladin",
+   "target": "Maktab al-Khidamat",
+   "type": "leads",
+   "detail": "Co-established MAK in Peshawar in 1984.",
+   "date": "1984",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "Established in Peshawar in 1984 by Usama Bin Ladin and Palestinian Abdallah Azzam"
+  },
+  {
+   "source": "Abdallah Azzam",
+   "target": "Maktab al-Khidamat",
+   "type": "leads",
+   "detail": "Co-established MAK in Peshawar in 1984.",
+   "date": "1984",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "Established in Peshawar in 1984 by Usama Bin Ladin and Palestinian Abdallah Azzam"
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "Abdallah Azzam",
+   "type": "allied_with",
+   "detail": "Jointly founded MAK.",
+   "date": "1984",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "Usama Bin Ladin and Palestinian Abdallah Azzam to facilitate the travel and training of Arab volunteers"
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "al-Haramayn",
+   "type": "other",
+   "detail": "Cultivated employees in several al-Haramayn offices to divert resources to his agenda.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "has used these ties to divert resources to support his terrorist agenda"
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "al-Qa'ida",
+   "type": "leads",
+   "detail": "Bin Ladin's organization, al-Qa'ida, with members planted in NGOs.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.10",
+   "quote": "planted members of his organization, al-Qa'ida, in others"
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "Maktab al-Khidamat",
+   "type": "other",
+   "detail": "Bin Ladin co-established MAK in Peshawar in 1984 with Abdallah Azzam to facilitate travel and training of Arab volunteers.",
+   "date": "1984",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "Established in Peshawar in 1984 by Usama Bin Ladin and Palestinian Abdallah Azzam to facilitate the travel and training of Arab volunteers"
+  },
+  {
+   "source": "Abdallah Azzam",
+   "target": "Maktab al-Khidamat",
+   "type": "other",
+   "detail": "Azzam, a Palestinian, co-established MAK in Peshawar in 1984.",
+   "date": "1984",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "Established in Peshawar in 1984 by Usama Bin Ladin and Palestinian Abdallah Azzam"
+  },
+  {
+   "source": "Maktab al-Khidamat",
+   "target": "Peshawar",
+   "type": "located_in",
+   "detail": "MAK was established in Peshawar and is described as Pakistan-based.",
+   "date": "1984",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "The Pakistan-based Maktab al-Khidamat (MAK) is the premier example of this type of NGO. Established in Peshawar in 1984"
+  },
+  {
+   "source": "Maktab al-Khidamat",
+   "target": "Afghanistan",
+   "type": "other",
+   "detail": "MAK facilitated travel and training of Arab volunteers to fight with the mujahidin in Afghanistan.",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "to facilitate the travel and training of Arab volunteers to fight with the mujahidin in Afghanistan"
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "al-Haramayn",
+   "type": "other",
+   "detail": "Bin Ladin cultivated relationships with employees in several al-Haramayn offices and diverted resources to support his terrorist agenda.",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "Usama Bin Ladin has established close relationships with employees in several al-Haramayn office"
+  },
+  {
+   "source": "al-Qa'ida",
+   "target": "al-Haramayn",
+   "type": "member_of",
+   "detail": "Members of Bin Ladin's organization were planted or coopted within the NGO al-Haramayn.",
+   "confidence": "inferred",
+   "timestamp": "p.8",
+   "quote": "embers of Bin Ladin's organization, either planted or coopted by Bin Ladin after they began working for the NGO."
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "al-Qa'ida",
+   "type": "leads",
+   "detail": "Bin Ladin is described as having members of his organization, al-Qa'ida.",
+   "confidence": "stated",
+   "timestamp": "p.10",
+   "quote": "Bin Ladin apparently has created his own NGOs and planted members of his organization, al-Qa'ida, in others."
+  },
+  {
+   "source": "al-Qa'ida",
+   "target": "United Nations High Commission for Refugees",
+   "type": "other",
+   "detail": "Extremists exploit UNHCR accreditation of Islamic NGOs for credentials to travel and establish cells (general, not al-Qa'ida-specific).",
+   "confidence": "inferred",
+   "timestamp": "p.9",
+   "quote": "accredited with the United Nations High Commission for Refugees (UNHCR). which gives them credentials terrorists can use to travel more freely across borders"
+  },
+  {
+   "source": "DCI Counterterrorist Center",
+   "target": "Usama Bin Ladin",
+   "type": "other",
+   "detail": "CTC authored the report analyzing Bin Ladin's use of NGOs.",
+   "confidence": "inferred",
+   "timestamp": "p.8",
+   "quote": "Case Study: Bin Ladin Use of al-Haramayn"
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "Only a few dozen of more than 6,000 Islamic NGOs support terrorists.",
+  "NGOs are exploited mainly at local branch offices by sympathetic employees, often without leadership knowledge.",
+  "NGO logistics support (cover employment, false documents, travel, training, sometimes weapons) is often more valuable to terrorists than funds.",
+  "Maktab al-Khidamat, founded in Peshawar in 1984 by Bin Ladin and Azzam, is the premier example of a private NGO supporting militants.",
+  "Bin Ladin diverted al-Haramayn resources via employees and created or planted al-Qa'ida members in NGOs.",
+  "Gulf state controls on fundraising have been largely ineffective because they do not address diversion at branch offices."
+ ]
+}

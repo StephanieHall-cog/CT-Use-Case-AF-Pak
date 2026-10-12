@@ -1,0 +1,444 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc06-1996-11-26-terrorism-historical-background-of-the-islamic-arm",
+  "title": "Terrorism: Historical Background of the Islamic Army, And Bin Ladin's Move from Afghanistan to Sudan",
+  "authors": "CIA",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "1996-11-26",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7wuu-jeagl/1996-11-26-terrorism-historical-background-of.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 5,
+  "kind": "intelligence report",
+  "note": "Historical background of the Islamic Army and bin Ladin's move from Afghanistan to Sudan. Source: 9/11 Commission Report, Chapter 2, Endnotes 25, 31, 35, 36; Chapter 4, Endnote 3.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 6",
+  "relevance": "high",
+  "ocr": 2
+ },
+ "persons": [
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Usama Bin Ladin",
+    "Bin Ladin"
+   ],
+   "role": "Islamic extremist financier; founder of al-Qaida during the Afghan war; led the Islamic Army in Sudan",
+   "organizations": [
+    "al-Qaida",
+    "Islamic Army"
+   ],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan",
+    "Sudan",
+    "Khartoum",
+    "Port Sudan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "DURING THE AFGHAN WAR, USAMA BIN LADIN CREATED THE ISLAMIC EXTREMIST ORGANIZATION AL-QAIDA FROM AMONG LOYAL MUJAHIDIN IN AFGHANISTAN."
+    },
+    {
+     "timestamp": "p.2",
+     "quote": "IN 1989, BIN LADIN MOVED AL-QAIDA TO SUDAN, AT THE BEHEST OF THE NATIONAL ISLAMIC FRONT, AND CHANGED THE NAME TO THE ISLAMIC ARMY."
+    },
+    {
+     "timestamp": "p.4",
+     "quote": "BIN LADIN AGREED TO PROVIDE FUNDING FOR THE SUDANESE CIVIL DEFENSE AND TO BUILD THE \"CHALLENGE ROAD\" FROM KHARTOUM TO PORT SUDAN"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "al-Qaida",
+   "aliases": [
+    "al-Qaeda",
+    "al-Qa'ida"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Islamic Army"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Established by Bin Ladin during the Afghan war to facilitate movement of Islamic extremists into and out of Afghanistan; moved to Sudan in 1989 and renamed the Islamic Army; the term al-Qaida reportedly no longer made sense once the worldwide network was sought."
+  },
+  {
+   "name": "Islamic Army",
+   "aliases": [
+    "al-Qaida/Islamic Army"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaida",
+    "National Islamic Front"
+   ],
+   "rivals": [],
+   "country_base": "Sudan",
+   "notes": "Name given to al-Qaida after its move to Sudan; Bin Ladin defined its Koranic basis and intent to use violence for Islamic goals."
+  },
+  {
+   "name": "National Islamic Front",
+   "aliases": [
+    "NIF"
+   ],
+   "type": "political movement",
+   "parent_or_allies": [
+    "Government of Sudan",
+    "Islamic Army"
+   ],
+   "rivals": [],
+   "country_base": "Sudan",
+   "notes": "Came to power in Sudan in 1989; asked Bin Ladin to establish his organization there; its most immediate concern was the civil war in the south."
+  },
+  {
+   "name": "Government of Sudan",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [
+    "National Islamic Front"
+   ],
+   "rivals": [],
+   "country_base": "Sudan",
+   "notes": "With the NIF provided a receptive environment and personnel supporting Islamic Army activities."
+  },
+  {
+   "name": "Sudanese Civil Defense",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Government of Sudan"
+   ],
+   "rivals": [],
+   "country_base": "Sudan",
+   "notes": "Bin Ladin agreed to fund it."
+  },
+  {
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Author of the information report."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Where al-Qaida was created during the Afghan war."
+  },
+  {
+   "name": "Sudan",
+   "type": "country",
+   "country": "Sudan",
+   "parent": "",
+   "significance": "Bin Ladin's base after 1989, hosted by the NIF."
+  },
+  {
+   "name": "Khartoum",
+   "type": "city",
+   "country": "Sudan",
+   "parent": "Sudan",
+   "significance": "Start of the Challenge Road."
+  },
+  {
+   "name": "Port Sudan",
+   "type": "city",
+   "country": "Sudan",
+   "parent": "Sudan",
+   "significance": "End of the Challenge Road."
+  }
+ ],
+ "events": [
+  {
+   "date": "1989",
+   "date_precision": "year",
+   "type": "travel",
+   "description": "Bin Ladin moved al-Qaida to Sudan at the behest of the NIF and renamed it the Islamic Army.",
+   "place": "Sudan",
+   "actors": [
+    "Usama bin Ladin",
+    "National Islamic Front",
+    "al-Qaida"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1989",
+   "date_precision": "year",
+   "type": "other",
+   "description": "NIF came to power in Sudan.",
+   "place": "Sudan",
+   "actors": [
+    "National Islamic Front"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1996-11-26",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA information report on the Islamic Army and Bin Ladin's move to Sudan.",
+   "place": "",
+   "actors": [
+    "Central Intelligence Agency"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "approx 1980s",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Bin Ladin established al-Qaida during the Afghan war to facilitate movement of extremists into and out of Afghanistan.",
+   "place": "Afghanistan",
+   "actors": [
+    "Usama bin Ladin",
+    "al-Qaida"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "approx 1980s",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Bin Ladin establishes al-Qaida during the Afghan War to facilitate movement of extremists into and out of Afghanistan.",
+   "place": "Afghanistan",
+   "actors": [
+    "Usama bin Ladin",
+    "al-Qaida"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1989",
+   "date_precision": "year",
+   "type": "travel",
+   "description": "After the NIF came to power in Sudan, Bin Ladin moved al-Qaida to Sudan at NIF behest and renamed it the Islamic Army.",
+   "place": "Sudan",
+   "actors": [
+    "Usama bin Ladin",
+    "al-Qaida",
+    "Islamic Army",
+    "National Islamic Front"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1989",
+   "date_precision": "year",
+   "type": "agreement",
+   "description": "Bin Ladin agreed to fund the Sudanese Civil Defense and build the Challenge Road from Khartoum to Port Sudan in exchange for land.",
+   "place": "Sudan",
+   "actors": [
+    "Usama bin Ladin",
+    "National Islamic Front",
+    "Sudanese Civil Defense"
+   ],
+   "timestamp": "p.4"
+  },
+  {
+   "date": "1996-11-26",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA issues information report on the history of the Islamic Army and Bin Ladin's move to Sudan.",
+   "place": "",
+   "actors": [
+    "Central Intelligence Agency"
+   ],
+   "timestamp": "p.2"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Usama bin Ladin",
+   "target": "al-Qaida",
+   "type": "leads",
+   "detail": "Bin Ladin created and led al-Qaida.",
+   "date": "early 1980s",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "USAMA BIN LADIN CREATED THE ISLAMIC EXTREMIST ORGANIZATION AL-QAIDA"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "National Islamic Front",
+   "type": "hosted_by",
+   "detail": "Bin Ladin moved to Sudan at the NIF's behest, and the NIF/Government provided a receptive environment.",
+   "date": "1989",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "THE NIF AND THE GOVERNMENT OF SUDAN PROVIDED A RECEPTIVE ENVIRONMENT AND PERSONNEL"
+  },
+  {
+   "source": "Islamic Army",
+   "target": "al-Qaida",
+   "type": "other",
+   "detail": "Islamic Army was the new name for al-Qaida in Sudan.",
+   "date": "1989",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "CHANGED THE NAME TO THE ISLAMIC ARMY"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Sudanese Civil Defense",
+   "type": "funded_by",
+   "detail": "Bin Ladin agreed to fund the Sudanese civil defense (he is the funder; direction as funding provider).",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "BIN LADIN AGREED TO PROVIDE FUNDING FOR THE SUDANESE CIVIL DEFENSE"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Government of Sudan",
+   "type": "other",
+   "detail": "Bin Ladin provided infrastructure in return for support, e.g. building the Challenge Road in exchange for land.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "TO BUILD THE \"CHALLENGE ROAD\" FROM KHARTOUM TO PORT SUDAN IN EXCHANGE FOR LAND"
+  },
+  {
+   "source": "al-Qaida",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Al-Qaida was established in Afghanistan during the Afghan War to facilitate movement of extremists into and out of Afghanistan.",
+   "date": "early 1980s",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "AL-QAIDA INITIALLY WAS ESTABLISHED BY BIN LADIN TO FACILITATE THE MOVEMENT OF ISLAMIC EXTREMISTS INTO AND OUT OF AFGHANISTAN DURING THE AFGHAN WAR."
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Islamic Army",
+   "type": "leads",
+   "detail": "Bin Ladin renamed al-Qaida as the Islamic Army after moving it to Sudan.",
+   "date": "1989",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "BIN LADIN MOVED AL-QAIDA TO SUDAN, AT THE BEHEST OF THE NATIONAL ISLAMIC FRONT, AND CHANGED THE NAME TO THE ISLAMIC ARMY."
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "National Islamic Front",
+   "type": "allied_with",
+   "detail": "Bin Ladin agreed to relocate his al-Qaida/Islamic Army to Sudan at the NIF's behest.",
+   "date": "1989",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "BIN LADIN AGREED TO ESTABLISH HIS AL-QAIDA/ISLAMIC ARMY IN SUDAN, AT THE BEHEST OF THE NIF."
+  },
+  {
+   "source": "Islamic Army",
+   "target": "National Islamic Front",
+   "type": "hosted_by",
+   "detail": "The NIF provided a receptive environment and personnel in support of Islamic Army activities.",
+   "date": "1989-1996",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "THE NIF AND THE GOVERNMENT OF SUDAN PROVIDED A RECEPTIVE ENVIRONMENT AND PERSONNEL IN SUPPORT OF ISLAMIC ARMY ACTIVITIES"
+  },
+  {
+   "source": "Islamic Army",
+   "target": "Government of Sudan",
+   "type": "hosted_by",
+   "detail": "The Government of Sudan provided a receptive environment and personnel supporting Islamic Army activities.",
+   "date": "1989-1996",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "THE NIF AND THE GOVERNMENT OF SUDAN PROVIDED A RECEPTIVE ENVIRONMENT AND PERSONNEL IN SUPPORT OF ISLAMIC ARMY"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Sudan",
+   "type": "located_in",
+   "detail": "Bin Ladin moved to Sudan and his presence and businesses grew there.",
+   "date": "1989",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "BIN LADIN'S ISLAMIC PRESENCE, AS WELL AS HIS PERSONAL BUSINESSES, CONTINUED TO GROW IN SUDAN."
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Sudanese Civil Defense",
+   "type": "other",
+   "detail": "Bin Ladin agreed to provide funding for the Sudanese Civil Defense.",
+   "date": "1989",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "BIN LADIN AGREED TO PROVIDE FUNDING FOR THE SUDANESE CIVIL DEFENSE"
+  },
+  {
+   "source": "Sudanese Civil Defense",
+   "target": "Usama bin Ladin",
+   "type": "funded_by",
+   "detail": "Sudanese Civil Defense was to be funded by Bin Ladin.",
+   "date": "1989",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "BIN LADIN AGREED TO PROVIDE FUNDING FOR THE SUDANESE CIVIL DEFENSE"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Khartoum",
+   "type": "other",
+   "detail": "Bin Ladin agreed to build the Challenge Road from Khartoum to Port Sudan in exchange for land.",
+   "date": "1989",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "TO BUILD THE \"CHALLENGE ROAD\" FROM KHARTOUM TO PORT SUDAN IN EXCHANGE FOR LAND"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Port Sudan",
+   "type": "other",
+   "detail": "Challenge Road built by Bin Ladin ran to Port Sudan.",
+   "date": "1989",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "TO BUILD THE \"CHALLENGE ROAD\" FROM KHARTOUM TO PORT SUDAN"
+  },
+  {
+   "source": "Khartoum",
+   "target": "Sudan",
+   "type": "located_in",
+   "detail": "Khartoum is in Sudan.",
+   "confidence": "inferred",
+   "timestamp": "p.4",
+   "quote": "\"CHALLENGE ROAD\" FROM KHARTOUM TO PORT SUDAN"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Government of Sudan",
+   "type": "funded_by",
+   "detail": "Bin Ladin provided infrastructure to NIF/Government of Sudan in return for support (reverse flow).",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "IN RETURN. BIN LADIN PROVIDED INFRASTRUCTURE"
+  }
+ ],
+ "sources_cited": [
+  "CIA Information Report, 26 November 1996 (not finally evaluated intelligence)"
+ ],
+ "key_claims": [
+  "Bin Ladin created al-Qaida during the Afghan war to facilitate movement of extremists into and out of Afghanistan.",
+  "In 1989 Bin Ladin moved al-Qaida to Sudan at the behest of the NIF and renamed it the Islamic Army.",
+  "The NIF and Sudanese government provided a receptive environment and personnel in return for Bin Ladin-provided infrastructure.",
+  "Bin Ladin agreed to fund Sudanese civil defense and build the Challenge Road from Khartoum to Port Sudan in exchange for land.",
+  "Bin Ladin and committee members were already discussing violence as a means to achieve Islamic goals."
+ ]
+}

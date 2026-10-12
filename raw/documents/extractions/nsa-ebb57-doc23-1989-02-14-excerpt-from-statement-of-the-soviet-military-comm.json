@@ -1,0 +1,264 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb57-doc23-1989-02-14-excerpt-from-statement-of-the-soviet-military-comm",
+  "title": "Excerpt from Statement of the Soviet Military Command in Afghanistan on the Withdrawal of Soviet Troops, February 14, 1989",
+  "authors": "Soviet Military Command in Afghanistan / USSR Defense Ministry",
+  "publisher": "National Security Archive (GWU), Afghanistan: Lessons from the Last War",
+  "published": "1989-02-14",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB57/r23.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB57/soviet.html",
+  "pages": 2,
+  "kind": "other",
+  "note": "Statement delivered to the head of the UN Mission on the day the last Soviet soldier left. It reviews Soviet-Afghan relations, justifies the intervention, criticizes U.S. arming of the opposition in disregard of the Geneva agreements, and rejects Vietnam comparisons. Source: Lyakhovsky, Appendix 11.",
+  "collection": "NSAEBB57",
+  "doc_number": "Document 23",
+  "relevance": "medium",
+  "ocr": 1
+ },
+ "persons": [],
+ "organizations": [
+  {
+   "name": "Soviet Military Command in Afghanistan",
+   "aliases": [
+    "Soviet Armed Forces in Afghanistan",
+    "Limited Contingent of Soviet Forces in Afghanistan"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "USSR Defense Ministry",
+    "Soviet Union"
+   ],
+   "rivals": [],
+   "country_base": "USSR",
+   "notes": "Issued the 14 Feb 1989 statement on the completed withdrawal of Soviet troops; claims troops were sent after requests from the legitimate Afghan government."
+  },
+  {
+   "name": "USSR Defense Ministry",
+   "aliases": [
+    "Soviet Ministry of Defense"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Soviet Union"
+   ],
+   "rivals": [],
+   "country_base": "USSR",
+   "notes": "Credited as co-author of the statement."
+  },
+  {
+   "name": "Government of Afghanistan",
+   "aliases": [
+    "Afghan government",
+    "legitimate Afghan government"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Soviet Union"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Described by the Soviet statement as having made numerous requests for Soviet troops; recipient of Soviet property worth over 830 million rubles."
+  },
+  {
+   "name": "Soviet Union",
+   "aliases": [
+    "USSR"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "USSR",
+   "notes": "Sent and withdrew troops under the Geneva Agreements."
+  },
+  {
+   "name": "United States Armed Forces",
+   "aliases": [
+    "American troops"
+   ],
+   "type": "military",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Mentioned only in the Soviet comparison with Vietnam, which it rejects."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Country from which Soviet troops were withdrawn under the Geneva Agreements."
+  },
+  {
+   "name": "Vietnam",
+   "type": "country",
+   "country": "Vietnam",
+   "parent": "",
+   "significance": "Cited by the statement as a comparison it rejects; US actions there are described as a flight and an occupation."
+  },
+  {
+   "name": "Geneva",
+   "type": "city",
+   "country": "Switzerland",
+   "parent": "",
+   "significance": "Location of the Geneva Agreements on Afghanistan, which govern the withdrawal (named only through the agreements)."
+  }
+ ],
+ "events": [
+  {
+   "date": "1989-02-14",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Soviet Military Command in Afghanistan issues a statement on the completed withdrawal of Soviet troops. It rejects the Vietnam analogy and says the withdrawal followed the Geneva Agreements.",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet Military Command in Afghanistan",
+    "USSR Defense Ministry"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1989-02",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Withdrawal of Soviet forces from Afghanistan carried out according to plan under the Geneva Agreements. Property worth over 830 million rubles was transferred to the Afghan side.",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet Military Command in Afghanistan",
+    "Government of Afghanistan"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1988",
+   "date_precision": "year",
+   "type": "agreement",
+   "description": "Geneva Agreements on Afghanistan, which set the terms of the Soviet withdrawal. The year is not given in the text and is inferred.",
+   "place": "Geneva",
+   "actors": [
+    "Soviet Union"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1989-02-14",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "The Soviet Military Command in Afghanistan issues a statement on the withdrawal of Soviet troops. It rejects comparisons with the US in Vietnam and says the withdrawal follows the Geneva Agreements.",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet Military Command in Afghanistan",
+    "USSR Defense Ministry"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "approx 1988-1989",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Soviet forces withdraw from Afghanistan in accordance with the Geneva Agreements, and property worth over 830 million rubles is transferred to the Afghan side.",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet Union",
+    "Soviet Military Command in Afghanistan",
+    "Government of Afghanistan"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "approx 1988",
+   "date_precision": "approx",
+   "type": "agreement",
+   "description": "The Geneva Agreements on Afghanistan are cited as the framework governing the Soviet withdrawal. The text gives no signing date.",
+   "place": "Geneva",
+   "actors": [
+    "Soviet Union",
+    "Government of Afghanistan"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Soviet Military Command in Afghanistan",
+   "target": "USSR Defense Ministry",
+   "type": "reports_to",
+   "detail": "The statement is attributed jointly to the military command and the USSR Defense Ministry, so the link is inferred.",
+   "date": "1989-02-14",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Statement of the Soviet Military Command in Afghanistan on the Withdrawal of Soviet Troops"
+  },
+  {
+   "source": "Soviet Military Command in Afghanistan",
+   "target": "Government of Afghanistan",
+   "type": "allied_with",
+   "detail": "The Soviet statement says its troops were sent after numerous requests from the legitimate Afghan government.",
+   "date": "1989-02-14",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "the Soviet troops were sent to Afghanistan after numerous requests from the legitimate Afghan government"
+  },
+  {
+   "source": "Government of Afghanistan",
+   "target": "Soviet Union",
+   "type": "funded_by",
+   "detail": "Soviet objects and property valued at over 830 million rubles were transferred to the Afghan side during the withdrawal.",
+   "date": "1989-02",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "we transferred objects and property to the Afghan people with overall value of over 830 million rubles"
+  },
+  {
+   "source": "Soviet Union",
+   "target": "Government of Afghanistan",
+   "type": "allied_with",
+   "detail": "Soviet troops were sent to Afghanistan at the numerous requests of the Afghan government, and the Soviet side presents its mission as assistance to that government.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "the Soviet troops were sent to Afghanistan after numerous requests from the legitimate Afghan government."
+  },
+  {
+   "source": "Soviet Union",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Soviet troops were present in Afghanistan on an 'internationalist assistance' mission until the withdrawal.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "the goal of providing internationalist assistance in the defense of sovereignty and territorial integrity of Afghanistan."
+  },
+  {
+   "source": "United States Armed Forces",
+   "target": "Vietnam",
+   "type": "located_in",
+   "detail": "The statement draws a comparison with American forces operating in Vietnam and describes their departure as 'flight'.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "nobody had invited the Americans in Vietnam"
+  },
+  {
+   "source": "Soviet Union",
+   "target": "Government of Afghanistan",
+   "type": "other",
+   "detail": "During the withdrawal the Soviet side transferred objects and property worth over 830 million rubles to the Afghan side.",
+   "date": "1989",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "we transferred objects and property to the Afghan people with overall value of over 830 million rubles."
+  }
+ ],
+ "sources_cited": [
+  "Alexander Lyakhovsky, Tragedy and Valor of Afghan, Iskon, Moscow 1995, Appendix 11",
+  "Geneva Agreements on Afghanistan"
+ ],
+ "key_claims": [
+  "The Soviet command rejects the analogy with US actions in Vietnam and describes the Soviet presence as invited by the legitimate Afghan government.",
+  "The command says the withdrawal was planned and carried out under the Geneva Agreements, in contrast to an American 'flight' from Vietnam.",
+  "The Soviets claim to have transferred property worth over 830 million rubles to the Afghan people during the withdrawal.",
+  "The command says it sought to prevent the last Soviet soldier's departure from starting a civil war, and pledges continued support for a political settlement."
+ ]
+}

@@ -1,0 +1,814 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb253-doc06-1998-09-09-afghanistan-reported-activities-of-extremist-arabs",
+  "title": "Afghanistan: Reported Activities of Extremist Arabs and Pakistanis Since August 20 U.S. Strike on Khost Terrorist Camps",
+  "authors": "U.S. Embassy Islamabad",
+  "publisher": "National Security Archive (GWU), 1998 Missile Strikes on Bin Laden May Have Backfired",
+  "published": "1998-09-09",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB253/19980909.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB253/index.htm",
+  "pages": 8,
+  "kind": "cable",
+  "note": "[Confidential] Tracks Arabs and Pakistanis expelled from Khost. Bin Laden is keeping a low profile, probably in Kandahar, where he has stayed at Mullah Omar's residence and is thought to have been ordered to stay close to Omar; many of his followers are moving to Kabul. The strikes reportedly killed about 20 Pakistanis and 15 Arabs. Excised.",
+  "collection": "NSAEBB253",
+  "doc_number": "Document 6",
+  "relevance": "high",
+  "ocr": 8
+ },
+ "persons": [
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Usama bin Laden",
+    "Bin Ladin"
+   ],
+   "role": "Terrorist leader described as mastermind of the East Africa bombings; reportedly living in the Kandahar area",
+   "organizations": [],
+   "nationality_or_origin": "",
+   "status": "alive",
+   "status_detail": "Reported low-profile, probably in Kandahar city, Sept 1998",
+   "family": [],
+   "locations": [
+    "Kandahar",
+    "Khost"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "TERRORIST MASTERMIND USAMA BIN LADIN REPORTEDLY IS STAYING IN THE KANDAHAR AREA, WHERE THE TALIBAN CAN KEEP A CLOSE WATCH ON HIM."
+    },
+    {
+     "timestamp": "p.3",
+     "quote": "BIN LADIN HAS PROBABLY BEEN ORDERED TO STAY IN KANDAHAR CITY BY TALIBAN LEADER MULLAH OMAR"
+    }
+   ]
+  },
+  {
+   "name": "Mullah Omar",
+   "aliases": [
+    "Mullah Muhammad Omar"
+   ],
+   "role": "Taliban leader",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Kandahar"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.3",
+     "quote": "ORDERED TO STAY IN KANDAHAR CITY BY TALIBAN LEADER MULLAH OMAR WHO CAN MORE EASILY KEEP A WATCH ON HIM THERE."
+    },
+    {
+     "timestamp": "p.3",
+     "quote": "BIN LADIN WAS KNOWN TO STAY AT MULLAH OMAR'S RESIDENCE"
+    }
+   ]
+  },
+  {
+   "name": "Syed Abdullah",
+   "aliases": [],
+   "role": "Taliban governor of Khost",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Khost"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.3",
+     "quote": "TALIBAN GOVERNOR OF KHOST SYED ABDULLAH AS STATING WHO HAD BEEN USING THE CAMPS \"HAD BEEN MOVED TO COMPARATIVELY SAFER PLACES.\""
+    }
+   ]
+  },
+  {
+   "name": "Zeki",
+   "aliases": [],
+   "role": "Source (redacted national) who told Poloff Arabs travel from Khost to Kabul, possibly to join Taliban in the north",
+   "organizations": [],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Kabul"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "SOME OF THESE ARABS MAY BE TRANSITING KABUL IN ORDER TO JOIN TALIBAN FORCES ON FRONTS IN THE NORTH OF THE COUNTRY, ZEKI SAID."
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Taliban",
+   "aliases": [],
+   "type": "political movement",
+   "parent_or_allies": [
+    "Sipah-i-Sahaba",
+    "Jamiat-i-Ulema Islam (JUI-F)"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Controls Kandahar and Khost; took Mazar-i-Sharif 8 Aug 1998; 20-40 percent of force estimated Pakistani nationals; announced arrest of two Pakistani UN attackers in Kandahar."
+  },
+  {
+   "name": "Sipah-i-Sahaba",
+   "aliases": [
+    "SSP",
+    "Sipah-i-Sahaba Pakistan"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Pakistani extremist group; pro-Taliban SSP volunteers allegedly executed 11 Iranian officials at Mazar-i-Sharif consulate (unconfirmed)."
+  },
+  {
+   "name": "Harakat-ul-Mujahideen",
+   "aliases": [
+    "HUM",
+    "Harkat-ul-Mujahideen"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Kashmiri militant group; predecessor Harakat-ul-Ansar was US-listed terrorist organization in 1997; alleged by rumor in UN staff killing."
+  },
+  {
+   "name": "Harakat-ul-Ansar",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Predecessor of HUM; listed by US in 1997."
+  },
+  {
+   "name": "Jamiat-i-Ulema Islam (JUI-F)",
+   "aliases": [
+    "JUI",
+    "JUI(F)",
+    "Jamiat Ulema-e-Islam"
+   ],
+   "type": "political movement",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Eight Pakistani members reportedly killed in fighting; bodies returned to Pakistan per The Muslim, 7 Sept 1998."
+  },
+  {
+   "name": "United Nations",
+   "aliases": [
+    "UN"
+   ],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Lost an expatriate in Kabul on 21 Aug 1998; weighing return of expatriates."
+  },
+  {
+   "name": "The Muslim",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Pakistani Islamist newspaper that reported the eight dead Pakistanis."
+  },
+  {
+   "name": "U.S. Embassy Islamabad",
+   "aliases": [
+    "AMEMBASSY ISLAMABAD"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Author of cable; coordinated with Consulate Peshawar."
+  },
+  {
+   "name": "Iranian Consulate Mazar-i-Sharif",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Eleven Iranian officials went missing when Taliban took the city."
+  }
+ ],
+ "places": [
+  {
+   "name": "Khost",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Site of terrorist camps struck by US missiles 20 Aug 1998; militants reportedly left."
+  },
+  {
+   "name": "Kabul",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Arabs reportedly arriving; UN expatriate killed 21 Aug 1998."
+  },
+  {
+   "name": "Kandahar",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Bin Ladin reportedly staying here under Mullah Omar's watch; attackers detained here."
+  },
+  {
+   "name": "Kandahar Airport",
+   "type": "base",
+   "country": "Afghanistan",
+   "parent": "Kandahar",
+   "significance": "Complex near it a possible Bin Ladin residence."
+  },
+  {
+   "name": "Mazar-i-Sharif",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Fell to Taliban 8 Aug 1998; Iranians killed."
+  },
+  {
+   "name": "Torkham",
+   "type": "border crossing",
+   "country": "Pakistan",
+   "parent": "North-West Frontier Province",
+   "significance": "Crossing for Pakistani volunteers joining Taliban."
+  },
+  {
+   "name": "Chaman",
+   "type": "border crossing",
+   "country": "Pakistan",
+   "parent": "Baluchistan",
+   "significance": "Crossing for Pakistani volunteers joining Taliban."
+  },
+  {
+   "name": "Peshawar",
+   "type": "city",
+   "country": "Pakistan",
+   "parent": "North-West Frontier Province",
+   "significance": "US Consulate and source meetings."
+  },
+  {
+   "name": "North-West Frontier Province",
+   "aliases": [
+    "NWFP"
+   ],
+   "type": "province",
+   "country": "Pakistan",
+   "parent": "Pakistan",
+   "significance": "Burials of dead Pakistani fighters."
+  },
+  {
+   "name": "Baluchistan",
+   "type": "province",
+   "country": "Pakistan",
+   "parent": "Pakistan",
+   "significance": "Burials and border crossing."
+  },
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Setting."
+  },
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Source of volunteers."
+  }
+ ],
+ "events": [
+  {
+   "date": "1998-08-08",
+   "date_precision": "day",
+   "type": "offensive",
+   "description": "Taliban captured Mazar-i-Sharif; 11 Iranian officials went missing, allegedly executed by SSP volunteers.",
+   "place": "Mazar-i-Sharif",
+   "actors": [
+    "Taliban",
+    "Sipah-i-Sahaba"
+   ],
+   "timestamp": "p.4"
+  },
+  {
+   "date": "1998-08-20",
+   "date_precision": "day",
+   "type": "strike",
+   "description": "US missile strikes on Khost terrorist camps; at least 50 reportedly killed including about 20 Pakistanis and 15 Arabs.",
+   "place": "Khost",
+   "actors": [
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1998-08-21",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "Attack on two UN expatriates in Kabul, one fatally; Taliban said two Pakistanis were arrested in Kandahar.",
+   "place": "Kabul",
+   "actors": [
+    "Harakat-ul-Mujahideen",
+    "United Nations"
+   ],
+   "timestamp": "p.5"
+  },
+  {
+   "date": "1998-09-04",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "Embassy meeting with Afghan moderate in Peshawar alleging SSP killed Iranians and about 60 others.",
+   "place": "Peshawar",
+   "actors": [
+    "Sipah-i-Sahaba"
+   ],
+   "timestamp": "p.5"
+  },
+  {
+   "date": "1998-09-07",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "The Muslim reported bodies of eight JUI-F members returned to Pakistan.",
+   "place": "Pakistan",
+   "actors": [
+    "The Muslim",
+    "Jamiat-i-Ulema Islam (JUI-F)"
+   ],
+   "timestamp": "p.7"
+  },
+  {
+   "date": "1998-09-09",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "Meeting with Afghan resistance commander on Bin Ladin's location; cable sent.",
+   "place": "Islamabad",
+   "actors": [
+    "Mullah Omar",
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1998-08-08",
+   "date_precision": "day",
+   "type": "offensive",
+   "description": "Taliban capture Mazar-i-Sharif; eleven Iranian officials go missing, allegedly executed by SSP volunteers.",
+   "place": "Mazar-i-Sharif",
+   "actors": [
+    "Taliban",
+    "Sipah-i-Sahaba",
+    "Iranian Consulate Mazar-i-Sharif"
+   ],
+   "timestamp": "p.4"
+  },
+  {
+   "date": "1998-08-20",
+   "date_precision": "day",
+   "type": "strike",
+   "description": "U.S. missile strike on Khost terrorist camps; at least 50 reportedly killed, including about 20 Pakistanis and 15 Arabs.",
+   "place": "Khost",
+   "actors": [
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1998-08-21",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "Attack on two UN expatriates in Kabul, one dead of gunshot wounds; alleged HUM involvement; Taliban arrested two Pakistanis.",
+   "place": "Kabul",
+   "actors": [
+    "Harakat-ul-Mujahideen",
+    "United Nations",
+    "Taliban"
+   ],
+   "timestamp": "p.5"
+  },
+  {
+   "date": "1998-09-04",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "Meeting in Peshawar with a moderate Afghan alleging SSP killed the Iranians, Afghan staff and neighbors (~60 killed).",
+   "place": "Peshawar",
+   "actors": [
+    "Sipah-i-Sahaba",
+    "U.S. Embassy Islamabad"
+   ],
+   "timestamp": "p.5"
+  },
+  {
+   "date": "1998-09-09",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "Meetings with sources reporting Arabs moving from Khost to Kabul and bin Ladin in Kandahar.",
+   "place": "Kabul",
+   "actors": [
+    "Zeki",
+    "U.S. Embassy Islamabad",
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1998-09-07",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "The Muslim reported that bodies of eight Pakistani JUI-F members killed fighting in Afghanistan were returned to Pakistan for burial.",
+   "place": "Pakistan",
+   "actors": [
+    "The Muslim",
+    "Jamiat-i-Ulema Islam (JUI-F)"
+   ],
+   "timestamp": "p.7"
+  },
+  {
+   "date": "1998-09-09",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "U.S. Embassy Islamabad cable assessing that U.S. strikes flushed Arab and Pakistani militants out of Khost for the time being.",
+   "place": "Khost",
+   "actors": [
+    "U.S. Embassy Islamabad"
+   ],
+   "timestamp": "p.7"
+  },
+  {
+   "date": "1998-09",
+   "date_precision": "month",
+   "type": "travel",
+   "description": "Busses of Pakistani volunteers for the Taliban reported crossing at Torkham and Chaman; pro-Taliban religious leaders recruiting madrassa students.",
+   "place": "Torkham; Chaman",
+   "actors": [
+    "Taliban"
+   ],
+   "timestamp": "p.6"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Usama bin Ladin",
+   "target": "Mullah Omar",
+   "type": "hosted_by",
+   "detail": "Bin Ladin reportedly ordered to stay in Kandahar by Mullah Omar and known to stay at his residence.",
+   "date": "1998",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "BIN LADIN WAS KNOWN TO STAY AT MULLAH OMAR'S RESIDENCE"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Taliban",
+   "type": "sheltered_by",
+   "detail": "Taliban keep close watch on Bin Ladin in Kandahar.",
+   "date": "1998-09",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "WHERE THE TALIBAN CAN KEEP A CLOSE WATCH ON HIM."
+  },
+  {
+   "source": "Syed Abdullah",
+   "target": "Taliban",
+   "type": "member_of",
+   "detail": "Taliban governor of Khost.",
+   "date": "1998",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "TALIBAN GOVERNOR OF KHOST SYED ABDULLAH"
+  },
+  {
+   "source": "Mullah Omar",
+   "target": "Taliban",
+   "type": "leads",
+   "detail": "Taliban leader.",
+   "date": "1998",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "TALIBAN LEADER MULLAH OMAR"
+  },
+  {
+   "source": "Sipah-i-Sahaba",
+   "target": "Taliban",
+   "type": "allied_with",
+   "detail": "Pro-Taliban SSP volunteers allegedly entered Mazar-i-Sharif.",
+   "date": "1998-08-08",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "A TEAM OF PRO-TALIBAN SSP VOLUNTEERS, ALL OF WHOM WERE PAKISTANI NATIONALS"
+  },
+  {
+   "source": "Harakat-ul-Mujahideen",
+   "target": "Harakat-ul-Ansar",
+   "type": "succeeded",
+   "detail": "HUM's predecessor organization was Harakat-ul-Ansar.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "HUM'S PREDECESSOR ORGANIZATION WAS CALLED HARAKAT-UL-ANSAR"
+  },
+  {
+   "source": "Jamiat-i-Ulema Islam (JUI-F)",
+   "target": "Taliban",
+   "type": "allied_with",
+   "detail": "JUI-F members killed fighting in Afghanistan for the Taliban cause.",
+   "date": "1998-09",
+   "confidence": "inferred",
+   "timestamp": "p.7",
+   "quote": "ALL EIGHT OF THE PAKISTANIS WERE SAID TO BE MEMBERS OF THE PAKISTANI EXTREMIST GROUP JAMIAT-I-ULEMA ISLAM (JUI-F)"
+  },
+  {
+   "source": "Sipah-i-Sahaba",
+   "target": "Iranian Consulate Mazar-i-Sharif",
+   "type": "killed",
+   "detail": "Unconfirmed reports that SSP team executed the Iranian officials.",
+   "date": "1998-08-08",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "MEMBERS OF THE PAKISTANI EXTREMIST GROUP SIPAH-I-SAHABA (SSP) EXECUTED THE ELEVEN \"MISSING\" MAZAR-I-SHARIF-BASED IRANIAN OFFICIALS"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Kandahar",
+   "type": "located_in",
+   "detail": "Sources believe bin Ladin is spending most of his time in the Kandahar area.",
+   "date": "1998-09",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "BIN LADIN PROBABLY IS SPENDING MOST OF HIS TIME IN THE AREA OF KANDAHAR CITY."
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Mullah Omar",
+   "type": "reports_to",
+   "detail": "A resistance commander said bin Ladin was probably ordered by Mullah Omar to stay in Kandahar city where he can be watched.",
+   "date": "1998-09-09",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "BIN LADIN HAS PROBABLY BEEN ORDERED TO STAY IN KANDAHAR CITY BY TALIBAN LEADER MULLAH OMAR"
+  },
+  {
+   "source": "Mullah Omar",
+   "target": "Taliban",
+   "type": "leads",
+   "detail": "Mullah Omar is described as Taliban leader.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "TALIBAN LEADER MULLAH OMAR WHO CAN MORE EASILY KEEP A WATCH ON HIM THERE"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Mullah Omar",
+   "type": "sheltered_by",
+   "detail": "When in Kandahar, bin Ladin was known to stay at Mullah Omar's residence, adjacent to the Kandahar governor's house, or at a complex near Kandahar Airport.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "WHEN IN KANDAHAR, BIN LADIN WAS KNOWN TO STAY AT MULLAH OMAR'S RESIDENCE"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Kandahar Airport",
+   "type": "located_in",
+   "detail": "Bin Ladin reportedly stays at a complex near Kandahar Airport.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "OR AT A COMPLEX NEAR KANDAHAR AIRPORT."
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Taliban",
+   "type": "sheltered_by",
+   "detail": "Taliban keep a close watch on bin Ladin in the Kandahar area.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "STAYING IN THE KANDAHAR AREA, WHERE THE TALIBAN CAN KEEP A CLOSE WATCH ON HIM"
+  },
+  {
+   "source": "Syed Abdullah",
+   "target": "Taliban",
+   "type": "member_of",
+   "detail": "Syed Abdullah is Taliban governor of Khost.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "TALIBAN GOVERNOR OF KHOST SYED ABDULLAH"
+  },
+  {
+   "source": "Syed Abdullah",
+   "target": "Khost",
+   "type": "leads",
+   "detail": "Governor of Khost province.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "TALIBAN GOVERNOR OF KHOST SYED ABDULLAH"
+  },
+  {
+   "source": "Sipah-i-Sahaba",
+   "target": "Taliban",
+   "type": "allied_with",
+   "detail": "A team of pro-Taliban SSP volunteers allegedly entered Mazar-i-Sharif.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "A TEAM OF PRO-TALIBAN SSP VOLUNTEERS, ALL OF WHOM WERE PAKISTANI NATIONALS, ENTERED MAZAR-I-SHARIF"
+  },
+  {
+   "source": "Sipah-i-Sahaba",
+   "target": "Iranian Consulate Mazar-i-Sharif",
+   "type": "other",
+   "detail": "SSP team allegedly went to the consulate, captured and executed the Iranian officials (unconfirmed).",
+   "date": "1998-08-08",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "WENT DIRECTLY TO THE IRANIAN CONSULATE, CAPTURED THE IRANIANS, AND THEN EXECUTED THEM IN COLD BLOOD."
+  },
+  {
+   "source": "Sipah-i-Sahaba",
+   "target": "Mazar-i-Sharif",
+   "type": "located_in",
+   "detail": "SSP volunteers allegedly entered Mazar-i-Sharif on August 8.",
+   "date": "1998-08-08",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "ENTERED MAZAR-I-SHARIF: ON AUGUST 8"
+  },
+  {
+   "source": "Taliban",
+   "target": "Mazar-i-Sharif",
+   "type": "captured",
+   "detail": "Taliban took Mazar-i-Sharif on August 8.",
+   "date": "1998-08-08",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "WHEN THEY TOOK MAZAR-I-SHARIF ON AUGUST 8"
+  },
+  {
+   "source": "Taliban",
+   "target": "Iranian Consulate Mazar-i-Sharif",
+   "type": "captured",
+   "detail": "Iran accused the Taliban of capturing the Iranians.",
+   "date": "1998-08-08",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "IRAN HAS ACCUSED THE TALIBAN OF CAPTURING THE IRANIANS WHEN THEY TOOK MAZAR-I-SHARIF"
+  },
+  {
+   "source": "Harakat-ul-Mujahideen",
+   "target": "Harakat-ul-Ansar",
+   "type": "succeeded",
+   "detail": "HUM's predecessor organization was Harakat-ul-Ansar.",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "HUM'S PREDECESSOR ORGANIZATION WAS CALLED HARAKAT-UL-ANSAR"
+  },
+  {
+   "source": "Harakat-ul-Mujahideen",
+   "target": "United Nations",
+   "type": "other",
+   "detail": "Unconfirmed reports allege HUM members attacked two UN expatriates in Kabul.",
+   "date": "1998-08-21",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "PERPETRATORS OF THE ATTACK ON TWO UN EXPATRIATES IN KABUL ON AUGUST 21 WERE MEMBERS OF THE KASHMIRI MILITANT GROUP HARKAT-UL-MUJAHIDEEN"
+  },
+  {
+   "source": "Taliban",
+   "target": "Kandahar",
+   "type": "located_in",
+   "detail": "Taliban announced two Pakistani perpetrators were under arrest in Kandahar.",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "THE TWO PERPETRATORS OF THE ATTACK WERE UNDER ARREST IN KANDAHAR AND WERE OF PAKISTANI NATIONALITY"
+  },
+  {
+   "source": "Taliban",
+   "target": "Pakistan",
+   "type": "funded_by",
+   "detail": "Pakistani nationals reportedly make up 20-40 percent of Taliban forces and continue to cross to join them.",
+   "confidence": "inferred",
+   "timestamp": "p.6",
+   "quote": "20-40 PERCENT OF THE TALIBAN MILITARY FORCE IS MADE UP PAKISTANI NATIONALS"
+  },
+  {
+   "source": "Zeki",
+   "target": "Usama bin Ladin",
+   "type": "other",
+   "detail": "Zeki relayed that Arabs from Khost may transit Kabul to join Taliban forces in the north.",
+   "date": "1998-09-09",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "SOME OF THESE ARABS MAY BE TRANSITING KABUL IN ORDER TO JOIN TALIBAN FORCES ON FRONTS IN THE NORTH OF THE COUNTRY, ZEKI SAID."
+  },
+  {
+   "source": "Torkham",
+   "target": "North-West Frontier Province",
+   "type": "located_in",
+   "detail": "Torkham border point is in NWFP.",
+   "confidence": "stated",
+   "timestamp": "p.6",
+   "quote": "TORKHAM (NWFP) AND CHAMAN (BALUCHISTAN)"
+  },
+  {
+   "source": "Chaman",
+   "target": "Baluchistan",
+   "type": "located_in",
+   "detail": "Chaman border point is in Baluchistan.",
+   "confidence": "stated",
+   "timestamp": "p.6",
+   "quote": "TORKHAM (NWFP) AND CHAMAN (BALUCHISTAN)"
+  },
+  {
+   "source": "Pakistan",
+   "target": "Taliban",
+   "type": "allied_with",
+   "detail": "Pakistani nationals cross the border to join the Taliban; some sources estimate 20-40 percent of the Taliban force is Pakistani.",
+   "date": "1998-09",
+   "confidence": "stated",
+   "timestamp": "p.6",
+   "quote": "NUMBERS OF PAKISTANI NATIONALS CONTINUE TO FLOW OVER THE PAKISTANI BORDER WITH AFGHANISTAN TO JOIN THE TALIBAN."
+  },
+  {
+   "source": "Jamiat-i-Ulema Islam (JUI-F)",
+   "target": "Taliban",
+   "type": "allied_with",
+   "detail": "Eight JUI-F members were killed fighting in Afghanistan; JUI(F) is cited among Pakistani extremists fighting in the Taliban's war.",
+   "date": "1998-09-07",
+   "confidence": "inferred",
+   "timestamp": "p.7",
+   "quote": "ALL EIGHT OF THE PAKISTANIS WERE SAID TO BE MEMBERS OF THE PAKISTANI EXTREMIST GROUP JAMIAT-I-ULEMA ISLAM (JUI-F)"
+  },
+  {
+   "source": "The Muslim",
+   "target": "Jamiat-i-Ulema Islam (JUI-F)",
+   "type": "other",
+   "detail": "The Muslim newspaper reported that the eight dead Pakistanis were JUI-F members.",
+   "date": "1998-09-07",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "THE PAKISTANI ISLAMIST NEWSPAPER \"THE MUSLIM\" REPORTED ON SEPTEMBER 7 THAT THE BODIES OF EIGHT PAKISTANI NATIONALS"
+  },
+  {
+   "source": "United Nations",
+   "target": "Taliban",
+   "type": "other",
+   "detail": "The UN is unsure whether the Taliban will control their extremist allies, after a UN official was shot in Kabul.",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "THE UN JUST DOES NOT HAVE A HANDLE ON WHETHER THE TALIBAN ARE WILLING TO CONTROL THEIR EXTREMIST ALLIES"
+  },
+  {
+   "source": "United Nations",
+   "target": "Khost",
+   "type": "other",
+   "detail": "The UN is weighing whether it is safe to send expatriates back after the Khost strikes.",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "WEIGHING WHETHER IT IS SAFE TO SEND SOME OF ITS EXPATRIATES BACK THERE FOR THE FIRST TIME SINCE THE KHOST STRIKES"
+  }
+ ],
+ "sources_cited": [
+  "Islamabad 6709 (Ref A)",
+  "Islamabad 6360 (Ref B)",
+  "Islamabad 5964 (Ref C)",
+  "The Muslim newspaper, 7 Sept 1998",
+  "Redacted sources of Poloff (UN national employees, Afghan resistance commander, Afghan moderate, journalist)"
+ ],
+ "key_claims": [
+  "Arab and Pakistani extremists reportedly left Khost after the 20 August 1998 US strikes.",
+  "Bin Ladin reportedly stays in Kandahar, kept under watch by Mullah Omar and the Taliban.",
+  "Unconfirmed reports implicate SSP volunteers in the execution of 11 Iranian officials at Mazar-i-Sharif.",
+  "Rumors link HUM to the UN expatriate killing in Kabul, though the Taliban said the attackers were Pakistanis arrested in Kandahar.",
+  "Pakistani volunteers continue to cross at Torkham and Chaman; 20-40 percent of Taliban forces may be Pakistani.",
+  "Eight JUI-F members killed in Afghanistan were returned to Pakistan for burial.",
+  "The UN doubts the Taliban are willing to control their extremist allies."
+ ]
+}

@@ -1,0 +1,283 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc42-1999-01-08-title-excised-claim-that-bin-ladin-postponed-hijac",
+  "title": "[Title Excised], Claim that Bin Ladin Postponed Hijacking",
+  "authors": "Central Intelligence Agency",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "1999-01-08",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7xbr-uusml/1999-01-08-title-excised-claim-that-bin-ladin.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 3,
+  "kind": "intelligence report",
+  "note": "CIA intelligence report on a claim that bin Laden postponed the hijacking. Cited in 9/11 Commission Report Chapter 4, Endnote 113.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 42",
+  "relevance": "medium",
+  "ocr": 1
+ },
+ "persons": [],
+ "organizations": [
+  {
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Originator of the 8 January 1999 information report; the report is marked as not finally evaluated intelligence."
+  },
+  {
+   "name": "White House Situation Room",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Immediate addressee of the report."
+  },
+  {
+   "name": "Department of State",
+   "aliases": [
+    "SECSTATE"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Addressee (SECSTATE WASHDC)."
+  },
+  {
+   "name": "Defense Intelligence Agency",
+   "aliases": [
+    "DIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Addressee."
+  },
+  {
+   "name": "National Security Agency",
+   "aliases": [
+    "NSA",
+    "DIRNSA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Addressee (DIRNSA)."
+  },
+  {
+   "name": "Federal Bureau of Investigation",
+   "aliases": [
+    "FBI"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Addressee."
+  },
+  {
+   "name": "Secret Service",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Addressee."
+  },
+  {
+   "name": "Department of Justice",
+   "aliases": [
+    "DOJ",
+    "OIPR"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Addressee (Office of Intelligence Policy and Review)."
+  },
+  {
+   "name": "Department of Transportation",
+   "aliases": [
+    "DOT"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Addressee."
+  },
+  {
+   "name": "Federal Aviation Administration",
+   "aliases": [
+    "FAA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Addressee (FAA National HQ)."
+  }
+ ],
+ "places": [
+  {
+   "name": "United States",
+   "type": "country",
+   "country": "United States",
+   "parent": "",
+   "significance": "Location of the hijacking operation that the report says was stalled."
+  }
+ ],
+ "events": [
+  {
+   "date": "1999-01-08",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA issued an information report, not finally evaluated, to the White House and other agencies. The report states that a hijacking operation in the United States was stalled after confirmation of the arrest of two persons involved. The rest of the text is excised.",
+   "place": "United States",
+   "actors": [
+    "Central Intelligence Agency"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1999-01-08",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA issued an unevaluated intelligence information report, disseminated to the White House Situation Room, State, DIA, NSA, Secret Service, FBI, DOJ, DOT and FAA, saying a hijacking operation in the US was stalled.",
+   "place": "Washington DC",
+   "actors": [
+    "Central Intelligence Agency",
+    "White House Situation Room",
+    "Department of State",
+    "Defense Intelligence Agency",
+    "National Security Agency",
+    "Secret Service",
+    "Federal Bureau of Investigation",
+    "Department of Justice",
+    "Department of Transportation",
+    "Federal Aviation Administration"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "approx 1999-01",
+   "date_precision": "approx",
+   "type": "arrest",
+   "description": "Arrest of two persons involved in a planned hijacking operation in the United States was confirmed; the operation was reported stalled as a result. The persons' names are redacted and the exact date is not given.",
+   "place": "United States",
+   "actors": [
+    "Central Intelligence Agency"
+   ],
+   "timestamp": "p.2"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Central Intelligence Agency",
+   "target": "White House Situation Room",
+   "type": "other",
+   "detail": "CIA addressed the information report to the White House Situation Room with IMMEDIATE precedence.",
+   "date": "1999-01-08",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "IMMEDIATE WHITE HOUSE SITUATION ROOM;. SECSTATE WASHDC,"
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "Department of State",
+   "type": "other",
+   "detail": "CIA addressed the report to the Secretary of State (SECSTATE).",
+   "date": "1999-01-08",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "IMMEDIATE WHITE HOUSE SITUATION ROOM;. SECSTATE WASHDC,"
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "Defense Intelligence Agency",
+   "type": "other",
+   "detail": "CIA addressed the report to DIA.",
+   "date": "1999-01-08",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "DIA WASHINGTON DC, DA AMHS WASHINGTON pC, PNI WASHINGTON DC,"
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "National Security Agency",
+   "type": "other",
+   "detail": "CIA addressed the report to the Director of NSA (DIRNSA).",
+   "date": "1999-01-08",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "DIRNSA, SECRET SERVICE, FEDERAL BUREAU OF INVESTIGATION,"
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "Secret Service",
+   "type": "other",
+   "detail": "CIA addressed the report to the Secret Service.",
+   "date": "1999-01-08",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "DIRNSA, SECRET SERVICE, FEDERAL BUREAU OF INVESTIGATION,"
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "Federal Bureau of Investigation",
+   "type": "other",
+   "detail": "CIA addressed the report to the FBI.",
+   "date": "1999-01-08",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "SECRET SERVICE, FEDERAL BUREAU OF INVESTIGATION,"
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "Department of Justice",
+   "type": "other",
+   "detail": "CIA addressed the report to the Department of Justice (OIPR).",
+   "date": "1999-01-08",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "DEPARTMENT OF JUSTICE WASH DC//OIPR//"
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "Department of Transportation",
+   "type": "other",
+   "detail": "CIA addressed the report to the Department of Transportation.",
+   "date": "1999-01-08",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "DEPT OF. TRANSPORTATION, FAA NATIONAL HQ,"
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "Federal Aviation Administration",
+   "type": "other",
+   "detail": "CIA addressed the report to FAA National Headquarters.",
+   "date": "1999-01-08",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "FAA NATIONAL HQ, USCINCTRANS INTEL CEN"
+  }
+ ],
+ "sources_cited": [
+  "CIA information report dated 8 January 1999 (heavily redacted; source excised)"
+ ],
+ "key_claims": [
+  "A CIA report of 8 January 1999 says a hijacking operation in the United States was stalled after confirmation that two people involved had been arrested.",
+  "The title indicates the report claims Bin Ladin postponed the hijacking, but the text in this chunk does not name him because of redaction.",
+  "The report was distributed to the White House Situation Room, State, DIA, NSA, FBI, FAA, DOT and other agencies.",
+  "The report is marked as an information report, not finally evaluated intelligence."
+ ]
+}

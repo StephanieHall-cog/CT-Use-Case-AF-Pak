@@ -1,0 +1,205 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc73-2001-03-23-afghanistan-taliban-holding-firm-on-bin-ladin-for",
+  "title": "Afghanistan: Taliban Holding Firm on Bin Ladin for Now",
+  "authors": "Central Intelligence Agency (Senior Executive Intelligence Brief)",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "2001-03-23",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7xgb-ivxcp/2001-03-23-afghanistan-taliban-holding-firm-on.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 1,
+  "kind": "briefing",
+  "note": "Senior Executive Intelligence Brief on the Taliban's stance toward Bin Ladin. Cited in 9/11 Commission Report, Chapter 11, Endnote 5, p. 342.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 73",
+  "relevance": "high",
+  "ocr": 0
+ },
+ "persons": [
+  {
+   "name": "Usama Bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Usama bin Laden"
+   ],
+   "role": "Guest of the Taliban in Afghanistan; source of money and fighters for the Taliban's civil war",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "Status as of March 2001; the brief states he remains in Afghanistan despite UN sanctions",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "The Taliban leadership is allowing Usama Bin Ladin to remain in Afghanistan despite UN sanctions"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Taliban",
+   "aliases": [],
+   "type": "political movement",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Leadership refuses to surrender Bin Ladin. It needs his money and fighters for its civil war and cites the Pashtun tribal code of protecting guests."
+  },
+  {
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Author of the Senior Executive Intelligence Brief; its analysts assess when the Taliban might surrender Bin Ladin."
+  },
+  {
+   "name": "United Nations",
+   "aliases": [
+    "UN"
+   ],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Imposed sanctions meant to persuade the Taliban to give up Bin Ladin."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Location where the Taliban allow Bin Ladin to remain; site of the Taliban civil war."
+  },
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Home of Pakistani supporters of the Taliban, whose backlash the Taliban want to avoid."
+  }
+ ],
+ "events": [
+  {
+   "date": "2001-03-23",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA Senior Executive Intelligence Brief assessing that the Taliban are holding firm on Bin Ladin despite UN sanctions.",
+   "place": "",
+   "actors": [
+    "Central Intelligence Agency",
+    "Taliban",
+    "Usama Bin Ladin"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-03-23",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA Senior Executive Intelligence Brief assessing that the Taliban is holding firm on sheltering Bin Ladin despite UN sanctions.",
+   "place": "Afghanistan",
+   "actors": [
+    "Central Intelligence Agency",
+    "Taliban",
+    "Usama Bin Ladin",
+    "United Nations"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Usama Bin Ladin",
+   "target": "Taliban",
+   "type": "hosted_by",
+   "detail": "The Taliban leadership allows Bin Ladin to remain in Afghanistan and cites the Pashtun code of protecting guests.",
+   "date": "2001-03",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "The Taliban leadership is allowing Usama Bin Ladin to remain in Afghanistan"
+  },
+  {
+   "source": "Taliban",
+   "target": "Usama Bin Ladin",
+   "type": "funded_by",
+   "detail": "The Taliban need Bin Ladin's money and fighters to wage their civil war.",
+   "date": "2001-03",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "it needs Bin Ladin's money and fighters to wage its civil war"
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "Taliban",
+   "type": "sheltered_by",
+   "detail": "The Taliban leadership allows Bin Ladin to remain in Afghanistan despite UN sanctions.",
+   "date": "2001-03",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "The Taliban leadership is allowing Usama Bin Ladin to remain in Afghanistan despite _UN sanctions"
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Bin Ladin remains in Afghanistan under Taliban protection.",
+   "date": "2001-03",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "allowing Usama Bin Ladin to remain in Afghanistan"
+  },
+  {
+   "source": "Taliban",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "The Taliban is waging a civil war and seeks victory in Afghanistan.",
+   "date": "2001-03",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Taliban victory in Afghanistan"
+  },
+  {
+   "source": "United Nations",
+   "target": "Taliban",
+   "type": "other",
+   "detail": "UN sanctions aimed at persuading the Taliban to give up Bin Ladin.",
+   "date": "2001-03",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "UN sanctions aimed at persuading the group to give him up"
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "Taliban",
+   "type": "other",
+   "detail": "CIA analysts assess that Taliban leaders would surrender Bin Ladin only after a Taliban victory and in exchange for diplomatic recognition and reconstruction aid.",
+   "date": "2001-03-23",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "CIA analysts judge that Taliban leaders would surrender Bin Ladin only after a Taliban victory"
+  }
+ ],
+ "sources_cited": [
+  "CIA Senior Executive Intelligence Brief, 23 March 2001"
+ ],
+ "key_claims": [
+  "The Taliban leadership allows Bin Ladin to stay in Afghanistan despite UN sanctions.",
+  "The Taliban need Bin Ladin's money and fighters for their civil war.",
+  "Taliban leaders cite the Pashtun tribal code of protecting guests as a reason to shelter him.",
+  "CIA analysts judge the Taliban would surrender Bin Ladin only after a victory in Afghanistan and in exchange for diplomatic recognition and reconstruction aid.",
+  "The Taliban would deny any deal to save face and avoid backlash from Afghan and Pakistani supporters and from Arabs sympathetic to Bin Ladin."
+ ]
+}

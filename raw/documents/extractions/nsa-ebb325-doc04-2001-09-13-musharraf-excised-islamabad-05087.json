@@ -1,0 +1,499 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb325-doc04-2001-09-13-musharraf-excised-islamabad-05087",
+  "title": "Musharraf [EXCISED] (Islamabad 05087)",
+  "authors": "U.S. Embassy Islamabad",
+  "publisher": "National Security Archive (GWU), \"No-Go\" Tribal Areas Became Basis for Afghan Insurgency Documents Show",
+  "published": "2001-09-13",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB325/doc04.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB325/index.htm",
+  "pages": 7,
+  "kind": "cable",
+  "note": "[Secret - Noforn] Two days after 9/11, Ambassador Wendy Chamberlin bluntly tells Musharraf that the attacks changed the fundamentals of the debate. There was absolutely no inclination in Washington to enter into a dialogue with the Taliban, and the time for dialogue ended September 11. She says the Taliban are harboring the terrorists responsible for the attacks.",
+  "collection": "NSAEBB325",
+  "doc_number": "Document 4",
+  "relevance": "high",
+  "ocr": 7
+ },
+ "persons": [
+  {
+   "name": "Pervez Musharraf",
+   "aliases": [
+    "President Musharraf"
+   ],
+   "role": "President of Pakistan",
+   "organizations": [],
+   "nationality_or_origin": "Pakistani",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Islamabad"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "PRESIDENT MUSHARRAF INVITED HER INTO A PRIVATE MEETING FOLLOWING THE FIVE-AMBASSADOR CEREMONY."
+    }
+   ]
+  },
+  {
+   "name": "Wendy Chamberlin",
+   "aliases": [
+    "Ambassador Chamberlin"
+   ],
+   "role": "U.S. Ambassador to Pakistan, presenting credentials",
+   "organizations": [
+    "U.S. Embassy Islamabad"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Islamabad"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "AMBASSADOR PRESENTED HER CREDENTIALS JUST BEFORE NOON ON THURSDAY, SEPTEMBER 13."
+    }
+   ]
+  },
+  {
+   "name": "Inam ul Haque",
+   "aliases": [
+    "Inam ul Haque"
+   ],
+   "role": "Pakistani Foreign Secretary",
+   "organizations": [],
+   "nationality_or_origin": "Pakistani",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Islamabad"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "FOREIGN SECRETARY INAM UL HAQUE, MILITARY SECRETARY TO THE PRESIDENT BRIG. NADEEM TAJ"
+    }
+   ]
+  },
+  {
+   "name": "Nadeem Taj",
+   "aliases": [
+    "Brig. Nadeem Taj"
+   ],
+   "role": "Military Secretary to the President (Brigadier)",
+   "organizations": [],
+   "nationality_or_origin": "Pakistani",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Islamabad"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "MILITARY SECRETARY TO THE PRESIDENT BRIG. NADEEM TAJ, AND DCM (NOTETAKER) ALSO ATTENDED."
+    }
+   ]
+  },
+  {
+   "name": "George W. Bush",
+   "aliases": [
+    "President Bush"
+   ],
+   "role": "U.S. President",
+   "organizations": [],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.3",
+     "quote": "PRESIDENT BUSH WAS, IN FACT, REFERRING TO THE TALIBAN IN HIS SPEECH PROMISING TO GO AFTER THOSE WHO HARBORED TERRORISTS."
+    }
+   ]
+  },
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "UBL"
+   ],
+   "role": "Al-Qa'ida leader, suspected of the September 11 attacks",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.4",
+     "quote": "WE WERE FAIRLY SURE AS TO WHO WAS GUILTY: UBL AND HIS AL QAIDA NETWORK OF TERRORISTS."
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Taliban",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "US believed it harbored the terrorists responsible for 9/11."
+  },
+  {
+   "name": "al-Qa'ida",
+   "aliases": [
+    "al-Qaeda",
+    "Al Qaida"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Named as the likely culprit for 9/11."
+  },
+  {
+   "name": "U.S. Embassy Islamabad",
+   "aliases": [
+    "AMEMBASSY ISLAMABAD"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Author of the cable."
+  },
+  {
+   "name": "NATO",
+   "aliases": [],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Cited as having assured support."
+  },
+  {
+   "name": "United Nations",
+   "aliases": [
+    "UN"
+   ],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Cited as having assured support."
+  },
+  {
+   "name": "U.S. Congress",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Cited as having assured support."
+  }
+ ],
+ "places": [
+  {
+   "name": "Islamabad",
+   "type": "city",
+   "country": "Pakistan",
+   "parent": "Pakistan",
+   "significance": "Location of the meeting and credentials ceremony."
+  },
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Implied Taliban base; not named in the visible text."
+  }
+ ],
+ "events": [
+  {
+   "date": "2001-09-13",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "Forty-minute private meeting between Musharraf and Amb. Chamberlin after the credentials ceremony; the US said there was no inclination to dialogue with the Taliban.",
+   "place": "Islamabad",
+   "actors": [
+    "Pervez Musharraf",
+    "Wendy Chamberlin",
+    "Inam ul Haque",
+    "Nadeem Taj"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "2001-09-13",
+   "date_precision": "day",
+   "type": "other",
+   "description": "Ambassador presented her credentials in a five-ambassador ceremony.",
+   "place": "Islamabad",
+   "actors": [
+    "Wendy Chamberlin",
+    "Pervez Musharraf"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "2001-09-11",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "September 11 attacks, which the US blamed on UBL and al-Qa'ida.",
+   "place": "",
+   "actors": [
+    "Usama bin Ladin",
+    "al-Qa'ida"
+   ],
+   "timestamp": "p.4"
+  },
+  {
+   "date": "2001-09-11",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "September 11 attacks, attributed by the U.S. to UBL and al-Qaida.",
+   "place": "United States",
+   "actors": [
+    "Usama bin Ladin",
+    "al-Qa'ida"
+   ],
+   "timestamp": "p.4"
+  },
+  {
+   "date": "2001-09-13",
+   "date_precision": "day",
+   "type": "appointment",
+   "description": "Ambassador Chamberlin presented credentials just before noon in a five-ambassador ceremony.",
+   "place": "Islamabad",
+   "actors": [
+    "Wendy Chamberlin",
+    "Pervez Musharraf"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "2001-09-13",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "Forty-minute private meeting between Musharraf and Ambassador Chamberlin, attended by Inam ul Haque, Nadeem Taj and the DCM; Ambassador said time for dialogue with the Taliban was over and the U.S. believed UBL/al-Qaida guilty.",
+   "place": "Islamabad",
+   "actors": [
+    "Pervez Musharraf",
+    "Wendy Chamberlin",
+    "Inam ul Haque",
+    "Nadeem Taj"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "2001-09-13",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Ambassador told Musharraf that Washington was putting the building blocks of the action plan in place.",
+   "place": "Islamabad",
+   "actors": [
+    "Wendy Chamberlin",
+    "Pervez Musharraf"
+   ],
+   "timestamp": "p.5"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Taliban",
+   "target": "al-Qa'ida",
+   "type": "sheltered_by",
+   "detail": "Reverse: the US believed the Taliban harbored the 9/11 terrorists.",
+   "date": "2001-09",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "WE BELIEVED STRONGLY THAT THE TALIBAN ARE HARBORING THE TERRORISTS RESPONSIBLE FOR THE SEPTEMBER 11 ATTACKS."
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "al-Qa'ida",
+   "type": "leads",
+   "detail": "UBL and his al-Qa'ida network were held guilty.",
+   "date": "2001-09",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "UBL AND HIS AL QAIDA NETWORK OF TERRORISTS."
+  },
+  {
+   "source": "Wendy Chamberlin",
+   "target": "Pervez Musharraf",
+   "type": "met_with",
+   "detail": "Ambassador met Musharraf privately after credentials presentation.",
+   "date": "2001-09-13",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "PRESIDENT MUSHARRAF INVITED HER INTO A PRIVATE MEETING"
+  },
+  {
+   "source": "Inam ul Haque",
+   "target": "Pervez Musharraf",
+   "type": "met_with",
+   "detail": "Attended the meeting.",
+   "date": "2001-09-13",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "FOREIGN SECRETARY INAM UL HAQUE, MILITARY SECRETARY TO THE PRESIDENT BRIG. NADEEM TAJ"
+  },
+  {
+   "source": "Nadeem Taj",
+   "target": "Pervez Musharraf",
+   "type": "reports_to",
+   "detail": "Military Secretary to the President.",
+   "date": "2001-09-13",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "MILITARY SECRETARY TO THE PRESIDENT BRIG. NADEEM TAJ"
+  },
+  {
+   "source": "Nadeem Taj",
+   "target": "Pervez Musharraf",
+   "type": "met_with",
+   "detail": "Brig. Nadeem Taj, Military Secretary to the President, attended the meeting.",
+   "date": "2001-09-13",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "MILITARY SECRETARY TO THE PRESIDENT BRIG. NADEEM TAJ, AND DCM (NOTETAKER) ALSO ATTENDED."
+  },
+  {
+   "source": "Nadeem Taj",
+   "target": "Pervez Musharraf",
+   "type": "reports_to",
+   "detail": "Taj served as Military Secretary to the President.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "MILITARY SECRETARY TO THE PRESIDENT BRIG. NADEEM TAJ"
+  },
+  {
+   "source": "Wendy Chamberlin",
+   "target": "U.S. Embassy Islamabad",
+   "type": "leads",
+   "detail": "Chamberlin is the U.S. Ambassador, classifying and signing the cable from the Embassy.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "CLASSIFIED BY AMBASSADOR WENDY CHAMBERLIN"
+  },
+  {
+   "source": "U.S. Embassy Islamabad",
+   "target": "Islamabad",
+   "type": "located_in",
+   "detail": "The cable originates from the Embassy in Islamabad.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "FM AMEMBASSY ISLAMABAD"
+  },
+  {
+   "source": "Taliban",
+   "target": "al-Qa'ida",
+   "type": "sheltered_by",
+   "detail": "The U.S. believed the Taliban harbored the terrorists responsible for 9/11 (recipient of shelter is bin Ladin/al-Qa'ida, provider is Taliban); expressed here as the Taliban hosting them.",
+   "date": "2001-09-13",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "WE BELIEVED STRONGLY THAT THE TALIBAN ARE HARBORING THE TERRORISTS RESPONSIBLE FOR THE SEPTEMBER 11 ATTACKS."
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Taliban",
+   "type": "sheltered_by",
+   "detail": "U.S. believed the Taliban harbored the terrorists responsible, identified as UBL and al-Qaida.",
+   "date": "2001-09-13",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "THE TALIBAN ARE HARBORING THE TERRORISTS RESPONSIBLE FOR THE SEPTEMBER 11 ATTACKS."
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "al-Qa'ida",
+   "type": "leads",
+   "detail": "UBL and his al-Qaida network named as guilty for 9/11.",
+   "confidence": "inferred",
+   "timestamp": "p.4",
+   "quote": "UBL AND HIS AL QAIDA NETWORK OF TERRORISTS."
+  },
+  {
+   "source": "George W. Bush",
+   "target": "Taliban",
+   "type": "rival_of",
+   "detail": "Bush's speech promised to go after those who harbored terrorists, which the Ambassador said referred to the Taliban.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "PRESIDENT BUSH WAS, IN FACT, REFERRING TO THE TALIBAN IN HIS SPEECH PROMISING TO GO AFTER THOSE WHO HARBORED TERRORISTS."
+  },
+  {
+   "source": "Wendy Chamberlin",
+   "target": "Taliban",
+   "type": "rival_of",
+   "detail": "Ambassador stated there was no inclination in Washington to dialogue with the Taliban.",
+   "date": "2001-09-13",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "ABSOLUTELY NO INCLINATION IN WASHINGTON TO ENTER INTO A DIALOG WITH THE TALIBAN."
+  },
+  {
+   "source": "NATO",
+   "target": "Pervez Musharraf",
+   "type": "other",
+   "detail": "Ambassador cited NATO support for action against the terrorists as context to press Musharraf.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "THE AMBASSADOR NOTED THAT NATO, THE UNITED NATIONS, THE U.S. CONGRESS HAD ALREADY ASSURED SUPPORT"
+  },
+  {
+   "source": "United Nations",
+   "target": "U.S. Embassy Islamabad",
+   "type": "allied_with",
+   "detail": "UN assured support for action against the 9/11 terrorists, per the Ambassador.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "NATO, THE UNITED NATIONS, THE U.S. CONGRESS HAD ALREADY ASSURED SUPPORT -- INCLUDING LOGISTICAL SUPPORT"
+  },
+  {
+   "source": "U.S. Congress",
+   "target": "U.S. Embassy Islamabad",
+   "type": "allied_with",
+   "detail": "Congress assured support for action against the terrorists.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "THE U.S. CONGRESS HAD ALREADY ASSURED SUPPORT"
+  }
+ ],
+ "sources_cited": [
+  "STATE 157813 (NODIS)",
+  "ISLAMABAD 5047 (NODIS)"
+ ],
+ "key_claims": [
+  "The US Ambassador told Musharraf the 9/11 attacks changed the fundamentals of debate.",
+  "The US had no inclination to engage in dialogue with the Taliban after 9/11.",
+  "The US believed the Taliban were harboring those responsible for 9/11.",
+  "The US considered UBL and al-Qa'ida the likely culprits.",
+  "The US stated that NATO, UN and Congress had pledged support, including logistical, for action."
+ ]
+}

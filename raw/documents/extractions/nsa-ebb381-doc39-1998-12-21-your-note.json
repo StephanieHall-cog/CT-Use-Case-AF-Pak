@@ -1,0 +1,191 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc39-1998-12-21-your-note",
+  "title": "your note",
+  "authors": "CIA (Michael F. Scheuer to [Excised], likely Gary Schroen)",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "1998-12-21",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7x7g-tbo1k/1998-12-21-your-note-note-for-excised-from.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 1,
+  "kind": "memo",
+  "note": "CIA email note from Michael F. Scheuer to [Excised]. Cited in 9/11 Commission Report as \"Mike to [Gary] Schroen\" (Chapter 4, Endnote 119).",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 39",
+  "relevance": "high",
+  "ocr": 0
+ },
+ "persons": [
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "UBL",
+    "Usama bin Laden"
+   ],
+   "role": "al-Qa'ida leader; target of US government deliberations about a strike",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "you and your officers have put ubl in this gov't's sights and they have-~lked each time at doing the job"
+    },
+    {
+     "timestamp": "p.1",
+     "quote": "what bin ladin calls the \"mu~lim li-~ql people.\""
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA",
+    "CTC",
+    "Counterterrorist Center"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [
+    "al-Qa'ida"
+   ],
+   "country_base": "United States",
+   "notes": "The note originates from the CTC (header reads 'CTC/TF'). CIA officers repeatedly put UBL in the US government's sights, but policymakers did not act. Document's author is Michael F. Scheuer."
+  },
+  {
+   "name": "al-Qa'ida",
+   "aliases": [
+    "al-Qaeda"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [
+    "Central Intelligence Agency"
+   ],
+   "country_base": "",
+   "notes": "Implied by the references to UBL (bin Ladin). The organization is not named in this chunk."
+  }
+ ],
+ "places": [
+  {
+   "name": "Habash mosque",
+   "type": "other",
+   "country": "",
+   "parent": "",
+   "significance": "Policymakers worried that stray shrapnel might hit it and 'offend' Muslims. Location not stated and OCR is uncertain."
+  },
+  {
+   "name": "Langley",
+   "type": "other",
+   "country": "United States",
+   "parent": "Virginia",
+   "significance": "Site of the 'out-of-langley deliberations' that the author criticizes."
+  }
+ ],
+ "events": [
+  {
+   "date": "1998-12-20",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "US policymakers deliberated about acting against UBL but did not act on the night before the note. The author says this is the third time they balked at 'doing the job'.",
+   "place": "",
+   "actors": [
+    "Central Intelligence Agency",
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998-12-21",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "The note was sent. It laments policymakers' reluctance to act against UBL and their concern for a mosque, despite four days of bombardment.",
+   "place": "",
+   "actors": [
+    "Central Intelligence Agency"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998-12-20",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "US policymakers declined to act on an opportunity to target bin Ladin, which was the third time CIA officers had put him in the government's sights. The author expects they will regret not acting. The date is inferred from 'last night' in a note sent 21 Dec 1998.",
+   "place": "Langley",
+   "actors": [
+    "Usama bin Ladin",
+    "Central Intelligence Agency"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998-12-21",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Michael Scheuer of CTC sent a note to a recipient whose name is excised (likely Gary Schroen), criticizing policymakers for hesitating over a strike on bin Ladin.",
+   "place": "Langley",
+   "actors": [
+    "Central Intelligence Agency"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998-12",
+   "date_precision": "approx",
+   "type": "strike",
+   "description": "The US bombed Muslim Iraqis for four days (inferred from the garbled 'li-~ql people'). Bin Ladin cited the bombing in his rhetoric, and the author contrasts it with policymakers' worry about the mosque.",
+   "place": "Iraq",
+   "actors": [
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Central Intelligence Agency",
+   "target": "Usama bin Ladin",
+   "type": "other",
+   "detail": "CIA officers repeatedly put UBL in the government's sights for a possible strike, but policymakers did not act.",
+   "date": "1998-12",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "this is the third tima you and your officers have put ubl in this gov't's sights"
+  },
+  {
+   "source": "Habash mosque",
+   "target": "Usama bin Ladin",
+   "type": "other",
+   "detail": "Policymakers worried that stray shrapnel from a strike on bin Ladin might hit the Habash mosque, which contributed to the decision not to act. The mosque's link to the target is inferred.",
+   "date": "1998-12-20",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "worrying that some stray shrapnel might hit the habash mosque and \"offend\" Muslims"
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "Langley",
+   "type": "located_in",
+   "detail": "The deliberations on whether to act against bin Ladin are described as taking place at Langley, CIA headquarters.",
+   "date": "1998-12",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "such a sense of unreality ln these out-of-langley deliberations"
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "By 21 December 1998 CIA officers had, on three occasions, put UBL in US government sights, but policymakers backed away each time.",
+  "Policymakers worried about collateral damage to a mosque, while the same government had just spent four days bombarding what bin Ladin calls the 'Muslim ... people'.",
+  "The author suggests policymakers wanted others to do what the US government would not do, but the relevant OCR text is garbled."
+ ]
+}

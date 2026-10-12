@@ -1,0 +1,234 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb253-doc04-1998-08-28-bin-ladin-s-jihad-political-context",
+  "title": "Bin Ladin's Jihad: Political Context",
+  "authors": "U.S. Department of State, Bureau of Intelligence and Research (INR)",
+  "publisher": "National Security Archive (GWU), 1998 Missile Strikes on Bin Laden May Have Backfired",
+  "published": "1998-08-28",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB253/19980828a.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB253/index.htm",
+  "pages": 2,
+  "kind": "intelligence report",
+  "note": "[Confidential] Intelligence assessment of the political context behind bin Laden's terrorism. It concludes his extremism has found fertile ground in the Arab world, where perceptions of U.S. policies breed feelings of injustice and victimization. Few Arabs endorse his terrorism but many share some of his political sentiments.",
+  "collection": "NSAEBB253",
+  "doc_number": "Document 4",
+  "relevance": "high",
+  "ocr": 2
+ },
+ "persons": [
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Usama bin Laden",
+    "Bin Ladin"
+   ],
+   "role": "Leader of a terrorist campaign (jihad) against the United States, per INR assessment",
+   "organizations": [],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Saudi Arabia",
+    "Gulf",
+    "Middle East"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Usama bin Ladin has launched his war against the United States at a time when US fortunes in the Middle East generally are at a low ebb."
+    },
+    {
+     "timestamp": "p.1",
+     "quote": "Bin Ladin, though on the violent fringe, is not alone in detesting US policies and rejecting the US presence."
+    }
+   ]
+  },
+  {
+   "name": "Yasser Arafat",
+   "aliases": [
+    "Chairman Arafat"
+   ],
+   "role": "Palestinian leader (Chairman), mentioned as a figure for whom many Arabs care little",
+   "organizations": [],
+   "nationality_or_origin": "Palestinian",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "many Arabs, especially in the Arabian Peninsula, who otherwise care little for Chairman Arafat or the Palestinians"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "US Department of State, Bureau of Intelligence and Research",
+   "aliases": [
+    "INR"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Author of the intelligence assessment dated 28 Aug 1998."
+  }
+ ],
+ "places": [
+  {
+   "name": "Saudi Arabia",
+   "type": "country",
+   "country": "Saudi Arabia",
+   "parent": "",
+   "significance": "Site of US military presence after the Gulf war; mainstream religious leaders voice criticisms similar to bin Ladin's."
+  },
+  {
+   "name": "Gulf",
+   "type": "region",
+   "country": "",
+   "parent": "Middle East",
+   "significance": "Region of increased US strategic and military domination after the Gulf war."
+  },
+  {
+   "name": "Middle East",
+   "type": "region",
+   "country": "",
+   "parent": "",
+   "significance": "Region where US fortunes are described as at a low ebb."
+  },
+  {
+   "name": "Iraq",
+   "type": "country",
+   "country": "Iraq",
+   "parent": "",
+   "significance": "Subject of sanctions that fuel Arab antipathy to the US."
+  },
+  {
+   "name": "Libya",
+   "type": "country",
+   "country": "Libya",
+   "parent": "",
+   "significance": "Subject of sanctions that fuel Arab antipathy to the US."
+  },
+  {
+   "name": "Israel",
+   "type": "country",
+   "country": "Israel",
+   "parent": "",
+   "significance": "Perceived favored by US policy; basis of the 'double standard' argument."
+  },
+  {
+   "name": "Jerusalem",
+   "type": "city",
+   "country": "Israel",
+   "parent": "",
+   "significance": "Israeli unilateral actions over its status are a sore point for many Arabs."
+  },
+  {
+   "name": "Kenya",
+   "type": "country",
+   "country": "Kenya",
+   "parent": "",
+   "significance": "Site of East African bombings; cross-referenced INR brief."
+  },
+  {
+   "name": "Iran",
+   "type": "country",
+   "country": "Iran",
+   "parent": "",
+   "significance": "Referenced in an INR brief on Iran/Afghanistan border buildup."
+  },
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Referenced in an INR brief on Iran/Afghanistan border buildup."
+  }
+ ],
+ "events": [
+  {
+   "date": "1998-08-28",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "INR issues intelligence assessment 'Bin Ladin's Jihad: Political Context'.",
+   "place": "",
+   "actors": [
+    "US Department of State, Bureau of Intelligence and Research"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998-08",
+   "date_precision": "month",
+   "type": "attack",
+   "description": "East African embassy bombings, referenced as 'the East African bombs', prompting Arab media commentary blaming US policies.",
+   "place": "Kenya",
+   "actors": [
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1998-08-28",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "INR issues intelligence assessment 'Bin Ladin's Jihad: Political Context', analyzing Arab public sympathy for bin Ladin's anti-US war; companion briefs on Kenya, Iraq and Iran/Afghanistan border buildup issued the same day.",
+   "place": "Washington, DC",
+   "actors": [
+    "US Department of State, Bureau of Intelligence and Research",
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998",
+   "date_precision": "year",
+   "type": "attack",
+   "description": "East African embassy bombings referenced; media commentary after them argued such atrocities would not happen if US ceased unpopular policies.",
+   "place": "Kenya",
+   "actors": [
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.2"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Usama bin Ladin",
+   "target": "Saudi Arabia",
+   "type": "other",
+   "detail": "Bin Ladin's terrorism is characterized as rejecting increased US strategic and military domination of the Middle East, especially Saudi Arabia and the Gulf; Saudi religious leaders voice similar criticism of the US without violence.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "In Saudi Arabia, senior mainstream religious leaders have voiced criticisms of the United States in language very similar to that used by bin Ladin--without, however, the calls for violence."
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Middle East",
+   "type": "other",
+   "detail": "Bin Ladin launched his war against the United States at a time when US fortunes in the Middle East were at a low ebb.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Usama bin Ladin has launched his war against the United States at a time when US fortunes in the Middle East generally are at a low ebb."
+  }
+ ],
+ "sources_cited": [
+  "INR Brief on Kenya (August 28, 1998)",
+  "INR Brief on Iraq (August 28, 1998)",
+  "INR Brief 'Iran/Afghanistan: Border Buildup (U)' (August 28, 1998)"
+ ],
+ "key_claims": [
+  "Bin Ladin's terrorism is an extreme rejection of increased US strategic and military domination of the Middle East after the Gulf war.",
+  "Much of the moderate Arab public sees bin Ladin's violence as an understandable though extreme response to perceived US hostility.",
+  "Mainstream Saudi religious leaders voice criticisms of the US similar to bin Ladin's, without calling for violence.",
+  "The Arab 'double standard' argument over sanctions on Iraq and Libya versus Israel is central to perceptions of the US as hostile.",
+  "Few Arabs endorse bin Ladin's terrorism, but many share some of his political sentiments."
+ ]
+}

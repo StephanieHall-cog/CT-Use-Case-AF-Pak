@@ -1,0 +1,336 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc10-1996-12-19-terrorism-activities-and-functions-of-the-islamic",
+  "title": "Terrorism: Activities and Functions of the Islamic Army's Military Committee, and Political and Sharia Committee; Process of Approving Terrorist Operations",
+  "authors": "CIA",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "1996-12-19",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7wuu-jeagl/1996-12-19-terrorism-activities-and-functions-of.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 5,
+  "kind": "intelligence report",
+  "note": "CIA Intelligence Report on the activities of the Islamic Army's Military Committee and Political and Sharia Committee, and how terrorist operations are approved. Source: 9/11 Commission Report, Chapter 4, Endnote 3.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 10",
+  "relevance": "high",
+  "ocr": 0
+ },
+ "persons": [
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Usama bin Laden",
+    "Bin Ladin"
+   ],
+   "role": "Leader of the Islamic Army; final approver of major operations recommended by the Military Committee",
+   "organizations": [
+    "Islamic Army"
+   ],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Sudan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "MAINTAINING USAMA ((BIN LADIN))'S MILITARY ESTABLISHMENT"
+    },
+    {
+     "timestamp": "p.2",
+     "quote": "THE COMMITTEE... MAKES RECOMMENDATIONS TO BIN LADIN, WHO IN TURN MAKES THE MAJOR"
+    }
+   ]
+  },
+  {
+   "name": "Abu 'Ubayda al-Banshiri",
+   "aliases": [
+    "Abu Ubaidah al-Banshiri",
+    "Abu 'Ubayda al-Panshiri",
+    "Abu Ubayda al-Banshiri"
+   ],
+   "role": "Head of the Islamic Army's Military Committee (as of early 1996, per the cable's text)",
+   "organizations": [
+    "Islamic Army"
+   ],
+   "nationality_or_origin": "",
+   "status": "dead",
+   "status_detail": "Press reporting from June 1996 said he was killed in the May 1995 ferry disaster on Lake Victoria in Tanzania",
+   "family": [],
+   "locations": [
+    "Lake Victoria",
+    "Tanzania"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "THE COMMITTEE, HEADED BY ABU 'UBAYDA AL-((BANSHIRI)), MAKES RECOMMENDATIONS TO BIN LADIN"
+    },
+    {
+     "timestamp": "p.2",
+     "quote": "ACCORDING TO PRESS REPORTING FROM JUNE 1996, WAS KILLED"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Islamic Army",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Sudan",
+   "notes": "Bin Ladin's military establishment; has a Military Committee, a Political and Sharia Committee, and a Shura Council that considers sponsored operations and policies."
+  },
+  {
+   "name": "Islamic Army Military Committee",
+   "aliases": [
+    "Military Committee"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Islamic Army"
+   ],
+   "rivals": [],
+   "country_base": "Sudan",
+   "notes": "As of early 1996, its main function was military and operational planning and maintaining Bin Ladin's military establishment."
+  },
+  {
+   "name": "Islamic Army Political and Sharia Committee",
+   "aliases": [
+    "Political and Sharia Committee"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Islamic Army"
+   ],
+   "rivals": [],
+   "country_base": "Sudan",
+   "notes": "As of early 1996, responsible for issuing fatwas."
+  },
+  {
+   "name": "Shura Council",
+   "aliases": [
+    "Islamic Army Shura Council"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Islamic Army"
+   ],
+   "rivals": [],
+   "country_base": "Sudan",
+   "notes": "Operations or policy issues sponsored by the Islamic Army are brought before it."
+  }
+ ],
+ "places": [
+  {
+   "name": "Sudan",
+   "type": "country",
+   "country": "Sudan",
+   "parent": "",
+   "significance": "Country designation of the cable."
+  },
+  {
+   "name": "Lake Victoria",
+   "type": "region",
+   "country": "Tanzania",
+   "parent": "Tanzania",
+   "significance": "Site of the May 1995 ferry disaster in which Abu 'Ubayda al-Banshiri was reportedly killed."
+  },
+  {
+   "name": "Tanzania",
+   "type": "country",
+   "country": "Tanzania",
+   "parent": "",
+   "significance": "Location of the ferry disaster."
+  }
+ ],
+ "events": [
+  {
+   "date": "1995-05",
+   "date_precision": "month",
+   "type": "death",
+   "description": "Ferry disaster on Lake Victoria in which Abu 'Ubayda al-Banshiri was reportedly killed (per June 1996 press reporting).",
+   "place": "Lake Victoria",
+   "actors": [
+    "Abu 'Ubayda al-Banshiri"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1996-12-19",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA cable on the Islamic Army's Military Committee, Political and Sharia Committee and the approval process for terrorist operations.",
+   "place": "",
+   "actors": [
+    "CIA",
+    "Islamic Army"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1995-05",
+   "date_precision": "month",
+   "type": "death",
+   "description": "Abu 'Ubayda al-Banshiri was reportedly killed in a ferry disaster on Lake Victoria; the date is given as May 1995 in garbled text.",
+   "place": "Lake Victoria, Tanzania",
+   "actors": [
+    "Abu 'Ubayda al-Banshiri"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1996-06",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Press reporting from June 1996 said al-Banshiri was killed in the ferry disaster.",
+   "place": "",
+   "actors": [
+    "Abu 'Ubayda al-Banshiri"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1996-12-19",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA message on the activities of the Islamic Army's Military Committee and Political and Sharia Committee, and on the process of approving terrorist operations.",
+   "place": "Sudan",
+   "actors": [
+    "Islamic Army",
+    "Islamic Army Military Committee",
+    "Islamic Army Political and Sharia Committee"
+   ],
+   "timestamp": "p.2"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Abu 'Ubayda al-Banshiri",
+   "target": "Islamic Army Military Committee",
+   "type": "leads",
+   "detail": "The Military Committee was headed by Abu 'Ubayda al-Banshiri.",
+   "date": "early 1996",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "THE COMMITTEE, HEADED BY ABU 'UBAYDA AL-((BANSHIRI))"
+  },
+  {
+   "source": "Islamic Army Military Committee",
+   "target": "Usama bin Ladin",
+   "type": "reports_to",
+   "detail": "The committee makes recommendations to Bin Ladin, who makes the major decisions.",
+   "date": "early 1996",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "MAKES RECOMMENDATIONS TO BIN LADIN, WHO IN TURN MAKES THE MAJOR"
+  },
+  {
+   "source": "Islamic Army Military Committee",
+   "target": "Islamic Army",
+   "type": "member_of",
+   "detail": "Committee within the Islamic Army.",
+   "date": "early 1996",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "THE ISLAMIC ARMY'S MILITARY COMMITTEE"
+  },
+  {
+   "source": "Islamic Army Political and Sharia Committee",
+   "target": "Islamic Army",
+   "type": "member_of",
+   "detail": "Committee within the Islamic Army.",
+   "date": "early 1996",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "THE POLITICAL AND SHARIA COMMITTEE WAS RESPONSIBLE FOR ISSUING FATWAS"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Islamic Army",
+   "type": "leads",
+   "detail": "The Military Committee maintains Bin Ladin's military establishment, the Islamic Army.",
+   "date": "early 1996",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "MAINTAINING USAMA ((BIN LADIN))'S MILITARY ESTABLISHMENT"
+  },
+  {
+   "source": "Islamic Army Military Committee",
+   "target": "Usama bin Ladin",
+   "type": "other",
+   "detail": "The committee's main function was military/operational planning and maintaining bin Ladin's military establishment.",
+   "date": "early 1996",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "MAIN FUNCTION OF THE ISLAMIC ARMY'S MILITARY COMMITTEE WAS MILITARY/OPERATIONAL PLANNING AND MAINTAINING USAMA ((BIN LADIN))'S MILITARY ESTABLISHMENT."
+  },
+  {
+   "source": "Islamic Army Political and Sharia Committee",
+   "target": "Shura Council",
+   "type": "other",
+   "detail": "Islamic Army-sponsored operations or policy issues are brought before the Shura Council; the text is garbled, so the committee's role in the process is unclear.",
+   "date": "early 1996",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "WHEN AN ISLAMIC ARMY-SPONSORED OPERATION OR POLICY ISSUE IS PROPOSED, THE SUBJECT IS BROUGHT BEFORE THE SHURA COUNCIL."
+  },
+  {
+   "source": "Islamic Army",
+   "target": "Shura Council",
+   "type": "other",
+   "detail": "Proposed operations or policy issues of the Islamic Army go to the Shura Council for consideration.",
+   "date": "early 1996",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "THE SUBJECT IS BROUGHT BEFORE THE SHURA COUNCIL."
+  },
+  {
+   "source": "Islamic Army",
+   "target": "Sudan",
+   "type": "located_in",
+   "detail": "The report is filed under country Sudan, which suggests the Islamic Army was active there.",
+   "date": "1996",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "COUNTRY: SUDAN"
+  },
+  {
+   "source": "Abu 'Ubayda al-Banshiri",
+   "target": "Lake Victoria",
+   "type": "other",
+   "detail": "Press reporting says he was killed in a ferry disaster on Lake Victoria.",
+   "date": "1996-06",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "WAS KILLED MAY 1995 FERRY DISASTER ON LAKE VICTORIA IN TANZANIA"
+  },
+  {
+   "source": "Lake Victoria",
+   "target": "Tanzania",
+   "type": "located_in",
+   "detail": "The ferry disaster occurred on Lake Victoria in Tanzania.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "FERRY DISASTER ON LAKE VICTORIA IN TANZANIA"
+  }
+ ],
+ "sources_cited": [
+  "Press reporting from June 1996 on the Lake Victoria ferry disaster"
+ ],
+ "key_claims": [
+  "As of early 1996 the Islamic Army's Military Committee handled military and operational planning and maintained Bin Ladin's military establishment.",
+  "The Military Committee, headed by Abu 'Ubayda al-Banshiri, made recommendations to Bin Ladin, who made the major decisions.",
+  "June 1996 press reporting said al-Banshiri was killed in the May 1995 Lake Victoria ferry disaster in Tanzania, which conflicts with the cable's early-1996 description of him as head.",
+  "The Political and Sharia Committee was responsible for issuing fatwas.",
+  "Proposed Islamic Army operations or policies go before the Shura Council."
+ ]
+}

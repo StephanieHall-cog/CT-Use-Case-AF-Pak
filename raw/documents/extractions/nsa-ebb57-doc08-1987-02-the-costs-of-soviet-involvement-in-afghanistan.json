@@ -1,0 +1,1503 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb57-doc08-1987-02-the-costs-of-soviet-involvement-in-afghanistan",
+  "title": "The Costs of Soviet Involvement in Afghanistan",
+  "authors": "CIA, Directorate of Intelligence",
+  "publisher": "National Security Archive (GWU), Afghanistan: Lessons from the Last War",
+  "published": "1987-02",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB57/us8.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB57/us.html",
+  "pages": 23,
+  "kind": "intelligence report",
+  "note": "Major CIA study examining all aspects of Russian involvement in Afghanistan and detailing costs, concluding they had grown steadily and would likely continue to rise but probably would not change Soviet larger purposes.",
+  "collection": "NSAEBB57",
+  "doc_number": "Document 8",
+  "relevance": "medium",
+  "ocr": 23
+ },
+ "persons": [
+  {
+   "name": "Mikhail Gorbachev",
+   "aliases": [
+    "Gorbachev"
+   ],
+   "role": "General Secretary of the Soviet Communist Party",
+   "organizations": [
+    "Communist Party of the Soviet Union",
+    "Soviet Union"
+   ],
+   "nationality_or_origin": "Soviet",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Soviet Union"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "General Secretary Gorbachev referred to the war as a “bleeding wound.”"
+    }
+   ]
+  },
+  {
+   "name": "Babrak Karmal",
+   "aliases": [
+    "Babrack Karmal"
+   ],
+   "role": "Soviet-installed head of the Kabul regime after the December 1979 invasion",
+   "organizations": [
+    "Afghan Government (Soviet-installed)"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Kabul",
+    "Afghanistan"
+   ],
+   "is_presenter_or_graph": false,
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.8",
+     "quote": "the accession of a more moderate regime in Kabul under Babrak Karmal, coupled with the Soviet military presence, would intimidate the insurgents"
+    }
+   ]
+  },
+  {
+   "name": "Gorbachev",
+   "aliases": [
+    "Mikhail Gorbachev"
+   ],
+   "role": "General Secretary of the Soviet Communist Party",
+   "organizations": [
+    "Soviet Union"
+   ],
+   "nationality_or_origin": "Soviet",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.18",
+     "quote": "Gorbachev on 28 July, for example, announced a decision to withdraw six regiments from Afghanistan"
+    },
+    {
+     "timestamp": "p.18",
+     "quote": "General Secretary Gorbachev referred to the Afghanistan war as a \"bleeding wound,\""
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Soviet Union",
+   "aliases": [
+    "USSR",
+    "Moscow"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Afghan Government (Soviet-installed)",
+    "Democratic Republic of Afghanistan"
+   ],
+   "rivals": [
+    "Mujahedin",
+    "Afghan insurgents",
+    "Afghan resistance"
+   ],
+   "country_base": "USSR",
+   "notes": "Invaded Afghanistan in December 1979; about 120,000 troops in country by mid-1986 (80,000 in 1980)."
+  },
+  {
+   "name": "Communist Party of the Soviet Union",
+   "aliases": [
+    "Soviet party congress"
+   ],
+   "type": "political movement",
+   "parent_or_allies": [
+    "Soviet Union"
+   ],
+   "rivals": [],
+   "country_base": "USSR",
+   "notes": "Party congress held February 1986 at which Gorbachev called the war a 'bleeding wound'."
+  },
+  {
+   "name": "CIA Directorate of Intelligence",
+   "aliases": [
+    "Office of Soviet Analysis",
+    "SOVA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "CIA"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Author of this assessment (SOV 87-10007, February 1987)."
+  },
+  {
+   "name": "Afghan Government (Soviet-installed)",
+   "aliases": [
+    "Kabul regime"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Soviet Union"
+   ],
+   "rivals": [
+    "Mujahedin"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Marxist regime dependent on Soviet support. Pays for most Soviet arms and some economic aid with natural gas transfers (aid worth 3.5 billion rubles)."
+  },
+  {
+   "name": "Afghan army",
+   "aliases": [
+    "Afghan military"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "Afghan Government (Soviet-installed)",
+    "Soviet Union",
+    "Democratic Republic of Afghanistan"
+   ],
+   "rivals": [
+    "Mujahedin",
+    "Afghan insurgents"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Described as incapable of quelling the resistance; Soviets increasingly turning the combat burden over to it in 1986."
+  },
+  {
+   "name": "Mujahedin",
+   "aliases": [
+    "insurgents",
+    "resistance",
+    "Mujahideen"
+   ],
+   "type": "militia",
+   "parent_or_allies": [],
+   "rivals": [
+    "Soviet Union",
+    "Afghan Government (Soviet-installed)"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Resistance that has grown in numbers, effectiveness and popular support; better armed by 1986."
+  },
+  {
+   "name": "Turkestan Military District",
+   "aliases": [
+    "Turkestan MD"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "Soviet Union",
+    "Soviet military"
+   ],
+   "rivals": [],
+   "country_base": "USSR",
+   "notes": "Soviet personnel there supporting the fighting full-time were estimated to have grown from 20,000 to 40,000 in 1980-86."
+  },
+  {
+   "name": "United Nations",
+   "aliases": [
+    "UN"
+   ],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Soviet involvement has led to periodic censure within the UN."
+  },
+  {
+   "name": "Soviet military",
+   "aliases": [
+    "Soviet forces",
+    "Soviet Air Forces",
+    "Soviet ground forces"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "Democratic Republic of Afghanistan"
+   ],
+   "rivals": [
+    "Afghan insurgents"
+   ],
+   "country_base": "USSR",
+   "notes": "Fought in Afghanistan from December 1979. Costs, losses and expenditures are assessed in this chunk."
+  },
+  {
+   "name": "Democratic Republic of Afghanistan",
+   "aliases": [
+    "DRA",
+    "Kabul government"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Soviet Union"
+   ],
+   "rivals": [
+    "Afghan insurgents"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Pays for its arms imports and about one-third of its economic aid, largely through sales of natural gas to the USSR."
+  },
+  {
+   "name": "Afghan insurgents",
+   "aliases": [
+    "resistance groups",
+    "insurgents"
+   ],
+   "type": "militia",
+   "parent_or_allies": [],
+   "rivals": [
+    "Soviet military",
+    "Democratic Republic of Afghanistan"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Improving capabilities for downing Soviet and Afghan aircraft."
+  },
+  {
+   "name": "Soviet advisory group",
+   "aliases": [
+    "military advisory group"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "Soviet military"
+   ],
+   "rivals": [],
+   "country_base": "USSR",
+   "notes": "Its personnel costs are included in the estimate."
+  },
+  {
+   "name": "Soviet air forces",
+   "aliases": [
+    "Soviet Air Force"
+   ],
+   "type": "military",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "USSR",
+   "notes": "Appendix B explains how its POL and ammunition usage in Afghanistan was estimated, by aircraft type and mission."
+  },
+  {
+   "name": "Afghan resistance",
+   "aliases": [],
+   "type": "militia",
+   "parent_or_allies": [],
+   "rivals": [
+    "Soviet Union"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Described on p.19 as better armed."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Site of the Soviet invasion and occupation, 1979 onward."
+  },
+  {
+   "name": "Kabul",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Seat of the Soviet-installed regime under Babrak Karmal."
+  },
+  {
+   "name": "Soviet Union",
+   "type": "country",
+   "country": "USSR",
+   "parent": "",
+   "significance": "Supply lines to Afghanistan are short; support personnel are based in the Turkestan MD."
+  },
+  {
+   "name": "Turkestan Military District",
+   "type": "region",
+   "country": "USSR",
+   "parent": "Soviet Union",
+   "significance": "Rear support area for the war."
+  },
+  {
+   "name": "Southeast Asia",
+   "type": "region",
+   "country": "Vietnam",
+   "parent": "",
+   "significance": "Cost comparison: the US spent nearly $330 billion in 1964-76 on its involvement there."
+  },
+  {
+   "name": "Bayram airfield",
+   "aliases": [
+    "Bagram"
+   ],
+   "type": "base",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "In July 1986 an estimated 3,000 metric tons of ammunition was lost in an explosion at a supply dump here."
+  },
+  {
+   "name": "Amu Darya",
+   "type": "other",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "A new bridge over the river was built to support Soviet military logistics."
+  }
+ ],
+ "events": [
+  {
+   "date": "1979-12",
+   "date_precision": "month",
+   "type": "offensive",
+   "description": "Soviet invasion of Afghanistan to support a beleaguered Marxist government; Babrak Karmal's regime installed.",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet Union",
+    "Babrak Karmal"
+   ],
+   "timestamp": "p.8"
+  },
+  {
+   "date": "1986-02",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "At the party congress, Gorbachev called the Afghan war a 'bleeding wound'.",
+   "place": "Soviet Union",
+   "actors": [
+    "Mikhail Gorbachev",
+    "Communist Party of the Soviet Union"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1986",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Soviet ground forces combat activity substantially reduced as combat burden turned over to the Afghan army; air activity increased.",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet Union",
+    "Afghan army"
+   ],
+   "timestamp": "p.12"
+  },
+  {
+   "date": "1985",
+   "date_precision": "year",
+   "type": "other",
+   "description": "First squadron of Su-25 ground attack aircraft appeared in Afghanistan.",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet Union"
+   ],
+   "timestamp": "p.9"
+  },
+  {
+   "date": "1979-12",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Start of the period over which Soviet war costs of about 15 billion rubles through December 1986 are estimated.",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet military"
+   ],
+   "timestamp": "p.12"
+  },
+  {
+   "date": "1986-07",
+   "date_precision": "month",
+   "type": "other",
+   "description": "An estimated 3,000 metric tons of ammunition was lost in an explosion at a supply dump at Bayram airfield.",
+   "place": "Bayram airfield",
+   "actors": [
+    "Soviet military"
+   ],
+   "timestamp": "p.13"
+  },
+  {
+   "date": "1986-07-28",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Gorbachev announced the withdrawal of six regiments from Afghanistan, which the CIA calls a sham; net withdrawal was fewer than 2,000 troops.",
+   "place": "Afghanistan",
+   "actors": [
+    "Gorbachev",
+    "Soviet military"
+   ],
+   "timestamp": "p.18"
+  },
+  {
+   "date": "1986-02",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "At the party congress Gorbachev called the Afghanistan war a \"bleeding wound.\"",
+   "place": "",
+   "actors": [
+    "Gorbachev"
+   ],
+   "timestamp": "p.18"
+  },
+  {
+   "date": "1986",
+   "date_precision": "year",
+   "type": "other",
+   "description": "The CIA cites a sham Soviet 'withdrawal' as evidence that Moscow was unwilling to make even minor concessions affecting its military effort.",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet Union"
+   ],
+   "timestamp": "p.19"
+  },
+  {
+   "date": "1979-12",
+   "date_precision": "month",
+   "type": "offensive",
+   "description": "Soviet invasion of Afghanistan.",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet Union"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1986-02",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Gorbachev at the party congress called the Afghan war a 'bleeding wound'.",
+   "place": "Soviet Union",
+   "actors": [
+    "Mikhail Gorbachev",
+    "Communist Party of the Soviet Union"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1980",
+   "date_precision": "year",
+   "type": "other",
+   "detail": "",
+   "description": "Soviet manpower in Afghanistan stood at about 80,000, rising to about 120,000 by 1986.",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet military"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1984-1985",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Soviets may have lost more than 300 aircraft from all causes, nearly 90 percent helicopters.",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet air forces"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1986",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Substantial reduction in Soviet ground combat activity as Afghan army took on more combat burden.",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet military",
+    "Afghan army"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1987-02",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "CIA Directorate of Intelligence published assessment of costs of Soviet involvement in Afghanistan.",
+   "place": "",
+   "actors": [
+    "CIA Directorate of Intelligence"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1986-02",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "At the party congress Gorbachev called the Afghanistan war a \"bleeding wound,\" the starkest Soviet description yet.",
+   "place": "Soviet Union",
+   "actors": [
+    "Gorbachev",
+    "Communist Party of the Soviet Union"
+   ],
+   "timestamp": "p.18"
+  },
+  {
+   "date": "1986-07-28",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Gorbachev announced withdrawal of six regiments from Afghanistan (7,000-8,000 troops); the net withdrawal was fewer than 2,000, a sham.",
+   "place": "Afghanistan",
+   "actors": [
+    "Gorbachev",
+    "Soviet military"
+   ],
+   "timestamp": "p.18"
+  },
+  {
+   "date": "1979/1986",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Soviet economic deliveries to the DRA since 1979 total about 1.5 billion rubles.",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet Union",
+    "Democratic Republic of Afghanistan"
+   ],
+   "timestamp": "p.18"
+  },
+  {
+   "date": "approx 1986",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Construction of seven new airfields, a new Amu Darya bridge, two oil pipelines and Kabul airport expansion supporting Soviet logistics.",
+   "place": "Afghanistan",
+   "actors": [
+    "Democratic Republic of Afghanistan",
+    "Soviet military"
+   ],
+   "timestamp": "p.18"
+  },
+  {
+   "date": "1980-1986",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Soviet construction spending in Afghanistan totaled 350 million rubles, 60% in first three years; included 375 km oil pipeline with 46 pumping stations, Kabul power plant, runways.",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet military"
+   ],
+   "timestamp": "p.16"
+  },
+  {
+   "date": "1986-07-28",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Gorbachev announced withdrawal of six regiments from Afghanistan (7,000-8,000 troops); net withdrawn fewer than 2,000, called a sham.",
+   "place": "Soviet Union",
+   "actors": [
+    "Mikhail Gorbachev",
+    "Soviet military"
+   ],
+   "timestamp": "p.18"
+  },
+  {
+   "date": "1986-02",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Gorbachev at the party congress called the Afghan war a \"bleeding wound.\"",
+   "place": "Soviet Union",
+   "actors": [
+    "Mikhail Gorbachev",
+    "Communist Party of the Soviet Union"
+   ],
+   "timestamp": "p.18"
+  },
+  {
+   "date": "1980-1986",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Soviet POL use rose from 360,000 to over 650,000 metric tons; MiG-21 replaced by Su-17/Su-25 with rising costs.",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet air forces"
+   ],
+   "timestamp": "p.17"
+  },
+  {
+   "date": "approx 1986",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Airfields in Afghanistan being upgraded; seven new airfields, Kabul airport expansion, new Amu Darya bridge and pipelines built with DRA funds.",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet military",
+    "Democratic Republic of Afghanistan"
+   ],
+   "timestamp": "p.18"
+  },
+  {
+   "date": "1979-12",
+   "date_precision": "month",
+   "type": "offensive",
+   "detail": "",
+   "description": "Soviet invasion of Afghanistan to support the Marxist government.",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet Union",
+    "Afghan Government (Soviet-installed)"
+   ],
+   "timestamp": "p.8"
+  },
+  {
+   "date": "1980-06",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Approximately 80,000 Soviet troops in Afghanistan in mid-1980.",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet military"
+   ],
+   "timestamp": "p.8"
+  },
+  {
+   "date": "1986-06",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Soviet troop strength in Afghanistan increased to about 120,000.",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet military"
+   ],
+   "timestamp": "p.8"
+  },
+  {
+   "date": "1984-1985",
+   "date_precision": "approx",
+   "type": "strike",
+   "description": "Stepped-up Soviet air attacks on Mujahedin forces led to the greatest aircraft increase.",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet air forces",
+    "Mujahedin"
+   ],
+   "timestamp": "p.9"
+  },
+  {
+   "date": "1985",
+   "date_precision": "year",
+   "type": "other",
+   "description": "First squadron of SU-25 ground attack aircraft appeared in Afghanistan.",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet air forces"
+   ],
+   "timestamp": "p.9"
+  },
+  {
+   "date": "1980-1986",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Soviets suffered 30,000-35,000 casualties, a third of whom died.",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet military"
+   ],
+   "timestamp": "p.9"
+  },
+  {
+   "date": "1979-12",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Soviet invasion of Afghanistan; the start of the period over which the CIA estimates war costs.",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet Union"
+   ],
+   "timestamp": "p.12"
+  },
+  {
+   "date": "1983",
+   "date_precision": "year",
+   "type": "other",
+   "description": "The Soviets began relying much more heavily on air operations as a tactical option, causing a dramatic increase in air munitions use.",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet air forces"
+   ],
+   "timestamp": "p.13"
+  },
+  {
+   "date": "1984-85",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Longer range field guns and more self-propelled artillery were brought into Afghanistan, increasing ammunition expenditure.",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet military"
+   ],
+   "timestamp": "p.14"
+  },
+  {
+   "date": "1985",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Soviet aircraft in Afghanistan dropped more bombs than in the first three years of the conflict combined.",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet air forces"
+   ],
+   "timestamp": "p.13"
+  },
+  {
+   "date": "1986-07",
+   "date_precision": "month",
+   "type": "other",
+   "description": "An explosion at a supply dump at Bayram airfield destroyed an estimated 3,000 metric tons of ammunition.",
+   "place": "Bayram airfield",
+   "actors": [
+    "Soviet military"
+   ],
+   "timestamp": "p.13"
+  },
+  {
+   "date": "1986",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Soviet ground force combat activity was substantially reduced as more of the combat burden passed to the Afghan army.",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet military",
+    "Afghan army"
+   ],
+   "timestamp": "p.12"
+  },
+  {
+   "date": "1985",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Estimated Soviet ground munitions expenditure in Afghanistan of 60,418 metric tons for 1985.",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet military"
+   ],
+   "timestamp": "p.23"
+  },
+  {
+   "date": "1980",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Estimated Soviet ground munitions expenditure in Afghanistan of 43,274 metric tons for 1980.",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet military"
+   ],
+   "timestamp": "p.23"
+  },
+  {
+   "date": "1980",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Soviet motor transport vehicles in eastern Afghanistan averaged 29.9 km per day, and in the west 38.8 km per day, used to estimate POL consumption.",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet military"
+   ],
+   "timestamp": "p.23"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Mikhail Gorbachev",
+   "target": "Communist Party of the Soviet Union",
+   "type": "leads",
+   "detail": "Gorbachev was General Secretary of the Soviet party.",
+   "date": "1986",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "General Secretary Gorbachev referred to the war as a “bleeding wound.”"
+  },
+  {
+   "source": "Babrak Karmal",
+   "target": "Soviet Union",
+   "type": "other",
+   "detail": "Karmal's accession in Kabul accompanied the Soviet invasion; the Soviets hoped his regime plus their presence would intimidate the insurgents.",
+   "date": "1979-12",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "the accession of a more moderate regime in Kabul under Babrak Karmal, coupled with the Soviet military presence"
+  },
+  {
+   "source": "Afghan Government (Soviet-installed)",
+   "target": "Soviet Union",
+   "type": "funded_by",
+   "detail": "Afghan Government must pay for most arms and some economic aid from the USSR with natural gas transfers.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "The Afghan Government has been required to pay for most arms and some of the economic assistance it receives from the USSR with natural gas transfers."
+  },
+  {
+   "source": "Soviet Union",
+   "target": "Mujahedin",
+   "type": "rival_of",
+   "detail": "Soviet forces fought a guerrilla war against the insurgents.",
+   "date": "1979-1986",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "the Soviets find themselves bogged down in a guerrilla war"
+  },
+  {
+   "source": "Afghan army",
+   "target": "Soviet Union",
+   "type": "allied_with",
+   "detail": "Soviets sought to build up the Afghan army and shift combat burden to it.",
+   "date": "1986",
+   "confidence": "stated",
+   "timestamp": "p.12",
+   "quote": "Soviet policy of turning more of the combat burden over to the Afghan army"
+  },
+  {
+   "source": "Democratic Republic of Afghanistan",
+   "target": "Soviet Union",
+   "type": "funded_by",
+   "detail": "The USSR provided military and economic aid to the DRA, averaging 400-600 million rubles per year.",
+   "date": "1980-86",
+   "confidence": "stated",
+   "timestamp": "p.17",
+   "quote": "The value of military and economic aid deliveries from the USSR to the Democratic Republic of Afghanistan (DRA) has remained steady, averaging 400-600 million rubles per year"
+  },
+  {
+   "source": "Soviet military",
+   "target": "Afghan army",
+   "type": "allied_with",
+   "detail": "The Soviets are turning more of the combat burden over to the Afghan army.",
+   "date": "1986",
+   "confidence": "stated",
+   "timestamp": "p.12",
+   "quote": "Soviet policy of turning more of the combat burden over to the Afghan army."
+  },
+  {
+   "source": "Gorbachev",
+   "target": "Soviet Union",
+   "type": "leads",
+   "detail": "General Secretary of the Soviet Communist Party.",
+   "date": "1986",
+   "confidence": "stated",
+   "timestamp": "p.18",
+   "quote": "General Secretary Gorbachev referred to the Afghanistan war as a \"bleeding wound,\""
+  },
+  {
+   "source": "Soviet Union",
+   "target": "Afghan resistance",
+   "type": "rival_of",
+   "detail": "The Soviets are determined to deal with the better armed resistance while avoiding a quick-win gamble.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.19",
+   "quote": "continued determination to do what is necessary to deal with the better armed resistance"
+  },
+  {
+   "source": "Soviet Union",
+   "target": "Democratic Republic of Afghanistan",
+   "type": "allied_with",
+   "detail": "Soviet and DRA equipment holdings are treated together in the cost estimates.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.22",
+   "quote": "using known Soviet and Democratic Republic of Afghanistan equipment holdings and activity levels"
+  },
+  {
+   "source": "Mikhail Gorbachev",
+   "target": "Communist Party of the Soviet Union",
+   "type": "leads",
+   "detail": "Gorbachev is identified as General Secretary of the Soviet party and spoke at its congress.",
+   "date": "1986-02",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "party congress in February 1966 when General Secretary Gorbachev referred to the war as a “bleeding wound.”"
+  },
+  {
+   "source": "Soviet Union",
+   "target": "Afghanistan",
+   "type": "other",
+   "detail": "The USSR invaded and occupied Afghanistan in December 1979 and has fought a costly war there.",
+   "date": "1979-12",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "from their initial invasion in December 1979 through 1986 the Sovicts have spent abont #5 billion rubles on the conduct of the war"
+  },
+  {
+   "source": "Soviet Union",
+   "target": "United Nations",
+   "type": "other",
+   "detail": "Soviet involvement in Afghanistan drew periodic censure within the UN.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Soviet involvement in Afghanistan has fed to periodic censure within the United Nations"
+  },
+  {
+   "source": "Afghan Government (Soviet-installed)",
+   "target": "Soviet Union",
+   "type": "funded_by",
+   "detail": "The Afghan Government receives arms and economic assistance from the USSR, partly paid for with natural gas transfers.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "The Afghan Government has been required to pay for most arms and some of the economic assistance it receives from the USSR with natural gas transfers."
+  },
+  {
+   "source": "Afghan army",
+   "target": "Soviet military",
+   "type": "other",
+   "detail": "Soviet policy shifted more of the combat burden to the Afghan army in 1986.",
+   "date": "1986",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "Sovict policy of turning more of the combat burden over to the Afghan army."
+  },
+  {
+   "source": "Soviet military",
+   "target": "Afghan insurgents",
+   "type": "rival_of",
+   "detail": "Soviet forces, including helicopter-supported special forces, seek out and attack insurgent groups.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "Helicopters 2re being used more extensively in support of Soviet special forces to seck out and attack insurgent groups."
+  },
+  {
+   "source": "Soviet air forces",
+   "target": "Soviet military",
+   "type": "member_of",
+   "detail": "Soviet air operations and helicopters are part of the Soviet military force in Afghanistan.",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "Much of the rising cost of the war is traceable to increases in Soviet air operations and the resulting higher aircraft losses."
+  },
+  {
+   "source": "Soviet Union",
+   "target": "Afghan insurgents",
+   "type": "rival_of",
+   "detail": "Moscow is determined to counter a better armed insurgency.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "determination in Moscow to counter a better armed insurgency"
+  },
+  {
+   "source": "Soviet Union",
+   "target": "Democratic Republic of Afghanistan",
+   "type": "funded_by",
+   "detail": "The USSR has largely replaced Western lenders and donors in providing economic support to the DRA, so the DRA is funded by the USSR. Direction is recipient to provider.",
+   "date": "since 1979",
+   "confidence": "stated",
+   "timestamp": "p.18",
+   "quote": "the USSR has fargely replaced West- ern lenders and donors in providing economic support Although the withdrawal was a sham"
+  },
+  {
+   "source": "Democratic Republic of Afghanistan",
+   "target": "Soviet Union",
+   "type": "funded_by",
+   "detail": "Deliveries from the USSR since 1979 are estimated at approximately 1.5 billion rubles under a grant aid program.",
+   "date": "since 1979",
+   "confidence": "stated",
+   "timestamp": "p.18",
+   "quote": "Deliveries from the USSR since 1979 are estimated at approximately 1.5 billion rubles."
+  },
+  {
+   "source": "Soviet military",
+   "target": "Democratic Republic of Afghanistan",
+   "type": "other",
+   "detail": "DRA-funded economic development is designed to support Soviet military logistics, so the Soviets transfer part of the war burden to the DRA.",
+   "confidence": "stated",
+   "timestamp": "p.18",
+   "quote": "Much of the economic development that is being paid for by the DRA was designed to support Soviet military logistic requirements."
+  },
+  {
+   "source": "Democratic Republic of Afghanistan",
+   "target": "Soviet military",
+   "type": "funded_by",
+   "detail": "Military aid to Afghanistan is largely paid for by the DRA itself, not by the Soviets.",
+   "confidence": "stated",
+   "timestamp": "p.18",
+   "quote": "Military aid to Afghanistan is largely paid for by the DRA."
+  },
+  {
+   "source": "Amu Darya",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "A new bridge over the Amu Darya is among DRA-financed projects that support Soviet logistics.",
+   "confidence": "inferred",
+   "timestamp": "p.18",
+   "quote": "such projects as the new bridge over the Amu Darya, two oil-product pipelines"
+  },
+  {
+   "source": "Kabul",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Kabul airport is being expanded as part of the Soviet-supporting projects.",
+   "confidence": "inferred",
+   "timestamp": "p.18",
+   "quote": "expansion at Kabul airport, the construction of seven new airfields"
+  },
+  {
+   "source": "Soviet air forces",
+   "target": "Afghan army",
+   "type": "other",
+   "detail": "Increased Soviet airstrikes and artillery support are one way of helping the Afghan army get on its feet and cutting back direct Soviet ground operations.",
+   "confidence": "stated",
+   "timestamp": "p.18",
+   "quote": "helping the Afghan army to get on its feet and of cutting back on direct operations by Soviet ground troops."
+  },
+  {
+   "source": "Soviet military",
+   "target": "Afghan army",
+   "type": "other",
+   "detail": "The Soviets plan to turn more of the burden of ground operations over to the Afghan army as part of their disengagement strategy.",
+   "confidence": "stated",
+   "timestamp": "p.18",
+   "quote": "turning more of the burden of such operations over to the Afghan army."
+  },
+  {
+   "source": "Afghan insurgents",
+   "target": "Soviet air forces",
+   "type": "rival_of",
+   "detail": "Insurgents are marginally improving their capabilities to down Soviet and Afghan aircraft.",
+   "confidence": "stated",
+   "timestamp": "p.18",
+   "quote": "the insurgents are continuing to improve marginally their capabilities for downing Soviet and Afghan aircraft."
+  },
+  {
+   "source": "Gorbachev",
+   "target": "Soviet Union",
+   "type": "leads",
+   "detail": "Gorbachev, as General Secretary, led the Soviet Union and the CPSU and announced the troop withdrawal.",
+   "confidence": "inferred",
+   "timestamp": "p.18",
+   "quote": "General Secretary Gorbachev referred to the Afghanistan war as a \"bleeding wound,\""
+  },
+  {
+   "source": "Gorbachev",
+   "target": "Communist Party of the Soviet Union",
+   "type": "leads",
+   "detail": "Gorbachev is identified as General Secretary at the February 1986 party congress.",
+   "date": "1986-02",
+   "confidence": "stated",
+   "timestamp": "p.18",
+   "quote": "At the February 1986 party congress, General Secretary Gorbachev referred to the Afghanistan war"
+  },
+  {
+   "source": "Soviet Union",
+   "target": "Kabul",
+   "type": "other",
+   "detail": "The Soviets seek to establish in Kabul a stable pro-Communist regime that can rule without a large Soviet presence.",
+   "confidence": "stated",
+   "timestamp": "p.19",
+   "quote": "establishing in Kabul a pro- Communist regime that is stable and can rule the country without a large Soviet presence."
+  },
+  {
+   "source": "Turkestan Military District",
+   "target": "Soviet military",
+   "type": "member_of",
+   "detail": "Personnel in the Turkestan Military District support the Soviet war effort full-time and were used to estimate Soviet-based support manpower.",
+   "date": "1980",
+   "confidence": "stated",
+   "timestamp": "p.22",
+   "quote": "military personnel in the Turkestan Military District in 1980 working full-time in support of the war in Afghanistan."
+  },
+  {
+   "source": "Turkestan Military District",
+   "target": "Soviet Union",
+   "type": "located_in",
+   "detail": "The Turkestan Military District is part of the USSR.",
+   "confidence": "inferred",
+   "timestamp": "p.22",
+   "quote": "Estimates of manpower in the USSR supporting Soviet forces in Afghanistan"
+  },
+  {
+   "source": "Soviet military",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Soviet troops (80,000-120,000) were in Afghanistan over 1980-86, with construction of facilities there.",
+   "date": "1980-86",
+   "confidence": "stated",
+   "timestamp": "p.16",
+   "quote": "Soviet troops in country over the seven-year period (including those of the military advisory group)"
+  },
+  {
+   "source": "Soviet military",
+   "target": "Kabul",
+   "type": "located_in",
+   "detail": "Soviets built a small 12,000-kilowatt thermal-electric power plant in Kabul.",
+   "date": "1980-86",
+   "confidence": "stated",
+   "timestamp": "p.16",
+   "quote": "a small 12,000-kilowate thermal-clectric power plant in Kabul"
+  },
+  {
+   "source": "Soviet Union",
+   "target": "Democratic Republic of Afghanistan",
+   "type": "other",
+   "detail": "USSR delivers military and economic aid to the DRA, averaging 400-600 million rubles per year.",
+   "date": "1980-86",
+   "confidence": "stated",
+   "timestamp": "p.17",
+   "quote": "military and economic aid deliveries from the USSR to the Democratic Republic of Afghanistan (DRA) has remained steady, averaging 400-600 million rubles per year"
+  },
+  {
+   "source": "Democratic Republic of Afghanistan",
+   "target": "Soviet Union",
+   "type": "funded_by",
+   "detail": "DRA reportedly pays for its arms imports and one-third of its economic aid, mainly via natural gas sales; the USSR may provide ammunition and used equipment free.",
+   "confidence": "stated",
+   "timestamp": "p.17",
+   "quote": "the Afghan Government reportedly pays for its arms imports and about one-third of its economic aid from the USSR"
+  },
+  {
+   "source": "Afghan Government (Soviet-installed)",
+   "target": "Democratic Republic of Afghanistan",
+   "type": "other",
+   "detail": "The Afghan Government is the DRA that pays for Soviet aid.",
+   "confidence": "inferred",
+   "timestamp": "p.17",
+   "quote": "The DRA pays for its military and economic aid largely through the sale of its natural gas."
+  },
+  {
+   "source": "Soviet Union",
+   "target": "Afghanistan",
+   "type": "other",
+   "detail": "The Soviets take about 90 percent of Afghanistan's annual natural gas production, reducing its debt to the USSR by over $300 million a year.",
+   "confidence": "stated",
+   "timestamp": "p.17",
+   "quote": "The Soviets take about 90 percent of Afghanistan's annual production, which reduces its debt to the Soviet Union by more than $300 milion a year."
+  },
+  {
+   "source": "Afghan army",
+   "target": "Soviet Union",
+   "type": "funded_by",
+   "detail": "Afghan army equipment supplied by USSR, mostly ammunition, spare parts and some replacement equipment; less sophisticated than that for other clients.",
+   "confidence": "stated",
+   "timestamp": "p.17",
+   "quote": "Most arms deliveries consisted of ammunition, spare parts, and some replacement equipment."
+  },
+  {
+   "source": "Soviet Union",
+   "target": "Afghan army",
+   "type": "other",
+   "detail": "Soviets are unwilling to replace all lost Afghan equipment; APCs replaced by cheaper trucks due to poor Afghan army care of equipment.",
+   "confidence": "stated",
+   "timestamp": "p.17",
+   "quote": "armored pessonnel carriers have been replaced by tess expensive trucks, probably because of the Afghan army's relatively poor record of caring for its equipment"
+  },
+  {
+   "source": "Democratic Republic of Afghanistan",
+   "target": "Soviet Union",
+   "type": "funded_by",
+   "detail": "The USSR has largely replaced Western lenders and donors in providing economic support to the DRA (about 1.5 billion rubles since 1979).",
+   "date": "1979-86",
+   "confidence": "stated",
+   "timestamp": "p.18",
+   "quote": "the USSR has fargely replaced Western lenders and donors in providing economic support to the DRA"
+  },
+  {
+   "source": "Democratic Republic of Afghanistan",
+   "target": "Soviet military",
+   "type": "other",
+   "detail": "DRA-funded development projects were designed to support Soviet military logistics, transferring part of the war burden to the DRA.",
+   "confidence": "stated",
+   "timestamp": "p.18",
+   "quote": "Much of the economic development that is being peid for by the DRA was designed to support Sovict military logistic requirements."
+  },
+  {
+   "source": "Mikhail Gorbachev",
+   "target": "Soviet Union",
+   "type": "leads",
+   "detail": "Gorbachev is General Secretary of the Soviet party.",
+   "confidence": "stated",
+   "timestamp": "p.18",
+   "quote": "General Secictary Gorbacher referred to the Afghanistan war as a \"bleeding wound,\""
+  },
+  {
+   "source": "Soviet air forces",
+   "target": "Afghan army",
+   "type": "allied_with",
+   "detail": "Increased Soviet airstrikes and artillery support help the Afghan army stand on its feet and reduce Soviet ground operations.",
+   "confidence": "stated",
+   "timestamp": "p.18",
+   "quote": "Increased Soviet use of airstrikes—as well as artillery support—is one of several ways of helping the Afghan army to get on its fect"
+  },
+  {
+   "source": "Soviet military",
+   "target": "Afghan resistance",
+   "type": "rival_of",
+   "detail": "Soviet special forces and helicopters seek out and ambush resistance groups.",
+   "confidence": "stated",
+   "timestamp": "p.18",
+   "quote": "the Soviets' successful policy of seeking out and sometimes ambushing resistance groups"
+  },
+  {
+   "source": "Turkestan Military District",
+   "target": "Soviet military",
+   "type": "member_of",
+   "detail": "20,000-40,000 support personnel in the Turkestan Military District are counted in costs.",
+   "confidence": "stated",
+   "timestamp": "p.16",
+   "quote": "the estimated 20,000 to 40,000 suppart personne! in the Turkestan Military District"
+  },
+  {
+   "source": "Soviet Union",
+   "target": "Afghanistan",
+   "type": "other",
+   "detail": "The Soviet Union invaded Afghanistan in 1979 to support a beleaguered Marxist government.",
+   "date": "1979",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "the Soviet Union invaded Afghanistan to support a beleaguered Marxist government threatened by civil war and imminent collapse"
+  },
+  {
+   "source": "Soviet Union",
+   "target": "Afghan Government (Soviet-installed)",
+   "type": "allied_with",
+   "detail": "Moscow sought to ensure continuation of a pro-Soviet Communist regime in Afghanistan.",
+   "date": "1979",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "Moscow's basic goal was to ensure the continuation of a pro-Soviet Communist regime"
+  },
+  {
+   "source": "Babrak Karmal",
+   "target": "Afghan Government (Soviet-installed)",
+   "type": "leads",
+   "detail": "The Soviets hoped that the accession of a more moderate regime in Kabul under Babrak Karmal would intimidate insurgents.",
+   "date": "1979",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "the accession of a more moderate regime in Kabul under Babrak Karmal"
+  },
+  {
+   "source": "Afghan Government (Soviet-installed)",
+   "target": "Kabul",
+   "type": "located_in",
+   "detail": "The Soviet-installed regime is based in Kabul.",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "the Soviet-installed regime in Kabul remains weak and ineffective"
+  },
+  {
+   "source": "Afghan army",
+   "target": "Afghan Government (Soviet-installed)",
+   "type": "member_of",
+   "detail": "The Afghan military served the Soviet-installed regime.",
+   "confidence": "inferred",
+   "timestamp": "p.8",
+   "quote": "the Afghan military remains incapable of quelling a resistance"
+  },
+  {
+   "source": "Soviet military",
+   "target": "Mujahedin",
+   "type": "rival_of",
+   "detail": "Soviet forces fought the Afghan insurgents in a guerrilla war.",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "the Soviets find themselves bogged down in a guerrilla war"
+  },
+  {
+   "source": "Afghan resistance",
+   "target": "Mujahedin",
+   "type": "other",
+   "detail": "The resistance/insurgents grew in numbers, effectiveness, and popular support.",
+   "confidence": "inferred",
+   "timestamp": "p.8",
+   "quote": "a resistance that has grown substantially in numbers, effectiveness, and popular support"
+  },
+  {
+   "source": "Soviet military",
+   "target": "Turkestan Military District",
+   "type": "member_of",
+   "detail": "Military personnel in the Turkestan MD supported the fighting full-time in Afghanistan.",
+   "date": "1980",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "number of military personnel in the Turkestan MD in 1980 who were estimated to be engaged full-time in supporting the"
+  },
+  {
+   "source": "Soviet air forces",
+   "target": "Mujahedin",
+   "type": "rival_of",
+   "detail": "Stepped-up Soviet air attacks on Mujahedin forces in 1984 and 1985 increased aircraft totals.",
+   "date": "1984-1985",
+   "confidence": "stated",
+   "timestamp": "p.9",
+   "quote": "occurred in 1984 and 1985 as a result of stepped-up air attacks on Mujahedin forces"
+  },
+  {
+   "source": "Soviet air forces",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "The first squadron of SU-25s appeared in Afghanistan in 1985.",
+   "date": "1985",
+   "confidence": "stated",
+   "timestamp": "p.9",
+   "quote": "the first squadron of SU-25s—the Soviets' newest ground attack aircraft—appeared in Afghanistan"
+  },
+  {
+   "source": "Soviet military",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Roughly 120,000 Soviet troops were in Afghanistan by mid-1986.",
+   "date": "1986",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "By mid-1986 this figure had increased to about 120,000"
+  },
+  {
+   "source": "Soviet military",
+   "target": "Afghan insurgents",
+   "type": "rival_of",
+   "detail": "Soviet forces sought out and engaged insurgent groups and undermined their civilian base.",
+   "date": "1985",
+   "confidence": "stated",
+   "timestamp": "p.9",
+   "quote": "Actively seeking out and engaging insurgent groups rather than waiting for them to strike"
+  },
+  {
+   "source": "Soviet military",
+   "target": "Afghanistan",
+   "type": "other",
+   "detail": "The Soviets decided to withdraw all but one tank regiment from the country.",
+   "confidence": "stated",
+   "timestamp": "p.10",
+   "quote": "a result of the decision to withdraw all but one tank regiment from the country"
+  },
+  {
+   "source": "Soviet Union",
+   "target": "Afghanistan",
+   "type": "other",
+   "detail": "The CIA estimates the Soviets spent about 15 billion rubles directly conducting the war in Afghanistan from December 1979 to December 1986.",
+   "date": "1979-12 to 1986-12",
+   "confidence": "stated",
+   "timestamp": "p.12",
+   "quote": "from late December 1979 through December 1986, the Soviets spent about 15 billion subles on the direct conduct of the war"
+  },
+  {
+   "source": "Soviet military",
+   "target": "Afghan army",
+   "type": "other",
+   "detail": "Soviet policy in 1986 shifted more of the combat burden onto the Afghan army, reducing Soviet ground force combat activity.",
+   "date": "1986",
+   "confidence": "stated",
+   "timestamp": "p.12",
+   "quote": "Soviet policy of turning more of the combat burden over to the Afghan army"
+  },
+  {
+   "source": "Soviet air forces",
+   "target": "Afghanistan",
+   "type": "other",
+   "detail": "Increased air force activity and related expenditures more than offset the 1986 ground force cutback in ruble outlays.",
+   "date": "1986",
+   "confidence": "stated",
+   "timestamp": "p.12",
+   "quote": "the cutback hy the ground forces has been more than offset. by increased air forces activity and related expenditures"
+  },
+  {
+   "source": "Afghan insurgents",
+   "target": "Soviet air forces",
+   "type": "rival_of",
+   "detail": "Insurgents have difficulty tracking and destroying Soviet fighters, and the Soviets took countermeasures against growing insurgent capabilities.",
+   "date": "1980-85",
+   "confidence": "stated",
+   "timestamp": "p.14",
+   "quote": "the difficuliy the insurgents have in tracking and destroying Sovict fighters as well as the success of the countermeasures"
+  },
+  {
+   "source": "Afghan insurgents",
+   "target": "Soviet military",
+   "type": "rival_of",
+   "detail": "Most Soviet ground equipment losses occurred during insurgent attacks on convoys and perimeter patrols.",
+   "date": "1980-86",
+   "confidence": "inferred",
+   "timestamp": "p.14",
+   "quote": "Most equipment losszs occur during attacks on & -.voys and perimeter pa- trols."
+  },
+  {
+   "source": "Soviet military",
+   "target": "Bayram airfield",
+   "type": "located_in",
+   "detail": "The Soviets maintained a supply dump at Bayram airfield, where an ammunition explosion occurred in July 1986.",
+   "date": "1986-07",
+   "confidence": "stated",
+   "timestamp": "p.13",
+   "quote": "an estimated 3.000 metric tons of ammunition was lost in an explosion a1 2 supply dump at Bayram airfield."
+  },
+  {
+   "source": "Soviet air forces",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Estimates of POL and ammunition usage cover Soviet air forces operating in Afghanistan.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.22",
+   "quote": "Estimates of usage of POL and ammunition by the Soviet air forces in Afghanistan vary according to aircraft type, mission, and order of battle"
+  },
+  {
+   "source": "Soviet military",
+   "target": "Turkestan Military District",
+   "type": "other",
+   "detail": "Support manpower in the USSR was extrapolated from an estimate of military personnel in the Turkestan Military District working full-time in support of the war.",
+   "date": "1980",
+   "confidence": "stated",
+   "timestamp": "p.22",
+   "quote": "estimate of the number of military personnel in the Turkestan Military District in 1980 working full-time in support of the war in Afghanistan"
+  },
+  {
+   "source": "Turkestan Military District",
+   "target": "Soviet Union",
+   "type": "located_in",
+   "detail": "Support manpower for the Afghan war was located within the USSR, in the Turkestan Military District.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.22",
+   "quote": "Estimates of manpower in the USSR supporting Soviet forces in Afghanistan during the period 1980-86"
+  },
+  {
+   "source": "Soviet military",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Soviet ground combat personnel and forces were deployed in Afghanistan; the estimate used 1985 ground combat personnel there.",
+   "date": "1985",
+   "confidence": "stated",
+   "timestamp": "p.23",
+   "quote": "estimated number of Soviet ground combat personnel in Afghanistan in 1985"
+  },
+  {
+   "source": "Democratic Republic of Afghanistan",
+   "target": "Soviet military",
+   "type": "other",
+   "detail": "Soviet and DRA equipment holdings were used together to estimate types of equipment destroyed, though the two often cannot be distinguished.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.22",
+   "quote": "using known Soviet and Democratic Republic of Afghanistan equipment holdings and activity levels"
+  }
+ ],
+ "sources_cited": [
+  "DI Intelligence Assessment NESA 85-10084 / SOV 85-10081 (1985): The Soviet Invasion of Afghanistan: Five Years After"
+ ],
+ "key_claims": [
+  "The Soviets spent about 15 billion rubles on the conduct of the war from December 1979 through 1986, a modest share of defense spending.",
+  "Soviet troop strength rose gradually from about 80,000 in 1980 to about 120,000 in 1986, and the Soviets suffered an estimated 30,000-35,000 casualties, a third of whom died.",
+  "Rising costs are driven mainly by increased air operations and helicopter losses, with more than 300 aircraft lost in 1984-85, nearly 90 percent of them helicopters.",
+  "Soviet leaders privately concede that they miscalculated the difficulty and long-term costs of the war.",
+  "Economic cost is unlikely to force withdrawal; Moscow is willing to bear the burden rather than accept what would look like a defeat.",
+  "The Afghan army remains incapable of quelling the resistance, and the Soviet-installed Kabul regime remains weak.",
+  "The CIA estimates Soviet direct war costs from December 1979 through 1986 at about 15 billion rubles, or roughly $48 billion in 1984 US prices.",
+  "Afghan-related costs are only 2 to 2.5 percent of total Soviet defense spending and have risen about 12 percent a year.",
+  "Procurement, mainly ammunition and equipment replacement, was half of all costs; air munitions use rose sharply from 1983.",
+  "About 750 Soviet aircraft (high estimate) were destroyed through 1985, roughly 640 of them helicopters; the low estimate is 320.",
+  "The DRA pays for Soviet arms and part of economic aid, largely through natural gas sales.",
+  "The July 1986 withdrawal of six regiments was a sham, with fewer than 2,000 net troops withdrawn.",
+  "The CIA judged that the Soviets remained committed to a stable pro-Communist Kabul regime and that any decision to withdraw would rest on political and military rather than economic factors.",
+  "The Soviets do not appear ready to abandon their goal of a stable pro-Communist regime in Kabul that can rule without a large Soviet presence.",
+  "Recent changes in Soviet strategy, especially more air operations, raised costs somewhat faster than before, but the leadership sees the costs as relatively low.",
+  "The CIA assesses that any Soviet decision to withdraw would rest on political and military considerations rather than economic ones.",
+  "The Soviet propaganda campaign claiming a sincere search for a political solution is not matched by concessions affecting the military effort.",
+  "The CIA's use of full replacement costs put its procurement estimate on the high side; depreciated values would have lowered the 1980-86 total by 3-3.5 billion rubles.",
+  "The CIA assumed that no additional Soviet divisions were created because of the war, and treated ten new divisions as planned peacetime expansion."
+ ]
+}

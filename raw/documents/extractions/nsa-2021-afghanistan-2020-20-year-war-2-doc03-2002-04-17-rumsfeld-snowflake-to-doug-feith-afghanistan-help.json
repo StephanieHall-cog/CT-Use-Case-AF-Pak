@@ -1,0 +1,372 @@
+{
+ "document": {
+  "doc_id": "nsa-2021-afghanistan-2020-20-year-war-2-doc03-2002-04-17-rumsfeld-snowflake-to-doug-feith-afghanistan-help",
+  "title": "Rumsfeld snowflake to Doug Feith, \"Afghanistan\" (\"Help!\")",
+  "authors": "Office of the Secretary of Defense (Donald Rumsfeld)",
+  "publisher": "National Security Archive (GWU), Afghanistan 20/20: The 20-Year War in 20 Documents | National Security Archive",
+  "published": "2002-04-17",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qy3fic-cl4be/03.pdf",
+  "source_page": "https://nsarchive.gwu.edu/briefing-book/afghanistan/2021-08-19/afghanistan-2020-20-year-war-20-documents",
+  "pages": 1,
+  "kind": "memo",
+  "note": "[Secret] Written the day Bush announced nation-building objectives at VMI. Rumsfeld says the U.S. military will never leave Afghanistan unless something provides the stability needed for departure. Copied to Wolfowitz, Myers and Pace.",
+  "collection": "new-afghanistan-2020-20-year-war-20-docu",
+  "doc_number": "Document 3",
+  "relevance": "medium",
+  "ocr": 0
+ },
+ "persons": [
+  {
+   "name": "Donald Rumsfeld",
+   "aliases": [
+    "Donald H. Rumsfeld",
+    "Rumsfeld"
+   ],
+   "role": "US Secretary of Defense; author of the snowflake memo",
+   "organizations": [
+    "Office of the Secretary of Defense",
+    "US Department of Defense"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "I may be impatient. In fact I know I'm a bit impatient. But the fact that Iran and Russia have plans for Afghanistan and we don't concerns me."
+    }
+   ]
+  },
+  {
+   "name": "Doug Feith",
+   "aliases": [
+    "Douglas Feith"
+   ],
+   "role": "Addressee of the memo; senior Defense Department official (Under Secretary of Defense for Policy)",
+   "organizations": [
+    "US Department of Defense"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "TO: Doug Feith"
+    }
+   ]
+  },
+  {
+   "name": "Paul Wolfowitz",
+   "aliases": [
+    "Paul Wolfowllz"
+   ],
+   "role": "Copied on the memo; Deputy Secretary of Defense",
+   "organizations": [
+    "US Department of Defense"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "c: Paul Wolfowllz"
+    }
+   ]
+  },
+  {
+   "name": "Dick Myers",
+   "aliases": [
+    "Gen. Richard Myers",
+    "Richard B. Myers"
+   ],
+   "role": "General; copied on the memo (Chairman of the Joint Chiefs of Staff)",
+   "organizations": [
+    "US military"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Gen. Dick Myers Gen. Pete Pace"
+    }
+   ]
+  },
+  {
+   "name": "Pete Pace",
+   "aliases": [
+    "Gen. Peter Pace"
+   ],
+   "role": "General; copied on the memo (Vice Chairman of the Joint Chiefs of Staff)",
+   "organizations": [
+    "US military"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Gen. Dick Myers Gen. Pete Pace"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Office of the Secretary of Defense",
+   "aliases": [
+    "OSD"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "US Department of Defense"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Originator of the snowflake memo."
+  },
+  {
+   "name": "US Department of Defense",
+   "aliases": [
+    "DoD"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Rumsfeld says that if DoD could act alone, it would get things done."
+  },
+  {
+   "name": "Deputies Committee",
+   "aliases": [
+    "the Deputies"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "US interagency process"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Said to be 'working on it' for months regarding Afghanistan planning."
+  },
+  {
+   "name": "US interagency process",
+   "aliases": [
+    "interagency process"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Rumsfeld complains that matters 'sink out of sight' in it."
+  },
+  {
+   "name": "US military",
+   "aliases": [],
+   "type": "military",
+   "parent_or_allies": [
+    "US Department of Defense"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Rumsfeld wants a stable Afghanistan so US forces can leave."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Subject of the memo; US lacks a plan while Iran and Russia have plans."
+  },
+  {
+   "name": "Iran",
+   "type": "country",
+   "country": "Iran",
+   "parent": "",
+   "significance": "Has plans for Afghanistan, per Rumsfeld."
+  },
+  {
+   "name": "Russia",
+   "type": "country",
+   "country": "Russia",
+   "parent": "",
+   "significance": "Has plans for Afghanistan, per Rumsfeld."
+  }
+ ],
+ "events": [
+  {
+   "date": "2002-04-17",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Rumsfeld sends snowflake memo to Doug Feith complaining about lack of a US plan and interagency control over Afghanistan policy, and asking how to gain influence and enable a US exit.",
+   "place": "Washington, D.C.",
+   "actors": [
+    "Donald Rumsfeld",
+    "Doug Feith",
+    "Paul Wolfowitz",
+    "Dick Myers",
+    "Pete Pace"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2002-04-17",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Rumsfeld sends a 9:15 AM snowflake memo to Feith (cc Wolfowitz, Myers, Pace) expressing impatience that Iran and Russia have plans for Afghanistan while the US lacks one, and that the Deputies' process has taken months.",
+   "place": "Afghanistan",
+   "actors": [
+    "Donald Rumsfeld",
+    "Doug Feith",
+    "Paul Wolfowitz",
+    "Dick Myers",
+    "Pete Pace",
+    "Deputies Committee"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Donald Rumsfeld",
+   "target": "Doug Feith",
+   "type": "reports_to",
+   "detail": "Rumsfeld, as Secretary, addresses a directive memo to Feith asking for proposals.",
+   "date": "2002-04-17",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "What do you propose we do? How do we get control of the levers"
+  },
+  {
+   "source": "Deputies Committee",
+   "target": "US interagency process",
+   "type": "member_of",
+   "detail": "The Deputies' work on Afghanistan sits within the interagency process where Rumsfeld says it stalls.",
+   "date": "2002-04-17",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Once it goes into the interagency process, it sinks out of sight."
+  },
+  {
+   "source": "Donald Rumsfeld",
+   "target": "Doug Feith",
+   "type": "other",
+   "detail": "Rumsfeld addresses the snowflake memo to Feith, asking what he proposes on Afghanistan policy.",
+   "date": "2002-04-17",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "What do you propose we do? How do we get control of the levers so that we can influence what's going on?"
+  },
+  {
+   "source": "Donald Rumsfeld",
+   "target": "Paul Wolfowitz",
+   "type": "other",
+   "detail": "Wolfowitz is copied (cc) on the memo.",
+   "date": "2002-04-17",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Paul Wolfowllz"
+  },
+  {
+   "source": "Donald Rumsfeld",
+   "target": "Dick Myers",
+   "type": "other",
+   "detail": "Myers is listed among the memo's recipients/cc line.",
+   "date": "2002-04-17",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Gen. Dick Myers"
+  },
+  {
+   "source": "Donald Rumsfeld",
+   "target": "Pete Pace",
+   "type": "other",
+   "detail": "Pace is listed among the memo's recipients/cc line.",
+   "date": "2002-04-17",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Gen. Pete Pace"
+  },
+  {
+   "source": "Donald Rumsfeld",
+   "target": "Office of the Secretary of Defense",
+   "type": "leads",
+   "detail": "Rumsfeld, as Secretary of Defense, is the author of the memo from the Office of the Secretary of Defense.",
+   "date": "2002-04-17",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "FROM: Donald Rumsfeld"
+  },
+  {
+   "source": "Doug Feith",
+   "target": "US Department of Defense",
+   "type": "member_of",
+   "detail": "Feith is a DoD official addressed as recipient of the memo.",
+   "date": "2002-04-17",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "TO: Doug Feith"
+  },
+  {
+   "source": "Iran",
+   "target": "Afghanistan",
+   "type": "other",
+   "detail": "Rumsfeld notes Iran has plans for Afghanistan, which concerns him.",
+   "date": "2002-04-17",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "the fact that Iran and Russia have plans for Afghanistan and we don't concerns me"
+  },
+  {
+   "source": "Russia",
+   "target": "Afghanistan",
+   "type": "other",
+   "detail": "Rumsfeld notes Russia has plans for Afghanistan.",
+   "date": "2002-04-17",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "the fact that Iran and Russia have plans for Afghanistan and we don't concerns me"
+  },
+  {
+   "source": "US military",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "US military is deployed in Afghanistan and cannot leave until stability is assured.",
+   "date": "2002-04-17",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "We are never going to get the U.S. military out of Afghanistan unless we take care to see that there is something going on"
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "Rumsfeld says Iran and Russia have plans for Afghanistan while the US does not.",
+  "He complains the Deputies Committee has been 'working on it' for months without result.",
+  "He argues the interagency process makes issues sink out of sight, whereas DoD could act alone.",
+  "He wants control of the levers to unify military, diplomatic, and humanitarian efforts on Afghanistan.",
+  "He links a US military exit from Afghanistan to establishing stability there."
+ ]
+}

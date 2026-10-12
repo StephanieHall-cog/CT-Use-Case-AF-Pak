@@ -1,0 +1,254 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc95-2001-08-21-re-khalid-al-mihdhar",
+  "title": "Re: Khalid Al-Mihdhar",
+  "authors": "CIA",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "2001-08-21",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7xl1-j1w1s/2001-08-21-re-khalid-al-mihdhar-memorandum.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 1,
+  "kind": "memo",
+  "note": "CIA email memorandum cited in the 9/11 Commission Report as \"Mary to John.\" Source: Chapter 8, Endnote 106.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 95",
+  "relevance": "medium",
+  "ocr": 0
+ },
+ "persons": [
+  {
+   "name": "Khalid Al-Mihdhar",
+   "aliases": [
+    "Khalid al-Mihdhdar",
+    "Khalid Almihdhar"
+   ],
+   "role": "Subject of CIA cable review; traveler with a US visa who entered the US in January 2000",
+   "organizations": [],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "United States",
+    "Los Angeles"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "I was reviewing all the cables on Khalid Al-Mihdhdar, I noticed he had a U.S. Visa in his passport."
+    },
+    {
+     "timestamp": "p.1",
+     "quote": "he entered the U.S. on 15 January 2000 ... He departed the U.S. on 10 June 2000."
+    }
+   ]
+  },
+  {
+   "name": "Ressam",
+   "aliases": [
+    "Ahmed Ressam"
+   ],
+   "role": "Individual whose name the analyst suggests running Al-Mihdhar's name by",
+   "organizations": [],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "perhaps run his name by Ressam?"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "INS",
+   "aliases": [
+    "Immigration and Naturalization Service"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Checked Al-Mihdhar's US entry and departure records."
+  },
+  {
+   "name": "FBI",
+   "aliases": [
+    "Federal Bureau of Investigation"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "CIA planned to pass information on Al-Mihdhar's US entry to the FBI."
+  },
+  {
+   "name": "CIA",
+   "aliases": [
+    "Central Intelligence Agency"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Author agency of the internal email."
+  }
+ ],
+ "places": [
+  {
+   "name": "United States",
+   "type": "country",
+   "country": "United States",
+   "parent": "",
+   "significance": "Al-Mihdhar entered 15 Jan 2000 and departed 10 June 2000."
+  },
+  {
+   "name": "Los Angeles",
+   "type": "city",
+   "country": "United States",
+   "parent": "California",
+   "significance": "Listed as Al-Mihdhar's destination on entry."
+  }
+ ],
+ "events": [
+  {
+   "date": "2000-01-15",
+   "date_precision": "day",
+   "type": "travel",
+   "description": "Khalid Al-Mihdhar entered the US, listing Los Angeles as destination.",
+   "place": "United States",
+   "actors": [
+    "Khalid Al-Mihdhar"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2000-06-10",
+   "date_precision": "day",
+   "type": "travel",
+   "description": "Khalid Al-Mihdhar departed the US.",
+   "place": "United States",
+   "actors": [
+    "Khalid Al-Mihdhar"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-08-21",
+   "date_precision": "day",
+   "type": "other",
+   "description": "Internal CIA email noting Al-Mihdhar's US entry per INS check; plan to inform FBI and discuss USS Cole.",
+   "place": "",
+   "actors": [
+    "CIA",
+    "INS",
+    "FBI"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2000-01-15",
+   "date_precision": "day",
+   "type": "travel",
+   "description": "Khalid Al-Mihdhar entered the United States, listing Los Angeles as his destination.",
+   "place": "United States",
+   "actors": [
+    "Khalid Al-Mihdhar"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2000-06-10",
+   "date_precision": "day",
+   "type": "travel",
+   "description": "Khalid Al-Mihdhar departed the United States.",
+   "place": "United States",
+   "actors": [
+    "Khalid Al-Mihdhar"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-08-21",
+   "date_precision": "day",
+   "type": "other",
+   "description": "CIA officer email reporting INS findings on Al-Mihdhar's U.S. visa and travel, and planning to pass the information to the FBI.",
+   "place": "",
+   "actors": [
+    "CIA",
+    "INS",
+    "FBI",
+    "Khalid Al-Mihdhar"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "CIA",
+   "target": "FBI",
+   "type": "other",
+   "detail": "CIA analyst planned to send information on Al-Mihdhar's US entry to the FBI.",
+   "date": "2001-08-21",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "I'll be sending [] to FBI to pass what we know of Khalid Al-Mihdhar and that he entered the U.S. on 15 January."
+  },
+  {
+   "source": "CIA",
+   "target": "INS",
+   "type": "other",
+   "detail": "CIA asked INS to check Al-Mihdhar's travel; INS reported his entry.",
+   "date": "2001-08-21",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "I asked INS to check and they just came back and said he entered the U.S. on 15 January 2000"
+  },
+  {
+   "source": "Khalid Al-Mihdhar",
+   "target": "United States",
+   "type": "located_in",
+   "detail": "INS records show Al-Mihdhar entered the U.S. on 15 January 2000 and departed on 10 June 2000.",
+   "date": "2000-01-15",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "he entered the U.S. on 15 January 2000 and listed the Los Angeles-I las his destination. He departed the U.S. on 10 June 2000."
+  },
+  {
+   "source": "Khalid Al-Mihdhar",
+   "target": "Los Angeles",
+   "type": "located_in",
+   "detail": "Al-Mihdhar listed Los Angeles as his destination on entering the U.S. in January 2000.",
+   "date": "2000-01-15",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "listed the Los Angeles-I las his destination"
+  },
+  {
+   "source": "Khalid Al-Mihdhar",
+   "target": "Ressam",
+   "type": "other",
+   "detail": "The author suggests the FBI run Al-Mihdhar's name by Ressam, implying a possible investigative link; no established relationship is stated.",
+   "date": "2001-08-21",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Maybe there_ is something they can do - perhaps run his name by Ressam?"
+  }
+ ],
+ "sources_cited": [
+  "INS travel records",
+  "CIA cable traffic on Khalid Al-Mihdhar"
+ ],
+ "key_claims": [
+  "Al-Mihdhar held a US visa and entered the US on 15 January 2000, departing 10 June 2000.",
+  "A CIA analyst only discovered this in August 2001 while reviewing cables.",
+  "Another correspondent notes a shared passport number and that his fellow travelers also made US trips in January.",
+  "The analyst proposed passing the information to the FBI ahead of discussing the USS Cole."
+ ]
+}

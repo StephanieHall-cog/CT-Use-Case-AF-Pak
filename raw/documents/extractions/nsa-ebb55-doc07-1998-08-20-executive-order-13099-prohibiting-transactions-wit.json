@@ -1,0 +1,339 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb55-doc07-1998-08-20-executive-order-13099-prohibiting-transactions-wit",
+  "title": "Executive Order 13099, Prohibiting Transactions With Terrorists Who Threaten to Disrupt the Middle East Peace Process",
+  "authors": "President Bill Clinton",
+  "publisher": "National Security Archive (GWU), Terrorism and U.S. Policy",
+  "published": "1998-08-20",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB55/eo13099.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB55/index1.html",
+  "pages": 1,
+  "kind": "other",
+  "note": "[Unclassified] Issued after the embassy bombings in Kenya and Tanzania, on the day of the retaliatory strikes in Afghanistan and Sudan. It amends EO 12947 to add Usama bin Ladin, the Al-Qaida organization and two other individuals to the list of those whose assets are blocked, and drops 'organizations' from the list heading. Federal Register Vol. 63, No. 164.",
+  "collection": "NSAEBB55",
+  "doc_number": "Section V, Document 7b",
+  "relevance": "high",
+  "ocr": 0
+ },
+ "persons": [
+  {
+   "name": "Usama bin Muhammad bin Awad bin Ladin",
+   "aliases": [
+    "Usama bin Ladin",
+    "Osama bin Laden"
+   ],
+   "role": "Designated terrorist added to the Annex of EO 12947; associated with Islamic Army (al-Qaida)",
+   "organizations": [
+    "Islamic Army",
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Usama bin Muhammad bin Awad bin Ladin (a.k.a. Usama bin Ladin)"
+    }
+   ]
+  },
+  {
+   "name": "Abu Hafs al-Masri",
+   "aliases": [
+    "Abu Hafs the Egyptian"
+   ],
+   "role": "Designated terrorist added to the Annex of EO 12947",
+   "organizations": [
+    "Islamic Army",
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "Egyptian (implied by name)",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Abu Hafs al-Masri"
+    }
+   ]
+  },
+  {
+   "name": "Rifa'i Ahmad Taha Musa",
+   "aliases": [
+    "Rifai Ahmad Taha Musa",
+    "Rifa'i Taha"
+   ],
+   "role": "Designated terrorist added to the Annex of EO 12947",
+   "organizations": [],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Rifa’i Ahmad Taha Musa"
+    }
+   ]
+  },
+  {
+   "name": "William J. Clinton",
+   "aliases": [
+    "Bill Clinton"
+   ],
+   "role": "President of the United States, issued the order",
+   "organizations": [
+    "US Government"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Washington"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "I, WILLIAM J. CLINTON, President of the United States of America"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Islamic Army",
+   "aliases": [
+    "Al-Qaida",
+    "al-Qa'ida",
+    "al-Qaeda",
+    "Islamic Salvation Foundation",
+    "The Islamic Army for the Liberation of the Holy Places",
+    "The World Islamic Front for Jihad Against Jews and Crusaders",
+    "The Group for the Preservation of the Holy Sites"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Added to the Annex to EO 12947 on 20 Aug 1998 under these aliases."
+  },
+  {
+   "name": "United States Government",
+   "aliases": [
+    "US"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Issuer of the order under IEEPA and National Emergencies Act."
+  }
+ ],
+ "places": [
+  {
+   "name": "United States",
+   "type": "country",
+   "country": "United States",
+   "parent": "",
+   "significance": "Issuing state of the executive order"
+  },
+  {
+   "name": "The White House",
+   "type": "other",
+   "country": "United States",
+   "parent": "Washington",
+   "significance": "Location where the order was signed"
+  }
+ ],
+ "events": [
+  {
+   "date": "1995-01-23",
+   "date_precision": "day",
+   "type": "designation",
+   "description": "Executive Order 12947 declared a national emergency regarding terrorists threatening the Middle East peace process, creating the Annex of designated persons.",
+   "place": "United States",
+   "actors": [
+    "United States Government"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998-08-20",
+   "date_precision": "day",
+   "type": "designation",
+   "description": "President Clinton signed EO 13099 adding bin Ladin, the Islamic Army (al-Qaida), Abu Hafs al-Masri and Rifa'i Ahmad Taha Musa to the Annex of EO 12947.",
+   "place": "The White House",
+   "actors": [
+    "William J. Clinton",
+    "Usama bin Muhammad bin Awad bin Ladin",
+    "Islamic Army",
+    "Abu Hafs al-Masri",
+    "Rifa'i Ahmad Taha Musa"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998-08-21",
+   "date_precision": "day",
+   "type": "other",
+   "description": "EO 13099 became effective at 12:01 a.m. EDT.",
+   "place": "United States",
+   "actors": [
+    "United States Government"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998-08-25",
+   "date_precision": "day",
+   "type": "other",
+   "description": "Order published in the Federal Register, Vol. 63, No. 164.",
+   "place": "United States",
+   "actors": [
+    "United States Government"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998-08-20",
+   "date_precision": "day",
+   "type": "designation",
+   "description": "President Clinton signed Executive Order 13099, adding Usama bin Ladin, the Islamic Army (Al-Qaida), Abu Hafs al-Masri and Rifa'i Ahmad Taha Musa to the Annex of Executive Order 12947 as terrorists who threaten to disrupt the Middle East peace process.",
+   "place": "The White House",
+   "actors": [
+    "William J. Clinton",
+    "Usama bin Muhammad bin Awad bin Ladin",
+    "Islamic Army",
+    "Abu Hafs al-Masri",
+    "Rifa'i Ahmad Taha Musa",
+    "United States Government"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998-08-21",
+   "date_precision": "day",
+   "type": "designation",
+   "description": "Executive Order 13099 took effect at 12:01 a.m. eastern daylight time.",
+   "place": "United States",
+   "actors": [
+    "United States Government"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998-08-25",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Executive Order 13099 was published in the Federal Register (Vol. 63, No. 164).",
+   "place": "United States",
+   "actors": [
+    "United States Government"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1995-01-23",
+   "date_precision": "day",
+   "type": "designation",
+   "description": "Executive Order 12947 was issued, declaring the national emergency and creating the Annex that EO 13099 amended.",
+   "place": "United States",
+   "actors": [
+    "United States Government"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Usama bin Muhammad bin Awad bin Ladin",
+   "target": "Islamic Army",
+   "type": "member_of",
+   "detail": "Listed together in the Annex amendment; the Islamic Army is the group known as al-Qaida, associated with bin Ladin.",
+   "date": "1998-08-20",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Islamic Army (a.k.a. Al-Qaida, Islamic Salvation Foundation, The Islamic Army for the Liberation of the Holy Places"
+  },
+  {
+   "source": "Abu Hafs al-Masri",
+   "target": "Islamic Army",
+   "type": "member_of",
+   "detail": "Designated alongside the group in the same amendment.",
+   "date": "1998-08-20",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Abu Hafs al-Masri Rifa’i Ahmad Taha Musa"
+  },
+  {
+   "source": "William J. Clinton",
+   "target": "Usama bin Muhammad bin Awad bin Ladin",
+   "type": "other",
+   "detail": "Clinton ordered a sanctions designation of bin Ladin under IEEPA.",
+   "date": "1998-08-20",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "The Annex to Executive Order 12947 of January 23, 1995, is amended by adding thereto the following persons"
+  },
+  {
+   "source": "William J. Clinton",
+   "target": "United States Government",
+   "type": "leads",
+   "detail": "Clinton issued the order as President of the United States, head of the executive branch.",
+   "date": "1998-08-20",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "I, WILLIAM J. CLINTON, President of the United States of America, in order to take additional steps with respect to grave acts of violence committed by foreign terrorists"
+  },
+  {
+   "source": "Usama bin Muhammad bin Awad bin Ladin",
+   "target": "Islamic Army",
+   "type": "leads",
+   "detail": "The Annex lists bin Ladin and the Islamic Army (a.k.a. Al-Qaida) as adjacent designated entities; leadership is not stated in the text, so this is an inference from the designation of both together.",
+   "date": "1998-08-20",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Usama bin Muhammad bin Awad bin Ladin (a.k.a. Usama bin Ladin) Islamic Army (a.k.a. Al-Qaida, Islamic Salvation Foundation"
+  },
+  {
+   "source": "Rifa'i Ahmad Taha Musa",
+   "target": "Islamic Army",
+   "type": "member_of",
+   "detail": "Designated together with the Islamic Army (Al-Qaida) in the Annex; affiliation is implied only by the joint listing.",
+   "date": "1998-08-20",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Abu Hafs al-Masri Rifa’i Ahmad Taha Musa"
+  },
+  {
+   "source": "Islamic Army",
+   "target": "Islamic Army",
+   "type": "other",
+   "detail": "Aliases of the Islamic Army include Al-Qaida, Islamic Salvation Foundation, the Islamic Army for the Liberation of the Holy Places, the World Islamic Front for Jihad Against Jews and Crusaders, and the Group for the Preservation of the Holy Sites.",
+   "date": "1998-08-20",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Islamic Army (a.k.a. Al-Qaida, Islamic Salvation Foundation, The Islamic Army for the Liberation of the Holy Places, The World Islamic Front for Jihad Against Jews and Crusaders"
+  }
+ ],
+ "sources_cited": [
+  "Executive Order 12947 of January 23, 1995",
+  "International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)",
+  "National Emergencies Act (50 U.S.C. 1601 et seq.)"
+ ],
+ "key_claims": [
+  "On 20 Aug 1998 the US designated Usama bin Ladin, the Islamic Army (al-Qaida), Abu Hafs al-Masri and Rifa'i Ahmad Taha Musa as terrorists threatening the Middle East peace process.",
+  "The US legally treated 'Islamic Army' as the primary name for al-Qaida, with multiple aliases including the World Islamic Front for Jihad Against Jews and Crusaders.",
+  "The designation extended the national emergency of EO 12947 (1995) to include these persons and the group, effective 21 Aug 1998."
+ ]
+}

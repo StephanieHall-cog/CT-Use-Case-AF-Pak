@@ -1,0 +1,119 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc86-2001-07-02-terrorism-planning-for-bin-ladin-attacks-continues",
+  "title": "Terrorism: Planning for Bin Ladin Attacks Continues, Despite Delay [Excised]",
+  "authors": "Central Intelligence Agency (Senior Executive Intelligence Brief)",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "2001-07-02",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7xl1-j1w1s/2001-07-02-terrorism-planning-for-bin-ladin.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 1,
+  "kind": "briefing",
+  "note": "One of the SEIBs from June-September 2001 warning of imminent al-Qaeda attacks. Cited in 9/11 Commission Report, Chapter 8, Endnote 18.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 86",
+  "relevance": "high",
+  "ocr": 0
+ },
+ "persons": [
+  {
+   "name": "Usama Bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Usama bin Ladin",
+    "Usama Bin Ladin"
+   ],
+   "role": "Leader of al-Qa'ida, whose organization was planning attacks",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Attacks planned by Usama Bin L11din 's al-Qa'ida organization may have been delayed.by"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "al-Qa'ida",
+   "aliases": [
+    "al-Qaeda"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [
+    "United States"
+   ],
+   "country_base": "",
+   "notes": "Organization led by Usama Bin Ladin; planning attacks that may have been delayed by heightened US security (2 July 2001 brief)."
+  },
+  {
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [
+    "al-Qa'ida"
+   ],
+   "country_base": "United States",
+   "notes": "Author of the Senior Executive Intelligence Brief."
+  }
+ ],
+ "places": [],
+ "events": [
+  {
+   "date": "2001-07-02",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA Senior Executive Intelligence Brief reporting that attacks planned by Bin Ladin's al-Qa'ida may have been delayed by heightened US security, but planning continues; remainder excised.",
+   "place": "",
+   "actors": [
+    "Central Intelligence Agency",
+    "Usama Bin Ladin",
+    "al-Qa'ida"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-07-02",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Senior Executive Intelligence Brief reports that al-Qa'ida attacks planned by Bin Ladin may have been delayed by heightened US security, but planning continues and the attacks are expected to occur soon.",
+   "place": "",
+   "actors": [
+    "Usama Bin Ladin",
+    "al-Qa'ida",
+    "Central Intelligence Agency"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Usama Bin Ladin",
+   "target": "al-Qa'ida",
+   "type": "leads",
+   "detail": "The brief refers to al-Qa'ida as Bin Ladin's organization.",
+   "date": "2001-07-02",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Attacks planned by Usama Bin L11din 's al-Qa'ida organization may have been delayed.by"
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "As of 2 July 2001 the CIA assessed that al-Qa'ida attacks planned by Bin Ladin may have been delayed by heightened US security.",
+  "The brief's title indicates planning for Bin Ladin attacks continued despite the delay.",
+  "Most of the brief's content is excised, so details of targets, timing and personnel are unavailable."
+ ]
+}

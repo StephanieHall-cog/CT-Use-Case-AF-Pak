@@ -1,0 +1,424 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc57-1999-12-17-millennium-threat-briefing-for-dci-december-16-199",
+  "title": "Millennium Threat, Briefing for DCI, December 16, 1999",
+  "authors": "Central Intelligence Agency",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "1999-12-17",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7xbr-uusml/1999-12-17-millennium-threat-briefing-for-dci.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 24,
+  "kind": "briefing",
+  "note": "Briefing for the DCI on the millennium threat, dated December 16, 1999. Cited in 9/11 Commission Report Chapter 6, Endnote 3.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 57",
+  "relevance": "high",
+  "ocr": 14
+ },
+ "persons": [
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "UBL",
+    "Osama bin Laden",
+    "Usama bin Ladin (UBL)"
+   ],
+   "role": "al-Qa'ida leader; suspected of planning multiple attacks around the millennium",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Jordan",
+    "Yemen",
+    "Saudi Arabia",
+    "United States"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "Strong likelihood UBL planning multiple attacks for New Year's time frame"
+    },
+    {
+     "timestamp": "p.1",
+     "quote": "Evidence UBL has planned multiple attacks."
+    }
+   ]
+  },
+  {
+   "name": "Abu Zubaida",
+   "aliases": [
+    "Abu Zubaydah"
+   ],
+   "role": "UBL-linked operative being pursued by CIA",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.7",
+     "quote": "Pursuing Abu Zubaida"
+    }
+   ]
+  },
+  {
+   "name": "Masood",
+   "aliases": [
+    "Ahmad Shah Massoud",
+    "Ahmed Shah Masood"
+   ],
+   "role": "Northern Alliance commander; CIA plans to work with him against UBL",
+   "organizations": [
+    "Northern Alliance"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.8",
+     "quote": "Plans progressing to work with Masood."
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "al-Qa'ida",
+   "aliases": [
+    "al-Qaeda",
+    "UBL network"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Referred to as UBL; disrupted cell in Jordan; planned attacks on US targets."
+  },
+  {
+   "name": "GIA",
+   "aliases": [
+    "Armed Islamic Group"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Algeria",
+   "notes": "Individual with likely GIA ties arrested 14 December transporting explosives from Canada to US."
+  },
+  {
+   "name": "CTC",
+   "aliases": [
+    "Counterterrorist Center"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "CIA"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Ran a task force at HQs, with linguists and watch-center connectivity."
+  },
+  {
+   "name": "CIA",
+   "aliases": [
+    "Central Intelligence Agency"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": ""
+  },
+  {
+   "name": "FBI",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Provided linguists to CTC task force."
+  }
+ ],
+ "places": [
+  {
+   "name": "Jordan",
+   "type": "country",
+   "country": "Jordan",
+   "parent": "",
+   "significance": "UBL cell disrupted planning attacks on tourist sites on 31 December"
+  },
+  {
+   "name": "Canada",
+   "type": "country",
+   "country": "Canada",
+   "parent": "",
+   "significance": "Origin of explosives transport by GIA-tied individual"
+  },
+  {
+   "name": "United States",
+   "type": "country",
+   "country": "United States",
+   "parent": "",
+   "significance": "Target of planned attacks"
+  },
+  {
+   "name": "Yemen",
+   "type": "country",
+   "country": "Yemen",
+   "parent": "",
+   "significance": "Reported target of UBL-linked bombings of US targets"
+  },
+  {
+   "name": "Saudi Arabia",
+   "type": "country",
+   "country": "Saudi Arabia",
+   "parent": "",
+   "significance": "Reported target of UBL-linked bombings of US targets"
+  }
+ ],
+ "events": [
+  {
+   "date": "1999-12-14",
+   "date_precision": "day",
+   "type": "arrest",
+   "description": "Individual with likely GIA ties arrested transporting 132 lbs of explosives and bomb materials from Canada to the United States.",
+   "place": "United States",
+   "actors": [
+    "GIA"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1999-12-31",
+   "date_precision": "day",
+   "type": "other",
+   "description": "Planned attacks on tourist sites in Jordan by a UBL cell (disrupted).",
+   "place": "Jordan",
+   "actors": [
+    "Usama bin Ladin",
+    "al-Qa'ida"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "2000-01-01",
+   "date_precision": "day",
+   "type": "other",
+   "description": "Planned multiple attacks on US targets before and on 1 Jan 2000.",
+   "place": "United States",
+   "actors": [
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1999-12-17",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA briefing to DCI on the millennium threat.",
+   "place": "",
+   "actors": [
+    "CIA",
+    "CTC"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1999-12-14",
+   "date_precision": "day",
+   "type": "arrest",
+   "description": "Arrest of an individual with likely GIA ties transporting 132 lbs of explosives and bomb materials from Canada to the US.",
+   "place": "Canada/United States",
+   "actors": [
+    "GIA"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1999-12-31",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "Planned attacks by a UBL cell in Jordan on tourist sites on 31 December; the cell was disrupted.",
+   "place": "Jordan",
+   "actors": [
+    "Usama bin Ladin",
+    "al-Qa'ida"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "2000-01-01",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "Planned UBL attacks on US targets before and on 1 Jan 2000.",
+   "place": "United States",
+   "actors": [
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1999-12-16",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "Briefing for the DCI on the Millennium Threat, dated 17 Dec 1999.",
+   "place": "",
+   "actors": [
+    "CIA",
+    "CTC"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1999-12",
+   "date_precision": "month",
+   "type": "other",
+   "description": "MON approved and plan being devised for targeting UBL lieutenants, including pursuit of Abu Zubaida.",
+   "place": "",
+   "actors": [
+    "Abu Zubaida",
+    "CIA"
+   ],
+   "timestamp": "p.7"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Usama bin Ladin",
+   "target": "al-Qa'ida",
+   "type": "leads",
+   "detail": "UBL is the leader of the network behind the millennium plots.",
+   "date": "1999",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "Disrupted UBL cell in Jordan was planning attacks on tourist sites on 31 December."
+  },
+  {
+   "source": "Abu Zubaida",
+   "target": "Usama bin Ladin",
+   "type": "member_of",
+   "detail": "Pursued as part of the UBL effort; lieutenants targeted.",
+   "date": "1999",
+   "confidence": "inferred",
+   "timestamp": "p.7",
+   "quote": "Pursuing Abu Zubaida"
+  },
+  {
+   "source": "CIA",
+   "target": "Masood",
+   "type": "allied_with",
+   "detail": "Plans progressing to work with Masood against UBL.",
+   "date": "1999-12",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "Plans progressing to work with Masood."
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Jordan",
+   "type": "located_in",
+   "detail": "A disrupted UBL cell in Jordan was planning attacks on tourist sites on 31 December.",
+   "date": "1999-12-31",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Disrupted UBL cell in Jordan was -planning attacks on tourist sites on_ 31 December."
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "United States",
+   "type": "other",
+   "detail": "UBL planned multiple attacks on US targets before and on 1 Jan 2000.",
+   "date": "2000-01-01",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "multiple attacks on US targets before and on 1 Jan 2000."
+  },
+  {
+   "source": "GIA",
+   "target": "Canada",
+   "type": "located_in",
+   "detail": "An individual with likely GIA ties was arrested transporting explosives from Canada to the United States.",
+   "date": "1999-12-14",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "Individual with likely GIA ties arrested 14 December. transporting 132 lbs explosives, bomb materials from Canada to United States."
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Yemen",
+   "type": "other",
+   "detail": "Extremists reportedly planned to bomb US targets in Yemen and Saudi Arabia, in the UBL threat context.",
+   "confidence": "inferred",
+   "timestamp": "p.4",
+   "quote": "reportedly plan to bomb US targets in Yemen & Saudi Arabia"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Saudi Arabia",
+   "type": "other",
+   "detail": "Extremists reportedly planned to bomb US targets in Saudi Arabia, in the UBL threat context.",
+   "confidence": "inferred",
+   "timestamp": "p.4",
+   "quote": "reportedly plan to bomb US targets in Yemen & Saudi Arabia"
+  },
+  {
+   "source": "Abu Zubaida",
+   "target": "Usama bin Ladin",
+   "type": "member_of",
+   "detail": "Abu Zubaida is pursued under the UBL countering effort; MON approved to target UBL lieutenants.",
+   "confidence": "inferred",
+   "timestamp": "p.7",
+   "quote": "Pursuing Abu Zubaida • MON approved; plan being devised for targeting lieutenants."
+  },
+  {
+   "source": "CIA",
+   "target": "Masood",
+   "type": "allied_with",
+   "detail": "Plans were progressing to work with Masood against UBL.",
+   "confidence": "inferred",
+   "timestamp": "p.8",
+   "quote": "Plans progressing to work with Masood."
+  },
+  {
+   "source": "CTC",
+   "target": "CIA",
+   "type": "member_of",
+   "detail": "CTC is a CIA center with connectivity to other CIA and Y2K centers.",
+   "confidence": "inferred",
+   "timestamp": "p.22",
+   "quote": "Connectivity to CIA and other Y2K centers"
+  },
+  {
+   "source": "CTC",
+   "target": "FBI",
+   "type": "allied_with",
+   "detail": "CTC and FBI linguists were used together in the millennium threat effort.",
+   "confidence": "stated",
+   "timestamp": "p.24",
+   "quote": "CTC linguists FBI linguists. additional linguists from DoD"
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "CIA assessed a strong likelihood that UBL was planning multiple attacks for the New Year timeframe.",
+  "A UBL cell in Jordan was disrupted while planning attacks on tourist sites on 31 December.",
+  "UBL-linked extremists reportedly planned to bomb US targets in Yemen and Saudi Arabia.",
+  "A person with likely GIA ties was arrested 14 December carrying explosives from Canada to the US.",
+  "CIA was pursuing Abu Zubaida and developing plans to target UBL lieutenants.",
+  "CIA was progressing plans to work with Masood against UBL."
+ ]
+}

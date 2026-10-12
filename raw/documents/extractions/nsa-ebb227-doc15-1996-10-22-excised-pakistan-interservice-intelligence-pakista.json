@@ -1,0 +1,365 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb227-doc15-1996-10-22-excised-pakistan-interservice-intelligence-pakista",
+  "title": "[Excised]/Pakistan Interservice Intelligence/Pakistan Directorate Supplying the Taliban Forces",
+  "authors": "[Excised] to DIA Washington (Intelligence Information Report)",
+  "publisher": "National Security Archive (GWU), Pakistan: \"The Taliban's Godfather\"?",
+  "published": "1996-10-22",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB227/15.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB227/index.htm",
+  "pages": 1,
+  "kind": "intelligence report",
+  "note": "[Secret] The ISI is supplying the Taliban with munitions, fuel and food, using a private sector transportation company to funnel supplies into Afghanistan. Food convoys are open, but munitions convoys depart late in the evening and are concealed.",
+  "collection": "NSAEBB227",
+  "doc_number": "Document 15",
+  "relevance": "high",
+  "ocr": 0
+ },
+ "persons": [
+  {
+   "name": "Mohammad Omar",
+   "aliases": [
+    "Mullah Omar",
+    "Mullah Mohammed Omar",
+    "OMR (OCR)"
+   ],
+   "role": "Taliban leader",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "The name is badly garbled by OCR ('BAHANHUO KOflARll'), but the text describes 'Omar' as the Taliban leader. Identification as Mohammad Omar is inferred.",
+   "family": [],
+   "locations": [
+    "Kandahar",
+    "Kabul"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "TALIBAN LEADER' IS CURSMrLY LOCATO IN OAKOAHAR, AfGKfiHISIAS."
+    },
+    {
+     "timestamp": "p.1",
+     "quote": "OMR IS STILL COKTROLLING Til TALIBAN SIFUATION FRON OUTSIDE KSBUL."
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Inter-Services Intelligence",
+   "aliases": [
+    "ISI",
+    "Pakistan Interservice Intelligence Directorate",
+    "Pakistani ISID"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Reported to be supplying Taliban forces with munitions, fuel, lubricants and food through a private-sector transportation company."
+  },
+  {
+   "name": "Taliban",
+   "aliases": [
+    "Taliban forces"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Inter-Services Intelligence"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Recipient of ISI-organised supply convoys from Pakistan into Afghanistan."
+  },
+  {
+   "name": "Private sector transportation company (unnamed)",
+   "aliases": [
+    "Transportation Company"
+   ],
+   "type": "other",
+   "parent_or_allies": [
+    "Inter-Services Intelligence"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Used by ISI to funnel supplies to the Taliban in vehicle convoys. Munitions convoys leave late in the evening and the cargo is concealed. Food and POL convoys leave during the day and are also concealed."
+  },
+  {
+   "name": "Defense Intelligence Agency",
+   "aliases": [
+    "DIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Recipient and publisher of the Intelligence Information Report."
+  }
+ ],
+ "places": [
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Origin of the supply routes."
+  },
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Destination of the supplies."
+  },
+  {
+   "name": "Peshawar",
+   "type": "city",
+   "country": "Pakistan",
+   "parent": "Khyber Pakhtunkhwa",
+   "significance": "Start of the first supply route, via Jalalabad to Kabul."
+  },
+  {
+   "name": "Jalalabad",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Nangarhar",
+   "significance": "Transit point on the first supply route."
+  },
+  {
+   "name": "Kabul",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Terminus of the supply routes; Omar intended to relocate there once the situation settled."
+  },
+  {
+   "name": "Quetta",
+   "type": "city",
+   "country": "Pakistan",
+   "parent": "Balochistan",
+   "significance": "Start of the second supply route, via Kandahar."
+  },
+  {
+   "name": "Kandahar",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Kandahar",
+   "significance": "Transit point on the second route and the reported location of the Taliban leader."
+  },
+  {
+   "name": "Miran Shah",
+   "type": "town",
+   "country": "Pakistan",
+   "parent": "North Waziristan",
+   "significance": "Start of the third supply route, via Khost to Kabul. The OCR reads 'MUAfl S«AH'."
+  },
+  {
+   "name": "Khost",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Khost",
+   "significance": "Transit point on the third supply route."
+  }
+ ],
+ "events": [
+  {
+   "date": "1996-10",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "The report states that ISI is currently using a private-sector transportation company to funnel supplies (munitions, fuel, lubricants, food) to Taliban forces in Afghanistan via vehicle convoys on three routes.",
+   "place": "Pakistan-Afghanistan border region",
+   "actors": [
+    "Inter-Services Intelligence",
+    "Taliban",
+    "Private sector transportation company (unnamed)"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1996-10",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Omar was reported to be in Kandahar and to intend to relocate to Kabul once the situation there settled, while still controlling the Taliban situation from outside Kabul.",
+   "place": "Kandahar",
+   "actors": [
+    "Mohammad Omar"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1996-10",
+   "date_precision": "month",
+   "type": "other",
+   "description": "ISI is reported to be using a private transportation company running vehicle convoys to supply Taliban forces with munitions, fuel, oil, lubricants and food via three routes. Munitions convoys depart late evening and are concealed.",
+   "place": "Pakistan–Afghanistan",
+   "actors": [
+    "Inter-Services Intelligence",
+    "Private sector transportation company (unnamed)",
+    "Taliban"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1996-10-22",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Intelligence Information Report to DIA Washington on ISI supply of Taliban forces.",
+   "place": "",
+   "actors": [
+    "Defense Intelligence Agency",
+    "Inter-Services Intelligence"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1996-10",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Omar is in Kandahar, controlling the Taliban situation from outside Kabul and intending to relocate to Kabul once things settle.",
+   "place": "Kandahar",
+   "actors": [
+    "Mohammad Omar",
+    "Taliban"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Taliban",
+   "target": "Inter-Services Intelligence",
+   "type": "other",
+   "detail": "ISI supplies the Taliban with munitions, fuel, lubricants and food via a private transport company. This is a supplier/recipient relationship, similar to funded_by.",
+   "date": "1996-10",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "THE PAXISTAN INU5SERt/ICE IHTEUIGEKCE OlSKTMATE (S CtSIXG A PRIVATE SECTOR TitANSPMrATIOK CO/SPAM TO FI/KXtl SlimiES I DTD tfCHMISTM"
+  },
+  {
+   "source": "Private sector transportation company (unnamed)",
+   "target": "Inter-Services Intelligence",
+   "type": "other",
+   "detail": "The company is used by ISI as the conduit for supply convoys to the Taliban.",
+   "date": "1996-10",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "CUMEdfLY UTILIZING A P8IVSTE SECFO« TfiWSfOJT.DllOH COKPftXI IHFtl fO FUHHEL SUPPLIES TO IALIBAN"
+  },
+  {
+   "source": "Mohammad Omar",
+   "target": "Taliban",
+   "type": "leads",
+   "detail": "Omar is described as the Taliban leader and as still controlling the Taliban situation from outside Kabul.",
+   "date": "1996-10",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "OMR IS STILL COKTROLLING Til TALIBAN"
+  },
+  {
+   "source": "Mohammad Omar",
+   "target": "Kandahar",
+   "type": "located_in",
+   "detail": "The Taliban leader is currently located in Kandahar.",
+   "date": "1996-10",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "IS CURSMrLY LOCATO IN OAKOAHAR, AfGKfiHISIAS."
+  },
+  {
+   "source": "Inter-Services Intelligence",
+   "target": "Taliban",
+   "type": "other",
+   "detail": "ISI supplies the Taliban forces with munitions, fuel and food.",
+   "date": "1996-10",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "THE PAKISTAN INTERSERVICE INTELLIGENCE DIRECTORATE IS [SUPPLYING] THE TALIBAN FORCES WITH MUNITIONS, FUEL, AND FOOD."
+  },
+  {
+   "source": "Inter-Services Intelligence",
+   "target": "Private sector transportation company (unnamed)",
+   "type": "other",
+   "detail": "ISI uses a private-sector transportation company to funnel supplies from Pakistan into Afghanistan for the Taliban.",
+   "date": "1996-10",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "THE PAKISTAN INTERSERVICE INTELLIGENCE DIRECTORATE IS USING A PRIVATE SECTOR TRANSPORTATION COMPANY TO FUNNEL SUPPLIES INTO AFGHANISTAN"
+  },
+  {
+   "source": "Taliban",
+   "target": "Inter-Services Intelligence",
+   "type": "funded_by",
+   "detail": "The Taliban receive munitions, fuel and food from the ISI.",
+   "date": "1996-10",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "UTILIZING A PRIVATE SECTOR TRANSPORTATION COMPANY TO FUNNEL SUPPLIES TO TALIBAN"
+  },
+  {
+   "source": "Private sector transportation company (unnamed)",
+   "target": "Taliban",
+   "type": "other",
+   "detail": "The company's vehicle convoys carry supplies from Pakistan into Afghanistan for Taliban forces.",
+   "date": "1996-10",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "UTILIZES VEHICLE CONVOYS TO MOVE SUPPLIES FROM PAKISTAN INTO AFGHANISTAN."
+  },
+  {
+   "source": "Mohammad Omar",
+   "target": "Kabul",
+   "type": "other",
+   "detail": "Omar intends to relocate to Kabul once the situation there settles and controls the Taliban situation from outside Kabul.",
+   "date": "1996-10",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "ONCE THE SITUATION IN KABUL SETTLES, OMAR INTENDS TO RELOCATE TO KABUL."
+  },
+  {
+   "source": "Peshawar",
+   "target": "Kabul",
+   "type": "other",
+   "detail": "First supply route starts in Peshawar, passes through Jalalabad and ends in Kabul; it is the most frequently used.",
+   "date": "1996-10",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "FIRST SUPPLY ROUTE ORIGINATES IN PESHAWAR, PASSING THROUGH JALALABAD AND TERMINATING IN KABUL."
+  },
+  {
+   "source": "Quetta",
+   "target": "Kandahar",
+   "type": "other",
+   "detail": "Second supply route starts in Quetta, passes through Kandahar and terminates there.",
+   "date": "1996-10",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "THE SECOND SUPPLY ROUTE ORIGINATES IN QUETTA, PASSING THROUGH KANDAHAR"
+  },
+  {
+   "source": "Miran Shah",
+   "target": "Kabul",
+   "type": "other",
+   "detail": "Third supply route starts at Miran Shah, passes through Khost and ends in Kabul.",
+   "date": "1996-10",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "THIRD SUPPLY ROUTE ORIGINATES IN MIRAN SHAH, PASSING THROUGH KHOST AND TERMINATES IN KABUL."
+  }
+ ],
+ "sources_cited": [
+  "Unnamed (excised) source, DIA Intelligence Information Report, 'not finally evaluated intelligence'"
+ ],
+ "key_claims": [
+  "ISI was using a private-sector transportation company to supply the Taliban with munitions, fuel, lubricants and food in October 1996.",
+  "Munitions convoys depart Pakistan late in the evening, and all convoys are concealed to hide their contents.",
+  "Three supply routes were used: Peshawar-Jalalabad-Kabul (the most frequently used), Quetta-Kandahar-Kabul, and Miran Shah-Khost-Kabul.",
+  "The Taliban leader (Omar) was in Kandahar and planned to move to Kabul once the situation there settled.",
+  "Omar was still controlling the Taliban situation from outside Kabul."
+ ]
+}

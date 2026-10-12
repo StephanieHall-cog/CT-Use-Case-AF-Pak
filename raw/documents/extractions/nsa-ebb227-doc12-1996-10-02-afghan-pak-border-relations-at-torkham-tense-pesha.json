@@ -1,0 +1,388 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb227-doc12-1996-10-02-afghan-pak-border-relations-at-torkham-tense-pesha",
+  "title": "Afghan-Pak Border Relations at Torkham Tense (Peshaw 00916)",
+  "authors": "U.S. Consulate Peshawar",
+  "publisher": "National Security Archive (GWU), Pakistan: \"The Taliban's Godfather\"?",
+  "published": "1996-10-02",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB227/12.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB227/index.htm",
+  "pages": 6,
+  "kind": "cable",
+  "note": "[Confidential] A consulate contact witnessed 30-35 sealed ISI trucks and 15-20 fuel tankers waiting to cross at Torkham and was certain of the convoy's ISI affiliation. The cable does not specify the contents or destination.",
+  "collection": "NSAEBB227",
+  "doc_number": "Document 12",
+  "relevance": "high",
+  "ocr": 6
+ },
+ "persons": [
+  {
+   "name": "Brad Hanson",
+   "aliases": [
+    "Hanson"
+   ],
+   "role": "Principal Officer, U.S. Consulate Peshawar; classifier and signatory of the cable",
+   "organizations": [
+    "U.S. Consulate Peshawar"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Peshawar"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "CLASSIFIED BY: BRAD HANSON, PRINCIPAL OFFICER, AMCONSUL PESHAWAR."
+    }
+   ]
+  },
+  {
+   "name": "Colonel Hafiz",
+   "aliases": [
+    "Hafiz"
+   ],
+   "role": "Officer, Commissionerate for Afghan Refugees Repatriation (Pakistan)",
+   "organizations": [
+    "Commissionerate for Afghan Refugees Repatriation"
+   ],
+   "nationality_or_origin": "Pakistani",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Torkham"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "COMMISSIONERATE FOR AFGHAN REFUGEES REPATRIATION OFFICER COLONEL HAFIZ REMARKED THAT THE BORDER HAD BEEN CLOSED FOR FOUR DAYS."
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Inter-Services Intelligence",
+   "aliases": [
+    "ISI"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Described in the cable as the Pakistani intelligence agency; a convoy of 30-35 sealed 'ISI' trucks and 15-20 fuel tankers was waiting to cross at Torkham."
+  },
+  {
+   "name": "Taliban",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "The cable refers to the Taliban takeover of Kabul."
+  },
+  {
+   "name": "Pakistan Border Guard",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Members were stoned by Afghans and fired weapons into the air at Torkham."
+  },
+  {
+   "name": "Commissionerate for Afghan Refugees Repatriation",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Colonel Hafiz criticized the border closure."
+  },
+  {
+   "name": "U.S. Consulate Peshawar",
+   "aliases": [
+    "AMCONSUL PESHAWAR"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "U.S. Department of State"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Author of the cable."
+  }
+ ],
+ "places": [
+  {
+   "name": "Torkham",
+   "type": "border crossing",
+   "country": "Pakistan/Afghanistan",
+   "parent": "Khyber Pass",
+   "significance": "Border crossing closed about four days; about 2,000 people and 6 km of traffic waited, including a purported ISI convoy."
+  },
+  {
+   "name": "Kabul",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Taken over by the Taliban; reports of 250,000 people leaving, judged overstated."
+  },
+  {
+   "name": "Jalalabad",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Nangarhar",
+   "significance": "Home to many of those waiting on the Afghan side."
+  },
+  {
+   "name": "Peshawar",
+   "type": "city",
+   "country": "Pakistan",
+   "parent": "Khyber Pakhtunkhwa",
+   "significance": "Location of the U.S. Consulate that wrote the cable."
+  },
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Destination for the crossing and repatriation."
+  },
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Closed the Torkham border."
+  }
+ ],
+ "events": [
+  {
+   "date": "1996-09",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Pakistani authorities closed the border at Torkham for about four days, possibly bracing for a Kabul refugee influx.",
+   "place": "Torkham",
+   "actors": [
+    "Pakistan Border Guard"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1996-09-30",
+   "date_precision": "day",
+   "type": "other",
+   "description": "Afghans threw stones at the Pakistan Border Guard, who fired into the air; the border reopened around 2000 hrs, letting the 'ISI convoy' and pedestrians cross.",
+   "place": "Torkham",
+   "actors": [
+    "Pakistan Border Guard",
+    "Inter-Services Intelligence"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1996-09-30",
+   "date_precision": "day",
+   "type": "other",
+   "description": "Colonel Hafiz told a U.S. officer that the border had been closed four days and at least 60 families were waiting to repatriate.",
+   "place": "Torkham",
+   "actors": [
+    "Colonel Hafiz"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1996-10-02",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "The U.S. Consulate Peshawar cable on tensions at Torkham was sent to Washington and other posts.",
+   "place": "Peshawar",
+   "actors": [
+    "Brad Hanson"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1996-09-30",
+   "date_precision": "day",
+   "type": "other",
+   "description": "Torkham border closed for about four days, per Hafiz, with at least 60 families waiting to repatriate and about 2,000 people waiting on each side.",
+   "place": "Torkham",
+   "actors": [
+    "Colonel Hafiz",
+    "Pakistan Border Guard"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1996-09-30",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "Afghans threw stones at Pakistan Border Guard members at Torkham; guards fired weapons into the air; press reported injuries and one refugee death.",
+   "place": "Torkham",
+   "actors": [
+    "Pakistan Border Guard"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1996-09-30",
+   "date_precision": "day",
+   "type": "other",
+   "description": "Border reopened at about 2000 hrs, allowing the 'ISI convoy' and pedestrians to cross.",
+   "place": "Torkham",
+   "actors": [
+    "Inter-Services Intelligence",
+    "Pakistan Border Guard"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1996-09",
+   "date_precision": "month",
+   "type": "arrest",
+   "description": "Pakistani officials claimed sixteen Panjshiris were arrested while trying to cross at Torkham.",
+   "place": "Torkham",
+   "actors": [
+    "Pakistan Border Guard"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1996-10-02",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "U.S. Consulate Peshawar cable reporting tension at Torkham, calling the 250,000 Kabul departure estimates overstated.",
+   "place": "Peshawar",
+   "actors": [
+    "U.S. Consulate Peshawar",
+    "Brad Hanson"
+   ],
+   "timestamp": "p.5"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Colonel Hafiz",
+   "target": "Commissionerate for Afghan Refugees Repatriation",
+   "type": "member_of",
+   "detail": "Hafiz is identified as an officer of the Commissionerate.",
+   "date": "1996-09-30",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "COMMISSIONERATE FOR AFGHAN REFUGEES REPATRIATION OFFICER COLONEL HAFIZ"
+  },
+  {
+   "source": "Brad Hanson",
+   "target": "U.S. Consulate Peshawar",
+   "type": "leads",
+   "detail": "Hanson is Principal Officer of the consulate.",
+   "date": "1996-10-02",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "BRAD HANSON, PRINCIPAL OFFICER, AMCONSUL PESHAWAR"
+  },
+  {
+   "source": "Brad Hanson",
+   "target": "U.S. Consulate Peshawar",
+   "type": "leads",
+   "detail": "Hanson is the Principal Officer of the American Consulate in Peshawar and classified the cable.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "CLASSIFIED BY: BRAD HANSON, PRINCIPAL OFFICER, AMCONSUL PESHAWAR."
+  },
+  {
+   "source": "Colonel Hafiz",
+   "target": "Commissionerate for Afghan Refugees Repatriation",
+   "type": "member_of",
+   "detail": "Hafiz is identified as an officer of the Commissionerate for Afghan Refugees Repatriation.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "COMMISSIONERATE FOR AFGHAN REFUGEES REPATRIATION OFFICER COLONEL HAFIZ"
+  },
+  {
+   "source": "Colonel Hafiz",
+   "target": "Brad Hanson",
+   "type": "met_with",
+   "detail": "Hafiz spoke with the Principal Officer (PO) in a separate conversation on September 30, 1996.",
+   "date": "1996-09-30",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "IN A SEPARATE CONVERSATION WITH PO ON SEPTEMBER 30, COMMISSIONERATE FOR AFGHAN REFUGEES REPATRIATION OFFICER COLONEL HAFIZ REMARKED"
+  },
+  {
+   "source": "Pakistan Border Guard",
+   "target": "Torkham",
+   "type": "located_in",
+   "detail": "Pakistan Border Guard members were stationed at the Torkham crossing and were stoned by Afghans.",
+   "date": "1996-09-30",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "THREW STONES AT MEMBERS OF THE PAKISTAN BORDER GUARD."
+  },
+  {
+   "source": "Inter-Services Intelligence",
+   "target": "Torkham",
+   "type": "other",
+   "detail": "A convoy of sealed trucks and fuel tankers believed to be ISI waited at Torkham to cross into Afghanistan.",
+   "date": "1996-09-30",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "30-35 SEALED ISI TRUCKS AND 15-20 FUEL TANKERS"
+  },
+  {
+   "source": "Taliban",
+   "target": "Kabul",
+   "type": "other",
+   "detail": "The cable refers to the Taliban takeover of Kabul as a possible reason people were leaving the capital.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "SOME PEOPLE MAY BE DEPARTING KABUL BECAUSE OF THE TALIBAN TAKEOVER OF THE CAPITAL"
+  },
+  {
+   "source": "Torkham",
+   "target": "Pakistan",
+   "type": "located_in",
+   "detail": "Torkham is a border crossing between Afghanistan and Pakistan.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "AFGHAN-PAK BORDER RELATIONS AT TORKHAM TENSE"
+  },
+  {
+   "source": "Torkham",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Torkham is a border crossing between Afghanistan and Pakistan.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "AFGHAN-PAK BORDER RELATIONS AT TORKHAM TENSE"
+  },
+  {
+   "source": "U.S. Consulate Peshawar",
+   "target": "Peshawar",
+   "type": "located_in",
+   "detail": "The American Consulate is located in Peshawar.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "FM AMCONSUL PESHAWAR"
+  }
+ ],
+ "sources_cited": [
+  "Local press accounts",
+  "Conversation with Colonel Hafiz",
+  "Reports of 250,000 people exiting Kabul"
+ ],
+ "key_claims": [
+  "An apparent ISI convoy of 30-35 sealed trucks and 15-20 fuel tankers was waiting to cross into Afghanistan at Torkham on 30 Sep 1996, shortly after the Taliban took Kabul.",
+  "The source identified the convoy as ISI from the licence plates and from tea with its officers in charge.",
+  "Reports of 250,000 people leaving Kabul appear greatly overstated.",
+  "Pakistan may have closed the border at Torkham to prepare for a Kabul refugee influx that did not materialize.",
+  "Pakistani officials claimed that sixteen Panjshiris had been arrested while trying to cross at Torkham."
+ ]
+}

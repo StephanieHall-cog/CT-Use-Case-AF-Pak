@@ -1,0 +1,701 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc93-2001-08-06-bin-ladin-determined-to-strike-in-us",
+  "title": "Bin Ladin Determined to Strike in US",
+  "authors": "CIA",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "2001-08-06",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7xl1-j1w1s/2001-08-06-bin-ladin-determined-to-strike-in-us.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 2,
+  "kind": "briefing",
+  "note": "President's Daily Brief. Source: 9/11 Commission Report, Chapter 8, Endnote 38; reprinted on p. 261 of the Report.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 93",
+  "relevance": "high",
+  "ocr": 0
+ },
+ "persons": [
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Bin Ladin",
+    "Bin Laden"
+   ],
+   "role": "al-Qa'ida leader planning terrorist attacks against the US",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan",
+    "United States",
+    "Kenya",
+    "Tanzania"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Bin Ladin since 1997 has wanted to conduct terrorist attacks in the US."
+    },
+    {
+     "timestamp": "p.1",
+     "quote": "Ressam says Bin Ladin was aware of the Los Angeles operation."
+    },
+    {
+     "timestamp": "p.1",
+     "quote": "After US missile strikes on his base in Afghanistan in 1998, Bin Ladin told followers he wanted to retaliate in Washington"
+    }
+   ]
+  },
+  {
+   "name": "Ramzi Yousef",
+   "aliases": [
+    "Ramzi Yousef",
+    "Aamzi Yousef (OCR)"
+   ],
+   "role": "World Trade Center bomber cited by Bin Ladin as an example to follow",
+   "organizations": [],
+   "nationality_or_origin": "",
+   "status": "detained",
+   "status_detail": "convicted World Trade Center bomber (described as such in text)",
+   "family": [],
+   "locations": [
+    "United States"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "his followers would follow the example of World Trade Center bomber Ramzi Yousef and 'bring the fighting to America'"
+    }
+   ]
+  },
+  {
+   "name": "Ahmed Ressam",
+   "aliases": [
+    "Ahmed Ressam"
+   ],
+   "role": "convicted millennium plotter, planned attack on Los Angeles International Airport",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "",
+   "status": "detained",
+   "status_detail": "convicted; cooperating with the FBI",
+   "family": [],
+   "locations": [
+    "Canada",
+    "Los Angeles"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Convicted plotter Ahmed Ressam has told the FBI that he conceived the idea to attack Los Angeles International Airport himself"
+    }
+   ]
+  },
+  {
+   "name": "Abu Zubaydah",
+   "aliases": [
+    "Abu Zubaida"
+   ],
+   "role": "Bin Ladin lieutenant who encouraged and helped plan the millennium plot",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Bin Ladin lieutenant Abu Zubaydah encouraged him and helped facilitate the operation."
+    },
+    {
+     "timestamp": "p.1",
+     "quote": "in 1998 Abu Zubaydah was planning his own US attack"
+    }
+   ]
+  },
+  {
+   "name": "'Umar 'Abd al-Rahman",
+   "aliases": [
+    "Blind Shaykh",
+    "Omar Abdel Rahman",
+    "Umar Abd al-Rehman"
+   ],
+   "role": "US-held 'Blind Shaykh' whose release Bin Ladin allegedly wanted via an aircraft hijacking",
+   "organizations": [],
+   "nationality_or_origin": "Egyptian",
+   "status": "detained",
+   "status_detail": "held in US custody",
+   "family": [],
+   "locations": [
+    "United States"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "hijack a US aircraft to gain the release of 'Blind Shaykh' 'Umar 'Abd al-Rehman and other US-held extremists"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "al-Qa'ida",
+   "aliases": [
+    "al-Qaeda"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Egyptian Islamic Jihad"
+   ],
+   "rivals": [
+    "United States"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Members incl. US citizens resided in or traveled to the US; apparent support structure in US; cell planning Nairobi bombings."
+  },
+  {
+   "name": "Egyptian Islamic Jihad",
+   "aliases": [
+    "EIJ"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qa'ida"
+   ],
+   "rivals": [],
+   "country_base": "Egypt",
+   "notes": "EIJ operative with US access reported to be planned for use by Bin Ladin; senior EIJ member lived in California in mid-1990s."
+  },
+  {
+   "name": "FBI",
+   "aliases": [
+    "Federal Bureau of Investigation"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "CIA"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Conducting about 70 full field investigations considered Bin Ladin-related."
+  },
+  {
+   "name": "CIA",
+   "aliases": [
+    "Central Intelligence Agency"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "FBI"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Author of the briefing; investigating call to Embassy in UAE."
+  },
+  {
+   "name": "Nairobi cell",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qa'ida"
+   ],
+   "rivals": [],
+   "country_base": "Kenya",
+   "notes": "Some members planning the bombings were arrested and deported in 1997."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Location of Bin Ladin's base struck by US missiles in 1998"
+  },
+  {
+   "name": "United States",
+   "type": "country",
+   "country": "United States",
+   "parent": "",
+   "significance": "Target of planned attacks"
+  },
+  {
+   "name": "Canada",
+   "type": "country",
+   "country": "Canada",
+   "parent": "",
+   "significance": "Site of 1999 millennium plotting"
+  },
+  {
+   "name": "Los Angeles International Airport",
+   "type": "base",
+   "country": "United States",
+   "parent": "Los Angeles",
+   "significance": "Target of the millennium plot"
+  },
+  {
+   "name": "Nairobi",
+   "type": "city",
+   "country": "Kenya",
+   "parent": "Kenya",
+   "significance": "Embassy surveilled from 1993; bombed 1998"
+  },
+  {
+   "name": "Dar es Salaam",
+   "type": "city",
+   "country": "Tanzania",
+   "parent": "Tanzania",
+   "significance": "Embassy surveilled from 1993; bombed 1998"
+  },
+  {
+   "name": "New York",
+   "type": "city",
+   "country": "United States",
+   "parent": "New York",
+   "significance": "Alleged Bin Ladin cell recruiting Muslim-American youth; surveillance of federal buildings"
+  },
+  {
+   "name": "California",
+   "type": "province",
+   "country": "United States",
+   "parent": "United States",
+   "significance": "Senior EIJ member lived there in mid-1990s"
+  },
+  {
+   "name": "United Arab Emirates",
+   "type": "country",
+   "country": "United Arab Emirates",
+   "parent": "",
+   "significance": "US Embassy received call in May 2001 about Bin Ladin supporters planning attacks in US"
+  }
+ ],
+ "events": [
+  {
+   "date": "1993",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Bin Ladin associates surveilled US Embassies in Nairobi and Dar es Salaam as early as 1993",
+   "place": "Nairobi; Dar es Salaam",
+   "actors": [
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1997",
+   "date_precision": "year",
+   "type": "arrest",
+   "description": "Some Nairobi cell members planning the bombings were arrested and deported",
+   "place": "Nairobi",
+   "actors": [
+    "Nairobi cell"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998",
+   "date_precision": "year",
+   "type": "attack",
+   "description": "Bombings of US Embassies in Kenya and Tanzania",
+   "place": "Nairobi; Dar es Salaam",
+   "actors": [
+    "al-Qa'ida"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998",
+   "date_precision": "year",
+   "type": "strike",
+   "description": "US missile strikes on Bin Ladin's base in Afghanistan; Bin Ladin then said he wanted to retaliate in Washington",
+   "place": "Afghanistan",
+   "actors": [
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1999",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Millennium plot in Canada, including planned attack on LAX, involving Ressam and Abu Zubaydah",
+   "place": "Canada",
+   "actors": [
+    "Ahmed Ressam",
+    "Abu Zubaydah"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-05",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Call to US Embassy in UAE reporting a group of Bin Ladin supporters in the US planning attacks with explosives",
+   "place": "United Arab Emirates",
+   "actors": [
+    "CIA",
+    "FBI"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "2001-08-06",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA President's Daily Brief item 'Bin Ladin Determined To Strike in US'",
+   "place": "",
+   "actors": [
+    "CIA"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1993",
+   "date_precision": "year",
+   "type": "other",
+   "detail": "",
+   "description": "Bin Ladin associates surveil US Embassies in Nairobi and Dar es Salaam.",
+   "place": "Nairobi; Dar es Salaam",
+   "actors": [
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1997",
+   "date_precision": "year",
+   "type": "arrest",
+   "description": "Some Nairobi cell members planning the embassy bombings arrested and deported.",
+   "place": "Nairobi",
+   "actors": [
+    "Nairobi cell"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1997",
+   "date_precision": "year",
+   "type": "statement",
+   "description": "Bin Ladin implies in US TV interviews (1997 and 1998) that followers would bring the fighting to America.",
+   "place": "",
+   "actors": [
+    "Usama bin Ladin",
+    "Ramzi Yousef"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998",
+   "date_precision": "year",
+   "type": "attack",
+   "description": "Bombings of US Embassies in Kenya and Tanzania.",
+   "place": "Nairobi; Dar es Salaam",
+   "actors": [
+    "Usama bin Ladin",
+    "al-Qa'ida"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998",
+   "date_precision": "year",
+   "type": "strike",
+   "description": "US missile strikes on Bin Ladin's base in Afghanistan; Bin Ladin told followers he wanted to retaliate in Washington.",
+   "place": "Afghanistan",
+   "actors": [
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Abu Zubaydah reportedly planning his own US attack, per Ressam.",
+   "place": "",
+   "actors": [
+    "Abu Zubaydah",
+    "Ahmed Ressam"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1999",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Millennium plot in Canada, including planned attack on Los Angeles International Airport.",
+   "place": "Canada",
+   "actors": [
+    "Ahmed Ressam",
+    "Abu Zubaydah",
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-05",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Call to US Embassy in UAE warning that Bin Ladin supporters were in the US planning attacks with explosives.",
+   "place": "United Arab Emirates",
+   "actors": [
+    "CIA",
+    "FBI"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "2001-08-06",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA President's Daily Brief 'Bin Ladin Determined To Strike in US' issued.",
+   "place": "United States",
+   "actors": [
+    "CIA"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Abu Zubaydah",
+   "target": "Usama bin Ladin",
+   "type": "reports_to",
+   "detail": "Described as a Bin Ladin lieutenant.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Bin Ladin lieutenant Abu Zubaydah encouraged him"
+  },
+  {
+   "source": "Abu Zubaydah",
+   "target": "Ahmed Ressam",
+   "type": "other",
+   "detail": "Encouraged Ressam and helped facilitate the LAX operation.",
+   "date": "1999",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Abu Zubaydah encouraged him and helped facilitate the operation."
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "al-Qa'ida",
+   "type": "leads",
+   "detail": "Bin Ladin's followers/associates act as al-Qa'ida; he plans operations years in advance.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "he prepares operations years in advance and is not deterred by setbacks"
+  },
+  {
+   "source": "Egyptian Islamic Jihad",
+   "target": "Usama bin Ladin",
+   "type": "allied_with",
+   "detail": "An EIJ operative reportedly was to be exploited by Bin Ladin for access to the US.",
+   "date": "1998",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Bin Ladin was planning to exploit the operative's access to the US to mount a terrorist strike."
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Ramzi Yousef",
+   "type": "other",
+   "detail": "Bin Ladin implied his followers would follow Yousef's example.",
+   "date": "1997-1998",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "his followers would follow the example of World Trade Center bomber"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "'Umar 'Abd al-Rahman",
+   "type": "other",
+   "detail": "Reported (uncorroborated) plan to hijack a US aircraft to free the Blind Shaykh.",
+   "date": "1998",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Bin Ladin wanted to hijack a US aircraft to gain the release of 'Blind Shaykh'"
+  },
+  {
+   "source": "Abu Zubaydah",
+   "target": "Usama bin Ladin",
+   "type": "member_of",
+   "detail": "Abu Zubaydah described as a Bin Ladin lieutenant.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Bin Ladin lieutenant Abu Zubaydah encouraged him and helped facilitate the operation."
+  },
+  {
+   "source": "Abu Zubaydah",
+   "target": "Usama bin Ladin",
+   "type": "reports_to",
+   "detail": "Abu Zubaydah was Bin Ladin's lieutenant.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Bin Ladin lieutenant Abu Zubaydah"
+  },
+  {
+   "source": "Ahmed Ressam",
+   "target": "Abu Zubaydah",
+   "type": "other",
+   "detail": "Abu Zubaydah encouraged Ressam and helped facilitate the planned attack on Los Angeles International Airport.",
+   "date": "1999",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Abu Zubaydah encouraged him and helped facilitate the operation."
+  },
+  {
+   "source": "Ahmed Ressam",
+   "target": "Los Angeles International Airport",
+   "type": "other",
+   "detail": "Ressam says he conceived the idea of attacking LAX himself.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "he conceived the idea to attack Los Angeles International Airport himself"
+  },
+  {
+   "source": "Ahmed Ressam",
+   "target": "Usama bin Ladin",
+   "type": "other",
+   "detail": "Ressam says Bin Ladin was aware of the Los Angeles operation.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Ressam says Bin Ladin was aware of the Los Angeles operation."
+  },
+  {
+   "source": "Ahmed Ressam",
+   "target": "FBI",
+   "type": "other",
+   "detail": "Ressam gave information to the FBI after conviction.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Convicted plotter Ahmed Ressam has told the FBI"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Bin Ladin had a base in Afghanistan struck by US missiles in 1998.",
+   "date": "1998",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "US missile strikes on his base in Afghanistan in 1998"
+  },
+  {
+   "source": "Nairobi cell",
+   "target": "al-Qa'ida",
+   "type": "member_of",
+   "detail": "Nairobi cell members planned the 1998 embassy bombings; associated with Bin Ladin.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "some members of the Nairobi cell planning the bombings were arrested and deported in 1997."
+  },
+  {
+   "source": "Nairobi cell",
+   "target": "Nairobi",
+   "type": "located_in",
+   "detail": "Cell based in Nairobi.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "some members of the Nairobi cell planning the bombings"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Nairobi",
+   "type": "other",
+   "detail": "Bin Ladin associates surveilled the US Embassy in Nairobi as early as 1993.",
+   "date": "1993",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Bin Ladin associates surveilled our Embassies in Nairobi and Dar es Salaam as early as 1993"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Dar es Salaam",
+   "type": "other",
+   "detail": "Bin Ladin associates surveilled the US Embassy in Dar es Salaam as early as 1993.",
+   "date": "1993",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Bin Ladin associates surveilled our Embassies in Nairobi and Dar es Salaam as early as 1993"
+  },
+  {
+   "source": "al-Qa'ida",
+   "target": "United States",
+   "type": "located_in",
+   "detail": "Al-Qa'ida members, some US citizens, have resided in or traveled to the US and maintain a support structure.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "members—including some who are US citizens—have resided in or traveled to the US for years"
+  },
+  {
+   "source": "Egyptian Islamic Jihad",
+   "target": "California",
+   "type": "located_in",
+   "detail": "A senior EIJ member lived in California in the mid-1990s.",
+   "date": "mid-1990s",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "a senior EIJ member lived in California in the mid-1990s"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "New York",
+   "type": "other",
+   "detail": "A Bin Ladin cell in New York was reportedly recruiting Muslim-American youth for attacks.",
+   "date": "1998",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "a Bin Ladin cell in New York was recruiting Muslim-American youth for attacks."
+  },
+  {
+   "source": "FBI",
+   "target": "Usama bin Ladin",
+   "type": "other",
+   "detail": "FBI conducting about 70 full field investigations considered Bin Ladin-related.",
+   "date": "2001",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "approximately 70 full field investigations throughout the US that it considers Bin Ladin-related."
+  },
+  {
+   "source": "CIA",
+   "target": "FBI",
+   "type": "allied_with",
+   "detail": "CIA and FBI jointly investigating the May call to the US Embassy in the UAE.",
+   "date": "2001-05",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "CIA and the FBI are investigating a call to our Embassy in the UAE in May"
+  }
+ ],
+ "sources_cited": [
+  "Clandestine, foreign government, and media reports",
+  "Ahmed Ressam debriefings by the FBI",
+  "FBI information on suspicious activity in the US",
+  "Call to US Embassy in UAE, May 2001"
+ ],
+ "key_claims": [
+  "Bin Ladin has wanted to attack inside the US since 1997 and implied his followers would emulate Ramzi Yousef.",
+  "After the 1998 US missile strikes Bin Ladin told followers he wanted to retaliate in Washington.",
+  "Ressam says Abu Zubaydah encouraged and helped the LAX plot and that Bin Ladin knew of it.",
+  "Al-Qa'ida members, including US citizens, have lived in or traveled to the US and apparently maintain a support structure.",
+  "FBI sees suspicious activity consistent with hijacking preparations, including surveillance of federal buildings in New York, and runs about 70 Bin Ladin-related field investigations."
+ ]
+}

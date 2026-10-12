@@ -1,0 +1,823 @@
+{
+ "document": {
+  "doc_id": "nsa-2021-afghanistan-2020-20-year-war-2-doc01-2001-10-30-rumsfeld-snowflake-to-douglas-feith-strategy-with",
+  "title": "Rumsfeld snowflake to Douglas Feith, \"Strategy,\" with Attachment \"U.S. Strategy in Afghanistan\" (NSC, Oct 16, 2001)",
+  "authors": "Office of the Secretary of Defense (Donald Rumsfeld); attachment by National Security Council",
+  "publisher": "National Security Archive (GWU), Afghanistan 20/20: The 20-Year War in 20 Documents | National Security Archive",
+  "published": "2001-10-30",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qy3fic-1rilh/01.pdf",
+  "source_page": "https://nsarchive.gwu.edu/briefing-book/afghanistan/2021-08-19/afghanistan-2020-20-year-war-20-documents",
+  "pages": 7,
+  "kind": "memo",
+  "note": "[Secret] Foundational document for the first phase of U.S. strategy in Afghanistan, approved by the NSC on Oct 16, 2001, with Rumsfeld's handwritten edits and an Oct 30 cover note to Feith. It stresses destroying al-Qaeda and the Taliban, using any and all Afghan tribes and factions, inserting CIA teams and special forces, and avoiding commitment to post-Taliban military involvement. Diplomacy with Pakistan, Iran and Russia is emphasized, while UN diplomacy is limited.",
+  "collection": "new-afghanistan-2020-20-year-war-20-docu",
+  "doc_number": "Document 1",
+  "relevance": "high",
+  "ocr": 0
+ },
+ "persons": [
+  {
+   "name": "Donald Rumsfeld",
+   "aliases": [
+    "Donald H. Rumsfeld"
+   ],
+   "role": "US Secretary of Defense; author of snowflake memo and draft strategy paper edits",
+   "organizations": [
+    "Office of the Secretary of Defense",
+    "US Department of Defense"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "FROM: Donald Rumsfeld"
+    },
+    {
+     "timestamp": "p.1",
+     "quote": "Here are some edits to the \"U.S. Strategy in Afghanistan:\" It is a pretty good paper."
+    }
+   ]
+  },
+  {
+   "name": "Douglas Feith",
+   "aliases": [
+    "Doug Feith"
+   ],
+   "role": "Addressee of Rumsfeld's memo; asked to review and edit the strategy paper",
+   "organizations": [
+    "Office of the Secretary of Defense",
+    "US Department of Defense"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "TO: Doug Feith"
+    },
+    {
+     "timestamp": "p.1",
+     "quote": "Please take a look at the additions and changes. Mark them in bold type, do your own edit"
+    }
+   ]
+  },
+  {
+   "name": "Colin Powell",
+   "aliases": [],
+   "role": "US Secretary of State; proposed recipient of copy of revised paper",
+   "organizations": [
+    "US Department of State"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "to the Vice President with copies to Colin Powell, Condi Rice and George Tenet"
+    }
+   ]
+  },
+  {
+   "name": "Condoleezza Rice",
+   "aliases": [
+    "Condi Rice"
+   ],
+   "role": "US National Security Advisor; proposed recipient of copy",
+   "organizations": [
+    "National Security Council"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "copies to Colin Powell, Condi Rice and George Tenet"
+    }
+   ]
+  },
+  {
+   "name": "George Tenet",
+   "aliases": [
+    "George J. Tenet"
+   ],
+   "role": "Director of Central Intelligence; proposed recipient of copy",
+   "organizations": [
+    "CIA"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "copies to Colin Powell, Condi Rice and George Tenet"
+    }
+   ]
+  },
+  {
+   "name": "Zahir Shah",
+   "aliases": [
+    "King Zahir Shah",
+    "Mohammed Zahir Shah"
+   ],
+   "role": "Exiled former King of Afghanistan; possible figure of influence among Pashtuns",
+   "organizations": [],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.5",
+     "quote": "The U.S. should explore the value of ties with King Zahir Shah. He may have some influence with Pashtuns."
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Al-Qaida",
+   "aliases": [
+    "al-Qaeda"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [
+    "United States"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Targeted for elimination of leadership and forces; assets described as people."
+  },
+  {
+   "name": "Taliban",
+   "aliases": [],
+   "type": "political movement",
+   "parent_or_allies": [
+    "Al-Qaida"
+   ],
+   "rivals": [
+    "Northern Alliance",
+    "United States"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Goal to terminate Taliban rule and end sanctuary for terrorism."
+  },
+  {
+   "name": "Northern Alliance",
+   "aliases": [],
+   "type": "militia",
+   "parent_or_allies": [
+    "United States"
+   ],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Described as Tajik-Uzbek; to receive US conventional support north of Kabul."
+  },
+  {
+   "name": "CIA",
+   "aliases": [
+    "Central Intelligence Agency"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "US Department of Defense"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Teams to be inserted in Afghanistan, coordinating with DoD to engage factions."
+  },
+  {
+   "name": "US Department of Defense",
+   "aliases": [
+    "DoD"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "CIA"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Coordinates with CIA; Special Forces teams."
+  },
+  {
+   "name": "Office of the Secretary of Defense",
+   "aliases": [
+    "OSD"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "US Department of Defense"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Origin of the memo."
+  },
+  {
+   "name": "National Security Council",
+   "aliases": [
+    "NSC"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Attributed author of the attachment."
+  },
+  {
+   "name": "CINCENT",
+   "aliases": [
+    "US Central Command",
+    "CENTCOM"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "US Department of Defense"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "To use all capabilities to encourage ground forces."
+  },
+  {
+   "name": "United Nations",
+   "aliases": [
+    "U.N."
+   ],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "UN diplomacy to be limited; possible basis for peacekeeping force."
+  },
+  {
+   "name": "US Special Forces",
+   "aliases": [
+    "A teams"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "US Department of Defense"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "To be inserted in North and South."
+  },
+  {
+   "name": "US Department of State",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Powell's agency (inferred)."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Target of US strategy; sanctuary for terrorism."
+  },
+  {
+   "name": "Kabul",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Capital; plans for Northern Alliance advance and international administration."
+  },
+  {
+   "name": "Herat",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Key city from which Taliban should be pushed."
+  },
+  {
+   "name": "Mazar-e-Sharif",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Key city from which Taliban should be pushed."
+  },
+  {
+   "name": "Panshir",
+   "type": "valley",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Northern Alliance area north of Kabul."
+  },
+  {
+   "name": "Shomali plains",
+   "type": "region",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Front area north of Kabul."
+  },
+  {
+   "name": "Uzbekistan",
+   "type": "country",
+   "country": "Uzbekistan",
+   "parent": "",
+   "significance": "Land bridge to be established from northern Afghanistan."
+  },
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Possibly key to southern contacts and balancing Northern Alliance gains."
+  },
+  {
+   "name": "Iran",
+   "type": "country",
+   "country": "Iran",
+   "parent": "",
+   "significance": "Bilateral diplomacy target; Pashtun fear of Iranian-backed Shia."
+  },
+  {
+   "name": "Russia",
+   "type": "country",
+   "country": "Russia",
+   "parent": "",
+   "significance": "Bilateral diplomacy; Pashtuns hate Russians."
+  }
+ ],
+ "events": [
+  {
+   "date": "2001-10-16",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "NSC/DoD draft memo 'U.S. Strategy in Afghanistan' dated 7:43 AM setting goals against Al-Qaida and the Taliban.",
+   "place": "Washington",
+   "actors": [
+    "National Security Council",
+    "Donald Rumsfeld"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "2001-10-30",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Rumsfeld snowflake to Feith asking for edits to strategy paper before sending to Vice President, Powell, Rice and Tenet.",
+   "place": "Washington",
+   "actors": [
+    "Donald Rumsfeld",
+    "Douglas Feith"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-10-16",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Draft discussion paper 'U.S. Strategy in Afghanistan' written setting goals re Al-Qaida and Taliban, execution, operations, Kabul plan.",
+   "place": "Afghanistan",
+   "actors": [
+    "Donald Rumsfeld",
+    "US Department of Defense"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "2001-10-30",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Rumsfeld sends Feith edits to the strategy paper and a draft cover memo to the Vice President with copies to Powell, Rice and Tenet.",
+   "place": "",
+   "actors": [
+    "Donald Rumsfeld",
+    "Douglas Feith",
+    "Colin Powell",
+    "Condoleezza Rice",
+    "George Tenet"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-10",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Proposed urgent insertion of additional CIA teams and Special Forces A teams into Afghanistan, North and South.",
+   "place": "Afghanistan",
+   "actors": [
+    "CIA",
+    "US Special Forces"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "2001-10",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Proposed Northern Alliance advance to eliminate Taliban resistance in Kabul and take the city, with U.S. conventional support north of Kabul.",
+   "place": "Kabul",
+   "actors": [
+    "Northern Alliance",
+    "Taliban"
+   ],
+   "timestamp": "p.4"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Donald Rumsfeld",
+   "target": "Douglas Feith",
+   "type": "reports_to",
+   "detail": "Rumsfeld directs Feith to edit the strategy paper.",
+   "date": "2001-10-30",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Please take a look at the additions and changes. Mark them in bold type, do your own edit"
+  },
+  {
+   "source": "CIA",
+   "target": "US Department of Defense",
+   "type": "allied_with",
+   "detail": "DoD and CIA to coordinate closely to engage Afghan factions against Al-Qaida and Taliban.",
+   "date": "2001-10-16",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "DoD and CIA coordinate closely in getting all factions engaged in eliminating Al-Qaida and Taliban"
+  },
+  {
+   "source": "United States",
+   "target": "Northern Alliance",
+   "type": "allied_with",
+   "detail": "US to provide air strikes, ammunition, supplies, food to Northern Alliance.",
+   "date": "2001-10-16",
+   "confidence": "stated",
+   "timestamp": "p.6",
+   "quote": "The U.S. will provide support to accomplish those goals: coordinated air strikes with ground movement, ammunition, supplies and food."
+  },
+  {
+   "source": "Taliban",
+   "target": "Al-Qaida",
+   "type": "allied_with",
+   "detail": "Taliban treated as harboring terrorism; both targeted together.",
+   "date": "2001-10-16",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "End the use of Afghanistan as a sanctuary for terrorism."
+  },
+  {
+   "source": "Northern Alliance",
+   "target": "Taliban",
+   "type": "rival_of",
+   "detail": "Northern Alliance to eliminate Taliban resistance and take Kabul.",
+   "date": "2001-10-16",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "may set conditions for Northern Alliance to eliminate Taliban resistance in Kabul and take the city"
+  },
+  {
+   "source": "Zahir Shah",
+   "target": "Pashtuns",
+   "type": "other",
+   "detail": "Zahir Shah may have influence among Pashtuns if seen to have US confidence.",
+   "date": "2001-10-16",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "He may have some influence with Pashtuns, particularly if he is seen to have the confidence of the U.S."
+  },
+  {
+   "source": "Donald Rumsfeld",
+   "target": "Douglas Feith",
+   "type": "other",
+   "detail": "Rumsfeld sends Feith edits to the 'U.S. Strategy in Afghanistan' paper and asks him to review and edit it.",
+   "date": "2001-10-30",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Here are some edits to the \"U.S. Strategy in Afghanistan:\" It is a pretty good paper. Please take a look at the additions and changes."
+  },
+  {
+   "source": "Donald Rumsfeld",
+   "target": "Colin Powell",
+   "type": "other",
+   "detail": "Rumsfeld's draft cover memo would send the revised strategy paper to the Vice President with copies to Colin Powell.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "draft memo to send it with to the Vice President with copies to Colin Powell, Condi Rice and George Tenet"
+  },
+  {
+   "source": "Donald Rumsfeld",
+   "target": "Condoleezza Rice",
+   "type": "other",
+   "detail": "Rumsfeld's draft cover memo would copy Condi Rice on the revised strategy paper.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "copies to Colin Powell, Condi Rice and George Tenet"
+  },
+  {
+   "source": "Donald Rumsfeld",
+   "target": "George Tenet",
+   "type": "other",
+   "detail": "Rumsfeld's draft cover memo would copy George Tenet on the revised strategy paper.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "copies to Colin Powell, Condi Rice and George Tenet"
+  },
+  {
+   "source": "US Department of Defense",
+   "target": "CIA",
+   "type": "allied_with",
+   "detail": "DoD and CIA are to coordinate closely to get all Afghan factions engaged against Al-Qaida and the Taliban using incentives and disincentives.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "DoD and CIA coordinate closely in getting all factions engaged in eliminating Al-Qaida and Taliban"
+  },
+  {
+   "source": "CIA",
+   "target": "US Special Forces",
+   "type": "allied_with",
+   "detail": "CIA teams and Special Forces are to be inserted in-country together, in both North and South.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "Urgently insert additional CIA teams and Special Forces in country operational elements (A teams), by any means, both in the North and the South."
+  },
+  {
+   "source": "CIA",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "CIA and DoD teams are to be on the ground in Afghanistan, in North and South.",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "CIA and DoD teams on the ground are critical for success-U.S. influence, targeting, logistics and humanitarian efforts."
+  },
+  {
+   "source": "US Special Forces",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Special Forces A teams are to be inserted in country.",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "Special Forces in country operational elements (A teams)"
+  },
+  {
+   "source": "US Department of Defense",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "DoD teams are to operate on the ground in Afghanistan.",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "CIA and DoD teams on the ground are critical for success"
+  },
+  {
+   "source": "US Department of Defense",
+   "target": "Northern Alliance",
+   "type": "allied_with",
+   "detail": "U.S. ground liaison teams are to urge Afghan ground forces in the North to attack and occupy cities; the U.S. will provide the Northern Alliance with conventional support.",
+   "confidence": "inferred",
+   "timestamp": "p.4",
+   "quote": "Providing additional conventional support to Northern Alliance forces north of Kabul"
+  },
+  {
+   "source": "Northern Alliance",
+   "target": "Panshir",
+   "type": "located_in",
+   "detail": "Northern Alliance forces are positioned north of Kabul around Panshir and the Shomali plains.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "Northern Alliance forces north of Kabul (the vicinity of Panshir and the Shomali plains)"
+  },
+  {
+   "source": "Northern Alliance",
+   "target": "Shomali plains",
+   "type": "located_in",
+   "detail": "Northern Alliance forces are in the vicinity of the Shomali plains.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "(the vicinity of Panshir and the Shomali plains)"
+  },
+  {
+   "source": "Northern Alliance",
+   "target": "Taliban",
+   "type": "rival_of",
+   "detail": "Northern Alliance is to eliminate Taliban resistance in Kabul and take the city.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "may set conditions for Northern Alliance to eliminate Taliban resistance in Kabul and take the city"
+  },
+  {
+   "source": "US Department of Defense",
+   "target": "Taliban",
+   "type": "rival_of",
+   "detail": "U.S. strategy aims to terminate Taliban rule and destroy Taliban people and capabilities.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Terminate the rule of the Taliban and their leadership."
+  },
+  {
+   "source": "US Department of Defense",
+   "target": "Al-Qaida",
+   "type": "rival_of",
+   "detail": "U.S. goal is to eliminate Al-Qaida leadership and forces.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Eliminate Al-Qaida leadership and forces."
+  },
+  {
+   "source": "Taliban",
+   "target": "Al-Qaida",
+   "type": "allied_with",
+   "detail": "Taliban allowed Afghanistan to serve as sanctuary for terrorism; both are targeted together as enemy.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "End the use of Afghanistan as a sanctuary for terrorism."
+  },
+  {
+   "source": "Al-Qaida",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Al-Qaida operates from Afghanistan under Taliban sanctuary.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "End the use of Afghanistan as a sanctuary for terrorism."
+  },
+  {
+   "source": "CINCENT",
+   "target": "US Department of Defense",
+   "type": "member_of",
+   "detail": "CINCENT, a U.S. military commander, is tasked to use all capabilities to encourage ground forces to achieve U.S. goals.",
+   "confidence": "inferred",
+   "timestamp": "p.4",
+   "quote": "CINCENT will use all capabilities to encourage ground forces to achieve U.S. goals"
+  },
+  {
+   "source": "CINCENT",
+   "target": "Northern Alliance",
+   "type": "other",
+   "detail": "CINCENT is to provide air attacks and money to support Afghan ground forces.",
+   "confidence": "inferred",
+   "timestamp": "p.4",
+   "quote": "Attack from the air enemy capabilities to facilitate success of Afghan forces on the ground."
+  },
+  {
+   "source": "Taliban",
+   "target": "Kabul",
+   "type": "located_in",
+   "detail": "Taliban hold Kabul, to be pushed out.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "The sooner the Taliban is pushed out of Kabul, Herat, Mazar-e-Sharif, and other key cities, the better."
+  },
+  {
+   "source": "Taliban",
+   "target": "Herat",
+   "type": "located_in",
+   "detail": "Taliban control Herat.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "pushed out of Kabul, Herat, Mazar-e-Sharif"
+  },
+  {
+   "source": "Taliban",
+   "target": "Mazar-e-Sharif",
+   "type": "located_in",
+   "detail": "Taliban control Mazar-e-Sharif.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "pushed out of Kabul, Herat, Mazar-e-Sharif"
+  },
+  {
+   "source": "Northern Alliance",
+   "target": "Uzbekistan",
+   "type": "other",
+   "detail": "Afghan forces in the North are urged to establish a land bridge to Uzbekistan.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "Establish a land bridge to Uzbekistan by attacking and occupying land and major cities."
+  },
+  {
+   "source": "US Department of Defense",
+   "target": "Pakistan",
+   "type": "negotiated_with",
+   "detail": "U.S. to engage bilaterally with Pakistan, also Iran and Russia, to reinforce messages to Northern Alliance and Southern Pashtuns.",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "bilaterally, particularly with Pakistan, but also with Iran and Russia, to reinforce our messages to the Northern Alliance and to Southern Pashtuns"
+  },
+  {
+   "source": "US Department of Defense",
+   "target": "Iran",
+   "type": "negotiated_with",
+   "detail": "Bilateral diplomacy with Iran proposed.",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "particularly with Pakistan, but also with Iran and Russia"
+  },
+  {
+   "source": "US Department of Defense",
+   "target": "Russia",
+   "type": "negotiated_with",
+   "detail": "Bilateral diplomacy with Russia proposed.",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "particularly with Pakistan, but also with Iran and Russia"
+  },
+  {
+   "source": "Pakistan",
+   "target": "Northern Alliance",
+   "type": "rival_of",
+   "detail": "Pakistan could help balance gains by the Northern Alliance via southern contacts.",
+   "confidence": "inferred",
+   "timestamp": "p.5",
+   "quote": "Pakistan could be key in this regard, particularly if the U.S. emphasizes to them that this is the key to balancing gains by the Northern Alliance."
+  },
+  {
+   "source": "US Department of Defense",
+   "target": "Zahir Shah",
+   "type": "other",
+   "detail": "U.S. should explore ties with King Zahir Shah, who may have influence with Pashtuns.",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "The U.S. should explore the value of ties with King Zahir Shah. He may have some influence with Pashtuns."
+  },
+  {
+   "source": "Iran",
+   "target": "Northern Alliance",
+   "type": "allied_with",
+   "detail": "Iranian-backed Shia are feared by Pashtuns; Iran is linked to anti-Pashtun domination.",
+   "confidence": "inferred",
+   "timestamp": "p.5",
+   "quote": "given Pashtun fear of domination by Iranian-backed Shia"
+  },
+  {
+   "source": "United Nations",
+   "target": "Kabul",
+   "type": "other",
+   "detail": "A UN-based or ad hoc international peacekeeping force is envisioned for Kabul.",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "An international group could be UN-based or an ad hoc collection of volunteer states"
+  },
+  {
+   "source": "US Department of Defense",
+   "target": "Northern Alliance",
+   "type": "funded_by",
+   "detail": "The Northern Alliance is promised U.S. air strikes, ammunition, supplies and food.",
+   "confidence": "stated",
+   "timestamp": "p.6",
+   "quote": "The U.S. will provide support to accomplish those goals: coordinated air strikes with ground movement, ammunition, supplies and food."
+  },
+  {
+   "source": "Office of the Secretary of Defense",
+   "target": "US Department of Defense",
+   "type": "member_of",
+   "detail": "Rumsfeld's office (OSD) is part of DoD.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Donald Rumsfeld"
+  },
+  {
+   "source": "Douglas Feith",
+   "target": "Donald Rumsfeld",
+   "type": "reports_to",
+   "detail": "Feith receives instructions from Rumsfeld.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Here are some edits to the \"U.S. Strategy in Afghanistan:\""
+  }
+ ],
+ "sources_cited": [
+  "10/16/01 memo, \"U.S. Strategy in Afghanistan\""
+ ],
+ "key_claims": [
+  "US strategy aimed to eliminate Al-Qaida leadership and forces and end Taliban rule, treating both as people-based assets to be destroyed.",
+  "The paper proposed using any Afghan tribes and factions, with DoD and CIA coordination and incentives, to eliminate Al-Qaida and Taliban.",
+  "It called for urgent insertion of CIA teams and Special Forces in North and South, with the Northern Alliance advancing on Kabul.",
+  "It advised against committing to post-Taliban military involvement and against agonizing over post-Taliban arrangements.",
+  "It identified Pakistan as potentially key to establishing southern contacts to balance Northern Alliance gains.",
+  "It suggested exploring ties with King Zahir Shah and being wary of association with Russia and Iran given Pashtun fears.",
+  "It envisioned an international peacekeeping force for Kabul, not US-led, to relieve Pashtun fears of Northern Alliance domination."
+ ]
+}

@@ -1,0 +1,332 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb272-doc13-1989-02-14-excerpt-from-statement-of-the-soviet-military-comm",
+  "title": "Excerpt from Statement of the Soviet Military Command in Afghanistan on the Withdrawal of Soviet Troops, February 14, 1989",
+  "authors": "Soviet Military Command in Afghanistan / USSR Defense Ministry",
+  "publisher": "National Security Archive (GWU), Afghanistan and the Soviet Withdrawal 1989 20 Years Later",
+  "published": "1989-02-14",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB272/Doc%2013%201989-02-14%20Military%20statement.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB272/index.htm",
+  "pages": 2,
+  "kind": "other",
+  "note": "Statement delivered to the head of the UN Mission in Afghanistan on Feb 14, 1989. It reviews Soviet-Afghan relations before 1979, justifies sending troops after repeated Afghan requests, criticizes US arming of the opposition despite the Geneva agreements, and rejects Vietnam comparisons.",
+  "collection": "NSAEBB272",
+  "doc_number": "Document 13",
+  "relevance": "medium",
+  "ocr": 0
+ },
+ "persons": [],
+ "organizations": [
+  {
+   "name": "Soviet Military Command in Afghanistan",
+   "aliases": [
+    "Soviet Military Command"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "USSR Defense Ministry"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Author of the 14 Feb 1989 statement on the withdrawal of Soviet troops."
+  },
+  {
+   "name": "USSR Defense Ministry",
+   "aliases": [
+    "Soviet Defense Ministry"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "USSR",
+   "notes": "The Defense Minister signed the withdrawal order on 7 Apr 1988; the ministry prepared the February 1989 statement."
+  },
+  {
+   "name": "UN Mission in Afghanistan",
+   "aliases": [],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Its head received the Soviet statement on 14 Feb 1989."
+  },
+  {
+   "name": "Afghan government",
+   "aliases": [
+    "legitimate Afghan government"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "USSR Defense Ministry"
+   ],
+   "rivals": [
+    "Afghan opposition"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Described by the Soviets as having repeatedly requested Soviet troops."
+  },
+  {
+   "name": "Afghan opposition",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [
+    "United States"
+   ],
+   "rivals": [
+    "Afghan government"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Soviet statement accuses the U.S. of arming the opposition in disregard of the Geneva agreements."
+  },
+  {
+   "name": "United States",
+   "aliases": [
+    "U.S.",
+    "Americans"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [
+    "Soviet Military Command in Afghanistan"
+   ],
+   "country_base": "United States",
+   "notes": "Criticized for arming the Afghan opposition; compared with Soviet actions via Vietnam."
+  },
+  {
+   "name": "Geneva Agreements on Afghanistan",
+   "aliases": [
+    "Geneva agreements"
+   ],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Framework under which Soviet withdrawal was carried out."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Country from which Soviet troops withdrew by 14 Feb 1989."
+  },
+  {
+   "name": "Vietnam",
+   "type": "country",
+   "country": "Vietnam",
+   "parent": "",
+   "significance": "Subject of the American-Soviet analogy that the statement rejects."
+  },
+  {
+   "name": "Moscow",
+   "type": "city",
+   "country": "USSR",
+   "parent": "USSR",
+   "significance": "Place of publication of the Lyakhovsky source book."
+  }
+ ],
+ "events": [
+  {
+   "date": "1988-04-07",
+   "date_precision": "day",
+   "type": "other",
+   "description": "USSR Defense Minister signed an order on withdrawal of troops from Afghanistan.",
+   "place": "USSR",
+   "actors": [
+    "USSR Defense Ministry"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1989-02-14",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Soviet Military Command statement on withdrawal delivered to the Head of the UN Mission in Afghanistan, on the day the last Soviet soldier left Afghanistan.",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet Military Command in Afghanistan",
+    "USSR Defense Ministry",
+    "UN Mission in Afghanistan"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1989-02-14",
+   "date_precision": "day",
+   "type": "other",
+   "description": "Last Soviet soldier left Afghanistan, completing the troop withdrawal.",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet Military Command in Afghanistan"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1989-02",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Defense Ministry prepared a statement of the Soviet Military Command on troop withdrawal.",
+   "place": "Moscow",
+   "actors": [
+    "USSR Defense Ministry",
+    "Soviet Military Command in Afghanistan"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1989-02-14",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Statement delivered to the Head of the UN Mission in Afghanistan.",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet Military Command in Afghanistan",
+    "UN Mission in Afghanistan"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1989-02-14",
+   "date_precision": "day",
+   "type": "other",
+   "description": "Last Soviet soldier left Afghanistan, completing the withdrawal.",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet Military Command in Afghanistan"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1979",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Soviet troops sent to Afghanistan after requests from the Afghan government (statement describes it as internationalist assistance).",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet Military Command in Afghanistan",
+    "Afghan government"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Soviet Military Command in Afghanistan",
+   "target": "UN Mission in Afghanistan",
+   "type": "other",
+   "detail": "The statement was delivered to the Head of the UN Mission in Afghanistan.",
+   "date": "1989-02-14",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "which was delivered to the Head of the UN Mission in Afghanistan on February 14, 1989"
+  },
+  {
+   "source": "United States",
+   "target": "Afghan opposition",
+   "type": "funded_by",
+   "detail": "The statement criticizes the U.S. role in arming the opposition in disregard of the Geneva agreements (recipient funded_by provider).",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "It criticized the U.S. role in arming the opposition in disregard of the Geneva agreements"
+  },
+  {
+   "source": "Soviet Military Command in Afghanistan",
+   "target": "Afghan government",
+   "type": "allied_with",
+   "detail": "Soviet troops were sent after requests from the Afghan government and transferred property to the Afghan people.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Soviet troops were sent to Afghanistan after numerous requests from the legitimate Afghan government."
+  },
+  {
+   "source": "USSR Defense Ministry",
+   "target": "Soviet Military Command in Afghanistan",
+   "type": "other",
+   "detail": "The Defense Ministry prepared the statement issued by the Soviet Military Command in Afghanistan.",
+   "date": "1989-02",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "In February 1989, the Defense Ministry prepared a statement of the Soviet Military Command in Afghanistan"
+  },
+  {
+   "source": "Soviet Military Command in Afghanistan",
+   "target": "UN Mission in Afghanistan",
+   "type": "met_with",
+   "detail": "The statement was delivered to the Head of the UN Mission in Afghanistan.",
+   "date": "1989-02-14",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "which was delivered to the Head of the UN Mission in Afghanistan on February 14, 1989"
+  },
+  {
+   "source": "Soviet Military Command in Afghanistan",
+   "target": "Afghan government",
+   "type": "allied_with",
+   "detail": "Soviet troops were sent to support the Afghan government after its repeated requests.",
+   "date": "1979",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Soviet troops were sent to Afghanistan after numerous requests from the legitimate Afghan government."
+  },
+  {
+   "source": "United States",
+   "target": "Afghan opposition",
+   "type": "funded_by",
+   "detail": "Statement criticizes the US role in arming the opposition in disregard of the Geneva agreements (direction: recipient to provider).",
+   "date": "1989-02-14",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "It criticized the U.S. role in arming the opposition in disregard of the Geneva agreements"
+  },
+  {
+   "source": "Soviet Military Command in Afghanistan",
+   "target": "United States",
+   "type": "rival_of",
+   "detail": "The Soviet statement criticizes US actions and rejects the Vietnam analogy.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "It criticized the U.S. role in arming the opposition in disregard of the Geneva agreements, and thus destabilizing the situation"
+  },
+  {
+   "source": "Soviet Military Command in Afghanistan",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Soviet troops were stationed in Afghanistan until the last soldier left on 14 Feb 1989.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "the day when the last Soviet soldier left Afghanistan"
+  },
+  {
+   "source": "Soviet Military Command in Afghanistan",
+   "target": "Afghan government",
+   "type": "other",
+   "detail": "Soviet forces transferred property worth over 830 million rubles to the Afghan side during withdrawal.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "we transferred objects and property to the Afghan people with overall value of over 830 million rubles"
+  },
+  {
+   "source": "Soviet Military Command in Afghanistan",
+   "target": "Geneva Agreements on Afghanistan",
+   "type": "other",
+   "detail": "Withdrawal is claimed to be in strict accordance with the Geneva Agreements.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "in strict accordance with the Geneva Agreements on Afghanistan"
+  }
+ ],
+ "sources_cited": [
+  "Alexander Lyakhovsky, Tragedy and Valor of Afghan, Iskon, Moscow 1995, Appendix 11"
+ ],
+ "key_claims": [
+  "The Soviet command says the withdrawal was planned and in accordance with the Geneva Agreements, not a flight like the American withdrawal from Vietnam.",
+  "The Soviets reject Vietnam analogies as unfair and absurd, saying they were invited by the Afghan government.",
+  "The statement accuses the U.S. of arming the opposition in violation of the Geneva agreements, destabilizing Afghanistan.",
+  "The Soviets claim to have transferred property worth over 830 million rubles to the Afghan people during withdrawal.",
+  "The Soviet command says it sought to prevent the withdrawal from sparking civil war and pledged continued help for a political settlement."
+ ]
+}

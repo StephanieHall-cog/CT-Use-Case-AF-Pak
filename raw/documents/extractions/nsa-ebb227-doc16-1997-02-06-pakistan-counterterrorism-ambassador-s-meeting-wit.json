@@ -1,0 +1,420 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb227-doc16-1997-02-06-pakistan-counterterrorism-ambassador-s-meeting-wit",
+  "title": "Pakistan Counterterrorism: Ambassador's Meeting with [Excised] on State Sponsor Designation (Islama 001054)",
+  "authors": "U.S. Embassy Islamabad",
+  "publisher": "National Security Archive (GWU), Pakistan: \"The Taliban's Godfather\"?",
+  "published": "1997-02-06",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB227/16.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB227/index.htm",
+  "pages": 1,
+  "kind": "cable",
+  "note": "[Secret] The Embassy raises the HUA-bin Laden-Taliban triangle with a Pakistani official. Both bin Laden and HUA have sanctuary in Afghanistan and Khost camps, and the U.S. fears a link-up with serious consequences. The official says HUA is under enough control and Pakistan will not allow bin Laden to use its territory.",
+  "collection": "NSAEBB227",
+  "doc_number": "Document 16",
+  "relevance": "high",
+  "ocr": 1
+ },
+ "persons": [
+  {
+   "name": "Thomas W. Simons",
+   "aliases": [
+    "Thomas Simons"
+   ],
+   "role": "U.S. Ambassador to Pakistan; classifier of the cable",
+   "organizations": [
+    "U.S. Embassy Islamabad"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Islamabad"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "CLASSIFIED BY THOMAS ¥. SIMONS: AKBASSADOR."
+    },
+    {
+     "timestamp": "p.1",
+     "quote": "THE AMBASSADOR HIGHLIGHTED USG CONCERHS WITH THE RECENT REPORTS OF HOVEHERT OF HARAKAT UL AHSAR"
+    }
+   ]
+  },
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Usama bin Laden"
+   ],
+   "role": "Terrorist financier/leader given refuge by the Taliban in Afghanistan",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "TALIBAN CONFIRMATION THAT THEY WERE GIVIHG REFUGE 10 USAMA BIN LADEWs WHO HAD A TRACK REGORD-OF SUPPORT IHG TERRORIST ACTIVITIES"
+    },
+    {
+     "timestamp": "p.1",
+     "quote": "WE WON'T ALLOW OUR TERRITCRY TO BE USED BY USAMA BIN LADER FOR SUCH ACTIVITIES."
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Harakat ul-Ansar",
+   "aliases": [
+    "HUA",
+    "Harakat ul Ansar"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Inter-Services Intelligence"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Militant training camps reportedly moved from Pakistan/Azad Kashmir to Afghanistan; Pakistani official says HUA under strong scrutiny for more than a year."
+  },
+  {
+   "name": "Inter-Services Intelligence",
+   "aliases": [
+    "ISI",
+    "Inter-Services Intelligence Directorate"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Perception it operated on its own or via rogue elements was denied by the excised Pakistani interlocutor."
+  },
+  {
+   "name": "Taliban",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Confirmed giving refuge to Usama bin Ladin; requested delay of US camp visit until after Eid-ul-Fitr."
+  },
+  {
+   "name": "U.S. Embassy Islamabad",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Author of the cable."
+  },
+  {
+   "name": "U.S. Department of State",
+   "aliases": [
+    "SECSTATE"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Recipient of cable; reference State 17228 talking points."
+  }
+ ],
+ "places": [
+  {
+   "name": "Islamabad",
+   "type": "city",
+   "country": "Pakistan",
+   "parent": "Pakistan",
+   "significance": "Location of US Embassy and the meeting"
+  },
+  {
+   "name": "Azad Kashmir",
+   "type": "region",
+   "country": "Pakistan",
+   "parent": "Pakistan",
+   "significance": "Location of HUA militant training camps"
+  },
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Taliban-controlled territory where HUA camps moved and bin Ladin sheltered"
+  },
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Possible state sponsor of terrorism designation"
+  },
+  {
+   "name": "New Delhi",
+   "type": "city",
+   "country": "India",
+   "parent": "India",
+   "significance": "Similar message to be delivered to India; embassy copied"
+  }
+ ],
+ "events": [
+  {
+   "date": "1997-02-06",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "US Ambassador and Army Attache met a Pakistani official (name excised) on possible state sponsor of terrorism designation, delivering talking points and raising HUA movement to Afghanistan and Taliban refuge for bin Ladin.",
+   "place": "Islamabad",
+   "actors": [
+    "Thomas W. Simons",
+    "Harakat ul-Ansar",
+    "Taliban",
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1997-02-06",
+   "date_precision": "day",
+   "type": "meeting",
+   "detail": "",
+   "description": "US Ambassador Simons and Army Attache met an excised Pakistani official, delivering talking points on possible state sponsor of terrorism designation and concerns over HUA and bin Ladin.",
+   "place": "Islamabad",
+   "actors": [
+    "Thomas W. Simons",
+    "U.S. Embassy Islamabad"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1997-02",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Taliban confirmed they were giving refuge to Usama bin Ladin in territory they control.",
+   "place": "Afghanistan",
+   "actors": [
+    "Taliban",
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1997-02",
+   "date_precision": "approx",
+   "type": "travel",
+   "description": "Planned US visit to two HUA camps in question; Taliban requested delay until after Eid-ul-Fitr.",
+   "place": "Afghanistan",
+   "actors": [
+    "U.S. Embassy Islamabad",
+    "Taliban",
+    "Harakat ul-Ansar"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1997-02",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "Pakistani official denied ISI operating outside government control, said HUA under scrutiny for over a year, and pledged Pakistan would not allow its territory to be used by bin Ladin.",
+   "place": "Islamabad",
+   "actors": [
+    "Inter-Services Intelligence",
+    "Harakat ul-Ansar",
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Usama bin Ladin",
+   "target": "Taliban",
+   "type": "sheltered_by",
+   "detail": "Taliban confirmed they were giving refuge to bin Ladin in territory they controlled.",
+   "date": "1997-02",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "TALIBAN CONFIRMATION THAT THEY WERE GIVIHG REFUGE 10 USAMA BIN LADEWs"
+  },
+  {
+   "source": "Thomas W. Simons",
+   "target": "Harakat ul-Ansar",
+   "type": "other",
+   "detail": "Ambassador raised US concerns about HUA militant training moving from Pakistan/Azad Kashmir to Afghanistan.",
+   "date": "1997-02-06",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "RECENT REPORTS OF HOVEHERT OF HARAKAT UL AHSAR CHUA) HILITANT TRAINING FRGN CAMPS IN PAKISTAN OR AZAD KASHMIR TO AFGHANISTAN"
+  },
+  {
+   "source": "Harakat ul-Ansar",
+   "target": "Inter-Services Intelligence",
+   "type": "funded_by",
+   "detail": "Ambassador described HUA as an organization Pakistan supported, with fear of linkup with bin Ladin; Pakistani official denied ISI operating outside government control.",
+   "date": "1997-02-06",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "HUA: AH ORGANIZATION PAKISTAN SUPPORTED AND BJM LADEH"
+  },
+  {
+   "source": "Harakat ul-Ansar",
+   "target": "Usama bin Ladin",
+   "type": "allied_with",
+   "detail": "US feared a linkup between HUA and bin Ladin.",
+   "date": "1997-02-06",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "WE FEARED A LINKUP BETWEER HUA: AH ORGANIZATION PAKISTAN SUPPORTED AND BJM LADEH"
+  },
+  {
+   "source": "Thomas W. Simons",
+   "target": "U.S. Embassy Islamabad",
+   "type": "leads",
+   "detail": "Simons is the Ambassador who classified and led the Embassy's meeting; the cable is sent from the Embassy.",
+   "date": "1997-02-06",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "CLASSIFIED BY THOMAS W. SIMONS: AMBASSADOR."
+  },
+  {
+   "source": "U.S. Embassy Islamabad",
+   "target": "U.S. Department of State",
+   "type": "reports_to",
+   "detail": "The Embassy sent the cable to SECSTATE WASHDC in response to a State reftel on state sponsor designation.",
+   "date": "1997-02-06",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "FM AMEMBASSY ISLAMABAD TO SECSTATE WASHDC IMMEDIATE"
+  },
+  {
+   "source": "Thomas W. Simons",
+   "target": "[Excised] Pakistani interlocutor",
+   "type": "met_with",
+   "detail": "The Ambassador and Army Attache met an excised Pakistani official on the state sponsor designation.",
+   "date": "1997-02-06",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "AMBASSADOR AND ARMY ATTACHE MET WITH"
+  },
+  {
+   "source": "Taliban",
+   "target": "Usama bin Ladin",
+   "type": "sheltered_by",
+   "detail": "Taliban confirmed they were giving refuge to bin Ladin in territory they controlled (Usama bin Ladin is the recipient of refuge, so he is sheltered by the Taliban).",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "TALIBAN CONFIRMATION THAT THEY WERE GIVING REFUGE TO USAMA BIN LADEN"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Taliban",
+   "type": "sheltered_by",
+   "detail": "Bin Ladin was given refuge in Taliban-controlled territory.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "GIVING REFUGE TO USAMA BIN LADEN, WHO HAD A TRACK RECORD OF SUPPORTING TERRORIST ACTIVITIES AGAINST THE U.S., IN TERRITORY CONTROLLED BY THEM"
+  },
+  {
+   "source": "Taliban",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Taliban controlled territory in Afghanistan where bin Ladin was given refuge.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "TERRITORY CONTROLLED BY THEM"
+  },
+  {
+   "source": "Harakat ul-Ansar",
+   "target": "Azad Kashmir",
+   "type": "located_in",
+   "detail": "HUA militant training camps were reported in Pakistan or Azad Kashmir.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "HARAKAT UL ANSAR (HUA) MILITANT TRAINING FROM CAMPS IN PAKISTAN OR AZAD KASHMIR TO AFGHANISTAN"
+  },
+  {
+   "source": "Harakat ul-Ansar",
+   "target": "Pakistan",
+   "type": "located_in",
+   "detail": "HUA training camps were in Pakistan or Azad Kashmir.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "CAMPS IN PAKISTAN OR AZAD KASHMIR"
+  },
+  {
+   "source": "Harakat ul-Ansar",
+   "target": "Afghanistan",
+   "type": "other",
+   "detail": "Reports of movement of HUA militant training from camps in Pakistan/Azad Kashmir to Afghanistan.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "MOVEMENT OF HARAKAT UL ANSAR (HUA) MILITANT TRAINING FROM CAMPS IN PAKISTAN OR AZAD KASHMIR TO AFGHANISTAN"
+  },
+  {
+   "source": "Harakat ul-Ansar",
+   "target": "Pakistan",
+   "type": "funded_by",
+   "detail": "HUA described as an organization Pakistan supported; US feared link-up with bin Ladin.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "HUA: AN ORGANIZATION PAKISTAN SUPPORTED AND BIN LADEN"
+  },
+  {
+   "source": "Harakat ul-Ansar",
+   "target": "Usama bin Ladin",
+   "type": "allied_with",
+   "detail": "US feared a possible linkup between HUA and bin Ladin.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "WE FEARED A LINKUP BETWEEN HUA: AN ORGANIZATION PAKISTAN SUPPORTED AND BIN LADEN"
+  },
+  {
+   "source": "Inter-Services Intelligence",
+   "target": "Harakat ul-Ansar",
+   "type": "other",
+   "detail": "Perception that ISI operated on its own in these areas; the official denied this and said HUA was under strong scrutiny and monitoring.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "HUA HAD BEEN UNDER VERY STRONG SCRUTINY FOR MORE THAN A YEAR AND THERE HAD BEEN POSITIVE PROGRESS IN MONITORING AND CONTROLLING ITS ACTIVITIES"
+  },
+  {
+   "source": "Taliban",
+   "target": "U.S. Embassy Islamabad",
+   "type": "negotiated_with",
+   "detail": "Taliban asked to delay a US visit to two camps until after Eid-ul-Fitr, raising fears of cleaned sites.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "TALIBAN HAD REQUESTED DELAY UNTIL AFTER EID-UL-FITR, SO WE WOULD NOT BE SURPRISED TO FIND CLEAN SITES"
+  },
+  {
+   "source": "U.S. Embassy Islamabad",
+   "target": "U.S. Embassy New Delhi",
+   "type": "other",
+   "detail": "Cable copied to Embassy New Delhi; a similar message would be delivered to India.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "A SIMILAR MESSAGE WOULD BE DELIVERED TO INDIA"
+  }
+ ],
+ "sources_cited": [
+  "State 17228 (reference talking points on state sponsor designation)"
+ ],
+ "key_claims": [
+  "The Taliban confirmed they were giving refuge to Usama bin Ladin in territory they controlled.",
+  "US officials were concerned HUA militant training was relocating from camps in Pakistan/Azad Kashmir to Afghanistan.",
+  "The US feared a linkup between HUA, an organization Pakistan supported, and bin Ladin.",
+  "The Taliban asked to delay a US visit to two camps until after Eid-ul-Fitr, raising suspicion sites would be cleaned.",
+  "A Pakistani official denied ISI was operating outside government control or via rogue elements, claiming HUA had been under strong scrutiny for over a year.",
+  "Pakistan pledged not to allow its territory to be used by bin Ladin."
+ ]
+}

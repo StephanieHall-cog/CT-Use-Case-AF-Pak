@@ -1,0 +1,531 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb325-doc09-2001-11-05-your-meeting-with-pakistani-president-musharraf-me",
+  "title": "Your Meeting with Pakistani President Musharraf (Memorandum for the President)",
+  "authors": "Secretary of State Colin Powell to President George W. Bush (Department of State)",
+  "publisher": "National Security Archive (GWU), \"No-Go\" Tribal Areas Became Basis for Afghan Insurgency Documents Show",
+  "published": "2001-11-05",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB325/doc09.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB325/index.htm",
+  "pages": 2,
+  "kind": "memo",
+  "note": "[Secret] Powell highlights changes in U.S.-Pakistan relations since 9/11, including cooperation on counterterrorism, nonproliferation, protection of Pakistani nuclear assets and economic development. Musharraf allied with the U.S. at considerable political risk, abandoning the Taliban and freezing terrorist assets. He is pressing for a future Afghan government supportive of Pakistan's interests and fears the Northern Alliance will occupy Kabul.",
+  "collection": "NSAEBB325",
+  "doc_number": "Document 9",
+  "relevance": "high",
+  "ocr": 2
+ },
+ "persons": [
+  {
+   "name": "Pervez Musharraf",
+   "aliases": [
+    "President Musharraf",
+    "Musharraf"
+   ],
+   "role": "President of Pakistan",
+   "organizations": [
+    "Government of Pakistan"
+   ],
+   "nationality_or_origin": "Pakistani",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Islamabad",
+    "Pakistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "President Musharraf's decision to fully cooperate with the United States in the wake of September 11, at considerable political risk, abruptly turned our stalled relationship around."
+    },
+    {
+     "timestamp": "p.1",
+     "quote": "Musharraf is pressing for a future government supportive of its interests and is concerned that the Northern Alliance will occupy Kabul."
+    }
+   ]
+  },
+  {
+   "name": "Colin L. Powell",
+   "aliases": [
+    "Colin Powell",
+    "Secretary of State Powell"
+   ],
+   "role": "US Secretary of State; author of memo",
+   "organizations": [
+    "US Department of State"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Islamabad"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "During my October 15-16 visit to Islamabad, I affirmed our renewed relationship and discussed our common goal of defeating terrorists and rebuilding Afghanistan."
+    }
+   ]
+  },
+  {
+   "name": "George W. Bush",
+   "aliases": [
+    "President Bush"
+   ],
+   "role": "US President; recipient of memo, to host Musharraf meeting and dinner",
+   "organizations": [
+    "US Government"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Your meeting and dinner can serve to assure Musharraf we will assist Pakistan through this difficult time"
+    }
+   ]
+  },
+  {
+   "name": "Al Larson",
+   "aliases": [
+    "Alan Larson"
+   ],
+   "role": "US Under Secretary for Economic Affairs",
+   "organizations": [
+    "US Department of State"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Islamabad"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "Under Secretary for Economic Affairs, Al Larson, traveled to Islamabad last week to discuss assistance, trade issues, and debt."
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Taliban",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [
+    "Northern Alliance"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Musharraf is said to have abandoned the Taliban."
+  },
+  {
+   "name": "Northern Alliance",
+   "aliases": [],
+   "type": "militia",
+   "parent_or_allies": [],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Musharraf concerned it will occupy Kabul."
+  },
+  {
+   "name": "US Department of State",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Originator of memo."
+  },
+  {
+   "name": "Government of Pakistan",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": ""
+  },
+  {
+   "name": "International Monetary Fund",
+   "aliases": [
+    "IMF"
+   ],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "$135 million tranche supported."
+  },
+  {
+   "name": "World Bank",
+   "aliases": [],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Projects over $1 billion."
+  },
+  {
+   "name": "Asian Development Bank",
+   "aliases": [],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": ""
+  },
+  {
+   "name": "G-7",
+   "aliases": [],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": ""
+  },
+  {
+   "name": "Paris Club",
+   "aliases": [],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": ""
+  }
+ ],
+ "places": [
+  {
+   "name": "Islamabad",
+   "type": "city",
+   "country": "Pakistan",
+   "parent": "Pakistan",
+   "significance": "Powell visited Oct 15-16, 2001; Larson visited."
+  },
+  {
+   "name": "Kabul",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Musharraf fears Northern Alliance occupation."
+  },
+  {
+   "name": "Kashmir",
+   "type": "region",
+   "country": "India/Pakistan",
+   "parent": "",
+   "significance": "Flashpoint; Oct 1 terrorist attack on state assembly killed 38 civilians."
+  },
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Subject of future government planning."
+  },
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Key US partner after 9/11."
+  }
+ ],
+ "events": [
+  {
+   "date": "2001-10-01",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "Terrorist attack on the state assembly in Kashmir resulted in 38 civilian deaths; India subsequently shelled.",
+   "place": "Kashmir",
+   "actors": [],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-10-15",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "Powell visited Islamabad Oct 15-16, meeting Musharraf on counterterrorism, Afghanistan, Kashmir and nonproliferation.",
+   "place": "Islamabad",
+   "actors": [
+    "Colin L. Powell",
+    "Pervez Musharraf"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-09-11",
+   "date_precision": "day",
+   "type": "other",
+   "description": "September 11 attacks, after which Musharraf decided to cooperate fully with the US.",
+   "place": "United States",
+   "actors": [
+    "Pervez Musharraf"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-10-01",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "Terrorist attack on the state assembly in Kashmir killed 38 civilians; India subsequently shelled.",
+   "place": "Kashmir",
+   "actors": [],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-10-15",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "Powell visited Islamabad (Oct 15-16), discussing defeating terrorists, rebuilding Afghanistan, and nonproliferation with Musharraf.",
+   "place": "Islamabad",
+   "actors": [
+    "Colin L. Powell",
+    "Pervez Musharraf"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-10-29",
+   "date_precision": "approx",
+   "type": "travel",
+   "description": "Under Secretary Al Larson traveled to Islamabad the previous week to discuss assistance, trade and debt.",
+   "place": "Islamabad",
+   "actors": [
+    "Al Larson",
+    "Government of Pakistan"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "2001-11-05",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Powell memo to President Bush preparing for his meeting and dinner with Musharraf.",
+   "place": "Washington",
+   "actors": [
+    "Colin L. Powell",
+    "George W. Bush",
+    "Pervez Musharraf"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Pervez Musharraf",
+   "target": "Taliban",
+   "type": "other",
+   "detail": "Musharraf abandoned the Taliban after September 11.",
+   "date": "2001",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Musharraf has abandoned the Taliban, frozen terrorist assets"
+  },
+  {
+   "source": "Colin L. Powell",
+   "target": "Pervez Musharraf",
+   "type": "met_with",
+   "detail": "Powell met Musharraf in Islamabad Oct 15-16, 2001.",
+   "date": "2001-10-15",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "During my October 15-16 visit to Islamabad, I affirmed our renewed relationship"
+  },
+  {
+   "source": "Pervez Musharraf",
+   "target": "Northern Alliance",
+   "type": "rival_of",
+   "detail": "Musharraf is concerned the Northern Alliance will occupy Kabul.",
+   "date": "2001",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "concerned that the Northern Alliance will occupy Kabul"
+  },
+  {
+   "source": "Al Larson",
+   "target": "Islamabad",
+   "type": "other",
+   "detail": "Larson traveled to Islamabad to discuss assistance.",
+   "date": "2001",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Al Larson, traveled to Islamabad last week"
+  },
+  {
+   "source": "Colin L. Powell",
+   "target": "George W. Bush",
+   "type": "reports_to",
+   "detail": "Powell, as Secretary of State, sends the memorandum briefing the President ahead of the Musharraf meeting.",
+   "date": "2001-11-05",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "MEMORANDUM FOR THE PRESIDENT ... FROM: Colin L. Powell"
+  },
+  {
+   "source": "George W. Bush",
+   "target": "Pervez Musharraf",
+   "type": "met_with",
+   "detail": "The memo prepares the President for a meeting and dinner with Musharraf.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Your meeting and dinner can serve to assure Musharraf we will assist Pakistan through this difficult time"
+  },
+  {
+   "source": "Pervez Musharraf",
+   "target": "Taliban",
+   "type": "rival_of",
+   "detail": "Musharraf has abandoned the Taliban after September 11 and cooperates with the US.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Musharraf has abandoned the Taliban, frozen terrorist assets"
+  },
+  {
+   "source": "Pervez Musharraf",
+   "target": "Northern Alliance",
+   "type": "rival_of",
+   "detail": "Musharraf is concerned that the Northern Alliance will occupy Kabul and wants a government supportive of Pakistan's interests.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "is concerned that the Northern Alliance will occupy Kabul"
+  },
+  {
+   "source": "Pervez Musharraf",
+   "target": "Government of Pakistan",
+   "type": "leads",
+   "detail": "Musharraf is the President of Pakistan and head of its government.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "President Musharraf's decision to fully cooperate with the United States"
+  },
+  {
+   "source": "Colin L. Powell",
+   "target": "US Department of State",
+   "type": "leads",
+   "detail": "Powell is Secretary of State.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Colin L. Powell, Secretary of State"
+  },
+  {
+   "source": "Al Larson",
+   "target": "US Department of State",
+   "type": "member_of",
+   "detail": "Larson is Under Secretary for Economic Affairs.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Under Secretary for Economic Affairs, Al Larson, traveled to Islamabad last week"
+  },
+  {
+   "source": "Al Larson",
+   "target": "Government of Pakistan",
+   "type": "negotiated_with",
+   "detail": "Larson traveled to Islamabad to discuss assistance, trade and debt.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "traveled to Islamabad last week to discuss assistance, trade issues, and debt"
+  },
+  {
+   "source": "Al Larson",
+   "target": "Islamabad",
+   "type": "located_in",
+   "detail": "Larson traveled to Islamabad.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Al Larson, traveled to Islamabad last week"
+  },
+  {
+   "source": "US Department of State",
+   "target": "G-7",
+   "type": "allied_with",
+   "detail": "The US works with the G-7 to encourage support for Pakistan.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "We are working with the G-7 and the Paris Club to encourage increased support"
+  },
+  {
+   "source": "US Department of State",
+   "target": "Paris Club",
+   "type": "allied_with",
+   "detail": "The US works with the Paris Club on Pakistan's debt burden.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "We are working with the G-7 and the Paris Club ... to address Pakistan's debt burden"
+  },
+  {
+   "source": "Government of Pakistan",
+   "target": "US Department of State",
+   "type": "funded_by",
+   "detail": "The US provides $100 million budgetary support, with $500 million more planned, and a $73 million border security package.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "We are providing $100 million in budgetary support, with an additional $500 million planned, as well as a $73 million border security aid package."
+  },
+  {
+   "source": "Government of Pakistan",
+   "target": "International Monetary Fund",
+   "type": "funded_by",
+   "detail": "The US supported a $135 million IMF lending tranche for Pakistan.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "We have supported a $135 million tranche of International Monetary Fund (IMF) lending"
+  },
+  {
+   "source": "Government of Pakistan",
+   "target": "World Bank",
+   "type": "funded_by",
+   "detail": "Over $1 billion in projects financed by World Bank and ADB, supported by the US.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "over $1 billion in projects financed by World Bank and Asian Development Bank"
+  },
+  {
+   "source": "Government of Pakistan",
+   "target": "Asian Development Bank",
+   "type": "funded_by",
+   "detail": "ADB finances projects in Pakistan.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "projects financed by World Bank and Asian Development Bank"
+  },
+  {
+   "source": "Kabul",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Kabul is the capital of Afghanistan.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "concerned that the Northern Alliance will occupy Kabul"
+  },
+  {
+   "source": "Islamabad",
+   "target": "Pakistan",
+   "type": "located_in",
+   "detail": "Islamabad is in Pakistan.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "During my October 15-16 visit to Islamabad"
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "Musharraf's post-9/11 cooperation reversed the stalled US-Pakistan relationship at considerable political risk.",
+  "Musharraf abandoned the Taliban, froze terrorist assets and quelled anti-Western protests.",
+  "Musharraf wanted a future Afghan government supportive of Pakistan's interests and feared Northern Alliance control of Kabul.",
+  "Kashmir tensions threatened US efforts in Afghanistan and risked Indo-Pakistani conflict.",
+  "US offered Pakistan economic aid including $100M budget support, $500M planned, and a $73M border security package."
+ ]
+}

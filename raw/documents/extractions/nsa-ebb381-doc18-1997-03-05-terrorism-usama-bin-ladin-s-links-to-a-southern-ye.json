@@ -1,0 +1,397 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc18-1997-03-05-terrorism-usama-bin-ladin-s-links-to-a-southern-ye",
+  "title": "Terrorism: Usama Bin Ladin's Links to a Southern Yemeni Group",
+  "authors": "CIA",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "1997-03-05",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7wuu-jeagl/1997-03-05-terrorism-usama-bin-ladins-links-to-a.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 5,
+  "kind": "intelligence report",
+  "note": "CIA Intelligence Report on bin Ladin's links to a southern Yemeni group. Source: 9/11 Commission Report, Chapter 2, Endnote 44.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 18",
+  "relevance": "high",
+  "ocr": 3
+ },
+ "persons": [
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Usama Bin Ladin",
+    "Osama bin Laden",
+    "Usama bin Laden"
+   ],
+   "role": "Subject of CIA report; alleged to have links to a southern Yemeni group",
+   "organizations": [],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Aden",
+    "Yemen"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "USAMA·BIN LADIN'S LINKS 'I'O A SOUTHERN Y~I GROUP"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Southern Yemeni group",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Yemen",
+   "notes": "Name redacted in the available text. Report states the group was responsible for the 1992 attack targeting U.S. forces in Aden."
+  },
+  {
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Author and originator of the 5 March 1997 report; released 25 April 2012."
+  },
+  {
+   "name": "DIRNSA",
+   "aliases": [
+    "National Security Agency"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Addressee of the report."
+  },
+  {
+   "name": "SECSTATE",
+   "aliases": [
+    "Department of State"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Addressee of the report."
+  },
+  {
+   "name": "DIA",
+   "aliases": [
+    "Defense Intelligence Agency"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Addressee of the report."
+  },
+  {
+   "name": "FBI",
+   "aliases": [
+    "Federal Bureau of Investigation"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Addressee of the report."
+  },
+  {
+   "name": "Secret Service",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Addressee of the report."
+  },
+  {
+   "name": "Department of Justice",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Addressee of the report."
+  },
+  {
+   "name": "Treasury Department",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Addressee of the report."
+  },
+  {
+   "name": "White House Situation Room",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Addressee of the report."
+  },
+  {
+   "name": "FAA",
+   "aliases": [
+    "Federal Aviation Administration"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Addressee of the report."
+  },
+  {
+   "name": "Department of Transportation",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Addressee of the report."
+  }
+ ],
+ "places": [
+  {
+   "name": "Aden",
+   "type": "city",
+   "country": "Yemen",
+   "parent": "Yemen",
+   "significance": "Site of the 1992 attack targeting U.S. forces."
+  },
+  {
+   "name": "Yemen",
+   "type": "country",
+   "country": "Yemen",
+   "parent": "",
+   "significance": "Base of the southern Yemeni group."
+  }
+ ],
+ "events": [
+  {
+   "date": "1992",
+   "date_precision": "year",
+   "type": "attack",
+   "description": "Attack targeting U.S. forces in Aden, attributed to the southern Yemeni group. Text says someone (name redacted) received training for this operation.",
+   "place": "Aden",
+   "actors": [
+    "Southern Yemeni group"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1997-03-05",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA issued a report on Usama bin Ladin's links to a southern Yemeni group.",
+   "place": "",
+   "actors": [
+    "Central Intelligence Agency"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1992",
+   "date_precision": "year",
+   "type": "attack",
+   "description": "The southern Yemeni group was responsible for an attack targeting U.S. forces in Aden. Participants reportedly received training for the operation.",
+   "place": "Aden",
+   "actors": [
+    "Southern Yemeni group",
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1997-03-05",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "The CIA issued a terrorism report on Usama bin Ladin's links to a southern Yemeni group and distributed it to US agencies. The time of transmission was 052108Z MAR 97.",
+   "place": "Washington DC",
+   "actors": [
+    "Central Intelligence Agency",
+    "DIRNSA",
+    "SECSTATE",
+    "DIA",
+    "FBI",
+    "Secret Service",
+    "Department of Justice",
+    "Treasury Department",
+    "White House Situation Room",
+    "FAA",
+    "Department of Transportation"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Usama bin Ladin",
+   "target": "Southern Yemeni group",
+   "type": "other",
+   "detail": "The report subject is bin Ladin's links to this group; the nature of the link is redacted or illegible in the available text.",
+   "date": "1997-03-05",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "USAMA·BIN LADIN'S LINKS 'I'O A SOUTHERN Y~I GROUP"
+  },
+  {
+   "source": "Southern Yemeni group",
+   "target": "Aden",
+   "type": "located_in",
+   "detail": "The group was responsible for a 1992 attack targeting U.S. forces in Aden, so it operated there.",
+   "date": "1992",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "THIS GROUP WAS RESPONSIBLE FOR THE 1992 ATTACK TARGETING u.s. FORC~_rs~· I=N~AD=EN"
+  },
+  {
+   "source": "Southern Yemeni group",
+   "target": "Yemen",
+   "type": "located_in",
+   "detail": "The group is described as a southern Yemeni group.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "A SOUTHERN Y~I GROUP"
+  },
+  {
+   "source": "Aden",
+   "target": "Yemen",
+   "type": "located_in",
+   "detail": "Aden is a city in Yemen. The link is inferred from the text, which places the Yemeni group's attack in Aden.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "1992 ATTACK TARGETING u.s. FORC~_rs~· I=N~AD=EN"
+  },
+  {
+   "source": "Southern Yemeni group",
+   "target": "Usama bin Ladin",
+   "type": "trained_by",
+   "detail": "The fragmentary text says someone received training for the Aden operation. The trainer is not legible and is likely bin Ladin-linked, so this is low-confidence.",
+   "date": "1992",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "RECEIVED TRAINING FOR THIS OPERATION"
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "DIRNSA",
+   "type": "other",
+   "detail": "The CIA disseminated the report to DIRNSA, among other addressees.",
+   "date": "1997-03-05",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "TO: DIRNSA, .SECSTATE WASHDC, DIA WASHINGTON DC,"
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "SECSTATE",
+   "type": "other",
+   "detail": "The CIA disseminated the report to the State Department.",
+   "date": "1997-03-05",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "DIRNSA, .SECSTATE WASHDC"
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "DIA",
+   "type": "other",
+   "detail": "The CIA disseminated the report to DIA.",
+   "date": "1997-03-05",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "DIA WASHINGTON DC"
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "FBI",
+   "type": "other",
+   "detail": "The CIA disseminated the report to the FBI.",
+   "date": "1997-03-05",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "FEPERAL BUREAU OF INVESTIGATION"
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "Secret Service",
+   "type": "other",
+   "detail": "The CIA disseminated the report to the Secret Service.",
+   "date": "1997-03-05",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "SECRET SEB.V:ICE"
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "Department of Justice",
+   "type": "other",
+   "detail": "The CIA disseminated the report to the Department of Justice.",
+   "date": "1997-03-05",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "DEPARTMENT OF JUSTICE WASH J)C"
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "Treasury Department",
+   "type": "other",
+   "detail": "The CIA disseminated the report to the Treasury Department.",
+   "date": "1997-03-05",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "TREASURY DEPT"
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "White House Situation Room",
+   "type": "other",
+   "detail": "The CIA disseminated the report to the White House Situation Room.",
+   "date": "1997-03-05",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "WHITE HOUSE SITUATION ROOM"
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "FAA",
+   "type": "other",
+   "detail": "The CIA disseminated the report to the FAA.",
+   "date": "1997-03-05",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "FAA NATIONAL HQ"
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "Department of Transportation",
+   "type": "other",
+   "detail": "The CIA disseminated the report to the Department of Transportation.",
+   "date": "1997-03-05",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "ZEN/_D~'I' OF TRANSPORTATION"
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "A southern Yemeni group was responsible for the 1992 attack targeting U.S. forces in Aden.",
+  "Someone (name redacted) reportedly received training for the 1992 Aden operation.",
+  "A CIA report dated 5 March 1997 assessed Usama bin Ladin's links to this group.",
+  "The report was widely distributed to U.S. intelligence, law enforcement, military and transportation agencies."
+ ]
+}

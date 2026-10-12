@@ -1,0 +1,122 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc87-2001-07-03-dci-update-terrorist-threat-review",
+  "title": "DCI Update Terrorist Threat Review",
+  "authors": "Central Intelligence Agency",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "2001-07-03",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7xl1-j1w1s/2001-07-03-dci-update-terrorist-threat-review.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 8,
+  "kind": "briefing",
+  "note": "DCI terrorist threat review update. Cited in 9/11 Commission Report, Chapter 8, Endnote 23.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 87",
+  "relevance": "high",
+  "ocr": 5
+ },
+ "persons": [],
+ "organizations": [
+  {
+   "name": "Bin Ladin network",
+   "aliases": [
+    "Bin Laden network",
+    "Usama bin Ladin network",
+    "al-Qa'ida"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Document p.8 refers to operational planning by the Bin Ladin network; multiple attack preparations said to be in late stages or complete."
+  }
+ ],
+ "places": [
+  {
+   "name": "Persian Gulf",
+   "type": "region",
+   "country": "",
+   "parent": "",
+   "significance": "Attacks reportedly planned for the Persian Gulf area (p.2)."
+  },
+  {
+   "name": "Saudi Arabia",
+   "type": "country",
+   "country": "Saudi Arabia",
+   "parent": "Persian Gulf",
+   "significance": "Described as the most likely venue for attacks within the Gulf area (p.2)."
+  },
+  {
+   "name": "Arabian Peninsula",
+   "type": "region",
+   "country": "",
+   "parent": "",
+   "significance": "Possible location of late-stage operational planning (fragmentary text, p.8)."
+  }
+ ],
+ "events": [
+  {
+   "date": "2001-07-03",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "DCI Update Terrorist Threat Review assessing that the threat is genuine, with multiple attacks likely against US facilities and little additional warning expected.",
+   "place": "",
+   "actors": [
+    "Bin Ladin network"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "approx 2001-07",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Assessment that attacks are planned for the Persian Gulf area, with Saudi Arabia the most likely venue. Targets are probably US official installations such as ships, embassies and military bases.",
+   "place": "Persian Gulf; Saudi Arabia",
+   "actors": [
+    "Bin Ladin network"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "approx 2001-07",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Assessment that multiple attack preparations are in late stages or complete. A mass-casualty bomb against US facilities is probable, an attack decision has been made, and little additional warning is expected.",
+   "place": "Arabian Peninsula",
+   "actors": [
+    "Bin Ladin network"
+   ],
+   "timestamp": "p.8"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Saudi Arabia",
+   "target": "Persian Gulf",
+   "type": "located_in",
+   "detail": "Saudi Arabia is named as the most likely venue for attacks within the Gulf area. The OCR is garbled, so this is inferred.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "Within the Gulf area~ Saudi Arabia. is the most likel ·venue"
+  },
+  {
+   "source": "Bin Ladin network",
+   "target": "Arabian Peninsula",
+   "type": "located_in",
+   "detail": "Operational planning by the Bin Ladin network is described as being in late stages on the Peninsula. The OCR is fragmentary.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.8",
+   "quote": "operational planning by .the Bin Ladin n~twor ·r·ck Threat Real._ In late sta.ges.-on·Peninsula"
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "The CIA assessed that the threat of Bin Ladin network attacks was genuine and likely aimed at US official installations such as ships, embassies and military bases.",
+  "Attacks were reportedly planned for the Persian Gulf area, with Saudi Arabia the most likely venue.",
+  "Operational planning by the Bin Ladin network was described as in late stages, with multiple attack preparations in late stages or complete.",
+  "A mass casualty bomb was assessed as the probable method against US facilities.",
+  "The analysts judged that the attackers were waiting the US out and looking for a vulnerability, so little additional warning could be expected."
+ ]
+}

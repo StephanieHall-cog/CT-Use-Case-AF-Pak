@@ -1,0 +1,207 @@
+{
+ "document": {
+  "doc_id": "nsa-2021-rumsfeld-snowflakes-doc23-2002-05-05-rumsfeld-tells-hank-crumpton-to-speak-up",
+  "title": "Rumsfeld tells Hank Crumpton to \"speak up\"",
+  "authors": "Donald Rumsfeld, Secretary of Defense",
+  "publisher": "National Security Archive (GWU), Rumsfeld Lacked Intel on Who The Enemies Were Two Years After Afghanistan Invasion, Newly Published \"Snowflakes\" Show | National Security Archive",
+  "published": "2002-05-05",
+  "url": "https://nsarchive.gwu.edu/documents/rumsfeld-lacked-intel-who-enemies-two-years-after-afghanistan-invasion-newly-published-snowflakes/23.pdf",
+  "source_page": "https://nsarchive.gwu.edu/briefing-book/foia/2021-02-01/rumsfeld-lacked-intel-who-enemies-two-years-after-afghanistan-invasion-newly-published-snowflakes",
+  "pages": 1,
+  "kind": "memo",
+  "note": "Rumsfeld tells Hank Crumpton to \"speak up\".",
+  "collection": "new-rumsfeld-snowflakes",
+  "doc_number": "Document 23",
+  "relevance": "medium",
+  "ocr": 1
+ },
+ "persons": [
+  {
+   "name": "Donald Rumsfeld",
+   "aliases": [
+    "Donald H. Rumsfeld",
+    "DHR"
+   ],
+   "role": "US Secretary of Defense; author of the 'snowflake' memo",
+   "organizations": [
+    "US Department of Defense"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "FROM: Donald Rumsfeld"
+    }
+   ]
+  },
+  {
+   "name": "Tommy Franks",
+   "aliases": [
+    "Gen. Franks",
+    "General Franks"
+   ],
+   "role": "Addressee of the memo; US general, inferred to be commander of US Central Command (CENTCOM)",
+   "organizations": [
+    "US Central Command",
+    "US military"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "TO: Gen. Franks"
+    }
+   ]
+  },
+  {
+   "name": "Richard Myers",
+   "aliases": [
+    "Gen. Myers",
+    "General Myers"
+   ],
+   "role": "Copied on the memo; US general, inferred to be Chairman of the Joint Chiefs of Staff",
+   "organizations": [
+    "US military"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "CC: Gen. Myers"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "US Department of Defense",
+   "aliases": [
+    "OSD",
+    "Office of the Secretary of Defense"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Memo bears the OSD release stamp 11-L-0559/OSD/12076."
+  },
+  {
+   "name": "Afghan army",
+   "aliases": [
+    "Afghan National Army"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "Afghan government"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Rumsfeld asks whether contractors could be used to train it."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Location of the Afghan army whose training is discussed."
+  }
+ ],
+ "events": [
+  {
+   "date": "2002-04-23",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Rumsfeld sends a snowflake memo to Gen. Franks, copied to Gen. Myers, asking whether contractors have been considered to train the Afghan army.",
+   "place": "",
+   "actors": [
+    "Donald Rumsfeld",
+    "Tommy Franks",
+    "Richard Myers"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2002-04-23",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Rumsfeld sent a snowflake memo to Gen. Franks, copying Gen. Myers, asking about using contractors to train the Afghan army.",
+   "place": "Afghanistan",
+   "actors": [
+    "Donald Rumsfeld",
+    "Tommy Franks",
+    "Richard Myers",
+    "Afghan army"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Donald Rumsfeld",
+   "target": "Tommy Franks",
+   "type": "other",
+   "detail": "Rumsfeld directs a query to Franks about using contractors to train the Afghan army.",
+   "date": "2002-04-23",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Have you thought of using contractors to train the Afghan army?"
+  },
+  {
+   "source": "Donald Rumsfeld",
+   "target": "Richard Myers",
+   "type": "other",
+   "detail": "Myers is copied on the memo.",
+   "date": "2002-04-23",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "CC: Gen. Myers"
+  },
+  {
+   "source": "Donald Rumsfeld",
+   "target": "US Department of Defense",
+   "type": "member_of",
+   "detail": "Rumsfeld issued the memo as Secretary of Defense; the page bears an OSD document stamp.",
+   "date": "2002-04-23",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "11-L-0559/OSD/12076"
+  },
+  {
+   "source": "Tommy Franks",
+   "target": "Afghan army",
+   "type": "other",
+   "detail": "Franks was asked whether contractors could be used to train the Afghan army.",
+   "date": "2002-04-23",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Have you thought of using contractors to train the Afghan army?"
+  }
+ ],
+ "sources_cited": [
+  "Rumsfeld 'Snowflake' memo, 23 April 2002 (11-L-0559/OSD/12076)"
+ ],
+ "key_claims": [
+  "On 23 April 2002 Rumsfeld asked Gen. Franks whether private contractors could be used to train the Afghan army."
+ ]
+}

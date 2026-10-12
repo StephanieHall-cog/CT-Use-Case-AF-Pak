@@ -1,0 +1,348 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc50-1999-06-09-near-east-uae-imposition-of-sanctions-could-disrup",
+  "title": "NEAR EAST: UAE: Imposition of Sanctions Could Disrupt Bin Ladin's Finances",
+  "authors": "Central Intelligence Agency (National Intelligence Daily)",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "1999-06-09",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7xbr-uusml/1999-06-09-near-east-uae-imposition-of-sanctions.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 2,
+  "kind": "intelligence report",
+  "note": "National Intelligence Daily item on how sanctions imposed by the UAE could disrupt bin Laden's finances. Cited in 9/11 Commission Report Chapter 2, Endnote 77.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 50",
+  "relevance": "high",
+  "ocr": 0
+ },
+ "persons": [
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Bin Ladin",
+    "Bin Laden"
+   ],
+   "role": "al-Qa'ida leader relying on cash shipments via Ariana flights from the UAE",
+   "organizations": [
+    "al-Qa'ida",
+    "Taliban"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan",
+    "United Arab Emirates",
+    "Dubai",
+    "Sharjah"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Bin Ladin has come to rely on cash shipments aboard Ariana flights from the UAE as a key method of obtaining spendable funds."
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Ariana Afghan Airlines",
+   "aliases": [
+    "Ariana Airlines",
+    "Ariana"
+   ],
+   "type": "other",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Taliban-controlled; Afghanistan's only commercial air carrier; flights to Dubai and Sharjah used to ship cash for Bin Ladin; running out of foreign destinations."
+  },
+  {
+   "name": "Taliban",
+   "aliases": [],
+   "type": "political movement",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Controls Ariana Airlines; uses Afghan and Pakistani currencies traded in Dubai."
+  },
+  {
+   "name": "UAE offices of Ariana Airlines",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [
+    "Ariana Afghan Airlines"
+   ],
+   "rivals": [],
+   "country_base": "United Arab Emirates",
+   "notes": "Closing them would force money changers to find alternative, less secure routes."
+  },
+  {
+   "name": "Government of the United Arab Emirates",
+   "aliases": [
+    "UAE"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United Arab Emirates",
+   "notes": "Could halt Ariana flights; impact on the emirates would be little."
+  },
+  {
+   "name": "Government of India",
+   "aliases": [
+    "India"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "India",
+   "notes": "Agreed 23 August to halt Ariana flights to Amritsar."
+  },
+  {
+   "name": "al-Qa'ida",
+   "aliases": [
+    "al-Qaeda"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Implied via Bin Ladin."
+  }
+ ],
+ "places": [
+  {
+   "name": "United Arab Emirates",
+   "type": "country",
+   "country": "United Arab Emirates",
+   "parent": "",
+   "significance": "Source of cash shipments to Bin Ladin; potential sanctions."
+  },
+  {
+   "name": "Dubai",
+   "type": "city",
+   "country": "United Arab Emirates",
+   "parent": "United Arab Emirates",
+   "significance": "Key financial center where hard currencies are traded for Afghan and Pakistani currencies; Ariana destination."
+  },
+  {
+   "name": "Sharjah",
+   "type": "city",
+   "country": "United Arab Emirates",
+   "parent": "United Arab Emirates",
+   "significance": "Ariana destination; airport used for cash shipments."
+  },
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Destination of cash; antiquated banking system."
+  },
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Possible alternative route to fly cash for overland delivery to Afghanistan."
+  },
+  {
+   "name": "Amritsar",
+   "type": "city",
+   "country": "India",
+   "parent": "Punjab",
+   "significance": "Ariana flights to be halted by India."
+  },
+  {
+   "name": "Jiddah",
+   "type": "city",
+   "country": "Saudi Arabia",
+   "parent": "Saudi Arabia",
+   "significance": "Ariana flight destination, mostly carrying pilgrims (text partially garbled)."
+  },
+  {
+   "name": "India",
+   "type": "country",
+   "country": "India",
+   "parent": "",
+   "significance": "Agreed to halt Ariana flights."
+  }
+ ],
+ "events": [
+  {
+   "date": "1999-08-23",
+   "date_precision": "day",
+   "type": "agreement",
+   "description": "India agreed to halt Ariana flights to Amritsar.",
+   "place": "Amritsar",
+   "actors": [
+    "Government of India",
+    "Ariana Afghan Airlines"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1999-09-08",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA National Intelligence Daily assesses that UAE sanctions on Ariana flights could disrupt Bin Ladin's cash flow.",
+   "place": "United Arab Emirates",
+   "actors": [
+    "Usama bin Ladin",
+    "Ariana Afghan Airlines",
+    "Government of the United Arab Emirates"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Usama bin Ladin",
+   "target": "Ariana Afghan Airlines",
+   "type": "funded_by",
+   "detail": "Bin Ladin relies on cash shipments aboard Ariana flights from the UAE as a key means of obtaining funds.",
+   "date": "1999",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Bin Ladin has come to rely on cash shipments aboard Ariana flights from the UAE as a key method of obtaining spendable funds."
+  },
+  {
+   "source": "Ariana Afghan Airlines",
+   "target": "Taliban",
+   "type": "other",
+   "detail": "Ariana is Taliban-controlled.",
+   "date": "1999",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "the Taliban- controlled Ariana Airlines"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Taliban",
+   "type": "allied_with",
+   "detail": "Bin Ladin and the Taliban use Afghan and Pakistani currencies obtained in Dubai.",
+   "date": "1999",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "traded for the Afghan and Pakistani currencies used by Bin Ladin and the Taliban."
+  },
+  {
+   "source": "Ariana Afghan Airlines",
+   "target": "Taliban",
+   "type": "other",
+   "detail": "Ariana Airlines is described as Taliban-controlled.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "the Taliban- controlled Ariana .Airlines to ·oubai and _.$harjah"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Ariana Afghan Airlines",
+   "type": "other",
+   "detail": "Bin Ladin relies on cash shipments aboard Ariana flights from the UAE as a key method of obtaining spendable funds.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Bin Ladln has come to rely on cash shipments aboard ·Ariana flights from the UAE as a key method of obtaining spenda~le'funds."
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "United Arab Emirates",
+   "type": "funded_by",
+   "detail": "Bin Ladin obtains spendable cash shipped from the UAE (money changers) via Ariana flights.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "cash shipments aboard ·Ariana flights from the UAE as a key method of obtaining spenda~le'funds."
+  },
+  {
+   "source": "UAE offices of Ariana Airlines",
+   "target": "Ariana Afghan Airlines",
+   "type": "member_of",
+   "detail": "The UAE offices are part of Ariana Airlines.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "cte>sing of Arlana's _UAE offices w9uld force them to"
+  },
+  {
+   "source": "UAE offices of Ariana Airlines",
+   "target": "United Arab Emirates",
+   "type": "located_in",
+   "detail": "Ariana's offices are located in the UAE.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "cte>sing of Arlana's _UAE offices w9uld force them to"
+  },
+  {
+   "source": "Ariana Afghan Airlines",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Ariana is Afghanistan's only commercial air carrier.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Ariana .f\\lrllnes, Afghanistan's oniy commercial air carrier."
+  },
+  {
+   "source": "Government of India",
+   "target": "Ariana Afghan Airlines",
+   "type": "other",
+   "detail": "India agreed to halt Ariana flights to Amritsar.",
+   "date": "1999-08-23",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "India on 23 August ·agreed to halt Arlana flights to Amrista~"
+  },
+  {
+   "source": "Amritsar",
+   "target": "India",
+   "type": "located_in",
+   "detail": "Amritsar is an Indian destination of Ariana flights.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "India on 23 August ·agreed to halt Arlana flights to Amrista~"
+  },
+  {
+   "source": "Dubai",
+   "target": "United Arab Emirates",
+   "type": "located_in",
+   "detail": "Dubai is an emirate/airport in the UAE.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "cargo transiting Dubai an~ Sharjah airports"
+  },
+  {
+   "source": "Sharjah",
+   "target": "United Arab Emirates",
+   "type": "located_in",
+   "detail": "Sharjah is in the UAE.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "cargo transiting Dubai an~ Sharjah airports"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Taliban",
+   "type": "allied_with",
+   "detail": "Bin Ladin and the Taliban both use Afghan and Pakistani currencies obtained via Dubai.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Afghan and Pakistani currencies used by Bin Ladin and the Taliban."
+  }
+ ],
+ "sources_cited": [
+  "National Intelligence Daily (CIA), 9 June 1999"
+ ],
+ "key_claims": [
+  "Bin Ladin relies on cash shipments carried on Ariana flights from the UAE as a key source of spendable funds.",
+  "Halting Ariana flights to Dubai and Sharjah would at least temporarily disrupt Bin Ladin's cash flow.",
+  "Closing Ariana's UAE offices would force money changers to use third-country airlines, private aircraft or flights to Pakistan with overland delivery, which is slower and riskier.",
+  "Halting the flights would have little economic impact on the UAE since Ariana accounts for a scant share of cargo at Dubai and Sharjah airports.",
+  "Afghanistan's antiquated banking system is ill suited to such transactions, and Dubai is the key hub for hard-currency exchange."
+ ]
+}

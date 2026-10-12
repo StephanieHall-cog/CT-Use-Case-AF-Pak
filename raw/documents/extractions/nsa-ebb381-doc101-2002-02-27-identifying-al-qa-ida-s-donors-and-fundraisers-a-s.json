@@ -1,0 +1,168 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc101-2002-02-27-identifying-al-qa-ida-s-donors-and-fundraisers-a-s",
+  "title": "Identifying Al-Qa'ida's Donors and Fundraisers: A Status Report",
+  "authors": "CIA",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "2002-02-27",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7xqj-swjpt/2002-02-27-identifying-al-qaidas-donors-and.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 7,
+  "kind": "report",
+  "note": "CIA analytic report on al-Qaeda donors and fundraisers. Source: Chapter 5, Endnotes 116, 117; Chapter 7, Endnote 70.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 101",
+  "relevance": "high",
+  "ocr": 3
+ },
+ "persons": [
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Bin Ladin",
+    "Usama bin Laden"
+   ],
+   "role": "al-Qa'ida leader; ultimate recipient of donor funds, which are channeled through middlemen",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.3",
+     "quote": "rather than giving the funds directly to Bin Ladin or other senior al-Qa'ida members"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "al-Qa'ida",
+   "aliases": [
+    "al-Qaeda",
+    "Al-Qa'ida"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Funded by individual donors in the Arabian Peninsula and grassroots fundraisers worldwide, via middlemen such as NGOs, mosques, fundraisers and businessmen."
+  },
+  {
+   "name": "DCI Counterterrorist Center, Office of Terrorism Analysis",
+   "aliases": [
+    "CIA Counterterrorist Center",
+    "CTC"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Central Intelligence Agency"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Prepared the assessment."
+  },
+  {
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Publisher of the report."
+  },
+  {
+   "name": "Nongovernmental organizations (NGOs)",
+   "aliases": [
+    "NGOs"
+   ],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Described as a middleman channel for donor money to terrorist groups."
+  }
+ ],
+ "places": [
+  {
+   "name": "Arabian Peninsula",
+   "type": "region",
+   "country": "",
+   "parent": "",
+   "significance": "Individuals there are named as critical funding sources for al-Qa'ida."
+  }
+ ],
+ "events": [
+  {
+   "date": "2002-02-27",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "The CIA DCI Counterterrorist Center's Office of Terrorism Analysis issued the status report 'Identifying Al-Qa'ida's Donors and Fundraisers'.",
+   "place": "",
+   "actors": [
+    "Central Intelligence Agency",
+    "DCI Counterterrorist Center, Office of Terrorism Analysis",
+    "al-Qa'ida"
+   ],
+   "timestamp": "p.3"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "al-Qa'ida",
+   "target": "Arabian Peninsula",
+   "type": "funded_by",
+   "detail": "Individuals in the Arabian Peninsula, along with grassroots fundraisers worldwide, are described as critical funding sources.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "individuals in the Arabian Peninsula and grassroots fundraisers around the world are critical funding sources for al-Qa'ida."
+  },
+  {
+   "source": "Office of Terrorism Analysis",
+   "target": "DCI Counterterrorist Center, Office of Terrorism Analysis",
+   "type": "other",
+   "detail": "The assessment was prepared by this office.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "This assessment was prepared by the DCI Counterterrorist Center's Office of Terrorism Analysis."
+  },
+  {
+   "source": "al-Qa'ida",
+   "target": "Nongovernmental organizations (NGOs)",
+   "type": "funded_by",
+   "detail": "Donors channel money for terrorist-related activities through middlemen, including NGOs, rather than giving it directly to al-Qa'ida's senior members. NGOs are therefore intermediaries in al-Qa'ida's funding.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "Donors generally channel money intended for tezrorist-related activities through middlemen- including nongovernmental organizations {NGOs), mosques, fundraisers, and businessmen"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Nongovernmental organizations (NGOs)",
+   "type": "funded_by",
+   "detail": "Donor money reaches Bin Ladin and other senior al-Qa'ida members indirectly, via middlemen such as NGOs, rather than being given to him directly.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "rather than giving the funds directly to Bin Ladin or other senior al-Qa'ida members"
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "Individuals in the Arabian Peninsula and grassroots fundraisers around the world are critical funding sources for al-Qa'ida.",
+  "Donors channel money through middlemen (NGOs, mosques, fundraisers, businessmen) rather than giving directly to Bin Ladin or senior al-Qa'ida members.",
+  "This practice hides the donors' role and lets them deny knowing the funds went to terrorists.",
+  "Mosque imams and personnel collect money and give it to couriers for delivery.",
+  "Merchants and businessmen serve as facilitators to route money to terrorist groups."
+ ]
+}

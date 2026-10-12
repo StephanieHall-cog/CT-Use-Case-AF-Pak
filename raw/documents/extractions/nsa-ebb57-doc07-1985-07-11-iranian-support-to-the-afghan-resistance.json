@@ -1,0 +1,957 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb57-doc07-1985-07-11-iranian-support-to-the-afghan-resistance",
+  "title": "Iranian Support to the Afghan Resistance",
+  "authors": "Defense Intelligence Agency",
+  "publisher": "National Security Archive (GWU), Afghanistan: Lessons from the Last War",
+  "published": "1985-07-11",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB57/us7.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB57/us.html",
+  "pages": 5,
+  "kind": "intelligence report",
+  "note": "DIA analyses from 1985 indicate that Iran and the U.S. both followed their separate interests in supporting the Afghan rebel movement, despite U.S. hostility toward Iran; may have implications for current parallel U.S. and Iranian statements on terrorism.",
+  "collection": "NSAEBB57",
+  "doc_number": "Document 7",
+  "relevance": "high",
+  "ocr": 5
+ },
+ "persons": [
+  {
+   "name": "Gulbuddin Hekmatiyar",
+   "aliases": [
+    "Gulbuddin Hekmatyar",
+    "Gulbuddin Hekmatiyar"
+   ],
+   "role": "Leader of Hesb-e Islami, Sunni-led mujahedin group headquartered in Pakistan",
+   "organizations": [
+    "Hesb-e Islami"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Pakistan",
+    "southern Afghanistan",
+    "eastern Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "supplied to at least the Hesb-e Islami (Islamic Party) led by Gulbuddin Hekmatiyar, for operations in southern and eastern Afghanistan"
+    }
+   ]
+  },
+  {
+   "name": "Zahir Shah",
+   "aliases": [
+    "Mohammad Zahir Shah"
+   ],
+   "role": "Afghan king, overthrown in 1973",
+   "organizations": [],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "After the overthrow of Zahir Shah in 1973"
+    }
+   ]
+  },
+  {
+   "name": "Shah Mohammad Pahlavi",
+   "aliases": [
+    "Mohammad Reza Pahlavi",
+    "Shah of Iran"
+   ],
+   "role": "Shah of Iran who reached water and rail agreements with Kabul",
+   "organizations": [],
+   "nationality_or_origin": "Iranian",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Iran"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Shah Mohammad Pahlavi succeeded briefly in gaining a basis for more cordial relations with Kabul"
+    }
+   ]
+  },
+  {
+   "name": "Khomeini",
+   "aliases": [
+    "Ayatollah Khomeini",
+    "Ruhollah Khomeini"
+   ],
+   "role": "Leader of the Iranian revolution and Islamic Republic",
+   "organizations": [
+    "Government of the Islamic Republic of Iran"
+   ],
+   "nationality_or_origin": "Iranian",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Iran"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Shortly after the Khomeini revolution in February 1979, Iranian Shiite clerics and followers became involved in organizing Shiite Afghans"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Hesb-e Islami",
+   "aliases": [
+    "Hizb-i Islami",
+    "Islamic Party"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Sunni-led group supplied by Iran 1980 to mid-1982 with rifles, mines, rockets, machineguns, uniforms and boots; Iran later severed ties with Peshawar groups."
+  },
+  {
+   "name": "Harakat-e Islami",
+   "aliases": [
+    "Islamic Movement"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Iran"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Shiite group in Hazarajat supported by Iran; its support caused interfactional strife."
+  },
+  {
+   "name": "Nasr",
+   "aliases": [
+    "Nasr (victory)"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Iran"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Shiite client group receiving Iranian attention, training and aid."
+  },
+  {
+   "name": "Niruh",
+   "aliases": [
+    "Niruh (force)"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Iran"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Shiite client group receiving Iranian aid."
+  },
+  {
+   "name": "Sepah",
+   "aliases": [
+    "Sepah (corps)"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Iran"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Shiite client group receiving Iranian aid."
+  },
+  {
+   "name": "Hesb-e Allah",
+   "aliases": [
+    "Hesbollah",
+    "Hezbollah",
+    "Party of God"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Iran"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Afghan Shiite group receiving Iranian aid."
+  },
+  {
+   "name": "Iranian Revolutionary Guard Corps",
+   "aliases": [
+    "IRGC",
+    "Revolutionary Guards"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "Government of the Islamic Republic of Iran"
+   ],
+   "rivals": [],
+   "country_base": "Iran",
+   "notes": "Volunteers serve as advisers with Afghan Shiite resistance in Hazarajat; numbers increased."
+  },
+  {
+   "name": "Government of the Islamic Republic of Iran",
+   "aliases": [
+    "Khomeini regime",
+    "Tehran regime"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [
+    "Soviet Union"
+   ],
+   "country_base": "Iran",
+   "notes": "Supports Shiite Afghan groups; severed ties with Peshawar resistance."
+  },
+  {
+   "name": "Soviet Union",
+   "aliases": [
+    "Soviets",
+    "Moscow"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [
+    "Government of the Islamic Republic of Iran"
+   ],
+   "country_base": "USSR",
+   "notes": "Invaded Afghanistan Dec 1979; criticized Iran for activities in Afghanistan."
+  },
+  {
+   "name": "Peshawar-based resistance",
+   "aliases": [
+    "mainstream Peshawar-based resistance"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Dependent on West (US) and Gulf monarchies; Iran severed ties from mid-1983."
+  }
+ ],
+ "places": [
+  {
+   "name": "Hazarajat",
+   "type": "region",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Central region where Iranian clerics and IRGC advisers organize Shiite Hazaras"
+  },
+  {
+   "name": "Peshawar",
+   "type": "city",
+   "country": "Pakistan",
+   "parent": "Pakistan",
+   "significance": "Headquarters of mainstream Sunni resistance"
+  },
+  {
+   "name": "Chah Bahar",
+   "aliases": [
+    "Chahar"
+   ],
+   "type": "city",
+   "country": "Iran",
+   "parent": "Iran",
+   "significance": "Iranian port on Arabian Sea envisaged for Afghan rail access"
+  },
+  {
+   "name": "Helmand River",
+   "type": "region",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Water-sharing agreement between Iran and Afghanistan"
+  },
+  {
+   "name": "Iran",
+   "type": "country",
+   "country": "Iran",
+   "parent": "",
+   "significance": "Supporter of Shiite Afghan groups; hosts about two million Afghans"
+  },
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Subject of the assessment"
+  },
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Base for Sunni mujahedin"
+  },
+  {
+   "name": "Kabul",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Marxist regime seat"
+  }
+ ],
+ "events": [
+  {
+   "date": "1973",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Overthrow of Zahir Shah",
+   "place": "Afghanistan",
+   "actors": [
+    "Zahir Shah"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1979-02",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Khomeini revolution; Iranian Shiite clerics begin organizing Afghan Shiites in Hazarajat",
+   "place": "Hazarajat",
+   "actors": [
+    "Khomeini"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1979-12",
+   "date_precision": "month",
+   "type": "offensive",
+   "description": "Soviet invasion of Afghanistan",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet Union"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1980/1982",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Iran supplies weapons and equipment to Hesb-e Islami, 1980 to mid-1982",
+   "place": "Pakistan",
+   "actors": [
+    "Government of the Islamic Republic of Iran",
+    "Hesb-e Islami"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1983",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "From mid-1983 Iran severs ties with Peshawar-based resistance and focuses on Shiite groups",
+   "place": "Peshawar",
+   "actors": [
+    "Government of the Islamic Republic of Iran",
+    "Peshawar-based resistance"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1973",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Overthrow of Zahir Shah; subsequent Iranian-Afghan agreements on Helmand waters and a rail link to Chah Bahar.",
+   "place": "Kabul",
+   "actors": [
+    "Zahir Shah",
+    "Shah Mohammad Pahlavi"
+   ],
+   "timestamp": "p.4"
+  },
+  {
+   "date": "1979-02",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Khomeini revolution; Iranian Shiite clerics then began organizing Afghan Shiites in Hazarajat.",
+   "place": "Hazarajat",
+   "actors": [
+    "Khomeini"
+   ],
+   "timestamp": "p.4"
+  },
+  {
+   "date": "1979-12",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Soviet invasion of Afghanistan.",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet Union"
+   ],
+   "timestamp": "p.4"
+  },
+  {
+   "date": "1980 to 1982-06",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Iran supplied arms and equipment to Sunni Mujahedin in Pakistan including Hesb-e Islami.",
+   "place": "Pakistan",
+   "actors": [
+    "Iran",
+    "Hesb-e Islami",
+    "Gulbuddin Hekmatiyar"
+   ],
+   "timestamp": "p.4"
+  },
+  {
+   "date": "1983-06",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Peshawar resistance recognized Iranian dominance over Hazara Shiite region; Iran thereafter severed ties with mainstream Peshawar groups.",
+   "place": "Peshawar",
+   "actors": [
+    "Peshawar-based resistance",
+    "Iran"
+   ],
+   "timestamp": "p.4"
+  },
+  {
+   "date": "1983-12",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Iranian arms shortages from offensives against Iraq limited material support to Afghan client groups.",
+   "place": "Iran",
+   "actors": [
+    "Iran"
+   ],
+   "timestamp": "p.4"
+  },
+  {
+   "date": "1973",
+   "date_precision": "year",
+   "type": "other",
+   "detail": "",
+   "description": "Overthrow of Zahir Shah; Shah Pahlavi subsequently reaches agreements with Kabul on Helmand waters and a rail link to Chah Bahar.",
+   "place": "Kabul",
+   "actors": [
+    "Zahir Shah",
+    "Shah Mohammad Pahlavi"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1979-02",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Khomeini revolution; Iranian Shiite clerics soon begin organizing Afghan Shiites in the Hazarajat.",
+   "place": "Hazarajat",
+   "actors": [
+    "Khomeini"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1979-12",
+   "date_precision": "month",
+   "type": "offensive",
+   "description": "Soviet invasion of Afghanistan.",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet Union"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1980 to mid-1982",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Iran supplies weapons and equipment to Hesb-e Islami while supporting Shiite groups in Hazarajat.",
+   "place": "Pakistan",
+   "actors": [
+    "Iran",
+    "Hesb-e Islami",
+    "Gulbuddin Hekmatiyar",
+    "Harakat-e Islami"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1983-06",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Iran severs ties with Peshawar-based resistance and deals almost exclusively with Afghan Shiite groups.",
+   "place": "Peshawar",
+   "actors": [
+    "Iran",
+    "Peshawar-based resistance"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1983-10",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Weapons shortages from Iraq offensives limit Iranian material support to Afghan client groups from late 1983.",
+   "place": "Iran",
+   "actors": [
+    "Iran"
+   ],
+   "timestamp": "p.2"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Hesb-e Islami",
+   "target": "Gulbuddin Hekmatiyar",
+   "type": "leads",
+   "detail": "Hesb-e Islami is led by Hekmatiyar.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Hesb-e Islami (Islamic Party) led by Gulbuddin Hekmatiyar"
+  },
+  {
+   "source": "Hesb-e Islami",
+   "target": "Government of the Islamic Republic of Iran",
+   "type": "funded_by",
+   "detail": "Iran supplied rifles, mines, rockets, machineguns, uniforms and boots to Hesb-e Islami.",
+   "date": "1980-1982",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Rifles (M-1, G-3), land mines, shoulder-fired antitank rockets, heavy machineguns, uniforms and boots were supplied to at least the Hesb-e Islami"
+  },
+  {
+   "source": "Harakat-e Islami",
+   "target": "Government of the Islamic Republic of Iran",
+   "type": "funded_by",
+   "detail": "Iran supported Harakat-e Islami and other Shiite groups in the Hazarajat.",
+   "date": "1980-1982",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Iranian support to Harakat-e Islami (Islamic Movement) and other Shiite groups in the Hazarajat region caused serious interfactional strife"
+  },
+  {
+   "source": "Nasr",
+   "target": "Government of the Islamic Republic of Iran",
+   "type": "trained_by",
+   "detail": "Iran's attention, training and aid went to Nasr, Niruh, Sepah and Hesb-e Allah.",
+   "date": "1983",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "Iran's major attention, training, and aid has been rendered to pliable and responsive Shiites, principally of the Nasr (victory), Niruh (force), Sepah (corps), and Hesb-e Allah"
+  },
+  {
+   "source": "Niruh",
+   "target": "Government of the Islamic Republic of Iran",
+   "type": "trained_by",
+   "detail": "Niruh received Iranian attention, training and aid.",
+   "date": "1983",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "principally of the Nasr (victory), Niruh (force), Sepah (corps), and Hesb-e Allah"
+  },
+  {
+   "source": "Sepah",
+   "target": "Government of the Islamic Republic of Iran",
+   "type": "trained_by",
+   "detail": "Sepah received Iranian attention, training and aid.",
+   "date": "1983",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "principally of the Nasr (victory), Niruh (force), Sepah (corps), and Hesb-e Allah"
+  },
+  {
+   "source": "Hesb-e Allah",
+   "target": "Government of the Islamic Republic of Iran",
+   "type": "trained_by",
+   "detail": "Hesb-e Allah received Iranian attention, training and aid.",
+   "date": "1983",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "principally of the Nasr (victory), Niruh (force), Sepah (corps), and Hesb-e Allah (aka Hesbollah, Party of God)"
+  },
+  {
+   "source": "Iranian Revolutionary Guard Corps",
+   "target": "Hazarajat",
+   "type": "located_in",
+   "detail": "IRGC volunteers serve as advisers with Afghan Shiite resistance in the Hazara region.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "Iranian Revolutionary Guard Corps volunteers serving as advisers with the Afghan Shiite resistance in the Hazara region has increased"
+  },
+  {
+   "source": "Government of the Islamic Republic of Iran",
+   "target": "Peshawar-based resistance",
+   "type": "other",
+   "detail": "Iran severed ties with mainstream Peshawar resistance due to its dependence on the West and Gulf monarchies.",
+   "date": "1983",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "severed ties with the mainstream Peshawar-based resistance because of its heavy dependence on support from the West (US)"
+  },
+  {
+   "source": "Government of the Islamic Republic of Iran",
+   "target": "Soviet Union",
+   "type": "rival_of",
+   "detail": "Soviets criticized Iran and warned relations would suffer; Iran's objectives collide with Soviet aims.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "The Soviets also publicly and privately have criticized Iran for its activities in Afghanistan"
+  },
+  {
+   "source": "Peshawar-based resistance",
+   "target": "Iran",
+   "type": "other",
+   "detail": "Iran severed ties with the mainstream Peshawar-based resistance because of its heavy dependence on Western and Gulf support.",
+   "date": "since mid-1983",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "severed ties with the mainstream Peshawar-based resistance because of its heavy dependence on support from the West (US) and the conservative monarchies of the Gulf"
+  },
+  {
+   "source": "Nasr",
+   "target": "Iran",
+   "type": "trained_by",
+   "detail": "Iran's major attention, training and aid went to pliable Shiite groups including Nasr.",
+   "date": "1983-1985",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "Iran's major attention, training, and aid has been rendered to pliable and responsive Shiites, principally of the Nasr (victory)"
+  },
+  {
+   "source": "Niruh",
+   "target": "Iran",
+   "type": "trained_by",
+   "detail": "Iran's major attention, training and aid went to Niruh among others.",
+   "date": "1983-1985",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "principally of the Nasr (victory), Niruh (force), Sepah (corps), and Hesb-e Allah"
+  },
+  {
+   "source": "Sepah",
+   "target": "Iran",
+   "type": "trained_by",
+   "detail": "Sepah was among the Shiite groups receiving Iranian training and aid.",
+   "date": "1983-1985",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "Niruh (force), Sepah (corps), and Hesb-e Allah (aka Hesbollah, Party of God) groups"
+  },
+  {
+   "source": "Hesb-e Allah",
+   "target": "Iran",
+   "type": "trained_by",
+   "detail": "Hesb-e Allah was among the Shiite groups receiving Iranian training and aid.",
+   "date": "1983-1985",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "Sepah (corps), and Hesb-e Allah (aka Hesbollah, Party of God) groups"
+  },
+  {
+   "source": "Iranian Revolutionary Guard Corps",
+   "target": "Hazarajat",
+   "type": "located_in",
+   "detail": "IRGC volunteers serve as advisers with Afghan Shiite resistance in the Hazara region.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "number of Iranian Revolutionary Guard Corps volunteers serving as advisers with the Afghan Shiite resistance in the Hazara region has increased"
+  },
+  {
+   "source": "Iranian Revolutionary Guard Corps",
+   "target": "Nasr",
+   "type": "other",
+   "detail": "IRGC advisers work with Afghan Shiite resistance groups, increasing their discipline and responsiveness to Iran.",
+   "confidence": "inferred",
+   "timestamp": "p.4",
+   "quote": "degree of discipline and responsiveness to the Iranian-led Khomeini regime also has increased with the presence of these Guards"
+  },
+  {
+   "source": "Shah Mohammad Pahlavi",
+   "target": "Zahir Shah",
+   "type": "other",
+   "detail": "Text states the overthrow of Zahir Shah in 1973 (Daoud coup); the person named is likely a garbled reference to the Shah of Iran, who sought better relations with Kabul afterward.",
+   "date": "1973",
+   "confidence": "inferred",
+   "timestamp": "p.4",
+   "quote": "After the overthrow of Zahir Shah in 1973, Shah Mohammad Pahlavi succeeded briefly in gaining a basis for more cordial relations with Kabul"
+  },
+  {
+   "source": "Shah Mohammad Pahlavi",
+   "target": "Kabul",
+   "type": "negotiated_with",
+   "detail": "Reached agreements to share Helmand River waters and build a rail link to an Iranian port.",
+   "date": "1973",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "reaching agreements for both countries to share the Helmand River waters and building a rail link"
+  },
+  {
+   "source": "Hesb-e Islami",
+   "target": "Iran",
+   "type": "funded_by",
+   "detail": "Iran supplied rifles, landmines, rockets, machineguns, uniforms and boots to at least Hesb-e Islami.",
+   "date": "1980-1982",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "supplied to at least the Hesb-e Islami (Islamic Party) led by Gulbuddin Hekmatiyar, for operations in southern and eastern Afghanistan"
+  },
+  {
+   "source": "Gulbuddin Hekmatiyar",
+   "target": "Hesb-e Islami",
+   "type": "leads",
+   "detail": "Hekmatiyar leads Hesb-e Islami.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "Hesb-e Islami (Islamic Party) led by Gulbuddin Hekmatiyar"
+  },
+  {
+   "source": "Harakat-e Islami",
+   "target": "Iran",
+   "type": "funded_by",
+   "detail": "Iran supported Harakat-e Islami and others in the same period.",
+   "date": "1980-1982",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "Iranian support to Harakat-e Islami (Islamic Movement) and other"
+  },
+  {
+   "source": "Iran",
+   "target": "Hazarajat",
+   "type": "other",
+   "detail": "Iranian Shiite clerics organized Shiite Afghans in central Hazarajat after the 1979 revolution.",
+   "date": "1979",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "Iranian Shiite clerics and followers became involved in organizing Shiite Afghans in the isolated, semi-desolate central Hazarajat region"
+  },
+  {
+   "source": "Khomeini",
+   "target": "Government of the Islamic Republic of Iran",
+   "type": "leads",
+   "detail": "Khomeini regime leads the Iranian government.",
+   "confidence": "inferred",
+   "timestamp": "p.5",
+   "quote": "The Khomeini regime's support to Afghan resistance groups"
+  },
+  {
+   "source": "Soviet Union",
+   "target": "Iran",
+   "type": "rival_of",
+   "detail": "Soviets criticized and warned Iran over its Afghan activities; Iran's objectives collide with Soviet aims.",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "The Soviets also publicly and privately have criticized Iran for its activities in Afghanistan"
+  },
+  {
+   "source": "Iran",
+   "target": "Hazarajat",
+   "type": "other",
+   "detail": "Hazaras give Iran a bargaining chip over the future of the Kabul regime.",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "the Hazaras, although a minority, offer Iran a bargaining chip in any decisions regarding the future of the Kabul regime"
+  },
+  {
+   "source": "Hazarajat",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Hazarajat is in central Afghanistan.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "central Hazarajat region of Afghanistan"
+  },
+  {
+   "source": "Peshawar",
+   "target": "Pakistan",
+   "type": "located_in",
+   "detail": "Peshawar is in Pakistan.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "Afghan resistance in Peshawar, Pakistan"
+  },
+  {
+   "source": "Gulbuddin Hekmatiyar",
+   "target": "Hesb-e Islami",
+   "type": "leads",
+   "detail": "Hesb-e Islami is described as led by Gulbuddin Hekmatiyar.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "at least the Hesb-e Islami (Islamic Party) led by Gulbuddin Hekmatiyar, for operations in southern and eastern Afghanistan"
+  },
+  {
+   "source": "Hesb-e Islami",
+   "target": "Iran",
+   "type": "funded_by",
+   "detail": "Iran supplied rifles, land mines, antitank rockets, heavy machineguns, uniforms and boots to Hesb-e Islami, 1980 to mid-1982.",
+   "date": "1980 to mid-1982",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "rifles (M-1, G-3), land mines, shoulder-fired antitank rockets, heavy machineguns, uniforms and boots were supplied to at least the Hesb-e Islami"
+  },
+  {
+   "source": "Hesb-e Islami",
+   "target": "Pakistan",
+   "type": "located_in",
+   "detail": "Sunni-led Islamic fundamentalists aided by Iran, including Hesb-e Islami, were headquartered in Pakistan.",
+   "date": "1980 to mid-1982",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Sunni-led Islamic fundamentalists who were headquartered in Pakistan"
+  },
+  {
+   "source": "Harakat-e Islami",
+   "target": "Iran",
+   "type": "funded_by",
+   "detail": "Iranian support to Harakat-e Islami and other Shiite groups in the Hazarajat caused interfactional strife.",
+   "date": "1980 to mid-1982",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Iranian support to Harakat-e Islami (Islamic Movement) and other Shiite groups in the Hazarajat region caused serious interfactional strife"
+  },
+  {
+   "source": "Harakat-e Islami",
+   "target": "Hazarajat",
+   "type": "located_in",
+   "detail": "Harakat-e Islami operated among Shiite groups in the Hazarajat region.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Harakat-e Islami (Islamic Movement) and other Shiite groups in the Hazarajat region"
+  },
+  {
+   "source": "Shah Mohammad Pahlavi",
+   "target": "Kabul",
+   "type": "negotiated_with",
+   "detail": "Reached agreements with Kabul on sharing Helmand River waters and a rail link to Chah Bahar.",
+   "date": "1970s",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "reaching agreements for both countries to share the Helmand River waters and building a rail link"
+  },
+  {
+   "source": "Chah Bahar",
+   "target": "Iran",
+   "type": "located_in",
+   "detail": "Chah Bahar is an Iranian port on the Arabian Sea.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "access to an Iranian port (Chah Bahar) on the Arabian Sea"
+  },
+  {
+   "source": "Iran",
+   "target": "Soviet Union",
+   "type": "rival_of",
+   "detail": "Iran's objectives in Afghanistan risk collision with Soviet aims; Soviets criticized Iran.",
+   "date": "1985",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Iran's principal foreign policy objectives run a high risk of collision with Soviet aims in Afghanistan"
+  },
+  {
+   "source": "Iran",
+   "target": "Peshawar-based resistance",
+   "type": "other",
+   "detail": "Iran severed ties with the mainstream Peshawar-based resistance due to its dependence on the West and Gulf monarchies.",
+   "date": "mid-1983",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "severed ties with the mainstream Peshawar-based resistance because of its heavy dependence on support from the West (US)"
+  },
+  {
+   "source": "Peshawar-based resistance",
+   "target": "Peshawar",
+   "type": "located_in",
+   "detail": "Resistance based in Peshawar, Pakistan.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "the Afghan resistance in Peshawar, Pakistan appears to have récognized the dominant Iranian influence"
+  },
+  {
+   "source": "Niruh",
+   "target": "Iran",
+   "type": "funded_by",
+   "detail": "Niruh is among pliable Shiite groups receiving Iran's major attention and aid.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Iran's major attention“and aid s been rendered to pliable and responsive Shiites, principally of the Niruh (force), Sepah (corps) and Hesb-e Allah"
+  },
+  {
+   "source": "Sepah",
+   "target": "Iran",
+   "type": "funded_by",
+   "detail": "Sepah is among Shiite client groups receiving Iranian aid.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Niruh (force), Sepah (corps) and Hesb-e Allah (aka Hesbollah, Party of God) groups"
+  },
+  {
+   "source": "Hesb-e Allah",
+   "target": "Iran",
+   "type": "funded_by",
+   "detail": "Hesb-e Allah is a client Shiite group receiving Iranian aid.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Hesb-e Allah (aka Hesbollah, Party of God) groups"
+  },
+  {
+   "source": "Nasr",
+   "target": "Iran",
+   "type": "trained_by",
+   "detail": "The p.4 version lists Nasr among Shiite groups receiving Iranian attention, training and aid.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "Iran's major attention, training, and aid has been rendered to pliable and responsive Shiites, principally of the Nasr (victory), Niruh"
+  },
+  {
+   "source": "Iranian Revolutionary Guard Corps",
+   "target": "Niruh",
+   "type": "other",
+   "detail": "IRGC volunteers serve as advisors with Afghan Shiite resistance groups in Hazara region.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "the number of Iranian Revolutionary Guard Corps volunteers serving as advisors with the Afghan Shiite resistance in the Hazara region has increased"
+  },
+  {
+   "source": "Government of the Islamic Republic of Iran",
+   "target": "Khomeini",
+   "type": "reports_to",
+   "detail": "The regime is described as Khomeini-led.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "responsiveness to the Iranian-led Khomeini regime"
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "Iran supported Sunni Hesb-e Islami with weapons from 1980 to mid-1982 but shifted almost exclusively to Afghan Shiite groups from mid-1983.",
+  "Iranian support to Shiite groups in the Hazarajat caused interfactional strife and weakened the overall resistance.",
+  "IRGC advisers in the Hazara region increased, increasing discipline and responsiveness to the Khomeini regime.",
+  "Material support was limited since late 1983 by weapons shortages from the war with Iraq.",
+  "About two million Afghans are in Iran, subject to repression, though some pro-Khomeini clerics unilaterally provided aid.",
+  "Iran's border crackdowns aim to avoid provoking Soviet retaliation, and Iranian and Soviet aims in Afghanistan risk collision.",
+  "Hazaras give Iran a bargaining chip over the future of the Kabul regime."
+ ]
+}

@@ -1,0 +1,237 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc46-1999-04-05-excised-terrorism-targeting-study-of-u-s-embassy-n",
+  "title": "[Excised] Terrorism: Targeting Study of U.S. Embassy, Nairobi, Kenya",
+  "authors": "Central Intelligence Agency",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "1999-04-05",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7xbr-uusml/1999-04-05-excised-terrorism-targeting-study-of.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 11,
+  "kind": "intelligence report",
+  "note": "CIA intelligence report on the targeting study of the U.S. Embassy in Nairobi. Cited in 9/11 Commission Report Chapter 3, Endnote 85.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 46",
+  "relevance": "medium",
+  "ocr": 8
+ },
+ "persons": [],
+ "organizations": [
+  {
+   "name": "U.S. Embassy, Nairobi",
+   "aliases": [
+    "US Embassy Nairobi"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "U.S. Department of State"
+   ],
+   "rivals": [],
+   "country_base": "Kenya",
+   "notes": "Subject of a targeting study; building described as six-storey with a steel-bar fence and a glass main entrance on Moi Street."
+  },
+  {
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Author of the information report (TOT 051529Z APR 99)."
+  },
+  {
+   "name": "White House Situation Room",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Immediate addressee of the report."
+  },
+  {
+   "name": "Federal Bureau of Investigation",
+   "aliases": [
+    "FBI"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Addressee of the report."
+  },
+  {
+   "name": "National Security Agency",
+   "aliases": [
+    "NSA",
+    "DIRNSA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Addressee of the report."
+  },
+  {
+   "name": "Defense Intelligence Agency",
+   "aliases": [
+    "DIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Addressee of the report."
+  }
+ ],
+ "places": [
+  {
+   "name": "Nairobi",
+   "type": "city",
+   "country": "Kenya",
+   "parent": "Kenya",
+   "significance": "Location of the U.S. Embassy that is the subject of the targeting study."
+  },
+  {
+   "name": "Moi Street",
+   "type": "city",
+   "country": "Kenya",
+   "parent": "Nairobi",
+   "significance": "Busy street where the embassy's main glass entrance is located."
+  },
+  {
+   "name": "Haile Selassie Avenue",
+   "type": "city",
+   "country": "Kenya",
+   "parent": "Nairobi",
+   "significance": "Crowded central Nairobi street near the embassy."
+  },
+  {
+   "name": "Kenya",
+   "type": "country",
+   "country": "Kenya",
+   "parent": "",
+   "significance": "Country of the targeted embassy."
+  }
+ ],
+ "events": [
+  {
+   "date": "1999-04-05",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA information report (TOT 051529Z APR 99) circulated to senior US agencies: a targeting study of the U.S. Embassy in Nairobi, describing the building, surroundings, fence, sidewalk and entrances.",
+   "place": "Nairobi",
+   "actors": [
+    "Central Intelligence Agency"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1999-04-05",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA information report (time of transmission 051529Z APR 99) on a terrorism targeting study of the U.S. Embassy in Nairobi, sent to the White House Situation Room, DIA, NSA, FBI and others; not finally evaluated intelligence.",
+   "place": "Nairobi, Kenya",
+   "actors": [
+    "Central Intelligence Agency",
+    "White House Situation Room",
+    "Defense Intelligence Agency",
+    "National Security Agency",
+    "Federal Bureau of Investigation",
+    "U.S. Embassy, Nairobi"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "U.S. Embassy, Nairobi",
+   "target": "Nairobi",
+   "type": "located_in",
+   "detail": "The targeted building, the U.S. Embassy, is located in the middle of Nairobi.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "MOI STREET AND HAILE·SELASSIE.AVENUE ARE AMONG THE MOST CROWDED STREE'l'S IN THE MIDDLE OF NAIROBI"
+  },
+  {
+   "source": "U.S. Embassy, Nairobi",
+   "target": "Moi Street",
+   "type": "located_in",
+   "detail": "The embassy's main glass entrance is on Moi Street.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "THE MAIN ENTRANCE, MADE OF GLASS AND LOCATED ON MOI STREET."
+  },
+  {
+   "source": "U.S. Embassy, Nairobi",
+   "target": "Haile Selassie Avenue",
+   "type": "located_in",
+   "detail": "The embassy is on the street corner of Moi Street and Haile Selassie Avenue, which front the target.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "MOI STREET AND HAILE·SELASSIE.AVENUE ARE AMONG THE MOST CROWDED STREE'l'S IN THE MIDDLE OF NAIROBI"
+  },
+  {
+   "source": "Nairobi",
+   "target": "Kenya",
+   "type": "located_in",
+   "detail": "Nairobi is the city in Kenya where the targeted embassy is located.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "TARGETING. STODY\"OF u.s.1 :ii:, NAIROBI, KENYA"
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "White House Situation Room",
+   "type": "reports_to",
+   "detail": "The CIA disseminated the information report to the White House Situation Room as an immediate addressee.",
+   "date": "1999-04-05",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "IMMEDIATE WHITE HOUSE SITUATION ROOM, SEJCSTATE WASHDC.:,"
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "Defense Intelligence Agency",
+   "type": "other",
+   "detail": "The CIA report was addressed to DIA Washington DC among its recipients.",
+   "date": "1999-04-05",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "DIA WASHINGTON DC, DA AMHS WASHINGTON DC"
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "National Security Agency",
+   "type": "other",
+   "detail": "The CIA report was addressed to DIRNSA among its recipients.",
+   "date": "1999-04-05",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "CSAF\"WASHINGTON DC, -DIRNSA"
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "Federal Bureau of Investigation",
+   "type": "other",
+   "detail": "The CIA report was addressed to the FBI among its recipients.",
+   "date": "1999-04-05",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "FEDERAL BUREAU 0~ INVESTIGATION,"
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "The document is a CIA information report, not finally evaluated intelligence, dated 5 April 1999, containing a targeting study of the U.S. Embassy in Nairobi.",
+  "The study describes the embassy as a six-storey building (underground, ground floor, four upper floors) surrounded by a roughly 3 m steel-bar fence set about 2.5 m back.",
+  "Moi Street and Haile Selassie Avenue are described as among the most crowded streets in central Nairobi, easily reached by any transport or on foot.",
+  "The main entrance is glass, on Moi Street, with six steps and a nine-metre width; metal poles on the sidewalk edge block vehicles from approaching the embassy.",
+  "The available text is heavily excised and contains no named individuals or identified perpetrators."
+ ]
+}

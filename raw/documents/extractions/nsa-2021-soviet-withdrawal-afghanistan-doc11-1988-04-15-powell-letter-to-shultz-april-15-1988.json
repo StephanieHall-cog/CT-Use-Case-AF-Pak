@@ -1,0 +1,458 @@
+{
+ "document": {
+  "doc_id": "nsa-2021-soviet-withdrawal-afghanistan-doc11-1988-04-15-powell-letter-to-shultz-april-15-1988",
+  "title": "Powell Letter to Shultz, April 15, 1988",
+  "authors": "Colin Powell, National Security Advisor",
+  "publisher": "National Security Archive (GWU), The Soviet Withdrawal from Afghanistan 1989 | National Security Archive",
+  "published": "1988-04-15",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/5752895/National-Security-Archive-Doc-11-Powell-Letter.pdf",
+  "source_page": "https://nsarchive.gwu.edu/briefing-book/afghanistan-russia-programs/2019-02-27/soviet-withdrawal-afghanistan-1989",
+  "pages": 2,
+  "kind": "letter",
+  "note": "Angry letter the day after the Geneva Accords signing. Powell criticizes Shultz for the word 'restraint' in his unilateral statement ('meet restraint with restraint'), saying the President believes the Mujahedin will be supplied as needed and not by comparison to Soviet supplies to Kabul.",
+  "collection": "new-soviet-withdrawal-afghanistan-1989",
+  "doc_number": "Document 11",
+  "relevance": "medium",
+  "ocr": 1
+ },
+ "persons": [
+  {
+   "name": "Colin L. Powell",
+   "aliases": [
+    "Colin Powell"
+   ],
+   "role": "US National Security Advisor; author of the letter objecting to the revised US unilateral signing statement on the Geneva Accords",
+   "organizations": [
+    "National Security Council",
+    "The White House"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Washington, D.C."
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Sincerely, Colin L. Powell"
+    }
+   ]
+  },
+  {
+   "name": "George P. Shultz",
+   "aliases": [
+    "George Shultz"
+   ],
+   "role": "US Secretary of State; addressee of the letter",
+   "organizations": [
+    "US Department of State"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Washington, D.C."
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "The Honorable George P. Shultz The Secretary of State"
+    }
+   ]
+  },
+  {
+   "name": "Mike Armacost",
+   "aliases": [
+    "Michael Armacost"
+   ],
+   "role": "US State Department official (Under Secretary for Political Affairs) with whom Powell discussed the signing statement",
+   "organizations": [
+    "US Department of State"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "I had discussed it directly with Mike Armacost."
+    }
+   ]
+  },
+  {
+   "name": "The President",
+   "aliases": [
+    "President Reagan"
+   ],
+   "role": "US President; approved the original signing statement",
+   "organizations": [
+    "The White House"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "Not named in the text; unnamed 'President'.",
+   "family": [],
+   "locations": [
+    "Washington, D.C."
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "a statement which had been well coordinated and approved by the President was changed"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Mujahedin",
+   "aliases": [
+    "Mujahideen"
+   ],
+   "type": "militia",
+   "parent_or_allies": [
+    "United States"
+   ],
+   "rivals": [
+    "Kabul government",
+    "Soviet Union"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Recipients of US military aid in the Afghan war."
+  },
+  {
+   "name": "Soviet Union",
+   "aliases": [
+    "Soviets",
+    "USSR"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Kabul government"
+   ],
+   "rivals": [
+    "United States",
+    "Mujahedin"
+   ],
+   "country_base": "Soviet Union",
+   "notes": "Supplying aid to Kabul; party to the Geneva Accords."
+  },
+  {
+   "name": "Kabul government",
+   "aliases": [
+    "Kabul"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Soviet Union"
+   ],
+   "rivals": [
+    "Mujahedin"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Referred to as 'Kabul'; recipient of Soviet aid."
+  },
+  {
+   "name": "National Security Council",
+   "aliases": [
+    "NSC"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "The White House"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "'NSC family' not consulted on the 'restraint' change."
+  },
+  {
+   "name": "US Department of State",
+   "aliases": [
+    "State Department"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Shultz's staff proposed changes and some wanted to stop aid."
+  },
+  {
+   "name": "The White House",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Letterhead of Powell's letter."
+  },
+  {
+   "name": "United States",
+   "aliases": [
+    "US"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [
+    "Soviet Union"
+   ],
+   "country_base": "United States",
+   "notes": "Provider of military aid to the Mujahedin."
+  }
+ ],
+ "places": [
+  {
+   "name": "Washington, D.C.",
+   "type": "city",
+   "country": "United States",
+   "parent": "United States",
+   "significance": "Location of the White House and State Department."
+  },
+  {
+   "name": "Kabul",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Seat of the government supplied by the Soviets."
+  },
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Subject of the Geneva Accords."
+  },
+  {
+   "name": "Geneva",
+   "type": "city",
+   "country": "Switzerland",
+   "parent": "Switzerland",
+   "significance": "Site of the Geneva Accords."
+  }
+ ],
+ "events": [
+  {
+   "date": "1988-04-15",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Powell writes to Shultz objecting to the revised US unilateral signing statement on the Geneva Accords, particularly the added word 'restraint' in subparagraph 2.",
+   "place": "Washington, D.C.",
+   "actors": [
+    "Colin L. Powell",
+    "George P. Shultz"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1988-04",
+   "date_precision": "approx",
+   "type": "meeting",
+   "description": "Breakfast about two weeks before the letter at which the proposal to stop US aid for three months was rejected.",
+   "place": "Washington, D.C.",
+   "actors": [
+    "Colin L. Powell",
+    "George P. Shultz"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1988-04-15",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Powell writes to Shultz protesting the addition of 'restraint' to subparagraph 2 of the revised US unilateral signing statement on the Geneva Accords.",
+   "place": "Washington, D.C.",
+   "actors": [
+    "Colin L. Powell",
+    "George P. Shultz"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "approx 1988-04",
+   "date_precision": "approx",
+   "type": "meeting",
+   "description": "Breakfast about two weeks before April 15, 1988 at which the proposal to halt US aid for three months to see if the Soviets would stop was rejected.",
+   "place": "Washington, D.C.",
+   "actors": [
+    "Colin L. Powell",
+    "George P. Shultz",
+    "United States"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1988",
+   "date_precision": "year",
+   "type": "agreement",
+   "description": "Geneva Accords on Afghanistan, for which a US unilateral signing statement was prepared.",
+   "place": "Geneva",
+   "actors": [
+    "United States",
+    "Soviet Union",
+    "Kabul government"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Colin L. Powell",
+   "target": "Mike Armacost",
+   "type": "met_with",
+   "detail": "Powell discussed the signing statement directly with Armacost and reached a conclusion to avoid conditioning US conduct on Soviet conduct.",
+   "date": "1988-04",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "I had discussed it directly with Mike Armacost."
+  },
+  {
+   "source": "Colin L. Powell",
+   "target": "George P. Shultz",
+   "type": "met_with",
+   "detail": "They attended a breakfast two weeks earlier where a proposal to halt aid for three months was rejected.",
+   "date": "1988-04",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "at a breakfast two weeks ago we rejected the proposal that we stop our aid for three months"
+  },
+  {
+   "source": "United States",
+   "target": "Mujahedin",
+   "type": "funded_by",
+   "detail": "The US supplies military aid to the Mujahedin; the Mujahedin are recipients.",
+   "date": "1988",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "the Mujahedin will be supplied as we think they need to be supplied"
+  },
+  {
+   "source": "Soviet Union",
+   "target": "Kabul government",
+   "type": "allied_with",
+   "detail": "The Soviets provide aid to Kabul.",
+   "date": "1988",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "a cutoff of Soviet aid to Kabul"
+  },
+  {
+   "source": "Colin L. Powell",
+   "target": "George P. Shultz",
+   "type": "other",
+   "detail": "Powell writes to Shultz objecting to a change made to the US unilateral signing statement on the Geneva Accords.",
+   "date": "1988-04-15",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "I am disappointed that a statement which had been well coordinated and approved by the President was changed in what I believe is a Significant way."
+  },
+  {
+   "source": "Colin L. Powell",
+   "target": "Mike Armacost",
+   "type": "met_with",
+   "detail": "Powell discussed the restraint issue directly with Armacost and they reached a conclusion on avoiding conditionality.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "I had discussed it directly with Mike Armacost. Our conclusion was that we would avoid any arrangement which allowed our conduct to be conditioned by Soviet conduct"
+  },
+  {
+   "source": "Colin L. Powell",
+   "target": "National Security Council",
+   "type": "member_of",
+   "detail": "Powell, as National Security Advisor, writes on behalf of the NSC family and complains it was not consulted.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "without any consultation ox reference to others in the NSC family who have an interest or an equity in this matter."
+  },
+  {
+   "source": "Colin L. Powell",
+   "target": "The President",
+   "type": "reports_to",
+   "detail": "Powell relays the President's understanding of how the Mujahedin would be supplied.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "The President is under the impression that the Mujahedin will be supplied as we think they need to be supplied"
+  },
+  {
+   "source": "George P. Shultz",
+   "target": "US Department of State",
+   "type": "leads",
+   "detail": "Shultz is addressed as Secretary of State; Powell refers to 'your staff'.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "The Honorable George P. Shultz The Secretary of State"
+  },
+  {
+   "source": "Mike Armacost",
+   "target": "US Department of State",
+   "type": "member_of",
+   "detail": "Armacost is implied to be State Department staff, whom Powell discussed the issue with; some of Shultz's staff pushed for conditionality.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "We kept getting suggestions from your staff to the contrary."
+  },
+  {
+   "source": "United States",
+   "target": "Mujahedin",
+   "type": "funded_by",
+   "detail": "The Mujahedin are supplied with US military aid; direction reversed: Mujahedin receive aid from the US.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "constrain our military aid to the Mujahedin"
+  },
+  {
+   "source": "Kabul government",
+   "target": "Soviet Union",
+   "type": "funded_by",
+   "detail": "Kabul receives Soviet aid.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "a cutoff of Soviet aid to Kabul"
+  },
+  {
+   "source": "Mujahedin",
+   "target": "Kabul government",
+   "type": "rival_of",
+   "detail": "US aid to Mujahedin is framed against Soviet aid to Kabul.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "not by any comparison to what the Soviets are doing with Kabul"
+  },
+  {
+   "source": "United States",
+   "target": "Soviet Union",
+   "type": "rival_of",
+   "detail": "US policy on aid is debated in terms of balancing against Soviet conduct.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "\"Restraint\" implies that we must somehow balance our actions with those of the Soviets."
+  },
+  {
+   "source": "Colin L. Powell",
+   "target": "The White House",
+   "type": "member_of",
+   "detail": "Letter is on White House letterhead from the National Security Advisor.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "THE WHITE HOUSE WASHINGTON"
+  }
+ ],
+ "sources_cited": [
+  "US unilateral signing statement on the Geneva Accords (revised)"
+ ],
+ "key_claims": [
+  "The US position was that military aid to the Mujahedin would be constrained only by a complete cutoff of Soviet aid to Kabul.",
+  "Powell objected that 'restraint' implied balancing US actions against Soviet actions.",
+  "Powell stated that Shultz's staff repeatedly suggested conditioning US aid on Soviet conduct despite interagency agreement.",
+  "Some on Shultz's staff were anxious to stop US aid even if the Soviets continued theirs.",
+  "A proposal to pause US aid for three months to see if the Soviets stopped was rejected at a breakfast two weeks earlier.",
+  "The 'restraint' change was made without consulting others in the NSC family."
+ ]
+}

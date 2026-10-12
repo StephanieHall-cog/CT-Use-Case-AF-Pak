@@ -1,0 +1,645 @@
+{
+ "document": {
+  "doc_id": "nsa-2021-afghanistan-2020-20-year-war-2-doc17-2009-11-09-u-s-embassy-kabul-cable-3594-looking-beyond-counte",
+  "title": "U.S. Embassy Kabul Cable 3594, \"Looking Beyond Counterinsurgency in Afghanistan\"",
+  "authors": "U.S. Embassy Kabul (Ambassador Karl Eikenberry)",
+  "publisher": "National Security Archive (GWU), Afghanistan 20/20: The 20-Year War in 20 Documents | National Security Archive",
+  "published": "2009-11-09",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/2021-08/17%20.pdf",
+  "source_page": "https://nsarchive.gwu.edu/briefing-book/afghanistan/2021-08-19/afghanistan-2020-20-year-war-20-documents",
+  "pages": 3,
+  "kind": "cable",
+  "note": "[Secret NODIS ARIES] Follow-up eyes-only cable to Clinton asking for more time and more options than military counterinsurgency. He notes the 2008-09 troop increase was followed by intensified violence and that more troops would dig the U.S. in more deeply.",
+  "collection": "new-afghanistan-2020-20-year-war-20-docu",
+  "doc_number": "Document 17",
+  "relevance": "medium",
+  "ocr": 0
+ },
+ "persons": [
+  {
+   "name": "Karl W. Eikenberry",
+   "aliases": [
+    "Karl Eikenberry",
+    "Ambassador Eikenberry"
+   ],
+   "role": "U.S. Ambassador to Afghanistan; author/signatory of the cable",
+   "organizations": [
+    "U.S. Embassy Kabul",
+    "U.S. Department of State"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Kabul"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Classified By: Ambassador Karl W. Eikenberry, Reason 1.4 (b) and (d)"
+    },
+    {
+     "timestamp": "p.2",
+     "quote": "We need time to work with President Karzai and his new team"
+    }
+   ]
+  },
+  {
+   "name": "Hamid Karzai",
+   "aliases": [
+    "Karzai",
+    "President Karzai"
+   ],
+   "role": "President of Afghanistan",
+   "organizations": [
+    "Government of Afghanistan"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "Karzai explicitly rejected the counterinsurgency basis and purpose of the COMISAF proposal when first briefed on it in detail two months ago"
+    },
+    {
+     "timestamp": "p.2",
+     "quote": "in a PBS interview on November 7, Karzai sounded bizarrely cautionary notes about his willingness to address governance and corruption"
+    }
+   ]
+  },
+  {
+   "name": "Hillary Clinton",
+   "aliases": [
+    "Secretary Clinton",
+    "Madame Secretary"
+   ],
+   "role": "U.S. Secretary of State, addressee of the cable",
+   "organizations": [
+    "U.S. Department of State"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Madame Secretary, My previous cable addressed concerns about taking a decision too soon"
+    }
+   ]
+  },
+  {
+   "name": "Barack Obama",
+   "aliases": [
+    "the President",
+    "President Obama"
+   ],
+   "role": "U.S. President; set strategy on March 27 (2009)",
+   "organizations": [
+    "White House"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "our own strategic purposes, as laid out by the President on March 27, are broader"
+    },
+    {
+     "timestamp": "p.2",
+     "quote": "the President could announce that he is immediately ordering a smaller contingent of U.S. forces"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "U.S. Embassy Kabul",
+   "aliases": [
+    "AMEMBASSY KABUL"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "U.S. Department of State"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Originator of the cable"
+  },
+  {
+   "name": "U.S. Department of State",
+   "aliases": [
+    "SECSTATE"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Cable addressed to the Secretary of State"
+  },
+  {
+   "name": "COMISAF",
+   "aliases": [
+    "Commander, International Security Assistance Force"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "ISAF",
+    "NATO"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Proposed a large counterinsurgency troop increase; analysis described as logical within narrow mandate"
+  },
+  {
+   "name": "ISAF",
+   "aliases": [
+    "NATO-ISAF"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "NATO"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Area cleared and held by NATO-ISAF"
+  },
+  {
+   "name": "NATO",
+   "aliases": [],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Allies to be brought along; civil-military integration"
+  },
+  {
+   "name": "ANSF",
+   "aliases": [
+    "Afghan National Security Forces"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "Government of Afghanistan"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Has not demonstrated will or ability to take over lead security responsibility"
+  },
+  {
+   "name": "Government of Afghanistan",
+   "aliases": [
+    "Afghan government"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Weak leadership and governance noted"
+  },
+  {
+   "name": "Afghan Taliban",
+   "aliases": [
+    "Taliban"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [
+    "Government of Afghanistan",
+    "ISAF"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Pakistan pressure against Taliban leadership and sanctuaries raised as issue"
+  },
+  {
+   "name": "al-Qa'ida",
+   "aliases": [
+    "al Qaeda",
+    "al-Qaeda"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [
+    "United States"
+   ],
+   "country_base": "Afghanistan/Pakistan",
+   "notes": "President's strategic focus"
+  },
+  {
+   "name": "Pakistani security services",
+   "aliases": [
+    "Pakistani security services"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Expected to put meaningful pressure on Taliban and al-Qaeda"
+  },
+  {
+   "name": "White House",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Proposed to commission a deliberate strategy review"
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Focus of counterinsurgency strategy debate"
+  },
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Insurgent sanctuaries; Pakistani security services"
+  },
+  {
+   "name": "Kabul",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Origin of the cable"
+  },
+  {
+   "name": "Iran",
+   "type": "country",
+   "country": "Iran",
+   "parent": "",
+   "significance": "Possible participant in regional talks"
+  }
+ ],
+ "events": [
+  {
+   "date": "2009-03-27",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "President Obama laid out U.S. strategic purposes for Afghanistan and Pakistan.",
+   "place": "United States",
+   "actors": [
+    "Barack Obama"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2009-11-07",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Karzai gave a PBS interview with cautionary notes about willingness to address governance and corruption.",
+   "place": "Afghanistan",
+   "actors": [
+    "Hamid Karzai"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "2009-11-09",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Eikenberry sent Cable 3594 to the Secretary of State proposing a deliberate strategic review beyond counterinsurgency and cautioning against deciding on full troop deployment now.",
+   "place": "Kabul",
+   "actors": [
+    "Karl W. Eikenberry",
+    "Hillary Clinton"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2009-09",
+   "date_precision": "approx",
+   "type": "meeting",
+   "description": "Karzai was briefed in detail on the COMISAF proposal and explicitly rejected its counterinsurgency basis (two months before the cable).",
+   "place": "Afghanistan",
+   "actors": [
+    "Hamid Karzai",
+    "COMISAF"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "2009-03-27",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "President Obama laid out U.S. strategic purposes/strategy for Afghanistan and Pakistan.",
+   "place": "Washington",
+   "actors": [
+    "Barack Obama"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2009-09",
+   "date_precision": "month",
+   "type": "meeting",
+   "description": "Karzai was first briefed in detail on the COMISAF counterinsurgency proposal and explicitly rejected its basis and purpose.",
+   "place": "Afghanistan",
+   "actors": [
+    "Hamid Karzai",
+    "COMISAF"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "2009-11-07",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Karzai in a PBS interview sounded cautionary notes about willingness to address governance and corruption.",
+   "place": "",
+   "actors": [
+    "Hamid Karzai"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "2009-11-09",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Eikenberry sends cable 3594 proposing the White House commission a deliberate strategic review rather than rapidly approving the full troop request.",
+   "place": "Kabul",
+   "actors": [
+    "Karl W. Eikenberry",
+    "Hillary Clinton",
+    "White House"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2008-2009",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Previous U.S. troop deployment totaling about 33,000 after which overall violence and instability in Afghanistan intensified.",
+   "place": "Afghanistan",
+   "actors": [
+    "U.S. Embassy Kabul",
+    "ISAF"
+   ],
+   "timestamp": "p.2"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Karl W. Eikenberry",
+   "target": "Hillary Clinton",
+   "type": "reports_to",
+   "detail": "Ambassador addresses cable to the Secretary of State.",
+   "date": "2009-11-09",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Madame Secretary, My previous cable addressed concerns about taking a decision too soon"
+  },
+  {
+   "source": "Hamid Karzai",
+   "target": "COMISAF",
+   "type": "rival_of",
+   "detail": "Karzai rejected the counterinsurgency basis of the COMISAF proposal.",
+   "date": "2009-09",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Karzai explicitly rejected the counterinsurgency basis and purpose of the COMISAF proposal"
+  },
+  {
+   "source": "Karl W. Eikenberry",
+   "target": "Hamid Karzai",
+   "type": "negotiated_with",
+   "detail": "Eikenberry urges intense high-level dialogue to gain enforceable commitments from the Afghan government.",
+   "date": "2009-11-09",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "We need an intense, high-level dialogue to judge whether we can gain enforceable commitments from the Afghan government"
+  },
+  {
+   "source": "Karl W. Eikenberry",
+   "target": "COMISAF",
+   "type": "other",
+   "detail": "Eikenberry disagrees with COMISAF's recommendation for a rapid full troop increase while praising analysis as logical within narrow mandate.",
+   "date": "2009-11-09",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "I find COMISAF's military analysis and recommendations as logical and compelling, within a narrow mandate"
+  },
+  {
+   "source": "Karl W. Eikenberry",
+   "target": "U.S. Embassy Kabul",
+   "type": "leads",
+   "detail": "Eikenberry is the Ambassador who signs and classifies the cable from Embassy Kabul.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Classified By: Ambassador Karl W. Eikenberry"
+  },
+  {
+   "source": "U.S. Embassy Kabul",
+   "target": "U.S. Department of State",
+   "type": "reports_to",
+   "detail": "The cable is sent from Embassy Kabul to the Secretary of State in Washington.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "FM AMEMBASSY KABUL TO SECSTATE WASHDC IMMEDIATE 2990"
+  },
+  {
+   "source": "Karl W. Eikenberry",
+   "target": "White House",
+   "type": "other",
+   "detail": "Eikenberry proposes that the White House commission a deliberate process to lay out strategic options on Afghanistan and Pakistan.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "I now propose that the White House commission a deliberate process to lay out the range of strategic options on Afghanistan and Pakistan"
+  },
+  {
+   "source": "Karl W. Eikenberry",
+   "target": "COMISAF",
+   "type": "other",
+   "detail": "Eikenberry finds COMISAF's military analysis logical and compelling within a narrow mandate but argues the wider strategic problem is broader.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "I find COMISAF's military analysis and recommendations as logical and compelling, within a narrow mandate to define the needs for a military counterinsurgency campaign"
+  },
+  {
+   "source": "Barack Obama",
+   "target": "White House",
+   "type": "leads",
+   "detail": "The President sets strategic purposes and would decide on the troop request and any announcements.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "our own strategic purposes, as laid out by the President on March 27"
+  },
+  {
+   "source": "Barack Obama",
+   "target": "COMISAF",
+   "type": "other",
+   "detail": "The President will decide whether the standing COMISAF proposal is what is needed.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "the standing COMISAF proposal may prove exactly what the President will decide is needed"
+  },
+  {
+   "source": "COMISAF",
+   "target": "ISAF",
+   "type": "leads",
+   "detail": "COMISAF commands ISAF and authored the counterinsurgency troop proposal.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "outside COMISAF's counterinsurgency mandate"
+  },
+  {
+   "source": "ISAF",
+   "target": "NATO",
+   "type": "member_of",
+   "detail": "ISAF is referred to as NATO-ISAF, the NATO force operating in Afghanistan.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "any area cleared and held by NATO-ISAF"
+  },
+  {
+   "source": "ANSF",
+   "target": "Government of Afghanistan",
+   "type": "member_of",
+   "detail": "ANSF and the Afghan government are both said not to have shown will or ability to take over lead security responsibility.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "neither ANSF nor the Afghan government has demonstrated the will or ability to take over lead security responsibility"
+  },
+  {
+   "source": "Hamid Karzai",
+   "target": "Government of Afghanistan",
+   "type": "leads",
+   "detail": "Karzai is President of Afghanistan and is working with a new team.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "work with President Karzai and his new team, many of whom may not be in place for several months"
+  },
+  {
+   "source": "Karl W. Eikenberry",
+   "target": "Hamid Karzai",
+   "type": "other",
+   "detail": "Eikenberry wants time to work with Karzai and test whether he can lead the counterinsurgency mission, and calls for high-level dialogue to obtain enforceable commitments.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "We need an intense, high-level dialogue to judge whether we can gain enforceable commitments from the Afghan government"
+  },
+  {
+   "source": "Government of Afghanistan",
+   "target": "Afghan Taliban",
+   "type": "rival_of",
+   "detail": "Reintegration/reconciliation program aims to take insurgents off the battlefield; Karzai and Afghans find it attractive.",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "reintegration/reconciliation program for taking insurgents off the battlefield (the only approach holding attraction for Karzai and the mass of Afghans)"
+  },
+  {
+   "source": "Pakistani security services",
+   "target": "Afghan Taliban",
+   "type": "other",
+   "detail": "Panel should examine prospects for Pakistani security services putting meaningful pressure on the Afghan Taliban, insurgent sanctuaries and leadership, and al Qaeda.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "the prospects for the Pakistani security services putting meaningful pressure against the Afghan Taliban, the insurgent sanctuaries and leadership, and al Qaeda"
+  },
+  {
+   "source": "Pakistani security services",
+   "target": "al-Qa'ida",
+   "type": "other",
+   "detail": "Same pressure on al Qaeda is to be examined.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "the insurgent sanctuaries and leadership, and al Qaeda"
+  },
+  {
+   "source": "Afghan Taliban",
+   "target": "Pakistan",
+   "type": "located_in",
+   "detail": "Insurgent sanctuaries and leadership are implied to be in Pakistan; the cable lists 'Pakistan sanctuaries' as an unaddressed variable.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "These unaddressed variables include Pakistan sanctuaries, weak Afghan leadership and governance"
+  },
+  {
+   "source": "al-Qa'ida",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "The President's strategic focus on al Qaeda spans both Afghanistan and Pakistan.",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "the President's strategic focus on al Qaeda with both Afghanistan and Pakistan"
+  },
+  {
+   "source": "al-Qa'ida",
+   "target": "Pakistan",
+   "type": "located_in",
+   "detail": "Al-Qaeda is treated as a focus across Afghanistan and Pakistan.",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "the President's strategic focus on al Qaeda with both Afghanistan and Pakistan"
+  },
+  {
+   "source": "Government of Afghanistan",
+   "target": "Kabul",
+   "type": "located_in",
+   "detail": "The Afghan government and the Embassy operate from Kabul.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "KABUL 03594"
+  },
+  {
+   "source": "White House",
+   "target": "Iran",
+   "type": "negotiated_with",
+   "detail": "Strategic reexamination could lead to high-level U.S. talks with regional players, possibly including Iran.",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "high-level U.S. talks with the Afghans, the Pakistanis, the Saudis and other important regional players, including possibly Iran"
+  },
+  {
+   "source": "White House",
+   "target": "Pakistan",
+   "type": "negotiated_with",
+   "detail": "High-level U.S. talks with Pakistanis proposed.",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "high-level U.S. talks with the Afghans, the Pakistanis, the Saudis"
+  },
+  {
+   "source": "White House",
+   "target": "NATO",
+   "type": "negotiated_with",
+   "detail": "The review could lead to political-military consultations with NATO and its component nations.",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "as well as NATO, its component nations and even the United Nations"
+  }
+ ],
+ "sources_cited": [
+  "Kabul 3512 (previous cable)",
+  "COMISAF counterinsurgency proposal",
+  "PBS interview with Karzai, 7 Nov 2009",
+  "President Obama's 27 March 2009 strategy"
+ ],
+ "key_claims": [
+  "Eikenberry argues the COMISAF counterinsurgency proposal ignores Pakistani sanctuaries, weak Afghan governance, civil-military integration and U.S. national will.",
+  "He contends there is time, into early next year, to decide on the full troop increase rather than commit now.",
+  "He cites the 2008-2009 deployment of ~33,000 troops as followed by increased violence, suggesting more troops will not permanently advance strategic purposes.",
+  "He doubts Karzai and the ANSF will take responsibility for security or governance, noting Karzai rejected the COMISAF proposal and has a record of inaction on corruption.",
+  "He recommends a White House panel of civilian and military experts to re-examine options, including reintegration/reconciliation and pressure on Pakistani sanctuaries.",
+  "He warns more troops risk deeper entanglement with no exit short of letting Afghanistan descend into chaos."
+ ]
+}

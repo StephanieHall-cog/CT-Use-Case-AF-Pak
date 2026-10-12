@@ -1,0 +1,200 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc11-1997-01-06-terrorism-usama-bin-ladin-trying-to-develop-wmd-ca",
+  "title": "Terrorism: Usama Bin Ladin Trying to Develop WMD Capability, CTC 97-30002",
+  "authors": "CIA Counterterrorist Center",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "1997-01-06",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7wuu-jeagl/1997-01-06-terrorism-usama-bin-ladin-trying-to.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 11,
+  "kind": "report",
+  "note": "Counterterrorist Center Commentary on bin Ladin trying to develop a WMD capability. Source: 9/11 Commission Report, Chapter 2, Endnote 49.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 11",
+  "relevance": "high",
+  "ocr": 5
+ },
+ "persons": [
+  {
+   "name": "Usama Bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Usama bin Laden",
+    "Bin Ladin"
+   ],
+   "role": "Terrorist leader and financier assessed by CIA as trying to develop a WMD capability for terrorist operations",
+   "organizations": [],
+   "nationality_or_origin": "",
+   "status": "alive",
+   "status_detail": "Alive at the time of the 6 January 1997 CIA commentary",
+   "family": [],
+   "locations": [
+    "Persian Gulf region"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "Bin Ladin suggests he is taking steps to develop the capability to use weapons of mass destruction (WMD)"
+    },
+    {
+     "timestamp": "p.3",
+     "quote": "effort by Bin Ladin's agents in 1994 to purchase uranium"
+    },
+    {
+     "timestamp": "p.4",
+     "quote": "In public statements made in late November, Bin Ladin warned that \"qualitative operations\" would be necessary"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Counterterrorist Center",
+   "aliases": [
+    "CTC",
+    "DCI Counterterrorist Center"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Central Intelligence Agency"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Author of this 6 January 1997 commentary. Distribution went to the State Department, NSC, DIA, Joint Staff and other recipients."
+  },
+  {
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Parent agency of the Counterterrorist Center."
+  }
+ ],
+ "places": [
+  {
+   "name": "Persian Gulf region",
+   "type": "region",
+   "country": "",
+   "parent": "",
+   "significance": "Bin Ladin's stated intention to undertake hostile acts against the US presence in this region, which access to WMD material could abet."
+  }
+ ],
+ "events": [
+  {
+   "date": "1994",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Effort by Bin Ladin's agents to purchase uranium (weapons-grade nuclear material), per CIA reporting. Much of the text is redacted.",
+   "place": "",
+   "actors": [
+    "Usama Bin Ladin"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1996-11",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Late November 1996 public statements in which Bin Ladin warned that \"qualitative operations\" would be necessary to pursue \"a real battle between the Islamic Nation and US forces.\"",
+   "place": "",
+   "actors": [
+    "Usama Bin Ladin"
+   ],
+   "timestamp": "p.4"
+  },
+  {
+   "date": "1997-01-06",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA Counterterrorist Center issues commentary CTC 97-30002 assessing that Bin Ladin is trying to develop a WMD capability.",
+   "place": "",
+   "actors": [
+    "Counterterrorist Center"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1994",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Effort by Bin Ladin's agents to purchase uranium (the text is heavily redacted and garbled).",
+   "place": "",
+   "actors": [
+    "Usama Bin Ladin"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1996-11",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "In public statements in late November, Bin Ladin warned that 'qualitative operations' would be necessary to pursue a real battle between the Islamic Nation and US forces. The year is inferred from the 6 January 1997 document date.",
+   "place": "",
+   "actors": [
+    "Usama Bin Ladin"
+   ],
+   "timestamp": "p.4"
+  },
+  {
+   "date": "1997-01-06",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CTC commentary issued assessing that Bin Ladin is trying to develop a WMD capability.",
+   "place": "",
+   "actors": [
+    "Counterterrorist Center",
+    "Central Intelligence Agency",
+    "Usama Bin Ladin"
+   ],
+   "timestamp": "p.2"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Usama Bin Ladin",
+   "target": "United States",
+   "type": "rival_of",
+   "detail": "Bin Ladin's stated intention to undertake hostile acts against the US presence in the Persian Gulf region, based on implacable antipathy toward the United States; he called for a 'real battle' with US forces.",
+   "date": "1996-11",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "a·real battle between the Islamic Nation and US forces"
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "Persian Gulf region",
+   "type": "other",
+   "detail": "Bin Ladin's hostile intentions are directed against the US presence in the Persian Gulf region.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "a·real battle between the Islamic Nation and US forces"
+  },
+  {
+   "source": "Counterterrorist Center",
+   "target": "Central Intelligence Agency",
+   "type": "member_of",
+   "detail": "The CTC commentary is issued under the CIA / DCI Counterterrorist Center header.",
+   "date": "1997-01-06",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "COUNTERTERRORIST CENTER COI\\fMENTARY"
+  }
+ ],
+ "sources_cited": [
+  "CIA Counterterrorist Center Commentary CTC 97-30002 (6 January 1997)"
+ ],
+ "key_claims": [
+  "CTC assesses that Bin Ladin is taking steps to develop the capability to use WMD (possibly chemical agents, biological toxins and nuclear material) in terrorist operations.",
+  "CTC reports that Bin Ladin's agents tried in 1994 to purchase uranium.",
+  "CTC notes that Bin Ladin may plan to give such substances to supporters.",
+  "CTC judges that access to WMD material could strongly abet Bin Ladin's stated intention to act against the US presence in the Persian Gulf region.",
+  "CTC says it does not know exactly what Bin Ladin might be threatening or how serious he is about following threats with action."
+ ]
+}

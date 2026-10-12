@@ -1,0 +1,424 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb227-doc02-1995-01-29-northern-afghan-strongman-general-dostam-meets-tal",
+  "title": "Northern Afghan Strongman General Dostam Meets Taliban Representatives (Islama 00975)",
+  "authors": "U.S. Embassy Islamabad",
+  "publisher": "National Security Archive (GWU), Pakistan: \"The Taliban's Godfather\"?",
+  "published": "1995-01-29",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB227/2.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB227/index.htm",
+  "pages": 2,
+  "kind": "cable",
+  "note": "[Confidential] Pakistani officials allegedly tell Gen. Dostum not to worry about the Taliban because Pakistan can take care of them, and he reportedly agrees to cooperate with the Taliban on opening trade routes. Taliban officials tell him they have no territorial ambitions in the north. The Taliban would seize Mazar-e-Sharif in May 1997.",
+  "collection": "NSAEBB227",
+  "doc_number": "Document 2",
+  "relevance": "high",
+  "ocr": 0
+ },
+ "persons": [
+  {
+   "name": "Abdur-Rashid Dostam",
+   "aliases": [
+    "Abdul Rashid Dostum",
+    "General Dostam",
+    "Dostam"
+   ],
+   "role": "Northern Afghan strongman and general based in Mazar-i-Sharif",
+   "organizations": [],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Mazar-i-Sharif",
+    "Islamabad"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "MEETING BETWEEN GENERAL ABDUR-RASHID DOSTAM AND REPRESENTATIVES OF THE TALIBAN IN MAZAR-I-SHARIF"
+    },
+    {
+     "timestamp": "p.2",
+     "quote": "DURING DOSTAM'S VISIT TO ISLAMABAD IN DECEMBER, PAKISTANI GOVERNMENT OFFICIALS REPORTEDLY HAD TOLD DOSTAM NOT TO CONSIDER AN ALLIANCE WITH AHMED SHAH MASOOD"
+    }
+   ]
+  },
+  {
+   "name": "Ahmed Shah Masood",
+   "aliases": [
+    "Ahmad Shah Massoud",
+    "Masood"
+   ],
+   "role": "Afghan government military commander; Pakistani officials urged Dostam not to ally with him",
+   "organizations": [],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "TOLD DOSTAM NOT TO CONSIDER AN ALLIANCE WITH AHMED SHAH MASOOD, AND TO INSTEAD MAINTAIN HIS LINKS WITH HEKMATYAR"
+    }
+   ]
+  },
+  {
+   "name": "Gulbuddin Hekmatyar",
+   "aliases": [
+    "Hekmatyar",
+    "Gulbuddin Hekmatyar"
+   ],
+   "role": "Afghan faction leader; Dostam's link; potential threat to seize Kabul",
+   "organizations": [],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Kabul"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "ENSURE THAT HEKMATYAR DOES NOT SEIZE THE CAPITAL"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Taliban",
+   "aliases": [
+    "religious students",
+    "Talibs"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [
+    "Gulbuddin Hekmatyar"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Sent representatives to Dostam in Mazar-i-Sharif in early December 1994; stated no territorial ambitions in the north and intent to declare Kabul an open city."
+  },
+  {
+   "name": "Government of Pakistan",
+   "aliases": [
+    "Pakistani government officials"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Reportedly advised Dostam against allying with Masood, said it could take care of the Taliban, and agreed to continue limited financial aid to Dostam."
+  },
+  {
+   "name": "U.S. Embassy Islamabad",
+   "aliases": [
+    "AMEMBASSY ISLAMABAD"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Author of the cable; the POLOFF received reports from unnamed sources."
+  }
+ ],
+ "places": [
+  {
+   "name": "Mazar-i-Sharif",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Balkh",
+   "significance": "Dostam's base and site of the Taliban-Dostam meeting."
+  },
+  {
+   "name": "Islamabad",
+   "type": "city",
+   "country": "Pakistan",
+   "parent": "Pakistan",
+   "significance": "Site of Dostam's December meetings with Pakistani officials."
+  },
+  {
+   "name": "Kandahar-Kabul road",
+   "type": "region",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Taliban aimed to open it; Dostam asked to cooperate if they did."
+  },
+  {
+   "name": "Salang Tunnel",
+   "type": "other",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Dostam asked to open it and the northern road; vital to Pakistan's Central Asian trade."
+  },
+  {
+   "name": "Kabul",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Taliban said they would declare it an open city."
+  }
+ ],
+ "events": [
+  {
+   "date": "1994-12",
+   "date_precision": "month",
+   "type": "meeting",
+   "description": "Several Taliban, accompanied by two unidentified Pakistanis, called on Dostam in Mazar-i-Sharif; told him they had no territorial ambitions in the north and asked him not to oppose them.",
+   "place": "Mazar-i-Sharif",
+   "actors": [
+    "Taliban",
+    "Abdur-Rashid Dostam"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1994-12",
+   "date_precision": "month",
+   "type": "meeting",
+   "description": "Dostam visited Islamabad where Pakistani officials reportedly urged him to avoid an alliance with Masood, keep links with Hekmatyar, and open the Salang road.",
+   "place": "Islamabad",
+   "actors": [
+    "Abdur-Rashid Dostam",
+    "Government of Pakistan"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1995-01-24",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "A source told the POLOFF that Mazar sources had shared the gist of Dostam's Islamabad meetings, and that Dostam reportedly agreed to the requests.",
+   "place": "Islamabad",
+   "actors": [
+    "Abdur-Rashid Dostam"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1994-12",
+   "date_precision": "month",
+   "type": "meeting",
+   "description": "Taliban representatives, with two unidentified Pakistanis, call on General Dostam in Mazar-i-Sharif and ask him not to oppose them and to open the Salang road.",
+   "place": "Mazar-i-Sharif",
+   "actors": [
+    "Taliban",
+    "Abdur-Rashid Dostam"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1994-12",
+   "date_precision": "month",
+   "type": "meeting",
+   "description": "Dostam visits Islamabad and meets Pakistani officials, who advise against an alliance with Masood and for keeping ties with Hekmatyar.",
+   "place": "Islamabad",
+   "actors": [
+    "Abdur-Rashid Dostam",
+    "Government of Pakistan"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1995-01-24",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "A source tells the U.S. Embassy Poloff that Mazar-i-Sharif sources shared the gist of Dostam's Islamabad meetings, and that Dostam reportedly agreed to the Pakistani requests.",
+   "place": "Islamabad",
+   "actors": [
+    "U.S. Embassy Islamabad",
+    "Abdur-Rashid Dostam"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1995-01-29",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "U.S. Embassy Islamabad sends the cable reporting the Taliban-Dostam meeting to Washington.",
+   "place": "Islamabad",
+   "actors": [
+    "U.S. Embassy Islamabad"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Taliban",
+   "target": "Abdur-Rashid Dostam",
+   "type": "met_with",
+   "detail": "Taliban representatives called on Dostam in Mazar-i-Sharif in early December 1994.",
+   "date": "1994-12",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "SEVERAL TALIBS, ACCOMPANIED BY TWO UNIDENTIFIED PAKISTANIS, CALLED ON GENERAL DOSTAM IN EARLY DECEMBER"
+  },
+  {
+   "source": "Abdur-Rashid Dostam",
+   "target": "Government of Pakistan",
+   "type": "met_with",
+   "detail": "Dostam met Pakistani officials in Islamabad in December 1994.",
+   "date": "1994-12",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "DURING DOSTAM'S VISIT TO ISLAMABAD IN DECEMBER, PAKISTANI GOVERNMENT OFFICIALS REPORTEDLY HAD TOLD DOSTAM"
+  },
+  {
+   "source": "Abdur-Rashid Dostam",
+   "target": "Government of Pakistan",
+   "type": "funded_by",
+   "detail": "Pakistan reportedly agreed to continue limited financial assistance to Dostam in return for opening the Salang road.",
+   "date": "1994-12",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "PAKISTAN AGREED TO CONTINUE ITS LIMITED FINANCIAL ASSISTANCE TO DOSTAM"
+  },
+  {
+   "source": "Abdur-Rashid Dostam",
+   "target": "Gulbuddin Hekmatyar",
+   "type": "allied_with",
+   "detail": "Pakistani officials told Dostam to maintain his links with Hekmatyar.",
+   "date": "1994-12",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "TO INSTEAD MAINTAIN HIS LINKS WITH HEKMATYAR"
+  },
+  {
+   "source": "Abdur-Rashid Dostam",
+   "target": "Ahmed Shah Masood",
+   "type": "other",
+   "detail": "Pakistan discouraged an alliance between Dostam and Masood.",
+   "date": "1994-12",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "NOT TO CONSIDER AN ALLIANCE WITH AHMED SHAH MASOOD"
+  },
+  {
+   "source": "Taliban",
+   "target": "Abdur-Rashid Dostam",
+   "type": "met_with",
+   "detail": "Taliban representatives, accompanied by two unidentified Pakistanis, called on Dostam in Mazar-i-Sharif in early December 1994.",
+   "date": "early December 1994",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "SEVERAL TALIBS, ACCOMPANIED BY TWO UNIDENTIFIED PAKISTANIS, CALLED ON GENERAL DOSTAM IN EARLY DECEMBER."
+  },
+  {
+   "source": "Taliban",
+   "target": "Abdur-Rashid Dostam",
+   "type": "negotiated_with",
+   "detail": "The Taliban told Dostam they had no territorial ambitions in the north and that he should not oppose them.",
+   "date": "early December 1994",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "THE TALIBAN HAD NO TERRITORIAL AMBITIONS IN THE NORTH AND THAT DOSTAM SHOULD NOT OPPOSE THEM."
+  },
+  {
+   "source": "Taliban",
+   "target": "Gulbuddin Hekmatyar",
+   "type": "rival_of",
+   "detail": "The Taliban asked Dostam to ensure Hekmatyar did not seize Kabul.",
+   "date": "early December 1994",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "TO ENSURE THAT HEKMATYAR DOES NOT SEIZE THE CAPITAL."
+  },
+  {
+   "source": "Abdur-Rashid Dostam",
+   "target": "Mazar-i-Sharif",
+   "type": "located_in",
+   "detail": "Dostam was based in Mazar-i-Sharif, where the meeting took place.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "REPRESENTATIVES OF THE TALIBAN IN MAZAR- I -SHARIF"
+  },
+  {
+   "source": "Government of Pakistan",
+   "target": "Abdur-Rashid Dostam",
+   "type": "met_with",
+   "detail": "Pakistani officials met Dostam during his December visit to Islamabad.",
+   "date": "December 1994",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "DURING DOSTAM'S VISIT TO ISLAMABAD IN DECEMBER, PAKISTANI GOVERNMENT OFFICIALS REPORTEDLY HAD TOLD DOSTAM"
+  },
+  {
+   "source": "Government of Pakistan",
+   "target": "Abdur-Rashid Dostam",
+   "type": "other",
+   "detail": "Pakistani officials reportedly told Dostam not to ally with Ahmed Shah Masood.",
+   "date": "December 1994",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "NOT TO CONSIDER AN ALLIANCE WITH AHMED SHAH MASOOD"
+  },
+  {
+   "source": "Abdur-Rashid Dostam",
+   "target": "Gulbuddin Hekmatyar",
+   "type": "allied_with",
+   "detail": "Pakistan told Dostam to maintain his links with Hekmatyar.",
+   "date": "December 1994",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "TO INSTEAD MAINTAIN HIS LINKS WITH HEKMATYAR."
+  },
+  {
+   "source": "Abdur-Rashid Dostam",
+   "target": "Ahmed Shah Masood",
+   "type": "rival_of",
+   "detail": "Pakistan discouraged an alliance between Dostam and Masood.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "NOT TO CONSIDER AN ALLIANCE WITH AHMED SHAH MASOOD"
+  },
+  {
+   "source": "Government of Pakistan",
+   "target": "Taliban",
+   "type": "other",
+   "detail": "Senior Pakistani officials allegedly told Dostam that Pakistan could take care of the Taliban.",
+   "date": "December 1994",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "HE NEED NOT WORRY ABOUT THE TALIBAN, BECAUSE PAKISTAN CAN TAKE CARE OF THEM."
+  },
+  {
+   "source": "Abdur-Rashid Dostam",
+   "target": "Government of Pakistan",
+   "type": "funded_by",
+   "detail": "Pakistan agreed to continue limited financial assistance to Dostam in return for opening the Salang road.",
+   "date": "December 1994",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "PAKISTAN AGREED TO CONTINUE ITS LIMITED FINANCIAL ASSISTANCE TO DOSTAM."
+  },
+  {
+   "source": "Government of Pakistan",
+   "target": "Abdur-Rashid Dostam",
+   "type": "negotiated_with",
+   "detail": "Pakistan asked Dostam to open the Salang road, described as vital to its planned Central Asian trade, and he reportedly agreed.",
+   "date": "December 1994",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "DOSTAM HAD REPORTEDLY AGREED TO THE ALLEGED PAKISTANI REQUESTS."
+  }
+ ],
+ "sources_cited": [
+  "Unnamed source in a foreign government who spoke to the U.S. Embassy POLOFF, claiming excellent sources within the Dostam camp",
+  "Sources in Mazar-i-Sharif (reported 24 January 1995)"
+ ],
+ "key_claims": [
+  "Taliban representatives, accompanied by two unidentified Pakistanis, told Dostam in early December 1994 that they had no territorial ambitions in the north.",
+  "The Taliban asked Dostam to open the Salang Tunnel and northern road and keep Hekmatyar out of Kabul if the Kandahar-Kabul road opened.",
+  "Pakistani officials reportedly told Dostam Pakistan could take care of the Taliban.",
+  "Pakistan allegedly urged Dostam to keep his links with Hekmatyar and avoid an alliance with Masood.",
+  "Pakistan reportedly agreed to continue limited financial assistance to Dostam in return for opening the Salang road, which was vital to its planned Central Asian trade.",
+  "Dostam reportedly agreed to the Pakistani requests."
+ ]
+}

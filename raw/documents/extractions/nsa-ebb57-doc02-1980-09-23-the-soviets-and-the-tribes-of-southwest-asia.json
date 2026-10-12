@@ -1,0 +1,545 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb57-doc02-1980-09-23-the-soviets-and-the-tribes-of-southwest-asia",
+  "title": "The Soviets and the Tribes of Southwest Asia",
+  "authors": "CIA, Directorate of Intelligence, Office of Political Analysis",
+  "publisher": "National Security Archive (GWU), Afghanistan: Lessons from the Last War",
+  "published": "1980-09-23",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB57/us2.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB57/us.html",
+  "pages": 6,
+  "kind": "intelligence report",
+  "note": "CIA analysis linking \"traditional tribal ways\" to a propensity to oppose Soviet forces in Afghanistan.",
+  "collection": "NSAEBB57",
+  "doc_number": "Document 2",
+  "relevance": "medium",
+  "ocr": 6
+ },
+ "persons": [],
+ "organizations": [
+  {
+   "name": "CIA Directorate of Intelligence, Office of Political Analysis",
+   "aliases": [
+    "CIA",
+    "Southwest Asia Analytic Center"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Author of the 23 September 1980 memorandum; the Southwest Asia Analytic Center is named in the garbled footnote."
+  },
+  {
+   "name": "Soviet Union",
+   "aliases": [
+    "USSR",
+    "Soviets"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Afghan government"
+   ],
+   "rivals": [
+    "Afghan insurgents"
+   ],
+   "country_base": "USSR",
+   "notes": "Memo discusses Soviet efforts to win tribal support in Afghanistan, Pakistan and Iran."
+  },
+  {
+   "name": "Afghan government",
+   "aliases": [
+    "Afghan Marxists",
+    "Kabul"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Soviet Union"
+   ],
+   "rivals": [
+    "Afghan insurgents"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Marxist government whose reforms incensed the tribes."
+  },
+  {
+   "name": "Afghan insurgents",
+   "aliases": [
+    "Afghan insurgency"
+   ],
+   "type": "militia",
+   "parent_or_allies": [],
+   "rivals": [
+    "Soviet Union",
+    "Afghan government"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Strongest among the Pushtuns of Paktia and the Nuristanis and Tajiks along the Pakistani border. Some Iranian tribes assist them, partly through smuggling."
+  },
+  {
+   "name": "Mohmand tribe",
+   "aliases": [
+    "Pushtun Nohmands",
+    "Mohmands"
+   ],
+   "type": "other",
+   "parent_or_allies": [
+    "Pushtun"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan/Pakistan",
+   "notes": "Live on both sides of the border near the Khyber Pass; include nomads, farmers and urban professionals."
+  },
+  {
+   "name": "Pushtun",
+   "aliases": [
+    "Pashtun",
+    "Pushtuns"
+   ],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan/Pakistan",
+   "notes": "Tribal loyalties matter most among the Pushtun of eastern and southern Afghanistan."
+  },
+  {
+   "name": "Serakshi tribes",
+   "aliases": [
+    "Saraks"
+   ],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Iran",
+   "notes": "One of the two largest ethnic groups on the Soviet-Iranian border."
+  },
+  {
+   "name": "Torbat Jamis",
+   "aliases": [
+    "Torbat-e Jam"
+   ],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Iran",
+   "notes": "Live between Mashhad and the Afghan border."
+  },
+  {
+   "name": "Uzbeks",
+   "aliases": [
+    "Usbeks"
+   ],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Weak tribal structures in northern Afghanistan; many fled the USSR before WWII."
+  },
+  {
+   "name": "Turkmen",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Ethnic ties across the Soviet border."
+  },
+  {
+   "name": "Tajiks",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Active in the insurgency along the Pakistani border."
+  },
+  {
+   "name": "Nuristanis",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Active in the insurgency along the Pakistani border."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Home of hundreds of tribes and the site of the Soviet-backed Marxist government and insurgency."
+  },
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Border tribes sympathize with the insurgents; Soviets could exploit Pushtun and Baluch autonomy sentiment."
+  },
+  {
+   "name": "Iran",
+   "type": "country",
+   "country": "Iran",
+   "parent": "",
+   "significance": "Border tribes there may assist the Afghan insurgents."
+  },
+  {
+   "name": "Soviet Union",
+   "type": "country",
+   "country": "USSR",
+   "parent": "",
+   "significance": "Ethnic kin across the northern Afghan border; the Tashkent book review is cited."
+  },
+  {
+   "name": "Paktia Province",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Traditionalist Pushtuns here are at the core of the insurgency."
+  },
+  {
+   "name": "Khyber Pass",
+   "type": "border crossing",
+   "country": "Afghanistan/Pakistan",
+   "parent": "",
+   "significance": "Mohmand tribal area."
+  },
+  {
+   "name": "Mashhad",
+   "type": "city",
+   "country": "Iran",
+   "parent": "Iran",
+   "significance": "Torbat Jamis live between Mashhad and the Afghan border."
+  },
+  {
+   "name": "Tashkent",
+   "type": "city",
+   "country": "USSR",
+   "parent": "Uzbek SSR",
+   "significance": "Place of publication of a book review on Britain's 19th-century tribal problems in Afghanistan."
+  }
+ ],
+ "events": [
+  {
+   "date": "1980-09-23",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA memorandum assessing Soviet prospects with the tribes of Afghanistan, Pakistan and Iran.",
+   "place": "",
+   "actors": [
+    "CIA Directorate of Intelligence, Office of Political Analysis"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1980-09-23",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA Directorate of Intelligence, Office of Political Analysis memorandum on the Soviets and the tribes of Southwest Asia.",
+   "place": "",
+   "actors": [
+    "CIA Directorate of Intelligence, Office of Political Analysis"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "approx 1980",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "A book review published in Tashkent discussed Britain's 19th-century problems keeping Afghan tribes loyal.",
+   "place": "Tashkent",
+   "actors": [
+    "Soviet Union"
+   ],
+   "timestamp": "p.4"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Soviet Union",
+   "target": "Afghan government",
+   "type": "allied_with",
+   "detail": "The Soviets try to persuade tribes that supporting the government is to their advantage.",
+   "date": "1980",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "A major problem for the Soviets is to convince the tribes that it is to their advantage to support the government."
+  },
+  {
+   "source": "Afghan insurgents",
+   "target": "Soviet Union",
+   "type": "rival_of",
+   "detail": "Traditionalist tribes resist the Afghan Marxists and Soviets to preserve old ways.",
+   "date": "1980",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "They resist the Afghan Marxists and the Soviets more to preserve the old ways than to fight Communism."
+  },
+  {
+   "source": "Mohmand tribe",
+   "target": "Pushtun",
+   "type": "member_of",
+   "detail": "The Mohmands are a Pushtun tribe on both sides of the border near the Khyber Pass.",
+   "date": "1980",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Pushtun Mohmands (living on both sides of the Pakistan-Afghan border near the Khyber Pass)"
+  },
+  {
+   "source": "Mohmand tribe",
+   "target": "Pushtun",
+   "type": "member_of",
+   "detail": "Mohmands are described as a Pushtun tribe living on both sides of the Pakistan-Afghan border near the Khyber Pass.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Pushtun Nohmands (living on both sides of the Pakistan-Afghan border near the Khyber. Pass)"
+  },
+  {
+   "source": "Mohmand tribe",
+   "target": "Khyber Pass",
+   "type": "located_in",
+   "detail": "Mohmands live near the Khyber Pass on both sides of the Pakistan-Afghan border.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "living on both sides of the Pakistan-Afghan border near the . Khyber. Pass"
+  },
+  {
+   "source": "Mohmand tribe",
+   "target": "Pakistan",
+   "type": "located_in",
+   "detail": "Mohmand territory spans the Pakistan side of the border.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "living on both sides of the Pakistan-Afghan border"
+  },
+  {
+   "source": "Mohmand tribe",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Mohmand territory spans the Afghan side of the border.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "living on both sides of the Pakistan-Afghan border"
+  },
+  {
+   "source": "Uzbeks",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Uzbeks live in northern Afghanistan.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Mnoog the usbeks of northern Afghanistan"
+  },
+  {
+   "source": "Turkmen",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Turkmen are among Afghanistan's northern ethnic groups with weak tribal loyalties.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "stronger for many of the Turkmen of st Afghanistan"
+  },
+  {
+   "source": "Pushtun",
+   "target": "Paktia Province",
+   "type": "located_in",
+   "detail": "Pushtuns of Paktia Province are among the most traditionally minded and strongest in the insurgency.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "the Pushtuns of Paktia Province"
+  },
+  {
+   "source": "Nuristanis",
+   "target": "Pakistan",
+   "type": "located_in",
+   "detail": "Nuristanis and Tajiks live farther north along the Pakistani border.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Nuristanis and Tajiks farther north along the Pakistani border."
+  },
+  {
+   "source": "Tajiks",
+   "target": "Pakistan",
+   "type": "located_in",
+   "detail": "Tajiks live farther north along the Pakistani border.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Nuristanis and Tajiks farther north along the Pakistani border."
+  },
+  {
+   "source": "Pushtun",
+   "target": "Soviet Union",
+   "type": "rival_of",
+   "detail": "Traditionalist Pushtuns resist the Afghan Marxists and Soviets to preserve old ways.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "They resist the Afghan Marxists and the Soviets more to preserve the old ways"
+  },
+  {
+   "source": "Nuristanis",
+   "target": "Soviet Union",
+   "type": "rival_of",
+   "detail": "Nuristanis resist the Soviets and Afghan Marxists.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "They resist the Afghan Marxists and the Soviets more to preserve the old ways"
+  },
+  {
+   "source": "Tajiks",
+   "target": "Soviet Union",
+   "type": "rival_of",
+   "detail": "Tajiks resist the Soviets and Afghan Marxists.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "They resist the Afghan Marxists and the Soviets more to preserve the old ways"
+  },
+  {
+   "source": "Pushtun",
+   "target": "Afghan government",
+   "type": "rival_of",
+   "detail": "Traditionalist tribes resist the Afghan Marxist government.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "They resist the Afghan Marxists and the Soviets"
+  },
+  {
+   "source": "Soviet Union",
+   "target": "Afghan government",
+   "type": "allied_with",
+   "detail": "Soviets seek to convince tribes to support the government, implying alliance.",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "A major problem for the Soviets is to convince the tribes that it is to their advantage to support the government."
+  },
+  {
+   "source": "Soviet Union",
+   "target": "Uzbeks",
+   "type": "other",
+   "detail": "Soviets could exploit ethnic ties with Uzbeks, though little evidence they have; many Uzbeks fled USSR before WWII.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "Ethnic ties between groups in the USSR and in northern Afghanistan such as the Turkmen, Tajiks, and Uzbeks could also be exploited"
+  },
+  {
+   "source": "Soviet Union",
+   "target": "Turkmen",
+   "type": "other",
+   "detail": "Ethnic ties between USSR Turkmen and Afghan Turkmen could be exploited.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "Ethnic ties between groups in the USSR and in northern Afghanistan such as the Turkmen"
+  },
+  {
+   "source": "Soviet Union",
+   "target": "Tajiks",
+   "type": "other",
+   "detail": "Ethnic ties between USSR Tajiks and Afghan Tajiks could be exploited.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "Ethnic ties between groups in the USSR and in northern Afghanistan such as the Turkmen, Tajiks"
+  },
+  {
+   "source": "Soviet Union",
+   "target": "Pushtun",
+   "type": "other",
+   "detail": "Soviets could offer weapons and money or threaten to support traditional enemies of tribes.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "The Soviets can bolster their arguments with offers of weapons and money."
+  },
+  {
+   "source": "Pushtun",
+   "target": "Pakistan",
+   "type": "located_in",
+   "detail": "Pushtuns in Pakistan have supported politicians with ties to Moscow and Kabul.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "the Pushtuns have tended to support politicians with ties to Moscow and Kabul"
+  },
+  {
+   "source": "Pushtun",
+   "target": "Soviet Union",
+   "type": "allied_with",
+   "detail": "Pakistani Pushtuns historically supported politicians tied to Moscow and Kabul.",
+   "date": "past",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "In the past, the Pushtuns have tended to support politicians with ties to Moscow and Kabul"
+  },
+  {
+   "source": "Serakshi tribes",
+   "target": "Iran",
+   "type": "located_in",
+   "detail": "Serakshi tribes live on the Soviet-Iranian border.",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "the Serakshi tribes on the Soviet-Iranian border"
+  },
+  {
+   "source": "Serakshi tribes",
+   "target": "Soviet Union",
+   "type": "located_in",
+   "detail": "Serakshi tribes live on the Soviet-Iranian border.",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "the Serakshi tribes on the Soviet-Iranian border"
+  },
+  {
+   "source": "Torbat Jamis",
+   "target": "Mashhad",
+   "type": "located_in",
+   "detail": "Torbat Jamis live between Mashhad and the border.",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "the Torbat Jamis between Mashhad and the border"
+  },
+  {
+   "source": "Torbat Jamis",
+   "target": "Iran",
+   "type": "located_in",
+   "detail": "Torbat Jamis are an Iranian tribal group.",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "the Torbat Jamis between Mashhad and the border"
+  },
+  {
+   "source": "Serakshi tribes",
+   "target": "Afghan insurgents",
+   "type": "allied_with",
+   "detail": "Iranian border tribes are probably assisting Afghan insurgents, partly via smuggling.",
+   "confidence": "inferred",
+   "timestamp": "p.5",
+   "quote": "Many of them are probably involved in assisting Afghan insurgents"
+  },
+  {
+   "source": "Torbat Jamis",
+   "target": "Afghan insurgents",
+   "type": "allied_with",
+   "detail": "Iranian border tribes are probably assisting Afghan insurgents, partly via smuggling.",
+   "confidence": "inferred",
+   "timestamp": "p.5",
+   "quote": "Many of them are probably involved in assisting Afghan insurgents"
+  },
+  {
+   "source": "Pushtun",
+   "target": "Afghan insurgents",
+   "type": "member_of",
+   "detail": "Pushtuns of Paktia are among the strongest insurgent supporters.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "The Afghan insurgency has been strongest among the most traditionally minded such as the Pushtuns of Paktia Province"
+  }
+ ],
+ "sources_cited": [
+  "Book review published in Tashkent on Britain's 19th-century problems keeping Afghan tribes loyal"
+ ],
+ "key_claims": [
+  "Tribal loyalties are strongest among the Pushtuns of eastern and southern Afghanistan; organized action by an entire tribe is rare.",
+  "The Afghan insurgency is strongest among traditionalist groups such as the Pushtuns of Paktia and the Nuristanis and Tajiks near the Pakistani border.",
+  "Tribes resist the Marxist government and the Soviets mainly to preserve traditional ways, not out of anti-communist ideology.",
+  "The Soviets can offer weapons and money and threaten retaliation, but tribal allies are unreliable and would turn on them when advantageous.",
+  "Tribes in northern Pakistan are probably too small and isolated to be a useful Soviet target.",
+  "Many Iranian border tribes probably assist Afghan insurgents, partly for smuggling income."
+ ]
+}

@@ -1,0 +1,525 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb227-doc19-1996-11-26-afghanistan-british-journalist-visits-site-of-trai",
+  "title": "Afghanistan: British Journalist Visits Site of Training Camps; HUA Activity Alleged (Islama 009994)",
+  "authors": "U.S. Embassy Islamabad",
+  "publisher": "National Security Archive (GWU), Pakistan: \"The Taliban's Godfather\"?",
+  "published": "1996-11-26",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB227/19.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB227/index.htm",
+  "pages": 4,
+  "kind": "cable",
+  "note": "[Confidential] A British journalist who visited two training camps in Paktia on November 14, 1996 reports both appear occupied. Taliban sources say one is occupied by Harakat-ul-Ansar and the other by assorted foreigners including Chechens, Bosnian Muslims, Sudanese and other Arabs.",
+  "collection": "NSAEBB227",
+  "doc_number": "Document 19",
+  "relevance": "high",
+  "ocr": 4
+ },
+ "persons": [
+  {
+   "name": "Mullah Sayed Abdullah",
+   "aliases": [
+    "Sayed Abdullah"
+   ],
+   "role": "Taliban governor (of Khost)",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Khost"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.3",
+     "quote": "REFUSED A MEETING WITH MULLAH SAYED ABDULLAH, THE TALIBAN GOVERNOR"
+    },
+    {
+     "timestamp": "p.3",
+     "quote": "A MESSAGE FROM HIM \"DENYING THAT THE CAMPS ARE BEING USED AND WARNING HER NOT TO GO NEAR THEM.\""
+    }
+   ]
+  },
+  {
+   "name": "Dan Mozena",
+   "aliases": [],
+   "role": "Acting Political Counselor, US Embassy Islamabad (classifier of cable)",
+   "organizations": [
+    "US Department of State"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Islamabad"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "CLASSIFIED BY ACTING POLITICAL COUNSELOR DAN MOZENA"
+    }
+   ]
+  },
+  {
+   "name": "Lees",
+   "aliases": [
+    "British journalist"
+   ],
+   "role": "British newspaper journalist who visited the Al Badr camp sites in Paktia (surname appears as 'LEES' in the cable)",
+   "organizations": [],
+   "nationality_or_origin": "British",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Khost",
+    "Paktia Province"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.3",
+     "quote": "LEES ADDED THAT THE CAMPS WERE LOCATED A \"DIFFICULT\" DRIVE SOUTH OF THE CITY OF KHOST"
+    }
+   ]
+  },
+  {
+   "name": "Holzman",
+   "aliases": [],
+   "role": "Signatory of the cable (US Embassy Islamabad)",
+   "organizations": [
+    "US Department of State"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Islamabad"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.4",
+     "quote": "HOLZMAN"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Harakat-ul-Ansar",
+   "aliases": [
+    "HUA",
+    "Harakat ul-Ansar"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Militants allegedly occupy and train at one of the Al Badr camps in Paktia."
+  },
+  {
+   "name": "Taliban",
+   "aliases": [],
+   "type": "political movement",
+   "parent_or_allies": [],
+   "rivals": [
+    "Hezb-i-Islami"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Seized the camps in Aug/Sep 1996; claim camps are not in use; sources allege HUA occupation."
+  },
+  {
+   "name": "Hezb-i-Islami",
+   "aliases": [
+    "Hezb-e-Islami"
+   ],
+   "type": "militia",
+   "parent_or_allies": [],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Originally controlled the Al Badr camps before the Taliban shut them down."
+  },
+  {
+   "name": "Al Badr camps",
+   "aliases": [
+    "Al Badr I",
+    "Al Badr II"
+   ],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Two training camps in Paktia south of Khost; text writes 'AL BADR IIl'. One reportedly occupied by HUA, the other by assorted foreigners."
+  },
+  {
+   "name": "US Embassy Islamabad",
+   "aliases": [
+    "AMEMBASSY ISLAMABAD"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "US Department of State"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Author of the cable."
+  },
+  {
+   "name": "USIS",
+   "aliases": [
+    "US Information Service"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Its information officer attended the meeting with the journalist."
+  }
+ ],
+ "places": [
+  {
+   "name": "Paktia Province",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Location of the Al Badr training camps."
+  },
+  {
+   "name": "Khost",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Paktia Province",
+   "significance": "Journalist's trip began here; camps are a difficult drive south of the city."
+  },
+  {
+   "name": "Afghan-Pakistan border",
+   "type": "region",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Camps are located near the border."
+  },
+  {
+   "name": "Islamabad",
+   "type": "city",
+   "country": "Pakistan",
+   "parent": "Pakistan",
+   "significance": "US Embassy origin of the cable."
+  }
+ ],
+ "events": [
+  {
+   "date": "1996-08",
+   "date_precision": "approx",
+   "type": "offensive",
+   "description": "Taliban seized/shut down the Al Badr camps formerly controlled by Hezb-i-Islami (Aug/Sep 1996).",
+   "place": "Paktia Province",
+   "actors": [
+    "Taliban",
+    "Hezb-i-Islami"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1996-11-14",
+   "date_precision": "day",
+   "type": "travel",
+   "description": "British journalist visited the site of the Al Badr camps, saw them as 'occupied and active', but could not enter.",
+   "place": "Paktia Province",
+   "actors": [
+    "Lees"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1996-11-19",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "Journalist briefed a Political Officer and USIS Information Officer at the US Embassy about her visit.",
+   "place": "Islamabad",
+   "actors": [
+    "Lees",
+    "US Embassy Islamabad",
+    "USIS"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1996-11-26",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "US Embassy Islamabad cable 009994 reports the journalist's account.",
+   "place": "Islamabad",
+   "actors": [
+    "US Embassy Islamabad"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1996-11-14",
+   "date_precision": "day",
+   "type": "travel",
+   "description": "British journalist Lees visited the site of the Al Badr training camps in Paktia Province but could not enter; camps looked occupied and active.",
+   "place": "Paktia Province",
+   "actors": [
+    "Lees",
+    "Al Badr camps"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1996-11-19",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "Lees briefed the Political Officer and USIS Information Officer on her visit to the camps.",
+   "place": "Islamabad",
+   "actors": [
+    "Lees",
+    "US Embassy Islamabad",
+    "USIS"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1996-08",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Taliban seized/shut down the Al Badr camps formerly controlled by Hezb-i-Islami.",
+   "place": "Paktia Province",
+   "actors": [
+    "Taliban",
+    "Hezb-i-Islami"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1996-11-26",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "US Embassy Islamabad cabled State on the journalist's report and alleged HUA activity at the camps.",
+   "place": "Islamabad",
+   "actors": [
+    "US Embassy Islamabad",
+    "Holzman",
+    "Dan Mozena"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Harakat-ul-Ansar",
+   "target": "Al Badr camps",
+   "type": "located_in",
+   "detail": "Taliban sources allege one camp is occupied by HUA militants.",
+   "date": "1996-11",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "ONE OF THE CAMPS IS OCCUPIED BY HUA MILITANTS"
+  },
+  {
+   "source": "Al Badr camps",
+   "target": "Hezb-i-Islami",
+   "type": "other",
+   "detail": "Camps were originally controlled by Hezb-i-Islami before the Taliban shut them down.",
+   "date": "1996",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "THE CAMPS WERE ORIGINALLY CONTROLLED BY HEZB-I-ISLAMI BEFORE THE TALIBAN SHUT THEM DOWN"
+  },
+  {
+   "source": "Mullah Sayed Abdullah",
+   "target": "Taliban",
+   "type": "member_of",
+   "detail": "Taliban governor in Khost.",
+   "date": "1996-11",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "MULLAH SAYED ABDULLAH, THE TALIBAN GOVERNOR"
+  },
+  {
+   "source": "Taliban",
+   "target": "Al Badr camps",
+   "type": "other",
+   "detail": "Taliban seized the camps in Aug/Sep 1996.",
+   "date": "1996",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "BEFORE THE CAMPS WERE SEIZED BY THE TALIBAN IN AUGUST/SEPTEMBER"
+  },
+  {
+   "source": "Al Badr camps",
+   "target": "Paktia Province",
+   "type": "located_in",
+   "detail": "Camps located in Paktia south of Khost near the Pakistan border.",
+   "date": "1996",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "VISITED THE SITE OF TRAINING CAMPS IN PAKTIA PROVINCE, IN SOUTHEASTERN AFGHANISTAN"
+  },
+  {
+   "source": "Al Badr camps",
+   "target": "Paktia Province",
+   "type": "located_in",
+   "detail": "The two Al Badr camps (Al Badr I and III) are located in Paktia Province.",
+   "date": "2996-11",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "SHE VISITED THE SITE OF TWO TERRORIST TRAINING CAMPS IN PAKTIA PROVINCE, ON NOVEMBER 14."
+  },
+  {
+   "source": "Al Badr camps",
+   "target": "Khost",
+   "type": "located_in",
+   "detail": "The camps are a difficult drive south of Khost city.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "THE CAMPS WERE LOCATED A \"DIFFICULT\" DRIVE SOUTH OF THE CITY OF KHOST NEAR THE AFGHAN-PAKISTAN BORDER."
+  },
+  {
+   "source": "Al Badr camps",
+   "target": "Afghan-Pakistan border",
+   "type": "located_in",
+   "detail": "The camps are near the Afghan-Pakistan border.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "SOUTH OF THE CITY OF KHOST NEAR THE AFGHAN-PAKISTAN BORDER."
+  },
+  {
+   "source": "Hezb-i-Islami",
+   "target": "Al Badr camps",
+   "type": "leads",
+   "detail": "The camps were originally controlled by Hezb-i-Islami before the Taliban shut them down.",
+   "date": "before 1996-08",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "THE CAMPS WERE ORIGINALLY CONTROLLED BY HEZB-I-ISLAMI BEFORE THE TALIBAN SHUT THEM DOWN"
+  },
+  {
+   "source": "Taliban",
+   "target": "Hezb-i-Islami",
+   "type": "rival_of",
+   "detail": "The Taliban shut down/seized the camps that Hezb-i-Islami had controlled.",
+   "date": "1996-08/09",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "BEFORE THE TALIBAN SHUT THEM DOWN IN THE AUGUST/SEPTEMBER TIMEFRAME."
+  },
+  {
+   "source": "Taliban",
+   "target": "Al Badr camps",
+   "type": "other",
+   "detail": "Taliban seized/shut down the camps in August/September 1996.",
+   "date": "1996-08",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "BEFORE THE CAMPS WERE SEIZED BY THE TALIBAN IN AUGUST/SEPTEMBER."
+  },
+  {
+   "source": "Harakat-ul-Ansar",
+   "target": "Al Badr camps",
+   "type": "other",
+   "detail": "Pakistani press articles assert the camps reopened for training HUA militants; a Taliban source said one camp is occupied by HUA militants.",
+   "date": "1996-11",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "THE ARTICLES ASSERT THAT THE CAMPS HAVE REOPENED FOR TRAINING OF HUA MILITANTS."
+  },
+  {
+   "source": "Mullah Sayed Abdullah",
+   "target": "Taliban",
+   "type": "member_of",
+   "detail": "Mullah Sayed Abdullah is the Taliban governor in Khost.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "MULLAH SAYED ABDULLAH, THE TALIBAN GOVERNOR"
+  },
+  {
+   "source": "Mullah Sayed Abdullah",
+   "target": "Khost",
+   "type": "located_in",
+   "detail": "Abdullah is governor based in Khost.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "HER TRIP BEGAN IN KHOST, WHERE SHE SAID SHE WAS REFUSED A MEETING WITH MULLAH SAYED ABDULLAH"
+  },
+  {
+   "source": "Lees",
+   "target": "Mullah Sayed Abdullah",
+   "type": "other",
+   "detail": "Lees was refused a meeting with the governor; his assistants delivered a message denying camp use and warning her away.",
+   "date": "1996-11",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "DENYING THAT THE CAMPS ARE BEING USED AND WARNING HER NOT TO GO NEAR THEM."
+  },
+  {
+   "source": "Lees",
+   "target": "US Embassy Islamabad",
+   "type": "met_with",
+   "detail": "Lees briefed Embassy officers on her visit.",
+   "date": "1996-11-19",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "TOLD POLOFF AND THE USIS INFORMATION OFFICER NOVEMBER 19"
+  },
+  {
+   "source": "Lees",
+   "target": "USIS",
+   "type": "met_with",
+   "detail": "USIS information officer attended the meeting with the journalist.",
+   "date": "1996-11-19",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "TOLD POLOFF AND THE USIS INFORMATION OFFICER NOVEMBER 19"
+  },
+  {
+   "source": "Dan Mozena",
+   "target": "US Embassy Islamabad",
+   "type": "member_of",
+   "detail": "Mozena is Acting Political Counselor who classified the cable.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "CLASSIFIED BY ACTING POLITICAL COUNSELOR DAN MOZENA."
+  },
+  {
+   "source": "Holzman",
+   "target": "US Embassy Islamabad",
+   "type": "member_of",
+   "detail": "Cable signed by Holzman from the Embassy.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.4",
+   "quote": "HOLZMAN"
+  }
+ ],
+ "sources_cited": [
+  "Islamabad 9517 (Ref B)",
+  "State 243713 (Ref A)",
+  "Pakistani press articles",
+  "British journalist's account",
+  "Unnamed Taliban source"
+ ],
+ "key_claims": [
+  "A British journalist saw the Al Badr camps near Khost as occupied and active on 14 Nov 1996.",
+  "A Taliban source said one camp is occupied by HUA militants.",
+  "The other camp reportedly holds foreigners including Chechens, Bosnian Muslims, Sudanese and other Arabs.",
+  "Instructors are reportedly the same ones who taught there before the Taliban seizure in Aug/Sep 1996.",
+  "The Taliban governor of Khost denied camp use and warned the journalist away.",
+  "The embassy judges that the Al Badr camps are 'back in business' contrary to Taliban claims."
+ ]
+}

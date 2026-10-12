@@ -1,0 +1,434 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb253-doc01-1999-12-06-osama-bin-laden-a-case-study-excerpt-pp-18-22",
+  "title": "Osama bin Laden: A Case Study (excerpt, pp. 18-22)",
+  "authors": "Sandia National Laboratories, U.S. Department of Energy (Dr. Gary W. Richter)",
+  "publisher": "National Security Archive (GWU), 1998 Missile Strikes on Bin Laden May Have Backfired",
+  "published": "1999-12-06",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB253/sandia_18-22.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB253/index.htm",
+  "pages": 5,
+  "kind": "report",
+  "note": "[Unclassified] Excerpt of pages 18-22 of the Sandia report. It finds the U.S. was not blindsided by the embassy bombings, that the East African cell was under intense scrutiny, and that the August 20 cruise missile strikes had negative political consequences, including mirroring aspects of al-Qaeda's own attacks.",
+  "collection": "NSAEBB253",
+  "doc_number": "Document 1 (excerpt)",
+  "relevance": "high",
+  "ocr": 5
+ },
+ "persons": [
+  {
+   "name": "Osama bin Laden",
+   "aliases": [
+    "Usama bin Ladin",
+    "bin Laden"
+   ],
+   "role": "Leader of al-Qaeda; target of a US campaign to expose him and build a legal case after the August 1998 embassy bombings",
+   "organizations": [
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "East Africa"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Long before bin Laden came to public attention he and his group were a well-known threat and the subject of significant attention"
+    },
+    {
+     "timestamp": "p.2",
+     "quote": "The attacks generated enormous publicity for bin Laden and raised him to the level of a worldwide icon for frustrated Muslim fundamentalists"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "al-Qaeda",
+   "aliases": [
+    "al Qaeda",
+    "Al Qaeda",
+    "al-Qa'ida"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [
+    "United States government"
+   ],
+   "country_base": "",
+   "notes": "Described as having global reach and anti-American hatreds, making it a potential threat to all US installations overseas."
+  },
+  {
+   "name": "East African al-Qaeda cell",
+   "aliases": [
+    "East African al Qaeda cell"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda"
+   ],
+   "rivals": [],
+   "country_base": "Kenya",
+   "notes": "Existence known before the bombings. Many members identified and under intense surveillance; the cell felt itself to be 'at 100% danger'."
+  },
+  {
+   "name": "U.S. State Department",
+   "aliases": [
+    "DoS",
+    "Department of State"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Its security standards and threat assessment are discussed in the embassy bombing findings."
+  },
+  {
+   "name": "Accountability Review Boards",
+   "aliases": [
+    "State Department Accountability Review Boards"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "U.S. State Department"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Published two analyses of the Nairobi and Dar es Salaam bombings, including the January 1999 report."
+  },
+  {
+   "name": "FBI",
+   "aliases": [
+    "Federal Bureau of Investigation"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Recommended to consult with DoS on information sharing."
+  },
+  {
+   "name": "Counter Terrorism Center",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "A State Department official was recommended to be assigned there."
+  },
+  {
+   "name": "Foreign Emergency Support Team",
+   "aliases": [
+    "FEST"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Recommended to acquire a modern, air-refuelable aircraft."
+  }
+ ],
+ "places": [
+  {
+   "name": "Nairobi",
+   "type": "city",
+   "country": "Kenya",
+   "parent": "Kenya",
+   "significance": "Site of the 7 August 1998 US embassy bombing. Embassy staff warned of vulnerability; the neighboring building collapsed."
+  },
+  {
+   "name": "Dar es Salaam",
+   "type": "city",
+   "country": "Tanzania",
+   "parent": "Tanzania",
+   "significance": "Site of the second 7 August 1998 US embassy bombing; the bomber was stopped at the perimeter by guards and an embassy water truck."
+  },
+  {
+   "name": "Kenya",
+   "type": "country",
+   "country": "Kenya",
+   "parent": "",
+   "significance": "Location of the Nairobi embassy bombing and most of the deaths, which were among Kenyans."
+  },
+  {
+   "name": "Tanzania",
+   "type": "country",
+   "country": "Tanzania",
+   "parent": "",
+   "significance": "Location of the Dar es Salaam embassy bombing."
+  },
+  {
+   "name": "East Africa",
+   "type": "region",
+   "country": "",
+   "parent": "",
+   "significance": "Region of the al-Qaeda cell that was under surveillance and disruption operations."
+  },
+  {
+   "name": "Sudan",
+   "type": "country",
+   "country": "Sudan",
+   "parent": "",
+   "significance": "The US embassy in Khartoum was closed over threat levels and Sudanese embassy personnel were moved to Nairobi."
+  },
+  {
+   "name": "Albania",
+   "type": "country",
+   "country": "Albania",
+   "parent": "",
+   "significance": "Cited as a place where a planned bombing of a US installation was prevented."
+  }
+ ],
+ "events": [
+  {
+   "date": "1998-08-07",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "Truck bomb attacks on the US embassies in Nairobi and Dar es Salaam. Most deaths were innocent Kenyans in the building next to the Nairobi embassy.",
+   "place": "Nairobi; Dar es Salaam",
+   "actors": [
+    "al-Qaeda",
+    "East African al-Qaeda cell",
+    "Osama bin Laden"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1999-01",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "State Department Accountability Review Boards published their report on the Nairobi and Dar es Salaam embassy bombings, with findings and recommendations.",
+   "place": "",
+   "actors": [
+    "Accountability Review Boards",
+    "U.S. State Department"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1998-08-07",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "Truck bomb attacks on U.S. embassies in Nairobi and Dar es Salaam; attackers failed to reach the structures, most deaths were Kenyans in a collapsed adjacent building in Nairobi.",
+   "place": "Nairobi; Dar es Salaam",
+   "actors": [
+    "al-Qaeda",
+    "East African al-Qaeda cell",
+    "Osama bin Laden"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998-08-07",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "In Nairobi the bomber failed to penetrate the outer perimeter because local guards refused to open the gates.",
+   "place": "Nairobi",
+   "actors": [
+    "al-Qaeda"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1998-08-07",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "In Dar es Salaam the bomber was stopped by guards and blocked by an embassy water truck.",
+   "place": "Dar es Salaam",
+   "actors": [
+    "al-Qaeda"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1999-01",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Accountability Review Boards published their report on the embassy bombings in Nairobi and Dar es Salaam.",
+   "place": "",
+   "actors": [
+    "Accountability Review Boards",
+    "U.S. State Department"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "approx 1998",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Planned bombing of U.S. installations in Albania was prevented.",
+   "place": "Albania",
+   "actors": [
+    "al-Qaeda",
+    "U.S. State Department"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Osama bin Laden",
+   "target": "al-Qaeda",
+   "type": "leads",
+   "detail": "The text refers to bin Laden and 'his group' and his terrorist network, treating him as al-Qaeda's leader.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Long before bin Laden came to public attention he and his group were a well-known threat"
+  },
+  {
+   "source": "East African al-Qaeda cell",
+   "target": "al-Qaeda",
+   "type": "member_of",
+   "detail": "The East African cell is described as part of al-Qaeda, and many of its members had been identified.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "the existence of the East African al Qaeda cell was known"
+  },
+  {
+   "source": "Accountability Review Boards",
+   "target": "U.S. State Department",
+   "type": "member_of",
+   "detail": "The Boards are State Department review bodies that published the embassy bombing reports.",
+   "date": "1999-01",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "The U.S. State Department Accountability Review Boards have published two very nice analyses of the African embassy bombings."
+  },
+  {
+   "source": "East African al-Qaeda cell",
+   "target": "East Africa",
+   "type": "located_in",
+   "detail": "The al Qaeda cell operated in East Africa and was under intense scrutiny there.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Al Qaeda operatives in East Africa were under intense scrutiny"
+  },
+  {
+   "source": "al-Qaeda",
+   "target": "Osama bin Laden",
+   "type": "other",
+   "detail": "Bin Laden and his group are treated as a long-known threat; the text describes al Qaeda as his group. Bin Laden is the group's leader in this framing.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Long before bin Laden came to public attention he and his group were a well-known threat"
+  },
+  {
+   "source": "Osama bin Laden",
+   "target": "East African al-Qaeda cell",
+   "type": "other",
+   "detail": "The campaign against bin Laden's network targeted the East African cell, whose members were under surveillance and disruption operations.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "there were active and ongoing surveillance, threat evaluation, and disruption operations"
+  },
+  {
+   "source": "al-Qaeda",
+   "target": "Nairobi",
+   "type": "other",
+   "detail": "Embassy bombing carried out in Nairobi attributed to al Qaeda network; most deaths were Kenyans in building next to the embassy.",
+   "date": "1998-08-07",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Most deaths were among innocent Kenyans in the building next to the Nairobi embassy (which collapsed)"
+  },
+  {
+   "source": "al-Qaeda",
+   "target": "Dar es Salaam",
+   "type": "other",
+   "detail": "Embassy bombing in Dar es Salaam attributed to the al Qaeda network.",
+   "date": "1998-08-07",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "In Dar es Salaam, the bomber also failed to penetrate the perimeter, stopped by guards and blocked by an embassy water truck"
+  },
+  {
+   "source": "Nairobi",
+   "target": "Kenya",
+   "type": "located_in",
+   "detail": "Nairobi is in Kenya; the embassy there was bombed.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Most deaths were among innocent Kenyans in the building next to the Nairobi embassy"
+  },
+  {
+   "source": "Dar es Salaam",
+   "target": "Tanzania",
+   "type": "located_in",
+   "detail": "Dar es Salaam is in Tanzania; the embassy there was bombed.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "Embassy Bombings in Nairobi and Dar es Salaam on August 7, 1998"
+  },
+  {
+   "source": "Counter Terrorism Center",
+   "target": "U.S. State Department",
+   "type": "other",
+   "detail": "Recommendation to assign a State Department official to the Counter Terrorism Center.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "Assign a State Department official to the Counter Terrorism Center."
+  },
+  {
+   "source": "FBI",
+   "target": "U.S. State Department",
+   "type": "other",
+   "detail": "Recommended that FBI and DoS consult on improving information sharing.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "The FBI and DoS should consult on ways to improve information sharing"
+  },
+  {
+   "source": "Foreign Emergency Support Team",
+   "target": "U.S. State Department",
+   "type": "other",
+   "detail": "Report recommends acquiring a modern air-refuelable aircraft for the Foreign Emergency Support Team.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.5",
+   "quote": "Acquire a modern, reliable, air-refuelable Foreign Emergency Support Team aircraft"
+  },
+  {
+   "source": "U.S. State Department",
+   "target": "Sudan",
+   "type": "other",
+   "detail": "The U.S. embassy in Sudan was closed due to threat level, and Sudanese embassy personnel were moved to Nairobi.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "the U.S. embassy in Sudan had been closed in response to the threat level there"
+  },
+  {
+   "source": "al-Qaeda",
+   "target": "Albania",
+   "type": "other",
+   "detail": "Planned bombings of U.S. installations in Albania were prevented.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Several other planned bombings of U.S. installations had successfully been prevented (e.g.,.in Albania)"
+  }
+ ],
+ "sources_cited": [
+  "U.S. State Department, Report of the Accountability Review Boards on the Embassy Bombings in Nairobi and Dar es Salaam on August 7, 1998 (January 1999)"
+ ],
+ "key_claims": [
+  "Al-Qaeda and its East African cell were known and under surveillance before the 7 August 1998 bombings, so the US was not blindsided.",
+  "US threat assessors in Washington took the warnings less seriously than embassy staff in Nairobi did, and the threat was perhaps underestimated.",
+  "The bombings raised bin Laden to a worldwide icon for frustrated Muslim fundamentalists despite limited American casualties.",
+  "The State Department found that security standards were inadequate against large vehicle bombs and that no credible intelligence gave immediate warning.",
+  "The bombings led to an escalated campaign to expose bin Laden, build a legal case against him and destroy his network."
+ ]
+}

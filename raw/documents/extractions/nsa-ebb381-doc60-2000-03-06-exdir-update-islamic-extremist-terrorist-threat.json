@@ -1,0 +1,189 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc60-2000-03-06-exdir-update-islamic-extremist-terrorist-threat",
+  "title": "EXDIR Update - Islamic Extremist Terrorist Threat",
+  "authors": "Central Intelligence Agency",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "2000-03-06",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7xbr-uusml/2000-03-06-exdir-update-islamic-extremist.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 2,
+  "kind": "briefing",
+  "note": "CIA update on the Islamic extremist terrorist threat. Cited in 9/11 Commission Report, Chapter 6, Endnote 101.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 60",
+  "relevance": "high",
+  "ocr": 0
+ },
+ "persons": [
+  {
+   "name": "Ahmad Shah Masoud",
+   "aliases": [
+    "Masoud",
+    "Massoud",
+    "Ahmad Shah Massoud"
+   ],
+   "role": "Afghan commander in northern Afghanistan; CIA dialogue partner (name partly garbled in the OCR as 'Masog'/'Mas6')",
+   "organizations": [],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Northern Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "Continue dialo ue_·:with.Mas6"
+    },
+    {
+     "timestamp": "p.2",
+     "quote": "Maintai~_;;ijl/;iiller:itum Wtth Masog~"
+    }
+   ]
+  },
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "UBL",
+    "Usama bin Laden"
+   ],
+   "role": "al-Qa'ida leader; target of capture options",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "VBL and UBL LieutenaJit capture options"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "al-Qa'ida",
+   "aliases": [
+    "al-Qaeda"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Implied by references to UBL and his lieutenants; the text does not name the group."
+  },
+  {
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Author of the EXDIR update; implied actor in the deployment and the dialogue."
+  }
+ ],
+ "places": [
+  {
+   "name": "Northern Afghanistan",
+   "type": "region",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Site of the 'Northern Afghanistan Deployment' mentioned in the update."
+  },
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Setting of the deployment and the UBL capture options."
+  }
+ ],
+ "events": [
+  {
+   "date": "2000-03",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Northern Afghanistan deployment: CIA items include maintaining momentum with Masoud, capture options for UBL and his lieutenants, and continuing dialogue with Masoud. The text is heavily redacted and garbled.",
+   "place": "Northern Afghanistan",
+   "actors": [
+    "Central Intelligence Agency",
+    "Ahmad Shah Masoud",
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "approx 2000-03",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Planned or ongoing Northern Afghanistan deployment, with action items to maintain momentum with Masoud, continue dialogue with him, and develop capture options for UBL and his lieutenant. The text is heavily garbled and redacted.",
+   "place": "Northern Afghanistan",
+   "actors": [
+    "Central Intelligence Agency",
+    "Ahmad Shah Masoud",
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.2"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Central Intelligence Agency",
+   "target": "Ahmad Shah Masoud",
+   "type": "negotiated_with",
+   "detail": "The update lists continuing dialogue with Masoud and maintaining momentum with him on UBL capture options.",
+   "date": "2000-03",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "Continue dialo ue_·:with.Mas6"
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "Ahmad Shah Masoud",
+   "type": "other",
+   "detail": "The slide lists maintaining momentum with Masoud (garbled OCR) in connection with options against UBL and his lieutenant. This is inferred to be cooperation against bin Ladin.",
+   "date": "2000-03",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "Maintai~_;;ijl/;iiller:itum Wtth Masog~,lq9 VBL and UBL"
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "Usama bin Ladin",
+   "type": "other",
+   "detail": "The slide lists 'capture options' for UBL and his lieutenant as a planning item. No capture is reported. The slide does not name the CIA as the actor, so the attribution is inferred from the document's source.",
+   "date": "2000-03",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "LieutenaJit capture options"
+  },
+  {
+   "source": "Ahmad Shah Masoud",
+   "target": "Northern Afghanistan",
+   "type": "located_in",
+   "detail": "Masoud is linked to the Northern Afghanistan deployment slide. This is inferred from context and not stated explicitly.",
+   "date": "2000-03",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "Northern Afghanistan Deployment"
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "The CIA planned to maintain momentum with Masoud on options to capture Usama bin Ladin and his lieutenants.",
+  "A northern Afghanistan deployment was part of the CIA's effort against the Islamic extremist terrorist threat.",
+  "The CIA intended to continue its dialogue with Masoud.",
+  "The document is heavily redacted, so details of the deployment and capture options are unavailable."
+ ]
+}

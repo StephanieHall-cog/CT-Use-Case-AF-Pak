@@ -1,0 +1,258 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc44-1999-02-10-excised-talking-points-cia-operations-against-usam",
+  "title": "[Excised] Talking Points: CIA Operations Against Usama Bin Ladin",
+  "authors": "Central Intelligence Agency",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "1999-02-10",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7xbr-uusml/1999-02-10-excised-talking-points-cia-operations.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 4,
+  "kind": "briefing",
+  "note": "CIA talking points on CIA operations against bin Laden. Cited in 9/11 Commission Report Chapter 4, Endnote 157.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 44",
+  "relevance": "high",
+  "ocr": 1
+ },
+ "persons": [
+  {
+   "name": "Usama Bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "UBL",
+    "Bin Ladin",
+    "Bin Laden"
+   ],
+   "role": "Target of CIA capture and disruption operations; leader of an international terrorist infrastructure",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "unknown",
+   "status_detail": "Alive at the time of the document (February 1999); the CIA sought to capture him and bring him to justice",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Agency's operations against Osama Bin Ladin (UBL)"
+    },
+    {
+     "timestamp": "p.2",
+     "quote": "The Agency's current slate of operations against Usama Bin Ladin (UBL)"
+    },
+    {
+     "timestamp": "p.3",
+     "quote": "Our disruption operations now are aimed at capturing Bin Ladin"
+    }
+   ]
+  },
+  {
+   "name": "Congressman Hastert",
+   "aliases": [
+    "Hastert"
+   ],
+   "role": "US Congressman to be briefed on CIA operations against UBL",
+   "organizations": [
+    "US Congress"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Purpose: To inform Congressman Hastert about CIA's operations against Osama Bin Ladin (UBL)"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA",
+    "the Agency"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Intelligence Community"
+   ],
+   "rivals": [
+    "al-Qa'ida"
+   ],
+   "country_base": "United States",
+   "notes": "Author of the talking points. Runs operations to capture Bin Ladin, collect intelligence on his location, and disrupt his international infrastructure."
+  },
+  {
+   "name": "Intelligence Community",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Described as devoting all applicable resources to collecting against Bin Ladin."
+  },
+  {
+   "name": "US military",
+   "aliases": [],
+   "type": "military",
+   "parent_or_allies": [
+    "Central Intelligence Agency"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Conducted the August 1998 missile strikes; the text refers to military options targeting Bin Ladin."
+  },
+  {
+   "name": "al-Qa'ida",
+   "aliases": [
+    "al-Qaeda"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [
+    "Central Intelligence Agency"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Inferred from context. The document names only UBL and his 'international infrastructure'."
+  }
+ ],
+ "places": [],
+ "events": [
+  {
+   "date": "1998-08-20",
+   "date_precision": "day",
+   "type": "strike",
+   "description": "US missile strikes, referred to in the talking points as '20 August 1998 US missile strikes'. The target text is largely excised, but the strikes were related to Bin Ladin.",
+   "place": "",
+   "actors": [
+    "US military",
+    "Usama Bin Ladin"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1999-02-10",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA talking points prepared to brief Congressman Hastert on operations against UBL",
+   "place": "",
+   "actors": [
+    "Central Intelligence Agency",
+    "Congressman Hastert"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1999-02-10",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA prepares talking points to brief Congressman Hastert on CIA operations against Usama Bin Ladin.",
+   "place": "",
+   "actors": [
+    "Central Intelligence Agency",
+    "Congressman Hastert",
+    "Usama Bin Ladin"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998-08-20",
+   "date_precision": "day",
+   "type": "strike",
+   "description": "US missile strikes, referenced in the talking points; the OCR text is partly garbled and the target is not legible.",
+   "place": "",
+   "actors": [
+    "US military",
+    "Usama Bin Ladin"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Central Intelligence Agency",
+   "target": "Usama Bin Ladin",
+   "type": "other",
+   "detail": "The CIA's stated aim is to capture Bin Ladin and bring him to justice.",
+   "date": "1999-02",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "are to capture him and bring him to justice"
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "Congressman Hastert",
+   "type": "other",
+   "detail": "The talking points were prepared to brief Hastert.",
+   "date": "1999-02-10",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "To inform Congressman Hastert about CIA's operations against Osama Bin Ladin"
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "al-Qa'ida",
+   "type": "leads",
+   "detail": "Inferred from the context of an 'international infrastructure' under Bin Ladin.",
+   "date": "1999-02",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "disrupting his international infrastructure"
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "Usama Bin Ladin",
+   "type": "other",
+   "detail": "CIA operations against Bin Ladin aim to capture him and bring him to justice.",
+   "date": "1999-02-10",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "The Agency's operations against Osama Bin Ladin are to capture him and bring him to justice"
+  },
+  {
+   "source": "US military",
+   "target": "Usama Bin Ladin",
+   "type": "other",
+   "detail": "Military options targeting Bin Ladin are mentioned alongside the CIA effort, including the 20 August 1998 missile strikes.",
+   "date": "1998-08-20",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "military options targeting Bin Ladin"
+  },
+  {
+   "source": "Intelligence Community",
+   "target": "Usama Bin Ladin",
+   "type": "other",
+   "detail": "The Intelligence Community is devoting all applicable resources to collecting intelligence on Bin Ladin, including on his location.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "The Intelligence Community is devoting all applicable resources to collecting against Bin Ladin"
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "Usama Bin Ladin",
+   "type": "other",
+   "detail": "CIA disruption operations are aimed at capturing Bin Ladin, disrupting his international infrastructure and gathering actionable intelligence.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "Our disruption operations now are aimed at capturing Bin Ladin, disrupting his international infrastructure, and gathering additional actionable intelligence"
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "As of February 1999, CIA operations against UBL aimed at capture and rendering him to justice.",
+  "The CIA operations were divided into categories, including seeking his location through collection and disruption operations.",
+  "Disruption operations aimed at capturing UBL, dismantling his international infrastructure and gathering actionable intelligence.",
+  "The Intelligence Community was devoting all applicable resources to collecting against UBL.",
+  "The document references military options and the 20 August 1998 US missile strikes against UBL-related targets."
+ ]
+}

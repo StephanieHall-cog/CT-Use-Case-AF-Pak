@@ -1,0 +1,498 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb396-doc12-1979-12-26-reflections-on-soviet-intervention-in-afghanistan",
+  "title": "Reflections on Soviet Intervention in Afghanistan",
+  "authors": "Zbigniew Brzezinski, White House",
+  "publisher": "National Security Archive (GWU), SOVIET INVASION OF AFGHANISTAN A CASE OF MISSION CREEP, ACCORDING TO NEW BOOK AND ORIGINAL SOVIET DOCUMENTS",
+  "published": "1979-12-26",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB396/docs/1979-12-26 Brzezinski to Carter on Afghanistan.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB396/",
+  "pages": 4,
+  "kind": "memo",
+  "note": "Memorandum from Brzezinski to the President, 'Reflections on Soviet Intervention in Afghanistan.'",
+  "collection": "NSAEBB396",
+  "doc_number": "Document 12",
+  "relevance": "high",
+  "ocr": 4
+ },
+ "persons": [
+  {
+   "name": "Zbigniew Brzezinski",
+   "aliases": [
+    "Brzezinski"
+   ],
+   "role": "US National Security Advisor, author of memorandum to the President",
+   "organizations": [
+    "White House",
+    "National Security Council"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Washington"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "MEMORANDUM FOR: THE PRESIDENT FROM: ZBIGNIEW BRZEZINSKI"
+    }
+   ]
+  },
+  {
+   "name": "Harold Brown",
+   "aliases": [
+    "Brown"
+   ],
+   "role": "US official (Defense Secretary) planning visit to China",
+   "organizations": [],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "China"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.3",
+     "quote": "will also influence the substance of the Brown visit to China"
+    }
+   ]
+  },
+  {
+   "name": "Jimmy Carter",
+   "aliases": [
+    "The President"
+   ],
+   "role": "US President, addressee of memorandum",
+   "organizations": [
+    "White House"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Washington"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "MEMORANDUM FOR: THE PRESIDENT"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "White House",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Origin of memorandum"
+  },
+  {
+   "name": "National Security Council",
+   "aliases": [
+    "NSC"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "White House"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Meeting planned Friday on Afghanistan and Iran"
+  },
+  {
+   "name": "Special Coordination Committee",
+   "aliases": [
+    "SCC"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "National Security Council"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "SCC minutes on Afghanistan and Iran sent to President"
+  },
+  {
+   "name": "Soviet Union",
+   "aliases": [
+    "Soviets",
+    "USSR",
+    "Moscow"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [
+    "United States"
+   ],
+   "country_base": "Soviet Union",
+   "notes": "Intervened in Afghanistan; seeks access to Indian Ocean"
+  },
+  {
+   "name": "Afghan resistance",
+   "aliases": [
+    "rebels",
+    "Afghanistani resistance"
+   ],
+   "type": "militia",
+   "parent_or_allies": [],
+   "rivals": [
+    "Soviet Union"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Described as badly organized and poorly led, with no sanctuary or central government"
+  },
+  {
+   "name": "United Nations",
+   "aliases": [
+    "UN"
+   ],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Proposed venue to raise Soviet actions as a threat to peace"
+  },
+  {
+   "name": "People's Republic of China",
+   "aliases": [
+    "Chinese",
+    "China"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [
+    "Soviet Union"
+   ],
+   "country_base": "China",
+   "notes": "US encouraged to help rebels"
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Site of Soviet intervention"
+  },
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Hosts 300,000 Afghan refugees; to be reassured and encouraged to help rebels"
+  },
+  {
+   "name": "Iran",
+   "type": "country",
+   "country": "Iran",
+   "parent": "",
+   "significance": "In turmoil; regional crisis"
+  },
+  {
+   "name": "Indian Ocean",
+   "type": "region",
+   "country": "",
+   "parent": "",
+   "significance": "Soviet strategic goal of direct access"
+  },
+  {
+   "name": "Southwest Asia",
+   "type": "region",
+   "country": "",
+   "parent": "",
+   "significance": "Balance of power collapse"
+  },
+  {
+   "name": "Cambodia",
+   "type": "country",
+   "country": "Cambodia",
+   "parent": "",
+   "significance": "Soviet-sponsored actions noted"
+  },
+  {
+   "name": "Washington",
+   "type": "city",
+   "country": "United States",
+   "parent": "",
+   "significance": "Memo origin"
+  }
+ ],
+ "events": [
+  {
+   "date": "1979-12-26",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Brzezinski memo to President on Soviet intervention in Afghanistan, recommending aid to rebels, reassurance of Pakistan, Chinese and Islamic cooperation.",
+   "place": "Washington",
+   "actors": [
+    "Zbigniew Brzezinski",
+    "Jimmy Carter"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1979-12",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Soviet intervention in Afghanistan, described as extremely grave challenge.",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet Union"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1979-12-26",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Brzezinski sends the memorandum 'Reflections on Soviet Intervention in Afghanistan' to President Carter, recommending support for the Afghan rebels, reassurance of Pakistan, and engagement of China and Islamic countries.",
+   "place": "Washington",
+   "actors": [
+    "Zbigniew Brzezinski",
+    "Jimmy Carter"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1979-12",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Soviet military intervention in Afghanistan, prompting a regional crisis alongside turmoil in Iran.",
+   "place": "Afghanistan",
+   "actors": [
+    "Soviet Union"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1979-12-28",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "NSC meeting scheduled for Friday focusing on Afghanistan and Iran, with an agenda to be sent.",
+   "place": "Washington",
+   "actors": [
+    "National Security Council",
+    "Jimmy Carter",
+    "Zbigniew Brzezinski"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1979-12-26",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "Special Coordination Committee meets on Afghanistan and Iran; minutes sent to the President.",
+   "place": "Washington",
+   "actors": [
+    "Special Coordination Committee"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1980",
+   "date_precision": "approx",
+   "type": "travel",
+   "description": "Planned Harold Brown visit to China, whose substance would be influenced by the Soviet intervention.",
+   "place": "People's Republic of China",
+   "actors": [
+    "Harold Brown",
+    "People's Republic of China"
+   ],
+   "timestamp": "p.3"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Zbigniew Brzezinski",
+   "target": "Jimmy Carter",
+   "type": "reports_to",
+   "detail": "Memorandum to the President from his national security adviser.",
+   "date": "1979-12-26",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "MEMORANDUM FOR: THE PRESIDENT FROM: ZBIGNIEW BRZEZINSKI"
+  },
+  {
+   "source": "Afghan resistance",
+   "target": "Soviet Union",
+   "type": "rival_of",
+   "detail": "Resistance opposing Soviet intervention; memo recommends supporting it.",
+   "date": "1979-12",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "It is essential that Afghanistani resistance continues. This means more money as well as arms shipments to the rebels"
+  },
+  {
+   "source": "Afghan resistance",
+   "target": "Pakistan",
+   "type": "hosted_by",
+   "detail": "Memo urges encouraging Pakistan to help the rebels; Pakistan hosts 300,000 refugees.",
+   "date": "1979-12",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "we must both reassure Pakistan and encourage it to help the rebels"
+  },
+  {
+   "source": "Zbigniew Brzezinski",
+   "target": "National Security Council",
+   "type": "member_of",
+   "detail": "Brzezinski is writing from the White House and refers to the upcoming NSC meeting for which he will send an agenda.",
+   "date": "1979-12",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "I will be sending you separately a proposed agenda for the NSC meeting on Friday"
+  },
+  {
+   "source": "Special Coordination Committee",
+   "target": "Jimmy Carter",
+   "type": "reports_to",
+   "detail": "SCC minutes on Afghanistan and Iran are provided to the President.",
+   "date": "1979-12-26",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "you are receiving today's SCC minutes on both subjects."
+  },
+  {
+   "source": "Soviet Union",
+   "target": "Afghanistan",
+   "type": "other",
+   "detail": "The Soviet Union intervened militarily in Afghanistan, which the memo says could become a Soviet Vietnam.",
+   "date": "1979-12",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "the Soviet intervention in Afghanistan poses for us an extremely grave challenge"
+  },
+  {
+   "source": "Soviet Union",
+   "target": "Indian Ocean",
+   "type": "other",
+   "detail": "Moscow's age-long dream of direct access to the Indian Ocean would be fulfilled if the Soviets succeed in Afghanistan and Pakistan acquiesces.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "the age-long dream of Moscow to have direct access to the Indian Ocean will have been fulfilled."
+  },
+  {
+   "source": "Pakistan",
+   "target": "Soviet Union",
+   "type": "other",
+   "detail": "Pakistan could be intimidated and acquiesce to Soviet domination unless the US projects confidence and power.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Pakistan, unless we somehow manage to project both confidence and power into the region, is likely to be intimidated"
+  },
+  {
+   "source": "Soviet Union",
+   "target": "Cambodia",
+   "type": "other",
+   "detail": "Soviet-sponsored actions in Cambodia are noted alongside Afghanistan as unrestrained assertiveness; they have taken a toll.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Soviet-sponsored actions in Cambodia have alreaiy taken their toll as well."
+  },
+  {
+   "source": "People's Republic of China",
+   "target": "Soviet Union",
+   "type": "rival_of",
+   "detail": "The Chinese will note Soviet assertiveness in Afghanistan and Cambodia and are concerned by Soviet activity near their border.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "the Chinese are doubtless going to be most concerned about implications for themselves of such Soviet assertiveness so close to their border."
+  },
+  {
+   "source": "Afghan resistance",
+   "target": "Pakistan",
+   "type": "sheltered_by",
+   "detail": "Some 300,000 Afghan refugees are already in Pakistan; Pakistan is to be encouraged to help the rebels.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "There are already 300,000 refugees from Afghanistan in Pakistan"
+  },
+  {
+   "source": "Afghan resistance",
+   "target": "Pakistan",
+   "type": "hosted_by",
+   "detail": "Brzezinski recommends encouraging Pakistan to help the rebels, implying a support role.",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "we must both reassure Pakistan and encourage it to help the rebels."
+  },
+  {
+   "source": "Afghan resistance",
+   "target": "White House",
+   "type": "funded_by",
+   "detail": "Brzezinski recommends more money, arms shipments and technical advice to the rebels from the US.",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "This means more money as well as arms shipments to the rebels, and some technical advice"
+  },
+  {
+   "source": "Afghan resistance",
+   "target": "People's Republic of China",
+   "type": "funded_by",
+   "detail": "Recommends encouraging the Chinese to help the rebels.",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "We should encourage the Chinese to help the rebels also;"
+  },
+  {
+   "source": "White House",
+   "target": "Pakistan",
+   "type": "allied_with",
+   "detail": "Proposes more guarantees and more arms aid to Pakistan, putting security policy above nonproliferation.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "more guarantees to it, more arms aid, and, alas, a decision that our security policy toward Pakistan cannot be dictated by our nonproliferation policy"
+  },
+  {
+   "source": "Harold Brown",
+   "target": "People's Republic of China",
+   "type": "met_with",
+   "detail": "A planned Brown visit to China is referenced as being influenced by the Soviet action.",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "will also influence the substance of the Brown visit to China"
+  },
+  {
+   "source": "White House",
+   "target": "United Nations",
+   "type": "other",
+   "detail": "Proposes taking Soviet actions in Afghanistan to the UN as a threat to peace.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "we should consider taking Soviet actions in Afghanistan to the UN as a threat to peace."
+  },
+  {
+   "source": "Afghan resistance",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "The rebels are in Afghanistan, described as badly organized and poorly led, with no sanctuary.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "They have no sanctuary, no organized army, and no central government"
+  }
+ ],
+ "sources_cited": [
+  "SCC minutes of 26 December 1979"
+ ],
+ "key_claims": [
+  "Brzezinski framed the Soviet intervention as a regional crisis that could give Moscow access to the Indian Ocean.",
+  "He judged Afghanistan might become a Soviet Vietnam but cautioned the resistance was badly organized, lacked sanctuary and had limited foreign support.",
+  "He recommended more money, arms and technical advice for the Afghan rebels.",
+  "He urged reassuring Pakistan with guarantees and arms aid even at the expense of nonproliferation policy.",
+  "He proposed encouraging China and Islamic countries to help the rebels, including covert action and propaganda campaigns.",
+  "He recommended warning the Soviets that SALT was at risk and raising the intervention at the UN."
+ ]
+}

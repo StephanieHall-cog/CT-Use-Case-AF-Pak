@@ -1,0 +1,436 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb134-2000-09-19-islamabad-05779-related-cable-on-taliban-request-f",
+  "title": "Islamabad 05779 (related cable on Taliban request for follow-up meeting)",
+  "authors": "U.S. Embassy Islamabad",
+  "publisher": "National Security Archive (GWU), Mullah Omar Called Washington in 1998, New Documents Show",
+  "published": "2000-09-19",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB134/ISLAMA%2005779.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB134/index.htm",
+  "pages": 5,
+  "kind": "cable",
+  "note": "Also dated 19 Sept 2000, it reiterates that a Taliban official who met Ambassador Milam that day requests a follow-up meeting with U.S. officials around 30 September, probably in Frankfurt.",
+  "collection": "NSAEBB134",
+  "doc_number": null,
+  "relevance": "high",
+  "ocr": 5
+ },
+ "persons": [
+  {
+   "name": "William B. Milam",
+   "aliases": [
+    "Ambassador Milam"
+   ],
+   "role": "U.S. Ambassador to Pakistan",
+   "organizations": [
+    "U.S. Department of State"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Islamabad"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "CLASSIFIED BY AMBASSADOR WILLIAM B. MILAM."
+    },
+    {
+     "timestamp": "p.3",
+     "quote": "AMBASSADOR WARNED[ ]THAT THE U.S. HAD SEEN THIS KIND OF PLOY BY THE TALIBAN BEFORE"
+    }
+   ]
+  },
+  {
+   "name": "Mullah Omar",
+   "aliases": [
+    "Mullah Mohammad Omar",
+    "Omar"
+   ],
+   "role": "Taliban leader, issuer of the poppy cultivation ban",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Kandahar"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "IMPLEMENT MULLAH OMAR'S POPPY CULTIVATION BAN."
+    }
+   ]
+  },
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "UBL",
+    "Bin Ladin"
+   ],
+   "role": "al-Qa'ida leader sheltered in Afghanistan; subject of Taliban policy",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "THE TALIBAN MIGHT CONTINUE TO DEFEND UBL PUBLICLY, BUT WOULD NO LONGER DO SO IN PRIVATE."
+    },
+    {
+     "timestamp": "p.2",
+     "quote": "BE MORE SPECIFIC ABOUT TALIBAN PLANS FOR BIN LADIN."
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Taliban",
+   "aliases": [
+    "Taleban"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Emissary sought follow-up meeting with US officials; promised to burn poppy processing labs; may be reassessing bin Ladin policy."
+  },
+  {
+   "name": "al-Qa'ida",
+   "aliases": [
+    "al-Qaeda"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Bin Ladin's group; Taliban policy toward him is the subject of the cable."
+  },
+  {
+   "name": "U.S. Embassy Islamabad",
+   "aliases": [
+    "AMEMBASSY ISLAMABAD"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "U.S. Department of State"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Author of cable."
+  },
+  {
+   "name": "U.S. Department of State",
+   "aliases": [
+    "SECSTATE",
+    "SA/PAB",
+    "S/CT"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Recipient; SA/PAB expected to arrange meeting details."
+  },
+  {
+   "name": "United Nations",
+   "aliases": [
+    "UN"
+   ],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Ambassador suggested UN neutral observers for poppy lab destruction."
+  }
+ ],
+ "places": [
+  {
+   "name": "Frankfurt",
+   "type": "city",
+   "country": "Germany",
+   "parent": "Germany",
+   "significance": "Preferred venue for follow-up meeting around 30 Sep 2000."
+  },
+  {
+   "name": "Dubai",
+   "type": "city",
+   "country": "United Arab Emirates",
+   "parent": "United Arab Emirates",
+   "significance": "Alternative venue for business meeting."
+  },
+  {
+   "name": "Kandahar",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Kandahar",
+   "significance": "Taliban emissary departed for Kandahar."
+  },
+  {
+   "name": "Quetta",
+   "type": "city",
+   "country": "Pakistan",
+   "parent": "Balochistan",
+   "significance": "Route by road to Kandahar."
+  },
+  {
+   "name": "Islamabad",
+   "type": "city",
+   "country": "Pakistan",
+   "parent": "Pakistan",
+   "significance": "Location of US Embassy and meeting with Ambassador."
+  }
+ ],
+ "events": [
+  {
+   "date": "2000-09-17",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "Taliban emissary met the U.S. Ambassador (ref. Islamabad 5749).",
+   "place": "Islamabad",
+   "actors": [
+    "William B. Milam",
+    "Taliban"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "2000-09-19",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "Intermediary met Ambassador and relayed Taliban request for follow-up meeting and poppy lab burning pledge.",
+   "place": "Islamabad",
+   "actors": [
+    "William B. Milam",
+    "Taliban"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2000-09-30",
+   "date_precision": "approx",
+   "type": "meeting",
+   "description": "Proposed follow-up meeting with US officials, probably in Frankfurt, alongside Taliban power minister meeting with investors.",
+   "place": "Frankfurt",
+   "actors": [
+    "Taliban",
+    "U.S. Department of State"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2000-09-17",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "Ambassador Milam met a Taliban interlocutor (ref Islamabad 5749); Taliban failed to defend bin Ladin.",
+   "place": "Islamabad",
+   "actors": [
+    "William B. Milam",
+    "Taliban",
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "2000-09-19",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "A contact met the Ambassador and reported the Taliban interlocutor had departed for Kandahar via Quetta.",
+   "place": "Islamabad",
+   "actors": [
+    "William B. Milam",
+    "Taliban"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2000-09-19",
+   "date_precision": "day",
+   "type": "travel",
+   "description": "Taliban interlocutor departed for Kandahar via Quetta, then by road.",
+   "place": "Quetta",
+   "actors": [
+    "Taliban"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "2000-09-30",
+   "date_precision": "approx",
+   "type": "meeting",
+   "description": "Proposed follow-up meeting with U.S. officials and a Taliban business meeting in Frankfurt or Dubai; Taliban Minister for Power and Electricity to meet investors.",
+   "place": "Frankfurt",
+   "actors": [
+    "Taliban",
+    "U.S. Department of State",
+    "William B. Milam"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "2000-09-19",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Taliban promised to burn poppy processing labs; Ambassador warned of past ruses and recommended UN/independent observers.",
+   "place": "Islamabad",
+   "actors": [
+    "Taliban",
+    "William B. Milam",
+    "Mullah Omar",
+    "United Nations"
+   ],
+   "timestamp": "p.3"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Taliban",
+   "target": "Usama bin Ladin",
+   "type": "other",
+   "detail": "Taliban may defend UBL publicly but reportedly no longer in private; reassessing policy.",
+   "date": "2000-09",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "THE TALIBAN MIGHT CONTINUE TO DEFEND UBL PUBLICLY, BUT WOULD NO LONGER DO SO IN PRIVATE."
+  },
+  {
+   "source": "Taliban",
+   "target": "William B. Milam",
+   "type": "met_with",
+   "detail": "Taliban emissary met the Ambassador on 17 September 2000.",
+   "date": "2000-09-17",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "BEEN VERY PLEASED WITH HIS SEPTEMBER 17 MEETING WITH THE AMBASSADOR (REF)"
+  },
+  {
+   "source": "Taliban",
+   "target": "Mullah Omar",
+   "type": "reports_to",
+   "detail": "Taliban to burn labs to implement Omar's poppy ban.",
+   "date": "2000-09",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "IMPLEMENT MULLAH OMAR'S POPPY CULTIVATION BAN."
+  },
+  {
+   "source": "Taliban",
+   "target": "U.S. Embassy Islamabad",
+   "type": "negotiated_with",
+   "detail": "A Taliban-linked contact sought a follow-up meeting with U.S. officials after a prior meeting with the Ambassador.",
+   "date": "2000-09",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "WANTS A FOLLOW-UP MEETING WITH U.S. OFFICIALS ON OR ABOUT SEPTEMBER 30, PROBABLY IN FRANKFURT."
+  },
+  {
+   "source": "William B. Milam",
+   "target": "Taliban",
+   "type": "met_with",
+   "detail": "The Ambassador met a Taliban interlocutor on September 17 (ref cable).",
+   "date": "2000-09-17",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "BEEN VERY PLEASED WITH HIS SEPTEMBER 17 MEETING WITH THE AMBASSADOR (REF)"
+  },
+  {
+   "source": "William B. Milam",
+   "target": "U.S. Embassy Islamabad",
+   "type": "member_of",
+   "detail": "Milam was the Ambassador and classified/signed the cable from the Embassy.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "CLASSIFIED BY AMBASSADOR WILLIAM B. MILAM."
+  },
+  {
+   "source": "U.S. Embassy Islamabad",
+   "target": "U.S. Department of State",
+   "type": "reports_to",
+   "detail": "The Embassy cabled SECSTATE WASHDC with its report.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "FM AMEMBASSY ISLAMABAD TO SECSTATE WASHDC IMMEDIATE"
+  },
+  {
+   "source": "Taliban",
+   "target": "Mullah Omar",
+   "type": "reports_to",
+   "detail": "Taliban pledged to burn labs to implement Omar's poppy cultivation ban.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "THE TALIBAN WOULD BURN POPPY PROCESSING LABORATORIES IN ORDER TO IMPLEMENT MULLAH OMAR'S POPPY CULTIVATION BAN."
+  },
+  {
+   "source": "Mullah Omar",
+   "target": "Taliban",
+   "type": "leads",
+   "detail": "Omar's ban is implemented by the Taliban, implying leadership.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "IMPLEMENT MULLAH OMAR'S POPPY CULTIVATION BAN"
+  },
+  {
+   "source": "Taliban",
+   "target": "Usama bin Ladin",
+   "type": "allied_with",
+   "detail": "Taliban publicly defended bin Ladin but would reportedly no longer do so privately.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "THE TALIBAN MIGHT CONTINUE TO DEFEND UBL PUBLICLY, BUT WOULD NO LONGER DO SO IN PRIVATE."
+  },
+  {
+   "source": "Taliban",
+   "target": "Usama bin Ladin",
+   "type": "sheltered_by",
+   "detail": "Taliban plans regarding bin Ladin were to be specified in a follow-up meeting.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "BE ABLE TO BE MORE SPECIFIC ABOUT TALIBAN PLANS FOR BIN LADIN."
+  },
+  {
+   "source": "Taliban",
+   "target": "United Nations",
+   "type": "other",
+   "detail": "Ambassador recommended UN observers verify the Taliban poppy lab burning.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "THE TALIBAN MUST HAVE NEUTRAL OBSERVERS FROM THE UN, WESTERN DIPLOMATIC MISSIONS"
+  },
+  {
+   "source": "Taliban",
+   "target": "Kandahar",
+   "type": "located_in",
+   "detail": "Taliban contact traveled to Kandahar via Quetta by road.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "FOR KANDAHAR THE MORNING OF SEPTEMBER"
+  }
+ ],
+ "sources_cited": [
+  "ISLAMABAD 5749"
+ ],
+ "key_claims": [
+  "A Taliban emissary requested a follow-up meeting with U.S. officials around 30 September 2000, probably in Frankfurt.",
+  "The Taliban reportedly would no longer defend bin Ladin in private, though possibly still publicly.",
+  "The Taliban promised to burn poppy processing laboratories to show commitment to Mullah Omar's poppy ban.",
+  "The Ambassador warned the lab burning could be a ruse and demanded neutral verifiable observers.",
+  "The embassy suggested the Taliban might be playing games to avoid sanctions but could be reassessing bin Ladin policy, and recommended a positive response."
+ ]
+}

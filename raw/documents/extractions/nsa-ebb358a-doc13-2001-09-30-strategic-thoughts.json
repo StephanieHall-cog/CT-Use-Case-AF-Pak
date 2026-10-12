@@ -1,0 +1,473 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb358a-doc13-2001-09-30-strategic-thoughts",
+  "title": "Strategic Thoughts",
+  "authors": "Office of the Secretary of Defense (Rumsfeld)",
+  "publisher": "National Security Archive (GWU), New Documents Detail America's Strategic Response to 9/11",
+  "published": "2001-09-30",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB358a/doc13.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB358a/index.htm",
+  "pages": 2,
+  "kind": "memo",
+  "note": "[Top Secret/Close Hold] Rumsfeld advises President Bush to think beyond al-Qaeda in Afghanistan, favoring equip-and-train efforts with local opposition forces and humanitarian aid over aerial strikes. He argues the war must 'significantly change the world's political map', with new regimes in Afghanistan and another state that supports terrorism.",
+  "collection": "NSAEBB358a",
+  "doc_number": "Document 13",
+  "relevance": "medium",
+  "ocr": 0
+ },
+ "persons": [
+  {
+   "name": "Donald Rumsfeld",
+   "aliases": [
+    "Donald H. Rumsfeld"
+   ],
+   "role": "US Secretary of Defense; author of the 30 Sep 2001 memorandum to the President",
+   "organizations": [
+    "US Department of Defense"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Washington, DC"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "MEMORANDUM FOR THE PRESIDENT SUBJECT: Strategic Thoughts"
+    }
+   ]
+  },
+  {
+   "name": "Colin Powell",
+   "aliases": [
+    "Mr. Powell"
+   ],
+   "role": "US Secretary of State (inferred), copied on the memo",
+   "organizations": [
+    "US Government"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "Mr. Powell"
+    }
+   ]
+  },
+  {
+   "name": "George Tenet",
+   "aliases": [
+    "Mr. Tenet"
+   ],
+   "role": "Director of Central Intelligence (inferred), copied on the memo",
+   "organizations": [
+    "Central Intelligence Agency"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "Mr. Tenet"
+    }
+   ]
+  },
+  {
+   "name": "Condoleezza Rice",
+   "aliases": [
+    "Ms. Rice"
+   ],
+   "role": "National Security Advisor (inferred), copied on the memo",
+   "organizations": [
+    "US Government"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "Ms. Rice"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "US Department of Defense",
+   "aliases": [
+    "Office of the Secretary of Defense",
+    "The Pentagon"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "US Government"
+   ],
+   "rivals": [
+    "Al-Qa'ida",
+    "Taliban"
+   ],
+   "country_base": "United States",
+   "notes": "The memo is on letterhead of the Secretary of Defense, 1000 Defense Pentagon, Washington DC."
+  },
+  {
+   "name": "Al-Qa'ida",
+   "aliases": [
+    "Al-Qaeda",
+    "Al-Qaida"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [
+    "US Department of Defense"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "The memo calls it a target for air strikes. It argues that action should not be aimed only at al-Qa'ida in Afghanistan."
+  },
+  {
+   "name": "Taliban",
+   "aliases": [],
+   "type": "political movement",
+   "parent_or_allies": [
+    "Al-Qa'ida"
+   ],
+   "rivals": [
+    "US Department of Defense"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "The memo says strikes on al-Qaida and Taliban targets are planned to begin soon."
+  },
+  {
+   "name": "US Special Operations Forces",
+   "aliases": [],
+   "type": "military",
+   "parent_or_allies": [
+    "US Department of Defense"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "The memo says they should make allies of local peoples and provide equipment, training and support."
+  },
+  {
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Implied by the cc to Mr. Tenet and by the reference to intelligence personnel."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Main expected target of US strikes, and the location of al-Qaida and the Taliban. The memo calls for a new regime there."
+  },
+  {
+   "name": "Iraq",
+   "type": "country",
+   "country": "Iraq",
+   "parent": "",
+   "significance": "Named as a place where the US should ally with local peoples against terrorists and regimes that support them."
+  },
+  {
+   "name": "Lebanon",
+   "type": "country",
+   "country": "Lebanon",
+   "parent": "",
+   "significance": "Named among the places where the US should ally with locals. The memo also calls for Syria to leave Lebanon."
+  },
+  {
+   "name": "Sudan",
+   "type": "country",
+   "country": "Sudan",
+   "parent": "",
+   "significance": "Named among the places where the US should ally with local peoples."
+  },
+  {
+   "name": "Syria",
+   "type": "country",
+   "country": "Syria",
+   "parent": "",
+   "significance": "The memo's desired end state includes Syria out of Lebanon."
+  },
+  {
+   "name": "Washington, DC",
+   "type": "city",
+   "country": "United States",
+   "parent": "United States",
+   "significance": "Location of the Pentagon, where the memo was written."
+  }
+ ],
+ "events": [
+  {
+   "date": "2001-09-11",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "The 11 September attacks on the US, cited as the reason regimes should see that hosting terrorists is fatal.",
+   "place": "United States",
+   "actors": [
+    "Al-Qa'ida"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "2001-09-30",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Rumsfeld sends the 'Strategic Thoughts' memorandum to the President. It proposes indirect action through local opposition forces and care over initial air strikes. It also proposes aiming to change regimes that support terrorism.",
+   "place": "Washington, DC",
+   "actors": [
+    "Donald Rumsfeld",
+    "US Department of Defense"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-09-30",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Rumsfeld sends memorandum 'Strategic Thoughts' to the President proposing indirect action via local opposition forces, equip-and-train activities and limited initial air strikes.",
+   "place": "Washington, DC",
+   "actors": [
+    "Donald Rumsfeld",
+    "US Department of Defense"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-09",
+   "date_precision": "month",
+   "type": "strike",
+   "description": "Air strikes against Al-Qaida and Taliban targets are planned to begin soon, per memo.",
+   "place": "Afghanistan",
+   "actors": [
+    "US Department of Defense",
+    "Al-Qa'ida",
+    "Taliban"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-09-11",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "September 11 attacks on the US, referenced as the basis for the war aim.",
+   "place": "",
+   "actors": [
+    "Al-Qa'ida"
+   ],
+   "timestamp": "p.2"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Donald Rumsfeld",
+   "target": "US Department of Defense",
+   "type": "leads",
+   "detail": "Rumsfeld writes as Secretary of Defense on Pentagon letterhead.",
+   "date": "2001-09-30",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "1000 DEFENSE PENTAGON WASHINGTON. DC 20301-1000"
+  },
+  {
+   "source": "Donald Rumsfeld",
+   "target": "Colin Powell",
+   "type": "other",
+   "detail": "Powell is copied on the memo.",
+   "date": "2001-09-30",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Mr. Powell"
+  },
+  {
+   "source": "Donald Rumsfeld",
+   "target": "George Tenet",
+   "type": "other",
+   "detail": "Tenet is copied on the memo.",
+   "date": "2001-09-30",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Mr. Tenet"
+  },
+  {
+   "source": "Donald Rumsfeld",
+   "target": "Condoleezza Rice",
+   "type": "other",
+   "detail": "Rice is copied on the memo.",
+   "date": "2001-09-30",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Ms. Rice"
+  },
+  {
+   "source": "Taliban",
+   "target": "Al-Qa'ida",
+   "type": "allied_with",
+   "detail": "The memo pairs al-Qaida and Taliban as the targets of planned strikes.",
+   "date": "2001-09",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "A1-Qaida and other targets"
+  },
+  {
+   "source": "US Special Operations Forces",
+   "target": "US Department of Defense",
+   "type": "member_of",
+   "detail": "The memo proposes these forces and intelligence personnel make allies of local peoples.",
+   "date": "2001-09-30",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "U.S. Special Operations Forces and intelligence personnel shouldmake allieS"
+  },
+  {
+   "source": "US Special Operations Forces",
+   "target": "Afghanistan",
+   "type": "other",
+   "detail": "Memo proposes SOF and intelligence personnel make allies of Afghans and use US equipment, training and support against common enemies.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "U.S. Special Operations Forces and intelligence personnel should make allies of Afghans, Iraqis, Lebanese, Sudanese and others"
+  },
+  {
+   "source": "US Special Operations Forces",
+   "target": "Iraq",
+   "type": "other",
+   "detail": "Memo proposes SOF to ally with Iraqis against common enemies.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "make allies of Afghans, Iraqis, Lebanese, Sudanese and others who would use U.S. equipment, training, financial, military and humanitarian support"
+  },
+  {
+   "source": "US Special Operations Forces",
+   "target": "Lebanon",
+   "type": "other",
+   "detail": "Memo proposes SOF to ally with Lebanese against common enemies.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "make allies of Afghans, Iraqis, Lebanese, Sudanese and others"
+  },
+  {
+   "source": "US Special Operations Forces",
+   "target": "Sudan",
+   "type": "other",
+   "detail": "Memo proposes SOF to ally with Sudanese against common enemies.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "make allies of Afghans, Iraqis, Lebanese, Sudanese and others"
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "US Special Operations Forces",
+   "type": "allied_with",
+   "detail": "Intelligence personnel and SOF are jointly tasked to build local alliances.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "U.S. Special Operations Forces and intelligence personnel should make allies"
+  },
+  {
+   "source": "Al-Qa'ida",
+   "target": "Taliban",
+   "type": "allied_with",
+   "detail": "Memo pairs Al-Qaida and Taliban targets for strikes planned to begin soon.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Some air strikes against Al-Qaida and Taliban targets are planned to begin soon."
+  },
+  {
+   "source": "Al-Qa'ida",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Public expects US to strike Al-Qaida in Afghanistan.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "widely assumed that U.S. will strike soon and exclusively at Al-Qaida in Afghanistan."
+  },
+  {
+   "source": "Taliban",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Taliban targets in Afghanistan are slated for air strikes; new regime sought in Afghanistan.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "New regimes in Afghanistan and another key State (or two) that support terrorism"
+  },
+  {
+   "source": "Syria",
+   "target": "Lebanon",
+   "type": "other",
+   "detail": "Memo lists getting Syria out of Lebanon as a war-related aim.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Syria out of Lebanon."
+  },
+  {
+   "source": "Donald Rumsfeld",
+   "target": "Colin Powell",
+   "type": "other",
+   "detail": "Powell is copied on the memo.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "cc: Vice President Mr. Powell Mr. Tenet Ms. Rice"
+  },
+  {
+   "source": "Donald Rumsfeld",
+   "target": "George Tenet",
+   "type": "other",
+   "detail": "Tenet is copied on the memo.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Mr. Powell Mr. Tenet Ms. Rice"
+  },
+  {
+   "source": "Donald Rumsfeld",
+   "target": "Condoleezza Rice",
+   "type": "other",
+   "detail": "Rice is copied on the memo.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Mr. Tenet Ms. Rice"
+  },
+  {
+   "source": "George Tenet",
+   "target": "Central Intelligence Agency",
+   "type": "leads",
+   "detail": "Tenet, copied as addressee, is DCI; inferred from context.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "Mr. Tenet"
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "The memo proposes that US action in the initial period be indirect, working through local non-US forces and opposition groups, rather than direct aerial attack.",
+  "Initial air strikes should be restrained until intelligence allows worthwhile strikes on al-Qaida and other targets, ideally coordinated to support the opposition.",
+  "The US should avoid images of Americans killing Muslims and instead present the targets as enemies of Muslims themselves.",
+  "A key war aim is to persuade or compel states to stop supporting terrorism, and to threaten their regimes by partnering with their opponents.",
+  "The memo envisions new regimes in Afghanistan and one or two other states that support terrorism, plus Syria out of Lebanon and the end of WMD programmes.",
+  "The memo notes that public expectations assume an immediate US strike exclusively on al-Qaida in Afghanistan, and argues it would be more impressive to build forces patiently and act elsewhere first."
+ ]
+}

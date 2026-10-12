@@ -1,0 +1,186 @@
+{
+ "document": {
+  "doc_id": "nsa-2021-rumsfeld-snowflakes-doc28-2002-10-01-handwritten-notes-from-interview-with-a-detainee-s",
+  "title": "Handwritten notes from interview with a detainee sent to Feith",
+  "authors": "Donald Rumsfeld, Secretary of Defense",
+  "publisher": "National Security Archive (GWU), Rumsfeld Lacked Intel on Who The Enemies Were Two Years After Afghanistan Invasion, Newly Published \"Snowflakes\" Show | National Security Archive",
+  "published": "2002-10-01",
+  "url": "https://nsarchive.gwu.edu/documents/rumsfeld-lacked-intel-who-enemies-two-years-after-afghanistan-invasion-newly-published-snowflakes/28.pdf",
+  "source_page": "https://nsarchive.gwu.edu/briefing-book/foia/2021-02-01/rumsfeld-lacked-intel-who-enemies-two-years-after-afghanistan-invasion-newly-published-snowflakes",
+  "pages": 1,
+  "kind": "memo",
+  "note": "Rumsfeld sends handwritten notes from an interview with a detainee to Feith.",
+  "collection": "new-rumsfeld-snowflakes",
+  "doc_number": "Document 28",
+  "relevance": "medium",
+  "ocr": 1
+ },
+ "persons": [
+  {
+   "name": "Donald Rumsfeld",
+   "aliases": [
+    "Donald H. Rumsfeld",
+    "DHR"
+   ],
+   "role": "US Secretary of Defense; author of the memo to Doug Feith (17 Aug 2002)",
+   "organizations": [
+    "US Department of Defense"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "FROM: Donald Rumsfeld TR"
+    }
+   ]
+  },
+  {
+   "name": "Doug Feith",
+   "aliases": [
+    "Douglas Feith"
+   ],
+   "role": "Recipient of the memo; senior Defense Department official (Under Secretary of Defense for Policy)",
+   "organizations": [
+    "US Department of Defense"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "TO: Doug Feith"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "US Department of Defense",
+   "aliases": [
+    "OSD",
+    "Pentagon"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Memo bears the Office of the Secretary of Defense release stamp 11-L-0559/OSD/6196."
+  }
+ ],
+ "places": [
+  {
+   "name": "Europe",
+   "type": "region",
+   "country": "",
+   "parent": "",
+   "significance": "The memo argues that US-European cooperation would improve efforts against proliferation and WMD."
+  },
+  {
+   "name": "France",
+   "type": "country",
+   "country": "France",
+   "parent": "Europe",
+   "significance": "Memo says Europe, under French lead, seems to position itself away from the US."
+  },
+  {
+   "name": "Iraq",
+   "type": "country",
+   "country": "Iraq",
+   "parent": "",
+   "significance": "Cited as a state toward which Europe seems to position itself."
+  },
+  {
+   "name": "China",
+   "type": "country",
+   "country": "China",
+   "parent": "",
+   "significance": "Cited as a state toward which Europe seems to position itself."
+  }
+ ],
+ "events": [
+  {
+   "date": "2002-08-17",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Rumsfeld sends memo 'Working with Europe' to Doug Feith on US-European cooperation against proliferation and WMD.",
+   "place": "",
+   "actors": [
+    "Donald Rumsfeld",
+    "Doug Feith"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2002-08-17",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Donald Rumsfeld sends memo to Doug Feith, 'Working with Europe', on U.S.-Europe cooperation on proliferation and WMD, criticizing France-led European positioning toward Iraq and China, and asks to discuss it.",
+   "place": "",
+   "actors": [
+    "Donald Rumsfeld",
+    "Doug Feith",
+    "France",
+    "Europe"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Donald Rumsfeld",
+   "target": "Doug Feith",
+   "type": "other",
+   "detail": "Rumsfeld sent Feith a memo on working with Europe and asked for a response.",
+   "date": "2002-08-17",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "TO: Doug Feith FROM: Donald Rumsfeld TR SUBJECT: Working with Europe"
+  },
+  {
+   "source": "France",
+   "target": "Europe",
+   "type": "leads",
+   "detail": "Rumsfeld says Europe is under the lead of France in positioning away from the U.S.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Europe, under the lead of France, seems often to want to be positioned away from us"
+  },
+  {
+   "source": "Europe",
+   "target": "Iraq",
+   "type": "other",
+   "detail": "Rumsfeld says Europe often seems to position itself toward Iraq, away from the U.S.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "seems often to want to be positioned away from us and toward an Iraq, a China etc."
+  },
+  {
+   "source": "Europe",
+   "target": "China",
+   "type": "other",
+   "detail": "Rumsfeld says Europe often seems to position itself toward China, away from the U.S.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "seems often to want to be positioned away from us and toward an Iraq, a China etc."
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "The memo, despite the title of the document, contains no information on detainees, jihadist networks or Afghanistan; it concerns US-Europe relations.",
+  "Rumsfeld argues that US-Western European cooperation could reduce proliferation and WMD and promote stability.",
+  "Rumsfeld says Europe, led by France, often positions itself away from the US and toward states such as Iraq and China.",
+  "Rumsfeld warns that weaker cooperation increases the risk that the US will have to use kinetic activity rather than diplomacy."
+ ]
+}

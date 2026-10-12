@@ -1,0 +1,251 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc21-1997-04-30-terrorism-usama-bin-ladin-s-activities-in-somalia",
+  "title": "Terrorism: Usama Bin Ladin's Activities in Somalia and Sudanese NIF Support",
+  "authors": "CIA",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "1997-04-30",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7x7g-tbo1k/1997-04-30-terrorism-usama-bin-ladins-activities.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 3,
+  "kind": "intelligence report",
+  "note": "CIA Intelligence Report on bin Ladin's activities in Somalia and Sudanese NIF support. Source: 9/11 Commission Report, Chapter 2, Endnote 45; Chapter 4, Endnote 3.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 21",
+  "relevance": "high",
+  "ocr": 1
+ },
+ "persons": [
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Osama Bin Ladin"
+   ],
+   "role": "Subject of the report; linked to activities in Somalia and to support from Sudan's NIF",
+   "organizations": [
+    "Islamic Army"
+   ],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Somalia",
+    "Sudan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "TERRORISM: OSAMA BIN LADIN'S ACTIVITIES IN SOMALIA AND SUDANESE NIF SUPPORT"
+    },
+    {
+     "timestamp": "p.3",
+     "quote": "BIN LADIN RAD"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Islamic Army",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "National Islamic Front (NIF)"
+   ],
+   "rivals": [
+    "United States"
+   ],
+   "country_base": "",
+   "notes": "The text says its members were sent to Somalia, with NIF knowledge and encouragement, to kill U.S. troops. The document is heavily redacted and the OCR is garbled, so the group's exact link to bin Ladin is unclear."
+  },
+  {
+   "name": "National Islamic Front (NIF)",
+   "aliases": [
+    "NIF",
+    "Sudanese NIF"
+   ],
+   "type": "political movement",
+   "parent_or_allies": [
+    "Islamic Army"
+   ],
+   "rivals": [
+    "United States"
+   ],
+   "country_base": "Sudan",
+   "notes": "Sudan's ruling Islamist movement. The report says it knew of and encouraged Islamic Army deployments to Somalia."
+  },
+  {
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Originator of the information report, which was distributed on 30 April 1997 to many US agencies."
+  },
+  {
+   "name": "United States",
+   "aliases": [
+    "U.S."
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [
+    "Islamic Army"
+   ],
+   "country_base": "United States",
+   "notes": "Its troops and personnel were the targets of Islamic Army activity in Somalia."
+  }
+ ],
+ "places": [
+  {
+   "name": "Somalia",
+   "type": "country",
+   "country": "Somalia",
+   "parent": "",
+   "significance": "Where Islamic Army members were sent to fight US forces and undermine the US mission."
+  },
+  {
+   "name": "Sudan",
+   "type": "country",
+   "country": "Sudan",
+   "parent": "",
+   "significance": "Base of the NIF, which supported the Islamic Army's travel to Somalia."
+  }
+ ],
+ "events": [
+  {
+   "date": "1997-04-30",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA information report on bin Ladin's activities in Somalia and NIF support, distributed to US agencies",
+   "place": "",
+   "actors": [
+    "Central Intelligence Agency"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "",
+   "date_precision": "approx",
+   "type": "travel",
+   "description": "Islamic Army members were sent to Somalia, with the NIF's knowledge and encouragement, to kill US troops, incite violence against US personnel and undermine the US mission.",
+   "place": "Somalia",
+   "actors": [
+    "Islamic Army",
+    "National Islamic Front (NIF)"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "approx 1993",
+   "date_precision": "approx",
+   "type": "travel",
+   "detail": "",
+   "description": "Islamic Army members were sent to Somalia, with NIF knowledge and encouragement, to kill U.S. troops, incite violence against U.S. personnel and undermine the U.S. mission (date not in chunk; inferred from the U.S. mission in Somalia).",
+   "place": "Somalia",
+   "actors": [
+    "Islamic Army",
+    "National Islamic Front (NIF)",
+    "United States"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1997-04-30",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA information report issued on Bin Ladin's activities in Somalia and Sudanese NIF support.",
+   "place": "",
+   "actors": [
+    "Central Intelligence Agency",
+    "Usama bin Ladin",
+    "National Islamic Front (NIF)"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Islamic Army",
+   "target": "National Islamic Front (NIF)",
+   "type": "allied_with",
+   "detail": "Islamic Army members were sent to Somalia with NIF knowledge and encouragement.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "ISLAMIC ARMY MEMBERS WERE SENT TO SOMALIA, WITH .THE NIF' S KNOWLEDGE AND ENCOURAGEMENT"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Islamic Army",
+   "type": "other",
+   "detail": "The report ties bin Ladin to Islamic Army activity in Somalia. The text is garbled, so the exact relationship is unclear.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "BIN LADIN RAD"
+  },
+  {
+   "source": "Islamic Army",
+   "target": "United States",
+   "type": "rival_of",
+   "detail": "The Islamic Army fought against the United States in Somalia; the report says it was assisted in that fight (assisting party is garbled in the text).",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "ISLAMIC ARMY IN THE FIGHT AGAINST THE UNITED STATES IN SOMALTA."
+  },
+  {
+   "source": "Islamic Army",
+   "target": "Somalia",
+   "type": "located_in",
+   "detail": "Islamic Army members were sent to operate in Somalia.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "ISLAMIC ARMY MEMBERS WERE SENT TO SOMALIA"
+  },
+  {
+   "source": "National Islamic Front (NIF)",
+   "target": "Islamic Army",
+   "type": "other",
+   "detail": "The NIF knew of and encouraged the deployment of Islamic Army members to Somalia to kill U.S. troops.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "SENT TO SOMALIA, WITH .THE NIF' S KNOWLEDGE AND ENCOURAGEMENT, IN ORDER TO KILL U.S. .TROOPS"
+  },
+  {
+   "source": "National Islamic Front (NIF)",
+   "target": "Sudan",
+   "type": "located_in",
+   "detail": "The report treats the NIF as the Sudanese ruling front (title: Sudanese NIF Support).",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "ACTIVITIES IN SOMALIA AND SUDANESE NIF SUPPORT"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Somalia",
+   "type": "other",
+   "detail": "The report concerns Bin Ladin's activities in Somalia.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "OSAMA BIN LADIN'S ACTIVITIES IN SOMALIA"
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "Islamic Army members were sent to Somalia to kill US troops and undermine the US mission.",
+  "The Sudanese NIF knew of and encouraged the Islamic Army deployment to Somalia.",
+  "The report links Usama bin Ladin to the Islamic Army and to NIF support, though the text is heavily redacted."
+ ]
+}

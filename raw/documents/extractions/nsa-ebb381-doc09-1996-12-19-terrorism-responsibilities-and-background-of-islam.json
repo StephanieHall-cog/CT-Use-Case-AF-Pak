@@ -1,0 +1,167 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc09-1996-12-19-terrorism-responsibilities-and-background-of-islam",
+  "title": "Terrorism: Responsibilities and Background of Islamic Army Shura Council Members",
+  "authors": "CIA",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "1996-12-19",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7wuu-jeagl/1996-12-19-terrorism-responsibilities-and.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 8,
+  "kind": "intelligence report",
+  "note": "Responsibilities and background of Islamic Army Shura Council members. Source: 9/11 Commission Report, Chapter 2, Endnote 37.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 9",
+  "relevance": "high",
+  "ocr": 6
+ },
+ "persons": [
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Usama bin Laden",
+    "Bin Ladin"
+   ],
+   "role": "Leader of the 'Islamic Army', whose Shora Council is the subject of the report",
+   "organizations": [
+    "Islamic Army",
+    "Islamic Army Shora Council"
+   ],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Sudan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "THE SHORA COUNCIL OF USAMA ( (BIN LADIN) ) 'S ISLAMIC ARMY CONSISTED OF A VARIETY OF MEMBERS"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Islamic Army",
+   "aliases": [
+    "Usama bin Ladin's Islamic Army"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Sudan",
+   "notes": "The report says it includes participants from Islamic extremist groups or cells worldwide. Those groups also operate autonomously."
+  },
+  {
+   "name": "Islamic Army Shora Council",
+   "aliases": [
+    "Islamic Army Shura Council",
+    "Shura Council"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Islamic Army"
+   ],
+   "rivals": [],
+   "country_base": "Sudan",
+   "notes": "Its members represent Islamic extremist groups or cells worldwide. The member names and biographies are not legible in this chunk."
+  },
+  {
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Originator of the information report."
+  }
+ ],
+ "places": [
+  {
+   "name": "Sudan",
+   "type": "country",
+   "country": "Sudan",
+   "parent": "",
+   "significance": "Country header of the report ('SUDAN/INTERNATIONAL')."
+  }
+ ],
+ "events": [
+  {
+   "date": "1996-12-19",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA information report issued on the responsibilities and backgrounds of the Islamic Army Shora Council members. It is not finally evaluated intelligence.",
+   "place": "Sudan",
+   "actors": [
+    "Central Intelligence Agency"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1996-12-19",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA information report disseminated on the responsibilities and background of Islamic Army Shora Council members; the council includes representatives of Islamic extremist groups or cells worldwide.",
+   "place": "Sudan/International",
+   "actors": [
+    "Central Intelligence Agency",
+    "Islamic Army Shora Council",
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.2"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Islamic Army Shora Council",
+   "target": "Islamic Army",
+   "type": "member_of",
+   "detail": "The Shora Council is the council of bin Ladin's Islamic Army.",
+   "date": "1996-12-19",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "THE SHORA COUNCIL OF USAMA ( (BIN LADIN) ) 'S ISLAMIC ARMY"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Islamic Army",
+   "type": "leads",
+   "detail": "The Islamic Army is described as bin Ladin's.",
+   "date": "1996-12-19",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "USAMA ( (BIN LADIN) ) 'S ISLAMIC ARMY"
+  },
+  {
+   "source": "Islamic Army Shora Council",
+   "target": "Usama bin Ladin",
+   "type": "other",
+   "detail": "The Shora Council is described as belonging to bin Ladin's Islamic Army, i.e. it is his council.",
+   "date": "1996-12-19",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "THE SHORA COUNCIL OF USAMA ((BIN LADIN))'S ISLAMIC ARMY CONSISTED OF A VARIETY OF MEMBERS"
+  },
+  {
+   "source": "Islamic Army",
+   "target": "Sudan",
+   "type": "located_in",
+   "detail": "The report's country line is Sudan/International, associating the subject with Sudan.",
+   "date": "1996-12-19",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "COUNTRY: SUDAN/INTERNATIONAL"
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "The Shora Council of bin Ladin's Islamic Army consisted of members representing Islamic extremist groups or cells worldwide.",
+  "These groups operate both autonomously and as Islamic Army participants."
+ ]
+}

@@ -1,0 +1,253 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc66-2000-07-07-ddci-update-islamic-extremist-terrorist-threat",
+  "title": "DDCI Update - Islamic Extremist Terrorist Threat",
+  "authors": "Central Intelligence Agency",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "2000-07-07",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7xgb-ivxcp/2000-07-07-ddci-update-islamic-extremist.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 4,
+  "kind": "briefing",
+  "note": "Deputy DCI update on the Islamic extremist terrorist threat. Cited in 9/11 Commission Report, Chapter 6, Endnote 103.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 66",
+  "relevance": "high",
+  "ocr": 1
+ },
+ "persons": [
+  {
+   "name": "Ahmad Shah Massoud",
+   "aliases": [
+    "Masood",
+    "Ahmad Shah Masood"
+   ],
+   "role": "Northern Alliance commander; slide proposes engaging him against the Taliban and UBL",
+   "organizations": [
+    "Northern Alliance"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.4",
+     "quote": "Enga.ginQ .. ·M.asood"
+    }
+   ]
+  },
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "UBL",
+    "Usama bin Laden"
+   ],
+   "role": "al-Qa'ida leader; source of the threat of attack against the US",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.4",
+     "quote": "we are. attacked by LJ B·L"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "al-Qa'ida",
+   "aliases": [
+    "al Qaidah",
+    "al-Qaeda"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Slide says al-Qa'ida cells worldwide had orders to attack in December 1999 (millennium threat)."
+  },
+  {
+   "name": "Taliban",
+   "aliases": [],
+   "type": "political movement",
+   "parent_or_allies": [],
+   "rivals": [
+    "Northern Alliance"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Slide 4 is badly garbled but appears to reference a Taliban offensive, in the context of engaging Masood."
+  },
+  {
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA",
+    "DDCI"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Author of the briefing; the briefing is from the DDCI."
+  },
+  {
+   "name": "Northern Alliance",
+   "aliases": [],
+   "type": "militia",
+   "parent_or_allies": [],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Inferred from the Masood reference; not named in this chunk."
+  }
+ ],
+ "places": [
+  {
+   "name": "Jordan",
+   "type": "country",
+   "country": "Jordan",
+   "parent": "",
+   "significance": "Millennium-threat planning against targets in or near Jordan was confirmed."
+  },
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Taliban offensive and Masood engagement context."
+  }
+ ],
+ "events": [
+  {
+   "date": "1999-12",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Millennium threat: concern that al-Qa'ida cells worldwide had orders to attack in December; confirmed evidence of attack planning against targets in or near Jordan.",
+   "place": "Jordan",
+   "actors": [
+    "al-Qa'ida"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "2000-07",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Current threat period: no confirmation that an attack is imminent, but escalating and independent indicators of attack.",
+   "place": "",
+   "actors": [
+    "al-Qa'ida",
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "approx 1999-12",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Millennium threat: concern that al-Qa'ida cells worldwide had orders to attack around December's peak, with evidence of planning against targets in or near Jordan.",
+   "place": "Jordan",
+   "actors": [
+    "al-Qa'ida"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "2000-07",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Current threat: escalating, independent indicators of an attack, though no confirmation that an attack is imminent.",
+   "place": "",
+   "actors": [
+    "al-Qa'ida",
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "2000-07",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Strategy slide on engaging Massoud amid a Taliban offensive.",
+   "place": "Afghanistan",
+   "actors": [
+    "Central Intelligence Agency",
+    "Ahmad Shah Massoud",
+    "Taliban"
+   ],
+   "timestamp": "p.4"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "al-Qa'ida",
+   "target": "Jordan",
+   "type": "other",
+   "detail": "Confirmed evidence of al-Qa'ida attack planning against targets in or near Jordan during the millennium threat.",
+   "date": "1999-12",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "confirmed evidence of trassive planni ingagainst~ tT _ targets{in/near Jordan"
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "Ahmad Shah Massoud",
+   "type": "other",
+   "detail": "Slide proposes engaging Masood, apparently to enhance the ability to act against UBL.",
+   "date": "2000-07",
+   "confidence": "inferred",
+   "timestamp": "p.4",
+   "quote": "Enga.ginQ .. ·M.asood"
+  },
+  {
+   "source": "al-Qa'ida",
+   "target": "Jordan",
+   "type": "other",
+   "detail": "Evidence of al-Qa'ida planning against targets in or near Jordan during the millennium threat period.",
+   "date": "approx 1999-12",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "confirmed evidence of ... planning against targets in/near Jordan"
+  },
+  {
+   "source": "Taliban",
+   "target": "Ahmad Shah Massoud",
+   "type": "rival_of",
+   "detail": "The slide mentions a Taliban offensive in the context of engaging Massoud. This is inferred from garbled text.",
+   "confidence": "inferred",
+   "timestamp": "p.4",
+   "quote": "Taliban ... offensive"
+  },
+  {
+   "source": "Ahmad Shah Massoud",
+   "target": "Usama bin Ladin",
+   "type": "rival_of",
+   "detail": "Engagement with Massoud is framed around increasing retaliation capability if the US is attacked by UBL. This is inferred from garbled text.",
+   "confidence": "inferred",
+   "timestamp": "p.4",
+   "quote": "increase ret... if we are attacked by UBL"
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "In the millennium threat, CIA assessed al-Qa'ida cells worldwide had orders to attack in December.",
+  "CIA had confirmed evidence of attack planning against targets in or near Jordan.",
+  "As of July 2000, attack was not confirmed as imminent but there were escalating, independent indicators of attack.",
+  "The strategy slide proposes engaging Masood against the Taliban and UBL (OCR garbled)."
+ ]
+}

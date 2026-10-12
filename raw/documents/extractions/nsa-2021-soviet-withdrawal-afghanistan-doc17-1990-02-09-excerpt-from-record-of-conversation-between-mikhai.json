@@ -1,0 +1,571 @@
+{
+ "document": {
+  "doc_id": "nsa-2021-soviet-withdrawal-afghanistan-doc17-1990-02-09-excerpt-from-record-of-conversation-between-mikhai",
+  "title": "Excerpt from Record of Conversation between Mikhail Gorbachev and James Baker, February 9, 1990",
+  "authors": "Gorbachev Foundation / Bush Presidential Library record",
+  "publisher": "National Security Archive (GWU), The Soviet Withdrawal from Afghanistan 1989 | National Security Archive",
+  "published": "1990-02-09",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/5752901/National-Security-Archive-Doc-17-Excerpt-from.pdf",
+  "source_page": "https://nsarchive.gwu.edu/briefing-book/afghanistan-russia-programs/2019-02-27/soviet-withdrawal-afghanistan-1989",
+  "pages": 3,
+  "kind": "memo",
+  "note": "In Moscow, Baker and Gorbachev discuss an Afghan political settlement. Both prefer a political solution and independent Afghanistan but admit limited influence over Afghan parties. Gorbachev promotes the Najibullah plan of UN-monitored elections; Baker says the Mujahedin cannot be persuaded. Both say 'let them boil in their own juices'.",
+  "collection": "new-soviet-withdrawal-afghanistan-1989",
+  "doc_number": "Document 17",
+  "relevance": "medium",
+  "ocr": 0
+ },
+ "persons": [
+  {
+   "name": "Mikhail Gorbachev",
+   "aliases": [
+    "Mikhail Gorbachev"
+   ],
+   "role": "Soviet leader (General Secretary of the CPSU), speaking with US Secretary of State",
+   "organizations": [
+    "Soviet Union"
+   ],
+   "nationality_or_origin": "Soviet",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Soviet Union"
+   ],
+   "is_presenter_or_guest": true,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Let them boil in their own juices over there. Maybe something will come out. We are now more on the sidelines."
+    }
+   ]
+  },
+  {
+   "name": "James Baker",
+   "aliases": [
+    "James A. Baker III"
+   ],
+   "role": "US Secretary of State",
+   "organizations": [
+    "United States"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "United States"
+   ],
+   "is_presenter_or_guest": true,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "We are in favor of political settlement in Afghanistan. And there is just one individual, one person, who stands in the way"
+    }
+   ]
+  },
+  {
+   "name": "Eduard Shevardnadze",
+   "aliases": [
+    "E. A. Shevardnadze",
+    "Edvard Shevardnadze"
+   ],
+   "role": "Soviet Foreign Minister",
+   "organizations": [
+    "Soviet Union"
+   ],
+   "nationality_or_origin": "Soviet (Georgian)",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": true,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Najubullah supports holding Shura, but in Kabul."
+    }
+   ]
+  },
+  {
+   "name": "Najibullah",
+   "aliases": [
+    "Najubullah",
+    "Mohammad Najibullah"
+   ],
+   "role": "President of the Kabul government and PDPA leader",
+   "organizations": [
+    "PDPA"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Kabul",
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "we are not demanding that Najibullah step down before the start of the process."
+    },
+    {
+     "timestamp": "p.2",
+     "quote": "Najibullah proposes free elections."
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Mujahedin",
+   "aliases": [
+    "Mujahideen"
+   ],
+   "type": "militia",
+   "parent_or_allies": [
+    "Afghan interim government",
+    "Pakistan",
+    "Saudi Arabia"
+   ],
+   "rivals": [
+    "PDPA"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Baker says US influence over them is limited; he refers to fundamentalists among them."
+  },
+  {
+   "name": "PDPA",
+   "aliases": [
+    "People's Democratic Party of Afghanistan"
+   ],
+   "type": "political movement",
+   "parent_or_allies": [
+    "Soviet Union"
+   ],
+   "rivals": [
+    "Mujahedin"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Baker wants Najibullah and closest associates, not the entire PDPA, to leave."
+  },
+  {
+   "name": "Afghan interim government",
+   "aliases": [
+    "Afghan Interim Government"
+   ],
+   "type": "political movement",
+   "parent_or_allies": [
+    "Mujahedin"
+   ],
+   "rivals": [
+    "PDPA"
+   ],
+   "country_base": "Pakistan",
+   "notes": "Baker concedes it is also not quite legitimate."
+  },
+  {
+   "name": "Soviet Union",
+   "aliases": [
+    "USSR"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Soviet Union",
+   "notes": ""
+  },
+  {
+   "name": "United States",
+   "aliases": [
+    "U.S."
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": ""
+  },
+  {
+   "name": "Pakistan",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Mujahedin"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "US claims certain influence over it."
+  },
+  {
+   "name": "Saudi Arabia",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Mujahedin"
+   ],
+   "rivals": [],
+   "country_base": "Saudi Arabia",
+   "notes": "Baker hopes to win its support for the settlement process."
+  },
+  {
+   "name": "United Nations",
+   "aliases": [
+    "UN"
+   ],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Shevardnadze says Najibullah wants elections under UN auspices."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Subject of the political settlement discussed"
+  },
+  {
+   "name": "Kabul",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Seat of Najibullah's government; he wants Shura held there"
+  },
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Baker says US has influence over it; it backs the Mujahedin"
+  },
+  {
+   "name": "Saudi Arabia",
+   "type": "country",
+   "country": "Saudi Arabia",
+   "parent": "",
+   "significance": "Supporter of the Mujahedin"
+  },
+  {
+   "name": "India",
+   "type": "country",
+   "country": "India",
+   "parent": "",
+   "significance": "Regional state to be satisfied by a settlement"
+  },
+  {
+   "name": "Iran",
+   "type": "country",
+   "country": "Iran",
+   "parent": "",
+   "significance": "Regional state to be satisfied by a settlement"
+  }
+ ],
+ "events": [
+  {
+   "date": "1990-02-09",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "Gorbachev and Baker discuss an Afghan political settlement and the future of Najibullah.",
+   "place": "",
+   "actors": [
+    "Mikhail Gorbachev",
+    "James Baker",
+    "Eduard Shevardnadze"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1990-02-08",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "Baker and Shevardnadze held negotiations on Afghanistan the day before.",
+   "place": "",
+   "actors": [
+    "James Baker",
+    "Eduard Shevardnadze"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1990-02-09",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "Gorbachev and Baker discuss Afghan settlement, Najibullah's departure, and a Shura.",
+   "place": "Moscow",
+   "actors": [
+    "Mikhail Gorbachev",
+    "James Baker",
+    "Eduard Shevardnadze"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1990-02-08",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "Shevardnadze and Baker held negotiations the previous day, discussing Afghanistan.",
+   "place": "",
+   "actors": [
+    "Eduard Shevardnadze",
+    "James Baker"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "approx 1989",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Najibullah tried twice to convene a Shura without success.",
+   "place": "Kabul",
+   "actors": [
+    "Najibullah"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "approx 1989",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "The Mujahedin also tried to convene a Shura and failed.",
+   "place": "Afghanistan",
+   "actors": [
+    "Mujahedin"
+   ],
+   "timestamp": "p.2"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Najibullah",
+   "target": "PDPA",
+   "type": "leads",
+   "detail": "Najibullah is treated as the leader of the PDPA regime in Kabul, with the US wanting him and his closest associates to go.",
+   "date": "1990-02-09",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "he and his closest associates, not even the entire PDPA, will leave the stage."
+  },
+  {
+   "source": "James Baker",
+   "target": "Eduard Shevardnadze",
+   "type": "negotiated_with",
+   "detail": "They negotiated on Afghanistan the day before.",
+   "date": "1990-02-08",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "E. A. Shevardnadze told me that you had a good conversation about Afghanistan"
+  },
+  {
+   "source": "James Baker",
+   "target": "Mikhail Gorbachev",
+   "type": "met_with",
+   "detail": "Baker met Gorbachev and discussed an Afghan settlement.",
+   "date": "1990-02-09",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Record of Conversation between Mikhail Gorbachev and James Baker"
+  },
+  {
+   "source": "United States",
+   "target": "Pakistan",
+   "type": "other",
+   "detail": "Baker claims US influence over Pakistan.",
+   "date": "1990-02-09",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "we have certain influence over Pakistan"
+  },
+  {
+   "source": "Najibullah",
+   "target": "Soviet Union",
+   "type": "other",
+   "detail": "Baker calls Najibullah a man installed by foreign troops.",
+   "date": "1990-02-09",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "this man, installed by foreign troops, would leave the stage."
+  },
+  {
+   "source": "Mujahedin",
+   "target": "Pakistan",
+   "type": "allied_with",
+   "detail": "Baker links Pakistan and Saudi Arabia with the Mujahedin and the process.",
+   "date": "1990-02-09",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "the main Mujahedin leaders, Pakistan and Saudi Arabia to support the process"
+  },
+  {
+   "source": "Eduard Shevardnadze",
+   "target": "James Baker",
+   "type": "met_with",
+   "detail": "Shevardnadze had a good conversation with Baker about Afghanistan, reported to Gorbachev.",
+   "date": "1990-02",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "E. A. Shevardnadze told me that you had a good conversation about Afghanistan but that there was not much movement."
+  },
+  {
+   "source": "Eduard Shevardnadze",
+   "target": "United States",
+   "type": "negotiated_with",
+   "detail": "Shevardnadze said that after the previous day's negotiations there was a basis for discussions with the United States.",
+   "date": "1990-02-08",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "After yesterday’s negotiations I had an impression that we have the basis for discussions with the United States."
+  },
+  {
+   "source": "Eduard Shevardnadze",
+   "target": "Mikhail Gorbachev",
+   "type": "reports_to",
+   "detail": "Shevardnadze reported to Gorbachev on his Afghanistan talks with Baker.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "E. A. Shevardnadze told me that you had a good conversation about Afghanistan"
+  },
+  {
+   "source": "James Baker",
+   "target": "United States",
+   "type": "member_of",
+   "detail": "Baker speaks on behalf of the U.S. in the conversation.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "On our part, we have moved, but not enough for you."
+  },
+  {
+   "source": "Mikhail Gorbachev",
+   "target": "Soviet Union",
+   "type": "leads",
+   "detail": "Gorbachev speaks for the USSR on Afghan policy.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "Because starting from Afghanistan, we started to implement a new approach to regional conflicts"
+  },
+  {
+   "source": "Eduard Shevardnadze",
+   "target": "Soviet Union",
+   "type": "member_of",
+   "detail": "Shevardnadze acts for the Soviet side in negotiations.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "After yesterday’s negotiations I had an impression that we have the basis for discussions"
+  },
+  {
+   "source": "United States",
+   "target": "Mujahedin",
+   "type": "other",
+   "detail": "Baker says US influence over the Mujahedin is limited.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Our influence on the Mujahedin is limited."
+  },
+  {
+   "source": "United States",
+   "target": "Pakistan",
+   "type": "other",
+   "detail": "Baker says the U.S. has certain influence over Pakistan.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "we have certain influence over Pakistan."
+  },
+  {
+   "source": "Najibullah",
+   "target": "PDPA",
+   "type": "leads",
+   "detail": "Najibullah is treated as the leader of the PDPA regime; Baker wants him and his associates to leave, not the whole PDPA.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "he and his closest associates, not even the entire PDPA, will leave the stage."
+  },
+  {
+   "source": "James Baker",
+   "target": "Najibullah",
+   "type": "rival_of",
+   "detail": "Baker calls Najibullah the one individual standing in the way of settlement and wants him to leave.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "there is just one individual, one person, who stands in the way of this settlement."
+  },
+  {
+   "source": "Najibullah",
+   "target": "Soviet Union",
+   "type": "other",
+   "detail": "Baker describes Najibullah as installed by foreign troops.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "this man, installed by foreign troops, would leave the stage."
+  },
+  {
+   "source": "Najibullah",
+   "target": "Kabul",
+   "type": "located_in",
+   "detail": "Najibullah's government is in Kabul and wants Shura held there.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Najubullah supports holding Shura, but in Kabul."
+  },
+  {
+   "source": "Afghan interim government",
+   "target": "Mujahedin",
+   "type": "allied_with",
+   "detail": "The interim government is grouped with the main Mujahedin leaders.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "convince the Afghan interim government, the main Mujahedin leaders, Pakistan and Saudi Arabia"
+  },
+  {
+   "source": "Pakistan",
+   "target": "Mujahedin",
+   "type": "allied_with",
+   "detail": "Pakistan and Saudi Arabia are treated as backers whose support is needed alongside Mujahedin leaders.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "the main Mujahedin leaders, Pakistan and Saudi Arabia to support the process"
+  },
+  {
+   "source": "Saudi Arabia",
+   "target": "Mujahedin",
+   "type": "allied_with",
+   "detail": "Saudi Arabia is among parties to be convinced to support the settlement process.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Pakistan and Saudi Arabia to support the process of creating first a transitional government"
+  },
+  {
+   "source": "Najibullah",
+   "target": "United Nations",
+   "type": "other",
+   "detail": "Shevardnadze says Najibullah wants elections under UN auspices.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "he wants these elections to be held under the UN auspices."
+  },
+  {
+   "source": "Najibullah",
+   "target": "Mujahedin",
+   "type": "rival_of",
+   "detail": "Najibullah and the Mujahedin each failed to convene a Shura.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "But the Mujahedin also tried it and failed."
+  }
+ ],
+ "sources_cited": [
+  "Record of Conversation between Mikhail Gorbachev and James Baker, 9 February 1990 (Gorbachev Foundation / Bush Presidential Library)"
+ ],
+ "key_claims": [
+  "Baker says US influence on the Mujahedin is limited, though it has some influence over Pakistan.",
+  "The US wants a guarantee that Najibullah and his closest associates leave power at the end of a transition, not necessarily before the process starts.",
+  "Baker says the US has no interest in a victory of the fundamentalists or in an Afghan government hostile to the USSR.",
+  "Baker admits the Afghan interim government is not quite legitimate either.",
+  "Gorbachev says the USSR is on the sidelines and cannot give orders, but cares about the reputational aspect of an Afghan settlement.",
+  "Najibullah supports a Shura held in Kabul and, per Shevardnadze, elections under UN auspices; Baker says the Mujahedin would not accept elections under Najibullah."
+ ]
+}

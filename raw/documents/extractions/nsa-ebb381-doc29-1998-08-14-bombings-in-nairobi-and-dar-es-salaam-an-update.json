@@ -1,0 +1,372 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc29-1998-08-14-bombings-in-nairobi-and-dar-es-salaam-an-update",
+  "title": "Bombings in Nairobi and Dar es Salaam - An Update",
+  "authors": "CIA",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "1998-08-14",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7x7g-tbo1k/1998-08-14-bombings-in-nairobi-and-dar-es-salaam.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 16,
+  "kind": "briefing",
+  "note": "CIA briefing materials giving an update on the Nairobi and Dar es Salaam embassy bombings. Source: 9/11 Commission Report, Chapter 4, Endnote 37.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 29",
+  "relevance": "high",
+  "ocr": 4
+ },
+ "persons": [
+  {
+   "name": "Usama Bin Ladin",
+   "aliases": [
+    "Usama bin Laden",
+    "Osama bin Laden",
+    "Bin Ladin"
+   ],
+   "role": "Leader of a worldwide extremist network; prime suspect in the Nairobi and Dar es Salaam embassy bombings",
+   "organizations": [
+    "al-Qa'ida",
+    "International Front for Jihad Against the Jews and Crusaders"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "alive",
+   "status_detail": "Briefing discusses a possible strike on him at Khowst",
+   "family": [],
+   "locations": [
+    "Khowst",
+    "Saudi Arabia",
+    "Nairobi",
+    "Dar es Salaam"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.4",
+     "quote": "All credible intelligence links bombings to prime suspects: Bin Ladin and the Egyptian groups al-Jihad and al-Gama'at al-Islamiyya"
+    },
+    {
+     "timestamp": "p.11",
+     "quote": "Declared War on the US in 1996"
+    },
+    {
+     "timestamp": "p.11",
+     "quote": "Decreed in February 1998 that Muslims kill Americans and their allies, including civilians"
+    },
+    {
+     "timestamp": "p.13",
+     "quote": "Exact response based on whether Bin Ladin, senior colleagues, leaders of other groups, and families are killed"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "al-Jihad",
+   "aliases": [
+    "Egyptian al-Jihad"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Usama Bin Ladin",
+    "al-Gama'at al-Islamiyya"
+   ],
+   "rivals": [],
+   "country_base": "Egypt",
+   "notes": "Named, with al-Gama'at al-Islamiyya, as a prime suspect Egyptian group in the bombings."
+  },
+  {
+   "name": "al-Gama'at al-Islamiyya",
+   "aliases": [
+    "al-Gama'a al-Islamiyya",
+    "Islamic Group"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Usama Bin Ladin",
+    "al-Jihad"
+   ],
+   "rivals": [],
+   "country_base": "Egypt",
+   "notes": "Named as a prime suspect Egyptian group in the bombings."
+  },
+  {
+   "name": "International Front for Jihad Against the Jews and Crusaders",
+   "aliases": [
+    "World Islamic Front"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Usama Bin Ladin"
+   ],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Formed by Bin Ladin to promote unity among extremist groups."
+  },
+  {
+   "name": "Bin Ladin's organization",
+   "aliases": [
+    "al-Qa'ida",
+    "al-Qaeda"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Usama Bin Ladin"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Might split into factions after Bin Ladin's loss; operates training camps at Khowst."
+  }
+ ],
+ "places": [
+  {
+   "name": "Nairobi",
+   "type": "city",
+   "country": "Kenya",
+   "parent": "Kenya",
+   "significance": "Embassy bombing site; an injured man appears linked to Bin Ladin"
+  },
+  {
+   "name": "Dar es Salaam",
+   "type": "city",
+   "country": "Tanzania",
+   "parent": "Tanzania",
+   "significance": "Embassy bombing site"
+  },
+  {
+   "name": "Khowst",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Khost Province",
+   "significance": "Site of Bin Ladin training camps considered for a US strike"
+  },
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Anti-US violence likely after a strike"
+  },
+  {
+   "name": "Saudi Arabia",
+   "type": "country",
+   "country": "Saudi Arabia",
+   "parent": "",
+   "significance": "Bin Ladin seeks to liberate it; US presence at risk on the Arabian Peninsula"
+  }
+ ],
+ "events": [
+  {
+   "date": "1998-08-14",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA briefing on the status of the investigation into the Nairobi and Dar es Salaam bombings, Bin Ladin as a worldwide threat, and probable reaction to a strike at Khowst",
+   "place": "",
+   "actors": [
+    "Usama Bin Ladin"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1996",
+   "date_precision": "year",
+   "type": "statement",
+   "description": "Bin Ladin declared war on the US",
+   "place": "",
+   "actors": [
+    "Usama Bin Ladin"
+   ],
+   "timestamp": "p.11"
+  },
+  {
+   "date": "1998-02",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Bin Ladin decreed that Muslims kill Americans and their allies, including civilians",
+   "place": "",
+   "actors": [
+    "Usama Bin Ladin"
+   ],
+   "timestamp": "p.11"
+  },
+  {
+   "date": "1998-05",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Bin Ladin promised results of the declaration 'within weeks'",
+   "place": "",
+   "actors": [
+    "Usama Bin Ladin"
+   ],
+   "timestamp": "p.11"
+  },
+  {
+   "date": "1996",
+   "date_precision": "year",
+   "type": "statement",
+   "description": "Bin Ladin declared war on the US.",
+   "place": "",
+   "actors": [
+    "Usama Bin Ladin"
+   ],
+   "timestamp": "p.11"
+  },
+  {
+   "date": "1998-02",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Bin Ladin decreed that Muslims kill Americans and their allies, including civilians.",
+   "place": "",
+   "actors": [
+    "Usama Bin Ladin"
+   ],
+   "timestamp": "p.11"
+  },
+  {
+   "date": "1998-05",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Bin Ladin promised results of the declaration \"within weeks\".",
+   "place": "",
+   "actors": [
+    "Usama Bin Ladin"
+   ],
+   "timestamp": "p.11"
+  },
+  {
+   "date": "1998-08",
+   "date_precision": "month",
+   "type": "attack",
+   "description": "Bombings of US embassies in Nairobi and Dar es Salaam; intelligence links them to Bin Ladin, al-Jihad and al-Gama'at al-Islamiyya.",
+   "place": "Nairobi; Dar es Salaam",
+   "actors": [
+    "Usama Bin Ladin",
+    "al-Jihad",
+    "al-Gama'at al-Islamiyya"
+   ],
+   "timestamp": "p.4"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Usama Bin Ladin",
+   "target": "al-Jihad",
+   "type": "allied_with",
+   "detail": "Bin Ladin and Egyptian groups are named together as prime suspects in the bombings.",
+   "date": "1998",
+   "confidence": "inferred",
+   "timestamp": "p.4",
+   "quote": "links bombings to prime suspects: Bin Ladin and the Egyptian groups al-Jihad and al-Gama'at al-Islamiyya"
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "al-Gama'at al-Islamiyya",
+   "type": "allied_with",
+   "detail": "Bin Ladin and Egyptian groups are named together as prime suspects in the bombings.",
+   "date": "1998",
+   "confidence": "inferred",
+   "timestamp": "p.4",
+   "quote": "links bombings to prime suspects: Bin Ladin and the Egyptian groups al-Jihad and al-Gama'at al-Islamiyya"
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "International Front for Jihad Against the Jews and Crusaders",
+   "type": "leads",
+   "detail": "Bin Ladin formed the Front to promote unity among extremist groups.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "Formed 'International Front for Jihad Against the Jews and Crusaders'"
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "Khowst",
+   "type": "located_in",
+   "detail": "Bin Ladin's camps at Khowst are the proposed strike target.",
+   "date": "1998",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "Probable Reaction to a Strike Against Usama Bin Ladin at Khowst"
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "al-Jihad",
+   "type": "allied_with",
+   "detail": "Bin Ladin and the Egyptian group al-Jihad are named together as prime suspects in the bombings.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "prime suspects: Bin Ladin and the Egyptian groups al-Jihad and al-Gama'at al-Islamiyya"
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "al-Gama'at al-Islamiyya",
+   "type": "allied_with",
+   "detail": "Bin Ladin and al-Gama'at al-Islamiyya are named together as prime suspects in the bombings.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "prime suspects: Bin Ladin and the Egyptian groups al-Jihad and al-Gama'at al-Islamiyya"
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "International Front for Jihad Against the Jews and Crusaders",
+   "type": "leads",
+   "detail": "Bin Ladin formed the International Front to promote unity among extremist groups.",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "Promote unity among extremist groups: Formed \"International Front for Jihad Against the Jews and Crusaders\""
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "Bin Ladin's organization",
+   "type": "leads",
+   "detail": "Bin Ladin heads the organization that could factionalize after his death or capture.",
+   "confidence": "inferred",
+   "timestamp": "p.16",
+   "quote": "Bin Ladin's organization could break into factions"
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "Khowst",
+   "type": "located_in",
+   "detail": "Strike against Bin Ladin is considered at Khowst, where camps are located.",
+   "confidence": "stated",
+   "timestamp": "p.12",
+   "quote": "Probable Reaction to Strike Against Usama Bin Ladin in Khowst"
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "Nairobi",
+   "type": "other",
+   "detail": "Bin Ladin reportedly sponsored the planned bombing of the embassy in Nairobi.",
+   "confidence": "stated",
+   "timestamp": "p.6",
+   "quote": "Bin-Ladin sponsored bombings reportedly planning to bomb embassies in Nairobi and Dar es Salaam."
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "Dar es Salaam",
+   "type": "other",
+   "detail": "Bin Ladin reportedly sponsored the planned bombing of the embassy in Dar es Salaam.",
+   "confidence": "stated",
+   "timestamp": "p.6",
+   "quote": "Bin-Ladin sponsored bombings reportedly planning to bomb embassies in Nairobi and Dar es Salaam."
+  },
+  {
+   "source": "Khowst",
+   "target": "Pakistan",
+   "type": "other",
+   "detail": "Anti-US violence in Pakistan is considered likely after a strike at Khowst.",
+   "confidence": "inferred",
+   "timestamp": "p.13",
+   "quote": "Anti-US violence in Pakistan likely"
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "CIA assessed that all credible intelligence linked the Nairobi and Dar es Salaam bombings to Bin Ladin and the Egyptian groups al-Jihad and al-Gama'at al-Islamiyya.",
+  "Bin Ladin aimed at a worldwide Islamic government by liberating Saudi Arabia and Palestine and fighting 'dictators'.",
+  "Bin Ladin's network was assessed to have ties to extremists across Africa, the Middle East, Southeast Asia, the Balkans, the Caucasus, Central Asia, Kashmir, North America and Europe.",
+  "Retaliation for a strike on Bin Ladin at Khowst was judged virtually assured, with anti-US violence in Pakistan likely.",
+  "Camps at Khowst train a broad range of nationalities, so a strike could affect Islamic extremists allied with Bin Ladin.",
+  "Bin Ladin's death could split his organization into factions, and a lack of central authority could prompt quick retaliation."
+ ]
+}

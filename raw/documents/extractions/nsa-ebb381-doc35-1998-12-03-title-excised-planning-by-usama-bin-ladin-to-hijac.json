@@ -1,0 +1,285 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc35-1998-12-03-title-excised-planning-by-usama-bin-ladin-to-hijac",
+  "title": "[Title Excised] Planning by Usama Bin Ladin to Hijack U.S. Airplane, Successful Circumvention of Security Measures in U.S. Airport",
+  "authors": "Central Intelligence Agency",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "1998-12-03",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7x7g-tbo1k/1998-12-03-title-excised-planning-by-usama-bin.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 4,
+  "kind": "intelligence report",
+  "note": "Raw intelligence report that became the basis for the 4 Dec 1998 President's Daily Brief. Says bin Laden planned new operations against U.S. targets, the hijack plan was proceeding well, and two operatives from the U.S. team evaded security in a trial run at a New York airport. Cited in 9/11 Commission Report Chapter 4, Endnote 112.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 35",
+  "relevance": "high",
+  "ocr": 1
+ },
+ "persons": [
+  {
+   "name": "Usama Bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Usama bin Laden",
+    "Bin Ladin"
+   ],
+   "role": "Leader planning new operations against U.S. targets, including an aircraft hijacking",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "New York"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.3",
+     "quote": "BIN LADIN WAS PLANNING TO EXECUTE NEW OPERATIONS AGAINST UNITED STATES (U.S.) TARGETS IN THE NEAR FUTURE."
+    }
+   ]
+  },
+  {
+   "name": "Umar Ahmad 'Abd al-Rahman",
+   "aliases": [
+    "Blind Shaykh",
+    "Omar Abdel Rahman",
+    "'Umar Ahmad 'Abd al-Rahman"
+   ],
+   "role": "Imprisoned convicted World Trade Center bombing figure; release sought by the hijacking plot",
+   "organizations": [],
+   "nationality_or_origin": "",
+   "status": "detained",
+   "status_detail": "Convicted of the World Trade Center bombing, per report",
+   "family": [],
+   "locations": [
+    "New York"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.3",
+     "quote": "THE OBJECTIVE OF THE OPERATION IS TO OBTAIN THE RELEASE OF BLIND SHAYKH 'UMAR AHMAD 'ABD AL-RAHMAN"
+    }
+   ]
+  },
+  {
+   "name": "Ramzi Yousef",
+   "aliases": [
+    "Ramzi Yousef"
+   ],
+   "role": "Imprisoned convicted World Trade Center bomber; release sought by the plot",
+   "organizations": [],
+   "nationality_or_origin": "",
+   "status": "detained",
+   "status_detail": "Convicted of the World Trade Center bombing, per report",
+   "family": [],
+   "locations": [
+    "New York"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.3",
+     "quote": "YOUSEF AND RAHMAN WERE CONVICTED OF THE WORLD TRADE CENTER BOMBING IN NEW YORK."
+    }
+   ]
+  },
+  {
+   "name": "Muhammad Sadiq Odeh",
+   "aliases": [
+    "Mohammad Sadiq Odeh",
+    "Muhammad Sadiq 'Awda"
+   ],
+   "role": "Suspect in the bombing of the U.S. Embassy in Nairobi; release sought by the plot",
+   "organizations": [],
+   "nationality_or_origin": "",
+   "status": "detained",
+   "status_detail": "Described as a suspect in the Nairobi embassy bombing",
+   "family": [],
+   "locations": [
+    "Nairobi"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.3",
+     "quote": "MUHAMMAD SADIQ ODEH, A SUSPECT IN THE BOMBING OF THE U.S. EMBASSY IN NAIROBI"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Issuer of the information report"
+  },
+  {
+   "name": "al-Qa'ida",
+   "aliases": [
+    "al-Qaeda"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Implied via Bin Ladin; not named in the text"
+  }
+ ],
+ "places": [
+  {
+   "name": "New York",
+   "type": "city",
+   "country": "United States",
+   "parent": "United States",
+   "significance": "Airport where operatives allegedly evaded security checks in a trial run; WTC bombing site"
+  },
+  {
+   "name": "Nairobi",
+   "type": "city",
+   "country": "Kenya",
+   "parent": "Kenya",
+   "significance": "U.S. Embassy bombed; Odeh suspected"
+  }
+ ],
+ "events": [
+  {
+   "date": "1998-12-03",
+   "date_precision": "day",
+   "type": "other",
+   "description": "CIA information report warns Bin Ladin is planning to hijack a U.S. aircraft; two team members evaded security in a trial run at a New York airport.",
+   "place": "New York",
+   "actors": [
+    "Usama Bin Ladin",
+    "Central Intelligence Agency"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1998-12-20",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Bin Ladin hoped the hijacking would be carried out before the start of Ramadan, circa 20 December.",
+   "place": "",
+   "actors": [
+    "Usama Bin Ladin"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1998-12-03",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA information report (TOT 031911Z DEC 98) warning that Bin Ladin was planning new operations against U.S. targets, including an aircraft hijacking.",
+   "place": "",
+   "actors": [
+    "Central Intelligence Agency",
+    "Usama Bin Ladin"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "approx 1998-12",
+   "date_precision": "approx",
+   "type": "other",
+   "detail": "",
+   "description": "Two members of the operational team in the U.S. successfully evaded security checks during a trial run at a New York airport.",
+   "place": "New York",
+   "actors": [
+    "Usama Bin Ladin"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1998-12-20",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Bin Ladin hoped the hijacking operation would be implemented before the start of Ramadan (circa 20 December) to obtain release of Abd al-Rahman, Yousef and Odeh.",
+   "place": "",
+   "actors": [
+    "Usama Bin Ladin",
+    "Umar Ahmad 'Abd al-Rahman",
+    "Ramzi Yousef",
+    "Muhammad Sadiq Odeh"
+   ],
+   "timestamp": "p.3"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Usama Bin Ladin",
+   "target": "Umar Ahmad 'Abd al-Rahman",
+   "type": "other",
+   "detail": "The hijacking plot aims to secure the release of the Blind Shaykh.",
+   "date": "1998-12",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "THE OBJECTIVE OF THE OPERATION IS TO OBTAIN THE RELEASE OF BLIND SHAYKH 'UMAR AHMAD 'ABD AL-RAHMAN"
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "Ramzi Yousef",
+   "type": "other",
+   "detail": "Plot aims to secure Yousef's release.",
+   "date": "1998-12",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "RELEASE OF BLIND SHAYKH 'UMAR AHMAD 'ABD AL-RAHMAN, RAMZI YOUSEF AND MUHAMMAD SADIQ ODEH"
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "Muhammad Sadiq Odeh",
+   "type": "other",
+   "detail": "Plot aims to secure Odeh's release.",
+   "date": "1998-12",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "RELEASE OF BLIND SHAYKH 'UMAR AHMAD 'ABD AL-RAHMAN, RAMZI YOUSEF AND MUHAMMAD SADIQ ODEH"
+  },
+  {
+   "source": "Ramzi Yousef",
+   "target": "New York",
+   "type": "other",
+   "detail": "Yousef was convicted of the World Trade Center bombing in New York.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "YOUSEF AND RAHMAN WERE CONVICTED OF THE WORLD TRADE CENTER BOMBING IN NEW YORK."
+  },
+  {
+   "source": "Umar Ahmad 'Abd al-Rahman",
+   "target": "New York",
+   "type": "other",
+   "detail": "Rahman was convicted of the World Trade Center bombing in New York.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "YOUSEF AND RAHMAN WERE CONVICTED OF THE WORLD TRADE CENTER BOMBING IN NEW YORK."
+  },
+  {
+   "source": "Muhammad Sadiq Odeh",
+   "target": "Nairobi",
+   "type": "other",
+   "detail": "Odeh is a suspect in the bombing of the U.S. Embassy in Nairobi.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "A SUSPECT IN THE BOMBING OF THE U.S. EMBASSY IN NAIROBI"
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "Bin Ladin was planning new operations against U.S. targets in the near future.",
+  "The plan to hijack a U.S. aircraft was reportedly proceeding well.",
+  "Two members of the operational team in the U.S. evaded security checks in a trial run at a New York airport.",
+  "Bin Ladin hoped to carry out the operation before Ramadan, around 20 December 1998.",
+  "The operation aimed to free Omar Abdel Rahman, Ramzi Yousef and Muhammad Sadiq Odeh."
+ ]
+}

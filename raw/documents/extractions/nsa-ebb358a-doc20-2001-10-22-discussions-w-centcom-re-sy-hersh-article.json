@@ -1,0 +1,475 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb358a-doc20-2001-10-22-discussions-w-centcom-re-sy-hersh-article",
+  "title": "Discussions w/CENTCOM re: Sy Hersh Article",
+  "authors": "Office of the Secretary of Defense (Rumsfeld)",
+  "publisher": "National Security Archive (GWU), New Documents Detail America's Strategic Response to 9/11",
+  "published": "2001-10-22",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB358a/doc20.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB358a/index.htm",
+  "pages": 2,
+  "kind": "memo",
+  "note": "[Secret] Rumsfeld is concerned by Hersh's report that CENTCOM failed to fire on a convoy thought to carry Mullah Omar. He had told Franks to hit it if anyone wiggled, and says he has a high tolerance for possible error in strikes.",
+  "collection": "NSAEBB358a",
+  "doc_number": "Document 20",
+  "relevance": "medium",
+  "ocr": 0
+ },
+ "persons": [
+  {
+   "name": "Donald Rumsfeld",
+   "aliases": [
+    "Donald H. Rumsfeld",
+    "DHR"
+   ],
+   "role": "US Secretary of Defense; author of the memo",
+   "organizations": [
+    "Office of the Secretary of Defense"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Taos"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "On the morning of October 21, when I was in Taos, I asked Franks a series of questions"
+    }
+   ]
+  },
+  {
+   "name": "Tommy Franks",
+   "aliases": [
+    "General Tommy R. Franks",
+    "Franks"
+   ],
+   "role": "CENTCOM commander",
+   "organizations": [
+    "CENTCOM"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "I raised it with Tommy Franks. I asked him if it was true that the CENTCOM lawyer had inhibited him"
+    },
+    {
+     "timestamp": "p.2",
+     "quote": "I expect him to be leaning far forward on this."
+    }
+   ]
+  },
+  {
+   "name": "Paul Wolfowitz",
+   "aliases": [
+    "Wolfowitz"
+   ],
+   "role": "Deputy Secretary of Defense; fallback authority for strike approval",
+   "organizations": [
+    "Office of the Secretary of Defense"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "he can't get me or he can't get Wolfowitz in time, he should hit it."
+    }
+   ]
+  },
+  {
+   "name": "George W. Bush",
+   "aliases": [
+    "the President",
+    "President Bush"
+   ],
+   "role": "US President; approved the strike authority",
+   "organizations": [],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "I called the President. I called Tommy back within 4 ½ minutes and told him the President agreed."
+    }
+   ]
+  },
+  {
+   "name": "Usama bin Laden",
+   "aliases": [
+    "Osama bin Laden"
+   ],
+   "role": "al-Qa'ida leader; priority target",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "Getting Usama bin Laden, Omar and the senior Taliban and Al Qaeda leadership is enormously important."
+    }
+   ]
+  },
+  {
+   "name": "Mullah Omar",
+   "aliases": [
+    "Omar",
+    "Mohammed Omar"
+   ],
+   "role": "Taliban leader; priority target",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "Getting Usama bin Laden, Omar and the senior Taliban and Al Qaeda leadership"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "CENTCOM",
+   "aliases": [
+    "US Central Command"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "US Department of Defense"
+   ],
+   "rivals": [
+    "Taliban",
+    "al-Qa'ida"
+   ],
+   "country_base": "United States",
+   "notes": "Franks's command; has a lawyer alleged to have slowed target strikes."
+  },
+  {
+   "name": "Office of the Secretary of Defense",
+   "aliases": [
+    "OSD"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Author of the memo."
+  },
+  {
+   "name": "Taliban",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qa'ida"
+   ],
+   "rivals": [
+    "CENTCOM"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Senior leadership targeted."
+  },
+  {
+   "name": "al-Qa'ida",
+   "aliases": [
+    "al-Qaeda",
+    "Al Qaeda"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [
+    "CENTCOM"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Senior leadership targeted."
+  }
+ ],
+ "places": [
+  {
+   "name": "Taos",
+   "type": "town",
+   "country": "United States",
+   "parent": "New Mexico",
+   "significance": "Where Rumsfeld was on the morning of 21 Oct 2001 when he questioned Franks."
+  }
+ ],
+ "events": [
+  {
+   "date": "2001-10-21",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "Rumsfeld, in Taos, questioned Franks about the targeting process for Predator-located targets and then set out guidance about high tolerance for error.",
+   "place": "Taos",
+   "actors": [
+    "Donald Rumsfeld",
+    "Tommy Franks"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-10-22",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Rumsfeld memo recording discussions with CENTCOM about Sy Hersh's New Yorker article claiming the CENTCOM lawyer delayed a strike.",
+   "place": "",
+   "actors": [
+    "Donald Rumsfeld",
+    "Tommy Franks"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Franks called Rumsfeld about a possible target; Rumsfeld gave immediate authority to hit it and obtained President's agreement within 4½ minutes.",
+   "place": "",
+   "actors": [
+    "Donald Rumsfeld",
+    "Tommy Franks",
+    "George W. Bush"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-10-21",
+   "date_precision": "day",
+   "type": "meeting",
+   "detail": "",
+   "description": "Rumsfeld, in Taos, questioned Franks about the targeting process (Predator, Hellfire, CAP aircraft, collateral damage decision) and later asked about 15 timing questions.",
+   "place": "Taos",
+   "actors": [
+    "Donald Rumsfeld",
+    "Tommy Franks"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-10",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Franks called Rumsfeld about a possible target. Rumsfeld gave authority to hit it if anyone wiggled and obtained the President's agreement within 4½ minutes.",
+   "place": "",
+   "actors": [
+    "Donald Rumsfeld",
+    "Tommy Franks",
+    "George W. Bush"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-10-22",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Rumsfeld memo on discussions with CENTCOM about the Sy Hersh New Yorker article, saying a CENTCOM lawyer allegedly delayed a strike. Franks denied it and Rumsfeld doubted he got the full story.",
+   "place": "",
+   "actors": [
+    "Donald Rumsfeld",
+    "Tommy Franks",
+    "CENTCOM"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-10",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Rumsfeld told Franks that getting bin Laden, Omar and senior Taliban and al-Qaeda leaders is vital, that he tolerates a high risk of error, and that Franks should lean far forward and always be able to reach him or Wolfowitz.",
+   "place": "",
+   "actors": [
+    "Donald Rumsfeld",
+    "Tommy Franks",
+    "Usama bin Laden",
+    "Mullah Omar",
+    "Paul Wolfowitz"
+   ],
+   "timestamp": "p.2"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Tommy Franks",
+   "target": "Donald Rumsfeld",
+   "type": "reports_to",
+   "detail": "Franks calls Rumsfeld when a high-collateral target needs approval.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "If he would like to hit it, but it is high collateral, he calls me."
+  },
+  {
+   "source": "Donald Rumsfeld",
+   "target": "George W. Bush",
+   "type": "reports_to",
+   "detail": "Rumsfeld consulted the President on the strike authority.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "I called the President. I called Tommy back within 4 ½ minutes and told him the President agreed."
+  },
+  {
+   "source": "Paul Wolfowitz",
+   "target": "Donald Rumsfeld",
+   "type": "deputy_of",
+   "detail": "Wolfowitz is the fallback approver if Rumsfeld cannot be reached.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "there will not be any time where he cannot reach me or, if not me, Wolfowitz."
+  },
+  {
+   "source": "Tommy Franks",
+   "target": "CENTCOM",
+   "type": "leads",
+   "detail": "Franks commands CENTCOM, whose lawyer is mentioned.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "the CENTCOM lawyer had inhibited him from hitting that target"
+  },
+  {
+   "source": "Mullah Omar",
+   "target": "Taliban",
+   "type": "leads",
+   "detail": "Omar is named as a priority target among Taliban leadership.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "Usama bin Laden, Omar and the senior Taliban and Al Qaeda leadership"
+  },
+  {
+   "source": "Usama bin Laden",
+   "target": "al-Qa'ida",
+   "type": "leads",
+   "detail": "Bin Laden named as priority target of al-Qaeda leadership.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "Getting Usama bin Laden, Omar and the senior Taliban and Al Qaeda leadership is enormously important."
+  },
+  {
+   "source": "Donald Rumsfeld",
+   "target": "Tommy Franks",
+   "type": "reports_to",
+   "detail": "Franks, the CENTCOM commander, calls Rumsfeld for authority on high-collateral targets; Rumsfeld tells him he has authority to hit a target pending the President's approval.",
+   "date": "2001-10",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "If he would like to hit it, but it is high collateral, he calls me."
+  },
+  {
+   "source": "Tommy Franks",
+   "target": "Donald Rumsfeld",
+   "type": "met_with",
+   "detail": "Rumsfeld questioned Franks about targeting procedures on the morning of October 21 while Rumsfeld was in Taos.",
+   "date": "2001-10-21",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "On the morning of October 21, when I was in Taos, I asked Franks a series of questions"
+  },
+  {
+   "source": "Donald Rumsfeld",
+   "target": "George W. Bush",
+   "type": "reports_to",
+   "detail": "Rumsfeld called the President to get approval for striking the target and called Franks back within 4½ minutes to say the President agreed.",
+   "date": "2001-10",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "I called the President. I called Tommy back within 4 Y2 minutes and told him the President agreed."
+  },
+  {
+   "source": "Tommy Franks",
+   "target": "CENTCOM",
+   "type": "leads",
+   "detail": "Franks is the CENTCOM commander, with a CENTCOM lawyer on his staff.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "if it was true that the CENTCOM lawyer had inhibited him from hitting that target"
+  },
+  {
+   "source": "Paul Wolfowitz",
+   "target": "Donald Rumsfeld",
+   "type": "deputy_of",
+   "detail": "Wolfowitz is the fallback authority if Rumsfeld cannot be reached for a strike decision.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "he can't get me or he can't get Wolfowitz in time, he should hit it."
+  },
+  {
+   "source": "Donald Rumsfeld",
+   "target": "Office of the Secretary of Defense",
+   "type": "leads",
+   "detail": "The memo is from Rumsfeld as Secretary of Defense.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "SUBJECT: Discussions w/CENTCOM re: Sy Hersh Article"
+  },
+  {
+   "source": "Mullah Omar",
+   "target": "Taliban",
+   "type": "leads",
+   "detail": "Omar is listed among the senior Taliban leadership to be targeted.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "Getting Usama bin Laden, Omar and the senior Taliban and AI Qaeda leadership is enormously important."
+  },
+  {
+   "source": "Usama bin Laden",
+   "target": "al-Qa'ida",
+   "type": "leads",
+   "detail": "Bin Laden is named first among the al-Qaeda leadership to be targeted.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "Getting Usama bin Laden, Omar and the senior Taliban and AI Qaeda leadership is enormously important."
+  },
+  {
+   "source": "Taliban",
+   "target": "al-Qa'ida",
+   "type": "allied_with",
+   "detail": "The memo groups the Taliban and al-Qaeda leaderships as joint targets.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "senior Taliban and AI Qaeda leadership"
+  }
+ ],
+ "sources_cited": [
+  "Sy Hersh article in The New Yorker"
+ ],
+ "key_claims": [
+  "Rumsfeld gave Franks standing authority to strike targets immediately if they were at risk of escaping, pending presidential approval.",
+  "Franks denied that the CENTCOM lawyer slowed the strike, though Rumsfeld suspected he had not been given the full story.",
+  "Rumsfeld instructed Franks to have a high tolerance for error and strike valid targets without waiting if neither he nor Wolfowitz could be reached.",
+  "Bin Laden, Mullah Omar and senior Taliban and al-Qaeda leaders were the top-priority targets in October 2001."
+ ]
+}

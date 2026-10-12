@@ -1,0 +1,626 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb253-doc05-1998-08-28-afghanistan-taleban-external-ambitions",
+  "title": "Afghanistan: Taleban External Ambitions",
+  "authors": "U.S. Department of State, Bureau of Intelligence and Research (INR)",
+  "publisher": "National Security Archive (GWU), 1998 Missile Strikes on Bin Laden May Have Backfired",
+  "published": "1998-08-28",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB253/19980828b.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB253/index.htm",
+  "pages": 2,
+  "kind": "intelligence report",
+  "note": "[Secret] Despite limited capacity, signs including Mullah Omar's statements after the embassy bombings indicate a broadening of Taliban goals. Under bin Laden's influence the Taliban may expand beyond Afghanistan. Taliban-like movements in Pakistan are already feeling its influence, and Iran fears Sunni cross-border subversion.",
+  "collection": "NSAEBB253",
+  "doc_number": "Document 5",
+  "relevance": "high",
+  "ocr": 2
+ },
+ "persons": [
+  {
+   "name": "Mullah Omar",
+   "aliases": [
+    "Mullah Muhammad Omar"
+   ],
+   "role": "Taleban Supreme Leader",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "recent reported criticisms of Saudi Arabia and the US military presence in the Gulf by Taleban Supreme Leader Mullah Omar"
+    }
+   ]
+  },
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Usama bin Laden"
+   ],
+   "role": "Exiled renegade Saudi financier based in Afghanistan; possible influence on Mullah Omar; associated with training camps",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "possibly reflecting the influence of exiled renegade Saudi financier Usama bin Ladin"
+    },
+    {
+     "timestamp": "p.2",
+     "quote": "training camps for Kashmiri and other militants (some of which are associated with bin Ladin) have operated for many years"
+    }
+   ]
+  },
+  {
+   "name": "Masood",
+   "aliases": [
+    "Ahmad Shah Massoud",
+    "Ahmad Shah Masood"
+   ],
+   "role": "Northern alliance commander",
+   "organizations": [
+    "Northern Alliance"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Northern Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "With northern alliance commander Masood's forces digging in for the coming winter"
+    }
+   ]
+  },
+  {
+   "name": "Saddam Hussein",
+   "aliases": [],
+   "role": "Iraqi leader who allows Mujahideen-e-Khalk bases in eastern Iraq",
+   "organizations": [],
+   "nationality_or_origin": "Iraqi",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Iraq"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "just as Saddam Hussein allows them to maintain bases in eastern Iraq"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Taliban",
+   "aliases": [
+    "Taleban"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Jamiat-i-Ulema Islam"
+   ],
+   "rivals": [
+    "Northern Alliance"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Emerged 1994; dependent on Islamabad for material and diplomatic support; hosts foreign militant training camps."
+  },
+  {
+   "name": "Northern Alliance",
+   "aliases": [
+    "northern alliance"
+   ],
+   "type": "militia",
+   "parent_or_allies": [
+    "Iran"
+   ],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Led militarily by Masood; Iran is a key patron."
+  },
+  {
+   "name": "Jamiat-i-Ulema Islam",
+   "aliases": [
+    "Jamiat-i-Ulema-e-Islam",
+    "JUI"
+   ],
+   "type": "political movement",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Pro-Deobandi Islamist party in NWFP and Baluchistan; its madrassas gave Taleban early indoctrination."
+  },
+  {
+   "name": "Mujahideen-e-Khalk",
+   "aliases": [
+    "Mujahedin-e Khalq",
+    "MEK"
+   ],
+   "type": "militia",
+   "parent_or_allies": [],
+   "rivals": [
+    "Iran"
+   ],
+   "country_base": "Iraq",
+   "notes": "Anti-Iranian regime group; Tehran fears it may operate from western Afghanistan."
+  },
+  {
+   "name": "al-Qa'ida",
+   "aliases": [
+    "al-Qaeda"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Not named directly; bin Ladin-associated camps referenced."
+  },
+  {
+   "name": "Embassy Islamabad",
+   "aliases": [
+    "US Embassy Islamabad"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "US Department of State"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Source of assessment on Mullah Omar's criticisms."
+  },
+  {
+   "name": "Pakistan government (Islamabad)",
+   "aliases": [
+    "Islamabad"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Evidently encourages protection of Kashmiri training camps; supports Taleban."
+  },
+  {
+   "name": "Iran",
+   "aliases": [
+    "Tehran"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Northern Alliance"
+   ],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Iran",
+   "notes": "Patron of northern alliance; fears Taleban-inspired subversion."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Taleban base, hosts training camps"
+  },
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Taleban influence; JUI; Kashmir support"
+  },
+  {
+   "name": "North West Frontier Province",
+   "type": "province",
+   "country": "Pakistan",
+   "parent": "Pakistan",
+   "significance": "JUI base"
+  },
+  {
+   "name": "Baluchistan",
+   "type": "province",
+   "country": "Pakistan",
+   "parent": "Pakistan",
+   "significance": "JUI base"
+  },
+  {
+   "name": "Mazar-i-Sharif",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Iranian diplomats murdered there in August 1998"
+  },
+  {
+   "name": "Kashmir",
+   "type": "region",
+   "country": "India/Pakistan",
+   "parent": "",
+   "significance": "Insurgency fueled by militants trained in Afghan camps"
+  },
+  {
+   "name": "Tajikistan",
+   "type": "country",
+   "country": "Tajikistan",
+   "parent": "",
+   "significance": "Vulnerable to Taleban-inspired subversion"
+  },
+  {
+   "name": "Iran",
+   "type": "country",
+   "country": "Iran",
+   "parent": "",
+   "significance": "Fears Taleban subversion"
+  },
+  {
+   "name": "Iraq",
+   "type": "country",
+   "country": "Iraq",
+   "parent": "",
+   "significance": "MEK bases in east"
+  }
+ ],
+ "events": [
+  {
+   "date": "1994",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Taleban emerged with objective of ending fighting and establishing Sunni Islamic republic.",
+   "place": "Afghanistan",
+   "actors": [
+    "Taliban"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998-08",
+   "date_precision": "month",
+   "type": "attack",
+   "description": "Several Iranian diplomats murdered in Mazar-i-Sharif.",
+   "place": "Mazar-i-Sharif",
+   "actors": [
+    "Taliban",
+    "Iran"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1994",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Taleban emerge, aiming to end fighting and establish a Sunni Islamic republic.",
+   "place": "Afghanistan",
+   "actors": [
+    "Taliban"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1997-08",
+   "date_precision": "month",
+   "type": "attack",
+   "description": "Several Iranian diplomats murdered in Mazar-i-Sharif (stated as 'last August'; assessment dated 1998, so likely 1998-08).",
+   "place": "Mazar-i-Sharif",
+   "actors": [
+    "Taliban",
+    "Iran"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1979",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Iran's revolution, after which Iran sought to export its brand of Islam.",
+   "place": "Iran",
+   "actors": [
+    "Iran"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998-08-28",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "INR intelligence assessment 'Afghanistan: Taleban External Ambitions' issued.",
+   "place": "",
+   "actors": [
+    "Embassy Islamabad"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Mullah Omar",
+   "target": "Taliban",
+   "type": "leads",
+   "detail": "Supreme Leader of the Taleban.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Taleban Supreme Leader Mullah Omar"
+  },
+  {
+   "source": "Mullah Omar",
+   "target": "Usama bin Ladin",
+   "type": "other",
+   "detail": "Omar's criticisms of Saudi Arabia and US may reflect bin Ladin's influence.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "possibly reflecting the influence of exiled renegade Saudi financier Usama bin Ladin"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Taliban",
+   "type": "hosted_by",
+   "detail": "Bin Ladin and other guest militants live in proximity to the Taleban.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Despite the proximity of bin Ladin and other \"guest\" militants"
+  },
+  {
+   "source": "Taliban",
+   "target": "Jamiat-i-Ulema Islam",
+   "type": "trained_by",
+   "detail": "JUI madrassas provided Taleban with much of their early indoctrination.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "madrassas (Islamic schools and colleges) provided the Taleban with much of their early indoctrination"
+  },
+  {
+   "source": "Masood",
+   "target": "Northern Alliance",
+   "type": "leads",
+   "detail": "Masood is a northern alliance commander.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "northern alliance commander Masood's forces"
+  },
+  {
+   "source": "Northern Alliance",
+   "target": "Iran",
+   "type": "funded_by",
+   "detail": "Iran is a key patron of the northern alliance.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Iran--a key patron of the anti-Taleban northern alliance"
+  },
+  {
+   "source": "Taliban",
+   "target": "Pakistan government (Islamabad)",
+   "type": "funded_by",
+   "detail": "Taleban dependent on Islamabad for material and diplomatic support.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "so long as they remain dependent on Islamabad for material and diplomatic support"
+  },
+  {
+   "source": "Taliban",
+   "target": "Pakistan government (Islamabad)",
+   "type": "allied_with",
+   "detail": "With Pakistani encouragement the Taleban condone and protect Kashmiri militant camps.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "With evident Pakistani encouragement, the movement continues to condone and protect these activities"
+  },
+  {
+   "source": "Taliban",
+   "target": "Northern Alliance",
+   "type": "rival_of",
+   "detail": "Taleban fight rival Afghan factions.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "eliminating factional rivals within Afghanistan"
+  },
+  {
+   "source": "Masood",
+   "target": "Northern Alliance",
+   "type": "member_of",
+   "detail": "Masood is identified as a northern alliance commander.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "northern alliance commander Masood's forces digging in for the coming winter"
+  },
+  {
+   "source": "Taliban",
+   "target": "Masood",
+   "type": "rival_of",
+   "detail": "The Taleban are fighting Masood's forces.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "northern alliance commander Masood's forces digging in for the coming winter"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Bin Ladin is among guest militants living in Taleban-held Afghanistan.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Despite the proximity of bin Ladin and other \"guest\" militants"
+  },
+  {
+   "source": "Jamiat-i-Ulema Islam",
+   "target": "North West Frontier Province",
+   "type": "located_in",
+   "detail": "JUI is based in NWFP and Baluchistan.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "a pro-Deobandi Islamist party based in the North West Frontier Province and Baluchistan"
+  },
+  {
+   "source": "Jamiat-i-Ulema Islam",
+   "target": "Baluchistan",
+   "type": "located_in",
+   "detail": "JUI is based in NWFP and Baluchistan.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "a pro-Deobandi Islamist party based in the North West Frontier Province and Baluchistan"
+  },
+  {
+   "source": "Iran",
+   "target": "Northern Alliance",
+   "type": "funded_by",
+   "detail": "Iran is described as a key patron of the anti-Taleban northern alliance; direction: Northern Alliance is supported by Iran.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Iran--a key patron of the anti-Taleban northern alliance"
+  },
+  {
+   "source": "Iran",
+   "target": "Taliban",
+   "type": "rival_of",
+   "detail": "Iran fears Taleban-inspired subversion and opposes the Taleban.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Its concern about Taleban intentions was underscored by the murder of several Iranian diplomats in Mazar-i-Sharif"
+  },
+  {
+   "source": "Mujahideen-e-Khalk",
+   "target": "Saddam Hussein",
+   "type": "sheltered_by",
+   "detail": "Saddam allows the MEK to maintain bases in eastern Iraq.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Saddam Hussein allows them to maintain bases in eastern Iraq"
+  },
+  {
+   "source": "Mujahideen-e-Khalk",
+   "target": "Iraq",
+   "type": "located_in",
+   "detail": "MEK maintains bases in eastern Iraq.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "maintain bases in eastern Iraq"
+  },
+  {
+   "source": "Mujahideen-e-Khalk",
+   "target": "Iran",
+   "type": "rival_of",
+   "detail": "MEK is an anti-Iranian regime group.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "the anti-Iranian regime Mujahideen-e-Khalk"
+  },
+  {
+   "source": "Taliban",
+   "target": "Mujahideen-e-Khalk",
+   "type": "allied_with",
+   "detail": "Tehran fears the Taleban may permit MEK to operate from western Afghanistan (speculative).",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "Tehran may fear that the Taliban will permit the anti-Iranian regime Mujahideen-e-Khalk to operate from western Afghanistan"
+  },
+  {
+   "source": "Taliban",
+   "target": "Tajikistan",
+   "type": "rival_of",
+   "detail": "Taleban may punish Central Asian states, with Tajikistan especially vulnerable to Taleban-inspired subversion.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "Tajikistan, with its fragile internal peace process, could be especially vulnerable to Taleban-inspired subversion"
+  },
+  {
+   "source": "Taliban",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "The Taleban control most of northern Afghanistan.",
+   "date": "1998",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Currently controlling most of northern Afghanistan"
+  },
+  {
+   "source": "Taliban",
+   "target": "Kashmir",
+   "type": "other",
+   "detail": "Taleban control areas with camps for Kashmiri militants, and condone and protect them.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "the Taleban now control areas of Afghanistan where training camps for Kashmiri and other militants"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "al-Qa'ida",
+   "type": "other",
+   "detail": "Some training camps in Taleban territory are associated with bin Ladin.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "some of which are associated with bin Ladin"
+  },
+  {
+   "source": "Embassy Islamabad",
+   "target": "Mullah Omar",
+   "type": "other",
+   "detail": "Embassy Islamabad reports Omar's criticisms of Saudi Arabia and the US military presence.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Embassy Islamabad suggests that recent reported criticisms of Saudi Arabia and the US military presence in the Gulf"
+  }
+ ],
+ "sources_cited": [
+  "Embassy Islamabad reporting"
+ ],
+ "key_claims": [
+  "The Taleban lack the resources and ideological vision to pursue a broad pan-Islamic agenda and remain focused on military victory in Afghanistan.",
+  "Taleban willingness to host foreign militant training camps could become a ready-made asset for exporting their revolution.",
+  "Taleban control areas with Kashmiri and bin Ladin-associated training camps and, with Pakistani encouragement, protect them.",
+  "Mullah Omar's criticism of Saudi Arabia and the US Gulf presence may reflect bin Ladin's influence.",
+  "Taleban rise has boosted JUI and further radicalized Pakistani Sunni militants against Shia.",
+  "Iran and Central Asian states, notably Tajikistan, fear Taleban-inspired subversion."
+ ]
+}

@@ -1,0 +1,201 @@
+{
+ "document": {
+  "doc_id": "nsa-2021-afghanistan-2020-20-year-war-2-doc02-2002-03-28-rumsfeld-snowflake-to-larry-di-rita-weekly-meeting",
+  "title": "Rumsfeld snowflake to Larry Di Rita, \"Weekly Meeting on Afghanistan\"",
+  "authors": "Office of the Secretary of Defense (Donald Rumsfeld)",
+  "publisher": "National Security Archive (GWU), Afghanistan 20/20: The 20-Year War in 20 Documents | National Security Archive",
+  "published": "2002-03-28",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qy3fic-cl4be/02.pdf",
+  "source_page": "https://nsarchive.gwu.edu/briefing-book/afghanistan/2021-08-19/afghanistan-2020-20-year-war-20-documents",
+  "pages": 1,
+  "kind": "memo",
+  "note": "[Unclassified] After the swift victory over the Taliban, Rumsfeld worried by March 2002 that Afghanistan was 'drifting' and asked for a weekly meeting. The same day, in a public interview, he said there was no point negotiating with Taliban remnants.",
+  "collection": "new-afghanistan-2020-20-year-war-20-docu",
+  "doc_number": "Document 2",
+  "relevance": "medium",
+  "ocr": 0
+ },
+ "persons": [
+  {
+   "name": "Donald Rumsfeld",
+   "aliases": [
+    "Donald H. Rumsfeld",
+    "DHR",
+    "Donald Rumsfeld Jr"
+   ],
+   "role": "US Secretary of Defense; author of the snowflake memo",
+   "organizations": [
+    "Office of the Secretary of Defense"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "FROM: Donald Rumsfeld"
+    },
+    {
+     "timestamp": "p.1",
+     "quote": "Please see me about having a weekly meeting on Afghanistan. I am getting concerned that it is drifting."
+    }
+   ]
+  },
+  {
+   "name": "Larry Di Rita",
+   "aliases": [],
+   "role": "Aide to the Secretary of Defense; addressee of the memo",
+   "organizations": [
+    "Office of the Secretary of Defense"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "TO: Larry Di Rita"
+    }
+   ]
+  },
+  {
+   "name": "Col. Bucci",
+   "aliases": [
+    "Colonel Bucci"
+   ],
+   "role": "Military aide copied on the memo",
+   "organizations": [
+    "Office of the Secretary of Defense"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "CC: Col. Bucci"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Office of the Secretary of Defense",
+   "aliases": [
+    "OSD"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "US Department of Defense"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Originating office of the snowflake memo."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Subject of the proposed weekly meeting; Rumsfeld worried the effort there was drifting."
+  }
+ ],
+ "events": [
+  {
+   "date": "2002-03-28",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Rumsfeld sends a snowflake memo to Larry Di Rita, copying Col. Bucci, asking for a weekly meeting on Afghanistan because he is concerned it is drifting.",
+   "place": "Afghanistan",
+   "actors": [
+    "Donald Rumsfeld",
+    "Larry Di Rita",
+    "Col. Bucci"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2002-03-28",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Rumsfeld sends a snowflake memo to Larry Di Rita (cc Col. Bucci) requesting a weekly meeting on Afghanistan because he is concerned the effort is drifting.",
+   "place": "Afghanistan",
+   "actors": [
+    "Donald Rumsfeld",
+    "Larry Di Rita",
+    "Col. Bucci"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Larry Di Rita",
+   "target": "Donald Rumsfeld",
+   "type": "reports_to",
+   "detail": "Di Rita is the addressee of Rumsfeld's instruction to arrange a weekly Afghanistan meeting.",
+   "date": "2002-03-28",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Please see me about having a weekly meeting on Afghanistan."
+  },
+  {
+   "source": "Col. Bucci",
+   "target": "Donald Rumsfeld",
+   "type": "reports_to",
+   "detail": "Col. Bucci is copied on Rumsfeld's memo, implying a subordinate staff role.",
+   "date": "2002-03-28",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "CC: Col. Bucci"
+  },
+  {
+   "source": "Donald Rumsfeld",
+   "target": "Office of the Secretary of Defense",
+   "type": "leads",
+   "detail": "Rumsfeld authored the memo as Secretary of Defense; the document is in OSD records.",
+   "date": "2002-03-28",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "FROM: Donald Rumsfeld · ,Jr SUBJECT: Weekly Meeting on Afghanistan"
+  },
+  {
+   "source": "Larry Di Rita",
+   "target": "Office of the Secretary of Defense",
+   "type": "member_of",
+   "detail": "Di Rita is the memo recipient within Rumsfeld's office.",
+   "date": "2002-03-28",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "TO: Larry Di Rita"
+  },
+  {
+   "source": "Col. Bucci",
+   "target": "Office of the Secretary of Defense",
+   "type": "member_of",
+   "detail": "Col. Bucci is copied on the OSD memo.",
+   "date": "2002-03-28",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "CC: Col. Bucci"
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "On 28 March 2002 Rumsfeld expressed concern that the Afghanistan effort was 'drifting'.",
+  "Rumsfeld requested a weekly meeting on Afghanistan to maintain focus."
+ ]
+}

@@ -1,0 +1,116 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb272-doc11-1989-01-24-politburo-session-january-24-1989",
+  "title": "Politburo Session, January 24, 1989",
+  "authors": "CPSU Politburo",
+  "publisher": "National Security Archive (GWU), Afghanistan and the Soviet Withdrawal 1989 20 Years Later",
+  "published": "1989-01-24",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/EBB%20withdrawal%20from%20Afghanisstan/Doc%2011%201989-01-24%20Politburo%20on%20Afghanistan.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB272/index.htm",
+  "pages": 9,
+  "kind": "transcript",
+  "note": "Session on completing the withdrawal and the post-war Soviet role in Afghanistan. It shows a split in the leadership, with Shevardnadze arguing for leaving personnel behind to protect the Najibullah regime or delaying full withdrawal.",
+  "collection": "NSAEBB272",
+  "doc_number": "Document 11",
+  "relevance": "medium",
+  "ocr": 0
+ },
+ "persons": [],
+ "organizations": [
+  {
+   "name": "National Security Archive",
+   "aliases": [
+    "National Security Archive (GWU)",
+    "NSArchive"
+   ],
+   "type": "other",
+   "parent_or_allies": [
+    "George Washington University"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Publisher of the web page. The chunk contains only site navigation and boilerplate, with no text of the Politburo session."
+  },
+  {
+   "name": "George Washington University",
+   "aliases": [
+    "GWU"
+   ],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Hosts the National Security Archive at Gelman Library."
+  },
+  {
+   "name": "Digital National Security Archive",
+   "aliases": [
+    "DNSA"
+   ],
+   "type": "other",
+   "parent_or_allies": [
+    "National Security Archive"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Online collection of declassified records. Appears only in site boilerplate."
+  }
+ ],
+ "places": [
+  {
+   "name": "Washington, D.C.",
+   "type": "city",
+   "country": "United States",
+   "parent": "United States",
+   "significance": "Location of the National Security Archive. Appears only in the site footer."
+  }
+ ],
+ "events": [],
+ "relationships": [
+  {
+   "source": "National Security Archive",
+   "target": "George Washington University",
+   "type": "member_of",
+   "detail": "The National Security Archive is housed at Gelman Library, George Washington University.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "Suite 700, Gelman Library The George Washington University 2130 H Street, NW"
+  },
+  {
+   "source": "National Security Archive",
+   "target": "George Washington University",
+   "type": "located_in",
+   "detail": "The National Security Archive's address is in Gelman Library at The George Washington University.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.8",
+   "quote": "National Security Archive Suite 700, Gelman Library The George Washington University 2130 H Street, NW"
+  },
+  {
+   "source": "National Security Archive",
+   "target": "Washington, D.C.",
+   "type": "located_in",
+   "detail": "The Archive's address is given as Washington, D.C., 20037.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.9",
+   "quote": "Washington, D.C., 20037"
+  },
+  {
+   "source": "Digital National Security Archive",
+   "target": "National Security Archive",
+   "type": "member_of",
+   "detail": "The DNSA is presented as a collection and publication of the National Security Archive.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.6",
+   "quote": "The Digital National Security Archive (DNSA) is an invaluable online collection of more than 100,000 declassified records"
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "The chunk holds only website navigation and boilerplate from the National Security Archive page.",
+  "The chunk does not contain the Politburo session transcript, so no actors or events from the Soviet withdrawal from Afghanistan can be extracted from it."
+ ]
+}

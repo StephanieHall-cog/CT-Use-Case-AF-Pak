@@ -1,0 +1,300 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc16-1997-01-31-terrorism-establishment-of-a-tripartite-agreement",
+  "title": "Terrorism: Establishment of a Tripartite Agreement Among Usama Bin Ladin, Iran, and the NIF",
+  "authors": "CIA",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "1997-01-31",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7wuu-jeagl/1997-01-31-terrorism-establishment-of-a.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 5,
+  "kind": "intelligence report",
+  "note": "CIA Intelligence Report on a tripartite agreement among bin Ladin, Iran and the NIF. Source: 9/11 Commission Report, Chapter 2, Endnote 52.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 16",
+  "relevance": "high",
+  "ocr": 1
+ },
+ "persons": [
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Usama bin Laden"
+   ],
+   "role": "Party to the tripartite agreement with Iran and the Sudanese NIF (named in the subject line)",
+   "organizations": [
+    "Islamic Army",
+    "Sudanese National Islamic Front"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Sudan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "ESTABLISHMENT OF A TRIPARTITE AGREEMENT AMONG USAMA BIN LADIN, IRAN, AND THE NIF"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Sudanese National Islamic Front",
+   "aliases": [
+    "NIF",
+    "National Islamic Front"
+   ],
+   "type": "political movement",
+   "parent_or_allies": [
+    "Iran",
+    "Usama bin Ladin"
+   ],
+   "rivals": [],
+   "country_base": "Sudan",
+   "notes": "Circa 1991, it shared anti-imperialist objectives with Iran and was to coordinate activities with it."
+  },
+  {
+   "name": "Iran",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [
+    "Sudanese National Islamic Front",
+    "Usama bin Ladin",
+    "Lebanese Hizballah"
+   ],
+   "rivals": [
+    "Israel",
+    "United States"
+   ],
+   "country_base": "Iran",
+   "notes": "State party to the tripartite agreement. Its experience was to be transferred to extremist groups lacking it."
+  },
+  {
+   "name": "Lebanese Hizballah",
+   "aliases": [
+    "Hizballah",
+    "Hezbollah"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Iran"
+   ],
+   "rivals": [
+    "Israel"
+   ],
+   "country_base": "Lebanon",
+   "notes": "Its experience was to be transferred to the Islamic Army. Its representatives are mentioned, but the text is fragmentary."
+  },
+  {
+   "name": "Islamic Army",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Usama bin Ladin",
+    "Iran",
+    "Lebanese Hizballah"
+   ],
+   "rivals": [],
+   "country_base": "Sudan",
+   "notes": "The text is fragmentary. Its members were to gain expertise from Hizballah and Iran."
+  }
+ ],
+ "places": [
+  {
+   "name": "Sudan",
+   "type": "country",
+   "country": "Sudan",
+   "parent": "",
+   "significance": "Country of the NIF. The report is tagged SUDAN/IRAN."
+  },
+  {
+   "name": "Iran",
+   "type": "country",
+   "country": "Iran",
+   "parent": "",
+   "significance": "Party to the tripartite agreement."
+  }
+ ],
+ "events": [
+  {
+   "date": "approx 1991",
+   "date_precision": "approx",
+   "type": "agreement",
+   "description": "Sudan's NIF, Iran and Bin Ladin were said to share common anti-imperialist objectives. They agreed to collaborate politically and militarily, primarily against Israel and the US and secondarily against Arab regimes that supported them.",
+   "place": "Sudan",
+   "actors": [
+    "Usama bin Ladin",
+    "Iran",
+    "Sudanese National Islamic Front"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1997-01-31",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA information report on the establishment of the tripartite agreement was disseminated.",
+   "place": "",
+   "actors": [
+    "Central Intelligence Agency"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "approx 1991",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Circa 1991, the NIF and Iran were said to share anti-imperialist objectives and to need to coordinate. The idea of a tripartite front of Shia and Sunni Islamists was floated.",
+   "place": "Sudan",
+   "actors": [
+    "Sudanese National Islamic Front",
+    "Iran",
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "approx 1991",
+   "date_precision": "approx",
+   "type": "agreement",
+   "description": "An agreement was reached among bin Ladin, Iran and the NIF to collaborate politically and militarily. The primary goal was to confront Israel and the US, and the secondary goal was to undermine Arab regimes supporting them.",
+   "place": "Sudan",
+   "actors": [
+    "Usama bin Ladin",
+    "Iran",
+    "Sudanese National Islamic Front"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1997-01-31",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA information report disseminated (TOT 311834Z JAN 97) on the establishment of the tripartite agreement.",
+   "place": "",
+   "actors": [
+    "Usama bin Ladin",
+    "Iran",
+    "Sudanese National Islamic Front"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Usama bin Ladin",
+   "target": "Iran",
+   "type": "allied_with",
+   "detail": "The tripartite agreement committed them to political and military collaboration.",
+   "date": "approx 1991",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "AN AGREEMENT WAS REACHED TO COLLABORATE POLITICALLY AND MILITARILY."
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Sudanese National Islamic Front",
+   "type": "allied_with",
+   "detail": "The NIF was the third party to the tripartite agreement.",
+   "date": "approx 1991",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "ESTABLISHMENT OF A TRIPARTITE AGREEMENT AMONG USAMA BIN LADIN, IRAN, AND THE NIF"
+  },
+  {
+   "source": "Sudanese National Islamic Front",
+   "target": "Iran",
+   "type": "allied_with",
+   "detail": "They had common anti-imperialist objectives and were to coordinate their activities.",
+   "date": "approx 1991",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "COMMON ANTI-IMPERIALIST OBJECTIVES AND, AS SUCH, SHOULD COORDINATE THEIR ACTIVITIES"
+  },
+  {
+   "source": "Islamic Army",
+   "target": "Lebanese Hizballah",
+   "type": "trained_by",
+   "detail": "Experience from Hizballah and Iran was to be transferred to extremist groups lacking expertise, allowing Islamic Army members to gain skills.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.4",
+   "quote": "EXPERIENCE FROM HIZBALLAH AND IRAN SHOULD BE TRANSFERRED TO NEW NATIONS/EXTREMIST GROUPS WHO LACK THIS EXPERTISE."
+  },
+  {
+   "source": "Sudanese National Islamic Front",
+   "target": "Iran",
+   "type": "allied_with",
+   "detail": "Circa 1991, the NIF and Iran were described as having common anti-imperialist objectives and as needing to coordinate their activities.",
+   "date": "circa 1991",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "CIRCA 1991, SUDANESE NATIONAL ISLAMIC -FRONT (NIF.... AND. IRAN HAD COMMON ANTI-IMPERIALIST 'OBJECTIVES AND, AS SUCH, SHOULD COORDINATE THEIR ACTIVITIES"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Iran",
+   "type": "allied_with",
+   "detail": "Shia and Sunni Islamists were seen as able to form a tripartite front. The report title names a tripartite agreement among bin Ladin, Iran and the NIF.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "SHIA AND SUNNI ISLAMISTS MIGHT EFFECTIVELY COORDINATE THEIR ACTIVITIES AND FORM A TRIPARTITE FRONT AGAINST THEIR COMMON ENEMIES"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Sudanese National Islamic Front",
+   "type": "allied_with",
+   "detail": "Per the report title, bin Ladin was a party to a tripartite agreement with the NIF and Iran.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "ESTABLISHMENT OF A TRIPARTITE AGREEMENT AMONG USAMA BIN LADIN, IRAN, AND TEE NIF"
+  },
+  {
+   "source": "Sudanese National Islamic Front",
+   "target": "Usama bin Ladin",
+   "type": "allied_with",
+   "detail": "The tripartite agreement committed the parties to political and military collaboration against Israel and the US.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "EVENTUALLY AN AGREEMENT WAS REACHED TO COLLABORATE POLITICALLY AND MILITARILY."
+  },
+  {
+   "source": "Islamic Army",
+   "target": "Iran",
+   "type": "trained_by",
+   "detail": "Iranian experience was to be transferred so Islamic Army members could gain operational expertise.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.4",
+   "quote": "THIS WOULD THEN ALLOW ISLAMIC ARMY MEMBERS TO GAIN THE"
+  },
+  {
+   "source": "Sudanese National Islamic Front",
+   "target": "Sudan",
+   "type": "located_in",
+   "detail": "The NIF is a Sudanese organization, and the report is filed under country Sudan/Iran.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "COUNTRY: SUDAN/IRAN"
+  }
+ ],
+ "sources_cited": [
+  "CIA information report, 31 January 1997 (not finally evaluated intelligence)"
+ ],
+ "key_claims": [
+  "Circa 1991, the Sudanese NIF, Iran and Usama bin Ladin were said to have formed a tripartite agreement to collaborate politically and militarily.",
+  "The primary goal was to confront Israel and the United States, and the secondary goal was to undermine Arab regimes supporting them.",
+  "Shia and Sunni Islamists might effectively coordinate against common enemies through a tripartite front.",
+  "Hizballah and Iranian expertise was to be transferred to extremist groups, including Islamic Army members."
+ ]
+}

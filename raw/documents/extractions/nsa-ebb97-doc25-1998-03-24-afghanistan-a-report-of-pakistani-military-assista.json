@@ -1,0 +1,417 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb97-doc25-1998-03-24-afghanistan-a-report-of-pakistani-military-assista",
+  "title": "Afghanistan: A Report of Pakistani Military Assistance to the Taliban",
+  "authors": "U.S. Consulate Peshawar",
+  "publisher": "National Security Archive (GWU), The Taliban File",
+  "published": "1998-03-24",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB97/tal25.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB97/index.htm",
+  "pages": 3,
+  "kind": "cable",
+  "note": "[Confidential] Relays an unconfirmed incident of alleged Pakistani military assistance: 25 large Mercedes Benz trucks full of Pakistani fighters delivered to Kabul airport for transport to Kunduz to assist the Taliban.",
+  "collection": "NSAEBB97",
+  "doc_number": "Document 25",
+  "relevance": "high",
+  "ocr": 3
+ },
+ "persons": [
+  {
+   "name": "Brad Hanson",
+   "aliases": [
+    "Hanson"
+   ],
+   "role": "Principal Officer, American Consulate Peshawar (classifier and signatory of the cable)",
+   "organizations": [
+    "U.S. Consulate Peshawar",
+    "U.S. Department of State"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Peshawar"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "CLASSIFIED BY: BRAD HANSON, PRINCIPAL OFFICER, AMCONSUL PESHAWAR."
+    }
+   ]
+  },
+  {
+   "name": "Unnamed Afghan truck driver",
+   "aliases": [],
+   "role": "Source of the second-hand report; driver of one of the 25 Mercedes Benz trucks",
+   "organizations": [],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Jalalabad",
+    "Kabul"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "ACCORDING TO THE TRUCK DRIVER, ABOUT 12 DAYS BEFORE THE DISCUSSION, 25 LARGE MERCEDES BENZ TRUCKS"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Taliban",
+   "aliases": [
+    "Taleban"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Pakistani government (alleged)"
+   ],
+   "rivals": [
+    "Taliban opponents in northern Afghanistan"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Alleged recipient of Pakistani fighters and advisers. Operates an air bridge to Kunduz and is preparing a third northern offensive in spring 1998."
+  },
+  {
+   "name": "Pakistani government",
+   "aliases": [
+    "Government of Pakistan"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Alleged to have assisted the transport of fighters, given the scale and organization of the operation."
+  },
+  {
+   "name": "Pakistani military and intelligence officers",
+   "aliases": [
+    "Pakistan military",
+    "Pakistani intelligence"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "Pakistani government"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "The post has reported anecdotal evidence of these officers advising the Taliban inside Afghanistan."
+  },
+  {
+   "name": "Pakistani madrassahs",
+   "aliases": [
+    "Pakistani madrasas"
+   ],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "The graduates are the 'Pakistani Taliban'. Hundreds joined the Taliban, with a large influx in summer 1997."
+  },
+  {
+   "name": "U.S. Consulate Peshawar",
+   "aliases": [
+    "AMCONSUL PESHAWAR"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "U.S. Department of State"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Author of the cable."
+  },
+  {
+   "name": "U.S. Department of State",
+   "aliases": [
+    "SECSTATE"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Main addressee of the cable."
+  }
+ ],
+ "places": [
+  {
+   "name": "Kabul airport",
+   "type": "base",
+   "country": "Afghanistan",
+   "parent": "Kabul",
+   "significance": "Destination of the trucks carrying the alleged Pakistani fighters, who were to be flown on to Kunduz."
+  },
+  {
+   "name": "Kunduz",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Kunduz",
+   "significance": "Taliban northern beachhead, reached by air bridge."
+  },
+  {
+   "name": "Jalalabad",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Nangarhar",
+   "significance": "Starting point of the truck convoy to Kabul."
+  },
+  {
+   "name": "Kabul",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Convoy destination."
+  },
+  {
+   "name": "Peshawar",
+   "type": "city",
+   "country": "Pakistan",
+   "parent": "Khyber Pakhtunkhwa",
+   "significance": "Location of the U.S. Consulate that wrote the cable."
+  }
+ ],
+ "events": [
+  {
+   "date": "1998-03-08",
+   "date_precision": "approx",
+   "type": "travel",
+   "description": "A convoy of 25 covered Mercedes Benz trucks, said to carry about 2000 Pakistani fighters, travelled at night from Jalalabad to Kabul airport, probably for onward transport to Kunduz. The report is unverified.",
+   "place": "Jalalabad to Kabul",
+   "actors": [
+    "Taliban",
+    "Unnamed Afghan truck driver"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1998-03-20",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "The Afghan political contact (name redacted) told a consulate officer of the truck driver's account.",
+   "place": "Peshawar",
+   "actors": [
+    "U.S. Consulate Peshawar"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1997-06",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "A particularly large influx of Pakistani Taliban joined the Taliban in summer 1997.",
+   "place": "Afghanistan",
+   "actors": [
+    "Taliban",
+    "Pakistani madrassahs"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1998-03-24",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Consulate Peshawar sent the cable reporting alleged Pakistani military assistance to the Taliban.",
+   "place": "Peshawar",
+   "actors": [
+    "U.S. Consulate Peshawar",
+    "Brad Hanson"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1997",
+   "date_precision": "approx",
+   "type": "travel",
+   "description": "A particularly large influx of Pakistani Taliban joined the Taliban in summer 1997.",
+   "place": "Afghanistan",
+   "actors": [
+    "Taliban",
+    "Pakistani madrassahs"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1998-03-08",
+   "date_precision": "approx",
+   "type": "travel",
+   "description": "25 Mercedes trucks reportedly carried about 2000 alleged Pakistani fighters at night from Jalalabad to Kabul airport for probable onward transport to Kunduz.",
+   "place": "Jalalabad to Kabul",
+   "actors": [
+    "Unnamed Afghan truck driver",
+    "Taliban",
+    "Pakistani government"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1998-03-20",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "An Afghan political contact told the Peshawar consulate principal officer about the alleged transport.",
+   "place": "Peshawar",
+   "actors": [
+    "U.S. Consulate Peshawar"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1998-03-24",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "The consulate cable reporting alleged Pakistani military assistance to the Taliban was sent.",
+   "place": "Peshawar",
+   "actors": [
+    "U.S. Consulate Peshawar",
+    "Brad Hanson",
+    "U.S. Department of State"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Pakistani government",
+   "target": "Taliban",
+   "type": "other",
+   "detail": "The Afghan contact implied that some part of the Pakistani government assisted the transport of fighters to the Taliban.",
+   "date": "1998-03",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "THE OPERATION WAS ASSISTED BY SOME PART OF THE PAKISTANI GOVERNMENT"
+  },
+  {
+   "source": "Pakistani military and intelligence officers",
+   "target": "Taliban",
+   "type": "other",
+   "detail": "Anecdotal reports of Pakistani officers advising the Taliban inside Afghanistan.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "OCCASIONAL ANECDOTAL EVIDENCE OF PAKISTANI MILITARY AND INTELLIGENCE OFFICERS ADVISING THE TALIBAN INSIDE AFGHANISTAN"
+  },
+  {
+   "source": "Pakistani madrassahs",
+   "target": "Taliban",
+   "type": "other",
+   "detail": "Hundreds of Pakistani Taliban from madrassahs joined the Taliban to fight their opponents.",
+   "date": "1997",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "HUNDREDS OF PAKISTANI TALIBAN HAVE JOINED THE TALIBAN TO FIGHT THEIR OPPONENTS"
+  },
+  {
+   "source": "Taliban",
+   "target": "Kunduz",
+   "type": "located_in",
+   "detail": "Kunduz is the Taliban's northern beachhead, supplied by an air bridge.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "THE TALIBAN HAVE LONG OPERATED AN AIR BRIDGE TO FERRY SUPPLIES AND MEN TO THEIR NORTHERN BEACHHEAD OF KUNDUZ"
+  },
+  {
+   "source": "Brad Hanson",
+   "target": "U.S. Consulate Peshawar",
+   "type": "leads",
+   "detail": "Brad Hanson is Principal Officer of the consulate and classified the cable.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "CLASSIFIED BY: BRAD HANSON, PRINCIPAL OFFICER, AMCONSUL PESHAWAR."
+  },
+  {
+   "source": "U.S. Consulate Peshawar",
+   "target": "U.S. Department of State",
+   "type": "member_of",
+   "detail": "The consulate reports to the State Department; the cable is addressed to SECSTATE.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "FM AMCONSUL PESHAWAR TO’ RUEHC/SECSTATE WASHDC PRIORITY 2263"
+  },
+  {
+   "source": "U.S. Consulate Peshawar",
+   "target": "Peshawar",
+   "type": "located_in",
+   "detail": "The consulate is based in Peshawar.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "FM AMCONSUL PESHAWAR"
+  },
+  {
+   "source": "Pakistani military and intelligence officers",
+   "target": "Taliban",
+   "type": "other",
+   "detail": "Pakistani military and intelligence officers are reported, anecdotally, to advise the Taliban inside Afghanistan.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "OCCASIONAL ANECDOTAL EVIDENCE OF PAKISTANI MILITARY AND INTELLIGENCE OFFICERS ADVISING THE TALIBAN INSIDE AFGHANISTAN."
+  },
+  {
+   "source": "Pakistani government",
+   "target": "Taliban",
+   "type": "other",
+   "detail": "The Afghan contact implied that some part of the Pakistani government assisted the transport of fighters to aid the Taliban.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "THE OPERATION WAS ASSISTED BY SOME PART OF THE PAKISTANI GOVERNMENT"
+  },
+  {
+   "source": "Pakistani madrassahs",
+   "target": "Taliban",
+   "type": "other",
+   "detail": "Graduates of Pakistani madrassahs are described as Pakistani Taliban who joined the Taliban to fight opponents.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "PAKISTANI TALIBAN, I.E., GRADUATES OF PAKISTANI MADRASSAHS"
+  },
+  {
+   "source": "Unnamed Afghan truck driver",
+   "target": "Taliban",
+   "type": "other",
+   "detail": "The truck driver was involved in the operation transporting fighters to assist the Taliban.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "AFGHAN TRUCK DRIVERS INVOLVED IN THE OPERATION"
+  },
+  {
+   "source": "Taliban",
+   "target": "Kunduz",
+   "type": "located_in",
+   "detail": "Kunduz is the Taliban's northern beachhead, supplied by an air bridge.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "AIR BRIDGE TO FERRY SUPPLIES AND MEN TO THEIR NORTHERN BEACHHEAD OF KUNDUZ"
+  },
+  {
+   "source": "Kabul airport",
+   "target": "Kabul",
+   "type": "located_in",
+   "detail": "Kabul airport is located in Kabul.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "TRANSPORTED TO KABUL AIRPORT BOUND FOR KUNDUZ"
+  }
+ ],
+ "sources_cited": [
+  "Unnamed Afghan political contact (name redacted), meeting of 20 March 1998",
+  "Unnamed Afghan truck driver (second-hand)",
+  "PESHAWAR 239 (reftel)",
+  "Earlier Consulate Peshawar reporting on anecdotal Pakistani advisers"
+ ],
+ "key_claims": [
+  "An Afghan political contact reported that about 2000 alleged Pakistani fighters were trucked from Jalalabad to Kabul airport around 8 March 1998, bound for Kunduz.",
+  "The consulate could not independently verify the report and judged the 2000 figure high for 25 trucks.",
+  "The Afghan contact implied that some part of the Pakistani government assisted the operation, given its scale and organization.",
+  "Hundreds of Pakistani madrassah Taliban joined the Taliban, with a particularly large influx in summer 1997.",
+  "The consulate had earlier reported anecdotal evidence of Pakistani military and intelligence officers advising the Taliban inside Afghanistan.",
+  "If true, the incident would be a major escalation of Pakistani assistance ahead of a third Taliban northern offensive in spring 1998."
+ ]
+}

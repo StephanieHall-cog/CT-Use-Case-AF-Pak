@@ -1,0 +1,103 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc55-1999-11-12-dci-ubl-update",
+  "title": "DCI UBL Update",
+  "authors": "Central Intelligence Agency",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "1999-11-12",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7xbr-uusml/1999-11-12-dci-ubl-update-central-intelligence.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 4,
+  "kind": "briefing",
+  "note": "CIA DCI update on bin Laden. Cited in 9/11 Commission Report Chapter 4, Endnote 193.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 55",
+  "relevance": "high",
+  "ocr": 2
+ },
+ "persons": [
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "UBL",
+    "Bin Ladin"
+   ],
+   "role": "Subject of the CIA update; al-Qa'ida leader, possibly leaving Afghanistan",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.4",
+     "quote": "UBL: Leaving Afghanistan?"
+    },
+    {
+     "timestamp": "p.4",
+     "quote": "Bin Ladin"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Author of the DCI update to the Director of Central Intelligence; the document is almost entirely illegible or redacted."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "The heading asks whether Bin Ladin is leaving Afghanistan."
+  }
+ ],
+ "events": [
+  {
+   "date": "1999-11-12",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "The CIA's DCI UBL Update briefing includes a slide asking whether Bin Ladin is leaving Afghanistan. The rest of the page is largely illegible, apart from a fragment that appears to read 'moratorium on'.",
+   "place": "Afghanistan",
+   "actors": [
+    "Central Intelligence Agency",
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.4"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Usama bin Ladin",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "The briefing slide title asks whether UBL is leaving Afghanistan, which implies he was based there. The text is heavily corrupted, so this is only a weak inference.",
+   "date": "1999-11-12",
+   "confidence": "inferred",
+   "timestamp": "p.4",
+   "quote": "UBL: Leavin_g Af.ghan·i~tan?"
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "The CIA's DCI update, titled 'UBL: Leaving Afghanistan?', raises the question of whether Bin Ladin might leave Afghanistan.",
+  "The chunk is mostly OCR noise and redactions, so no further actors, links or events can be extracted reliably."
+ ]
+}

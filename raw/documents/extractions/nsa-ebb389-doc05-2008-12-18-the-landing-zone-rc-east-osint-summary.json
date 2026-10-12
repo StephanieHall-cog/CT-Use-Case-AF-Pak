@@ -1,0 +1,1116 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb389-doc05-2008-12-18-the-landing-zone-rc-east-osint-summary",
+  "title": "The Landing Zone, RC East OSINT Summary",
+  "authors": "International Security Assistance Force - Afghanistan (ISAF), Regional Command East",
+  "publisher": "National Security Archive (GWU), The Haqqani History: Bin Ladin's Advocate Inside the Taliban",
+  "published": "2008-12-18",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB389/docs/2008-12-18 - ISAF RC East.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB389/",
+  "pages": 8,
+  "kind": "report",
+  "note": "[Secret] Open-source summary quoting a letter ostensibly signed by Jalaluddin Haqqani, whose network is 'very closely aligned with Al Qaeda', denouncing Mullah Omar. The letter is suspected to be a fake. ISAF analyst commentary calls separating the Taliban from al-Qaeda a farfetched concept, since the same low-level fighters are used by both and al-Qaeda plays a coordinating and strategic role.",
+  "collection": "NSAEBB389",
+  "doc_number": "Document 5",
+  "relevance": "high",
+  "ocr": 0
+ },
+ "persons": [
+  {
+   "name": "Ursala Rahmani",
+   "aliases": [
+    "Ursula Rahmani"
+   ],
+   "role": "Former Taliban official involved in talks with the Afghan government",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "says Ursala Rahmani, a former Taliban official who has been involved in talks with the government."
+    }
+   ]
+  },
+  {
+   "name": "Mullah Omar",
+   "aliases": [
+    "Mullah Mohammed Omar",
+    "Mullah Umar"
+   ],
+   "role": "Fugitive leader of the Taliban",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "described as fugitive in 2008",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "those under Mullah Omar,\" the fugitive leader of the Taliban"
+    },
+    {
+     "timestamp": "p.3",
+     "quote": "In February, Mullah Omar issued a statement saying, \"We want to have legitimate relations with all countries in the world,\""
+    }
+   ]
+  },
+  {
+   "name": "Jalaluddin Haqqani",
+   "aliases": [
+    "Jalaluddin Haqani"
+   ],
+   "role": "Head of an insurgent network independent of Mullah Omar's Taliban and closely aligned with Al Qaeda; purported signer of a forged letter",
+   "organizations": [
+    "Haqqani Network",
+    "Al Qaeda"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.3",
+     "quote": "a letter signed by Jalaluddin Haqqani, who heads an insurgent network that is independent of Mullah Omar's Taliban and very closely aligned with Al Qaeda."
+    }
+   ]
+  },
+  {
+   "name": "Gulbuddin Hekmatyar",
+   "aliases": [
+    "Gulbuddin Hekmatyar",
+    "Hekmatyar"
+   ],
+   "role": "Head of insurgent network allied with the Taliban; wrote to Karzai",
+   "organizations": [
+    "Hizb-i Islami"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.3",
+     "quote": "Gulbuddin Hekmatyar, who heads an insurgent network allied with the Taliban"
+    },
+    {
+     "timestamp": "p.4",
+     "quote": "In the spring, Hekmatyar sent a letter to Afghan President Hamid Karzai"
+    }
+   ]
+  },
+  {
+   "name": "Hamid Karzai",
+   "aliases": [],
+   "role": "Afghan President",
+   "organizations": [
+    "Government of Afghanistan"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Kabul"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.4",
+     "quote": "Hekmatyar sent a letter to Afghan President Hamid Karzai"
+    }
+   ]
+  },
+  {
+   "name": "Waheed Muzhda",
+   "aliases": [
+    "Wahid Muzhda"
+   ],
+   "role": "Former Taliban official familiar with negotiation process",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.4",
+     "quote": "According to Waheed Muzhda, a former Taliban official who has seen one of the letters"
+    }
+   ]
+  },
+  {
+   "name": "Waliullah Rahmani",
+   "aliases": [],
+   "role": "Analyst, Kabul Center for Strategic Studies",
+   "organizations": [
+    "Kabul Center for Strategic Studies"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Kabul"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.3",
+     "quote": "says Waliullah Rahmani of the Kabul Center for Strategic Studies"
+    }
+   ]
+  },
+  {
+   "name": "Eric Edelman",
+   "aliases": [],
+   "role": "Pentagon senior policy official",
+   "organizations": [
+    "US Department of Defense"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "says Eric Edelman, the Pentagon's senior policy official"
+    }
+   ]
+  },
+  {
+   "name": "Ali Shah Paktiawal",
+   "aliases": [
+    "Gen Ali Shah Paktiawal"
+   ],
+   "role": "Head of Criminal Investigation Branch of Kabul police",
+   "organizations": [
+    "Afghan National Police"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Kabul"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.6",
+     "quote": "The head of Criminal Investigation Branch of Kabul, Gen Ali Shah Paktiawal, said that the ERD Security Company"
+    }
+   ]
+  },
+  {
+   "name": "Patrick Sieber",
+   "aliases": [],
+   "role": "Coalition spokesman in Khost (Maj)",
+   "organizations": [
+    "Coalition forces"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Khost"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.7",
+     "quote": "A spokesman for foreign forces in Khost, Maj (Patrick Sieber), told Afghan Islamic Press"
+    }
+   ]
+  },
+  {
+   "name": "Mohammad Tahir Sabari",
+   "aliases": [],
+   "role": "Acting governor of Khost",
+   "organizations": [
+    "Government of Afghanistan"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Khost"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.7",
+     "quote": "The acting governor of Khost, Mohammad Tahir Sabari, confirmed the incident"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Taliban",
+   "aliases": [
+    "Taleban"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Al Qaeda",
+    "Haqqani Network",
+    "Hizb-i Islami"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Led by Mullah Omar; havens in Pakistan; on good terms with Islamabad per article."
+  },
+  {
+   "name": "Al Qaeda",
+   "aliases": [
+    "Al Qaida",
+    "Al-Qa'idah",
+    "al-Qaeda"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban",
+    "Haqqani Network"
+   ],
+   "rivals": [
+    "Government of Pakistan"
+   ],
+   "country_base": "",
+   "notes": "Analyst says it plays coordination and strategic role among several organizations; Taliban funds reportedly come largely from it."
+  },
+  {
+   "name": "Haqqani Network",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Al Qaeda"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Described as independent of Mullah Omar's Taliban and closely aligned with Al Qaeda."
+  },
+  {
+   "name": "Hizb-i Islami",
+   "aliases": [
+    "Hekmatyar network"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Insurgent network headed by Hekmatyar."
+  },
+  {
+   "name": "Afghan Social Outreach Program",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Government of Afghanistan"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Part of government initiative to strengthen local governance; new reconciliation body being formed."
+  },
+  {
+   "name": "Kabul Center for Strategic Studies",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Independent think tank."
+  },
+  {
+   "name": "ERD Security Company",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Foreign private security company shut down by Kabul police for illegal activities."
+  },
+  {
+   "name": "Afghan National Police",
+   "aliases": [
+    "ANP"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Ministry of Interior"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": ""
+  },
+  {
+   "name": "Afghan Islamic Press",
+   "aliases": [
+    "AIP"
+   ],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Peshawar-based agency with history of close ties to the Taliban."
+  },
+  {
+   "name": "Government of Afghanistan",
+   "aliases": [
+    "GIRoA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Interior and Defense ministries involved in reconciliation talks."
+  }
+ ],
+ "places": [
+  {
+   "name": "Khost",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Site of 16–17 Dec 2008 coalition operation; long border with Pakistan; Taliban influence."
+  },
+  {
+   "name": "Kundi village",
+   "type": "town",
+   "country": "Afghanistan",
+   "parent": "Khost",
+   "significance": "Home raided by coalition forces, 5 km north of Khost city."
+  },
+  {
+   "name": "Kabul",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "ERD Security Company shut down in District 9."
+  },
+  {
+   "name": "Mecca",
+   "type": "city",
+   "country": "Saudi Arabia",
+   "parent": "Saudi Arabia",
+   "significance": "Hosted fall 2008 meetings between Afghan officials and former Taliban figures under Saudi king."
+  },
+  {
+   "name": "Dubai",
+   "type": "city",
+   "country": "United Arab Emirates",
+   "parent": "United Arab Emirates",
+   "significance": "Proposed venue for future talks."
+  },
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Taliban havens; Al Qaeda confrontation with Pakistani government."
+  }
+ ],
+ "events": [
+  {
+   "date": "2008-02",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Mullah Omar issued a statement seeking legitimate relations with all countries and expressing solidarity with Iran; Al Qaeda websites denounced the 'nationalist trend'.",
+   "place": "Afghanistan",
+   "actors": [
+    "Mullah Omar",
+    "Al Qaeda"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "2008-10",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Forged letter signed in name of Jalaluddin Haqqani denounced Mullah Omar; suspected psychological operation.",
+   "place": "",
+   "actors": [
+    "Jalaluddin Haqqani",
+    "Mullah Omar"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "2008-10",
+   "date_precision": "approx",
+   "type": "meeting",
+   "description": "Meetings in Mecca under the Saudi king between Afghan officials and former Taliban figures, backed by the US.",
+   "place": "Mecca",
+   "actors": [
+    "Government of Afghanistan"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "2008-04",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "Hekmatyar sent letter to Karzai; similar message in October.",
+   "place": "",
+   "actors": [
+    "Gulbuddin Hekmatyar",
+    "Hamid Karzai"
+   ],
+   "timestamp": "p.4"
+  },
+  {
+   "date": "2008-12-16",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "Coalition raid on a home in Kundi village north of Khost city; two men and a woman killed, six detained; target allegedly Al-Qa'idah-affiliated.",
+   "place": "Kundi village",
+   "actors": [
+    "Patrick Sieber",
+    "Mohammad Tahir Sabari"
+   ],
+   "timestamp": "p.7"
+  },
+  {
+   "date": "2008-12-15",
+   "date_precision": "day",
+   "type": "other",
+   "description": "Kabul police shut down ERD Security Company and collected its weapons.",
+   "place": "Kabul",
+   "actors": [
+    "Ali Shah Paktiawal",
+    "ERD Security Company"
+   ],
+   "timestamp": "p.6"
+  },
+  {
+   "date": "2008",
+   "date_precision": "approx",
+   "type": "statement",
+   "detail": "",
+   "description": "Hekmatyar sent a letter to Karzai in spring, with a similar message sent in October.",
+   "place": "Afghanistan",
+   "actors": [
+    "Gulbuddin Hekmatyar",
+    "Hamid Karzai"
+   ],
+   "timestamp": "p.4"
+  },
+  {
+   "date": "2008-10",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Hekmatyar sent a similar message to Karzai in October.",
+   "place": "Afghanistan",
+   "actors": [
+    "Gulbuddin Hekmatyar",
+    "Hamid Karzai"
+   ],
+   "timestamp": "p.4"
+  },
+  {
+   "date": "2008-12-15",
+   "date_precision": "day",
+   "type": "other",
+   "description": "Kabul police shut down ERD Security Company and seized its weapons (Kalashnikovs, 18 PK machine-guns, six pistols).",
+   "place": "Kabul",
+   "actors": [
+    "Afghan National Police",
+    "ERD Security Company",
+    "Ali Shah Paktiawal"
+   ],
+   "timestamp": "p.6"
+  },
+  {
+   "date": "2008-12-16",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "Foreign forces raided a home in Kundi village, killing two men and a woman, wounding another woman, and detaining people; reported targeting an Al-Qa'idah affiliate.",
+   "place": "Kundi village, Khost",
+   "actors": [
+    "Patrick Sieber",
+    "Mohammad Tahir Sabari",
+    "Al Qaeda"
+   ],
+   "timestamp": "p.7"
+  },
+  {
+   "date": "2008-02",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Mullah Omar issued a statement seeking legitimate relations with all countries and expressing solidarity with Iran; Al Qaeda websites then criticized the Taliban's nationalist orientation.",
+   "place": "",
+   "actors": [
+    "Mullah Omar",
+    "Taliban",
+    "Al Qaeda"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "2008-09",
+   "date_precision": "approx",
+   "type": "meeting",
+   "description": "First set of talks between Afghan officials and former Taliban figures held in Mecca under Saudi king's auspices, backed by the US.",
+   "place": "Mecca",
+   "actors": [
+    "Government of Afghanistan",
+    "Taliban"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "2008-03",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "Hekmatyar sent a letter to Karzai in spring saying he is old and implying foreign troops should leave urban centers.",
+   "place": "",
+   "actors": [
+    "Gulbuddin Hekmatyar",
+    "Hamid Karzai"
+   ],
+   "timestamp": "p.4"
+  },
+  {
+   "date": "2008-10",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Hekmatyar sent a similar message to Karzai.",
+   "place": "",
+   "actors": [
+    "Gulbuddin Hekmatyar",
+    "Hamid Karzai"
+   ],
+   "timestamp": "p.4"
+  },
+  {
+   "date": "2008",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "A letter bearing Jalaluddin Haqqani's signature denouncing Mullah Omar appeared, suspected to be a psychological operation.",
+   "place": "",
+   "actors": [
+    "Jalaluddin Haqqani",
+    "Mullah Omar"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "2008-12-16",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "Foreign forces raided a home in Kundi village. Two men and a woman were killed, another woman was wounded, and six people were reportedly detained (locals said three). The operation targeted an Al Qaeda-affiliated person.",
+   "place": "Kundi village, Khost",
+   "actors": [
+    "Patrick Sieber",
+    "Al Qaeda",
+    "Mohammad Tahir Sabari"
+   ],
+   "timestamp": "p.7"
+  },
+  {
+   "date": "2008-12-17",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "AIP reported the Kundi village operation. Acting governor Sabari complained that foreign forces never inform Afghan officials of operations in advance.",
+   "place": "Khost",
+   "actors": [
+    "Afghan Islamic Press",
+    "Mohammad Tahir Sabari",
+    "Patrick Sieber"
+   ],
+   "timestamp": "p.7"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Jalaluddin Haqqani",
+   "target": "Al Qaeda",
+   "type": "allied_with",
+   "detail": "His network is described as very closely aligned with Al Qaeda.",
+   "date": "2008",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "heads an insurgent network that is independent of Mullah Omar's Taliban and very closely aligned with Al Qaeda"
+  },
+  {
+   "source": "Gulbuddin Hekmatyar",
+   "target": "Taliban",
+   "type": "allied_with",
+   "detail": "Hekmatyar heads a network allied with the Taliban.",
+   "date": "2008",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "Gulbuddin Hekmatyar, who heads an insurgent network allied with the Taliban"
+  },
+  {
+   "source": "Gulbuddin Hekmatyar",
+   "target": "Hamid Karzai",
+   "type": "other",
+   "detail": "Sent letters to Karzai implying he should remove foreign troops from cities.",
+   "date": "2008",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "Hekmatyar sent a letter to Afghan President Hamid Karzai"
+  },
+  {
+   "source": "Mullah Omar",
+   "target": "Taliban",
+   "type": "leads",
+   "detail": "Fugitive leader of the Taliban.",
+   "date": "2008",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Mullah Omar,\" the fugitive leader of the Taliban"
+  },
+  {
+   "source": "Taliban",
+   "target": "Al Qaeda",
+   "type": "funded_by",
+   "detail": "Analyst claims many Taliban financial resources come from Al Qaeda.",
+   "date": "2008",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "Many of the Taliban's financial resources come from Al Qaeda,\" says analyst Mr. Rahmani."
+  },
+  {
+   "source": "Mohammad Tahir Sabari",
+   "target": "Khost",
+   "type": "leads",
+   "detail": "Acting governor of Khost.",
+   "date": "2008-12",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "The acting governor of Khost, Mohammad Tahir Sabari"
+  },
+  {
+   "source": "Ursala Rahmani",
+   "target": "Taliban",
+   "type": "member_of",
+   "detail": "Former Taliban official.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "a former Taliban official who has been involved in talks with the government"
+  },
+  {
+   "source": "Waheed Muzhda",
+   "target": "Taliban",
+   "type": "member_of",
+   "detail": "Former Taliban official.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "Waheed Muzhda, a former Taliban official"
+  },
+  {
+   "source": "Gulbuddin Hekmatyar",
+   "target": "Hamid Karzai",
+   "type": "negotiated_with",
+   "detail": "Hekmatyar sent letters to Karzai as part of a negotiation process, implying foreign troops should leave urban centers.",
+   "date": "spring 2008",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "In the spring, Hekmatyar sent a letter to Afghan President Hamid Karzai, stating, \"I have dedicated my whole life to struggle, but I am old.\""
+  },
+  {
+   "source": "Waheed Muzhda",
+   "target": "Taliban",
+   "type": "member_of",
+   "detail": "Muzhda is described as a former Taliban official who has seen one of Hekmatyar's letters.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "Waheed Muzhda, a former Taliban official who has seen one of the letters and is familiar with the negotiation process"
+  },
+  {
+   "source": "Taliban",
+   "target": "Al Qaeda",
+   "type": "funded_by",
+   "detail": "Analyst Rahmani says many of the Taliban's financial resources come from Al Qaeda.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "\"Many of the Taliban's financial resources come from Al Qaeda,\" says analyst Mr. Rahmani."
+  },
+  {
+   "source": "Taliban",
+   "target": "Pakistan",
+   "type": "sheltered_by",
+   "detail": "Taliban have havens in Pakistan whose security affects their incentive to negotiate.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "their havens in Pakistan are not threatened"
+  },
+  {
+   "source": "Taliban",
+   "target": "Al Qaeda",
+   "type": "allied_with",
+   "detail": "Analysts judge Taliban and Al Qaida unlikely to split as low-level fighters are used by both and Al Qaida plays a coordinating role.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "the majority of low level fighters for these organizations are known to be used by both"
+  },
+  {
+   "source": "Ali Shah Paktiawal",
+   "target": "Afghan National Police",
+   "type": "member_of",
+   "detail": "Gen Paktiawal is head of the Criminal Investigation Branch of Kabul police.",
+   "confidence": "stated",
+   "timestamp": "p.6",
+   "quote": "The head of Criminal Investigation Branch of Kabul, Gen Ali Shah Paktiawal"
+  },
+  {
+   "source": "Afghan National Police",
+   "target": "ERD Security Company",
+   "type": "other",
+   "detail": "Police shut down ERD Security Company and collected its weapons for illegal activities.",
+   "date": "2008-12-15",
+   "confidence": "stated",
+   "timestamp": "p.6",
+   "quote": "ERD Security Company, whose central office is located in District No 9 of Kabul, had been shut down for disobeying the regulations"
+  },
+  {
+   "source": "ERD Security Company",
+   "target": "Kabul",
+   "type": "located_in",
+   "detail": "ERD's central office is in District No 9 of Kabul.",
+   "confidence": "stated",
+   "timestamp": "p.6",
+   "quote": "whose central office is located in District No 9 of Kabul"
+  },
+  {
+   "source": "Patrick Sieber",
+   "target": "Khost",
+   "type": "located_in",
+   "detail": "Sieber is a foreign forces spokesman in Khost.",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "A spokesman for foreign forces in Khost, Maj (Patrick Sieber)"
+  },
+  {
+   "source": "Patrick Sieber",
+   "target": "Afghan Islamic Press",
+   "type": "other",
+   "detail": "Sieber gave a statement to AIP about the Kundi operation.",
+   "date": "2008-12-17",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "Maj (Patrick Sieber), told Afghan Islamic Press [AIP]"
+  },
+  {
+   "source": "Mohammad Tahir Sabari",
+   "target": "Khost",
+   "type": "leads",
+   "detail": "Sabari is acting governor of Khost.",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "The acting governor of Khost, Mohammad Tahir Sabari"
+  },
+  {
+   "source": "Mohammad Tahir Sabari",
+   "target": "Afghan Islamic Press",
+   "type": "other",
+   "detail": "Sabari confirmed the incident to AIP.",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "confirmed the incident earlier this morning and told AIP"
+  },
+  {
+   "source": "Kundi village",
+   "target": "Khost",
+   "type": "located_in",
+   "detail": "Kundi village is five km north of Khost city.",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "Kundi village, five kilometres north of Khost city"
+  },
+  {
+   "source": "Khost",
+   "target": "Pakistan",
+   "type": "located_in",
+   "detail": "Khost shares a long border with Pakistan.",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "Khost shares a long border with Pakistan"
+  },
+  {
+   "source": "Taliban",
+   "target": "Khost",
+   "type": "located_in",
+   "detail": "Khost is considered a region where the Taleban enjoy influence.",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "considered a region where the Taleban enjoy influence"
+  },
+  {
+   "source": "Ursala Rahmani",
+   "target": "Government of Afghanistan",
+   "type": "negotiated_with",
+   "detail": "Rahmani has been involved in talks with the Afghan government on splitting Al Qaeda and the Taliban.",
+   "date": "2008",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "a former Taliban official who has been involved in talks with the government"
+  },
+  {
+   "source": "Mullah Omar",
+   "target": "Taliban",
+   "type": "leads",
+   "detail": "Omar is described as the fugitive leader of the Taliban.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "those under Mullah Omar,\" the fugitive leader of the Taliban"
+  },
+  {
+   "source": "Taliban",
+   "target": "Al Qaeda",
+   "type": "rival_of",
+   "detail": "Officials seek to exploit natural tensions between Al Qaeda and Omar's followers.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "exploit the natural tensions that exist between Al Qaeda and those under Mullah Omar"
+  },
+  {
+   "source": "Mullah Omar",
+   "target": "Al Qaeda",
+   "type": "rival_of",
+   "detail": "Al Qaeda websites denounced the nationalist, pro-Iranian orientation in the Taliban's communiqués after Omar's February statement.",
+   "date": "2008-02",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "prominent Al Qaeda websites posted messages denouncing the \"nationalist trend\" and pro-Iranian orientation"
+  },
+  {
+   "source": "Jalaluddin Haqqani",
+   "target": "Haqqani Network",
+   "type": "leads",
+   "detail": "Haqqani heads an insurgent network independent of Omar's Taliban.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "Jalaluddin Haqqani, who heads an insurgent network that is independent of Mullah Omar's Taliban"
+  },
+  {
+   "source": "Haqqani Network",
+   "target": "Al Qaeda",
+   "type": "allied_with",
+   "detail": "The network is described as very closely aligned with Al Qaeda.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "very closely aligned with Al Qaeda"
+  },
+  {
+   "source": "Haqqani Network",
+   "target": "Taliban",
+   "type": "other",
+   "detail": "The Haqqani network is described as independent of Omar's Taliban.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "an insurgent network that is independent of Mullah Omar's Taliban"
+  },
+  {
+   "source": "Jalaluddin Haqqani",
+   "target": "Mullah Omar",
+   "type": "rival_of",
+   "detail": "A letter in Haqqani's name denounced Omar, but intelligence agents suggest it was a forgery planted by the Afghan government or its allies.",
+   "date": "2008",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "The letter denounced Mr. Omar as \"ineffective, ignorant, and illiterate\" and appealed to insurgents to follow Mr. Haqqani."
+  },
+  {
+   "source": "Government of Afghanistan",
+   "target": "Haqqani Network",
+   "type": "other",
+   "detail": "The government or its allies are suspected of originating the forged letter to inflame tensions between insurgent groups.",
+   "date": "2008",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "the letter originated from the Afghan government or its allies as an attempt to inflame tensions"
+  },
+  {
+   "source": "Gulbuddin Hekmatyar",
+   "target": "Hizb-i Islami",
+   "type": "leads",
+   "detail": "Hekmatyar heads an insurgent network allied with the Taliban.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "Gulbuddin Hekmatyar, who heads an insurgent network allied with the Taliban"
+  },
+  {
+   "source": "Hizb-i Islami",
+   "target": "Taliban",
+   "type": "allied_with",
+   "detail": "Hekmatyar's network is allied with the Taliban.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "heads an insurgent network allied with the Taliban"
+  },
+  {
+   "source": "Gulbuddin Hekmatyar",
+   "target": "Hamid Karzai",
+   "type": "negotiated_with",
+   "detail": "Hekmatyar sent letters to Karzai in spring and October 2008 implying he wants foreign troops removed from urban centers.",
+   "date": "2008",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "In the spring, Hekmatyar sent a letter to Afghan President Hamid Karzai"
+  },
+  {
+   "source": "Waliullah Rahmani",
+   "target": "Kabul Center for Strategic Studies",
+   "type": "member_of",
+   "detail": "Rahmani is an analyst with the Kabul Center for Strategic Studies.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "Waliullah Rahmani of the Kabul Center for Strategic Studies"
+  },
+  {
+   "source": "Taliban",
+   "target": "Al Qaeda",
+   "type": "funded_by",
+   "detail": "Rahmani says many of the Taliban's financial resources come from Al Qaeda.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "Many of the Taliban's financial resources come from Al Qaeda"
+  },
+  {
+   "source": "Taliban",
+   "target": "Pakistan",
+   "type": "sheltered_by",
+   "detail": "Taliban havens in Pakistan are noted as a reason they lack incentive to negotiate.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "their havens in Pakistan are not threatened"
+  },
+  {
+   "source": "Afghan Social Outreach Program",
+   "target": "Government of Afghanistan",
+   "type": "member_of",
+   "detail": "The program is part of an Afghan government initiative to strengthen local governance.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Afghan Social Outreach Program, part of an Afghan government initiative to strengthen local governance"
+  },
+  {
+   "source": "Mohammad Tahir Sabari",
+   "target": "Afghan Islamic Press",
+   "type": "other",
+   "detail": "Sabari, the acting governor of Khost, confirmed the incident to AIP.",
+   "date": "2008-12-17",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "The acting governor of Khost, Mohammad Tahir Sabari, confirmed the incident earlier this morning and told AIP"
+  },
+  {
+   "source": "Khost",
+   "target": "Pakistan",
+   "type": "other",
+   "detail": "Khost shares a long border with Pakistan.",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "Khost shares a long border with Pakistan"
+  },
+  {
+   "source": "Afghan Islamic Press",
+   "target": "Pakistan",
+   "type": "located_in",
+   "detail": "The AIP report is sourced to Peshawar; the source note says Pakistan claims independence but has a history of close ties with the Taliban.",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "Pakistan, claims independence, history of close ties with the Taliban) Khost: Three, including woman, killed in coalition operation in Afghan east, Peshawar Afghan Islamic Press"
+  },
+  {
+   "source": "Pakistan",
+   "target": "Taliban",
+   "type": "allied_with",
+   "detail": "The source note describes Pakistan as having a history of close ties with the Taliban.",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "claims independence, history of close ties with the Taliban"
+  },
+  {
+   "source": "Al Qaeda",
+   "target": "Kundi village",
+   "type": "located_in",
+   "detail": "A person affiliated with Al Qaeda was reportedly present in the home raided in Kundi village.",
+   "date": "2008-12-16",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "The operation was carried out in a home where a person affiliated to Al-Qa'idah was present."
+  },
+  {
+   "source": "Afghan National Police",
+   "target": "ERD Security Company",
+   "type": "other",
+   "detail": "The ANP closed the company rather than prosecuting its employees, which the analyst treats as suggesting bribery.",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "no one was held responsible for any illegal actins only a company that can eventually reopen under a different name"
+  },
+  {
+   "source": "Government of Afghanistan",
+   "target": "Afghan National Police",
+   "type": "other",
+   "detail": "The analyst says it is in GIRoA's interest to question the ANP's decision to close the company.",
+   "confidence": "stated",
+   "timestamp": "p.7",
+   "quote": "It is upon GIRoA’s best interest to question the ANPs decision to simply close a company"
+  }
+ ],
+ "sources_cited": [
+  "Christian Science Monitor, 16 December 2008",
+  "Kabul Cherah (Dari), 14 December 2008",
+  "Kabul Hewad (Pashto), 15 December 2008",
+  "Peshawar Afghan Islamic Press (Pashto), 17 December 2008"
+ ],
+ "key_claims": [
+  "US/NATO and Afghan government pursue reconciling 'moderate' insurgents while isolating hard-liners close to Al Qaeda.",
+  "Haqqani network is portrayed as independent of Mullah Omar's Taliban and closely aligned with Al Qaeda.",
+  "A letter attributed to Jalaluddin Haqqani denouncing Mullah Omar is suspected to be a psychological operation by the Afghan government or allies.",
+  "Saudi-hosted Mecca talks involved mostly low-ranking or disaffected former Taliban figures.",
+  "The ISAF analyst judges a Taliban–Al Qaida split functionally unlikely since the groups share low-level fighters and are not operationally fused.",
+  "Hekmatyar is described as motivated by power and possibly seeking a senior government post."
+ ]
+}

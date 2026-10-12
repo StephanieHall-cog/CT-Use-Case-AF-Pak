@@ -1,0 +1,217 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc38-1998-12-20-re-urgent-re-ubl",
+  "title": "Re: urgent re ubl",
+  "authors": "CIA (from [Excised], likely Gary Schroen, to Michael F. Scheuer)",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "1998-12-20",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7x7g-tbo1k/1998-12-20-re-urgent-re-ubl-note-for-michael-f.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 1,
+  "kind": "memo",
+  "note": "CIA email note for Michael F. Scheuer from [Excised]. Cited in 9/11 Commission Report as \"[Gary] Schroen to Mike\" (Chapter 4, Endnotes 117, 119).",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 38",
+  "relevance": "high",
+  "ocr": 0
+ },
+ "persons": [
+  {
+   "name": "Michael F. Scheuer",
+   "aliases": [
+    "Michael Scheuer"
+   ],
+   "role": "CIA recipient of the email; UBL-related intelligence officer",
+   "organizations": [
+    "Central Intelligence Agency"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "TO: Michaei F .. Scheu~l"
+    }
+   ]
+  },
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "UBL",
+    "ubl"
+   ],
+   "role": "al-Qa'ida leader; subject of a possible US missile attack",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "news that ubl is at the habash house. believe we are seriously considering a missile attack tonight"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Author and recipient of the message; the principals' conference concerned UBL"
+  },
+  {
+   "name": "Taliban",
+   "aliases": [],
+   "type": "political movement",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "The US had been pressing the Taliban about UBL and said it would hold them responsible"
+  }
+ ],
+ "places": [
+  {
+   "name": "habash house",
+   "type": "other",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Reported location of UBL, prompting consideration of a missile strike. The text is garbled, so the country is inferred."
+  }
+ ],
+ "events": [
+  {
+   "date": "1998-12-20",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "A conference among the US principals was called after news that UBL was at the habash house. The email says a missile attack that night was being seriously considered.",
+   "place": "",
+   "actors": [
+    "Usama bin Ladin",
+    "Central Intelligence Agency"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998-12-20",
+   "date_precision": "day",
+   "type": "other",
+   "description": "Email sent by the CIA author to Michael Scheuer with the subject 'Re: urgent re ubl'. The stamp says it was sent on 21 December 1998.",
+   "place": "",
+   "actors": [
+    "Michael F. Scheuer"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998-12-20",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "Principals' conference called after news that UBL was at the Habash house; a missile attack that night was being seriously considered.",
+   "place": "habash house",
+   "actors": [
+    "Usama bin Ladin",
+    "Central Intelligence Agency"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998-12-20",
+   "date_precision": "day",
+   "type": "other",
+   "description": "Possible missile attack on UBL at the Habash house was under consideration, with the author's reservations noted.",
+   "place": "habash house",
+   "actors": [
+    "Usama bin Ladin",
+    "Central Intelligence Agency"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998-12-21",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Message sent, according to the document header.",
+   "place": "",
+   "actors": [
+    "Michael F. Scheuer"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Usama bin Ladin",
+   "target": "Taliban",
+   "type": "hosted_by",
+   "detail": "The US had been pressing the Taliban about UBL and said it would hold them responsible. This implies the Taliban hosted him. The text is fragmentary.",
+   "date": "1998-12",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "have been hammering the Taliban on UBL & that we would hold .them responsible"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "habash house",
+   "type": "located_in",
+   "detail": "News that UBL was at the Habash house prompted a conference among principals considering a missile attack.",
+   "date": "1998-12-20",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "news that ubl is at the habash house"
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "Taliban",
+   "type": "other",
+   "detail": "The author says the US has been pressing the Taliban over UBL and would hold them responsible; text is fragmentary.",
+   "date": "1998-12",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "have been hammering the Taliban on UBL & that we would hold them responsible"
+  },
+  {
+   "source": "Taliban",
+   "target": "Usama bin Ladin",
+   "type": "sheltered_by",
+   "detail": "Implied: the Taliban are held responsible for UBL, which suggests they host him. Inferred from the demand to hold them responsible; the text is fragmentary.",
+   "date": "1998-12",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "hold them responsible"
+  },
+  {
+   "source": "Michael F. Scheuer",
+   "target": "Central Intelligence Agency",
+   "type": "member_of",
+   "detail": "Scheuer is the recipient of the CIA internal message.",
+   "date": "1998-12-20",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "TO: Michaei F .. Scheu~l"
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "On 20 Dec 1998 US principals were seriously considering a missile attack on UBL after he was reported at the 'habash house'.",
+  "The US had pressed the Taliban on UBL and warned it would hold them responsible.",
+  "The author was not a hawk on bombing and noted that increased security raised the difficulty and danger of conducting the strike."
+ ]
+}

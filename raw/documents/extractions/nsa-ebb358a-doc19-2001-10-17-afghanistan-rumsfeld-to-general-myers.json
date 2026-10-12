@@ -1,0 +1,294 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb358a-doc19-2001-10-17-afghanistan-rumsfeld-to-general-myers",
+  "title": "Afghanistan (Rumsfeld to General Myers)",
+  "authors": "Office of the Secretary of Defense (Rumsfeld)",
+  "publisher": "National Security Archive (GWU), New Documents Detail America's Strategic Response to 9/11",
+  "published": "2001-10-17",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB358a/doc19.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB358a/index.htm",
+  "pages": 1,
+  "kind": "memo",
+  "note": "[Secret] Rumsfeld expresses frustration at the Defense Department's near total dependence on the CIA, which must go into Afghanistan first to prepare the way for DoD.",
+  "collection": "NSAEBB358a",
+  "doc_number": "Document 19",
+  "relevance": "medium",
+  "ocr": 0
+ },
+ "persons": [
+  {
+   "name": "Donald Rumsfeld",
+   "aliases": [
+    "Donald H. Rumsfeld",
+    "DHR"
+   ],
+   "role": "US Secretary of Defense; author of the memo",
+   "organizations": [
+    "US Department of Defense"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "FROM: Donald Rumsfeld"
+    }
+   ]
+  },
+  {
+   "name": "Richard Myers",
+   "aliases": [
+    "Gen. Myers",
+    "General Myers",
+    "Richard B. Myers"
+   ],
+   "role": "General; memo addressee (Chairman of the Joint Chiefs of Staff)",
+   "organizations": [
+    "US Department of Defense"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "TO: Gen. Myers"
+    }
+   ]
+  },
+  {
+   "name": "Paul Wolfowitz",
+   "aliases": [
+    "Paul Wolfowitz"
+   ],
+   "role": "Copied on memo (Deputy Secretary of Defense)",
+   "organizations": [
+    "US Department of Defense"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "cc: PaulWolfowitz"
+    }
+   ]
+  },
+  {
+   "name": "Doug Feith",
+   "aliases": [
+    "Douglas Feith"
+   ],
+   "role": "Copied on memo (Under Secretary of Defense for Policy)",
+   "organizations": [
+    "US Department of Defense"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Doug Feith"
+    }
+   ]
+  },
+  {
+   "name": "Steve Cambone",
+   "aliases": [
+    "Stephen Cambone"
+   ],
+   "role": "Copied on memo (Pentagon official)",
+   "organizations": [
+    "US Department of Defense"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Steve Cambone"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "US Department of Defense",
+   "aliases": [
+    "Defense Department",
+    "DoD",
+    "Pentagon"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "CIA"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Memo questions its dependence on CIA for ground operations in Afghanistan."
+  },
+  {
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "US Department of Defense"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "CIA personnel go into Afghanistan first to prepare the way."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Subject of memo; ground operations dependent on CIA preparation."
+  }
+ ],
+ "events": [
+  {
+   "date": "2001-10-17",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Rumsfeld memo to Gen. Myers questioning DoD's near total dependence on CIA for ground action in Afghanistan and asking for a coordinated proposal.",
+   "place": "Afghanistan",
+   "actors": [
+    "Donald Rumsfeld",
+    "Richard Myers",
+    "Central Intelligence Agency"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-10-17",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Rumsfeld sends a working-paper memo to Gen. Myers questioning DoD's near total dependence on the CIA for ground operations in Afghanistan and requesting a coordinated proposal.",
+   "place": "Afghanistan",
+   "actors": [
+    "Donald Rumsfeld",
+    "Richard Myers",
+    "Paul Wolfowitz",
+    "Doug Feith",
+    "Steve Cambone",
+    "Central Intelligence Agency",
+    "US Department of Defense"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "US Department of Defense",
+   "target": "Central Intelligence Agency",
+   "type": "other",
+   "detail": "Rumsfeld says DoD cannot act on the ground in Afghanistan until CIA people go in first, a near total dependence.",
+   "date": "2001-10-17",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "can't do anything on the ground in Afghanistan until CIA people go in first to prepare the way"
+  },
+  {
+   "source": "Richard Myers",
+   "target": "Donald Rumsfeld",
+   "type": "reports_to",
+   "detail": "Myers is tasked by Rumsfeld to return with a coordinated proposal.",
+   "date": "2001-10-17",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "please come back to me with a coordinated proposal as to what we might want to do about it"
+  },
+  {
+   "source": "Donald Rumsfeld",
+   "target": "Richard Myers",
+   "type": "other",
+   "detail": "Rumsfeld addressed a working-paper memo to Gen. Myers asking for a coordinated proposal on reducing DoD dependence on CIA.",
+   "date": "2001-10-17",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "TO: Gen. Myers ... FROM: Donald Rumsfeld"
+  },
+  {
+   "source": "Donald Rumsfeld",
+   "target": "Paul Wolfowitz",
+   "type": "other",
+   "detail": "Wolfowitz was copied (cc) on Rumsfeld's memo.",
+   "date": "2001-10-17",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "cc: PaulWolfowitz Doug Feith Steve Cambone"
+  },
+  {
+   "source": "Donald Rumsfeld",
+   "target": "Doug Feith",
+   "type": "other",
+   "detail": "Feith was copied (cc) on Rumsfeld's memo.",
+   "date": "2001-10-17",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "cc: PaulWolfowitz Doug Feith Steve Cambone"
+  },
+  {
+   "source": "Donald Rumsfeld",
+   "target": "Steve Cambone",
+   "type": "other",
+   "detail": "Cambone was copied (cc) on Rumsfeld's memo.",
+   "date": "2001-10-17",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "cc: PaulWolfowitz Doug Feith Steve Cambone"
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "CIA personnel are to go into Afghanistan first to prepare the way for DoD.",
+   "date": "2001-10-17",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "until CIA people go in first to prepare the way"
+  },
+  {
+   "source": "Donald Rumsfeld",
+   "target": "US Department of Defense",
+   "type": "leads",
+   "detail": "Rumsfeld writes as head of the Defense Department (Secretary of Defense).",
+   "date": "2001-10-17",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Does the fact that the Defense Department can't do anything on the ground in Afghanistan"
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "The US Defense Department in October 2001 could not operate on the ground in Afghanistan until CIA personnel had gone in first to prepare the way.",
+  "Rumsfeld questioned whether DoD should be in a position of near total dependence on CIA for such situations.",
+  "Rumsfeld asked Gen. Myers for a coordinated proposal to address this possible capability gap."
+ ]
+}

@@ -1,0 +1,143 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc65-2000-06-30-bin-ladin-orchestrating-possible-anti-us-attacks",
+  "title": "Bin Ladin Orchestrating Possible Anti-US Attacks",
+  "authors": "Director of Central Intelligence (Intelligence Community Terrorist Threat Advisory)",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "2000-06-30",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7xgb-ivxcp/2000-06-30-bin-ladin-orchestrating-possible-anti.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 2,
+  "kind": "report",
+  "note": "Intelligence Community Terrorist Threat Advisory on Bin Ladin orchestrating possible anti-US attacks. Cited in 9/11 Commission Report, Chapter 11, Endnote 23.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 65",
+  "relevance": "high",
+  "ocr": 1
+ },
+ "persons": [
+  {
+   "name": "Usama Bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Usama bin Ladin",
+    "Bin Ladin",
+    "Bin Ladin"
+   ],
+   "role": "Leader directing a terrorist cell said to be planning possible attacks against US interests",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Recent renortine indicates that a terrorist cell dir~ by Usama Bin Ladin"
+    },
+    {
+     "timestamp": "p.2",
+     "quote": "Bin Ladin’s previous attempts to targetUSinterestg in the region, and presumed desire to retaliate for the disruptio"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Interagency Intelligence Committee on Terrorism, Community Counterterrorism Board",
+   "aliases": [
+    "IICT",
+    "Community Counterterrorism Board"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Director of Central Intelligence"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Issuer of the advisory under the Director of Central Intelligence"
+  },
+  {
+   "name": "Director of Central Intelligence",
+   "aliases": [
+    "DCI"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Header of the advisory"
+  }
+ ],
+ "places": [],
+ "events": [
+  {
+   "date": "2000-06-30",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Intelligence Community Terrorist Threat Advisory issued, warning that a terrorist cell directed by Usama Bin Ladin may be orchestrating possible anti-US attacks in different countries.",
+   "place": "",
+   "actors": [
+    "Director of Central Intelligence",
+    "Interagency Intelligence Committee on Terrorism, Community Counterterrorism Board",
+    "Usama Bin Ladin"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2012-04-25",
+   "date_precision": "day",
+   "type": "other",
+   "description": "Document approved for release (declassification).",
+   "place": "",
+   "actors": [],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2000-06-30",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "The Director of Central Intelligence, the Interagency Intelligence Committee on Terrorism and the Community Counterterrorism Board issued an Intelligence Community Terrorist Threat Advisory, 'Bin Ladin Orchestrating Possible Anti-US Attacks'. It reported that a terrorist cell directed by Usama Bin Ladin was planning attacks.",
+   "place": "",
+   "actors": [
+    "Director of Central Intelligence",
+    "Interagency Intelligence Committee on Terrorism",
+    "Community Counterterrorism Board",
+    "Usama Bin Ladin"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Usama Bin Ladin",
+   "target": "Interagency Intelligence Committee on Terrorism, Community Counterterrorism Board",
+   "type": "other",
+   "detail": "The advisory was issued by the IICT/CCB about Bin Ladin's directed terrorist cell; he is the subject of the warning.",
+   "date": "2000-06-30",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Bin Ladln Orchestrating Possible Anti-US Attacks"
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "Usama Bin Ladin",
+   "type": "leads",
+   "detail": "The advisory says a terrorist cell was directed by Usama Bin Ladin and that he was orchestrating possible anti-US attacks. The cell is unnamed in the text, so this is a self-referential placeholder and is weakly supported.",
+   "date": "2000-06-30",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Recent renortine indicates that a terrorist cell dir~ by Usama Bin Ladinl"
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "Recent reporting indicates a terrorist cell directed by Usama Bin Ladin is planning possible attacks against US interests in different countries.",
+  "Bin Ladin's previous attempts to target US interests in the region and presumed desire to retaliate for a disruption lend credibility to the threat.",
+  "The text is heavily redacted and OCR-degraded, so specific locations and collaborators are not recoverable."
+ ]
+}

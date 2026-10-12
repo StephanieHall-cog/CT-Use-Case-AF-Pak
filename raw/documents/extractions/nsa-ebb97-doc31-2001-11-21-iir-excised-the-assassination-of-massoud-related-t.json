@@ -1,0 +1,543 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb97-doc31-2001-11-21-iir-excised-the-assassination-of-massoud-related-t",
+  "title": "IIR [Excised]/The Assassination of Massoud Related to 11 September 2001 Attack",
+  "authors": "Defense Intelligence Agency",
+  "publisher": "National Security Archive (GWU), The Taliban File",
+  "published": "2001-11-21",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB97/tal31.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB97/index.htm",
+  "pages": 5,
+  "kind": "cable",
+  "note": "[Secret] DIA assesses the link between the assassination of Northern Alliance Commander Ahmad Shah Masoud and the 9/11 attacks. Masoud had apparently gained limited knowledge of Bin Ladin's and al-Qaida's intentions to attack the US on a scale larger than the 1998 embassy bombings.",
+  "collection": "NSAEBB97",
+  "doc_number": "Document 31",
+  "relevance": "high",
+  "ocr": 5
+ },
+ "persons": [
+  {
+   "name": "Ahmad Shah Massoud",
+   "aliases": [
+    "Ahmed Shah Massoud",
+    "Ahmed Shah ((MASSOUD))",
+    "Commander Massoud"
+   ],
+   "role": "Former mujahidin commander; leader of the Northern Alliance Forces (NAF) fighting the Taliban in northern Afghanistan",
+   "organizations": [
+    "Northern Alliance"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "dead",
+   "status_detail": "Assassinated in northern Afghanistan by a suicide bomb; the report states 9 September 2001 in the background and 2 September 2001 in the relationships paragraph (likely an OCR error)",
+   "family": [],
+   "locations": [
+    "Northern Afghanistan",
+    "Paris"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.4",
+     "quote": "THE FORMER MUJAHADIN COMMANDER, AHMED SHAH ((MASSCQ0)) MANAGED TO FORM THE NORTHERN ALLIANCE FORCES {NAF}"
+    },
+    {
+     "timestamp": "p.4",
+     "quote": "ON 9 SEPTEMBER 2001, COMMANDER MASSOJD WAS ASSASSINATED IN NORTEERN AFGHANIS@AN."
+    },
+    {
+     "timestamp": "p.5",
+     "quote": "IN APRIL 2001, MASSOUD ADDRESSED THE FRENCH AND EGROPEAN PARLIAMENTS {£N PARIS"
+    }
+   ]
+  },
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "UBL",
+    "OBL",
+    "Usama bin Laden"
+   ],
+   "role": "Saudi millionaire and leader of al-Qa'ida, living in exile in Afghanistan",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.4",
+     "quote": "THE SAUDL MILLLONALRE, USAMA {(31N LADIN)) (UBL), AND HIS TERRORTST ORGANTZATICN, AL-OATDA"
+    },
+    {
+     "timestamp": "p.5",
+     "quote": "TO MASSOUD, UBL WAS A SAUDI CITIZEN, EXTLED TO AFGHANISTAN DUE TO HIS CHALLENGE TO THE LEGITIMACY OF THE SAUDI MONARCHY"
+    }
+   ]
+  },
+  {
+   "name": "Two Arab assassins (unnamed)",
+   "aliases": [
+    "two Arabs posing as Arab journalists"
+   ],
+   "role": "Al-Qa'ida-linked suicide bombers who posed as Arab journalists to reach Massoud",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "Arab",
+   "status": "dead",
+   "status_detail": "Implied killed in the suicide bombing that killed Massoud",
+   "family": [],
+   "locations": [
+    "Northern Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.5",
+     "quote": "TWO ARABS, LOYAL TO UBL AND MEMBERS OF THE AL-QAIDA ORGANIZATION, DECEPTIVELY POSED AS ARAB JOURNALISTS"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Northern Alliance",
+   "aliases": [
+    "Northern Alliance Forces",
+    "NAF"
+   ],
+   "type": "militia",
+   "parent_or_allies": [],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Formed by Massoud to continue the fight against the Taliban in northern Afghanistan; its intelligence reports gave Massoud limited knowledge of al-Qa'ida's intentions."
+  },
+  {
+   "name": "Taliban",
+   "aliases": [],
+   "type": "political movement",
+   "parent_or_allies": [
+    "Pakistan"
+   ],
+   "rivals": [
+    "Northern Alliance"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Began in the early 1990s as religious students rejecting the mujahidin takeover; Pakistani government support made them militarily powerful, controlling about 30 percent of Afghanistan (the figure is as printed, likely an OCR error)."
+  },
+  {
+   "name": "al-Qa'ida",
+   "aliases": [
+    "al-Qaeda",
+    "al-Qaida",
+    "AL-OAIDA"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [
+    "Northern Alliance"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Usama bin Ladin's organization; its members posed as journalists to assassinate Massoud. The report links this to the 11 September 2001 attacks."
+  },
+  {
+   "name": "Government of Pakistan",
+   "aliases": [
+    "Pakistani government"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Cited as supporting Taliban forces."
+  },
+  {
+   "name": "Defense Intelligence Agency",
+   "aliases": [
+    "DIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "US Department of Defense"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Originator of this Intelligence Information Report (IIR), dated 21 November 2001."
+  },
+  {
+   "name": "French Parliament",
+   "aliases": [
+    "European Parliament"
+   ],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "France",
+   "notes": "Massoud addressed the French and European Parliaments in Paris in April 2001, warning of UBL."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Site of the Taliban–Northern Alliance conflict, bin Ladin's exile base and the Massoud assassination."
+  },
+  {
+   "name": "Northern Afghanistan",
+   "type": "region",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Area where Massoud continued the fight against the Taliban and where he was assassinated."
+  },
+  {
+   "name": "Paris",
+   "type": "city",
+   "country": "France",
+   "parent": "France",
+   "significance": "Where Massoud addressed the French and European Parliaments in April 2001."
+  },
+  {
+   "name": "Kenya",
+   "type": "country",
+   "country": "Kenya",
+   "parent": "",
+   "significance": "Site of the 1998 US embassy bombing."
+  },
+  {
+   "name": "Tanzania",
+   "type": "country",
+   "country": "Tanzania",
+   "parent": "",
+   "significance": "Site of the 1998 US embassy bombing."
+  }
+ ],
+ "events": [
+  {
+   "date": "1998",
+   "date_precision": "year",
+   "type": "attack",
+   "description": "Bombings of US embassies in Kenya and Tanzania; the report treats them as the benchmark for the larger attack Massoud had warned about.",
+   "place": "Kenya; Tanzania",
+   "actors": [
+    "al-Qa'ida",
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.5"
+  },
+  {
+   "date": "2001-04",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Massoud addressed the French and European Parliaments in Paris, and in a televised speech warned the US government about UBL.",
+   "place": "Paris",
+   "actors": [
+    "Ahmad Shah Massoud"
+   ],
+   "timestamp": "p.5"
+  },
+  {
+   "date": "2001-09-09",
+   "date_precision": "day",
+   "type": "death",
+   "description": "Massoud was assassinated in northern Afghanistan by two al-Qa'ida-linked Arabs posing as journalists, using a suicide bomb. The relationships paragraph gives the date as 2 September (likely an OCR error).",
+   "place": "Northern Afghanistan",
+   "actors": [
+    "Ahmad Shah Massoud",
+    "Two Arab assassins (unnamed)",
+    "al-Qa'ida"
+   ],
+   "timestamp": "p.4"
+  },
+  {
+   "date": "2001-09-11",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "Terrorist incident of 11 September 2001 in the US, which the report links to the Massoud assassination and al-Qa'ida.",
+   "place": "United States",
+   "actors": [
+    "al-Qa'ida"
+   ],
+   "timestamp": "p.4"
+  },
+  {
+   "date": "2001-11-21",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "DIA issued this IIR on the relationship between the Massoud assassination and 9/11.",
+   "place": "Washington DC",
+   "actors": [
+    "Defense Intelligence Agency"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998",
+   "date_precision": "year",
+   "type": "attack",
+   "description": "Bombing of U.S. embassies in Kenya and Tanzania (referenced as benchmark for planned larger al-Qa'ida attack).",
+   "place": "Kenya; Tanzania",
+   "actors": [
+    "al-Qa'ida",
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.5"
+  },
+  {
+   "date": "2001-04",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Massoud addressed the French and European Parliaments in Paris in a televised speech, warning the US government about UBL.",
+   "place": "Paris",
+   "actors": [
+    "Ahmad Shah Massoud",
+    "French Parliament",
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.5"
+  },
+  {
+   "date": "2001-09-09",
+   "date_precision": "day",
+   "type": "death",
+   "description": "Massoud was assassinated in northern Afghanistan by two al-Qa'ida-linked Arabs posing as journalists using a suicide bomb (report also gives '2 September' in garbled text).",
+   "place": "Northern Afghanistan",
+   "actors": [
+    "Ahmad Shah Massoud",
+    "Two Arab assassins (unnamed)",
+    "al-Qa'ida",
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.4"
+  },
+  {
+   "date": "2001-09-11",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "Terrorist attacks of 11 September 2001, linked in the report to the Massoud assassination and al-Qa'ida.",
+   "place": "",
+   "actors": [
+    "al-Qa'ida",
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.4"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Two Arab assassins (unnamed)",
+   "target": "Ahmad Shah Massoud",
+   "type": "killed",
+   "detail": "Posing as journalists seeking an interview, they killed Massoud with a suicide bomb.",
+   "date": "2001-09",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "ASKED FOR AN INTERVIEW WITH COMMANDER MASSOUD, AND KILLED HIM WITH A SUICIDE BOMB"
+  },
+  {
+   "source": "Two Arab assassins (unnamed)",
+   "target": "Usama bin Ladin",
+   "type": "member_of",
+   "detail": "The assassins are described as loyal to UBL.",
+   "date": "2001-09",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "TWO ARABS, LOYAL TO UBL AND MEMBERS OF THE AL-QAIDA ORGANIZATION"
+  },
+  {
+   "source": "Two Arab assassins (unnamed)",
+   "target": "al-Qa'ida",
+   "type": "member_of",
+   "detail": "The assassins are described as members of al-Qa'ida.",
+   "date": "2001-09",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "LOYAL TO UBL AND MEMBERS OF THE AL-QAIDA ORGANIZATION"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "al-Qa'ida",
+   "type": "leads",
+   "detail": "UBL is the leader of the al-Qa'ida terrorist organization.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "USAMA {(31N LADIN)) (UBL), AND HIS TERRORTST ORGANTZATICN, AL-OATDA"
+  },
+  {
+   "source": "Ahmad Shah Massoud",
+   "target": "Northern Alliance",
+   "type": "leads",
+   "detail": "Massoud formed the Northern Alliance Forces and led them against the Taliban.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "MANAGED TO FORM THE NORTHERN ALLIANCE FORCES {NAF) AND CONTINUED HIS FIGHT AGAINST TALTBAN FORCRS"
+  },
+  {
+   "source": "Northern Alliance",
+   "target": "Taliban",
+   "type": "rival_of",
+   "detail": "The Northern Alliance fought the Taliban in northern Afghanistan.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "CONTINUED HIS FIGHT AGAINST TALTBAN FORCRS IM NORTHERN APGHANISTAN"
+  },
+  {
+   "source": "Taliban",
+   "target": "Government of Pakistan",
+   "type": "funded_by",
+   "detail": "Pakistani government support made the Taliban militarily powerful.",
+   "date": "early 1990s",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "DUE TO THE PAKLSTANI GOVERNMENT SUPPORT TO TALIBAN FORCES, THE TALIBAN BECAME MILITARILY POWERFUL"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "UBL was exiled to Afghanistan.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "UBL WAS A SAUDI CITIZEN, EXTLED TO AFGHANISTAN"
+  },
+  {
+   "source": "Ahmad Shah Massoud",
+   "target": "Usama bin Ladin",
+   "type": "rival_of",
+   "detail": "Massoud warned the West of UBL and al-Qa'ida, although the report says he was not a direct threat to them.",
+   "date": "2001",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "MASSOUD BEGAN TO WARN THE WEST OF UBL AND AL-QAIDA"
+  },
+  {
+   "source": "Taliban",
+   "target": "Government of Pakistan",
+   "type": "funded_by",
+   "detail": "Taliban forces became militarily powerful due to Pakistani government support.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "DUE TO THE PAKISTANI GOVERNMENT SUPPORT TO TALIBAN FORCES, THE TALIBAN BECAME MILITARILY POWERFUL"
+  },
+  {
+   "source": "Ahmad Shah Massoud",
+   "target": "Taliban",
+   "type": "rival_of",
+   "detail": "Massoud fought Taliban forces over control of Afghanistan.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "COMMANDER MASSOUD WAS FIGHTING TALIBAN FORCES OVER THE CONTROL OF AFGHANISTAN"
+  },
+  {
+   "source": "Northern Alliance",
+   "target": "Northern Afghanistan",
+   "type": "located_in",
+   "detail": "Northern Alliance operated in northern Afghanistan.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "NORTHERN ALLIANCE FORCES {NAF) AND CONTINUED HIS FIGHT AGAINST TALTBAN FORCRS IM NORTHERN APGHANISTAN"
+  },
+  {
+   "source": "Two Arab assassins (unnamed)",
+   "target": "Usama bin Ladin",
+   "type": "allied_with",
+   "detail": "Assassins were loyal to UBL.",
+   "date": "2001-09",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "TNO ARASS, LOYAL TO UBL AND MEMBERS OF THE AL-OAIDA CRGANLZATION"
+  },
+  {
+   "source": "Two Arab assassins (unnamed)",
+   "target": "Ahmad Shah Massoud",
+   "type": "met_with",
+   "detail": "Assassins requested and obtained an interview with Massoud.",
+   "date": "2001-09",
+   "confidence": "inferred",
+   "timestamp": "p.5",
+   "quote": "ASKRO FOR AN INTRAVTFH WITH COMMANDER MASSOUD"
+  },
+  {
+   "source": "Ahmad Shah Massoud",
+   "target": "Usama bin Ladin",
+   "type": "rival_of",
+   "detail": "Massoud began warning the West of UBL and al-Qa'ida, though UBL had been seen as a Saudi exile.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.5",
+   "quote": "MASSOUD BEGAN 10 WARN THE WEST OF UBL AND AL-QAIDA"
+  },
+  {
+   "source": "al-Qa'ida",
+   "target": "Kenya",
+   "type": "other",
+   "detail": "Al-Qa'ida is linked to the 1998 embassy bombings in Kenya.",
+   "date": "1998",
+   "confidence": "inferred",
+   "timestamp": "p.5",
+   "quote": "1998 BOMBING OF THE U.S. EMBASSIES IN KENYA AND ANZANLA"
+  },
+  {
+   "source": "al-Qa'ida",
+   "target": "Tanzania",
+   "type": "other",
+   "detail": "Al-Qa'ida is linked to the 1998 embassy bombings in Tanzania.",
+   "date": "1998",
+   "confidence": "inferred",
+   "timestamp": "p.5",
+   "quote": "1998 BOMBING OF THE U.S. EMBASSIES IN KENYA AND ANZANLA"
+  },
+  {
+   "source": "Ahmad Shah Massoud",
+   "target": "French Parliament",
+   "type": "met_with",
+   "detail": "Massoud addressed the French and European Parliaments in Paris.",
+   "date": "2001-04",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "IN APRIL 2001, MASSOUD ADDRESSED THE FRENCH AND EGROPEAN PARLIAMENTS {£N PARIS"
+  },
+  {
+   "source": "French Parliament",
+   "target": "Paris",
+   "type": "located_in",
+   "detail": "Massoud addressed parliaments in Paris.",
+   "date": "2001-04",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "THE FRENCH AND EGROPEAN PARLIAMENTS {£N PARIS"
+  }
+ ],
+ "sources_cited": [
+  "Northern Alliance intelligence reports",
+  "DIA Intelligence Information Report (IIR), DTG 212312Z NOV 01"
+ ],
+ "key_claims": [
+  "The DIA report links al-Qa'ida's assassination of Massoud to the 11 September 2001 attacks.",
+  "Two Arabs loyal to UBL and belonging to al-Qa'ida posed as journalists and killed Massoud with a suicide bomb.",
+  "Through Northern Alliance intelligence reports Massoud gained limited knowledge of an al-Qa'ida plan for an attack on the US larger than the 1998 embassy bombings.",
+  "Massoud warned the French and European Parliaments and the US government about UBL in April 2001.",
+  "Massoud was not a direct threat to UBL; the report presents UBL as a Saudi exile in Afghanistan.",
+  "Pakistani government support made the Taliban militarily powerful against outgunned Afghan opposition forces."
+ ]
+}

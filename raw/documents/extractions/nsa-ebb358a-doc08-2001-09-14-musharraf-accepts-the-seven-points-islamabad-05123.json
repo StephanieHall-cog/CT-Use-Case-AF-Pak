@@ -1,0 +1,423 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb358a-doc08-2001-09-14-musharraf-accepts-the-seven-points-islamabad-05123",
+  "title": "Musharraf Accepts The Seven Points (Islamabad 05123)",
+  "authors": "U.S. Embassy Islamabad",
+  "publisher": "National Security Archive (GWU), New Documents Detail America's Strategic Response to 9/11",
+  "published": "2001-09-14",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB358a/doc08.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB358a/index.htm",
+  "pages": 4,
+  "kind": "cable",
+  "note": "[Secret] After meeting military commanders, Musharraf accepts the seven U.S. requested actions without conditions, though technical issues need clarification. He asks whether the U.S. aims to strike UBL or the Taliban too, urges a prompt economic recovery effort after any military action, and says Islamabad wants a friendly government in Kabul.",
+  "collection": "NSAEBB358a",
+  "doc_number": "Document 8",
+  "relevance": "high",
+  "ocr": 4
+ },
+ "persons": [
+  {
+   "name": "Pervez Musharraf",
+   "aliases": [
+    "General Musharraf",
+    "Parvez Musharraf"
+   ],
+   "role": "Pakistani head of state and Army chief (General)",
+   "organizations": [
+    "Government of Pakistan",
+    "Pakistan Army"
+   ],
+   "nationality_or_origin": "Pakistani",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Islamabad"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "GENERAL MUSHARRAF ACCEPTS THE SEVEN ACTIONS WE ARE ASKING OF THE GOP TO SUPPORT OUR EFFORTS AGAINST INTERNATIONAL TERRORISM."
+    },
+    {
+     "timestamp": "p.1",
+     "quote": "HE SAID HE ACCEPTED THE POINTS WITHOUT CONDITIONS AND THAT HIS MILITARY LEADERSHIP CONCURRED."
+    }
+   ]
+  },
+  {
+   "name": "Wendy Chamberlin",
+   "aliases": [
+    "Ambassador Chamberlin"
+   ],
+   "role": "U.S. Ambassador to Pakistan",
+   "organizations": [
+    "U.S. Embassy Islamabad",
+    "U.S. Department of State"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Islamabad"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "CLASSIFIED BY AMBASSADOR CHAMBERLIN"
+    },
+    {
+     "timestamp": "p.1",
+     "quote": "IN A 90-MINUTE MEETING WITH THE AMBASSADOR AND POLCOUNSELOR LATE SEPTEMBER 14, MUSHARRAF"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Government of Pakistan",
+   "aliases": [
+    "GOP"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "United States"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Asked by US to take seven actions supporting counterterrorism efforts."
+  },
+  {
+   "name": "Pakistan Army",
+   "aliases": [
+    "Corps Commanders"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "Government of Pakistan"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Musharraf's corps commanders and other ranking military officers met all day and concurred with accepting the points."
+  },
+  {
+   "name": "U.S. Embassy Islamabad",
+   "aliases": [
+    "AMEMBASSY ISLAMABAD"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "U.S. Department of State"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Author of the cable."
+  },
+  {
+   "name": "U.S. Department of State",
+   "aliases": [
+    "SECSTATE"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Recipient of the cable."
+  },
+  {
+   "name": "Taliban",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "The legible fragment on p.3 refers to the political future of the Taliban and their supporters after military action."
+  }
+ ],
+ "places": [
+  {
+   "name": "Islamabad",
+   "type": "city",
+   "country": "Pakistan",
+   "parent": "Pakistan",
+   "significance": "Location of the US Embassy and the Musharraf meeting."
+  },
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Government agreeing to support US counterterrorism efforts."
+  },
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Subject of potential military action and the Taliban's political future (tags: PK, AF)."
+  }
+ ],
+ "events": [
+  {
+   "date": "2001-09-14",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "Musharraf met the US Ambassador and POLCOUNSELOR for about 90 minutes and accepted the seven US points without conditions. He had earlier discussed them with corps commanders.",
+   "place": "Islamabad",
+   "actors": [
+    "Pervez Musharraf",
+    "Wendy Chamberlin",
+    "Pakistan Army"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-09-14",
+   "date_precision": "day",
+   "type": "agreement",
+   "description": "Musharraf accepted the seven actions requested of the GOP in support of US efforts against international terrorism; his military leadership concurred.",
+   "place": "Islamabad",
+   "actors": [
+    "Pervez Musharraf",
+    "Government of Pakistan",
+    "Pakistan Army"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-09-14",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "U.S. Embassy Islamabad transmitted section 02 of cable 05123, 'Musharraf Accepts the Seven Points', to the State Department (DTG 142011Z SEP 01).",
+   "place": "Islamabad",
+   "actors": [
+    "U.S. Embassy Islamabad",
+    "U.S. Department of State",
+    "Pervez Musharraf"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "2001-09",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "A speaker, apparently Musharraf, raised the political future of the Taliban and its supporters after any military action. The OCR is badly garbled and the speaker is not clear.",
+   "place": "Islamabad",
+   "actors": [
+    "Pervez Musharraf",
+    "Taliban"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "2001-09-14",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "Musharraf meets the US Ambassador and Polcounselor for 90 minutes late in the day and says he accepts the seven points without conditions.",
+   "place": "Islamabad",
+   "actors": [
+    "Pervez Musharraf",
+    "Wendy Chamberlin",
+    "U.S. Embassy Islamabad"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-09-14",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "Musharraf holds an all-day meeting with his corps commanders and other senior military officers to discuss the US points.",
+   "place": "Pakistan",
+   "actors": [
+    "Pervez Musharraf",
+    "Pakistan Army"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-09-14",
+   "date_precision": "day",
+   "type": "agreement",
+   "description": "Musharraf accepts the seven US requested actions without conditions; military leadership concurs; he invites a US interagency team to work out implementation details.",
+   "place": "Islamabad",
+   "actors": [
+    "Pervez Musharraf",
+    "Government of Pakistan",
+    "Pakistan Army"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-09-14",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "The U.S. Embassy Islamabad sent section 2 of 2 of cable 05123, 'Musharraf Accepts the Seven Points', to the State Department. The recoverable text raises the post-military-action political future of the Taliban and its supporters. The comment section notes that Musharraf and his military leadership are on board, but the OCR is largely illegible.",
+   "place": "Islamabad",
+   "actors": [
+    "U.S. Embassy Islamabad",
+    "U.S. Department of State",
+    "Pervez Musharraf"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "2001-09-14",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "Musharraf met Ambassador Chamberlin and the Polcounselor for 90 minutes and accepted the seven points without conditions.",
+   "place": "Islamabad",
+   "actors": [
+    "Pervez Musharraf",
+    "Wendy Chamberlin",
+    "Government of Pakistan"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-09-14",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "Musharraf held an all-day meeting with his corps commanders and senior officers to discuss the seven points; they concurred.",
+   "place": "Pakistan",
+   "actors": [
+    "Pervez Musharraf",
+    "Pakistan Army"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-09-14",
+   "date_precision": "day",
+   "type": "agreement",
+   "description": "Musharraf accepted the seven US requests without conditions and invited an interagency team to work out the implementation details.",
+   "place": "Islamabad",
+   "actors": [
+    "Pervez Musharraf",
+    "Government of Pakistan",
+    "U.S. Embassy Islamabad"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Pervez Musharraf",
+   "target": "Wendy Chamberlin",
+   "type": "met_with",
+   "detail": "Musharraf met the Ambassador and POLCOUNSELOR for 90 minutes late on 14 September 2001.",
+   "date": "2001-09-14",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "IN A 90-MINUTE MEETING WITH THE AMBASSADOR AND POLCOUNSELOR LATE SEPTEMBER 14, MUSHARRAF"
+  },
+  {
+   "source": "Pervez Musharraf",
+   "target": "Pakistan Army",
+   "type": "leads",
+   "detail": "Musharraf consulted his corps commanders and other senior officers, who concurred.",
+   "date": "2001-09-14",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "DISCUSSED THEM IN AN ALL-DAY MEETING WITH HIS CORPS COMMANDERS AND OTHER RANKING MILITARY OFFICERS."
+  },
+  {
+   "source": "Pervez Musharraf",
+   "target": "Government of Pakistan",
+   "type": "leads",
+   "detail": "Musharraf accepted the US requests on behalf of the GOP.",
+   "date": "2001-09-14",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "GENERAL MUSHARRAF ACCEPTS THE SEVEN ACTIONS WE ARE ASKING OF THE GOP"
+  },
+  {
+   "source": "U.S. Embassy Islamabad",
+   "target": "U.S. Department of State",
+   "type": "reports_to",
+   "detail": "The Embassy sent cable 05123 (section 02 of 02) to the Secretary of State in Washington, marked immediate.",
+   "date": "2001-09-14",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "FM AMEMBASSY ISLAMABAD TO SECSTATE WASHDC IMMEDIATE 9020"
+  },
+  {
+   "source": "U.S. Embassy Islamabad",
+   "target": "Islamabad",
+   "type": "located_in",
+   "detail": "The cable originates from the American Embassy in Islamabad.",
+   "date": "2001-09-14",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "FM AMEMBASSY ISLAMABAD"
+  },
+  {
+   "source": "Pervez Musharraf",
+   "target": "Pakistan Army",
+   "type": "met_with",
+   "detail": "Musharraf discussed the points in an all-day meeting with his corps commanders and other ranking military officers.",
+   "date": "2001-09-14",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "DISCUSSED THEM IN AN ALL-DAY MEETING WITH HIS CORPS COMMANDERS AND OTHER RANKING MILITARY OFFICERS."
+  },
+  {
+   "source": "Pervez Musharraf",
+   "target": "U.S. Embassy Islamabad",
+   "type": "negotiated_with",
+   "detail": "Musharraf accepted the US points and invited an interagency team to work out implementation details.",
+   "date": "2001-09-14",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "MUSHARRAF DISCUSSED IMPLEMENTATION DETAILS REMAINING TO BE WORKED OUT REGARDING THE POINTS AND INVITED US TO SEND AN INTERAGENCY TEAM"
+  },
+  {
+   "source": "Wendy Chamberlin",
+   "target": "U.S. Embassy Islamabad",
+   "type": "leads",
+   "detail": "Ambassador Chamberlin classified and headed the embassy's reporting.",
+   "date": "2001-09-14",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "CLASSIFIED BY AMBASSADOR CHAMBERLIN"
+  },
+  {
+   "source": "U.S. Embassy Islamabad",
+   "target": "Islamabad",
+   "type": "located_in",
+   "detail": "The embassy is in Islamabad.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "FM AMEMBASSY ISLAMABAD"
+  },
+  {
+   "source": "Wendy Chamberlin",
+   "target": "U.S. Embassy Islamabad",
+   "type": "leads",
+   "detail": "Chamberlin is the Ambassador, classifying the cable from the embassy.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "CLASSIFIED BY AMBASSADOR CHAMBERLIN"
+  },
+  {
+   "source": "U.S. Embassy Islamabad",
+   "target": "Government of Pakistan",
+   "type": "negotiated_with",
+   "detail": "The US asked the GOP for seven actions supporting efforts against terrorism; Musharraf accepted them.",
+   "date": "2001-09-14",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "THE SEVEN ACTIONS WE ARE ASKING OF THE GOP TO SUPPORT OUR EFFORTS AGAINST INTERNATIONAL TERRORISM"
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "Musharraf accepted without conditions the seven US requested actions for supporting the campaign against international terrorism.",
+  "Musharraf's corps commanders and other senior military officers concurred in the decision after an all-day meeting.",
+  "Musharraf invited the US to send an interagency team to work out remaining implementation details.",
+  "Musharraf raised the post-military-action political future of the Taliban and its supporters, suggesting Islamabad wanted a say in Afghanistan's future."
+ ]
+}

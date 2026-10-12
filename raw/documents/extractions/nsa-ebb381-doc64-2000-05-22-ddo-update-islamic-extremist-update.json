@@ -1,0 +1,137 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc64-2000-05-22-ddo-update-islamic-extremist-update",
+  "title": "DDO Update, Islamic Extremist Update",
+  "authors": "Central Intelligence Agency",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "2000-05-22",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7xgb-ivxcp/2000-05-22-ddo-update-islamic-extremist-update.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 2,
+  "kind": "briefing",
+  "note": "Deputy Director for Operations update on Islamic extremists. Cited in 9/11 Commission Report, Chapter 6, Endnote 101.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 64",
+  "relevance": "high",
+  "ocr": 0
+ },
+ "persons": [
+  {
+   "name": "Masood",
+   "aliases": [
+    "Ahmad Shah Massoud",
+    "Ahmad Shah Masood"
+   ],
+   "role": "Subject of a 'Masood initiative' and of a trip, per fragmentary headings (identification as Ahmad Shah Massoud is inferred from the spelling and context)",
+   "organizations": [],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Wa_ (truncated; possibly Washington)"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "+Masood~s re"
+    },
+    {
+     "timestamp": "p.2",
+     "quote": "Masood. lniti·ative"
+    }
+   ]
+  },
+  {
+   "name": "Sheehan",
+   "aliases": [
+    "Michael Sheehan"
+   ],
+   "role": "Named in a fragment near 'Meeting (State)'. Likely the State Department counterterrorism official, but this is not confirmed in the legible text.",
+   "organizations": [
+    "US Department of State"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "\"), Sheehan ."
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Author of the DDO Update, Islamic Extremist Update. The document is heavily redacted and the OCR is garbled."
+  },
+  {
+   "name": "US Department of State",
+   "aliases": [
+    "State"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "A fragment reads 'Meeting_ (State)'."
+  }
+ ],
+ "places": [],
+ "events": [
+  {
+   "date": "2000-05-22",
+   "date_precision": "day",
+   "type": "other",
+   "description": "Publication date of the CIA DDO Update, Islamic Extremist Update. Visible headings mention a Masood initiative, a Masood trip, a meeting with State, and a 'productive' encounter.",
+   "place": "",
+   "actors": [
+    "Masood",
+    "Sheehan",
+    "Central Intelligence Agency"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "approx 2000-05",
+   "date_precision": "approx",
+   "type": "travel",
+   "description": "Masood made a recent trip to Washington (text truncated at 'Wa_'). The item appears in the DDO update dated 22 May 2000, under the 'Masood Initiative' heading.",
+   "place": "Washington (truncated)",
+   "actors": [
+    "Masood"
+   ],
+   "timestamp": "p.2"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Masood",
+   "target": "US Department of State",
+   "type": "met_with",
+   "detail": "The fragmentary agenda lists Masood's recent trip to Washington and a meeting with State. The link between the two is inferred and not explicit.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "+Masood~s re _:! __ •.· : trip to Wa_ · · + Meeting_ - (State)·"
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "The legible text is limited to fragmentary headings on a 'Masood initiative', a Masood trip, and a meeting involving State.",
+  "A fragment says someone 'had a productive' encounter, and Sheehan is named nearby. The surrounding text is redacted, so no details can be confirmed."
+ ]
+}

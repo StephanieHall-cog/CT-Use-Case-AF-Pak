@@ -1,0 +1,259 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc24-1997-08-01-title-excised-plan-to-establish-an-iraqi-element-i",
+  "title": "[Title Excised] Plan to establish an Iraqi Element in Bin Ladin's Islamic Army",
+  "authors": "CIA",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "1997-08-01",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7x7g-tbo1k/1997-08-01-title-excised-plan-to-establish-an.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 6,
+  "kind": "intelligence report",
+  "note": "CIA Intelligence Report on a plan to establish an Iraqi element in bin Ladin's Islamic Army. Source: 9/11 Commission Report, Chapter 2, Endnote 54.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 24",
+  "relevance": "high",
+  "ocr": 4
+ },
+ "persons": [
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Bin Ladin"
+   ],
+   "role": "Leader of the 'Islamic Army', which was reportedly planning to establish an Iraqi element",
+   "organizations": [
+    "Islamic Army"
+   ],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Sudan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.3",
+     "quote": "REQUESTEO THAT BIN LADIN REFRAIN.FROM ESTABLISHING SUCH A GROUP, BECAUSE THE NIF SUPPORTED SADDAM."
+    }
+   ]
+  },
+  {
+   "name": "Saddam Husayn",
+   "aliases": [
+    "Saddam",
+    "Saddam Hussein"
+   ],
+   "role": "Iraqi ruler, supported by the Sudanese NIF",
+   "organizations": [],
+   "nationality_or_origin": "Iraqi",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Iraq"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.3",
+     "quote": "THE NIF WAS CONCERNED THAT SADDAM WOULD LEARN ABOUT THE ISLAMIC ARMY IRAQI ISLAMISTS"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Islamic Army",
+   "aliases": [
+    "Bin Ladin's Islamic Army"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Sudan",
+   "notes": "Bin Ladin's group, which was planning to add an Iraqi element composed of Iraqi Islamists. The text is badly garbled."
+  },
+  {
+   "name": "National Islamic Front",
+   "aliases": [
+    "NIF",
+    "Sudanese National Islamic Front"
+   ],
+   "type": "political movement",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Sudan",
+   "notes": "Learned of the plan and asked Bin Ladin not to form the Iraqi group, because the NIF supported Saddam."
+  },
+  {
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Issued the information report; it is not finally evaluated intelligence."
+  }
+ ],
+ "places": [
+  {
+   "name": "Sudan",
+   "type": "country",
+   "country": "Sudan",
+   "parent": "",
+   "significance": "Base of the NIF, which was reportedly concerned about the plan (the text says 'SODANESE')."
+  },
+  {
+   "name": "Iraq",
+   "type": "country",
+   "country": "Iraq",
+   "parent": "",
+   "significance": "Origin of the Islamists to be organized into an element, and of Saddam."
+  }
+ ],
+ "events": [
+  {
+   "date": "1997-08-01",
+   "date_precision": "day",
+   "type": "other",
+   "description": "CIA information report transmitted (TOT 011920Z AU[G] 97) on the plan to establish an Iraqi element in Bin Ladin's Islamic Army; the event dates inside the report are not legible.",
+   "place": "",
+   "actors": [
+    "Central Intelligence Agency"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "approx 1997",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "The NIF learned of the plan and asked Bin Ladin to refrain from establishing the Iraqi group. The date is not stated.",
+   "place": "Sudan",
+   "actors": [
+    "National Islamic Front",
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1997",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Bin Ladin planned to establish an Iraqi element (Iraqi Islamists) within his Islamic Army.",
+   "place": "Sudan",
+   "actors": [
+    "Usama bin Ladin",
+    "Islamic Army"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1997",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "The NIF learned of the plan and asked Bin Ladin not to form the Iraqi group, fearing Saddam would find out about the Iraqi Islamists in the Islamic Army.",
+   "place": "Sudan",
+   "actors": [
+    "National Islamic Front",
+    "Usama bin Ladin",
+    "Saddam Husayn"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1997-08-01",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "The CIA information report on the plan was issued (TOT 011920Z AUG 97).",
+   "place": "",
+   "actors": [
+    "Central Intelligence Agency"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "National Islamic Front",
+   "target": "Usama bin Ladin",
+   "type": "other",
+   "detail": "The NIF asked Bin Ladin not to establish an Iraqi group because the NIF supported Saddam.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "REQUESTEO THAT BIN LADIN REFRAIN.FROM ESTABLISHING SUCH A GROUP, BECAUSE THE NIF SUPPORTED SADDAM."
+  },
+  {
+   "source": "National Islamic Front",
+   "target": "Saddam Husayn",
+   "type": "allied_with",
+   "detail": "The NIF supported Saddam and feared he would learn of the Iraqi Islamists in the Islamic Army.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "THE NIF WAS CONCERNED THAT SADDAM WOULD LEARN ABOUT THE ISLAMIC ARMY IRAQI ISLAMISTS"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Islamic Army",
+   "type": "leads",
+   "detail": "The document refers to Bin Ladin's Islamic Army.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "THE ISLAMIC ARMY IRAQI ISLAMISTS"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Islamic Army",
+   "type": "leads",
+   "detail": "The document title and text describe the Islamic Army as Bin Ladin's, and he is the one planning to add an Iraqi element to it.",
+   "date": "1997",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "PLAN TO ESTABLISH AN IRAQI ... BIN LADIN ... ISLAMIC ARMY"
+  },
+  {
+   "source": "National Islamic Front",
+   "target": "Saddam Husayn",
+   "type": "allied_with",
+   "detail": "The NIF supported Saddam, which is why it did not want an Iraqi element formed in Bin Ladin's group.",
+   "date": "1997",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "BECAUSE THE NIF SUPPORTED SADDAM."
+  },
+  {
+   "source": "National Islamic Front",
+   "target": "Usama bin Ladin",
+   "type": "other",
+   "detail": "The NIF learned of the plan and asked Bin Ladin to refrain from establishing an Iraqi group.",
+   "date": "1997",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "AND REQUESTED THAT BIN LADIN REFRAIN FROM ESTABLISHING SUCH A GROUP"
+  },
+  {
+   "source": "National Islamic Front",
+   "target": "Sudan",
+   "type": "located_in",
+   "detail": "The NIF is described as the Sudanese National Islamic Front.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "SODANESE~TIONAL ISLAMIC FRONT (NIF)"
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "Bin Ladin planned to establish an Iraqi element in his Islamic Army.",
+  "The Sudanese NIF learned of the plan and asked Bin Ladin to refrain.",
+  "The NIF supported Saddam Husayn and feared he would learn about the Iraqi Islamists in the Islamic Army."
+ ]
+}

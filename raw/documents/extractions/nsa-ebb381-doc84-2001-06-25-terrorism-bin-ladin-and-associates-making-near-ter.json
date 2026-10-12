@@ -1,0 +1,197 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc84-2001-06-25-terrorism-bin-ladin-and-associates-making-near-ter",
+  "title": "Terrorism: Bin Ladin and Associates Making Near-Term Threats",
+  "authors": "Central Intelligence Agency (Senior Executive Intelligence Brief)",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "2001-06-25",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7xl1-j1w1s/2001-06-25-terrorism-bin-ladin-and-associates.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 1,
+  "kind": "briefing",
+  "note": "One of the SEIBs from June-September 2001 warning of imminent al-Qaeda attacks. Cited in 9/11 Commission Report, Chapter 8, Endnotes 12, 14.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 84",
+  "relevance": "high",
+  "ocr": 0
+ },
+ "persons": [
+  {
+   "name": "Usama Bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Usama bin Laden",
+    "Bin Ladin"
+   ],
+   "role": "al-Qa'ida leader; reportedly planning multiple attacks and issuing a public threat",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "unknown",
+   "status_detail": "Alive and in Afghanistan as of June 2001 per the brief; later fate not stated here",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Usama Bin Ladin to launch mu[ltiple] attacks over the comm[ing]"
+    },
+    {
+     "timestamp": "p.1",
+     "quote": "its correspondent in Afghanistan interviewed Bin Ladin last week and was told to expect a \"severe blow\" against US and Israeli interests"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Issuer of the Senior Executive Intelligence Brief dated 25 June 2001"
+  },
+  {
+   "name": "Arab news channel",
+   "aliases": [
+    "Arabic news channel"
+   ],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Unnamed; reported its correspondent interviewed Bin Ladin in Afghanistan; did not show footage"
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Location where an Arab news correspondent reportedly interviewed Bin Ladin"
+  }
+ ],
+ "events": [
+  {
+   "date": "2001-06-25",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA Senior Executive Intelligence Brief warns that Bin Ladin and associates are making near-term threats and may launch multiple attacks.",
+   "place": "",
+   "actors": [
+    "Central Intelligence Agency",
+    "Usama Bin Ladin"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-06-23",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Arab news channel reported Bin Ladin was interviewed the previous week, and said to expect a \"severe blow\" against US and Israeli interests within two weeks.",
+   "place": "Afghanistan",
+   "actors": [
+    "Usama Bin Ladin",
+    "Arab news channel"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-06",
+   "date_precision": "month",
+   "type": "meeting",
+   "description": "Arab news correspondent interviewed Bin Ladin in Afghanistan under security measures (week before the 23 June report).",
+   "place": "Afghanistan",
+   "actors": [
+    "Usama Bin Ladin",
+    "Arab news channel"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-06",
+   "date_precision": "approx",
+   "type": "meeting",
+   "description": "An Arab news channel's correspondent reportedly interviewed Bin Ladin in Afghanistan 'last week' (before the 25 June 2001 brief). Bin Ladin said to expect a 'severe blow' against US and Israeli interests within two weeks. The station showed no footage.",
+   "place": "Afghanistan",
+   "actors": [
+    "Arab news channel",
+    "Usama Bin Ladin"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-06-23",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "The Arab news channel reported on Saturday the interview with Bin Ladin and his threat of a 'severe blow' against US and Israeli interests during the next two weeks.",
+   "place": "",
+   "actors": [
+    "Arab news channel",
+    "Usama Bin Ladin"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-06-25",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "The CIA Senior Executive Intelligence Brief reported that Bin Ladin and associates were making near-term threats and planning multiple attacks.",
+   "place": "",
+   "actors": [
+    "Central Intelligence Agency",
+    "Usama Bin Ladin"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Arab news channel",
+   "target": "Usama Bin Ladin",
+   "type": "met_with",
+   "detail": "Channel's correspondent reportedly interviewed Bin Ladin in Afghanistan.",
+   "date": "2001-06",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "its correspondent in Afghanistan interviewed Bin Ladin last week"
+  },
+  {
+   "source": "Arab news channel",
+   "target": "Usama Bin Ladin",
+   "type": "met_with",
+   "detail": "The channel reported that its correspondent interviewed Bin Ladin in Afghanistan the week before the report.",
+   "date": "2001-06 (week before 25 June 2001 brief)",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "its correspondent in Afghanistan interviewed Bin Ladin last week and was told to expect a \"severe blow\" against US and Israeli interests"
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Bin Ladin was reportedly in Afghanistan, where the correspondent interviewed him.",
+   "date": "2001-06",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "its correspondent in Afghanistan interviewed Bin Ladin last week"
+  }
+ ],
+ "sources_cited": [
+  "Arab news channel report of 23 June 2001 (Saturday)"
+ ],
+ "key_claims": [
+  "As of 25 June 2001 the CIA assessed that Bin Ladin and associates were preparing multiple near-term attacks.",
+  "Bin Ladin reportedly publicly threatened a \"severe blow\" to US and Israeli interests within two weeks.",
+  "The correspondent's description of security measures during the interview was judged consistent with (redacted) reporting, though no footage substantiated the claim."
+ ]
+}

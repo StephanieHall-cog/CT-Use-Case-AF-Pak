@@ -61,7 +61,9 @@ and places — see `raw/reports/`).
 
 ---
 ## Corpus
- episodes: 93, entities: 1803, relationships: 6642, events: 1394, mentions: 2720, aliases: 4087, profiles: 194
+ episodes: 93, documents: 449 (446 National Security Archive declassified records — see `docs/nsa-sources.md`), entities: 6477, relationships: 32013, events: 10974, mentions: 9231, aliases: 9083, profiles: 194
+
+The tables below were generated from the podcast corpus; the National Security Archive documents add the 1979–2004 historical layer (Soviet-era PDPA/mujahedin politics, the Taliban's 1994–2001 rise and leadership, bin Ladin's 1996–2001 Afghan sanctuary, Pakistani ISI patronage, the Haqqani history, the CIA 9/11 file) with `relationships.source='document'` and page-level quotes.
 
 ## External profile sources (UN 1988 Sanctions List, FBI Wanted – Terrorism)
  | source | category | profiles | also discussed in podcast | in all three sources |

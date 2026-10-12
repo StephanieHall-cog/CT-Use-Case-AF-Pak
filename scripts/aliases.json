@@ -158,7 +158,13 @@
   ],
   "Ahmad Shah Massoud": [
    "Ahmed Shah Massoud",
-   "Massoud (senior)"
+   "Massoud (senior)",
+   "Ahmad Shah Masood",
+   "Ahmed Shah Masood",
+   "Ahmad Shah Masud",
+   "Masood",
+   "Commander Masood",
+   "Ahmad Shah Masoud"
   ],
   "Sami Sadat": [
    "Lt. Gen. Sami Sadat",
@@ -180,7 +186,9 @@
   ],
   "Mohammad Hassan Akhund": [
    "Mullah Hassan Akhund",
-   "Hasan Akhund"
+   "Hasan Akhund",
+   "Mullah Mohammad Hassan Akhund",
+   "Mullah Mohammed Hassan Akhund"
   ],
   "Abdul Qayyum Zakir": [
    "Mullah Zakir",
@@ -231,15 +239,23 @@
   "Abu Hamza al-Muhajir": [],
   "Abdullah Azzam": [
    "'Abdullah 'Azzam",
-   "Abdallah Azzam"
+   "Abdallah Azzam",
+   "Abdullah Azam",
+   "Shaykh Abdullah Azzam"
   ],
   "Khalid Sheikh Mohammed": [
    "KSM",
    "Khalid Shaikh Mohammad",
    "Khalid Shaykh Muhammad",
-   "Khalid Shaikh Mohammed"
+   "Khalid Shaikh Mohammed",
+   "Khalid Sheikh Muhammad",
+   "Khalid Shaykh Mohammed"
   ],
-  "Abu Zubaydah": [],
+  "Abu Zubaydah": [
+   "Abu Zubayda",
+   "Abu Zubaida",
+   "Abu Zubaidah"
+  ],
   "Amin ul-Haq": [
    "Amin al-Haq",
    "Dr. Amin al-Haq"
@@ -395,7 +411,9 @@
    "Yunis Khalis",
    "Mawlawi Yunis Khalis",
    "Mawlawi Yunus Khalis",
-   "Younis Khalis"
+   "Younis Khalis",
+   "Maulvi Yunis Khalis",
+   "Maulawi Yunus Khalis"
   ],
   "Mohammad Daoud Khan": [
    "Muhammad Daoud",
@@ -438,7 +456,10 @@
   ],
   "Abu Ubaidah al-Banshiri": [
    "Abu 'Ubayda al-Banshiri",
-   "Abu Ubayda al-Banshiri"
+   "Abu Ubayda al-Banshiri",
+   "Abu 'Ubaydah al-Panjshiri",
+   "Abu Ubaydah al-Banshiri",
+   "Abu Ubaida al-Banshiri"
   ],
   "Zaki-ur-Rehman Lakhvi": [
    "Zakiur Rahman Lakhvi",
@@ -451,7 +472,8 @@
   "Mohammad Najibullah": [
    "Najibullah",
    "President Najibullah",
-   "Dr. Najibullah"
+   "Dr. Najibullah",
+   "Najib"
   ],
   "Fazul Abdullah Mohammed": [
    "Abdullah Muhammad Fazul",
@@ -511,6 +533,228 @@
    "Mullah Nazir Ahmed",
    "Maulvi Nazir",
    "Mullah Nazir Ahmad"
+  ],
+  "Abdul Rashid Dostum": [
+   "Abdul Rashid Dostam",
+   "Dostam",
+   "Dostum",
+   "Rashid Dostum",
+   "General Dostum",
+   "General Dostam",
+   "Abdul Rashid Dostom",
+   "Abdur-Rashid Dostam",
+   "Abdur Rashid Dostam",
+   "Abdul Rashid Dostam (Junbish)"
+  ],
+  "Mullah Mohammad Rabbani": [
+   "Mullah Rabbani",
+   "Mohammad Rabbani (Taliban)",
+   "Mullah Mohammed Rabbani"
+  ],
+  "Burhanuddin Rabbani": [
+   "Burhanuddin Rabani",
+   "President Rabbani",
+   "Professor Rabbani",
+   "Burhannudin Rabbani"
+  ],
+  "Ismail Khan": [
+   "Ismael Khan",
+   "Esmail Khan",
+   "Ismail Khan (Herat)"
+  ],
+  "Gulbuddin Hekmatyar": [
+   "Gulbuddin Hikmatyar",
+   "Hikmatyar",
+   "Hekmatyar",
+   "Gulbaddin Hekmatyar",
+   "Gulbuddin Hekmatyar (HIG)"
+  ],
+  "Wakil Ahmad Muttawakil": [
+   "Wakil Ahmed",
+   "Wakil Ahmad",
+   "Maulawi Wakil Mutawakil",
+   "Mullah Wakil Ahmad",
+   "Wakil Ahmed Muttawakil",
+   "Wakil Ahmad Mutawakil",
+   "Mullah Wakil Ahmed Muttawakil",
+   "Muttawakil",
+   "Mutawakil",
+   "Abdul Wakil Muttawakil",
+   "Maulawi Wakil Ahmad Muttawakil",
+   "Mullah Wakil Ahmad Muttawakil",
+   "Wakil Ahmad Mutawakkil",
+   "Mullah Muttawakil"
+  ],
+  "Mullah Abdul Jalil": [
+   "Mullah Jalil",
+   "Abdul Jalil (Taliban)",
+   "Mullah Abdul Jalil Akhund"
+  ],
+  "Abdul Karim Khalili": [
+   "Karim Khalili",
+   "Khalili"
+  ],
+  "Mahmud Ahmed": [
+   "Mahmood Ahmed",
+   "Mahmoud Ahmad",
+   "Mahmud Ahmad",
+   "General Mahmud Ahmed",
+   "General Mahmood",
+   "Mahmood Ahmad"
+  ],
+  "Nur Muhammad Taraki": [
+   "Nur Mohammad Taraki",
+   "Taraki",
+   "N. M. Taraki",
+   "Noor Mohammad Taraki"
+  ],
+  "Babrak Karmal": [
+   "Karmal",
+   "B. Karmal"
+  ],
+  "Hafizullah Amin": [
+   "Amin (Afghan PM)",
+   "H. Amin",
+   "Hafizulla Amin"
+  ],
+  "Zahir Shah": [
+   "Mohammad Zahir Shah",
+   "King Zahir Shah",
+   "Mohammed Zahir Shah",
+   "Former King Zahir Shah"
+  ],
+  "Karl F. Inderfurth": [
+   "Karl Inderfurth",
+   "Inderfurth",
+   "Rick Inderfurth",
+   "Karl \"Rick\" Inderfurth"
+  ],
+  "William B. Milam": [
+   "William Milam",
+   "Milam",
+   "Ambassador Milam"
+  ],
+  "Thomas W. Simons, Jr.": [
+   "Thomas Simons",
+   "Simons",
+   "Thomas W. Simons",
+   "Ambassador Simons"
+  ],
+  "Thomas R. Pickering": [
+   "Thomas Pickering",
+   "Pickering"
+  ],
+  "Ramzi Yousef": [
+   "Ramzi Ahmed Yousef",
+   "Ramzi Ahmad Yousef",
+   "Ramzi Yusuf"
+  ],
+  "Leonid Brezhnev": [
+   "L. I. Brezhnev",
+   "Brezhnev",
+   "L.I. Brezhnev"
+  ],
+  "Andrei Gromyko": [
+   "A. A. Gromyko",
+   "Gromyko",
+   "A.A. Gromyko"
+  ],
+  "Dmitry Ustinov": [
+   "D. F. Ustinov",
+   "Ustinov",
+   "D.F. Ustinov",
+   "Dmitri Ustinov"
+  ],
+  "Alexei Kosygin": [
+   "A. N. Kosygin",
+   "Kosygin",
+   "A.N. Kosygin",
+   "Aleksei Kosygin"
+  ],
+  "Yuri Andropov": [
+   "Yu. V. Andropov",
+   "Andropov",
+   "Yu.V. Andropov",
+   "Y. V. Andropov"
+  ],
+  "Mahmoud Mestiri": [
+   "Mestiri",
+   "Mahmud Mestiri"
+  ],
+  "Omar Abdel Rahman": [
+   "'Umar 'Abd al-Rahman",
+   "Umar Abd al-Rahman",
+   "Umar Ahmad 'Abd al-Rahman",
+   "Shaykh Umar Abd al-Rahman",
+   "Omar Abdul Rahman",
+   "Sheikh Omar Abdel Rahman",
+   "Blind Sheikh",
+   "Shaykh Omar Abdel Rahman"
+  ],
+  "Abd al-Rahim al-Nashiri": [
+   "Nashiri",
+   "Abdul Rahim al-Nashiri"
+  ],
+  "Mohamed Atta": [
+   "Muhammad Atta",
+   "Mohammed Atta"
+  ],
+  "Ahmed Ressam": [
+   "Ahmad Ressam"
+  ],
+  "Walid bin Attash": [
+   "Khallad",
+   "Tawfiq bin Attash",
+   "Khallad bin Attash",
+   "Tawfiq Muhammad Salih bin Rashid",
+   "Walid Muhammad Salih bin Attash"
+  ],
+  "Hosni Mubarak": [
+   "Husni Mubarak",
+   "President Mubarak"
+  ],
+  "Saddam Hussein": [
+   "Saddam Husayn",
+   "Saddam"
+  ],
+  "Ramzi bin al-Shibh": [
+   "Ramzi Bin al-Shibh",
+   "Ramzi Binalshibh"
+  ],
+  "Muhammad Zia-ul-Haq": [
+   "Zia ul-Haq",
+   "Zia-ul-Haq",
+   "Zia",
+   "General Zia",
+   "Zia ul Haq",
+   "President Zia",
+   "Mohammad Zia-ul-Haq",
+   "Muhammad Zia ul-Haq"
+  ],
+  "Mullah Mohammad Ghaus": [
+   "Mullah Ghaus",
+   "Mullah Mohammed Ghaus",
+   "Mullah Ghous",
+   "Mohammad Ghaus"
+  ],
+  "George Tenet": [
+   "George J. Tenet",
+   "DCI Tenet",
+   "Tenet"
+  ],
+  "John Gunther Dean": [
+   "Ambassador Dean",
+   "John G. Dean"
+  ],
+  "Turki al-Faisal": [
+   "Prince Turki",
+   "Prince Turki al-Faisal",
+   "Turki bin Faisal",
+   "Prince Turki al-Faysal"
+  ],
+  "Mullah Borjan": [
+   "Mullah Burjan",
+   "Borjan"
   ]
  },
  "organizations": {

@@ -1,0 +1,465 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb358a-doc16-2001-10-07-message-to-taliban-state-175415",
+  "title": "Message to Taliban (State 175415)",
+  "authors": "U.S. Department of State",
+  "publisher": "National Security Archive (GWU), New Documents Detail America's Strategic Response to 9/11",
+  "published": "2001-10-07",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB358a/doc16.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB358a/index.htm",
+  "pages": 2,
+  "kind": "cable",
+  "note": "[Secret/Nodis/Eyes Only] The U.S. asks ISI chief Mahmoud or Musharraf to deliver a message to the Taliban: hand over al-Qaida leaders or face a devastating response, Taliban leaders will be held personally responsible, and 'every pillar of the Taliban regime will be destroyed.'",
+  "collection": "NSAEBB358a",
+  "doc_number": "Document 16",
+  "relevance": "high",
+  "ocr": 2
+ },
+ "persons": [
+  {
+   "name": "Mullah Omar",
+   "aliases": [
+    "Mullah Mohammed Omar"
+   ],
+   "role": "Taliban leader; intended recipient of US warning message",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "IMMEDIATELY DELIVER THE FOLLOWING MESSAGE TO MULLAH OMAR."
+    }
+   ]
+  },
+  {
+   "name": "General Mahmud",
+   "aliases": [
+    "Mahmud Ahmed",
+    "Lt. Gen. Mahmud"
+   ],
+   "role": "Pakistani official (ISI chief) asked to deliver or relay the US message to Mullah Omar",
+   "organizations": [
+    "Pakistan government"
+   ],
+   "nationality_or_origin": "Pakistani",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Islamabad"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "SEEK IMMEDIATE APPOINTMENT WITH GENERAL MAHMUD TO REQUEST THAT EITHER HE OR PRESIDENT MUSHARRAF IMMEDIATELY DELIVER"
+    }
+   ]
+  },
+  {
+   "name": "President Musharraf",
+   "aliases": [
+    "Pervez Musharraf"
+   ],
+   "role": "President of Pakistan; alternative messenger to Mullah Omar",
+   "organizations": [
+    "Pakistan government"
+   ],
+   "nationality_or_origin": "Pakistani",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Pakistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "EITHER HE OR PRESIDENT MUSHARRAF IMMEDIATELY DELIVER THE FOLLOWING MESSAGE"
+    }
+   ]
+  },
+  {
+   "name": "Ambassador Chamberlin",
+   "aliases": [
+    "Wendy Chamberlin"
+   ],
+   "role": "US Ambassador to Pakistan, instructed to arrange delivery of the message",
+   "organizations": [
+    "US Department of State"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Islamabad"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "EYES ONLY FOR AMBASSADOR CHAMBERLIN"
+    }
+   ]
+  },
+  {
+   "name": "Richard L. Armitage",
+   "aliases": [
+    "Richard Armitage"
+   ],
+   "role": "US Deputy Secretary of State; classifying and approving official",
+   "organizations": [
+    "US Department of State"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "CLASSIFIED BY RICHARD L. ARMITAGE, DEPUTY SECRETARY OF STATE"
+    }
+   ]
+  },
+  {
+   "name": "Colin Powell",
+   "aliases": [
+    "Powell"
+   ],
+   "role": "US Secretary of State; cable signed POWELL",
+   "organizations": [
+    "US Department of State"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "POWELL"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "al-Qa'ida",
+   "aliases": [
+    "al-Qaeda",
+    "Al Qaida"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "US says it has information al-Qa'ida is planning additional terrorist attacks."
+  },
+  {
+   "name": "Taliban",
+   "aliases": [
+    "Taliban regime"
+   ],
+   "type": "political movement",
+   "parent_or_allies": [
+    "al-Qa'ida"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Regime threatened with destruction if it fails to hand over al-Qa'ida leaders and close terrorist camps."
+  },
+  {
+   "name": "US Department of State",
+   "aliases": [
+    "SECSTATE"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Originator of the cable."
+  },
+  {
+   "name": "AMEMBASSY ISLAMABAD",
+   "aliases": [
+    "US Embassy Islamabad"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "US Department of State"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Recipient of the cable; channel to Pakistani leadership."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Base of Taliban and al-Qa'ida; terrorist camps there."
+  },
+  {
+   "name": "Islamabad",
+   "type": "city",
+   "country": "Pakistan",
+   "parent": "Pakistan",
+   "significance": "Location of US Embassy and the Pakistani interlocutors."
+  },
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Intermediary for delivering message to the Taliban."
+  }
+ ],
+ "events": [
+  {
+   "date": "2001-10-07",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "State Department sends NODIS cable instructing Ambassador Chamberlin to have General Mahmud or Musharraf deliver a warning to Mullah Omar demanding handover of al-Qa'ida leaders and closure of terrorist camps.",
+   "place": "Islamabad",
+   "actors": [
+    "Richard L. Armitage",
+    "Ambassador Chamberlin",
+    "General Mahmud",
+    "President Musharraf",
+    "Mullah Omar"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-10-07",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "State Department sends NIACT cable instructing Ambassador Chamberlin to have Mahmud or Musharraf deliver a warning to Mullah Omar: hand over al-Qaida leaders, close camps, or the Taliban regime will be destroyed.",
+   "place": "Islamabad",
+   "actors": [
+    "US Department of State",
+    "Ambassador Chamberlin",
+    "General Mahmud",
+    "President Musharraf",
+    "Mullah Omar",
+    "Taliban",
+    "al-Qa'ida",
+    "Colin Powell",
+    "Richard L. Armitage"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-10-06",
+   "date_precision": "day",
+   "type": "other",
+   "description": "The cable was drafted (SA:CBROCCA) and approved by the Deputy Secretary.",
+   "place": "Washington",
+   "actors": [
+    "US Department of State",
+    "Richard L. Armitage"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Ambassador Chamberlin",
+   "target": "General Mahmud",
+   "type": "met_with",
+   "detail": "Instructed to seek immediate appointment to request he or Musharraf deliver the message.",
+   "date": "2001-10-07",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "SHOULD SEEK IMMEDIATE APPOINTMENT WITH GENERAL MAHMUD"
+  },
+  {
+   "source": "General Mahmud",
+   "target": "Mullah Omar",
+   "type": "other",
+   "detail": "Asked to deliver US warning message to Mullah Omar (intermediary).",
+   "date": "2001-10-07",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "IMMEDIATELY DELIVER THE FOLLOWING MESSAGE TO MULLAH OMAR"
+  },
+  {
+   "source": "President Musharraf",
+   "target": "Mullah Omar",
+   "type": "other",
+   "detail": "Alternative messenger for the US warning.",
+   "date": "2001-10-07",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "EITHER HE OR PRESIDENT MUSHARRAF IMMEDIATELY DELIVER"
+  },
+  {
+   "source": "Mullah Omar",
+   "target": "Taliban",
+   "type": "leads",
+   "detail": "Addressed as Taliban leader responsible for regime's actions.",
+   "date": "2001-10-07",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "WE WILL HOLD LEADERS OF THE TALIBAN PERSONALLY RESPONSIBLE"
+  },
+  {
+   "source": "Taliban",
+   "target": "al-Qa'ida",
+   "type": "hosted_by",
+   "detail": "US demands the Taliban hand over al-Qa'ida leaders and close terrorist camps, implying the Taliban host them.",
+   "date": "2001-10-07",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "HAND OVER ALL AL-QAIDA LEADERS, TO CLOSE THE TERRORISTS' CAMPS"
+  },
+  {
+   "source": "Ambassador Chamberlin",
+   "target": "Richard L. Armitage",
+   "type": "reports_to",
+   "detail": "Cable approved by Deputy Secretary and sent to the ambassador.",
+   "date": "2001-10-07",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "APPROVED BY: DEPUTY SECRETARY"
+  },
+  {
+   "source": "US Department of State",
+   "target": "AMEMBASSY ISLAMABAD",
+   "type": "other",
+   "detail": "The Department of State (SECSTATE) sent a NIACT IMMEDIATE cable to the embassy in Islamabad.",
+   "date": "2001-10-07",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "FM SECSTATE WASHDC TO AMEMBASSY ISLAMABAD NIACT IMMEDIATE"
+  },
+  {
+   "source": "Ambassador Chamberlin",
+   "target": "General Mahmud",
+   "type": "other",
+   "detail": "Chamberlin is instructed to seek an immediate appointment with Mahmud to request delivery of a message.",
+   "date": "2001-10-07",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "AMBASSADOR CHAMBERLIN SHOULD SEEK IMMEDIATE APPOINTMENT WITH GENERAL MAHMUD"
+  },
+  {
+   "source": "Ambassador Chamberlin",
+   "target": "President Musharraf",
+   "type": "other",
+   "detail": "Chamberlin asks that Mahmud or Musharraf deliver the message to Mullah Omar.",
+   "date": "2001-10-07",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "REQUEST THAT EITHER HE OR PRESIDENT MUSHARRAF IMMEDIATELY DELIVER THE FOLLOWING MESSAGE TO MULLAH OMAR"
+  },
+  {
+   "source": "US Department of State",
+   "target": "Taliban",
+   "type": "other",
+   "detail": "The US message warns the Taliban of devastating response and destruction of the regime if attacks occur.",
+   "date": "2001-10-07",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "EVERY PILLAR OF THE TALIBAN REGIME WILL BE DESTROYED."
+  },
+  {
+   "source": "Taliban",
+   "target": "al-Qa'ida",
+   "type": "other",
+   "detail": "The US demands the Taliban hand over all al-Qaida leaders and close its camps.",
+   "date": "2001-10-07",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "HAND OVER ALL AL-QAIDA LEADERS, TO CLOSE THE TERRORISTS' CAMPS"
+  },
+  {
+   "source": "al-Qa'ida",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Attackers connected to Afghanistan, and al-Qaida camps there, are the subject of the warning.",
+   "date": "2001-10-07",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "IF ANY PERSON OR GROUP CONNECTED IN ANY WAY TO AFGHANISTAN CONDUCTS A TERRORIST ATTACK"
+  },
+  {
+   "source": "Richard L. Armitage",
+   "target": "US Department of State",
+   "type": "member_of",
+   "detail": "Armitage is Deputy Secretary of State and classified/approved the cable.",
+   "date": "2001-10-07",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "CLASSIFIED BY RICHARD L. ARMITAGE, DEPUTY SECRETARY OF STATE"
+  },
+  {
+   "source": "Colin Powell",
+   "target": "US Department of State",
+   "type": "leads",
+   "detail": "The cable is signed POWELL, as Secretary of State.",
+   "date": "2001-10-07",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "POWELL SECRET"
+  },
+  {
+   "source": "Ambassador Chamberlin",
+   "target": "AMEMBASSY ISLAMABAD",
+   "type": "member_of",
+   "detail": "Chamberlin is the ambassador to whom the cable is addressed.",
+   "date": "2001-10-07",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "EYES ONLY FOR AMBASSADOR CHAMBERLIN"
+  },
+  {
+   "source": "AMEMBASSY ISLAMABAD",
+   "target": "Islamabad",
+   "type": "located_in",
+   "detail": "The embassy is in Islamabad.",
+   "date": "2001-10-07",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "TO AMEMBASSY ISLAMABAD"
+  },
+  {
+   "source": "Islamabad",
+   "target": "Pakistan",
+   "type": "located_in",
+   "detail": "Islamabad is in Pakistan, where Mahmud and Musharraf are located.",
+   "date": "2001-10-07",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "AMEMBASSY ISLAMABAD"
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "The US told the Taliban it had information that al-Qa'ida was planning additional terrorist attacks.",
+  "The US demanded the Taliban hand over all al-Qa'ida leaders and close terrorist camps.",
+  "The US threatened that every pillar of the Taliban regime would be destroyed.",
+  "The US used Pakistani leaders (General Mahmud or Musharraf) as intermediaries to Mullah Omar.",
+  "The US said it would hold Taliban leaders personally responsible for terrorist attacks connected to Afghanistan."
+ ]
+}

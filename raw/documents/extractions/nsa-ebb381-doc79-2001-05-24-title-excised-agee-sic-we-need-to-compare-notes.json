@@ -1,0 +1,149 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc79-2001-05-24-title-excised-agee-sic-we-need-to-compare-notes",
+  "title": "[Title Excised] \"Agee (sic) we need to compare notes\"",
+  "authors": "Central Intelligence Agency (email)",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "2001-05-24",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7xgb-ivxcp/2001-05-24-title-excised-central-intelligence.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 1,
+  "kind": "other",
+  "note": "CIA email cited in the 9/11 Commission Report as \"Dave to John.\" Chapter 8, Endnote 64.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 79",
+  "relevance": "medium",
+  "ocr": 0
+ },
+ "persons": [
+  {
+   "name": "Khallad",
+   "aliases": [
+    "Khallad bin Attash",
+    "Tawfiq bin Attash"
+   ],
+   "role": "Subject of analysts' discussion; believed to have been in Asia (Malaysia) in the period under discussion",
+   "organizations": [
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Asia",
+    "Malaysia"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Re Khallad in Asia, that was my (and I assume others') interpreation"
+    }
+   ]
+  },
+  {
+   "name": "Khalid al-Mihdhar",
+   "aliases": [
+    "Khalid al-Mihdar",
+    "Halid al-Mihdar"
+   ],
+   "role": "Individual reported in Malaysia, discussed by analysts",
+   "organizations": [
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Malaysia"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "<halid al-Mihdar In Malaysia; can't see •Khallad1"
+    }
+   ]
+  }
+ ],
+ "organizations": [],
+ "places": [
+  {
+   "name": "Malaysia",
+   "type": "country",
+   "country": "Malaysia",
+   "parent": "",
+   "significance": "Location where Khalid al-Mihdar was reported; analysts discuss whether Khallad was also there"
+  },
+  {
+   "name": "Asia",
+   "type": "region",
+   "country": "",
+   "parent": "",
+   "significance": "Region where Khallad was believed to have been"
+  }
+ ],
+ "events": [
+  {
+   "date": "2001-05-24",
+   "date_precision": "day",
+   "type": "other",
+   "description": "Email sent proposing a meeting on Tuesday 1-3 pm to compare notes on Khallad in Asia and al-Mihdar in Malaysia",
+   "place": "",
+   "actors": [
+    "Central Intelligence Agency"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-05-24",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "A CIA officer emails a colleague saying they need to compare notes on Khallad being in Asia and Khalid al-Mihdhar being in Malaysia. The author cannot see Khallad in the material and suggests either missing something or seeing something that was not there.",
+   "place": "",
+   "actors": [
+    "Khallad",
+    "Khalid al-Mihdhar"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-05-29",
+   "date_precision": "approx",
+   "type": "meeting",
+   "description": "A planned expert-to-expert meeting, set for the following Tuesday from 1 to 3 pm, to compare notes on Khallad and Khalid al-Mihdhar. The date is inferred from the email's sent date of 24 May 2001, a Thursday.",
+   "place": "",
+   "actors": [],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Khallad",
+   "target": "Asia",
+   "type": "located_in",
+   "detail": "The email author refers to Khallad being in Asia, which was their interpretation and that of others.",
+   "date": "2001-05-24",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Re Khallad in Asia, that was my (and I assume others') interpreation"
+  },
+  {
+   "source": "Khalid al-Mihdhar",
+   "target": "Malaysia",
+   "type": "located_in",
+   "detail": "The email notes Khalid al-Mihdar was in Malaysia, while the author could not see Khallad there.",
+   "date": "2001-05-24",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "<halid al-Mihdar In Malaysia; can't see •Khallad1"
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "CIA analysts in May 2001 were comparing notes on whether Khallad was in Asia/Malaysia alongside Khalid al-Mihdar.",
+  "One analyst could not see Khallad in the material regarding Mihdar in Malaysia and suggested either missing something or others saw something not there."
+ ]
+}

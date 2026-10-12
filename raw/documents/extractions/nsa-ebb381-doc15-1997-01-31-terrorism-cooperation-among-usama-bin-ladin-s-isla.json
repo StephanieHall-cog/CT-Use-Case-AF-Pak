@@ -1,0 +1,275 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc15-1997-01-31-terrorism-cooperation-among-usama-bin-ladin-s-isla",
+  "title": "Terrorism: Cooperation Among Usama Bin Ladin's Islamic Army, Iran and the NIF",
+  "authors": "CIA",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "1997-01-31",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7wuu-jeagl/1997-01-31-terrorism-cooperation-among-usama-bin.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 5,
+  "kind": "intelligence report",
+  "note": "CIA Intelligence Report on cooperation among bin Ladin's Islamic Army, Iran and Sudan's NIF. Source: 9/11 Commission Report, Chapter 2, Endnote 85.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 15",
+  "relevance": "high",
+  "ocr": 3
+ },
+ "persons": [
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Usama Bin Ladin"
+   ],
+   "role": "Leader of the 'Islamic Army' named in the report subject line; party to a cooperation arrangement with Iran and the NIF",
+   "organizations": [
+    "Islamic Army",
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Sudan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "COOPERATION AMONG USAMA BIN LADIN'' $ ISLAMIC ARMY, IRAN, AND THE NIF"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Islamic Army",
+   "aliases": [
+    "Usama Bin Ladin's Islamic Army"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Iran",
+    "NIF"
+   ],
+   "rivals": [],
+   "country_base": "Sudan",
+   "notes": "Described in the subject line as Usama bin Ladin's group; the visible text is heavily redacted. Operatives reportedly traveled to southern Lebanon after a tripartite agreement."
+  },
+  {
+   "name": "NIF",
+   "aliases": [
+    "National Islamic Front"
+   ],
+   "type": "political movement",
+   "parent_or_allies": [
+    "Iran",
+    "Islamic Army"
+   ],
+   "rivals": [],
+   "country_base": "Sudan",
+   "notes": "One of the three parties to the 'tripartite agreement' referred to in the report."
+  },
+  {
+   "name": "Iran",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [
+    "NIF",
+    "Islamic Army"
+   ],
+   "rivals": [],
+   "country_base": "Iran",
+   "notes": "The report says Iran began training individuals; the text is partly redacted."
+  },
+  {
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Issuer of this information report, which is not finally evaluated intelligence."
+  }
+ ],
+ "places": [
+  {
+   "name": "Sudan",
+   "type": "country",
+   "country": "Sudan",
+   "parent": "",
+   "significance": "One of the countries named in the report header (SUDAN/IRAN)."
+  },
+  {
+   "name": "Iran",
+   "type": "country",
+   "country": "Iran",
+   "parent": "",
+   "significance": "One of the countries named in the report header; it trained individuals."
+  },
+  {
+   "name": "Southern Lebanon",
+   "type": "region",
+   "country": "Lebanon",
+   "parent": "Lebanon",
+   "significance": "Operatives traveled there to receive training after the tripartite agreement."
+  }
+ ],
+ "events": [
+  {
+   "date": "1997-01-31",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "The CIA issued an information report on cooperation among Bin Ladin's Islamic Army, Iran and the NIF. It is not finally evaluated intelligence.",
+   "place": "",
+   "actors": [
+    "Central Intelligence Agency"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "",
+   "date_precision": "approx",
+   "type": "agreement",
+   "description": "A tripartite agreement was reached (date and parties redacted, but implied to be the Islamic Army, Iran and the NIF).",
+   "place": "Sudan",
+   "actors": [
+    "Islamic Army",
+    "Iran",
+    "NIF"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "",
+   "date_precision": "approx",
+   "type": "travel",
+   "description": "Shortly after the tripartite agreement, operatives traveled to southern Lebanon to receive training. The details are redacted.",
+   "place": "Southern Lebanon",
+   "actors": [
+    "Islamic Army"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "",
+   "date_precision": "approx",
+   "type": "agreement",
+   "description": "Tripartite agreement reached among bin Ladin's Islamic Army, Iran and the NIF. The date is redacted or not given.",
+   "place": "Sudan",
+   "actors": [
+    "Islamic Army",
+    "Iran",
+    "NIF",
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "",
+   "date_precision": "approx",
+   "type": "travel",
+   "description": "Shortly after the tripartite agreement, operatives traveled to Southern Lebanon to receive redacted material, probably training.",
+   "place": "Southern Lebanon",
+   "actors": [
+    "Islamic Army",
+    "Iran"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Iran began training individuals. The details are redacted.",
+   "place": "Iran",
+   "actors": [
+    "Iran"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1997-01-31",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA information report distributed on cooperation among bin Ladin's Islamic Army, Iran and the NIF.",
+   "place": "",
+   "actors": [
+    "Central Intelligence Agency"
+   ],
+   "timestamp": "p.2"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Islamic Army",
+   "target": "Iran",
+   "type": "allied_with",
+   "detail": "The subject line and the tripartite agreement indicate cooperation between the Islamic Army and Iran.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "SHORTLY AFTER THE TRIPARTITE AGREEMENT WAS"
+  },
+  {
+   "source": "Islamic Army",
+   "target": "NIF",
+   "type": "allied_with",
+   "detail": "The subject line indicates cooperation between the Islamic Army and the NIF.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "COOPERATION AMONG USAMA BIN LADIN'' $ ISLAMIC ARMY, IRAN, AND THE NIF"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Islamic Army",
+   "type": "leads",
+   "detail": "The report refers to the Islamic Army as Usama bin Ladin's.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "USAMA BIN LADIN'' $ ISLAMIC ARMY"
+  },
+  {
+   "source": "Islamic Army",
+   "target": "Iran",
+   "type": "trained_by",
+   "detail": "Operatives traveled to southern Lebanon for training. The trainer is redacted, but the context implies Iranian-linked training.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "OPERATIVES TRAVELED TO SOUTHERN LEBANON TO RECEIVE"
+  },
+  {
+   "source": "Iran",
+   "target": "NIF",
+   "type": "allied_with",
+   "detail": "Iran and the NIF are parties to the same tripartite agreement and are described as cooperating.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "COOPERATION AMONG USAMA BIN LADIN'S ISLAMIC ARMY, IRAN, AND THE NIF"
+  },
+  {
+   "source": "NIF",
+   "target": "Sudan",
+   "type": "located_in",
+   "detail": "The NIF is associated with Sudan; the report's country line reads SUDAN/IRAN.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "COUNTRY: SUDAN/IRAN"
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "A January 1997 CIA information report, not finally evaluated, describes cooperation among bin Ladin's Islamic Army, Iran and Sudan's NIF.",
+  "A tripartite agreement among the parties preceded operatives traveling to southern Lebanon for training.",
+  "Iran also began training individuals, though the details are redacted."
+ ]
+}

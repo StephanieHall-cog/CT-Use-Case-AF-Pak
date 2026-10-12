@@ -1,0 +1,120 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc07-1996-12-17-excised-africa-division-recommendations-regarding",
+  "title": "[Excised] Africa Division Recommendations Regarding Sudan",
+  "authors": "CIA Africa Division",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "1996-12-17",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7wuu-jeagl/1996-12-17-excised-africa-division.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 12,
+  "kind": "memo",
+  "note": "Memorandum for the Acting Director of Central Intelligence, author excised, giving Africa Division recommendations regarding Sudan. Source: 9/11 Commission Report, Chapter 4, Endnote 7.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 7",
+  "relevance": "medium",
+  "ocr": 10
+ },
+ "persons": [],
+ "organizations": [
+  {
+   "name": "CIA Africa Division",
+   "aliases": [
+    "Africa Division"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Central Intelligence Agency"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Author of the memo to the Acting Director of Central Intelligence, dated 17 Dec 1996, with recommendations on Sudan policy."
+  },
+  {
+   "name": "Government of Sudan",
+   "aliases": [
+    "Sudanese government"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Sudan",
+   "notes": "The memo says there is no indication its involvement with terrorism has decreased in the past year. It may be using 'tactical retreats' on support to terrorism. Most of the text is excised or illegible."
+  },
+  {
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "The memo is addressed to the Acting Director of Central Intelligence."
+  }
+ ],
+ "places": [
+  {
+   "name": "Sudan",
+   "type": "country",
+   "country": "Sudan",
+   "parent": "",
+   "significance": "Subject of the memo. The US policy community was reviewing US policy toward Sudan and its state of relations with the Sudanese government."
+  }
+ ],
+ "events": [
+  {
+   "date": "1996-12-17",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA Africa Division sends a memo to the Acting DCI with recommendations on US policy toward Sudan. The policy community was reviewing that policy, and the memo says Sudanese involvement with terrorism had not decreased.",
+   "place": "Sudan",
+   "actors": [
+    "CIA Africa Division",
+    "Government of Sudan"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1996-12-17",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "The CIA Africa Division sends the Acting Director of Central Intelligence a memorandum of recommendations on Sudan while the policy community reviews U.S. policy toward Sudan. The memo is heavily excised, and its date is taken from the document header (the page shows only '1 DEC').",
+   "place": "Sudan",
+   "actors": [
+    "CIA Africa Division",
+    "Central Intelligence Agency",
+    "Government of Sudan"
+   ],
+   "timestamp": "p.2"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "CIA Africa Division",
+   "target": "Central Intelligence Agency",
+   "type": "member_of",
+   "detail": "The Africa Division is the CIA component that wrote the memorandum to the Acting Director of Central Intelligence.",
+   "date": "1996-12-17",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "Acting Director of Central Intelligence Africa Division Recommendations Regarding Sudan"
+  },
+  {
+   "source": "Government of Sudan",
+   "target": "Sudan",
+   "type": "located_in",
+   "detail": "The Sudanese government is the government of Sudan, the subject of the memorandum.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "state of relations with the Sudanese government"
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "The CIA Africa Division assessed in December 1996 that there was no indication Sudanese involvement with terrorism had decreased over the past year.",
+  "The memo suggests Sudan may be making 'tactical retreats' on support to terrorism, apparently to influence the policy review.",
+  "Most of the document is excised or illegible, so the chunk names no individuals and no other entities."
+ ]
+}

@@ -1,0 +1,590 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb358a-doc06-2001-09-14-gameplan-for-polmil-strategy-for-pakistan-and-afgh",
+  "title": "Gameplan for Polmil Strategy for Pakistan and Afghanistan",
+  "authors": "U.S. Department of State",
+  "publisher": "National Security Archive (GWU), New Documents Detail America's Strategic Response to 9/11",
+  "published": "2001-09-14",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB358a/doc06.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB358a/index.htm",
+  "pages": 4,
+  "kind": "memo",
+  "note": "[Secret/NODIS] Since the attacks show UBL can conduct terrorism under Taliban control, State proposes demands on the Taliban (surrender al-Qaeda associates, provide intelligence, expel terrorists), subtle ways to encourage splits in Taliban leadership, and use of force if the deadline is missed. It stresses coordination with Pakistan, the Central Asian states, Russia and possibly Iran; Pakistan will not send troops into Afghanistan but will give other support.",
+  "collection": "NSAEBB358a",
+  "doc_number": "Document 6",
+  "relevance": "high",
+  "ocr": 4
+ },
+ "persons": [
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "UBL",
+    "Osama bin Laden",
+    "Bin Ladin"
+   ],
+   "role": "al-Qa'ida leader, held responsible for the 11 September 2001 attacks and operating under Taliban control",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "",
+   "status": "alive",
+   "status_detail": "Status as of Sept 2001; US demands he be turned over",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Tuesday's attacks clearly demonstrate that UBL is capable of conducting terrorism while under Taliban control"
+    },
+    {
+     "timestamp": "p.2",
+     "quote": "Since UBL is unlikely to go voluntarily and has heavily armed forces around him, the result would be firefight"
+    }
+   ]
+  },
+  {
+   "name": "Ayman al-Zawahiri",
+   "aliases": [
+    "Ayman al-Zawahiri",
+    "Zawahiri"
+   ],
+   "role": "Senior deputy of UBL",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "",
+   "status": "alive",
+   "status_detail": "US demands Taliban turn him over",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "including senior deputies Ayman al-Zawahiri, Mohammed Atef, and Abu Zubaidah."
+    }
+   ]
+  },
+  {
+   "name": "Mohammed Atef",
+   "aliases": [
+    "Muhammad Atef"
+   ],
+   "role": "Senior deputy of UBL",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "",
+   "status": "alive",
+   "status_detail": "US demands Taliban turn him over",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "including senior deputies Ayman al-Zawahiri, Mohammed Atef, and Abu Zubaidah."
+    }
+   ]
+  },
+  {
+   "name": "Abu Zubaidah",
+   "aliases": [
+    "Abu Zubaydah"
+   ],
+   "role": "Senior deputy of UBL",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "",
+   "status": "alive",
+   "status_detail": "US demands Taliban turn him over",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "including senior deputies Ayman al-Zawahiri, Mohammed Atef, and Abu Zubaidah."
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Taliban",
+   "aliases": [
+    "Taliban leadership"
+   ],
+   "type": "political movement",
+   "parent_or_allies": [],
+   "rivals": [
+    "Northern Alliance"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Leadership in Kandahar; has a representative at US Embassy Islamabad's counterpart; accused of supporting UBL"
+  },
+  {
+   "name": "al-Qa'ida",
+   "aliases": [
+    "Al Qaida",
+    "al-Qaeda"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Operates terrorist training camps under Taliban control; demanded to be dismantled"
+  },
+  {
+   "name": "Northern Alliance",
+   "aliases": [],
+   "type": "militia",
+   "parent_or_allies": [],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "US plans to combine with non-Taliban Afghans to form a broad-based coalition government"
+  },
+  {
+   "name": "SNI",
+   "aliases": [
+    "Shelter Now International"
+   ],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Its detained workers (Americans, foreigners, Afghans) are to be freed by the Taliban"
+  },
+  {
+   "name": "US Embassy Islamabad",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [
+    "U.S. Department of State"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Proposed channel to deliver message to the Taliban representative"
+  },
+  {
+   "name": "NATO",
+   "aliases": [],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Proposed participant in coalition operations"
+  },
+  {
+   "name": "United Nations Security Council",
+   "aliases": [
+    "UNSC",
+    "P-5"
+   ],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Strengthened resolution proposed to cut off the Taliban; P-5 consultations"
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Location of terrorist infrastructure and training camps; target of planned operation"
+  },
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Proposed channel to the Taliban; assessed to be unwilling to send troops but willing to give other operational and logistical support"
+  },
+  {
+   "name": "Kandahar",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Seat of Taliban leadership to receive the US message"
+  },
+  {
+   "name": "Islamabad",
+   "type": "city",
+   "country": "Pakistan",
+   "parent": "Pakistan",
+   "significance": "US Embassy and Taliban representative located there"
+  },
+  {
+   "name": "Uzbekistan",
+   "type": "country",
+   "country": "Uzbekistan",
+   "parent": "",
+   "significance": "Consulted on possible military operations and Northern Alliance assistance"
+  },
+  {
+   "name": "Tajikistan",
+   "type": "country",
+   "country": "Tajikistan",
+   "parent": "",
+   "significance": "Consulted on possible military operations and Northern Alliance assistance"
+  }
+ ],
+ "events": [
+  {
+   "date": "2001-09-11",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "Tuesday's terrorist attacks on the US, attributed to UBL and al-Qa'ida, which prompt the US demands on the Taliban",
+   "place": "United States",
+   "actors": [
+    "Usama bin Ladin",
+    "al-Qa'ida"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-09-14",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "State Department gameplan sets out demands on the Taliban (turn over UBL and deputies, close camps, free SNI workers), deadlines of 24-48 hours, and penalties and options for noncompliance",
+   "place": "",
+   "actors": [
+    "U.S. Department of State",
+    "Taliban"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-09-11",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "Tuesday's attacks demonstrate UBL's capability to conduct terrorism while under Taliban control.",
+   "place": "United States",
+   "actors": [
+    "Usama bin Ladin",
+    "Taliban",
+    "al-Qa'ida"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-09",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Proposed ultimatum: Taliban given 24-48 hours to turn over UBL and chief lieutenants and close camps.",
+   "place": "Kandahar",
+   "actors": [
+    "Taliban",
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "2001-09",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Planned consultations with Pakistan, Saudis, UAE, P-5, NATO allies, Uzbekistan, Tajikistan, Russia, India and possibly Iran begin immediately.",
+   "place": "",
+   "actors": [
+    "Pakistan",
+    "NATO",
+    "Uzbekistan",
+    "Tajikistan",
+    "Northern Alliance"
+   ],
+   "timestamp": "p.4"
+  },
+  {
+   "date": "2001-09",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Option One: M-Day message to Taliban with deadlines of 24-48 hours for reply, 72 hours for action to begin, 10-14 days to carry out operation; Option Three planning begins M+3.",
+   "place": "Afghanistan",
+   "actors": [
+    "Taliban"
+   ],
+   "timestamp": "p.4"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Ayman al-Zawahiri",
+   "target": "Usama bin Ladin",
+   "type": "deputy_of",
+   "detail": "Named as one of UBL's senior deputies.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "including senior deputies Ayman al-Zawahiri, Mohammed Atef, and Abu Zubaidah."
+  },
+  {
+   "source": "Mohammed Atef",
+   "target": "Usama bin Ladin",
+   "type": "deputy_of",
+   "detail": "Named as one of UBL's senior deputies.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "including senior deputies Ayman al-Zawahiri, Mohammed Atef, and Abu Zubaidah."
+  },
+  {
+   "source": "Abu Zubaidah",
+   "target": "Usama bin Ladin",
+   "type": "deputy_of",
+   "detail": "Named as one of UBL's senior deputies.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "including senior deputies Ayman al-Zawahiri, Mohammed Atef, and Abu Zubaidah."
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "al-Qa'ida",
+   "type": "leads",
+   "detail": "UBL and his Al Qaida associates.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Tell us everything they know about UBL and his Al Qaida associates"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Taliban",
+   "type": "sheltered_by",
+   "detail": "UBL is described as operating while under Taliban control.",
+   "date": "2001-09",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "UBL is capable of conducting terrorism while under Taliban control"
+  },
+  {
+   "source": "al-Qa'ida",
+   "target": "Taliban",
+   "type": "hosted_by",
+   "detail": "Al Qaida training camps operate in Taliban-held Afghanistan and the Taliban are asked to close them.",
+   "date": "2001-09",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Close immediately all terrorist training camps and expel all terrorists."
+  },
+  {
+   "source": "Pakistan",
+   "target": "Taliban",
+   "type": "other",
+   "detail": "Pakistan proposed to carry the US message directly to the Taliban leadership in Kandahar.",
+   "date": "2001-09",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "We should have the Pakistanis carry the message directly to the Taliban leadership in Kandahar."
+  },
+  {
+   "source": "Northern Alliance",
+   "target": "Taliban",
+   "type": "rival_of",
+   "detail": "US planned to form a coalition government of non-Taliban Afghans and the Northern Alliance, and to assist the Alliance.",
+   "date": "2001-09",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "US will bring together non Taliban Afghans and Northern Alliance to form broad-based Coalition government"
+  },
+  {
+   "source": "Ayman al-Zawahiri",
+   "target": "al-Qa'ida",
+   "type": "member_of",
+   "detail": "Described as UBL's senior deputy and associate in al-Qaida.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "UBL and his Al Qaida associates"
+  },
+  {
+   "source": "Mohammed Atef",
+   "target": "al-Qa'ida",
+   "type": "member_of",
+   "detail": "Described as UBL's senior deputy.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "UBL and his Al Qaida associates"
+  },
+  {
+   "source": "Abu Zubaidah",
+   "target": "al-Qa'ida",
+   "type": "member_of",
+   "detail": "Described as UBL's senior deputy.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "UBL and his Al Qaida associates"
+  },
+  {
+   "source": "al-Qa'ida",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Al Qaida training camps are located in Afghanistan and the US demands their closure.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Close immediately all terrorist training camps and expel all terrorists."
+  },
+  {
+   "source": "Taliban",
+   "target": "SNI",
+   "type": "captured",
+   "detail": "The Taliban are holding detained SNI workers, whom the US demands be freed.",
+   "date": "2001",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Free all detained SNI workers (Americans, foreigners and Afghans)"
+  },
+  {
+   "source": "Pakistan",
+   "target": "Taliban",
+   "type": "negotiated_with",
+   "detail": "US proposes Pakistanis carry the message directly to the Taliban leadership.",
+   "date": "2001-09",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "We should have the Pakistanis carry the message directly to the Taliban leadership in Kandahar."
+  },
+  {
+   "source": "Taliban",
+   "target": "Kandahar",
+   "type": "located_in",
+   "detail": "Taliban leadership is in Kandahar.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Taliban leadership in Kandahar"
+  },
+  {
+   "source": "US Embassy Islamabad",
+   "target": "Taliban",
+   "type": "negotiated_with",
+   "detail": "A US Embassy Islamabad representative would deliver the message to the Taliban representative in Islamabad.",
+   "date": "2001-09",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "a representative from US Embassy Islamabad deliver it to the Taliban representative there."
+  },
+  {
+   "source": "US Embassy Islamabad",
+   "target": "Islamabad",
+   "type": "located_in",
+   "detail": "Embassy is located in Islamabad.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "US Embassy Islamabad"
+  },
+  {
+   "source": "Taliban",
+   "target": "Islamabad",
+   "type": "located_in",
+   "detail": "A Taliban representative is in Islamabad.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "deliver it to the Taliban representative there."
+  },
+  {
+   "source": "NATO",
+   "target": "Taliban",
+   "type": "other",
+   "detail": "NATO would be part of the broad international coalition if the Taliban allow US forces to operate.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "Involve broad international coalition, including NATO, moderate Muslim states, Asians"
+  },
+  {
+   "source": "Taliban",
+   "target": "United Nations Security Council",
+   "type": "other",
+   "detail": "The Taliban are required to comply with UNSC resolutions.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Comply with all relevant UNSCR resolutions."
+  },
+  {
+   "source": "Northern Alliance",
+   "target": "Taliban",
+   "type": "rival_of",
+   "detail": "US would bring Northern Alliance and non-Taliban Afghans together to form a coalition government and remove the Taliban.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "US will bring together non Taliban Afghans and Northern Alliance to form broad-based Coalition government"
+  },
+  {
+   "source": "Russia",
+   "target": "Northern Alliance",
+   "type": "other",
+   "detail": "Consult with Russia, Uzbekistan, Tajikistan, India, and possibly Iran on coordinated assistance to the Northern Alliance.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "Consult with Russia, Uzbekistan, Tajikistan, India, and possibly Iran on coordinated assistance to the Northern Alliance."
+  },
+  {
+   "source": "Uzbekistan",
+   "target": "Northern Alliance",
+   "type": "other",
+   "detail": "Proposed consultation on assisting the Northern Alliance.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "Consult with Russia, Uzbekistan, Tajikistan, India"
+  },
+  {
+   "source": "Tajikistan",
+   "target": "Northern Alliance",
+   "type": "other",
+   "detail": "Proposed consultation on assisting the Northern Alliance.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "Consult with Russia, Uzbekistan, Tajikistan, India"
+  },
+  {
+   "source": "Pakistan",
+   "target": "Afghanistan",
+   "type": "other",
+   "detail": "Pakistan assessed as unwilling to send troops into Afghanistan but will provide other operational and logistical support.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "Pakistan is unwilling to send its troops into Afghanistan, but will provide all other operational and logistical"
+  }
+ ],
+ "sources_cited": [
+  "UNSCR resolutions (Taliban to comply with all relevant resolutions)"
+ ],
+ "key_claims": [
+  "The US judged that the 11 September attacks showed UBL could conduct terrorism while under Taliban control, contrary to repeated Taliban assurances.",
+  "The US demanded the Taliban hand over UBL and deputies Zawahiri, Atef and Abu Zubaidah, close camps and free SNI workers.",
+  "The plan proposed Pakistan carry the message to the Taliban leadership in Kandahar, with parallel delivery via the US Embassy Islamabad.",
+  "If the Taliban refused, the US would work to remove the Taliban leadership from power, backing a Northern Alliance-based coalition and striking Taliban military targets.",
+  "The US urged Saudi Arabia, the UAE and Pakistan to break relations with the Taliban and to detain or expel Taliban representatives abroad.",
+  "The US assessed that Pakistan would be unwilling to send troops into Afghanistan but would provide other operational and logistical support."
+ ]
+}

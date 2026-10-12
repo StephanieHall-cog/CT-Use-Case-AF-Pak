@@ -1,0 +1,325 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc70-2000-11-10-attack-on-the-uss-cole-preliminary-findings",
+  "title": "Attack on the USS Cole: Preliminary Findings",
+  "authors": "DCI Counterterrorist Center, Central Intelligence Agency",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "2000-11-10",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7xgb-ivxcp/2000-11-10-attack-on-the-uss-cole-preliminary.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 10,
+  "kind": "report",
+  "note": "Preliminary findings on the attack on the USS Cole. Cited in 9/11 Commission Report, Chapter 6, Endnote 140.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 70",
+  "relevance": "high",
+  "ocr": 5
+ },
+ "persons": [
+  {
+   "name": "Abd al-Rahim al-Nashiri",
+   "aliases": [
+    "Abd al-Rahim al-Nashiri",
+    "Abd al-Rahim Al-Nashiri"
+   ],
+   "role": "Suspect linked by intelligence to the USS Cole plot; named in connection with the embassy bombing investigation and a 1998 plot to smuggle Sagger missiles into Saudi Arabia",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Saudi Arabia",
+    "Yemen"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.5",
+     "quote": "Abd al-Rahim al-Nashiri ... Embassy bombing Investigation and the 1998 plot to smuggle “Sagger” missiles into Saudi Arabia."
+    }
+   ]
+  },
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "UBL",
+    "Bin Ladin"
+   ],
+   "role": "Leader of al-Qa'ida, assessed as likely supporting the cell that attacked the USS Cole",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "Cell likely had support from Bin Ladin's al-Qa'ida organization"
+    },
+    {
+     "timestamp": "p.4",
+     "quote": "Suspects' Links to UBL/Mujahidin"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "al-Qa'ida",
+   "aliases": [
+    "al-Qaeda",
+    "Bin Ladin's al-Qa'ida organization"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "transnational mujahidin network"
+   ],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Assessed as likely having supported the Yemen-based cell that carried out the USS Cole attack."
+  },
+  {
+   "name": "Transnational mujahidin network",
+   "aliases": [
+    "transnational (mujahidin) network",
+    "mujahidin network"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qa'ida"
+   ],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Some members of the Cole cell had family ties to Saudi Arabia and to this network."
+  },
+  {
+   "name": "USS Cole attack cell",
+   "aliases": [
+    "Cole cell"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qa'ida"
+   ],
+   "rivals": [],
+   "country_base": "Yemen",
+   "notes": "Cell of Yemen residents, some with family ties to Saudi Arabia and the transnational mujahidin network."
+  },
+  {
+   "name": "DCI Counterterrorist Center",
+   "aliases": [
+    "CIA Counterterrorist Center",
+    "CTC"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Central Intelligence Agency"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Author of this briefing."
+  }
+ ],
+ "places": [
+  {
+   "name": "Yemen",
+   "type": "country",
+   "country": "Yemen",
+   "parent": "",
+   "significance": "Residence of the cell members who carried out the USS Cole attack."
+  },
+  {
+   "name": "Saudi Arabia",
+   "type": "country",
+   "country": "Saudi Arabia",
+   "parent": "",
+   "significance": "Some cell members had family ties here; destination of the 1998 Sagger missile smuggling plot."
+  },
+  {
+   "name": "Aden",
+   "type": "city",
+   "country": "Yemen",
+   "parent": "Yemen",
+   "significance": "Site of the failed 3 January 2000 attack attempt on a vessel."
+  }
+ ],
+ "events": [
+  {
+   "date": "2000-01-03",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "Operatives' first attempt to attack a US vessel in Aden failed when the explosives-laden boat sank.",
+   "place": "Aden",
+   "actors": [
+    "USS Cole attack cell"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "2000",
+   "date_precision": "year",
+   "type": "attack",
+   "description": "Attack on the USS Cole carried out by a cell of Yemen residents, assessed as likely supported by Bin Ladin's al-Qa'ida.",
+   "place": "Yemen",
+   "actors": [
+    "USS Cole attack cell",
+    "al-Qa'ida"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1998",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Plot to smuggle Sagger missiles into Saudi Arabia, linked to al-Nashiri.",
+   "place": "Saudi Arabia",
+   "actors": [
+    "Abd al-Rahim al-Nashiri"
+   ],
+   "timestamp": "p.5"
+  },
+  {
+   "date": "2000-01-03",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "First, failed attempt by operatives to attack a US vessel in Aden; the explosives-laden boat sank.",
+   "place": "Aden",
+   "actors": [
+    "USS Cole attack cell"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1998",
+   "date_precision": "year",
+   "type": "other",
+   "description": "A plot to smuggle 'Sagger' missiles into Saudi Arabia, named on the Abd al-Rahim al-Nashiri page alongside the Embassy bombing investigation; the OCR is garbled, so his role is unclear.",
+   "place": "Saudi Arabia",
+   "actors": [
+    "Abd al-Rahim al-Nashiri"
+   ],
+   "timestamp": "p.5"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "USS Cole attack cell",
+   "target": "al-Qa'ida",
+   "type": "funded_by",
+   "detail": "The cell likely had support from Bin Ladin's al-Qa'ida organization (nature of support not specified here).",
+   "date": "2000",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Cell likely had support from Bin Ladin's al-Qa'ida organization"
+  },
+  {
+   "source": "USS Cole attack cell",
+   "target": "Transnational mujahidin network",
+   "type": "other",
+   "detail": "Some cell members had family ties to Saudi Arabia and to the transnational mujahidin network.",
+   "date": "2000",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "some with family ties to Saudi Arabia and to the transnational (mujahidin) network"
+  },
+  {
+   "source": "USS Cole attack cell",
+   "target": "Yemen",
+   "type": "located_in",
+   "detail": "The cell was composed of residents of Yemen.",
+   "date": "2000",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "carried out by a cell comprised of residents of Yemen"
+  },
+  {
+   "source": "Abd al-Rahim al-Nashiri",
+   "target": "al-Qa'ida",
+   "type": "other",
+   "detail": "Al-Nashiri is tied to the embassy bombing investigation and the 1998 Sagger missile plot, indicating links to al-Qa'ida (inferred from context).",
+   "date": "1998",
+   "confidence": "inferred",
+   "timestamp": "p.5",
+   "quote": "Embassy bombing Investigation and the 1998 plot to smuggle “Sagger” missiles into Saudi Arabia."
+  },
+  {
+   "source": "USS Cole attack cell",
+   "target": "Yemen",
+   "type": "located_in",
+   "detail": "The cell that attacked the USS Cole was composed of residents of Yemen.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Attack on the USS Cole was carried out by a cell comprised of residents of Yemen"
+  },
+  {
+   "source": "USS Cole attack cell",
+   "target": "Saudi Arabia",
+   "type": "other",
+   "detail": "Some members of the cell had family ties to Saudi Arabia.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "some with family ties to Saudi Arabia and to the transnational (mujahidin) network"
+  },
+  {
+   "source": "USS Cole attack cell",
+   "target": "Transnational mujahidin network",
+   "type": "other",
+   "detail": "Some cell members had family ties to the transnational mujahidin network.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "some with family ties to Saudi Arabia and to the transnational (mujahidin) network"
+  },
+  {
+   "source": "USS Cole attack cell",
+   "target": "al-Qa'ida",
+   "type": "other",
+   "detail": "The cell likely had support from al-Qa'ida, and intelligence links the key suspects and the operation to al-Qa'ida.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Cell likely had support from Bin Ladin's al-Qa'ida organization"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "al-Qa'ida",
+   "type": "leads",
+   "detail": "The al-Qa'ida organization is described as Bin Ladin's.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Bin Ladin's al-Qa'ida organization"
+  },
+  {
+   "source": "USS Cole attack cell",
+   "target": "Aden",
+   "type": "other",
+   "detail": "Operatives of the plot first attempted an attack on a US vessel in Aden.",
+   "date": "2000-01-03",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "Operatives first attempted to attack a US vessel in Aden, on 3 January 2000"
+  }
+ ],
+ "sources_cited": [
+  "Intelligence reporting on the suspects' links to UBL/mujahidin network",
+  "Embassy bombing investigation"
+ ],
+ "key_claims": [
+  "The USS Cole attack was carried out by a cell of Yemen residents, some with family ties to Saudi Arabia and the transnational mujahidin network.",
+  "The cell likely had support from Bin Ladin's al-Qa'ida organization.",
+  "The assessment is based on the identities of key suspects in the plot, and intelligence links the key suspects and the operation to al-Qa'ida.",
+  "Operatives made an earlier failed attempt on a vessel in Aden on 3 January 2000, when the explosives-laden boat sank.",
+  "Abd al-Rahim al-Nashiri is connected to the embassy bombing investigation and a 1998 plot to smuggle Sagger missiles into Saudi Arabia."
+ ]
+}

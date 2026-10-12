@@ -1,0 +1,671 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb396-doc14-1979-12-28-our-assessment-of-recent-events-in-afghanistan",
+  "title": "Our Assessment of Recent Events in Afghanistan",
+  "authors": "Department of State (SecState to all NATO capitals)",
+  "publisher": "National Security Archive (GWU), SOVIET INVASION OF AFGHANISTAN A CASE OF MISSION CREEP, ACCORDING TO NEW BOOK AND ORIGINAL SOVIET DOCUMENTS",
+  "published": "1979-12-28",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB396/docs/1979-12-28 Our Assessment of Recent Events.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB396/",
+  "pages": 6,
+  "kind": "cable",
+  "note": "State Department cable to all NATO capitals giving the U.S. assessment of recent events in Afghanistan.",
+  "collection": "NSAEBB396",
+  "doc_number": "Document 14",
+  "relevance": "high",
+  "ocr": 6
+ },
+ "persons": [
+  {
+   "name": "Hafizullah Amin",
+   "aliases": [
+    "Amin",
+    "Hafizullah Amin"
+   ],
+   "role": "Afghan President, deposed and executed in a coup on 27 December 1979",
+   "organizations": [
+    "Government of Afghanistan"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "dead",
+   "status_detail": "Deposed and executed in a coup planned and executed by the Soviet Union, 27 Dec 1979 (per the cable)",
+   "family": [],
+   "locations": [
+    "Kabul",
+    "Darulaman Palace"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.3",
+     "quote": "AFGHAN PRESIOENT MAPFIZULLAM ANS WAS RO RDEPOSEO AkO EXECUTEW Im & COUP"
+    },
+    {
+     "timestamp": "p.3",
+     "quote": "VICINITY OF DURULGMAN PALACE, THE RESIDENCE OF AnlN"
+    }
+   ]
+  },
+  {
+   "name": "Babrak Karmal",
+   "aliases": [
+    "Babrak",
+    "Karmel",
+    "Babrak Karmal"
+   ],
+   "role": "Announced successor to Amin as President of the Revolutionary Council; installed by the Soviets",
+   "organizations": [
+    "Revolutionary Council",
+    "Afghan Marxist movement"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "Installed by the Soviets as Afghan president after the December 1979 coup",
+   "family": [],
+   "locations": [
+    "Kabul",
+    "Prague",
+    "Eastern Europe"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.4",
+     "quote": "BABRAK KARMEL HAD SUCCEEDED ARMIN ANO HAS MMAAED PRESIOENT OF TRE REVOLUTIONARY COURCIL"
+    },
+    {
+     "timestamp": "p.4",
+     "quote": "AFTER Tht aPHIL 1976 Cour BABRAK WAS | MARE® DEPUTY PRIME RINIBTER"
+    },
+    {
+     "timestamp": "p.4",
+     "quote": "ME IS KNOWN TO BE A DEDICATED MamaRxIey wHO WSS BEEN CLOSE TO THE SUVIETS FUR TEARS"
+    }
+   ]
+  },
+  {
+   "name": "Nur Muhammad Taraki",
+   "aliases": [
+    "Taraki",
+    "Takari"
+   ],
+   "role": "Former Afghan President; longtime rival of Babrak for leadership of the Marxist movement",
+   "organizations": [
+    "Afghan Marxist movement"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "Described only as 'former president'",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.4",
+     "quote": "WAS FOR RANY YEARS A RIVAL OF FORMER PRESIDENT TAKARI FOK LEADEKSMIP OF AFGHANISTAN'S"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Soviet Union",
+   "aliases": [
+    "USSR",
+    "Soviets"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Babrak Karmal regime"
+   ],
+   "rivals": [],
+   "country_base": "Soviet Union",
+   "notes": "Cable says it planned and executed the coup against Amin, ran an airlift into Kabul and Bagram, and built up forces north of the Afghan border."
+  },
+  {
+   "name": "Radio Afghanistan",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Fighting between Soviet and Afghan troops over control of the station in Kabul. First coup announcements apparently came from Soviet transmitters, not the station itself."
+  },
+  {
+   "name": "Afghan Army",
+   "aliases": [
+    "Afghan troops"
+   ],
+   "type": "military",
+   "parent_or_allies": [],
+   "rivals": [
+    "Soviet Union"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Already badly demoralized; fought Soviet troops around Radio Afghanistan; expected to see further desertions."
+  },
+  {
+   "name": "Revolutionary Council",
+   "aliases": [],
+   "type": "political movement",
+   "parent_or_allies": [
+    "Babrak Karmal"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Babrak was announced as its president."
+  },
+  {
+   "name": "Afghan insurgent groups",
+   "aliases": [
+    "insurgents"
+   ],
+   "type": "militia",
+   "parent_or_allies": [],
+   "rivals": [
+    "Babrak Karmal regime",
+    "Soviet Union"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Expected to spurn the new regime's offer to negotiate."
+  },
+  {
+   "name": "Afghan Marxist movement",
+   "aliases": [],
+   "type": "political movement",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Babrak and Taraki were rivals for its leadership."
+  },
+  {
+   "name": "US Department of State",
+   "aliases": [
+    "SecState"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "NATO"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Author of the cable, sent to NATO capitals and other posts."
+  }
+ ],
+ "places": [
+  {
+   "name": "Kabul",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Capital; site of the coup, the airlift and the Soviet troop deployment."
+  },
+  {
+   "name": "Darulaman Palace",
+   "type": "base",
+   "country": "Afghanistan",
+   "parent": "Kabul",
+   "significance": "Amin's residence; fighting lasted for hours in its vicinity."
+  },
+  {
+   "name": "Bagram Air Force Base",
+   "type": "base",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "About 30-46 miles north of Kabul; the equivalent of a Soviet combat regiment arrived there."
+  },
+  {
+   "name": "Prague",
+   "type": "city",
+   "country": "Czechoslovakia",
+   "parent": "Czechoslovakia",
+   "significance": "Babrak served there as ambassador for about six weeks after being 'exiled'."
+  },
+  {
+   "name": "Eastern Europe",
+   "type": "region",
+   "country": "",
+   "parent": "",
+   "significance": "Where Babrak is believed to have stayed until the Soviets installed him."
+  },
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Subject of the assessment."
+  },
+  {
+   "name": "Soviet Union",
+   "type": "country",
+   "country": "Soviet Union",
+   "parent": "",
+   "significance": "Source of the airlift; five or more divisions massed north of the Afghan border."
+  }
+ ],
+ "events": [
+  {
+   "date": "1979-12-27",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "Amin deposed and executed in a coup the cable says was planned and executed by the Soviet Union.",
+   "place": "Kabul",
+   "actors": [
+    "Hafizullah Amin",
+    "Soviet Union"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1979-12",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Massive Soviet airlift of troops and materiel into Kabul during the two days before the coup, with over 100 flights (figure partly illegible).",
+   "place": "Kabul",
+   "actors": [
+    "Soviet Union"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1979-12-27",
+   "date_precision": "approx",
+   "type": "attack",
+   "description": "Soviet and Afghan troops fought for control of Radio Afghanistan; three Afghan tanks were destroyed and Soviet troops took Afghan prisoners.",
+   "place": "Kabul",
+   "actors": [
+    "Soviet Union",
+    "Afghan Army",
+    "Radio Afghanistan"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1979-12-27",
+   "date_precision": "approx",
+   "type": "attack",
+   "description": "Hours of fighting near Darulaman Palace, Amin's residence.",
+   "place": "Darulaman Palace",
+   "actors": [
+    "Soviet Union",
+    "Afghan Army",
+    "Hafizullah Amin"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1979-12",
+   "date_precision": "approx",
+   "type": "appointment",
+   "description": "Radio announcements, apparently from Soviet transmitters, said Babrak Karmal had succeeded Amin as President of the Revolutionary Council.",
+   "place": "Kabul",
+   "actors": [
+    "Babrak Karmal",
+    "Soviet Union"
+   ],
+   "timestamp": "p.4"
+  },
+  {
+   "date": "1978-04",
+   "date_precision": "approx",
+   "type": "appointment",
+   "description": "After the April coup (the text reads '1976', apparently an OCR or typographical error), Babrak was made deputy prime minister, then within months 'exiled' as ambassador to Prague, a post held about six weeks.",
+   "place": "Prague",
+   "actors": [
+    "Babrak Karmal"
+   ],
+   "timestamp": "p.4"
+  },
+  {
+   "date": "1979-12",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "At least the equivalent of a Soviet combat regiment arrived at Bagram Air Force Base; five or more Soviet divisions were massed north of the border.",
+   "place": "Bagram Air Force Base",
+   "actors": [
+    "Soviet Union"
+   ],
+   "timestamp": "p.4"
+  },
+  {
+   "date": "1979-12",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "The new regime made conciliatory announcements and offered to negotiate with the insurgent groups.",
+   "place": "Afghanistan",
+   "actors": [
+    "Babrak Karmal",
+    "Afghan insurgent groups"
+   ],
+   "timestamp": "p.5"
+  },
+  {
+   "date": "1979-12-27",
+   "date_precision": "day",
+   "type": "death",
+   "description": "Hafizullah Amin deposed and executed in a Soviet-planned coup; Babrak Karmal installed.",
+   "place": "Kabul",
+   "actors": [
+    "Hafizullah Amin",
+    "Soviet Union",
+    "Babrak Karmal"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1979-12-25",
+   "date_precision": "approx",
+   "type": "travel",
+   "description": "Massive Soviet airlift of troops and materiel into Kabul in the two days before the coup.",
+   "place": "Kabul",
+   "actors": [
+    "Soviet Union"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1979-12-27",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "Soviet troops fought Afghan troops for control of Radio Afghanistan; tanks near the radio building destroyed.",
+   "place": "Kabul",
+   "actors": [
+    "Soviet Union",
+    "Afghan Army",
+    "Radio Afghanistan"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "1979-12-27",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Prerecorded announcements broadcast from Soviet transmitters announced Babrak as president of the Revolutionary Council.",
+   "place": "Soviet Union",
+   "actors": [
+    "Babrak Karmal",
+    "Soviet Union"
+   ],
+   "timestamp": "p.4"
+  },
+  {
+   "date": "1978",
+   "date_precision": "year",
+   "type": "appointment",
+   "description": "After the April 1978 coup Babrak became Deputy Prime Minister, then was exiled as ambassador to Prague.",
+   "place": "Prague",
+   "actors": [
+    "Babrak Karmal"
+   ],
+   "timestamp": "p.4"
+  },
+  {
+   "date": "1979-12",
+   "date_precision": "month",
+   "type": "travel",
+   "description": "A Soviet combat regiment equivalent arrived at Bagram as the airlift continued.",
+   "place": "Bagram Air Force Base",
+   "actors": [
+    "Soviet Union"
+   ],
+   "timestamp": "p.4"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Babrak Karmal",
+   "target": "Hafizullah Amin",
+   "type": "succeeded",
+   "detail": "Announced as Amin's successor as head of the Revolutionary Council.",
+   "date": "1979-12",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "BABRAK KARMEL HAD SUCCEEDED ARMIN ANO HAS MMAAED PRESIOENT OF TRE REVOLUTIONARY COURCIL"
+  },
+  {
+   "source": "Soviet Union",
+   "target": "Hafizullah Amin",
+   "type": "killed",
+   "detail": "The cable says the coup that deposed and executed Amin was planned and executed by the Soviet Union.",
+   "date": "1979-12-27",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "DEPOSEO AkO EXECUTEW Im & COUP OTETAYT CLEARLY PLANNED KD RECUTEO BY THE SOVIET UNION"
+  },
+  {
+   "source": "Babrak Karmal",
+   "target": "Nur Muhammad Taraki",
+   "type": "rival_of",
+   "detail": "Babrak was for many years a rival of Taraki for leadership of Afghanistan's Marxist movement.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "WAS FOR RANY YEARS A RIVAL OF FORMER PRESIDENT TAKARI FOK LEADEKSMIP"
+  },
+  {
+   "source": "Babrak Karmal",
+   "target": "Soviet Union",
+   "type": "allied_with",
+   "detail": "Described as close to the Soviets for years, installed by them, and dependent on Moscow for his survival.",
+   "date": "1979-12",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "BABRAK WILE PeMCLEARLY SE CEPENDENT O% MOSCOm FORK MIS SURWIVAL"
+  },
+  {
+   "source": "Babrak Karmal",
+   "target": "Revolutionary Council",
+   "type": "leads",
+   "detail": "Named president of the Revolutionary Council.",
+   "date": "1979-12",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "HAS MMAAED PRESIOENT OF TRE REVOLUTIONARY COURCIL"
+  },
+  {
+   "source": "Babrak Karmal",
+   "target": "Prague",
+   "type": "located_in",
+   "detail": "Served briefly as ambassador to Prague, then believed to have remained in Eastern Europe until installed by the Soviets.",
+   "date": "1978",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "EXILEC® AS AMBASSADOR TO PRAGUE, A POST HE HELL FOR - OwLY SIR WEEKS"
+  },
+  {
+   "source": "Soviet Union",
+   "target": "Afghan Army",
+   "type": "other",
+   "detail": "Soviet troops fought Afghan troops for control of Radio Afghanistan.",
+   "date": "1979-12-27",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "OVIET TROOPS WEKE ENGAGED IN FIGHTING AFGHAN TKOOPS"
+  },
+  {
+   "source": "Babrak Karmal",
+   "target": "Afghan insurgent groups",
+   "type": "negotiated_with",
+   "detail": "The regime offered to negotiate with the insurgent groups, but the cable expects most insurgents to spurn the offer.",
+   "date": "1979-12",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "OFFERED TO MEGOTIATE N Ifa vVAMZOUS INSUMGEKT GROUPS"
+  },
+  {
+   "source": "Hafizullah Amin",
+   "target": "Soviet Union",
+   "type": "other",
+   "detail": "Amin was deposed and executed in a coup the telegram assesses was planned and executed by the Soviet Union.",
+   "date": "1979-12-27",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "AFGHAN PRESIDENT HAFIZULLAH AMIN WAS DEPOSED AND EXECUTED IN A COUP D'ETAT CLEARLY PLANNED AND EXECUTED BY THE SOVIET UNION"
+  },
+  {
+   "source": "Soviet Union",
+   "target": "Afghan Army",
+   "type": "rival_of",
+   "detail": "Soviet troops fought Afghan troops for control of Radio Afghanistan during the coup.",
+   "date": "1979-12-27",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "SOVIET TROOPS WERE ENGAGED IN FIGHTING AFGHAN TROOPS OVER CONTROL OF RADIO AFGHANISTAN"
+  },
+  {
+   "source": "Soviet Union",
+   "target": "Radio Afghanistan",
+   "type": "other",
+   "detail": "Soviet forces fought for control of Radio Afghanistan, and the first coup announcements came from Soviet transmitters.",
+   "date": "1979-12-27",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "FIRST ANNOUNCEMENTS OF THE COUP APPEAR TO HAVE COME FROM TRANSMITTERS IN THE SOVIET UNION ITSELF"
+  },
+  {
+   "source": "Hafizullah Amin",
+   "target": "Darulaman Palace",
+   "type": "located_in",
+   "detail": "Darulaman Palace was Amin's residence, and fighting occurred around it.",
+   "date": "1979-12-27",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "VICINITY OF DARULAMAN PALACE, THE RESIDENCE OF AMIN"
+  },
+  {
+   "source": "Darulaman Palace",
+   "target": "Kabul",
+   "type": "located_in",
+   "detail": "Fighting at the palace is reported in Kabul.",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "FIGHTING OVER A PERIOD OF HOURS IN THE VICINITY OF DARULAMAN PALACE, THE RESIDENCE OF AMIN"
+  },
+  {
+   "source": "Babrak Karmal",
+   "target": "Hafizullah Amin",
+   "type": "succeeded",
+   "detail": "Announcements said Babrak had succeeded Amin and been named president of the Revolutionary Council.",
+   "date": "1979-12-27",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "BABRAK KARMAL HAD SUCCEEDED AMIN AND HAS BEEN NAMED PRESIDENT OF THE REVOLUTIONARY COUNCIL"
+  },
+  {
+   "source": "Babrak Karmal",
+   "target": "Revolutionary Council",
+   "type": "leads",
+   "detail": "Babrak was named president of the Revolutionary Council.",
+   "date": "1979-12-27",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "HAS BEEN NAMED PRESIDENT OF THE REVOLUTIONARY COUNCIL"
+  },
+  {
+   "source": "Babrak Karmal",
+   "target": "Nur Muhammad Taraki",
+   "type": "rival_of",
+   "detail": "Babrak was for many years a rival of Taraki for leadership of Afghanistan's Marxist movement.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "WAS FOR MANY YEARS A RIVAL OF FORMER PRESIDENT TARAKI FOR LEADERSHIP OF AFGHANISTAN'S MARXIST MOVEMENT"
+  },
+  {
+   "source": "Babrak Karmal",
+   "target": "Afghan Marxist movement",
+   "type": "member_of",
+   "detail": "Babrak is described as a dedicated Marxist who competed for leadership of the movement.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "HE IS KNOWN TO BE A DEDICATED MARXIST"
+  },
+  {
+   "source": "Nur Muhammad Taraki",
+   "target": "Afghan Marxist movement",
+   "type": "leads",
+   "detail": "Taraki competed with Babrak for leadership of the movement.",
+   "confidence": "inferred",
+   "timestamp": "p.4",
+   "quote": "RIVAL OF FORMER PRESIDENT TARAKI FOR LEADERSHIP OF AFGHANISTAN'S MARXIST MOVEMENT"
+  },
+  {
+   "source": "Babrak Karmal",
+   "target": "Soviet Union",
+   "type": "allied_with",
+   "detail": "Babrak has been close to the Soviets for years and was installed by them.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "WHO HAS BEEN CLOSE TO THE SOVIETS FOR YEARS"
+  },
+  {
+   "source": "Babrak Karmal",
+   "target": "Soviet Union",
+   "type": "reports_to",
+   "detail": "Babrak will be dependent on Moscow for survival and amenable to Soviet direction.",
+   "confidence": "inferred",
+   "timestamp": "p.4",
+   "quote": "BABRAK WILL CLEARLY BE DEPENDENT ON MOSCOW FOR HIS SURVIVAL"
+  },
+  {
+   "source": "Babrak Karmal",
+   "target": "Eastern Europe",
+   "type": "located_in",
+   "detail": "Babrak is believed to have remained in Eastern Europe until installed by the Soviets.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "HE REMAINED IN EASTERN EUROPE UNTIL HIS INSTALLATION BY THE SOVIETS"
+  },
+  {
+   "source": "Soviet Union",
+   "target": "Bagram Air Force Base",
+   "type": "located_in",
+   "detail": "A Soviet combat regiment equivalent arrived at Bagram.",
+   "date": "1979-12",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "EQUIVALENT OF A COMBAT REGIMENT ARRIVED AT BAGRAM AIR FORCE BASE"
+  },
+  {
+   "source": "Bagram Air Force Base",
+   "target": "Kabul",
+   "type": "located_in",
+   "detail": "Bagram lies about 30-40 miles north of the capital.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "BAGRAM AIR FORCE BASE 30 TO 40 MILES NORTH OF THE CAPITAL"
+  },
+  {
+   "source": "Revolutionary Council",
+   "target": "Afghan insurgent groups",
+   "type": "negotiated_with",
+   "detail": "The new regime offered to negotiate with various insurgent groups.",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "HAS OFFERED TO NEGOTIATE WITH VARIOUS INSURGENT GROUPS"
+  },
+  {
+   "source": "Afghan insurgent groups",
+   "target": "Babrak Karmal",
+   "type": "rival_of",
+   "detail": "Most insurgents are expected to spurn the approaches, regarding Babrak as a Soviet creature.",
+   "confidence": "inferred",
+   "timestamp": "p.5",
+   "quote": "MOST OF THE INSURGENTS WILL PROBABLY SPURN THESE APPROACHES"
+  }
+ ],
+ "sources_cited": [
+  "Reliable eyewitness accounts from Kabul",
+  "Initial US findings on radio announcements",
+  "Reports from Kabul on the Soviet airlift"
+ ],
+ "key_claims": [
+  "The US assessed that the 27 December 1979 coup that deposed and executed Hafizullah Amin was clearly planned and executed by the Soviet Union.",
+  "The first announcements of the coup apparently came from Soviet transmitters, and were pre-recorded and repeated on several frequencies.",
+  "Babrak Karmal was installed by the Soviets and will be dependent on Moscow for his survival.",
+  "The scale of the Soviet buildup, including five or more divisions north of the border, suggests military objectives beyond a change of government in Kabul.",
+  "Most insurgents are expected to reject Babrak's overtures because they will see him as even more a creature of the Soviet Union than Amin.",
+  "The Afghan Army is demoralized and may suffer further desertions, and the Soviets will face difficulty rebuilding it and combating the widespread insurgency."
+ ]
+}

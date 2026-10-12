@@ -1,0 +1,202 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc13-1997-01-09-title-excised-a-fatwa-issued-by-usama-bin-ladin-s",
+  "title": "[Title Excised] A Fatwa Issued by Usama Bin Ladin's Islamic Army Which Allowed for Attacks Against the U.S. Military in Saudi Arabia",
+  "authors": "CIA",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "1997-01-09",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7wuu-jeagl/1997-01-09-title-excised-a-fatwa-issued-by-usama.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 4,
+  "kind": "intelligence report",
+  "note": "CIA Intelligence Report on a fatwa issued by the Islamic Army allowing attacks on the U.S. military in Saudi Arabia. Source: 9/11 Commission Report, Chapter 2, Endnote 47.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 13",
+  "relevance": "high",
+  "ocr": 2
+ },
+ "persons": [
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Usama Bin Ladin"
+   ],
+   "role": "Leader of the 'Islamic Army' whose fatwa allowed attacks on the U.S. military in Saudi Arabia",
+   "organizations": [
+    "Islamic Army"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Saudi Arabia"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "FATWA ISSUED ... BIN LADIN'S ISLAMIC ARMY WHICH ALLOWED FOR ATTACKS AGAINST THE U.S. MILITARY IN SAUDI ARABIA."
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Islamic Army",
+   "aliases": [
+    "Usama Bin Ladin's Islamic Army"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Described in the cable header as issuing a fatwa allowing attacks on the U.S. military in Saudi Arabia, and as having plans for operations in Saudi Arabia."
+  },
+  {
+   "name": "U.S. military",
+   "aliases": [],
+   "type": "military",
+   "parent_or_allies": [],
+   "rivals": [
+    "Islamic Army"
+   ],
+   "country_base": "United States",
+   "notes": "Target of the fatwa in Saudi Arabia."
+  },
+  {
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Originator of the document; the cable was disseminated to many U.S. agencies."
+  }
+ ],
+ "places": [
+  {
+   "name": "Saudi Arabia",
+   "type": "country",
+   "country": "Saudi Arabia",
+   "parent": "",
+   "significance": "Location of U.S. military targeted by the fatwa and of planned Islamic Army operations."
+  },
+  {
+   "name": "Iran",
+   "type": "country",
+   "country": "Iran",
+   "parent": "",
+   "significance": "Appears in the garbled header alongside Saudi Arabia in connection with explosives."
+  }
+ ],
+ "events": [
+  {
+   "date": "1997-01-08",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Fatwa issued by Bin Ladin's Islamic Army allowing attacks against the U.S. military in Saudi Arabia, as reported in a CIA cable dated 8 January 1997.",
+   "place": "Saudi Arabia",
+   "actors": [
+    "Usama bin Ladin",
+    "Islamic Army"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1997-01-08",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Report dated 8 January 1997 on a fatwa issued by Bin Ladin's Islamic Army that allowed attacks against the U.S. military in Saudi Arabia. The fatwa's own date is not given.",
+   "place": "Saudi Arabia",
+   "actors": [
+    "Islamic Army",
+    "Usama bin Ladin",
+    "U.S. military"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1997-01-08",
+   "date_precision": "approx",
+   "type": "travel",
+   "description": "The title refers to travel by Islamic Army members (the text is garbled) from Saudi Arabia to Iran for explosives training.",
+   "place": "Iran",
+   "actors": [
+    "Islamic Army"
+   ],
+   "timestamp": "p.2"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Islamic Army",
+   "target": "Usama bin Ladin",
+   "type": "leads",
+   "detail": "The cable calls it 'Bin Ladin's Islamic Army'.",
+   "date": "1997-01-08",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "BIN LADIN 'S ISLAMIC ARMY WHICH ALLOWED FOR ATTACKS AGAINST THE U.S. MILITARY IN SAUDI ARABIA"
+  },
+  {
+   "source": "Islamic Army",
+   "target": "U.S. military",
+   "type": "other",
+   "detail": "The Islamic Army's fatwa permits attacks against the U.S. military in Saudi Arabia.",
+   "date": "1997-01-08",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "ALLOWED FOR ATTACKS AGAINST THE U.S. MILITARY IN SAUDI ARABIA"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Islamic Army",
+   "type": "leads",
+   "detail": "The report calls the group 'Bin Ladin's Islamic Army', which implies his leadership or ownership of it.",
+   "date": "1997-01-08",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "BIN LADIN 'S ISLAMIC ARMY"
+  },
+  {
+   "source": "Islamic Army",
+   "target": "U.S. military",
+   "type": "rival_of",
+   "detail": "The Islamic Army issued a fatwa that permitted attacks on the U.S. military in Saudi Arabia.",
+   "date": "1997-01-08",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "FATWA ISSUED ... ISLAMIC ARMY WHICH ALLOWED FOR ATTACKS AGAINST THE U.S. MILITARY IN SAUDI ARABIA"
+  },
+  {
+   "source": "Islamic Army",
+   "target": "Saudi Arabia",
+   "type": "located_in",
+   "detail": "The Islamic Army is described as planning an operation in Saudi Arabia in light of the fatwa.",
+   "date": "1997-01-08",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "ISLAMIC ARMY'S PLANS FOR OPERATION IN SAUDI ARABIA IN LIGHT OF THE FATWA"
+  },
+  {
+   "source": "Islamic Army",
+   "target": "Iran",
+   "type": "trained_by",
+   "detail": "The garbled title suggests that people went from Saudi Arabia to Iran for explosives training. The text is fragmentary and the link is only inferred.",
+   "date": "1997-01-08",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "SAUDI ARABIA TO IRAN FOR EXPLOSIVES TRA"
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "A January 1997 CIA cable reports that Bin Ladin's Islamic Army issued a fatwa permitting attacks on the U.S. military in Saudi Arabia.",
+  "The cable also refers to the Islamic Army's plans for operations in Saudi Arabia in light of the fatwa.",
+  "The garbled header suggests a link between Saudi Arabia, Iran and explosives, but the text is too corrupted to establish details."
+ ]
+}

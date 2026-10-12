@@ -1,0 +1,163 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc48-1999-05-17-your-note",
+  "title": "your note",
+  "authors": "CIA (Michael F. Scheuer to [Excised], likely Gary Schroen)",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "1999-05-17",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7xbr-uusml/1999-05-17-your-note-from-michael-f-scheuer-to.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 2,
+  "kind": "memo",
+  "note": "CIA email from Michael F. Scheuer to [Excised]. Cited in 9/11 Commission Report as \"Mike to [Gary] Schroen\" (Chapter 4, Endnote 174).",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 48",
+  "relevance": "high",
+  "ocr": 0
+ },
+ "persons": [
+  {
+   "name": "Osama bin Laden",
+   "aliases": [
+    "Usama bin Ladin",
+    "UBL",
+    "ubl",
+    "UBF"
+   ],
+   "role": "Target of the CIA's capture operation; al-Qa'ida leader",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "having~ chanc~ to get ubl three_:time.~dri 36 hours"
+    },
+    {
+     "timestamp": "p.2",
+     "quote": "the attack doesn't get bin lad)n"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA",
+    "the agency"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "The note says the agency would 'hang alone' if an attack failed to get bin Laden. The author calls the decision not to launch the capture operation a missed opportunity."
+  }
+ ],
+ "places": [
+  {
+   "name": "Africa",
+   "type": "region",
+   "country": "",
+   "parent": "",
+   "significance": "The text refers to 'africa bombings' as the event after which the US military/administration changed its view of UBL. The OCR is too garbled to say more."
+  }
+ ],
+ "events": [
+  {
+   "date": "1999-05-17",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Michael Scheuer sends a note to an excised recipient (likely Gary Schroen) lamenting the decision to forgo the capture operation against UBL after three chances in 36 hours.",
+   "place": "",
+   "actors": [
+    "Central Intelligence Agency",
+    "Osama bin Laden"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1998",
+   "date_precision": "approx",
+   "type": "attack",
+   "description": "Africa bombings, referred to in the text as the point after which the US military did not believe UBL was a problem. The OCR is badly degraded and the year is inferred.",
+   "place": "Africa",
+   "actors": [
+    "Osama bin Laden"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1999-05",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "The note says there were chances to get bin Laden three times in 36 hours, and each time the chance was forgone. It also says the administration passed up about half a dozen good-to-excellent chances to complete the operation.",
+   "place": "",
+   "actors": [
+    "Osama bin Laden",
+    "Central Intelligence Agency"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1998",
+   "date_precision": "approx",
+   "type": "attack",
+   "description": "The text refers to the Africa bombings. It says the US military did not believe bin Laden was a problem until they happened. The OCR is heavily garbled and the date is inferred, not stated.",
+   "place": "Africa",
+   "actors": [
+    "Osama bin Laden"
+   ],
+   "timestamp": "p.1",
+   "quote": "until the africa bombings"
+  },
+  {
+   "date": "1999-05-17",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "A note was sent on 17 May 1999 to an excised recipient, likely Gary Schroen, expressing frustration at missed opportunities to capture or attack bin Laden.",
+   "place": "",
+   "actors": [
+    "Central Intelligence Agency",
+    "Osama bin Laden"
+   ],
+   "timestamp": "p.2"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Central Intelligence Agency",
+   "target": "Osama bin Laden",
+   "type": "other",
+   "detail": "The CIA pursued bin Laden as a capture target and passed up several chances to carry out the operation.",
+   "date": "1999-05",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "you and we will continue to pursue the target with determination"
+  },
+  {
+   "source": "Central Intelligence Agency",
+   "target": "Osama bin Laden",
+   "type": "other",
+   "detail": "The CIA is pursuing bin Laden as its target. The note says it will continue the effort and describes several missed chances to get him.",
+   "date": "1999-05-17",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "still, you .and we wm continue to. pursue the target with detennination"
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "The author says the capture operation against UBL was forgone despite three chances in 36 hours.",
+  "The author says the administration passed up about half a dozen good-to-excellent chances to complete the operation.",
+  "The author says the CIA director was effectively alone at the table, with the other principals deferring to his decision.",
+  "The author attributes the inaction to a stark fear of attacking a terrorist target and causing casualties.",
+  "The author says the forgone operation was the best opportunity yet to get bin Laden."
+ ]
+}

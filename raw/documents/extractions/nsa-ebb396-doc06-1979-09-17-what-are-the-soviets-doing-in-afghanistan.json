@@ -1,0 +1,466 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb396-doc06-1979-09-17-what-are-the-soviets-doing-in-afghanistan",
+  "title": "What Are the Soviets Doing In Afghanistan?",
+  "authors": "National Security Council (Thomas Thornton to Zbigniew Brzezinski)",
+  "publisher": "National Security Archive (GWU), SOVIET INVASION OF AFGHANISTAN A CASE OF MISSION CREEP, ACCORDING TO NEW BOOK AND ORIGINAL SOVIET DOCUMENTS",
+  "published": "1979-09-17",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB396/docs/1979-09-17 Thornton to Brzezinski - what are Soviets doing in Afghanistan.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB396/",
+  "pages": 2,
+  "kind": "memo",
+  "note": "NSC memorandum from Thomas Thornton to Brzezinski on Soviet activities in Afghanistan.",
+  "collection": "NSAEBB396",
+  "doc_number": "Document 6",
+  "relevance": "high",
+  "ocr": 2
+ },
+ "persons": [
+  {
+   "name": "Thomas Thornton",
+   "aliases": [],
+   "role": "National Security Council staff member; author of memo to Brzezinski",
+   "organizations": [
+    "National Security Council"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "FROM: THOMAS THORNTON"
+    }
+   ]
+  },
+  {
+   "name": "Zbigniew Brzezinski",
+   "aliases": [
+    "Zbig Brzezinski"
+   ],
+   "role": "US National Security Advisor; memo addressee",
+   "organizations": [
+    "National Security Council"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "MEMORANDUM FOR: ZBIGNIEW BRZEZINSKI"
+    }
+   ]
+  },
+  {
+   "name": "Nur Muhammad Taraki",
+   "aliases": [
+    "Noor Mohammad Taraki",
+    "Taraki"
+   ],
+   "role": "Afghan head of state, retired/dropped in September 1979; received by Soviets in Moscow the previous week",
+   "organizations": [
+    "Afghan government (Kabul)"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "Described as retired/dropped from leadership",
+   "family": [],
+   "locations": [
+    "Moscow",
+    "Kabul"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "The Soviets made quite a fuss over Taraki last week in Moscow"
+    },
+    {
+     "timestamp": "p.2",
+     "quote": "Taraki was something of a Lenin figure and had a degree of foreign respect."
+    }
+   ]
+  },
+  {
+   "name": "Hafizullah Amin",
+   "aliases": [
+    "Amin"
+   ],
+   "role": "Afghan leader who announced end of one-man leadership and dismissed military men from cabinet",
+   "organizations": [
+    "Afghan government (Kabul)"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Kabul"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Amin's announcement of the end of one-man leadership"
+    },
+    {
+     "timestamp": "p.2",
+     "quote": "Amin is the Stalin of the drama and the Soviets should have him hung prominently around their necks."
+    }
+   ]
+  },
+  {
+   "name": "Brement",
+   "aliases": [
+    "Marshall Brement"
+   ],
+   "role": "NSC colleague who concurs with the memo",
+   "organizations": [
+    "National Security Council"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "Brement concurs."
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "National Security Council",
+   "aliases": [
+    "NSC"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Author office of the memo."
+  },
+  {
+   "name": "Soviet government",
+   "aliases": [
+    "the Soviets",
+    "USSR"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Soviet Union",
+   "notes": "Speculated on as possibly stage-managing or forcing collective leadership in Kabul."
+  },
+  {
+   "name": "Afghan government (Kabul)",
+   "aliases": [
+    "Kabul regime"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Soviet government"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Regime weakening; military faction removed from cabinet."
+  },
+  {
+   "name": "Afghan military faction",
+   "aliases": [
+    "the military men"
+   ],
+   "type": "military",
+   "parent_or_allies": [],
+   "rivals": [
+    "Hafizullah Amin"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Dismissed from cabinet over the weekend."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Subject of Soviet intentions analysis."
+  },
+  {
+   "name": "Kabul",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Seat of government where leadership changed."
+  },
+  {
+   "name": "Moscow",
+   "type": "city",
+   "country": "Soviet Union",
+   "parent": "Soviet Union",
+   "significance": "Taraki was feted there the previous week."
+  }
+ ],
+ "events": [
+  {
+   "date": "1979-09-17",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Thornton memo to Brzezinski offering three hypotheses on Soviet role in Kabul leadership changes.",
+   "place": "Washington",
+   "actors": [
+    "Thomas Thornton",
+    "Zbigniew Brzezinski"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1979-09",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Dismissal of military in cabinet, retirement of Taraki, and Amin's announcement of end of one-man leadership.",
+   "place": "Kabul",
+   "actors": [
+    "Hafizullah Amin",
+    "Nur Muhammad Taraki"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1979-09",
+   "date_precision": "month",
+   "type": "meeting",
+   "description": "Soviets made a fuss over Taraki in Moscow the week before the memo.",
+   "place": "Moscow",
+   "actors": [
+    "Nur Muhammad Taraki",
+    "Soviet government"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1979-09-17",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Thornton memo to Brzezinski assessing Soviet role in Afghan leadership change, offering three hypotheses.",
+   "place": "Washington",
+   "actors": [
+    "Thomas Thornton",
+    "Zbigniew Brzezinski",
+    "Brement"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1979-09",
+   "date_precision": "month",
+   "type": "meeting",
+   "description": "Soviets received Taraki in Moscow with great fanfare the week before the memo.",
+   "place": "Moscow",
+   "actors": [
+    "Soviet government",
+    "Nur Muhammad Taraki"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1979-09",
+   "date_precision": "month",
+   "type": "appointment",
+   "description": "Over the weekend: military dismissed from cabinet, Taraki retired, and Amin announced the end of one-man leadership.",
+   "place": "Kabul",
+   "actors": [
+    "Hafizullah Amin",
+    "Nur Muhammad Taraki",
+    "Afghan military faction"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Hafizullah Amin",
+   "target": "Nur Muhammad Taraki",
+   "type": "succeeded",
+   "detail": "Amin took over after Taraki was dropped/retired.",
+   "date": "1979-09",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "after the dropping of Taraki, the Soviets stepped in, called his bluff"
+  },
+  {
+   "source": "Nur Muhammad Taraki",
+   "target": "Soviet government",
+   "type": "met_with",
+   "detail": "Soviets honored Taraki in Moscow the week before.",
+   "date": "1979-09",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "The Soviets made quite a fuss over Taraki last week in Moscow"
+  },
+  {
+   "source": "Hafizullah Amin",
+   "target": "Soviet government",
+   "type": "rival_of",
+   "detail": "Hypothesis that Amin acted in defiance of the Soviets.",
+   "date": "1979-09",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Amin is doing the whole thing in defiance of the Soviets"
+  },
+  {
+   "source": "Hafizullah Amin",
+   "target": "Afghan military faction",
+   "type": "rival_of",
+   "detail": "Amin ousted the military men from the cabinet.",
+   "date": "1979-09",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "ouster of the military men may denote foreknowledge, but not necessarily complicity"
+  },
+  {
+   "source": "Thomas Thornton",
+   "target": "Zbigniew Brzezinski",
+   "type": "reports_to",
+   "detail": "Thornton writes information memo to Brzezinski.",
+   "date": "1979-09-17",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "MEMORANDUM FOR: ZBIGNIEW BRZEZINSKI"
+  },
+  {
+   "source": "Brement",
+   "target": "Thomas Thornton",
+   "type": "other",
+   "detail": "Brement concurs with Thornton's analysis.",
+   "date": "1979-09-17",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Brement concurs."
+  },
+  {
+   "source": "Thomas Thornton",
+   "target": "National Security Council",
+   "type": "member_of",
+   "detail": "Memo issued on National Security Council letterhead.",
+   "date": "1979-09-17",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "MEMORANDUM NATIONAL SECURITY COUNCIL September 17, 1979"
+  },
+  {
+   "source": "Zbigniew Brzezinski",
+   "target": "National Security Council",
+   "type": "member_of",
+   "detail": "Addressee of the NSC memorandum.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "MEMORANDUM FOR: ZBIGNIEW BRZEZINSKI"
+  },
+  {
+   "source": "Brement",
+   "target": "Thomas Thornton",
+   "type": "allied_with",
+   "detail": "Brement concurs with Thornton's assessment.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Brement concurs."
+  },
+  {
+   "source": "Soviet government",
+   "target": "Nur Muhammad Taraki",
+   "type": "met_with",
+   "detail": "The Soviets made a fuss over Taraki the previous week in Moscow.",
+   "date": "1979-09",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "The Soviets made quite a fuss over Taraki last week in Moscow"
+  },
+  {
+   "source": "Nur Muhammad Taraki",
+   "target": "Moscow",
+   "type": "located_in",
+   "detail": "Taraki was in Moscow the week before the memo.",
+   "date": "1979-09",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "The Soviets made quite a fuss over Taraki last week in Moscow"
+  },
+  {
+   "source": "Hafizullah Amin",
+   "target": "Nur Muhammad Taraki",
+   "type": "rival_of",
+   "detail": "Amin's moves forced Taraki's retirement; may be a slap at Taraki.",
+   "date": "1979-09",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "nothing more than a gratuitous slap at Taraki"
+  },
+  {
+   "source": "Hafizullah Amin",
+   "target": "Soviet government",
+   "type": "rival_of",
+   "detail": "Under hypothesis 2, Amin acts in defiance of the Soviets, presenting a fait accompli.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Amin is doing the whole thing in defiance of the Soviets, facing them with a fait accompli."
+  },
+  {
+   "source": "Soviet government",
+   "target": "Hafizullah Amin",
+   "type": "negotiated_with",
+   "detail": "Under hypothesis 3, Soviets called Amin's bluff and force collective leadership on him.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "the Soviets stepped in, called his bluff, and are now forcing him to accept a collective leadership"
+  },
+  {
+   "source": "Soviet government",
+   "target": "Afghan military faction",
+   "type": "allied_with",
+   "detail": "Soviets would have no reason to do in the military faction.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "the Soviets would not seem to have any reason to do in the military faction"
+  },
+  {
+   "source": "Hafizullah Amin",
+   "target": "Afghan government (Kabul)",
+   "type": "leads",
+   "detail": "Amin announced the end of one-man leadership of the government in Kabul.",
+   "date": "1979-09",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Amin's announcement of the end of one-man leadership"
+  },
+  {
+   "source": "Afghan government (Kabul)",
+   "target": "Kabul",
+   "type": "located_in",
+   "detail": "Government based in Kabul.",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "a more acceptable government installed in Kabul"
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "US analysts did not know what the Soviets were doing in Afghanistan.",
+  "Three hypotheses: Soviet stage-management, Amin acting in defiance, or Soviets forcing collective leadership after Taraki's fall.",
+  "Thornton judged Soviet stage-management least likely and favored Amin acting in defiance.",
+  "The Soviets are seen as unable to come out winners and closer to their moment of truth.",
+  "The memo recommends making the Soviets appear to have a hand in Amin's operation."
+ ]
+}

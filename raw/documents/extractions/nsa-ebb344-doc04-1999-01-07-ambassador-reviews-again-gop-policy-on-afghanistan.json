@@ -1,0 +1,410 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb344-doc04-1999-01-07-ambassador-reviews-again-gop-policy-on-afghanistan",
+  "title": "Ambassador Reviews Again GOP Policy on Afghanistan (Islamabad 00138)",
+  "authors": "U.S. Embassy Islamabad",
+  "publisher": "National Security Archive (GWU), Pakistan's Bin Laden Policy",
+  "published": "1999-01-07",
+  "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB344/osama_bin_laden_file_pakistan_04.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB344/index.htm",
+  "pages": 9,
+  "kind": "cable",
+  "note": "[Secret] Heavily excised account of Ambassador William Milam's meeting with Foreign Minister Sartaj Aziz. The U.S. urged the GOP to get active in convincing the Taliban to expel Usama bin Ladin and to change its pro-Taliban policies. Aziz listened carefully but his response contained little that was new.",
+  "collection": "NSAEBB344",
+  "doc_number": "Document 4",
+  "relevance": "high",
+  "ocr": 9
+ },
+ "persons": [
+  {
+   "name": "William Milam",
+   "aliases": [
+    "Ambassador Milam",
+    "William B. Milam"
+   ],
+   "role": "U.S. Ambassador to Pakistan",
+   "organizations": [
+    "U.S. Embassy Islamabad",
+    "U.S. Department of State"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Islamabad"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "THE AMBASSADOR MET JANUARY 7 WITH FOREIGN MINISTER SARTAT AZIZ."
+    },
+    {
+     "timestamp": "p.1",
+     "quote": "CLASSIFIED BY AMBASSADOR WILLIAM MILAM"
+    }
+   ]
+  },
+  {
+   "name": "Sartaj Aziz",
+   "aliases": [
+    "Sartaz Aziz",
+    "Sartat Aziz"
+   ],
+   "role": "Pakistani Foreign Minister",
+   "organizations": [
+    "Government of Pakistan"
+   ],
+   "nationality_or_origin": "Pakistani",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Islamabad"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "THE AMBASSADOR MET JANUARY 7 WITH FOREIGN MINISTER SARTAT AZIZ."
+    },
+    {
+     "timestamp": "p.7",
+     "quote": "AZIZ LISTENED VERY CAREFULLY TO OUR POINTS."
+    }
+   ]
+  },
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Usama bin Laden"
+   ],
+   "role": "International terrorist whom the U.S. wanted expelled by the Taliban",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "EXPEL INTERNATIONAL TERRORIST USAMA BIN LADIN IMMEDIATELY TO A PLACE WHERE HE CAN BE BROUGHT TO JUSTICE."
+    }
+   ]
+  },
+  {
+   "name": "Karl Inderfurth",
+   "aliases": [
+    "Rick Inderfurth",
+    "A/S Inderfurth"
+   ],
+   "role": "U.S. Assistant Secretary of State for South Asian Affairs",
+   "organizations": [
+    "U.S. Department of State"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Islamabad"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.5",
+     "quote": "A/S INDERFURTH PLANNED TO BE IN ISLAMABAD AT THE END OF THE MONTH."
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Taliban",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Government of Pakistan"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Recipient of four years of Pakistani support per the Ambassador."
+  },
+  {
+   "name": "Government of Pakistan",
+   "aliases": [
+    "GOP"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Urged to reconsider Taliban support and press expulsion of bin Ladin."
+  },
+  {
+   "name": "U.S. Embassy Islamabad",
+   "aliases": [
+    "AMEMBASSY ISLAMABAD"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "U.S. Department of State"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Author of cable."
+  },
+  {
+   "name": "U.S. Department of State",
+   "aliases": [
+    "SECSTATE"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Cable addressee."
+  },
+  {
+   "name": "al-Qa'ida",
+   "aliases": [
+    "al-Qaeda"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Implied via bin Ladin."
+  }
+ ],
+ "places": [
+  {
+   "name": "Islamabad",
+   "type": "city",
+   "country": "Pakistan",
+   "parent": "Pakistan",
+   "significance": "Site of meeting; embassy location."
+  },
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Supporter of the Taliban."
+  },
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Taliban-controlled; bin Ladin's location."
+  }
+ ],
+ "events": [
+  {
+   "date": "1999-01-07",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "Ambassador Milam met Foreign Minister Sartaj Aziz, urging Pakistan to reconsider support for the Taliban and press them to expel bin Ladin.",
+   "place": "Islamabad",
+   "actors": [
+    "William Milam",
+    "Sartaj Aziz"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1999-01",
+   "date_precision": "month",
+   "type": "travel",
+   "description": "Planned visit of A/S Inderfurth to Islamabad at the end of January 1999.",
+   "place": "Islamabad",
+   "actors": [
+    "Karl Inderfurth"
+   ],
+   "timestamp": "p.5"
+  },
+  {
+   "date": "1999-01-07",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "Ambassador Milam met FM Sartaj Aziz, urging Pakistan to reconsider Taliban support and press the Taliban to expel bin Ladin; Aziz's response contained little new.",
+   "place": "Islamabad",
+   "actors": [
+    "William Milam",
+    "Sartaj Aziz",
+    "Government of Pakistan",
+    "Taliban",
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "1999-01",
+   "date_precision": "month",
+   "type": "travel",
+   "description": "A/S Karl Inderfurth planned to visit Islamabad at the end of January 1999; Aziz suggested a preparatory meeting beforehand.",
+   "place": "Islamabad",
+   "actors": [
+    "Karl Inderfurth",
+    "Sartaj Aziz"
+   ],
+   "timestamp": "p.5"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "William Milam",
+   "target": "Sartaj Aziz",
+   "type": "met_with",
+   "detail": "Ambassador met the Foreign Minister on 7 January 1999 to discuss Taliban policy.",
+   "date": "1999-01-07",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "THE AMBASSADOR MET JANUARY 7 WITH FOREIGN MINISTER SARTAT AZIZ."
+  },
+  {
+   "source": "Government of Pakistan",
+   "target": "Taliban",
+   "type": "allied_with",
+   "detail": "Pakistan gave four years of all-out support to the Taliban.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "HAVE FOUR YEARS OF ALL-OUT SUPPORT FOR THE TALIBAN IMPROVED PAKISTAN'S POSITION?"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Taliban",
+   "type": "sheltered_by",
+   "detail": "U.S. urged Pakistan to get the Taliban to expel bin Ladin, implying Taliban shelter.",
+   "date": "1999-01-07",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "CONVINCE THEM TO EXPEL INTERNATIONAL TERRORIST USAMA BIN LADIN IMMEDIATELY"
+  },
+  {
+   "source": "William Milam",
+   "target": "Karl Inderfurth",
+   "type": "other",
+   "detail": "Milam noted Inderfurth's planned visit; Aziz proposed a preparatory meeting.",
+   "date": "1999-01",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "A/S INDERFURTH PLANNED TO BE IN ISLAMABAD AT THE END OF THE MONTH."
+  },
+  {
+   "source": "William Milam",
+   "target": "U.S. Embassy Islamabad",
+   "type": "leads",
+   "detail": "Milam is the U.S. Ambassador at the Islamabad embassy, which sent the cable.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "CLASSIFIED BY AMBASSADOR WILLIAM MILAM"
+  },
+  {
+   "source": "William Milam",
+   "target": "Government of Pakistan",
+   "type": "negotiated_with",
+   "detail": "Milam urged the GOP to reconsider its support for the Taliban and to press them to expel bin Ladin.",
+   "date": "1999-01-07",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "PAKISTAN SHOULD RECONSIDER ITS SUPPORT FOR THE TALIBAN."
+  },
+  {
+   "source": "Sartaj Aziz",
+   "target": "Government of Pakistan",
+   "type": "member_of",
+   "detail": "Aziz is Pakistan's Foreign Minister, speaking for the GOP.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "FOREIGN MINISTER SARTAT AZIZ"
+  },
+  {
+   "source": "Government of Pakistan",
+   "target": "Taliban",
+   "type": "allied_with",
+   "detail": "Pakistan provided four years of all-out support to the Taliban per U.S. framing.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "HAVE FOUR YEARS OF ALL-OUT SUPPORT FOR THE TALIBAN IMPROVED PAKISTAN'S POSITION?"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Taliban",
+   "type": "sheltered_by",
+   "detail": "Bin Ladin is in Taliban-controlled Afghanistan; the U.S. wants the Taliban to expel him.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "CONVINCE THEM TO EXPEL INTERNATIONAL TERRORIST USAMA BIN LADIN IMMEDIATELY"
+  },
+  {
+   "source": "Government of Pakistan",
+   "target": "Taliban",
+   "type": "other",
+   "detail": "U.S. asked Pakistan to use its influence with the Taliban to expel bin Ladin.",
+   "date": "1999-01-07",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "NEED FOR PAKISTAN TO USE ITS INFLUENCE WITH THE TALIBAN"
+  },
+  {
+   "source": "Karl Inderfurth",
+   "target": "U.S. Department of State",
+   "type": "member_of",
+   "detail": "Inderfurth is Assistant Secretary (A/S) planning a visit to Islamabad.",
+   "confidence": "inferred",
+   "timestamp": "p.5",
+   "quote": "A/S INDERFURTH PLANNED TO BE IN ISLAMABAD AT THE END OF THE MONTH"
+  },
+  {
+   "source": "Sartaj Aziz",
+   "target": "Karl Inderfurth",
+   "type": "met_with",
+   "detail": "Aziz proposed a preparatory meeting and then talks with Inderfurth during his visit.",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "AZIZ SAID IT WOULD BE GOOD TO HAVE A PREPARATORY MEETING BEFORE INDERFURTH'S VISIT"
+  },
+  {
+   "source": "U.S. Embassy Islamabad",
+   "target": "Islamabad",
+   "type": "located_in",
+   "detail": "Embassy located in Islamabad.",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "FM AMEMBASSY ISLAMABAD"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "al-Qa'ida",
+   "type": "leads",
+   "detail": "Inferred; al-Qa'ida entity listed but chunk text mentions only bin Ladin.",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "INTERNATIONAL TERRORIST USAMA BIN LADIN"
+  }
+ ],
+ "sources_cited": [
+  "REF A: STATE 123",
+  "REF B: 98 ISLAMABAD 9470",
+  "REF C: 98 STATE 235191"
+ ],
+ "key_claims": [
+  "The U.S. Ambassador urged Pakistan to reconsider its four years of all-out support for the Taliban.",
+  "The U.S. asked Pakistan to use its influence to have the Taliban expel Usama bin Ladin to face justice.",
+  "Foreign Minister Sartaj Aziz listened carefully but offered little new in response.",
+  "Pakistan said it was willing to listen to U.S. advice and proposed a preparatory meeting before Inderfurth's visit."
+ ]
+}

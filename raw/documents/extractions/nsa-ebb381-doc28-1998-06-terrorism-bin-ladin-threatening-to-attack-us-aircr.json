@@ -1,0 +1,282 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc28-1998-06-terrorism-bin-ladin-threatening-to-attack-us-aircr",
+  "title": "TERRORISM: Bin Ladin Threatening to Attack US Aircraft",
+  "authors": "CIA",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "1998-06",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7x7g-tbo1k/undated-between-1998-2001-terrorism-terrorism.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 1,
+  "kind": "briefing",
+  "note": "Senior Executive Intelligence Brief, undated, cited in the 9/11 Commission Report as June 1998 (p. 342). Source: 9/11 Commission Report, Chapter 11, Endnote 5.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 28",
+  "relevance": "high",
+  "ocr": 0
+ },
+ "persons": [
+  {
+   "name": "Usama Bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Usama bin Ladin",
+    "Bin Ladin"
+   ],
+   "role": "Terrorist financier and leader of a jihadist network; threatened attacks on US aircraft and US forces",
+   "organizations": [
+    "Bin Ladin network"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Saudi Arabia",
+    "Kuwait",
+    "Gulf region"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Terrorist financier Usarna Bin .Ladin In an Interview published this week with a US journalist indicated he may attack a US military passenger aircraft"
+    },
+    {
+     "timestamp": "p.1",
+     "quote": "Last month he claimed to have almost completed preparations for an attack against the US this month"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Bin Ladin network",
+   "aliases": [
+    "Bin Ladin's organization"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [
+    "US military",
+    "Saudi regime"
+   ],
+   "country_base": "",
+   "notes": "Members arrested by Saudi authorities; antitank missiles seized; may possess antiaircraft missiles; has support and infrastructure in Saudi Arabia."
+  },
+  {
+   "name": "Saudi authorities",
+   "aliases": [
+    "Authorities in Saudi Arabia"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [
+    "Bin Ladin network"
+   ],
+   "country_base": "Saudi Arabia",
+   "notes": "Arrested members of a Bin Ladin network and seized antitank missiles."
+  },
+  {
+   "name": "US military",
+   "aliases": [
+    "US military in Saudi Arabia"
+   ],
+   "type": "military",
+   "parent_or_allies": [],
+   "rivals": [
+    "Bin Ladin network"
+   ],
+   "country_base": "United States",
+   "notes": "Target of Bin Ladin's rhetoric; US aircraft potentially targeted."
+  }
+ ],
+ "places": [
+  {
+   "name": "Saudi Arabia",
+   "type": "country",
+   "country": "Saudi Arabia",
+   "parent": "",
+   "significance": "Where Bin Ladin has support and infrastructure; the likely attack location; arrests made here."
+  },
+  {
+   "name": "Kuwait",
+   "type": "country",
+   "country": "Kuwait",
+   "parent": "",
+   "significance": "Possible location of an attack indicated."
+  },
+  {
+   "name": "Gulf region",
+   "type": "region",
+   "country": "",
+   "parent": "",
+   "significance": "US aircraft could be targeted elsewhere in the Gulf region."
+  }
+ ],
+ "events": [
+  {
+   "date": "1998-05",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Bin Ladin held a press conference indicating the results of his jihad would be visible 'within weeks', directing rhetoric at the US military in Saudi Arabia and the Saudi regime, and claiming near-complete preparations for an attack against the US.",
+   "place": "",
+   "actors": [
+    "Usama Bin Ladin"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998-06",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Interview with a US journalist published in which Bin Ladin indicated he may attack a US military passenger aircraft using antiaircraft missiles.",
+   "place": "",
+   "actors": [
+    "Usama Bin Ladin"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998",
+   "date_precision": "approx",
+   "type": "arrest",
+   "description": "Saudi authorities arrested members of a Bin Ladin network and seized antitank missiles.",
+   "place": "Saudi Arabia",
+   "actors": [
+    "Saudi authorities",
+    "Bin Ladin network"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998-06",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Bin Ladin interview with a US journalist published, indicating he may attack a US military passenger aircraft with antiaircraft missiles.",
+   "place": "",
+   "actors": [
+    "Usama Bin Ladin",
+    "US military"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998-05",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Bin Ladin press conference stating results of his jihad would be visible 'within weeks'; rhetoric aimed at US military in Saudi Arabia and the Saudi regime; claimed nearly complete preparations for an attack against the US.",
+   "place": "",
+   "actors": [
+    "Usama Bin Ladin",
+    "US military",
+    "Saudi authorities"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998-06",
+   "date_precision": "month",
+   "type": "arrest",
+   "description": "Saudi authorities arrested members of a Bin Ladin network and seized antitank missiles.",
+   "place": "Saudi Arabia",
+   "actors": [
+    "Saudi authorities",
+    "Bin Ladin network"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Saudi authorities",
+   "target": "Bin Ladin network",
+   "type": "captured",
+   "detail": "Saudi authorities arrested members of a Bin Ladin network and seized antitank missiles.",
+   "date": "1998",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Authorities In Saudi Arabi~ arrested! members of a Bin Ladln network and seized antitank mi~~"
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "Bin Ladin network",
+   "type": "leads",
+   "detail": "Bin Ladin is described as head of the network/organization.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "If Bin Ladin's organization has antiaircraft missiles, the risk to US aircraft would be greatest"
+  },
+  {
+   "source": "Bin Ladin network",
+   "target": "Saudi Arabia",
+   "type": "located_in",
+   "detail": "Bin Ladin has support and infrastructure in Saudi Arabia.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Saudi Arabia, where Bin Ladln has support and infrastructure"
+  },
+  {
+   "source": "Saudi authorities",
+   "target": "Bin Ladin network",
+   "type": "other",
+   "detail": "Saudi authorities arrested members of the Bin Ladin network and seized antitank missiles.",
+   "date": "1998-06",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Authorities In Saudi Arabi~ arrested! members of a Bin Ladln network and seized antitank mi"
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "US military",
+   "type": "rival_of",
+   "detail": "Bin Ladin directed most of his press-conference rhetoric against the US military in Saudi Arabia and threatened to attack a US military aircraft.",
+   "date": "1998-05",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Bin Ladin directed most of the rhetoric in his-press conference last month toward the US military In Saudi Arabia and the Saudi regime."
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "Saudi authorities",
+   "type": "rival_of",
+   "detail": "Bin Ladin directed rhetoric against the Saudi regime.",
+   "date": "1998-05",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "toward the US military In Saudi Arabia and the Saudi regime."
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "Saudi Arabia",
+   "type": "located_in",
+   "detail": "Bin Ladin has support and infrastructure in Saudi Arabia.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Saudi Arabia, where Bin Ladln has support and infrastructure"
+  },
+  {
+   "source": "Bin Ladin network",
+   "target": "Saudi Arabia",
+   "type": "located_in",
+   "detail": "Members of the network were arrested in Saudi Arabia, indicating presence there.",
+   "date": "1998-06",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Authorities In Saudi Arabi~ arrested! members of a Bin Ladln network"
+  }
+ ],
+ "sources_cited": [
+  "CIA report, June 1998 (declassified 25 April 2012)",
+  "Interview with a US journalist"
+ ],
+ "key_claims": [
+  "Bin Ladin indicated in a published interview that he may attack a US military passenger aircraft with antiaircraft missiles.",
+  "The risk to US aircraft would be greatest in Saudi Arabia, where Bin Ladin has support and infrastructure.",
+  "Saudi authorities arrested members of a Bin Ladin network and seized antitank missiles.",
+  "Bin Ladin claimed to have nearly completed preparations for an attack against the US, indicated as occurring in Saudi Arabia or Kuwait."
+ ]
+}

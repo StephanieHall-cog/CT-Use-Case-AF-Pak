@@ -1,0 +1,691 @@
+{
+ "document": {
+  "doc_id": "nsa-2021-afghanistan-2020-20-year-war-2-doc16-2009-11-06-u-s-embassy-kabul-cable-3572-coin-strategy-civilia",
+  "title": "U.S. Embassy Kabul Cable 3572, \"COIN Strategy: Civilian Concerns\"",
+  "authors": "U.S. Embassy Kabul (Ambassador Karl Eikenberry)",
+  "publisher": "National Security Archive (GWU), Afghanistan 20/20: The 20-Year War in 20 Documents | National Security Archive",
+  "published": "2009-11-06",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/16%20.pdf",
+  "source_page": "https://nsarchive.gwu.edu/briefing-book/afghanistan/2021-08-19/afghanistan-2020-20-year-war-20-documents",
+  "pages": 5,
+  "kind": "cable",
+  "note": "[Secret NODIS ARIES] Eikenberry's personal letter to Secretary Clinton opposing the troop surge. He says Karzai is not an adequate strategic partner, Afghan forces are overestimated, and more troops won't end the insurgency while Pakistan sanctuaries remain. Source: NYT, Jan 25, 2010.",
+  "collection": "new-afghanistan-2020-20-year-war-20-docu",
+  "doc_number": "Document 16",
+  "relevance": "high",
+  "ocr": 5
+ },
+ "persons": [
+  {
+   "name": "Karl W. Eikenberry",
+   "aliases": [
+    "Karl Eikenberry"
+   ],
+   "role": "U.S. Ambassador to Afghanistan; author of the cable",
+   "organizations": [
+    "U.S. Department of State",
+    "U.S. Embassy Kabul"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Kabul",
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "Classified By: Ambassador Karl W. Eikenberry, Reasons 1.4 (b} and (d)}"
+    },
+    {
+     "timestamp": "p.5",
+     "quote": "I cannot support BOO,s recommendation for an immediate Presidential decision to be' déploy another 40,000 traope here."
+    }
+   ]
+  },
+  {
+   "name": "Hamid Karzai",
+   "aliases": [
+    "President Karzai"
+   ],
+   "role": "President of Afghanistan, re-elected 2009; criticized as an inadequate strategic partner",
+   "organizations": [
+    "Government of Afghanistan"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan",
+    "Kabul"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.3",
+     "quote": "President Karzai i8 mot an adequate atrategic riener."
+    },
+    {
+     "timestamp": "p.3",
+     "quote": "With his re-election, Karzai will remain Arghanigtan. dominant political acter."
+    }
+   ]
+  },
+  {
+   "name": "Hillary Clinton",
+   "aliases": [
+    "Madame Secretary",
+    "Secretary of State"
+   ],
+   "role": "U.S. Secretary of State; addressee of the cable",
+   "organizations": [
+    "U.S. Department of State"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "Madame Secretary, As we near the end of our deliberationa on the way forward in Afghanistan"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "U.S. Embassy Kabul",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [
+    "U.S. Department of State"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Originator of the cable; Eikenberry notes an embassy request for a $2.5 billion development increase was rejected."
+  },
+  {
+   "name": "U.S. Department of State",
+   "aliases": [
+    "SECSTATE"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Recipient of the cable."
+  },
+  {
+   "name": "NATO-ISAF",
+   "aliases": [
+    "ISAF",
+    "NATO"
+   ],
+   "type": "military",
+   "parent_or_allies": [],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "The cable calls for NATO to designate the U.S. as lead nation for civilian tasks."
+  },
+  {
+   "name": "Quetta Shura",
+   "aliases": [
+    "Quetta Shura Taliban"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Described as having the most influence over the insurgency in southern Taliban strongholds."
+  },
+  {
+   "name": "Haqqani Network",
+   "aliases": [
+    "Haqqani network"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Described as the most lethal killer of allied troops and Afghan civilians."
+  },
+  {
+   "name": "Afghan National Army",
+   "aliases": [
+    "ANA"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "Government of Afghanistan"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Low Pashtun recruitment in the south and high attrition."
+  },
+  {
+   "name": "Afghan National Police",
+   "aliases": [
+    "ANP"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Government of Afghanistan"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Lower benefits and higher risks than the Army."
+  },
+  {
+   "name": "Government of Afghanistan",
+   "aliases": [
+    "Afghan government"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": ""
+  },
+  {
+   "name": "Pakistan military",
+   "aliases": [],
+   "type": "military",
+   "parent_or_allies": [
+    "Government of Pakistan"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Conducting an offensive in Waziristan that does not address the Quetta Shura or the Haqqani network."
+  },
+  {
+   "name": "United Nations",
+   "aliases": [
+    "U.N."
+   ],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Post-attack withdrawal of U.N. personnel noted."
+  },
+  {
+   "name": "Principals Committee",
+   "aliases": [
+    "SVTS Principal's Committee"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Meeting where the cable was to be discussed."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Theater of the COIN strategy debate."
+  },
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Source of instability due to insurgent sanctuaries."
+  },
+  {
+   "name": "Waziristan",
+   "type": "region",
+   "country": "Pakistan",
+   "parent": "Pakistan",
+   "significance": "Site of the Pakistani military offensive."
+  },
+  {
+   "name": "Kabul",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Origin of the cable."
+  },
+  {
+   "name": "Iraq",
+   "type": "country",
+   "country": "Iraq",
+   "parent": "",
+   "significance": "Where U.S. forces performed mentoring missions."
+  }
+ ],
+ "events": [
+  {
+   "date": "2009-11-06",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Eikenberry sends cable to Secretary of State expressing reservations about a large troop increase.",
+   "place": "Kabul",
+   "actors": [
+    "Karl W. Eikenberry",
+    "Hillary Clinton"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "2009-11",
+   "date_precision": "month",
+   "type": "meeting",
+   "description": "SVTS Principals Committee discussion that evening on the Afghan strategy.",
+   "place": "",
+   "actors": [
+    "Principals Committee"
+   ],
+   "timestamp": "p.5"
+  },
+  {
+   "date": "2009",
+   "date_precision": "year",
+   "type": "offensive",
+   "description": "Pakistan's military offensive in Waziristan.",
+   "place": "Waziristan",
+   "actors": [
+    "Pakistan military"
+   ],
+   "timestamp": "p.5"
+  },
+  {
+   "date": "2009",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Withdrawal of U.N. personnel following an attack.",
+   "place": "Afghanistan",
+   "actors": [
+    "United Nations"
+   ],
+   "timestamp": "p.4"
+  },
+  {
+   "date": "2009-11-06",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Ambassador Eikenberry sends Cable 3572 to Secretary Clinton expressing reservations about a large troop increase COIN strategy and urging civilian alternatives.",
+   "place": "Kabul",
+   "actors": [
+    "Karl W. Eikenberry",
+    "Hillary Clinton",
+    "U.S. Embassy Kabul"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "2009",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Hamid Karzai re-elected President of Afghanistan, referenced as a given in the cable.",
+   "place": "Afghanistan",
+   "actors": [
+    "Hamid Karzai"
+   ],
+   "timestamp": "p.3"
+  },
+  {
+   "date": "approx 2009",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Attack prompts withdrawal of U.N. personnel from Afghanistan, weakening civilian coordination.",
+   "place": "Afghanistan",
+   "actors": [
+    "United Nations"
+   ],
+   "timestamp": "p.4"
+  },
+  {
+   "date": "2009-11-06",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Eikenberry sends Cable Kabul 3572 to Secretary Clinton expressing concerns about the COIN strategy and opposing an immediate decision to deploy 40,000 more troops.",
+   "place": "Kabul",
+   "actors": [
+    "Karl W. Eikenberry",
+    "Hillary Clinton",
+    "U.S. Embassy Kabul"
+   ],
+   "timestamp": "p.5"
+  },
+  {
+   "date": "2009-11-06",
+   "date_precision": "day",
+   "type": "meeting",
+   "description": "SVTS Principals Committee discussion scheduled the evening of the cable.",
+   "place": "",
+   "actors": [
+    "Principals Committee",
+    "Karl W. Eikenberry",
+    "Hillary Clinton"
+   ],
+   "timestamp": "p.5"
+  },
+  {
+   "date": "approx 2009",
+   "date_precision": "approx",
+   "type": "offensive",
+   "description": "Pakistan military conducting current offensive in Waziristan.",
+   "place": "Waziristan",
+   "actors": [
+    "Pakistan military"
+   ],
+   "timestamp": "p.5"
+  },
+  {
+   "date": "2009",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Embassy request in summer 2009 for a $2.5 billion increase in development and governance budget was analyzed and then rejected.",
+   "place": "Kabul",
+   "actors": [
+    "U.S. Embassy Kabul"
+   ],
+   "timestamp": "p.5"
+  },
+  {
+   "date": "approx 2009",
+   "date_precision": "approx",
+   "type": "attack",
+   "description": "Attack on U.N. personnel in Afghanistan led to recent withdrawal of U.N. staff.",
+   "place": "Afghanistan",
+   "actors": [
+    "United Nations"
+   ],
+   "timestamp": "p.4"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Karl W. Eikenberry",
+   "target": "Hillary Clinton",
+   "type": "reports_to",
+   "detail": "Ambassador addresses cable to the Secretary of State.",
+   "date": "2009-11-06",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "Madame Secretary, As we near the end of our deliberationa on the way forward"
+  },
+  {
+   "source": "Karl W. Eikenberry",
+   "target": "Hamid Karzai",
+   "type": "other",
+   "detail": "Eikenberry assesses Karzai as an inadequate strategic partner.",
+   "date": "2009-11-06",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "President Karzai i8 mot an adequate atrategic riener."
+  },
+  {
+   "source": "Quetta Shura",
+   "target": "Pakistan",
+   "type": "located_in",
+   "detail": "Pakistani sanctuaries sustain the insurgency; Quetta Shura influence in the south is unaddressed.",
+   "date": "2009",
+   "confidence": "inferred",
+   "timestamp": "p.5",
+   "quote": "Pakistan will remain the single greatest source of Afghan ingtability ee Jeng as the border Sanctuaries remain"
+  },
+  {
+   "source": "Haqqani Network",
+   "target": "Pakistan",
+   "type": "located_in",
+   "detail": "Pakistani sanctuaries and the Haqqani network are linked as unaddressed problems.",
+   "date": "2009",
+   "confidence": "inferred",
+   "timestamp": "p.5",
+   "quote": "or the Haqqani network, the most lethal killer of allied troeps and aeqnan civiliana."
+  },
+  {
+   "source": "Pakistan military",
+   "target": "Waziristan",
+   "type": "other",
+   "detail": "Conducting an offensive in Waziristan.",
+   "date": "2009",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "current military offensive in Waziriatan"
+  },
+  {
+   "source": "Karl W. Eikenberry",
+   "target": "U.S. Embassy Kabul",
+   "type": "leads",
+   "detail": "Eikenberry is the Ambassador who classified and sent the cable from Embassy Kabul.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "Classified By: Ambassador Karl W. Eikenberry"
+  },
+  {
+   "source": "U.S. Embassy Kabul",
+   "target": "U.S. Department of State",
+   "type": "member_of",
+   "detail": "The cable is sent from Embassy Kabul to the Secretary of State in Washington.",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "FM AMEMBASSY KABUL TO SECSTATE WASHDC IMMEDIATE"
+  },
+  {
+   "source": "Hamid Karzai",
+   "target": "Government of Afghanistan",
+   "type": "leads",
+   "detail": "Karzai is President of Afghanistan and the dominant political actor, and is expected to remain so after re-election.",
+   "date": "2009",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "With his re-election, Karzai will remain Afghanistan's dominant political actor."
+  },
+  {
+   "source": "Hamid Karzai",
+   "target": "Afghan National Army",
+   "type": "leads",
+   "detail": "Karzai is commander-in-chief of the Afghan forces, a role the cable says he resists embracing.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "require President Karzai to embrace his role as commander-in-chief, a step he resists"
+  },
+  {
+   "source": "Karl W. Eikenberry",
+   "target": "Hamid Karzai",
+   "type": "rival_of",
+   "detail": "Eikenberry argues Karzai is not an adequate strategic partner, shuns sovereign responsibility, and misconceives U.S. aims.",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "President Karzai is not an adequate strategic partner."
+  },
+  {
+   "source": "Hamid Karzai",
+   "target": "United States",
+   "type": "allied_with",
+   "detail": "Karzai and his circle do not want the U.S. to leave and are happy to see it invest further.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "He and much of his circle do not want the U.S. to leave and are only too happy to see us invest further."
+  },
+  {
+   "source": "Afghan National Police",
+   "target": "Afghan National Army",
+   "type": "other",
+   "detail": "The Police receive lower benefits and face higher risks than the Army; both are Afghan security forces.",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "The Police receive lower benefits and face higher risks in many places than the Army."
+  },
+  {
+   "source": "Afghan National Army",
+   "target": "Government of Afghanistan",
+   "type": "member_of",
+   "detail": "Afghan security forces are part of the Afghan government's responsibilities for security transition.",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "Afghan forces steadily assuming responsibility for security"
+  },
+  {
+   "source": "Afghan National Police",
+   "target": "Government of Afghanistan",
+   "type": "member_of",
+   "detail": "The ANP is important for extending the Afghan government's reach into villages and districts.",
+   "confidence": "inferred",
+   "timestamp": "p.3",
+   "quote": "Building an effective Afghan National Police, which is in many ways more crucial to extend the Afghan government's reach into villages and districts"
+  },
+  {
+   "source": "NATO-ISAF",
+   "target": "Afghan National Army",
+   "type": "trained_by",
+   "detail": "U.S. and NATO-ISAF forces would partner with and mentor Afghan security forces under the proposed strategy.",
+   "confidence": "inferred",
+   "timestamp": "p.4",
+   "quote": "The proposed counterinsurgency strategy calls for partnering in the field to quickly improve the Afghan security forces."
+  },
+  {
+   "source": "NATO-ISAF",
+   "target": "Iraq",
+   "type": "located_in",
+   "detail": "U.S. forces performed the mentoring mission ably in Iraq, an earlier theater.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "a mentoring mission, one that they have performed ably in Iraq."
+  },
+  {
+   "source": "United Nations",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "U.N. personnel were recently withdrawn from Afghanistan after an attack, reducing coordination capacity.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "recent post-attack withdrawal of U.N. personnel"
+  },
+  {
+   "source": "NATO-ISAF",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "NATO-ISAF troops do most of the fighting and take most casualties in Afghanistan.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "it is U.S. and other NATO-ISAF troops that will continue to do most of the fighting and take most of the casualties."
+  },
+  {
+   "source": "NATO-ISAF",
+   "target": "Afghan National Army",
+   "type": "other",
+   "detail": "Proposed COIN strategy calls for NATO-ISAF/U.S. forces to partner in the field with and mentor Afghan security forces, which Eikenberry says deepens dependency.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "The proposed counterinsurgency strategy calls for partnering in the field to quickly improve the Afghan security forces."
+  },
+  {
+   "source": "NATO-ISAF",
+   "target": "Afghan National Police",
+   "type": "other",
+   "detail": "Same partnering/mentoring of Afghan security forces, of which the ANP is a part.",
+   "confidence": "inferred",
+   "timestamp": "p.4",
+   "quote": "The proposed counterinsurgency strategy calls for partnering in the field to quickly improve the Afghan security forces."
+  },
+  {
+   "source": "Karl W. Eikenberry",
+   "target": "Hillary Clinton",
+   "type": "reports_to",
+   "detail": "Eikenberry addresses the memo to the Secretary of State and asks her to pass it to the White House.",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "Madame Secretary, I would ask that you pass this assessment to the White House, if you deem it appropriate"
+  },
+  {
+   "source": "Hamid Karzai",
+   "target": "NATO-ISAF",
+   "type": "other",
+   "detail": "Karzai exploits ambiguity over the U.S. versus ISAF commander roles in dealing with the Afghan government.",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "opens a seam that Karzai is quick to exploit"
+  },
+  {
+   "source": "Quetta Shura",
+   "target": "Pakistan",
+   "type": "located_in",
+   "detail": "Pakistani border sanctuaries are linked to the Quetta Shura's influence over southern Taliban strongholds; Pakistan military action does not address it.",
+   "confidence": "inferred",
+   "timestamp": "p.5",
+   "quote": "nor does the Pakistan military action address the role of the Quetta Shura, which has the most influence over the insurgency in southern Taliban strongholds"
+  },
+  {
+   "source": "Haqqani Network",
+   "target": "Pakistan",
+   "type": "located_in",
+   "detail": "The Haqqani network is tied to the Pakistani sanctuary problem that the offensive does not address.",
+   "confidence": "inferred",
+   "timestamp": "p.5",
+   "quote": "or the Haqqani network, the most lethal killer of allied troops and Afghan civilians."
+  },
+  {
+   "source": "Pakistan military",
+   "target": "Waziristan",
+   "type": "located_in",
+   "detail": "Pakistan military is conducting an offensive in Waziristan.",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "Pakistan's current military offensive in Waziristan"
+  },
+  {
+   "source": "Pakistan military",
+   "target": "Haqqani Network",
+   "type": "other",
+   "detail": "The Waziristan offensive does not address the Haqqani network.",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "Nor does the Pakistan military action address the role of the Quetta Shura"
+  },
+  {
+   "source": "Pakistan",
+   "target": "Afghanistan",
+   "type": "other",
+   "detail": "Pakistan is described as the greatest source of Afghan instability, favoring a weak neighbor.",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "Pakistan will remain the single greatest source of Afghan instability as long as the border sanctuaries remain"
+  },
+  {
+   "source": "United Nations",
+   "target": "Afghanistan",
+   "type": "other",
+   "detail": "Post-attack withdrawal of U.N. personnel will diminish the coordination capacity of the UN mission.",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "recent post-attack withdrawal of U.N. personnel"
+  },
+  {
+   "source": "Karl W. Eikenberry",
+   "target": "Principals Committee",
+   "type": "member_of",
+   "detail": "Eikenberry takes part in the SVTS Principals Committee discussion that evening.",
+   "confidence": "inferred",
+   "timestamp": "p.5",
+   "quote": "After our discussion at the SVTS Principal's Committee this evening"
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "Karzai is not an adequate strategic partner and will remain dominant after re-election.",
+  "Pakistan will remain the single greatest source of Afghan instability while border sanctuaries remain.",
+  "The Pakistani offensive in Waziristan does not address the Quetta Shura, which has the most influence over the southern insurgency.",
+  "The Haqqani network is the most lethal killer of allied troops and Afghan civilians.",
+  "Eikenberry cannot support an immediate presidential decision to deploy another 40,000 troops."
+ ]
+}

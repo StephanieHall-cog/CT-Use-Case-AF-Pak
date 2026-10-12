@@ -1,0 +1,494 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc43-1999-01-27-how-bin-ladin-commands-a-global-terrorist-network",
+  "title": "How Bin Ladin Commands a Global Terrorist Network (99-40003)",
+  "authors": "DCI Counterterrorism Center, CIA",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "1999-01-27",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7xbr-uusml/1999-01-27-how-bin-ladin-commands-a-global.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 15,
+  "kind": "intelligence report",
+  "note": "CTC intelligence report 99-40003 on how bin Laden commands a global terrorist network. Cited in 9/11 Commission Report Chapter 5, Endnote 118 and Chapter 6, Endnote 86.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 43",
+  "relevance": "high",
+  "ocr": 6
+ },
+ "persons": [
+  {
+   "name": "Usama Bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Usama bin Ladin",
+    "Bin Ladin"
+   ],
+   "role": "Amir (commander) of al-Qa'ida; chairs its Leadership Council; ultimate decisionmaker",
+   "organizations": [
+    "al-Qa'ida",
+    "World Islamic Front for Jihad Against the Jews and Crusaders"
+   ],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "Alive at the time of the report (Jan 1999); the report notes he was 'again compelled to move his headquarters'.",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "Usama Bin Ladin is the ultimate decisionmaker in the organization he calls al-Qa'ida or the \"Base.\""
+    },
+    {
+     "timestamp": "p.3",
+     "quote": "Bin Ladin is al-Qa'ida's amir, an Arabic Islamic term for \"commander,\""
+    },
+    {
+     "timestamp": "p.5",
+     "quote": "reflects his long-term effort to unite Islamic extremist groups under his banner."
+    }
+   ]
+  },
+  {
+   "name": "Muhammad 'Atif",
+   "aliases": [
+    "Abu Hafs the Egyptian",
+    "Muhammad Atef",
+    "Abu Hafs al-Masri"
+   ],
+   "role": "Deputy to Bin Ladin; manages day-to-day al-Qa'ida activities including terrorist operations",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "Egyptian",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.1",
+     "quote": "His deputy Muhammad 'Atif appears responsible for managing day-to-day activities, including terrorist operations."
+    },
+    {
+     "timestamp": "p.3",
+     "quote": "Muhammad 'Atif-also known as Abu Hafs the Egypti"
+    }
+   ]
+  },
+  {
+   "name": "Khalid Fawwaz",
+   "aliases": [
+    "Khaled al-Fawwaz"
+   ],
+   "role": "Bin Ladin's senior representative in London; handled media placements including Western journalists' interviews",
+   "organizations": [
+    "al-Qa'ida"
+   ],
+   "nationality_or_origin": "",
+   "status": "detained",
+   "status_detail": "Arrested in September 1998.",
+   "family": [],
+   "locations": [
+    "London"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.5",
+     "quote": "Khalid Fawwaz, Bin Ladin's senior representative in London until bis arrest last September"
+    },
+    {
+     "timestamp": "p.7",
+     "quote": "The posting ofkey Bin Ladin personnel, like Fawwiul"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "al-Qa'ida",
+   "aliases": [
+    "al-Qaeda",
+    "the Base"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Ittihad al-Islami",
+    "Chechen insurgents",
+    "Yemeni Islamic Jihad"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Founded by Bin Ladin to unite non-Afghan veterans of the Afghan war against the Soviets. Structured on paper with political, financial, administrative, legal, military, security and intelligence components. Network in some 60 countries."
+  },
+  {
+   "name": "Leadership Council",
+   "aliases": [
+    "Shura Council",
+    "shura (advisory) council"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qa'ida"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Makes major operational and budgetary decisions; the amir has the deciding vote."
+  },
+  {
+   "name": "Executive Council",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qa'ida"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Manages several committees."
+  },
+  {
+   "name": "Military Committee",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qa'ida"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Handles training of 'jihad youth' and combat operations."
+  },
+  {
+   "name": "World Islamic Front for Jihad Against the Jews and Crusaders",
+   "aliases": [
+    "World Islamic Front"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qa'ida"
+   ],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Formation announced in Bin Ladin's February (1998) fatwa; only a few groups signed."
+  },
+  {
+   "name": "al-Ittihad al-Islami",
+   "aliases": [
+    "Somali al-Ittihad al-Islami"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qa'ida"
+   ],
+   "rivals": [],
+   "country_base": "Somalia",
+   "notes": "Allied group."
+  },
+  {
+   "name": "Chechen insurgents",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qa'ida"
+   ],
+   "rivals": [],
+   "country_base": "Chechnya",
+   "notes": "Allied group."
+  },
+  {
+   "name": "Yemeni Islamic Jihad",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qa'ida"
+   ],
+   "rivals": [],
+   "country_base": "Yemen",
+   "notes": "Allied group."
+  },
+  {
+   "name": "DCI Counterterrorist Center",
+   "aliases": [
+    "CTC",
+    "DCI Counterterrorism Center"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "CIA"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Authors of the memorandum."
+  },
+  {
+   "name": "International Islamic NGOs",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Employees of a few branch offices diverted resources to benefit Bin Ladin and associates."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Base of al-Qa'ida's headquarters, training programs and lieutenants who direct operatives worldwide."
+  },
+  {
+   "name": "London",
+   "type": "city",
+   "country": "United Kingdom",
+   "parent": "United Kingdom",
+   "significance": "Location of Khalid Fawwaz, Bin Ladin's senior representative and media contact."
+  }
+ ],
+ "events": [
+  {
+   "date": "1998-02",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Bin Ladin issued a fatwa announcing formation of the World Islamic Front for Jihad Against the Jews and Crusaders.",
+   "place": "",
+   "actors": [
+    "Usama Bin Ladin",
+    "World Islamic Front for Jihad Against the Jews and Crusaders"
+   ],
+   "timestamp": "p.5"
+  },
+  {
+   "date": "1998-09",
+   "date_precision": "month",
+   "type": "arrest",
+   "description": "Khalid Fawwaz, Bin Ladin's London representative, was arrested.",
+   "place": "London",
+   "actors": [
+    "Khalid Fawwaz"
+   ],
+   "timestamp": "p.5"
+  },
+  {
+   "date": "1999-01-27",
+   "date_precision": "day",
+   "type": "other",
+   "description": "CTC intelligence report 99-40003 on Bin Ladin's command of al-Qa'ida produced.",
+   "place": "",
+   "actors": [
+    "DCI Counterterrorist Center"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1998-02",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Bin Ladin issued a fatwa announcing the World Islamic Front for Jihad Against the Jews and Crusaders.",
+   "place": "",
+   "actors": [
+    "Usama Bin Ladin",
+    "World Islamic Front for Jihad Against the Jews and Crusaders"
+   ],
+   "timestamp": "p.5"
+  },
+  {
+   "date": "1999-01-27",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "CIA DCI Counterterrorist Center issued the intelligence report on Bin Ladin's command of al-Qa'ida.",
+   "place": "",
+   "actors": [
+    "DCI Counterterrorist Center"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Usama Bin Ladin",
+   "target": "al-Qa'ida",
+   "type": "leads",
+   "detail": "Bin Ladin is amir of al-Qa'ida and members pledge loyalty to him personally.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Bin Ladin is the commander or \"amir\" of al-Qa'ida-members pledge loyalty to him personally"
+  },
+  {
+   "source": "Muhammad 'Atif",
+   "target": "Usama Bin Ladin",
+   "type": "deputy_of",
+   "detail": "'Atif is Bin Ladin's deputy and manages day-to-day activities.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "His deputy Muhammad 'Atif appears responsible for managing day-to-day activities"
+  },
+  {
+   "source": "Muhammad 'Atif",
+   "target": "al-Qa'ida",
+   "type": "member_of",
+   "detail": "Deputy and coordinator of operatives abroad.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "'Atif plays a central role in coordinatin the activities of Bin Ladin"
+  },
+  {
+   "source": "Khalid Fawwaz",
+   "target": "Usama Bin Ladin",
+   "type": "reports_to",
+   "detail": "Fawwaz served as Bin Ladin's senior representative in London.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "Khalid Fawwaz, Bin Ladin's senior representative in London"
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "Leadership Council",
+   "type": "leads",
+   "detail": "Bin Ladin or his deputy preside over the Leadership Council, where the amir has the deciding vote.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "Bin Ladin or his deputy preside over the .dehoerations of a shura ( advisory) council called the Leadership Council"
+  },
+  {
+   "source": "Military Committee",
+   "target": "Executive Council",
+   "type": "reports_to",
+   "detail": "The Executive Council manages several committees including the Military Committee.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.4",
+   "quote": "Executive Council manages several coIIlilllttees, notably incluclin~ a Militarv Committee"
+  },
+  {
+   "source": "al-Qa'ida",
+   "target": "al-Ittihad al-Islami",
+   "type": "allied_with",
+   "detail": "Informal alliance with shared members, funding and facilities.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "such as the Somali al-Ittihad al-Islami, Chechen insurgents, and the Yemeni Islamic Tth.ad"
+  },
+  {
+   "source": "al-Qa'ida",
+   "target": "Chechen insurgents",
+   "type": "allied_with",
+   "detail": "Allied group able to give logistical support.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "such as the Somali al-Ittihad al-Islami, Chechen insurgents, and the Yemeni Islamic Tth.ad"
+  },
+  {
+   "source": "al-Qa'ida",
+   "target": "Yemeni Islamic Jihad",
+   "type": "allied_with",
+   "detail": "Allied group.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "such as the Somali al-Ittihad al-Islami, Chechen insurgents, and the Yemeni Islamic Tth.ad"
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "World Islamic Front for Jihad Against the Jews and Crusaders",
+   "type": "leads",
+   "detail": "Bin Ladin's fatwa announced formation of the Front.",
+   "date": "1998-02",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "announced the formation of the •world Islamic Front for Tth.ad Against the Jews and Crusaders"
+  },
+  {
+   "source": "al-Qa'ida",
+   "target": "International Islamic NGOs",
+   "type": "funded_by",
+   "detail": "Bin Ladin taps NGO resources; employees of a few branches diverted resources to him.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.6",
+   "quote": "Bin Ladin taps into the resources of some international Islamic nongovernmental organizations (NGOs) for financial and logistical support."
+  },
+  {
+   "source": "Leadership Council",
+   "target": "al-Qa'ida",
+   "type": "member_of",
+   "detail": "The Leadership Council is a shura body within al-Qa'ida making major operational and budgetary decisions.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.3",
+   "quote": "preside over the deliberations of a shura (advisory) council called the Leadership Council"
+  },
+  {
+   "source": "Executive Council",
+   "target": "al-Qa'ida",
+   "type": "member_of",
+   "detail": "The Executive Council is part of al-Qa'ida's structure and manages committees.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "p.4",
+   "quote": "The Executive Council manages several committees"
+  },
+  {
+   "source": "Khalid Fawwaz",
+   "target": "London",
+   "type": "located_in",
+   "detail": "Fawwaz was based in London handling media placements.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "Khalid Fawwaz, Bin Ladin's senior representative in London"
+  },
+  {
+   "source": "al-Ittihad al-Islami",
+   "target": "al-Qa'ida",
+   "type": "funded_by",
+   "detail": "Allied groups receive funding from al-Qa'ida.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.5",
+   "quote": "Allied groups share some members with al-Qa'ida, receive funding from it"
+  },
+  {
+   "source": "Usama Bin Ladin",
+   "target": "International Islamic NGOs",
+   "type": "funded_by",
+   "detail": "Bin Ladin taps NGO resources for financial and logistical support; some branch employees diverted resources.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.6",
+   "quote": "Bin Ladin taps into the resources of some international Islamic nongovernmental organizations (NGOs) for financial and logistical support"
+  },
+  {
+   "source": "al-Qa'ida",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Al-Qa'ida runs training programs and lieutenants operate from Afghanistan.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Bin Ladin's lieutenants in Afghanistan pull the strings that move terrorist, military, and political operatives worldwide"
+  }
+ ],
+ "sources_cited": [],
+ "key_claims": [
+  "Bin Ladin is the ultimate decisionmaker in al-Qa'ida and is directly involved in planning terrorist operations.",
+  "Muhammad 'Atif (Abu Hafs the Egyptian) is Bin Ladin's deputy and manages day-to-day operations.",
+  "Al-Qa'ida is structured on paper like a mini-state, with a Leadership Council, an Executive Council and committees such as the Military Committee.",
+  "Al-Qa'ida's network in about 60 countries and its allied groups let it run more than one major operation at once.",
+  "Al-Qa'ida builds ties through Afghan training programs, aid to insurgent movements and exploitation of contacts in some Islamic NGOs.",
+  "Dispersed key personnel such as Khalid Fawwaz in London help the network regroup if Bin Ladin has to move his headquarters."
+ ]
+}

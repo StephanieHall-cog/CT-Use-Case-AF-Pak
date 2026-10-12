@@ -1,0 +1,172 @@
+{
+ "document": {
+  "doc_id": "nsa-ebb381-doc45-1999-03-16-title-excised-iraqi-delegation-excised-meet-with-u",
+  "title": "[Title Excised], Iraqi Delegation [Excised] Meet with Usama Bin Ladin in Afghanistan",
+  "authors": "Central Intelligence Agency",
+  "publisher": "National Security Archive (GWU), The Central Intelligence Agency 9/11 File: Hundreds of Secret Agency Documents on Osama Bin Laden Declassified",
+  "published": "1999-03-16",
+  "url": "https://nsarchive.gwu.edu/sites/default/files/documents/qx7xbr-uusml/1999-03-16-title-excised-iraqi-delegation.pdf",
+  "source_page": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB381/",
+  "pages": 4,
+  "kind": "intelligence report",
+  "note": "CIA intelligence report on an Iraqi delegation meeting with bin Laden in Afghanistan. Cited in 9/11 Commission Report Chapter 2, Endnote 75.",
+  "collection": "NSAEBB381",
+  "doc_number": "Document 45",
+  "relevance": "high",
+  "ocr": 3
+ },
+ "persons": [
+  {
+   "name": "Usama bin Ladin",
+   "aliases": [
+    "Osama bin Laden",
+    "Usama Bin Ladin"
+   ],
+   "role": "Jihadist leader who met an Iraqi delegation in Afghanistan, per the document's title",
+   "organizations": [],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "p.2",
+     "quote": "WITH USAMA of"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Issuer of the information report. It was disseminated to many US agencies and carries the warning 'not finally evaluated intelligence'."
+  },
+  {
+   "name": "Iraqi delegation",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Iraq",
+   "notes": "Named in the title as meeting Bin Ladin in Afghanistan. Further details are excised in this chunk."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Location of the meeting between an Iraqi delegation and Usama bin Ladin, per the title."
+  }
+ ],
+ "events": [
+  {
+   "date": "1999-03",
+   "date_precision": "month",
+   "type": "meeting",
+   "description": "Iraqi delegation reportedly met Usama bin Ladin in Afghanistan. The meeting was arranged through an Egyptian friend. Its stated main objective was to coordinate activities with anti-US Islamic extremist organizations. The exact meeting date is not legible and the report was transmitted 16 Mar 1999.",
+   "place": "Afghanistan",
+   "actors": [
+    "Usama bin Ladin",
+    "Iraqi delegation"
+   ],
+   "timestamp": "p.2"
+  },
+  {
+   "date": "approx 1999",
+   "date_precision": "approx",
+   "type": "meeting",
+   "description": "An Iraqi delegation met Usama bin Ladin in Afghanistan. The meeting was arranged through an Egyptian friend, and its objective was to coordinate activities with anti-US Islamic extremist organizations. The exact date is excised; the report is dated March 1999.",
+   "place": "Afghanistan",
+   "actors": [
+    "Iraqi delegation",
+    "Usama bin Ladin"
+   ],
+   "timestamp": "p.1"
+  },
+  {
+   "date": "1999-03-16",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "The CIA disseminated an information report on the Iraqi delegation's meeting with bin Ladin. The report is marked as not finally evaluated intelligence and carries the time-of-transmission stamp TOT 161436Z MAR 99.",
+   "place": "Washington DC",
+   "actors": [
+    "Central Intelligence Agency"
+   ],
+   "timestamp": "p.1"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Iraqi delegation",
+   "target": "Usama bin Ladin",
+   "type": "met_with",
+   "detail": "The title says an Iraqi delegation met Bin Ladin in Afghanistan. The meeting was reportedly arranged through an Egyptian friend and aimed to coordinate activities with anti-US Islamic extremist organizations.",
+   "date": "1999-03",
+   "confidence": "stated",
+   "timestamp": "p.2",
+   "quote": "MAIN OBJECTIVE OF THIS MEETING WAS TO COORDINATE ACTIVITIES WITH ANTI-UNITED STATES (U.S.) ISLAMIC EXTREMIST ORGANIZATIONS"
+  },
+  {
+   "source": "Iraqi delegation",
+   "target": "Usama bin Ladin",
+   "type": "met_with",
+   "detail": "The CIA report title states that an Iraqi delegation met with Usama bin Ladin in Afghanistan.",
+   "date": "1999",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Iraqi Delegation [Excised] Meet with Usama Bin Ladin in Afghanistan"
+  },
+  {
+   "source": "Usama bin Ladin",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "Bin Ladin is placed in Afghanistan as the host of the meeting with the Iraqi delegation.",
+   "date": "1999",
+   "confidence": "stated",
+   "timestamp": "p.1",
+   "quote": "Meet with Usama Bin Ladin in Afghanistan"
+  },
+  {
+   "source": "Iraqi delegation",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "The delegation traveled to or was in Afghanistan for the meeting. The location is inferred from the title.",
+   "date": "1999",
+   "confidence": "inferred",
+   "timestamp": "p.1",
+   "quote": "Iraqi Delegation [Excised] Meet with Usama Bin Ladin in Afghanistan"
+  },
+  {
+   "source": "Iraqi delegation",
+   "target": "Usama bin Ladin",
+   "type": "other",
+   "detail": "The stated main objective of the meeting was to coordinate activities with anti-US Islamic extremist organizations. The meeting was arranged through an unnamed Egyptian friend. The text is heavily garbled and redacted.",
+   "date": "1999",
+   "confidence": "inferred",
+   "timestamp": "p.2",
+   "quote": "HE MAIN OBJECTIVE OF THIS MEETING WAS TO COORDINATE ACTIVITIES WITH_ANTI-UNITED STATES (U.S.) ISLAMIC EXTRENTST ORGANIZATIONS"
+  }
+ ],
+ "sources_cited": [
+  "CIA information report, TOT 161436Z MAR 99"
+ ],
+ "key_claims": [
+  "A CIA report from March 1999 states that an Iraqi delegation met Usama bin Ladin in Afghanistan.",
+  "The meeting was reportedly arranged through an Egyptian friend.",
+  "The meeting's main objective was reportedly to coordinate activities with anti-US Islamic extremist organizations.",
+  "The report is unevaluated raw intelligence and is heavily excised in the declassified copy."
+ ]
+}
