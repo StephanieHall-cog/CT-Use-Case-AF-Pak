@@ -1,0 +1,1816 @@
+{
+ "episode": {
+  "idx": 57,
+  "title": "Episode 56 — The Resurrection of the Islamic Emirate of Afghanistan",
+  "published": "Thu, 16 Sep 2021 22:19:09 +0000",
+  "guid": "2ef671a5-5a54-46a8-b369-371bacd3f33f"
+ },
+ "persons": [
+  {
+   "name": "Mullah Mohammad Omar",
+   "aliases": [
+    "Mullah Omar",
+    "Muul Omar",
+    "Mul Amar",
+    "Bul Omar"
+   ],
+   "role": "Taliban founder; amir of the first Islamic Emirate",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "dead",
+   "status_detail": "Described as the Taliban's founder, now advertised as the ultimate victor",
+   "family": [
+    {
+     "relation": "son",
+     "name": "Mullah Yaqoob"
+    }
+   ],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "03:07",
+     "quote": "blame American policy, which, by the way, was Mullah Omar's talking point 20 years ago"
+    },
+    {
+     "timestamp": "21:16",
+     "quote": "advertising not just Muul Omar, its founder, as the ultimate victor"
+    },
+    {
+     "timestamp": "52:33",
+     "quote": "Mul Amar on September 26, 2001, defiantly claiming saying that he wasn't going to turn over bin Laden. And this was a matter for Islam's prestige."
+    }
+   ]
+  },
+  {
+   "name": "Mullah Yaqoob",
+   "aliases": [
+    "Mullah Yakub",
+    "Mullah Mohammad Yaqub"
+   ],
+   "role": "Son of Mullah Omar; senior Taliban figure",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "",
+   "family": [
+    {
+     "relation": "father",
+     "name": "Mullah Mohammad Omar"
+    }
+   ],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "44:21",
+     "quote": "Mullah Yakub, Mullah Omar's son... he was a jihadist 20 years ago"
+    }
+   ]
+  },
+  {
+   "name": "Osama bin Laden",
+   "aliases": [
+    "Bin Laden",
+    "Osama"
+   ],
+   "role": "al-Qaeda founder",
+   "organizations": [
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "dead",
+   "status_detail": "Killed by the US (hosts say 'they got bin Laden')",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "03:40",
+     "quote": "harboring bin Laden and refusing to turn him over more than 30 times"
+    },
+    {
+     "timestamp": "47:35",
+     "quote": "we're not going to turn over Osama at any price"
+    },
+    {
+     "timestamp": "47:35",
+     "quote": "we're not going to turn over Osama at any price"
+    },
+    {
+     "timestamp": "48:55",
+     "quote": "I mean, they got bin Laden."
+    },
+    {
+     "timestamp": "52:39",
+     "quote": "saying that he wasn't going to turn over bin Laden"
+    }
+   ]
+  },
+  {
+   "name": "Jalaluddin Haqqani",
+   "aliases": [
+    "Jalalid and Akani",
+    "Jalaladin Akani",
+    "Jalalidan"
+   ],
+   "role": "Haqqani Network founder; bin Laden's first benefactor in the region",
+   "organizations": [
+    "Haqqani Network",
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "dead",
+   "status_detail": "Status not stated in this chunk; celebrated on Taliban billboards",
+   "family": [
+    {
+     "relation": "brother",
+     "name": "Khalil Haqqani"
+    },
+    {
+     "relation": "brother",
+     "name": "Ibrahim Haqqani"
+    },
+    {
+     "relation": "son",
+     "name": "Sirajuddin Haqqani"
+    }
+   ],
+   "locations": [
+    "Kabul"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "21:41",
+     "quote": "advertised Jalaladin Akani, who was one of Bin Laden's... first benefactor"
+    },
+    {
+     "timestamp": "31:51",
+     "quote": "uncle, brother of Jalalidan"
+    }
+   ]
+  },
+  {
+   "name": "Sirajuddin Haqqani",
+   "aliases": [
+    "Siraj Hakani",
+    "Saraj Akhani",
+    "Sarjudh Nakani",
+    "Serjan Nakani"
+   ],
+   "role": "Taliban deputy emir since 2015; interior minister in the new regime; up to $10M US reward",
+   "organizations": [
+    "Taliban",
+    "Haqqani Network"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "Interior minister in the 2021 Taliban government",
+   "family": [
+    {
+     "relation": "uncle",
+     "name": "Khalil Haqqani"
+    },
+    {
+     "relation": "father",
+     "name": "Jalaluddin Haqqani"
+    }
+   ],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "26:29",
+     "quote": "has literally been the deputy emir of the Taliban's Islamic Emirate since 2015. He's now the interior minister"
+    },
+    {
+     "timestamp": "28:13",
+     "quote": "$10 million reward"
+    }
+   ]
+  },
+  {
+   "name": "Khalil Haqqani",
+   "aliases": [
+    "Khalil Akani",
+    "Khalil Khadhi",
+    "Cleo O'Khani",
+    "Khalil al-Rahman Haqqani"
+   ],
+   "role": "Taliban minister of refugees; US-designated terrorist; Haqqani elder",
+   "organizations": [
+    "Haqqani Network",
+    "Taliban",
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "Victory tour across Afghanistan after the takeover",
+   "family": [
+    {
+     "relation": "uncle",
+     "name": "Sirajuddin Haqqani"
+    },
+    {
+     "relation": "brother",
+     "name": "Jalaluddin Haqqani"
+    },
+    {
+     "relation": "brother",
+     "name": "Ibrahim Haqqani"
+    }
+   ],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "31:51",
+     "quote": "Sirajuddin's uncle, brother of Jalaluddin... new minister of refugees"
+    },
+    {
+     "timestamp": "32:15",
+     "quote": "designation was that he was working with al-Qaeda very closely"
+    }
+   ]
+  },
+  {
+   "name": "Ibrahim Haqqani",
+   "aliases": [
+    "Ibrahim Akani",
+    "Muhammad Ibrahim Omari",
+    "Abraham-Mahani"
+   ],
+   "role": "Haqqani leader; key mediator/guarantor of the 2010 ransom payment to al-Qaeda",
+   "organizations": [
+    "Haqqani Network",
+    "Taliban",
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "UN-sanctioned since early 2001",
+   "family": [
+    {
+     "relation": "brother",
+     "name": "Khalil Haqqani"
+    },
+    {
+     "relation": "brother",
+     "name": "Jalaluddin Haqqani"
+    }
+   ],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "33:15",
+     "quote": "He is Khalil's brother... Muhammad Ibrahim Omari"
+    },
+    {
+     "timestamp": "33:59",
+     "quote": "identified in the bin Laden files as the key guarantor of a transaction"
+    }
+   ]
+  },
+  {
+   "name": "Taj Mir Jawad",
+   "aliases": [
+    "Militaj Mirj Wah"
+   ],
+   "role": "Haqqani Network leader; former head of Kabul attack network; first deputy of intelligence in the new Taliban government",
+   "organizations": [
+    "Haqqani Network",
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "Not UN-designated, per hosts",
+   "family": [],
+   "locations": [
+    "Kabul"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "35:13",
+     "quote": "leader of what the U.S. military used to call the Kabul attack network"
+    },
+    {
+     "timestamp": "35:52",
+     "quote": "first deputy of intelligence in the new Taliban government"
+    }
+   ]
+  },
+  {
+   "name": "Abdul Haq Wasiq",
+   "aliases": [
+    "Abdulahq Wasek"
+   ],
+   "role": "Acting director of intelligence in the new Taliban regime; ex-Guantanamo detainee",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "Released from Guantanamo 2014 in the Bergdahl exchange; UN-sanctioned since early 2001",
+   "family": [],
+   "locations": [
+    "Nimroz",
+    "Kandahar"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "38:44",
+     "quote": "deputy minister of security intelligence during the Taliban's first regime"
+    },
+    {
+     "timestamp": "39:22",
+     "quote": "in charge of handling relations with al-Qaeda-related foreign fighters and their training camps"
+    }
+   ]
+  },
+  {
+   "name": "Mohammad Fazl",
+   "aliases": [
+    "Mohamed Fasel",
+    "Fasal",
+    "Fasl"
+   ],
+   "role": "Deputy defense minister (pre-9/11 and again in 2021); ex-Guantanamo detainee",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "Released in 2014 Bergdahl exchange; suspected of war crimes pre-9/11",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "40:03",
+     "quote": "deputy defense minister pre-9-11. He's deputy defense minister again"
+    },
+    {
+     "timestamp": "40:24",
+     "quote": "Fasal coordinated with Abdel Hadeo-Aa-A-Raki"
+    }
+   ]
+  },
+  {
+   "name": "Khairullah Khairkhwa",
+   "aliases": [
+    "Karula Karqua",
+    "Carolla Keroua",
+    "Keroua"
+   ],
+   "role": "Former top confidant of Mullah Omar and governor of Herat; ex-Guantanamo detainee",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "Released in 2014 Bergdahl exchange; sanctioned by UN in 2001",
+   "family": [],
+   "locations": [
+    "Herat"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "41:31",
+     "quote": "top confidate of Mool Omar prior to 9-11... governor in the Harat province"
+    },
+    {
+     "timestamp": "41:44",
+     "quote": "brokered the deal with the Iranian government to work together against America"
+    }
+   ]
+  },
+  {
+   "name": "Noorullah Noori",
+   "aliases": [
+    "Nurun Nauri"
+   ],
+   "role": "Acting minister of borders and tribal affairs; ex-Guantanamo detainee",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "Released in 2014 Bergdahl exchange; suspected of pre-9/11 war crimes",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "42:09",
+     "quote": "acting minister of borders and tribal affairs"
+    },
+    {
+     "timestamp": "42:30",
+     "quote": "fought alongside al-Qaeda... hosted al-Qaeda commanders"
+    }
+   ]
+  },
+  {
+   "name": "Mohammad Nabi Omari",
+   "aliases": [
+    "Mahabha Nabi Omari"
+   ],
+   "role": "Governor of Khost province; ex-Guantanamo detainee; close associate of Jalaluddin Haqqani",
+   "organizations": [
+    "Taliban",
+    "Haqqani Network"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "Released in 2014 Bergdahl exchange",
+   "family": [
+    {
+     "relation": "son",
+     "name": "Abdul Haq Omari"
+    }
+   ],
+   "locations": [
+    "Khost"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "42:46",
+     "quote": "governor in the coast province... close associate of Jalalana Khani"
+    },
+    {
+     "timestamp": "43:00",
+     "quote": "worked as part of this joint al-Qaeda Taliban cell"
+    }
+   ]
+  },
+  {
+   "name": "Abdul Haq Omari",
+   "aliases": [
+    "Abdul Haq (son of Mohammad Nabi Omari)"
+   ],
+   "role": "Taliban fighter",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "dead",
+   "status_detail": "Killed in fighting in Khost in July 2021; celebrated as a martyr on Voice of Jihad",
+   "family": [
+    {
+     "relation": "father",
+     "name": "Mohammad Nabi Omari"
+    }
+   ],
+   "locations": [
+    "Khost"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "43:02",
+     "quote": "his son, Abdul-Hawk, was actually killed during fighting in Coast in July"
+    }
+   ]
+  },
+  {
+   "name": "Bowe Bergdahl",
+   "aliases": [
+    "Bo Bergdahl"
+   ],
+   "role": "US soldier who deserted his post; held by the Haqqanis",
+   "organizations": [],
+   "nationality_or_origin": "American",
+   "status": "released",
+   "status_detail": "Exchanged for five Guantanamo detainees in 2014",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "37:47",
+     "quote": "traded or exchanged for Bo Bergdahl, an American soldier who deserted his post"
+    },
+    {
+     "timestamp": "37:54",
+     "quote": "Bergdahl was then held by the Akonis"
+    }
+   ]
+  },
+  {
+   "name": "Amin al-Haq",
+   "aliases": [
+    "Dr. Amin Al-Hak",
+    "Dr. Amin al-Haq"
+   ],
+   "role": "al-Qaeda security chief in Tora Bora and earlier",
+   "organizations": [
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "Escorted home to Nangarhar by the Taliban in a military convoy after the takeover",
+   "family": [],
+   "locations": [
+    "Nangarhar",
+    "Tora Bora"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "19:36",
+     "quote": "al-Qaeda's security chief in Torabura... escorted by the Taliban in a military convoy"
+    }
+   ]
+  },
+  {
+   "name": "Abdul Hadi al-Iraqi",
+   "aliases": [
+    "Abdel Hadeo-Aa-A-Raki"
+   ],
+   "role": "Top lieutenant of bin Laden",
+   "organizations": [
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Iraqi",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "40:24",
+     "quote": "Fasal coordinated with Abdel Hadeo-Aa-A-Raki, who was a top lieutenant for bin Laden to launch the offensive against the Northern Alliance"
+    }
+   ]
+  },
+  {
+   "name": "Ahmad Shah Massoud",
+   "aliases": [
+    "Ahmed Shah Masood"
+   ],
+   "role": "Northern Alliance commander",
+   "organizations": [
+    "Northern Alliance"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "dead",
+   "status_detail": "Killed by al-Qaeda on 9 September 2001",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "40:24",
+     "quote": "al-Qaeda killed Ahmed Shah Masood on September 9th, 2001"
+    }
+   ]
+  },
+  {
+   "name": "Mohammad Hassan Akhund",
+   "aliases": [
+    "Hassan Akun",
+    "Hassan Akhund",
+    "Akun"
+   ],
+   "role": "Head of state (prime minister) of the new Taliban regime; former foreign minister",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "named head of the Taliban's government in September 2021",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "47:17",
+     "quote": "the guy is Hassan Akun"
+    },
+    {
+     "timestamp": "47:35",
+     "quote": "no, we're not going to turn over Osama at any price"
+    },
+    {
+     "timestamp": "47:16",
+     "quote": "But the guy is Hassan Akun."
+    },
+    {
+     "timestamp": "47:28",
+     "quote": "Akun in 1999, when the U.N. said, turnover bin Laden or you face sanctions to the Taliban, Akun was the guy who came out and said, you know, no, we're not going to turn over Osama at any price."
+    },
+    {
+     "timestamp": "47:48",
+     "quote": "he was foreign minister, he held these other positions in the Taliban's first regime and now he's back"
+    }
+   ]
+  },
+  {
+   "name": "Anthony Blinken",
+   "aliases": [
+    "Antony Blinken"
+   ],
+   "role": "US Secretary of State",
+   "organizations": [
+    "US government"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "04:44",
+     "quote": "Secretary of State Anthony Blinken is talking about their counterterrorism commitments"
+    }
+   ]
+  },
+  {
+   "name": "Mark Esper",
+   "aliases": [
+    "Mark Espery"
+   ],
+   "role": "Former US Secretary of Defense; fired Nov 2020",
+   "organizations": [
+    "US government"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "10:03",
+     "quote": "Mark Espery, gets fired in November of last year"
+    }
+   ]
+  },
+  {
+   "name": "Christopher Miller",
+   "aliases": [
+    "Chris Miller"
+   ],
+   "role": "Former acting US Secretary of Defense; ex-NCTC director",
+   "organizations": [
+    "US government"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "17:11",
+     "quote": "Chris Miller, who was the acting defense secretary"
+    }
+   ]
+  },
+  {
+   "name": "Lloyd Austin",
+   "aliases": [],
+   "role": "US Secretary of Defense",
+   "organizations": [
+    "US government"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "18:17",
+     "quote": "before Lloyd Austin comes in for the Biden administration"
+    }
+   ]
+  },
+  {
+   "name": "Mike Pompeo",
+   "aliases": [],
+   "role": "Former US Secretary of State",
+   "organizations": [
+    "US government"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "18:34",
+     "quote": "Secretary Pompeo said, the Taliban will work with us to destroy al-Qaeda"
+    }
+   ]
+  },
+  {
+   "name": "Ned Price",
+   "aliases": [],
+   "role": "US State Department spokesman",
+   "organizations": [
+    "US government"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "23:25",
+     "quote": "Ned Price comes out... and says, the Akhanis and the Taliban are separate"
+    }
+   ]
+  },
+  {
+   "name": "John Kirby",
+   "aliases": [],
+   "role": "Pentagon spokesman",
+   "organizations": [
+    "US government"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "26:18",
+     "quote": "Kirby... there's a certain amount of commingling there"
+    }
+   ]
+  },
+  {
+   "name": "Kenneth McKenzie",
+   "aliases": [
+    "General McKenzie"
+   ],
+   "role": "US CENTCOM commander",
+   "organizations": [
+    "US military"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "07:39",
+     "quote": "General McKenzie said recently, he called them our Afghan partners"
+    }
+   ]
+  },
+  {
+   "name": "Michael Flynn",
+   "aliases": [
+    "General Flynn"
+   ],
+   "role": "Former US general who promoted Taliban pragmatism view circa 2009",
+   "organizations": [
+    "US military"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "05:45",
+     "quote": "this even started way back... with General Flynn"
+    }
+   ]
+  },
+  {
+   "name": "John Nicholson",
+   "aliases": [
+    "Nicholson"
+   ],
+   "role": "Former US commander in Afghanistan",
+   "organizations": [
+    "US military"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "15:00",
+     "quote": "military leaders like Nicholson and General Miller were leaning on negotiated solutions"
+    }
+   ]
+  },
+  {
+   "name": "Austin Scott Miller",
+   "aliases": [
+    "General Miller"
+   ],
+   "role": "Former US commander in Afghanistan",
+   "organizations": [
+    "US military"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "15:00",
+     "quote": "Nicholson and General Miller were leaning on negotiated solutions"
+    }
+   ]
+  },
+  {
+   "name": "Donald Trump",
+   "aliases": [
+    "President Trump"
+   ],
+   "role": "Former US president; signed the Doha deal",
+   "organizations": [
+    "US government"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "29:36",
+     "quote": "he set the conditions for this debacle and he shares blame"
+    }
+   ]
+  },
+  {
+   "name": "Joe Biden",
+   "aliases": [
+    "President Biden"
+   ],
+   "role": "US president; executed the withdrawal",
+   "organizations": [
+    "US government"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "29:50",
+     "quote": "President Biden's execution of the withdrawal was horrific"
+    }
+   ]
+  },
+  {
+   "name": "Barack Obama",
+   "aliases": [
+    "President Obama"
+   ],
+   "role": "Former US president",
+   "organizations": [
+    "US government"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "16:32",
+     "quote": "even the Obama administration walked away from those talks"
+    }
+   ]
+  },
+  {
+   "name": "George W. Bush",
+   "aliases": [
+    "Bush"
+   ],
+   "role": "Former US president",
+   "organizations": [
+    "US government"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "12:09",
+     "quote": "I have a lot of criticism of the Bush administration handling of Afghanistan"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Taliban",
+   "aliases": [
+    "Islamic Emirate of Afghanistan",
+    "Islamic Emirate 2.0"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Haqqani Network",
+    "al-Qaeda"
+   ],
+   "rivals": [
+    "ISKP",
+    "Afghan government",
+    "Islamic State"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Retook Afghanistan in Aug 2021; cabinet largely made up of figures from the 1996-2001 regime; cites the Doha deal to shield its leaders from US action."
+  },
+  {
+   "name": "Haqqani Network",
+   "aliases": [
+    "Haqqanis",
+    "Akhanis"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban",
+    "al-Qaeda"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Integral part of the Taliban and al-Qaeda's closest ally; held Bowe Bergdahl; Haqqanis hold senior posts in the new cabinet."
+  },
+  {
+   "name": "al-Qaeda",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban",
+    "Haqqani Network"
+   ],
+   "rivals": [
+    "ISKP",
+    "Islamic State"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Hosts say it is embedded in the Taliban, including training Taliban suicide bombers and special forces."
+  },
+  {
+   "name": "Islamic State",
+   "aliases": [
+    "ISIS",
+    "ISKP"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [
+    "Taliban",
+    "al-Qaeda"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "US officials focused on ISIS while ignoring al-Qaeda."
+  },
+  {
+   "name": "Kabul attack network",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Haqqani Network",
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "US military term for the Haqqani-led network pooling Taliban, al-Qaeda, IMU, TIP and TTP resources for attacks on Kabul hotels, US sites, NGOs and schools."
+  },
+  {
+   "name": "Islamic Movement of Uzbekistan",
+   "aliases": [
+    "IMU"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda",
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Resources in the Kabul area used by the Kabul attack network."
+  },
+  {
+   "name": "Turkistan Islamic Party",
+   "aliases": [
+    "TIP"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda",
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Part of the Kabul attack network's resource pool."
+  },
+  {
+   "name": "Tehrik-i-Taliban Pakistan",
+   "aliases": [
+    "TTP",
+    "Tehrik-e-Taliban Pakistan"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Part of the Kabul attack network's resource pool."
+  },
+  {
+   "name": "Northern Alliance",
+   "aliases": [],
+   "type": "militia",
+   "parent_or_allies": [],
+   "rivals": [
+    "Taliban",
+    "al-Qaeda"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Opposed by Taliban and al-Qaeda before 9/11."
+  },
+  {
+   "name": "Radio Television Afghanistan",
+   "aliases": [
+    "RTA"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Taliban-controlled state broadcaster that aired the third 'Victorious Force' installment."
+  },
+  {
+   "name": "United Nations Security Council 1267 sanctions",
+   "aliases": [
+    "UN sanctions"
+   ],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Sanctioned several now-ministers in early 2001."
+  },
+  {
+   "name": "Pakistani state",
+   "aliases": [
+    "Pakistan",
+    "Government of Pakistan"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Described as the Taliban's prime supporter and ally; leaders sheltered in Pakistan."
+  },
+  {
+   "name": "Joint Task Force Guantanamo",
+   "aliases": [
+    "JTF Gitmo"
+   ],
+   "type": "military",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Cuba",
+   "notes": "Its assessments are cited on the five ex-detainees."
+  },
+  {
+   "name": "United Nations",
+   "aliases": [
+    "U.N."
+   ],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Threatened the Taliban with sanctions in 1999 if it did not turn over bin Laden."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Retaken by the Taliban in 2021.",
+   "aliases": []
+  },
+  {
+   "name": "Kabul",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Billboards honoring the Haqqanis; target of the Kabul attack network.",
+   "aliases": []
+  },
+  {
+   "name": "Nangarhar",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Dr. Amin al-Haq returned here under Taliban escort.",
+   "aliases": []
+  },
+  {
+   "name": "Tora Bora",
+   "type": "region",
+   "country": "Afghanistan",
+   "parent": "Nangarhar",
+   "significance": "Where Amin al-Haq served as al-Qaeda security chief.",
+   "aliases": []
+  },
+  {
+   "name": "Khost",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Nabi Omari is governor; his son was killed fighting here in July 2021.",
+   "aliases": []
+  },
+  {
+   "name": "Herat",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Khairkhwa was governor here.",
+   "aliases": []
+  },
+  {
+   "name": "Nimroz",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Wasiq was a local commander here.",
+   "aliases": []
+  },
+  {
+   "name": "Kandahar",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Wasiq was a local commander here.",
+   "aliases": []
+  },
+  {
+   "name": "Doha",
+   "type": "city",
+   "country": "Qatar",
+   "parent": "Qatar",
+   "significance": "Site of the Feb 2020 US-Taliban deal and the earlier failed talks.",
+   "aliases": []
+  },
+  {
+   "name": "Guantanamo Bay",
+   "type": "base",
+   "country": "Cuba",
+   "parent": "Cuba",
+   "significance": "Held the five Taliban figures later swapped for Bergdahl.",
+   "aliases": []
+  },
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Safe haven and prime supporter of the Taliban.",
+   "aliases": []
+  },
+  {
+   "name": "Miranshah",
+   "type": "town",
+   "country": "Pakistan",
+   "parent": "North Waziristan",
+   "significance": "Named as a place where Taliban leaders could have been killed.",
+   "aliases": []
+  },
+  {
+   "name": "Quetta",
+   "type": "city",
+   "country": "Pakistan",
+   "parent": "Balochistan",
+   "significance": "Named as a Taliban leadership sanctuary.",
+   "aliases": []
+  },
+  {
+   "name": "Rawalpindi",
+   "type": "city",
+   "country": "Pakistan",
+   "parent": "Punjab",
+   "significance": "Named as a place where Taliban leaders could have been targeted.",
+   "aliases": []
+  },
+  {
+   "name": "Islamabad",
+   "type": "city",
+   "country": "Pakistan",
+   "parent": "Pakistan",
+   "significance": "Named as a place where Taliban leaders could have been targeted.",
+   "aliases": []
+  },
+  {
+   "name": "Iran",
+   "type": "country",
+   "country": "Iran",
+   "parent": "",
+   "significance": "Taliban leaders fled here; Khairkhwa brokered a deal with the Iranian government.",
+   "aliases": []
+  }
+ ],
+ "events": [
+  {
+   "date": "1998",
+   "date_precision": "year",
+   "type": "attack",
+   "description": "al-Qaeda US embassy bombings, after which Hassan Akhund made statements",
+   "place": "East Africa",
+   "actors": [
+    "al-Qaeda",
+    "Mohammad Hassan Akhund"
+   ],
+   "timestamp": "47:23"
+  },
+  {
+   "date": "1999",
+   "date_precision": "year",
+   "type": "statement",
+   "description": "Hassan Akhund says the Taliban will not turn over bin Laden after UN sanctions threat",
+   "place": "Afghanistan",
+   "actors": [
+    "Mohammad Hassan Akhund",
+    "Taliban",
+    "Osama bin Laden"
+   ],
+   "timestamp": "47:35"
+  },
+  {
+   "date": "2001-01",
+   "date_precision": "month",
+   "type": "designation",
+   "description": "UN sanctions four of the five future Guantanamo swap detainees (January or February 2001)",
+   "place": "",
+   "actors": [
+    "United Nations Security Council 1267 sanctions"
+   ],
+   "timestamp": "40:55"
+  },
+  {
+   "date": "2001-09-09",
+   "date_precision": "day",
+   "type": "death",
+   "description": "al-Qaeda kills Ahmad Shah Massoud; Fazl then coordinates with Abdul Hadi al-Iraqi on an offensive against the Northern Alliance",
+   "place": "Afghanistan",
+   "actors": [
+    "al-Qaeda",
+    "Ahmad Shah Massoud",
+    "Mohammad Fazl",
+    "Abdul Hadi al-Iraqi"
+   ],
+   "timestamp": "40:24"
+  },
+  {
+   "date": "2001",
+   "date_precision": "year",
+   "type": "agreement",
+   "description": "Khairkhwa brokers a deal with the Iranian government to work together against America after the invasion (late 2001)",
+   "place": "Iran",
+   "actors": [
+    "Khairullah Khairkhwa"
+   ],
+   "timestamp": "41:44"
+  },
+  {
+   "date": "2010",
+   "date_precision": "year",
+   "type": "other",
+   "description": "al-Qaeda ransom exchange for an Afghan ambassador yields $5 million; Ibrahim Haqqani identified as key guarantor/mediator",
+   "place": "",
+   "actors": [
+    "al-Qaeda",
+    "Ibrahim Haqqani"
+   ],
+   "timestamp": "33:47"
+  },
+  {
+   "date": "2014",
+   "date_precision": "year",
+   "type": "release",
+   "description": "Five Guantanamo detainees exchanged for Bowe Bergdahl, held by the Haqqanis",
+   "place": "Guantanamo Bay",
+   "actors": [
+    "Abdul Haq Wasiq",
+    "Mohammad Fazl",
+    "Khairullah Khairkhwa",
+    "Noorullah Noori",
+    "Mohammad Nabi Omari",
+    "Bowe Bergdahl",
+    "Haqqani Network"
+   ],
+   "timestamp": "37:47"
+  },
+  {
+   "date": "2019-07",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Taliban video saying the US deserved 9/11, released during talks with the Trump administration",
+   "place": "",
+   "actors": [
+    "Taliban"
+   ],
+   "timestamp": "06:53"
+  },
+  {
+   "date": "2020-02",
+   "date_precision": "month",
+   "type": "agreement",
+   "description": "Doha agreement signed between the Trump administration and the Taliban",
+   "place": "Doha",
+   "actors": [
+    "Taliban",
+    "Donald Trump"
+   ],
+   "timestamp": "04:40"
+  },
+  {
+   "date": "2020-11",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Mark Esper fired as Secretary of Defense",
+   "place": "",
+   "actors": [
+    "Mark Esper",
+    "Donald Trump"
+   ],
+   "timestamp": "10:03"
+  },
+  {
+   "date": "2021-07",
+   "date_precision": "month",
+   "type": "death",
+   "description": "Abdul Haq, son of Mohammad Nabi Omari, killed in fighting in Khost and celebrated by the Taliban",
+   "place": "Khost",
+   "actors": [
+    "Abdul Haq Omari",
+    "Mohammad Nabi Omari",
+    "Taliban"
+   ],
+   "timestamp": "43:07"
+  },
+  {
+   "date": "approx 2021-08",
+   "date_precision": "approx",
+   "type": "travel",
+   "description": "Dr. Amin al-Haq escorted by the Taliban in a military convoy to his home in Nangarhar",
+   "place": "Nangarhar",
+   "actors": [
+    "Amin al-Haq",
+    "Taliban"
+   ],
+   "timestamp": "19:36"
+  },
+  {
+   "date": "approx 2021-09",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "Taliban air the third 'Victorious Force' installment on RTA, gloating over 9/11 and blaming America",
+   "place": "Afghanistan",
+   "actors": [
+    "Taliban",
+    "Radio Television Afghanistan"
+   ],
+   "timestamp": "02:29"
+  },
+  {
+   "date": "approx 2021-09",
+   "date_precision": "approx",
+   "type": "appointment",
+   "description": "New Taliban cabinet named with Hassan Akhund as head of state, Sirajuddin Haqqani as interior minister, Khalil Haqqani as refugees minister, Wasiq as intelligence director, Noori and Fazl in senior roles, Nabi Omari as Khost governor",
+   "place": "Kabul",
+   "actors": [
+    "Taliban",
+    "Mohammad Hassan Akhund",
+    "Sirajuddin Haqqani",
+    "Khalil Haqqani",
+    "Abdul Haq Wasiq",
+    "Mohammad Fazl",
+    "Noorullah Noori",
+    "Mohammad Nabi Omari",
+    "Taj Mir Jawad"
+   ],
+   "timestamp": "34:52"
+  },
+  {
+   "date": "1999",
+   "date_precision": "year",
+   "type": "statement",
+   "description": "Amid UN sanctions threats, Hassan Akhund said the Taliban would not turn over bin Laden at any price.",
+   "place": "Afghanistan",
+   "actors": [
+    "Mohammad Hassan Akhund",
+    "Taliban",
+    "United Nations"
+   ],
+   "timestamp": "47:28"
+  },
+  {
+   "date": "2001-09-26",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Mullah Omar defiantly refused to turn over bin Laden, calling it a matter of Islam's prestige.",
+   "place": "Afghanistan",
+   "actors": [
+    "Mullah Mohammad Omar",
+    "Taliban"
+   ],
+   "timestamp": "52:33"
+  },
+  {
+   "date": "2001-09-11",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "9/11 attacks killing about 3,000 Americans; hosts recorded the episode on September 10, 2021.",
+   "place": "United States",
+   "actors": [
+    "al-Qaeda"
+   ],
+   "timestamp": "50:08"
+  },
+  {
+   "date": "2021-09",
+   "date_precision": "approx",
+   "type": "appointment",
+   "description": "Hassan Akhund became head of state of the Taliban's regime, a promotion from his previous foreign minister post.",
+   "place": "Afghanistan",
+   "actors": [
+    "Mohammad Hassan Akhund",
+    "Taliban"
+   ],
+   "timestamp": "47:44"
+  },
+  {
+   "date": "2021-09",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "A Taliban spokesman recently said there was no evidence that bin Laden or al-Qaeda was responsible for 9/11.",
+   "place": "",
+   "actors": [
+    "Taliban"
+   ],
+   "timestamp": "53:09"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Khalil Haqqani",
+   "target": "Jalaluddin Haqqani",
+   "type": "family",
+   "detail": "Khalil is Jalaluddin's brother.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "31:51",
+   "quote": "uncle, brother of Jalalidan"
+  },
+  {
+   "source": "Khalil Haqqani",
+   "target": "Sirajuddin Haqqani",
+   "type": "family",
+   "detail": "Khalil is Sirajuddin's uncle.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "31:51",
+   "quote": "Sirajuddin's uncle"
+  },
+  {
+   "source": "Ibrahim Haqqani",
+   "target": "Khalil Haqqani",
+   "type": "family",
+   "detail": "Ibrahim is Khalil's brother.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "33:15",
+   "quote": "He is Khalil's brother"
+  },
+  {
+   "source": "Ibrahim Haqqani",
+   "target": "Jalaluddin Haqqani",
+   "type": "family",
+   "detail": "Ibrahim is also Jalaluddin's brother.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "33:20",
+   "quote": "he's also a brother of Jalaladin Akani"
+  },
+  {
+   "source": "Mullah Yaqoob",
+   "target": "Mullah Mohammad Omar",
+   "type": "family",
+   "detail": "Yaqub is Mullah Omar's son.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "44:21",
+   "quote": "Mullah Yakub, Mullah Omar's son"
+  },
+  {
+   "source": "Mohammad Nabi Omari",
+   "target": "Abdul Haq Omari",
+   "type": "family",
+   "detail": "Father-son; the son was killed in Khost in July 2021.",
+   "date": "2021-07",
+   "confidence": "stated",
+   "timestamp": "43:02",
+   "quote": "his son, Abdul-Hawk, was actually killed during fighting in Coast in July"
+  },
+  {
+   "source": "Sirajuddin Haqqani",
+   "target": "Taliban",
+   "type": "leads",
+   "detail": "Deputy emir since 2015 and now interior minister.",
+   "date": "2015",
+   "confidence": "stated",
+   "timestamp": "26:29",
+   "quote": "deputy emir of the Taliban's Islamic Emirate since 2015"
+  },
+  {
+   "source": "Khalil Haqqani",
+   "target": "al-Qaeda",
+   "type": "allied_with",
+   "detail": "US designation says he worked closely with al-Qaeda on military operations.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "32:15",
+   "quote": "he was working with al-Qaeda very closely in their military operations"
+  },
+  {
+   "source": "Ibrahim Haqqani",
+   "target": "al-Qaeda",
+   "type": "funded_by",
+   "detail": "Key mediator and guarantor in the 2010 ransom that put $5M into al-Qaeda's coffers.",
+   "date": "2010",
+   "confidence": "stated",
+   "timestamp": "34:01",
+   "quote": "key mediator... making sure this money got into al-Qaeda's coffers"
+  },
+  {
+   "source": "Taj Mir Jawad",
+   "target": "Haqqani Network",
+   "type": "member_of",
+   "detail": "Haqqani Network leader who led the Kabul attack network.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "35:56",
+   "quote": "He's a Hikani network leader"
+  },
+  {
+   "source": "Taj Mir Jawad",
+   "target": "Abdul Haq Wasiq",
+   "type": "deputy_of",
+   "detail": "Jawad is first deputy of intelligence under Wasiq, the acting director.",
+   "date": "2021",
+   "confidence": "stated",
+   "timestamp": "36:46",
+   "quote": "his boss, who's the new acting director of intelligence"
+  },
+  {
+   "source": "Abdul Haq Wasiq",
+   "target": "al-Qaeda",
+   "type": "allied_with",
+   "detail": "Per UN, handled relations with al-Qaeda-linked foreign fighters and their camps pre-9/11.",
+   "date": "2001",
+   "confidence": "stated",
+   "timestamp": "39:22",
+   "quote": "handling relations with al-Qaeda-related foreign fighters and their training camps"
+  },
+  {
+   "source": "Mohammad Fazl",
+   "target": "Abdul Hadi al-Iraqi",
+   "type": "met_with",
+   "detail": "Coordinated an offensive against the Northern Alliance after Massoud's killing.",
+   "date": "2001-09",
+   "confidence": "stated",
+   "timestamp": "40:24",
+   "quote": "Fasal coordinated with Abdel Hadeo-Aa-A-Raki"
+  },
+  {
+   "source": "al-Qaeda",
+   "target": "Ahmad Shah Massoud",
+   "type": "killed",
+   "detail": "al-Qaeda killed Massoud on 9 Sept 2001.",
+   "date": "2001-09-09",
+   "confidence": "stated",
+   "timestamp": "40:24",
+   "quote": "al-Qaeda killed Ahmed Shah Masood on September 9th, 2001"
+  },
+  {
+   "source": "Khairullah Khairkhwa",
+   "target": "Iran",
+   "type": "negotiated_with",
+   "detail": "Brokered a deal with the Iranian government to work together against America after the 2001 invasion.",
+   "date": "2001",
+   "confidence": "stated",
+   "timestamp": "41:44",
+   "quote": "brokered the deal with the Iranian government to work together against America"
+  },
+  {
+   "source": "Noorullah Noori",
+   "target": "al-Qaeda",
+   "type": "allied_with",
+   "detail": "Fought alongside al-Qaeda against the Northern Alliance and hosted al-Qaeda commanders.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "42:30",
+   "quote": "fought alongside al-Qaeda... hosted al-Qaeda commanders"
+  },
+  {
+   "source": "Mohammad Nabi Omari",
+   "target": "Jalaluddin Haqqani",
+   "type": "allied_with",
+   "detail": "Close associate of Jalaluddin Haqqani and part of a joint al-Qaeda-Taliban cell.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "42:53",
+   "quote": "close associate of Jalalana Khani"
+  },
+  {
+   "source": "Haqqani Network",
+   "target": "Bowe Bergdahl",
+   "type": "captured",
+   "detail": "The Haqqanis held Bergdahl until the 2014 exchange.",
+   "date": "2014",
+   "confidence": "stated",
+   "timestamp": "37:54",
+   "quote": "Bergdahl was then held by the Akonis"
+  },
+  {
+   "source": "Amin al-Haq",
+   "target": "Taliban",
+   "type": "sheltered_by",
+   "detail": "Escorted home to Nangarhar by a Taliban military convoy.",
+   "date": "2021",
+   "confidence": "stated",
+   "timestamp": "19:47",
+   "quote": "escorted by the Taliban in a military convoy and a celebratory return"
+  },
+  {
+   "source": "Amin al-Haq",
+   "target": "al-Qaeda",
+   "type": "member_of",
+   "detail": "al-Qaeda security chief in Tora Bora and earlier.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "19:36",
+   "quote": "al-Qaeda's security chief in Torabura and prior"
+  },
+  {
+   "source": "Mohammad Hassan Akhund",
+   "target": "Taliban",
+   "type": "leads",
+   "detail": "Head of state of the new regime.",
+   "date": "2021",
+   "confidence": "stated",
+   "timestamp": "47:39",
+   "quote": "He's now the head of state"
+  },
+  {
+   "source": "Jalaluddin Haqqani",
+   "target": "Osama bin Laden",
+   "type": "other",
+   "detail": "Described as bin Laden's first benefactor in the region.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "21:41",
+   "quote": "bin Laden's first benefactor in the region"
+  },
+  {
+   "source": "Taliban",
+   "target": "Pakistani state",
+   "type": "sheltered_by",
+   "detail": "Taliban leaders fled to Pakistan and Iran and waited out the US; Pakistan is the Taliban's prime supporter.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "44:38",
+   "quote": "the Taliban leadership fled to Pakistan and Iran"
+  },
+  {
+   "source": "Taliban",
+   "target": "al-Qaeda",
+   "type": "allied_with",
+   "detail": "Hosts say the Taliban is in bed with al-Qaeda; al-Qaeda trainers are embedded with Taliban suicide units.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "20:06",
+   "quote": "al-Qaeda's trainers and mentors are all embedded"
+  },
+  {
+   "source": "Mullah Mohammad Omar",
+   "target": "Osama bin Laden",
+   "type": "sheltered_by",
+   "detail": "Omar refused to hand over bin Laden after 9/11, effectively sheltering him.",
+   "date": "2001-09-26",
+   "confidence": "inferred",
+   "timestamp": "52:39",
+   "quote": "he wasn't going to turn over bin Laden"
+  },
+  {
+   "source": "Mohammad Hassan Akhund",
+   "target": "Osama bin Laden",
+   "type": "allied_with",
+   "detail": "In 1999 he publicly refused to give up bin Laden.",
+   "date": "1999",
+   "confidence": "stated",
+   "timestamp": "47:35",
+   "quote": "no, we're not going to turn over Osama at any price"
+  },
+  {
+   "source": "al-Qaeda",
+   "target": "Islamic State",
+   "type": "rival_of",
+   "detail": "The Islamic State is described as al-Qaeda's equally deadly rival.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "50:01",
+   "quote": "You have a rival in the Islamic state, which is equally as deadly."
+  }
+ ],
+ "sources_cited": [
+  "Doha Agreement (Feb 2020)",
+  "UN Security Council 1267 sanctions listings (early 2001)",
+  "Bin Laden files (Abbottabad documents)",
+  "US District Court habeas corpus ruling on Khairkhwa",
+  "Joint Task Force Guantanamo detainee assessments",
+  "Taliban 'Victorious Force' video series, third installment",
+  "Taliban July 2019 video on 9/11",
+  "US Treasury/State designations of Haqqani leaders"
+ ],
+ "key_claims": [
+  "The Taliban uses the Doha agreement to argue the US cannot target Sirajuddin Haqqani, Khalil Haqqani or other leaders.",
+  "The Haqqani Network is an integral part of the Taliban and al-Qaeda's closest ally, so US claims that the two are separate are ignorance or lies.",
+  "The new Taliban cabinet is largely the old 1996-2001 regime; 17 of 33 ministers were UN-sanctioned, mostly before 9/11.",
+  "Five ex-Guantanamo detainees swapped for Bergdahl in 2014 now hold senior posts, and all had al-Qaeda ties before 9/11.",
+  "The Taliban were defeated on the battlefield in 2001-02 but never strategically defeated because their senior and religious leaders survived.",
+  "The Taliban's 2021 cabinet is full of old personalities, such as Hassan Akhund, who is now head of state.",
+  "Hassan Akhund defended refusing to hand over bin Laden in 1999 and held several posts in the first regime.",
+  "The Taliban remain al-Qaeda's closest ally, and claims that they were willing to negotiate over bin Laden in 2001 are false.",
+  "The Taliban still claim there is no evidence that bin Laden or al-Qaeda was responsible for 9/11.",
+  "Al-Qaeda and the Islamic State share the same goals and operate in more regions, so the US war on terror was a strategic failure despite tactical wins."
+ ]
+}

@@ -1,0 +1,1383 @@
+{
+ "episode": {
+  "idx": 281,
+  "title": "Syria's George Washington?",
+  "published": "Wed, 12 Nov 2025 22:45:36 +0000",
+  "guid": "1dc9c661-b8b7-4f7e-9bce-162cc364e43e"
+ },
+ "persons": [
+  {
+   "name": "Ahmed al-Sharaa",
+   "aliases": [
+    "Abu Muhammad al-Julani",
+    "Jolani",
+    "Jalani",
+    "Shara",
+    "Sharra",
+    "Sharro"
+   ],
+   "role": "Self-appointed president of Syria since ousting Assad in Dec 2024; formerly Abu Muhammad al-Julani, head of al-Qaeda's Syrian branch ('and may still be'); ran a sharia-based government in Idlib; visited the White House; refused to denounce 9/11",
+   "organizations": [
+    "Al-Nusra Front",
+    "Hayat Tahrir al-Sham",
+    "Syrian government",
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Syrian",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Syria",
+    "Idlib",
+    "Washington DC"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "00:00",
+     "quote": "He's now known as Ahmed al-Shara, he used to be known as Abu Muhammad al-Julani, he used to be the head of al-Qaeda's branch in Syria, and he still actually may be so today"
+    },
+    {
+     "timestamp": "00:48",
+     "quote": "Shara took control of Syria and appointed himself president. Last December, after ousting Bashar al-Assad"
+    },
+    {
+     "timestamp": "06:21",
+     "quote": "His governance in Idlib was an Islamic state government. That was a Shariah-based government"
+    },
+    {
+     "timestamp": "22:09",
+     "quote": "this is a guy who was basically responsible for the creation of the Islamic State... by his dispute with Abu Bakr al-Baghdadi"
+    },
+    {
+     "timestamp": "24:23",
+     "quote": "he did that while sitting in a room with two top al-Qaeda leaders who approved. Al-Qaeda approved those statements from Jalani slash Shara"
+    },
+    {
+     "timestamp": "24:23",
+     "quote": "what did you think about 9-11? He said, oh, well, it was only 19 at the time... He couldn't denounce 9-11"
+    }
+   ]
+  },
+  {
+   "name": "Bashar al-Assad",
+   "aliases": [],
+   "role": "Longtime Syrian dictator ousted in Dec 2024; enthusiastic client of Tehran and the smuggling route to Hezbollah",
+   "organizations": [
+    "Assad regime"
+   ],
+   "nationality_or_origin": "Syrian",
+   "status": "alive",
+   "status_detail": "Ousted Dec 2024",
+   "family": [],
+   "locations": [
+    "Syria"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "00:48",
+     "quote": "after ousting Bashar al-Assad, the longtime dictator of Syria, and who was responsible for the bloody civil war"
+    },
+    {
+     "timestamp": "26:58",
+     "quote": "the Assad regime was an enthusiastic partner or client of Tehran and was the route for all of the smuggling to Hezbollah"
+    }
+   ]
+  },
+  {
+   "name": "Donald Trump",
+   "aliases": [],
+   "role": "US president who 'seems to love' Sharaa and hosted him at the White House; love of the strongman",
+   "organizations": [
+    "US government"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Washington DC"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "01:31",
+     "quote": "President Trump seems to love this guy, why he likes a jihadist that's beyond me"
+    },
+    {
+     "timestamp": "33:36",
+     "quote": "the president's love of the strong man... I like this guy. He looked me in the eye"
+    }
+   ]
+  },
+  {
+   "name": "Brad Cooper",
+   "aliases": [
+    "Admiral Cooper"
+   ],
+   "role": "CENTCOM commander (Admiral Cooper) filmed playing basketball with Sharaa",
+   "organizations": [
+    "CENTCOM"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "First name not given in episode; identification inferred",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "01:31",
+     "quote": "video of the commander of Sentcom, Admiral Cooper playing basketball with Shara"
+    }
+   ]
+  },
+  {
+   "name": "Abu Bakr al-Baghdadi",
+   "aliases": [],
+   "role": "Islamic State leader whose 2013-14 dispute with Jolani over control of the Syrian jihad split al-Qaeda",
+   "organizations": [
+    "Islamic State"
+   ],
+   "nationality_or_origin": "Iraqi",
+   "status": "dead",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Syria",
+    "Iraq"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "22:09",
+     "quote": "his dispute with Abu Bakr al-Baghdadi over who controlled the jihad in Syria could cause the division that caused Zawahiri to eject the Islamic State"
+    }
+   ]
+  },
+  {
+   "name": "Ayman al-Zawahiri",
+   "aliases": [],
+   "role": "al-Qaeda emir who ejected Baghdadi's Islamic State and sided with Jolani",
+   "organizations": [
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Egyptian",
+   "status": "dead",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "22:09",
+     "quote": "the division that caused Zawahiri to eject the Islamic State, Abu Bakr al-Baghdadi and his cadre... Zawahiri sided with Shara"
+    }
+   ]
+  },
+  {
+   "name": "Abu Musab al-Suri",
+   "aliases": [
+    "Abu Mishab al-Suri"
+   ],
+   "role": "Jihadist theorist who wrote for years against fitna (division) within the jihad",
+   "organizations": [
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Syrian",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "22:53",
+     "quote": "the fitna between the jihadists that's what... Abu Mishab al-Suri wrote about, you know, for years"
+    }
+   ]
+  },
+  {
+   "name": "Hibatullah Akhundzada",
+   "aliases": [
+    "Hebutler"
+   ],
+   "role": "Taliban supreme leader; unrepentant extremist who does not engage with infidels, will not leave his bunker; no American talks to him",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Kandahar"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "19:41",
+     "quote": "the power resides with the supreme leader and... no American is talking to Hibatullah"
+    },
+    {
+     "timestamp": "20:30",
+     "quote": "Hibatullah doesn't engage with infidels and would not even dream of leaving his... bunker to talk to any American"
+    },
+    {
+     "timestamp": "21:19",
+     "quote": "Hibatullah himself is just an absolutely unrepentant extremist"
+    }
+   ]
+  },
+  {
+   "name": "Sirajuddin Haqqani",
+   "aliases": [
+    "Sirajadine Hakkani"
+   ],
+   "role": "Taliban figure described as a shrewd operator who speaks the language of Western interlocutors; 'an opportunist, sophisticated thug'",
+   "organizations": [
+    "Haqqani Network",
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "19:41",
+     "quote": "shrewd operators like Sirajadine Hakkani who know how to... speak a language that is understood by Western interlocutors... he's just an opportunist, sophisticated thug"
+    }
+   ]
+  },
+  {
+   "name": "Abdul Ghani Baradar",
+   "aliases": [],
+   "role": "Taliban negotiator who 'charmed people in Doha' and would have gone to the US to sign in Trump's first term",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Doha"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "20:30",
+     "quote": "It would have been his minions who would have gone. It would have been Baradar"
+    }
+   ]
+  },
+  {
+   "name": "Sher Mohammad Abbas Stanikzai",
+   "aliases": [
+    "Stanek Zai"
+   ],
+   "role": "Taliban Doha negotiator ('Stanek Zai') who charmed Western interlocutors",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Doha"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "20:30",
+     "quote": "all of those characters, Stanek Zai, who were sort of charming people in Doha"
+    }
+   ]
+  },
+  {
+   "name": "Zalmay Khalilzad",
+   "aliases": [
+    "Zalmaikalizade"
+   ],
+   "role": "US envoy to whom the Taliban whispered promises on women's rights",
+   "organizations": [
+    "US State Department"
+   ],
+   "nationality_or_origin": "Afghan-American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Doha"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "19:41",
+     "quote": "that's the stuff that they whispered to Zalmaikalizade and Mike Pompeo"
+    }
+   ]
+  },
+  {
+   "name": "Mike Pompeo",
+   "aliases": [],
+   "role": "US Secretary of State to whom the Taliban whispered promises",
+   "organizations": [
+    "US State Department"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "19:41",
+     "quote": "they whispered to Zalmaikalizade and Mike Pompeo"
+    }
+   ]
+  },
+  {
+   "name": "Recep Tayyip Erdogan",
+   "aliases": [
+    "Edwan"
+   ],
+   "role": "Turkish president with ambitions in Syria; praised Sharaa in the White House",
+   "organizations": [
+    "Turkish government"
+   ],
+   "nationality_or_origin": "Turkish",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Turkey"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "30:10",
+     "quote": "are they simply a cat's paw for Erdogan's ambitions in Syria?"
+    },
+    {
+     "timestamp": "34:21",
+     "quote": "what did Erdogan say in the White House about Shara"
+    }
+   ]
+  },
+  {
+   "name": "Mohammed bin Salman",
+   "aliases": [
+    "MBS"
+   ],
+   "role": "Saudi crown prince visiting Washington 'next week'; expected to be soft on Sharaa but wary of his jihadi tendency",
+   "organizations": [
+    "Saudi government"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Washington DC"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "34:21",
+     "quote": "Mohammed bin Salman is coming to Washington next week"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Syrian government",
+   "aliases": [
+    "Shara's coalition",
+    "Syrian authorities"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Hayat Tahrir al-Sham",
+    "Turkistan Islamic Party",
+    "Turkish government",
+    "Qatari government"
+   ],
+   "rivals": [
+    "Islamic State",
+    "Israeli government"
+   ],
+   "country_base": "Syria",
+   "notes": "Sharaa's self-created government; several key leaders are US/UN-designated al-Qaeda members; foreign fighters appointed into the military; massacres of Alawites and Druze by coalition members"
+  },
+  {
+   "name": "Al-Nusra Front",
+   "aliases": [
+    "al-Qaeda's branch in Syria"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda"
+   ],
+   "rivals": [
+    "Islamic State"
+   ],
+   "country_base": "Syria",
+   "notes": "Jolani headed al-Qaeda's Syrian branch"
+  },
+  {
+   "name": "Hayat Tahrir al-Sham",
+   "aliases": [
+    "HTS"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Syrian government"
+   ],
+   "rivals": [],
+   "country_base": "Syria",
+   "notes": "Sharaa's coalition that ruled Idlib under sharia (not named explicitly in episode)"
+  },
+  {
+   "name": "al-Qaeda",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban",
+    "Tehrik-i-Taliban Pakistan",
+    "Turkistan Islamic Party"
+   ],
+   "rivals": [
+    "Islamic State"
+   ],
+   "country_base": "Afghanistan/Pakistan",
+   "notes": "Approved Jolani's 'distancing' statement; TIP's Afghanistan-based leader sits on its executive shura"
+  },
+  {
+   "name": "Islamic State",
+   "aliases": [
+    "ISIS",
+    "IS"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [
+    "al-Qaeda",
+    "Taliban",
+    "Syrian government"
+   ],
+   "country_base": "Iraq/Syria",
+   "notes": "Created out of the Jolani–Baghdadi dispute; present in both Syria and Afghanistan"
+  },
+  {
+   "name": "Turkistan Islamic Party",
+   "aliases": [
+    "TIP",
+    "ETIM",
+    "Uyghur extremists"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda",
+    "Syrian government"
+   ],
+   "rivals": [
+    "Chinese government"
+   ],
+   "country_base": "Syria/Afghanistan",
+   "notes": "Thousands of fighters loyal to al-Qaeda integrated into the Syrian military as a division; Syria branch reports to leader in Afghanistan who is on al-Qaeda's executive shura (UN Monitoring Team)"
+  },
+  {
+   "name": "Taliban",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda",
+    "Tehrik-i-Taliban Pakistan"
+   ],
+   "rivals": [
+    "Islamic State"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Broke promise that Afghan soil would not be used against other countries; US acted as its air force against ISIS 2015-19"
+  },
+  {
+   "name": "Tehrik-i-Taliban Pakistan",
+   "aliases": [
+    "TTP",
+    "Pakistani Taliban"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban",
+    "al-Qaeda"
+   ],
+   "rivals": [
+    "Pakistani state"
+   ],
+   "country_base": "Afghanistan/Pakistan",
+   "notes": "Afghan Taliban actively support its cross-border operations and al-Qaeda's engagement with it"
+  },
+  {
+   "name": "Assad regime",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Iranian government",
+    "Hezbollah",
+    "Russian government"
+   ],
+   "rivals": [],
+   "country_base": "Syria",
+   "notes": "Client of Tehran; smuggling route to Hezbollah; training ground for Iraqi Shia militias; ousted Dec 2024"
+  },
+  {
+   "name": "Iranian government",
+   "aliases": [
+    "Tehran"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Assad regime",
+    "Hezbollah",
+    "Iraqi Shia militias"
+   ],
+   "rivals": [
+    "Syrian government",
+    "Israeli government"
+   ],
+   "country_base": "Iran",
+   "notes": "Lost Syria — its biggest blow of the last two years"
+  },
+  {
+   "name": "Hezbollah",
+   "aliases": [],
+   "type": "militia",
+   "parent_or_allies": [
+    "Iranian government"
+   ],
+   "rivals": [
+    "Israeli government"
+   ],
+   "country_base": "Lebanon",
+   "notes": "Smuggling route through Assad's Syria now shut"
+  },
+  {
+   "name": "Iraqi Shia militias",
+   "aliases": [
+    "Iraqi extremist militias"
+   ],
+   "type": "militia",
+   "parent_or_allies": [
+    "Iranian government"
+   ],
+   "rivals": [
+    "Israeli government"
+   ],
+   "country_base": "Iraq",
+   "notes": "Cut their teeth in Syria preparing to be 'another Hezbollah'"
+  },
+  {
+   "name": "UN Monitoring Team",
+   "aliases": [
+    "UN analytical support and sanctions monitoring team"
+   ],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Reported TIP Syria branch reports directly to its Afghanistan-based leader"
+  },
+  {
+   "name": "CENTCOM",
+   "aliases": [
+    "Sentcom"
+   ],
+   "type": "military",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Commander played basketball with Sharaa"
+  },
+  {
+   "name": "Anti-ISIS international coalition",
+   "aliases": [
+    "Global Coalition"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "United States"
+   ],
+   "rivals": [
+    "Islamic State"
+   ],
+   "country_base": "",
+   "notes": "Syria joined as a limited/partial member with conditions"
+  },
+  {
+   "name": "Kurdish forces",
+   "aliases": [
+    "the Kurds",
+    "SDF"
+   ],
+   "type": "militia",
+   "parent_or_allies": [
+    "United States"
+   ],
+   "rivals": [
+    "Turkish government"
+   ],
+   "country_base": "Syria",
+   "notes": "Former US counterterrorism allies whose fate under Sharaa is a concern"
+  },
+  {
+   "name": "Israeli government",
+   "aliases": [
+    "Israel"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "United States"
+   ],
+   "rivals": [
+    "Syrian government",
+    "Iranian government",
+    "Hezbollah"
+   ],
+   "country_base": "Israel",
+   "notes": "Occupies Golan Heights and strategic ground inside Syria; seeks exclusion zone in SW Syria"
+  },
+  {
+   "name": "Turkish government",
+   "aliases": [
+    "the Turks"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Syrian government"
+   ],
+   "rivals": [
+    "Kurdish forces"
+   ],
+   "country_base": "Turkey",
+   "notes": "Risk of turning Syria into a client state"
+  },
+  {
+   "name": "Qatari government",
+   "aliases": [
+    "the Qataris"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Syrian government"
+   ],
+   "rivals": [],
+   "country_base": "Qatar",
+   "notes": "Singing Sharaa's praises in Washington"
+  },
+  {
+   "name": "Saudi government",
+   "aliases": [
+    "the Saudis"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "United States"
+   ],
+   "rivals": [],
+   "country_base": "Saudi Arabia",
+   "notes": "Favour Syria's reintegration, loathed Assad, but wary of jihadis"
+  },
+  {
+   "name": "Chinese government",
+   "aliases": [
+    "China"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [
+    "Turkistan Islamic Party"
+   ],
+   "country_base": "China",
+   "notes": "Abstained on UN resolution lifting sanctions on Sharaa and his former deputy"
+  },
+  {
+   "name": "Alawite community",
+   "aliases": [
+    "Alawites",
+    "Aloites"
+   ],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Syria",
+   "notes": "Victims of Latakia massacre directed, per Reuters, from Sharaa's defense ministry"
+  },
+  {
+   "name": "Druze community",
+   "aliases": [
+    "Druze"
+   ],
+   "type": "other",
+   "parent_or_allies": [
+    "Israeli government"
+   ],
+   "rivals": [],
+   "country_base": "Syria",
+   "notes": "Victims of massacre by Sharaa's coalition; Israeli Druze feel the threat"
+  }
+ ],
+ "places": [
+  {
+   "name": "Syria",
+   "type": "country",
+   "country": "Syria",
+   "parent": "",
+   "significance": "Sharaa's takeover; 'second phase of the civil war'",
+   "aliases": []
+  },
+  {
+   "name": "Idlib",
+   "type": "province",
+   "country": "Syria",
+   "parent": "Syria",
+   "significance": "Sharaa's earlier sharia-based government",
+   "aliases": []
+  },
+  {
+   "name": "Latakia",
+   "type": "province",
+   "country": "Syria",
+   "parent": "Syria",
+   "significance": "Alawite massacre directed by Sharaa's defense ministry per Reuters",
+   "aliases": []
+  },
+  {
+   "name": "Washington DC",
+   "type": "city",
+   "country": "United States",
+   "parent": "United States",
+   "significance": "Sharaa's White House visit; MBS visit next week",
+   "aliases": []
+  },
+  {
+   "name": "Golan Heights",
+   "type": "region",
+   "country": "Israel/Syria",
+   "parent": "",
+   "significance": "Israel intends to hold it; jihadists could never accept",
+   "aliases": []
+  },
+  {
+   "name": "Southwestern Syria",
+   "type": "region",
+   "country": "Syria",
+   "parent": "Syria",
+   "significance": "Israeli-sought exclusion zone / strategic ground occupied by Israel",
+   "aliases": []
+  },
+  {
+   "name": "Lebanon",
+   "type": "country",
+   "country": "Lebanon",
+   "parent": "",
+   "significance": "Iran's access via Syria shut down",
+   "aliases": []
+  },
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Comparison case; TIP leader based there; Taliban supporting TTP",
+   "aliases": []
+  },
+  {
+   "name": "Nangarhar",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "US served as the Taliban's air force against ISIS there, 2015-19",
+   "aliases": []
+  },
+  {
+   "name": "Kabul",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Taliban walked in within two years of the end of US-Taliban anti-ISIS cooperation",
+   "aliases": []
+  },
+  {
+   "name": "Doha",
+   "type": "city",
+   "country": "Qatar",
+   "parent": "Qatar",
+   "significance": "Where Baradar and Stanikzai charmed Western interlocutors",
+   "aliases": []
+  },
+  {
+   "name": "Iraq",
+   "type": "country",
+   "country": "Iraq",
+   "parent": "",
+   "significance": "Iraqi Shia militias' remaining sphere",
+   "aliases": []
+  },
+  {
+   "name": "Turkey",
+   "type": "country",
+   "country": "Turkey",
+   "parent": "",
+   "significance": "Erdogan's ambitions in Syria",
+   "aliases": []
+  },
+  {
+   "name": "Algeria",
+   "type": "country",
+   "country": "Algeria",
+   "parent": "",
+   "significance": "'Lessons of Algeria' on intra-jihadist fitna",
+   "aliases": []
+  },
+  {
+   "name": "Kazakhstan",
+   "type": "country",
+   "country": "Kazakhstan",
+   "parent": "",
+   "significance": "Just joined the Abraham Accords",
+   "aliases": []
+  }
+ ],
+ "events": [
+  {
+   "date": "2024-12",
+   "date_precision": "month",
+   "type": "offensive",
+   "description": "Sharaa's coalition ousted Bashar al-Assad; Sharaa appointed himself president.",
+   "place": "Syria",
+   "actors": [
+    "Ahmed al-Sharaa",
+    "Bashar al-Assad"
+   ],
+   "timestamp": "00:48"
+  },
+  {
+   "date": "2025-11",
+   "date_precision": "approx",
+   "type": "meeting",
+   "description": "Sharaa visited Washington/the White House ('just the other day'); met members of Congress; filmed playing basketball with CENTCOM commander Adm. Cooper.",
+   "place": "Washington DC",
+   "actors": [
+    "Ahmed al-Sharaa",
+    "Donald Trump",
+    "Brad Cooper"
+   ],
+   "timestamp": "01:31"
+  },
+  {
+   "date": "2025-11",
+   "date_precision": "approx",
+   "type": "agreement",
+   "description": "Syria agreed a limited, conditional membership of the anti-ISIS coalition; nothing on peace with Israel or enforceable minority guarantees.",
+   "place": "Washington DC",
+   "actors": [
+    "Syrian government",
+    "Anti-ISIS international coalition"
+   ],
+   "timestamp": "08:30"
+  },
+  {
+   "date": "2025",
+   "date_precision": "approx",
+   "type": "attack",
+   "description": "Massacre of Alawites in Latakia; Reuters investigation found Sharaa's people including his defense ministry ordered and directed it; no one punished.",
+   "place": "Latakia",
+   "actors": [
+    "Syrian government",
+    "Alawite community"
+   ],
+   "timestamp": "15:26"
+  },
+  {
+   "date": "2025",
+   "date_precision": "approx",
+   "type": "attack",
+   "description": "Massacre of Druze by members of Sharaa's coalition; second massacre in his first eight months.",
+   "place": "Syria",
+   "actors": [
+    "Syrian government",
+    "Druze community"
+   ],
+   "timestamp": "04:39"
+  },
+  {
+   "date": "2025-11",
+   "date_precision": "approx",
+   "type": "designation",
+   "description": "UN resolution lifting sanctions on Sharaa and his former deputy passed; China abstained.",
+   "place": "",
+   "actors": [
+    "Ahmed al-Sharaa",
+    "Chinese government"
+   ],
+   "timestamp": "38:29"
+  },
+  {
+   "date": "2025",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Six-month extension of the suspension of US sanctions on Syria; sanctions not yet gone.",
+   "place": "",
+   "actors": [
+    "United States",
+    "Syrian government"
+   ],
+   "timestamp": "29:20"
+  },
+  {
+   "date": "2013",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Jolani's dispute with Baghdadi over control of the Syrian jihad (2013-14) split the movement; Zawahiri ejected the Islamic State and sided with Jolani.",
+   "place": "Syria",
+   "actors": [
+    "Ahmed al-Sharaa",
+    "Abu Bakr al-Baghdadi",
+    "Ayman al-Zawahiri"
+   ],
+   "timestamp": "22:09"
+  },
+  {
+   "date": "2015",
+   "date_precision": "approx",
+   "type": "strike",
+   "description": "US unofficially served as the Taliban's air force against the Islamic State in Nangarhar and surrounding provinces, c. 2015-2019.",
+   "place": "Nangarhar",
+   "actors": [
+    "United States",
+    "Taliban",
+    "Islamic State"
+   ],
+   "timestamp": "13:55"
+  },
+  {
+   "date": "2021-08",
+   "date_precision": "approx",
+   "type": "offensive",
+   "description": "Within two years of the end of US-Taliban anti-ISIS cooperation the Taliban walked into Kabul.",
+   "place": "Kabul",
+   "actors": [
+    "Taliban"
+   ],
+   "timestamp": "14:44"
+  },
+  {
+   "date": "2025",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "Interviewed about 9/11, Sharaa said he was only 19 and that it was sad innocent people died; refused to denounce it.",
+   "place": "",
+   "actors": [
+    "Ahmed al-Sharaa"
+   ],
+   "timestamp": "24:23"
+  },
+  {
+   "date": "2025",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "Sharaa said it is premature to seek a peace agreement with Israel.",
+   "place": "",
+   "actors": [
+    "Ahmed al-Sharaa",
+    "Israeli government"
+   ],
+   "timestamp": "42:32"
+  },
+  {
+   "date": "2025-11",
+   "date_precision": "approx",
+   "type": "meeting",
+   "description": "Mohammed bin Salman due in Washington 'next week' to meet Trump; Syria on the agenda.",
+   "place": "Washington DC",
+   "actors": [
+    "Mohammed bin Salman",
+    "Donald Trump"
+   ],
+   "timestamp": "34:21"
+  },
+  {
+   "date": "2025-11",
+   "date_precision": "approx",
+   "type": "agreement",
+   "description": "Kazakhstan joined the Abraham Accords.",
+   "place": "Kazakhstan",
+   "actors": [
+    "Kazakhstan"
+   ],
+   "timestamp": "43:17"
+  },
+  {
+   "date": "2025",
+   "date_precision": "approx",
+   "type": "appointment",
+   "description": "Sharaa appointed foreign fighters, including a TIP division, into the Syrian military.",
+   "place": "Syria",
+   "actors": [
+    "Syrian government",
+    "Turkistan Islamic Party"
+   ],
+   "timestamp": "05:28"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Ahmed al-Sharaa",
+   "target": "Al-Nusra Front",
+   "type": "leads",
+   "detail": "Former head of al-Qaeda's branch in Syria, 'and may still be'.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "00:00",
+   "quote": "he used to be the head of al-Qaeda's branch in Syria, and he still actually may be so today"
+  },
+  {
+   "source": "Ahmed al-Sharaa",
+   "target": "Syrian government",
+   "type": "leads",
+   "detail": "Took control of Syria and appointed himself president.",
+   "date": "2024-12",
+   "confidence": "stated",
+   "timestamp": "00:48",
+   "quote": "Shara took control of Syria and appointed himself president"
+  },
+  {
+   "source": "Ahmed al-Sharaa",
+   "target": "Bashar al-Assad",
+   "type": "other",
+   "detail": "Ousted Assad in December 2024.",
+   "date": "2024-12",
+   "confidence": "stated",
+   "timestamp": "00:48",
+   "quote": "Last December, after ousting Bashar al-Assad"
+  },
+  {
+   "source": "Ahmed al-Sharaa",
+   "target": "Abu Bakr al-Baghdadi",
+   "type": "rival_of",
+   "detail": "Their dispute over control of the Syrian jihad created the Islamic State split.",
+   "date": "2013-2014",
+   "confidence": "stated",
+   "timestamp": "22:09",
+   "quote": "his dispute with Abu Bakr al-Baghdadi over who controlled the jihad in Syria"
+  },
+  {
+   "source": "Ayman al-Zawahiri",
+   "target": "Ahmed al-Sharaa",
+   "type": "allied_with",
+   "detail": "Zawahiri ejected Baghdadi and sided with Jolani.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "22:09",
+   "quote": "Zawahiri sided with Shara"
+  },
+  {
+   "source": "Ahmed al-Sharaa",
+   "target": "al-Qaeda",
+   "type": "allied_with",
+   "detail": "His so-called denunciation was only a distancing, made with two top al-Qaeda leaders present who approved.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "24:23",
+   "quote": "he did that while sitting in a room with two top al-Qaeda leaders who approved"
+  },
+  {
+   "source": "Syrian government",
+   "target": "al-Qaeda",
+   "type": "member_of",
+   "detail": "Several key leaders of Sharaa's government are US/UN-designated al-Qaeda members.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "09:14",
+   "quote": "several of the key leaders within his government... are members of Al Qaeda they're designated"
+  },
+  {
+   "source": "Ahmed al-Sharaa",
+   "target": "Donald Trump",
+   "type": "met_with",
+   "detail": "Visited the White House; Trump 'loves this guy'.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "01:31",
+   "quote": "President Trump seems to love this guy"
+  },
+  {
+   "source": "Ahmed al-Sharaa",
+   "target": "CENTCOM",
+   "type": "met_with",
+   "detail": "Played basketball with the CENTCOM commander.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "01:31",
+   "quote": "the commander of Sentcom, Admiral Cooper playing basketball with Shara"
+  },
+  {
+   "source": "Syrian government",
+   "target": "Anti-ISIS international coalition",
+   "type": "member_of",
+   "detail": "Limited, conditional membership as a supporter/partial member.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "08:30",
+   "quote": "agreed to a sort of very limited membership of the anti-ISIS international coalition"
+  },
+  {
+   "source": "Turkistan Islamic Party",
+   "target": "Syrian government",
+   "type": "member_of",
+   "detail": "Thousands of al-Qaeda-loyal TIP fighters integrated into the Syrian military as a division.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "37:38",
+   "quote": "Turkistan Islamic Party in Syria integrated within his military and has a military division"
+  },
+  {
+   "source": "Turkistan Islamic Party",
+   "target": "al-Qaeda",
+   "type": "member_of",
+   "detail": "TIP's Syria branch reports to its Afghanistan-based leader, a member of al-Qaeda's executive shura (UN Monitoring Team).",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "37:38",
+   "quote": "that branch in Syria reports directly to the leader who's based in Afghanistan, who... happens to be a member of al-Qaeda's executive Shora"
+  },
+  {
+   "source": "Turkistan Islamic Party",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "TIP leader is based in Afghanistan.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "37:38",
+   "quote": "the leader who's based in Afghanistan"
+  },
+  {
+   "source": "Syrian government",
+   "target": "Alawite community",
+   "type": "killed",
+   "detail": "Latakia massacre directed from the top including the defense ministry (Reuters).",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "15:26",
+   "quote": "there is direct evidence that Shara's people from the top, including within his defense ministry... ordered and directed those attacks in Latakia"
+  },
+  {
+   "source": "Syrian government",
+   "target": "Druze community",
+   "type": "killed",
+   "detail": "Massacre of Druze carried out by members of Sharaa's coalition.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "04:39",
+   "quote": "those massacres were carried out by people from his coalition"
+  },
+  {
+   "source": "Assad regime",
+   "target": "Iranian government",
+   "type": "allied_with",
+   "detail": "Assad was an enthusiastic partner/client of Tehran.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "26:58",
+   "quote": "the Assad regime was an enthusiastic partner or client of Tehran"
+  },
+  {
+   "source": "Hezbollah",
+   "target": "Iranian government",
+   "type": "funded_by",
+   "detail": "Assad's Syria was the route for all smuggling to Hezbollah; now shut.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "26:58",
+   "quote": "was the route for all of the smuggling to Hezbollah in Lebanon"
+  },
+  {
+   "source": "Iraqi Shia militias",
+   "target": "Syria",
+   "type": "located_in",
+   "detail": "Iraqi militias trained in Assad's Syria.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "26:58",
+   "quote": "where the Iraqi extremist militias were sort of cutting their teeth, doing their training"
+  },
+  {
+   "source": "Taliban",
+   "target": "Tehrik-i-Taliban Pakistan",
+   "type": "allied_with",
+   "detail": "Afghan Taliban actively support TTP cross-border operations.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "18:52",
+   "quote": "they're actively supporting the TTP, the Pakistani Taliban, in cross-border operations"
+  },
+  {
+   "source": "al-Qaeda",
+   "target": "Tehrik-i-Taliban Pakistan",
+   "type": "allied_with",
+   "detail": "Taliban support al-Qaeda's engagement with the TTP.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "18:52",
+   "quote": "they are actively supporting al-Qaeda's engagement with the TTP"
+  },
+  {
+   "source": "Taliban",
+   "target": "Islamic State",
+   "type": "rival_of",
+   "detail": "Enemies only because the Taliban refuse to submit to the caliph; same ideology.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "14:44",
+   "quote": "The Taliban refused to submit to the Islamic State... Otherwise, they share the same ideology"
+  },
+  {
+   "source": "United States",
+   "target": "Taliban",
+   "type": "allied_with",
+   "detail": "US unofficially served as the Taliban's air force against ISIS in Nangarhar, c.2015-19.",
+   "date": "2015-2019",
+   "confidence": "stated",
+   "timestamp": "13:55",
+   "quote": "the U.S. actually did support the Taliban while we were fighting the Taliban to fight the Islamic State in eastern Afghanistan"
+  },
+  {
+   "source": "Hibatullah Akhundzada",
+   "target": "Taliban",
+   "type": "leads",
+   "detail": "Power resides with the supreme leader; no American talks to him.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "19:41",
+   "quote": "the power resides with the supreme leader and... no American is talking to Hibatullah"
+  },
+  {
+   "source": "Abdul Ghani Baradar",
+   "target": "United States",
+   "type": "negotiated_with",
+   "detail": "Baradar and Stanikzai charmed Western interlocutors in Doha and would have signed in Trump's first term.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "20:30",
+   "quote": "It would have been Baradar. It would have been... Stanek Zai, who were sort of charming people in Doha"
+  },
+  {
+   "source": "Sher Mohammad Abbas Stanikzai",
+   "target": "United States",
+   "type": "negotiated_with",
+   "detail": "Doha negotiator.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "20:30",
+   "quote": "Stanek Zai, who were sort of charming people in Doha"
+  },
+  {
+   "source": "Taliban",
+   "target": "Zalmay Khalilzad",
+   "type": "negotiated_with",
+   "detail": "Taliban whispered promises on women's rights to Khalilzad and Pompeo.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "19:41",
+   "quote": "that's the stuff that they whispered to Zalmaikalizade and Mike Pompeo"
+  },
+  {
+   "source": "Turkish government",
+   "target": "Syrian government",
+   "type": "allied_with",
+   "detail": "Risk that Turkey turns Syria into a client state / cat's paw for Erdogan.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "17:15",
+   "quote": "We can't be passive observers as Turkey turns Syria into a client state"
+  },
+  {
+   "source": "Qatari government",
+   "target": "Syrian government",
+   "type": "allied_with",
+   "detail": "Qataris singing Sharaa's praises in Washington.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "34:21",
+   "quote": "they will have been singing his praises and saying... he's the great hope of Syria"
+  },
+  {
+   "source": "Israeli government",
+   "target": "Syrian government",
+   "type": "rival_of",
+   "detail": "Israel occupies the Golan and strategic ground inside Syria; jihadists could never accept it.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "39:20",
+   "quote": "It's Israel that is occupying the Golan Heights... also occupying strategic ground inside Syria proper"
+  },
+  {
+   "source": "Kurdish forces",
+   "target": "United States",
+   "type": "allied_with",
+   "detail": "Former counterterrorism allies.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "18:05",
+   "quote": "our former counterterrorism allies, the Kurds, and they really were good counterterrorism allies"
+  },
+  {
+   "source": "Chinese government",
+   "target": "Ahmed al-Sharaa",
+   "type": "other",
+   "detail": "China abstained on the UN resolution lifting sanctions on Sharaa and his former deputy.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "38:29",
+   "quote": "China abstained on the US resolution to lift the sanctions on the Shara and his former deputy"
+  },
+  {
+   "source": "Mohammed bin Salman",
+   "target": "Donald Trump",
+   "type": "met_with",
+   "detail": "MBS due in Washington next week; Syria on the agenda.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "34:21",
+   "quote": "Mohammed bin Salman is coming to Washington next week"
+  }
+ ],
+ "sources_cited": [
+  "Reuters investigation into the Latakia Alawite massacre",
+  "UN Monitoring Team reporting on the Turkistan Islamic Party in Syria",
+  "UN Security Council resolution lifting sanctions on al-Sharaa and his former deputy",
+  "Sharaa interview on 9/11",
+  "Abu Musab al-Suri's writings on fitna",
+  "Video of CENTCOM commander playing basketball with Sharaa"
+ ],
+ "key_claims": [
+  "Sharaa (Jolani) is a former — and possibly current — al-Qaeda leader whose 'break' with al-Qaeda was a distancing approved by al-Qaeda leaders; key members of his government are designated al-Qaeda figures.",
+  "Sharaa's White House visit extracted almost nothing: partial anti-ISIS coalition membership, no peace with Israel, no enforceable minority guarantees.",
+  "Two massacres (Alawites in Latakia, Druze) in Sharaa's first eight months; the Latakia killings were directed from his defense ministry per Reuters.",
+  "Backing one jihadist strain to suppress another (Taliban vs ISIS, Sharaa vs ISIS) is a repeated error; the US acted as the Taliban's air force 2015-19 and the Taliban took Kabul two years later.",
+  "Unlike Hibatullah, who never engages infidels, Sharaa can be held accountable by phone — Fitton-Brown argues for 'engage, don't trust, verify'.",
+  "Assad's fall is Iran's biggest blow in two years, cutting its route to Hezbollah and the Iraqi militias' Syrian training ground.",
+  "TIP's thousands of fighters sit inside the Syrian army and report to an Afghanistan-based leader on al-Qaeda's executive shura.",
+  "The Taliban have comprehensively broken their Doha promise by backing TTP and al-Qaeda cross-border operations into Pakistan.",
+  "Roggio: the Syrian civil war has not ended; Sharaa only transitioned it to its next phase."
+ ]
+}

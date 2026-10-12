@@ -1,110 +1,153 @@
 id,date,date_precision,type,description,place_text,actors,episode_idx,timestamp,dataset
-127,,approx,death,"Hamza bin Laden reportedly killed in Karam, a Haqqani stronghold",Karam,Hamza bin Laden,41,24:30,real
-430,,approx,death,Khalid Batarfi (previous AQAP leader) and Saif al-Adel's son died in Yemen within a month of each other (natural causes / domestic accident); unexplained per hosts,Yemen,al-Qaeda in the Arabian Peninsula; Son of Saif al-Adel (unnamed); Khalid Batarfi,295,37:35,real
-431,,approx,meeting,"UN report references a possible strategic meeting between the Houthis, AQAP and al-Shabaab",,Houthis; al-Qaeda in the Arabian Peninsula; Shabaab,295,38:50,real
-433,,approx,attack,"ISIS attack in Kerman, Iran, and Crocus concert hall attack in Moscow cited as ISIS attacks on Iran and Russia",Kerman,Iran; Islamic State; Russia,295,24:40,real
-443,,approx,other,"Israel recognised Somaliland as independent from Somalia, upsetting Turkey, Saudi Arabia and others",Somaliland,Somaliland; Israel,295,42:30,real
-444,,approx,other,"Cabrera v. Islamic Republic of Iran: Roggio was a lead witness; case showed Iran provided weapons, training, safe haven and intelligence to the Taliban and al-Qaeda ('the syndicate')",United States,Iran; Taliban; al-Qaeda,295,11:16,real
-279,1992/1996,approx,other,"Al-Qaeda based in Sudan, investing in infrastructure (roads, schools); formally 'expelled' around 1996 though cells remained",Sudan,al-Qaeda; Osama bin Laden; Ayman al-Zawahiri,84,04:40,real
-299,1995,approx,other,"Sudani's long jihadist pedigree reportedly begins in the mid-90s, alongside bin Laden in Afghanistan.",Afghanistan,Abu Huzaifah al-Sudani; Osama bin Laden,84,52:35,real
+172,,approx,death,"Hamza bin Laden reportedly killed in Karam, a Haqqani stronghold",Karam,Hamza bin Laden,41,24:30,real
+575,,approx,death,Khalid Batarfi (previous AQAP leader) and Saif al-Adel's son died in Yemen within a month of each other (natural causes / domestic accident); unexplained per hosts,Yemen,al-Qaeda in the Arabian Peninsula; Son of Saif al-Adel (unnamed); Khalid Batarfi,295,37:35,real
+576,,approx,meeting,"UN report references a possible strategic meeting between the Houthis, AQAP and al-Shabaab",,Houthis; al-Qaeda in the Arabian Peninsula; Shabaab,295,38:50,real
+578,,approx,attack,"ISIS attack in Kerman, Iran, and Crocus concert hall attack in Moscow cited as ISIS attacks on Iran and Russia",Kerman,Iran; Islamic State; Russia,295,24:40,real
+588,,approx,other,"Israel recognised Somaliland as independent from Somalia, upsetting Turkey, Saudi Arabia and others",Somaliland,Somaliland; Israel,295,42:30,real
+589,,approx,other,"Cabrera v. Islamic Republic of Iran: Roggio was a lead witness; case showed Iran provided weapons, training, safe haven and intelligence to the Taliban and al-Qaeda ('the syndicate')",United States,Iran; Taliban; al-Qaeda,295,11:16,real
+319,1947,year,other,"Partition: Pakistan received 17% of British India's resources, 19% of population but 33% of its army, shaping an army in search of a threat.",Pakistan,Pakistan Army,64,29:43,real
+130,1991,year,travel,Bin Laden fled to Sudan while keeping in contact with Jalaluddin Haqqani.,Sudan,Osama bin Laden; Jalaluddin Haqqani,22,46:12,real
+377,1992/1996,approx,other,"Al-Qaeda based in Sudan, investing in infrastructure (roads, schools); formally 'expelled' around 1996 though cells remained",Sudan,al-Qaeda; Osama bin Laden; Ayman al-Zawahiri,84,04:40,real
+146,1995,approx,arrest,Zawahiri was temporarily detained by the Russians in the mid-1990s.,Russia,Russian security services; Ayman al-Zawahiri,27,07:31,real
+397,1995,approx,other,"Sudani's long jihadist pedigree reportedly begins in the mid-90s, alongside bin Laden in Afghanistan.",Afghanistan,Abu Huzaifah al-Sudani; Osama bin Laden,84,52:35,real
 101,1998,year,attack,"US embassy bombings, the biggest al-Qaeda attack before 9/11. EIJ operatives laid the groundwork, with Hezbollah and Iran assistance per the hosts.",,Iran; Hezbollah; Egyptian Islamic Jihad; al-Qaeda,20,05:03,real
-124,1998-08-07,day,attack,"US embassy bombings in East Africa, for which al-Masri is wanted",,al-Qaeda; Abu Muhammad al-Masri,41,21:21,real
-133,1998-08-07,day,attack,"US Embassy bombings in Kenya and Tanzania, carried out by al-Qaeda operatives who per the 9/11 Commission received tactical expertise from Iran and Hezbollah.",Kenya/Tanzania,Iran; Hezbollah; al-Qaeda; Abu Muhammad al-Masri; Saif al-Adel,41,40:45,real
-300,2001,approx,attack,Sudani reportedly performed a terrorist attack in Saudi Arabia in early 2001.,Saudi Arabia,Abu Huzaifah al-Sudani,84,52:43,real
+134,1998,year,other,Iran and the Taliban nearly went to war after the Taliban killed Iranians in Mazar-i-Sharif.,Mazar-i-Sharif,Iran; Taliban,22,58:07,real
+256,1998,year,attack,"al-Qaeda US embassy bombings, after which Hassan Akhund made statements",East Africa,al-Qaeda; Mohammad Hassan Akhund,57,47:23,real
+169,1998-08-07,day,attack,"US embassy bombings in East Africa, for which al-Masri is wanted",,al-Qaeda; Abu Muhammad al-Masri,41,21:21,real
+178,1998-08-07,day,attack,"US Embassy bombings in Kenya and Tanzania, carried out by al-Qaeda operatives who per the 9/11 Commission received tactical expertise from Iran and Hezbollah.",Kenya/Tanzania,Iran; Hezbollah; al-Qaeda; Abu Muhammad al-Masri; Saif al-Adel,41,40:45,real
+257,1999,year,statement,Hassan Akhund says the Taliban will not turn over bin Laden after UN sanctions threat,Afghanistan,Taliban; Osama bin Laden; Mohammad Hassan Akhund,57,47:35,real
+270,1999,year,statement,"Amid UN sanctions threats, Hassan Akhund said the Taliban would not turn over bin Laden at any price.",Afghanistan,Taliban; United Nations; Mohammad Hassan Akhund,57,47:28,real
+133,2001,year,other,Jalaluddin and Sirajuddin Haqqani sheltered al-Qaeda and Taliban fleeing the US invasion.,Afghanistan,al-Qaeda; Sirajuddin Haqqani; Jalaluddin Haqqani,22,46:37,real
+260,2001,year,agreement,Khairkhwa brokers a deal with the Iranian government to work together against America after the invasion (late 2001),Iran,Khairullah Khairkhwa,57,41:44,real
+398,2001,approx,attack,Sudani reportedly performed a terrorist attack in Saudi Arabia in early 2001.,Saudi Arabia,Abu Huzaifah al-Sudani,84,52:43,real
+508,2001,approx,strike,NYT claims Jalaluddin dispatched a convoy of relatives and allies to Kabul to back Karzai and a US airstrike hit the vehicles; hosts contrast this with his contemporaneous rejectionist statements.,Kabul,United States; Hamid Karzai; Jalaluddin Haqqani,213,28:31,real
+509,2001,approx,travel,Jalaluddin Haqqani helped Osama bin Laden escape Afghanistan.,Afghanistan,Osama bin Laden; Jalaluddin Haqqani,213,30:06,real
+258,2001-01,month,designation,UN sanctions four of the five future Guantanamo swap detainees (January or February 2001),,United Nations Security Council 1267 sanctions,57,40:55,real
 41,2001-08,month,arrest,Zacarias Moussaoui arrested.,United States,Zacarias Moussaoui,12,27:25,real
-255,2001-09-09,approx,death,Ahmad Shah Massoud assassinated by al-Qaeda suicide bombers posing as journalists.,Afghanistan,al-Qaeda; Ahmad Shah Massoud,75,04:58,real
-392,2001-09-11,day,attack,"9/11 attacks; hosts recount where they were (Bailey, 14, in Norfolk; Selber a DJ who then joined the Air Force; Roggio a computer analyst)",United States,al-Qaeda,202,22:42,real
-445,2001-09-11,day,attack,"9/11 attacks; intended to push the US out of the region, out of the Arabian Peninsula, and end US support for Israel and Arab autocracies.",United States,al-Qaeda; Osama bin Laden,337,03:08,real
+309,2001-09,month,agreement,After 9/11 Musharraf let US troops and flights transit Pakistan; Washington wrongly assumed Pakistan had changed its worldview.,Pakistan,United States; Pervez Musharraf,64,16:10,real
+259,2001-09-09,day,death,al-Qaeda kills Ahmad Shah Massoud; Fazl then coordinates with Abdul Hadi al-Iraqi on an offensive against the Northern Alliance,Afghanistan,al-Qaeda; Mohammad Fazl; Abdul Hadi al-Iraqi; Ahmad Shah Massoud,57,40:24,real
+353,2001-09-09,approx,death,Ahmad Shah Massoud assassinated by al-Qaeda suicide bombers posing as journalists.,Afghanistan,al-Qaeda; Ahmad Shah Massoud,75,04:58,real
+272,2001-09-11,day,attack,"9/11 attacks killing about 3,000 Americans; hosts recorded the episode on September 10, 2021.",United States,al-Qaeda,57,50:08,real
+490,2001-09-11,day,attack,"9/11 attacks; hosts recount where they were (Bailey, 14, in Norfolk; Selber a DJ who then joined the Air Force; Roggio a computer analyst)",United States,al-Qaeda,202,22:42,real
+605,2001-09-11,day,attack,"9/11 attacks; intended to push the US out of the region, out of the Arabian Peninsula, and end US support for Israel and Arab autocracies.",United States,al-Qaeda; Osama bin Laden,337,03:08,real
+271,2001-09-26,day,statement,"Mullah Omar defiantly refused to turn over bin Laden, calling it a matter of Islam's prestige.",Afghanistan,Taliban; Mullah Mohammad Omar,57,52:33,real
+507,2001-10,month,statement,"Jalaluddin Haqqani, then commander of Taliban forces across southern Afghanistan, vowed a never-ending guerrilla war, rejected any new government of 'American, Russian and Indian stooges' and refused to give up bin Laden.",Afghanistan,Osama bin Laden; Jalaluddin Haqqani,213,37:07,real
 22,2001-12,approx,other,"Bin Laden, Zawahiri and other al-Qaeda leaders escaped Tora Bora because the US relied on local militias and a light footprint.",Tora Bora,Osama bin Laden; Ayman al-Zawahiri; Donald Rumsfeld,11,40:44,real
-194,2001-12,month,other,Bin Laden surrounded in Tora Bora; the US relied on outsourced forces and he escaped.,Tora Bora,Osama bin Laden; Donald Rumsfeld; George W. Bush,56,06:32,real
-280,2001-late,approx,attack,Plot ordered by bin Laden: Abu Huzaifa fired a SAM at Prince Sultan Air Base; it failed to detonate and no one was hurt,Prince Sultan Air Base,Abu Huzaifah al-Sudani; Osama bin Laden; Ibn al-Shaykh al-Libi; Saif al-Adel; Muhammad Atef,84,08:18,real
-281,2002-06,approx,arrest,Abu Huzaifa arrested in Sudan and extradited to Saudi Arabia in mid-2002; later released under murky circumstances,Sudan,Abu Huzaifah al-Sudani,84,09:59,real
-134,2004,year,statement,"9/11 Commission report is released, finding links between Iran and al-Qaeda; the press initially reported it, then ignored it.",,9/11 Commission,41,40:08,real
-142,2005,year,other,Yasin al-Suri said to have been operating in Iran since 2005 under an agreement with the regime.,Iran,Iranian regime; Yasin al-Suri,41,59:39,real
-301,2005,approx,other,"Al-Qaeda conducted internal evaluations ('fitness reports') of members, some of whom later joined the general manager's staff.",,al-Qaeda; Atiyah Abd al-Rahman,84,54:49,real
+132,2001-12,approx,other,Jalaluddin and Sirajuddin Haqqani sheltered fleeing Taliban and al-Qaeda during the 2001-02 US invasion.,Afghanistan,Taliban; al-Qaeda; Sirajuddin Haqqani; Jalaluddin Haqqani,22,46:35,real
+239,2001-12,month,other,Bin Laden surrounded in Tora Bora; the US relied on outsourced forces and he escaped.,Tora Bora,Osama bin Laden; Donald Rumsfeld; George W. Bush,56,06:32,real
+378,2001-late,approx,attack,Plot ordered by bin Laden: Abu Huzaifa fired a SAM at Prince Sultan Air Base; it failed to detonate and no one was hurt,Prince Sultan Air Base,Abu Huzaifah al-Sudani; Osama bin Laden; Ibn al-Shaykh al-Libi; Saif al-Adel; Muhammad Atef,84,08:18,real
+145,2002,year,arrest,Abu Zubaydah was captured.,,Abu Zubaydah,27,04:46,real
+510,2002,approx,offensive,"From early 2002 to 2004 the Haqqanis organized the insurgency from North and South Waziristan, integrated Afghan Taliban with foreign fighters incl. al-Qaeda, and helped create the TTP alongside al-Qaeda.",North Waziristan,Haqqani Network; Tehrik-i-Taliban Pakistan; al-Qaeda,213,39:15,real
+379,2002-06,approx,arrest,Abu Huzaifa arrested in Sudan and extradited to Saudi Arabia in mid-2002; later released under murky circumstances,Sudan,Abu Huzaifah al-Sudani,84,09:59,real
+179,2004,year,statement,"9/11 Commission report is released, finding links between Iran and al-Qaeda; the press initially reported it, then ignored it.",,9/11 Commission,41,40:08,real
+511,2004,approx,strike,"US drone campaign 2004-2017: roughly 40% of strikes that killed top al-Qaeda leaders hit Haqqani-run safe houses in North Waziristan, usually also killing a mid/high-level Haqqani commander.",North Waziristan,Haqqani Network; United States; al-Qaeda,213,26:00,real
+187,2005,year,other,Yasin al-Suri said to have been operating in Iran since 2005 under an agreement with the regime.,Iran,Iranian regime; Yasin al-Suri,41,59:39,real
+399,2005,approx,other,"Al-Qaeda conducted internal evaluations ('fitness reports') of members, some of whom later joined the general manager's staff.",,al-Qaeda; Atiyah Abd al-Rahman,84,54:49,real
 17,2006,year,other,"Al-Qaeda in Iraq created the Islamic State of Iraq, ruling parts of Anbar, Diyala, Salahuddin and Mosul.",Iraq,Al-Qaeda in Iraq,11,08:42,real
 23,2006,year,strike,"US airstrikes against the Islamic Courts Union and then Shabab began, continuing for 14 years.",Somalia,Shabaab; United States,11,11:33,real
-282,2006,year,statement,"Bin Laden and Zawahiri each released a video calling for jihad in Darfur; bin Laden offered fighters from Iraq, rebuffed by Darfur rebels",Darfur,Darfur rebels; Osama bin Laden; Ayman al-Zawahiri,84,14:19,real
-393,2006,year,travel,Will Selber deployed to Baghdad,Baghdad,Will Selber,202,28:25,real
+380,2006,year,statement,"Bin Laden and Zawahiri each released a video calling for jihad in Darfur; bin Laden offered fighters from Iraq, rebuffed by Darfur rebels",Darfur,Darfur rebels; Osama bin Laden; Ayman al-Zawahiri,84,14:19,real
+491,2006,year,travel,Will Selber deployed to Baghdad,Baghdad,Will Selber,202,28:25,real
 85,2007,year,attack,Suicide bomber hit Bagram while Vice President Cheney was visiting.,Bagram,Taliban; Dick Cheney,19,15:19,real
-135,2007,year,statement,"Bin Laden letter to Abu Hamza al-Muhajir calling Iran the main artery for funds, personnel and communication, later released by ODNI.",,Office of the Director of National Intelligence; Osama bin Laden; Abu Hamza al-Muhajir,41,43:20,real
-241,2007,year,agreement,"Al-Qaeda supported the TTP's negotiations in Pakistan, which put the TTP in control of significant portions of northern Pakistan (per the bin Laden files).",Pakistan,Tehrik-e-Taliban Pakistan; al-Qaeda,72,39:54,real
-283,2007,year,attack,Abu Huzaifa took part in a bomb plot just outside Khartoum; two more AQ leader videos on Sudan released,Khartoum,Abu Huzaifah al-Sudani; Osama bin Laden; Ayman al-Zawahiri,84,10:06,real
-302,2007,year,attack,"An AQ cell based in Salama, a suburb of Khartoum, carried out a bombing. Sudanese authorities quickly rolled it up. Sudani says it failed by applying the Iraqi model too early.",Salama,Sudanese authorities; al-Qaeda,84,41:55,real
-319,2007,year,other,Bilal al-Sudani joins al-Shabaab and becomes foreign fighter coordinator and recruiter.,Somalia,Shabaab; Bilal al-Sudani,89,45:05,real
+180,2007,year,statement,"Bin Laden letter to Abu Hamza al-Muhajir calling Iran the main artery for funds, personnel and communication, later released by ODNI.",,Office of the Director of National Intelligence; Osama bin Laden; Abu Hamza al-Muhajir,41,43:20,real
+339,2007,year,agreement,"Al-Qaeda supported the TTP's negotiations in Pakistan, which put the TTP in control of significant portions of northern Pakistan (per the bin Laden files).",Pakistan,Tehrik-e-Taliban Pakistan; al-Qaeda,72,39:54,real
+381,2007,year,attack,Abu Huzaifa took part in a bomb plot just outside Khartoum; two more AQ leader videos on Sudan released,Khartoum,Abu Huzaifah al-Sudani; Osama bin Laden; Ayman al-Zawahiri,84,10:06,real
+400,2007,year,attack,"An AQ cell based in Salama, a suburb of Khartoum, carried out a bombing. Sudanese authorities quickly rolled it up. Sudani says it failed by applying the Iraqi model too early.",Salama,Sudanese authorities; al-Qaeda,84,41:55,real
+417,2007,year,other,Bilal al-Sudani joins al-Shabaab and becomes foreign fighter coordinator and recruiter.,Somalia,Shabaab; Bilal al-Sudani,89,45:05,real
+301,2007/2011,approx,offensive,"Al-Shabaab controlled most of southern and central Somalia, 2007 to 2011.",Somalia,Shabaab,62,73:10,real
 102,2008,year,attack,"Mumbai attacks by Lashkar-e-Taiba; Headley did surveillance, later also for al-Qaeda plots.",Mumbai,Lashkar-e-Taiba; David Headley,20,30:35,real
-260,2008,approx,statement,Shabaab figure pledges allegiance to bin Laden on behalf of the group; al-Qaeda never officially responded and told Shabaab to keep it quiet.,Somalia,Shabaab; Osama bin Laden; Sulayman Abu Nafan,83,22:35,real
-284,2008,year,attack,A U.S. diplomat and his driver were murdered in Sudan; claimed by Ansar al-Tahrid and AQ in the Land of Two Niles,Sudan,al-Qaeda in the Land of Two Niles; Ansar al-Tahrid,84,15:01,real
-394,2008-09-09,day,attack,Capt. Jesse Melton III killed by an IED network led by Taliban commander Qari Baryal,Afghanistan,Taliban; Qari Baryal; Jesse Melton III,202,30:02,real
+358,2008,approx,statement,Shabaab figure pledges allegiance to bin Laden on behalf of the group; al-Qaeda never officially responded and told Shabaab to keep it quiet.,Somalia,Shabaab; Osama bin Laden; Sulayman Abu Nafan,83,22:35,real
+382,2008,year,attack,A U.S. diplomat and his driver were murdered in Sudan; claimed by Ansar al-Tahrid and AQ in the Land of Two Niles,Sudan,al-Qaeda in the Land of Two Niles; Ansar al-Tahrid,84,15:01,real
+603,2008,year,other,Roggio witnessed tons of potassium cyanide dug up at a missile base in Mosul.,Mosul,,313,12:42,real
+305,2008-04,month,appointment,Husain Haqqani became Pakistan's ambassador to the United States (served to Nov 2011).,Washington DC,Pakistani state; Husain Haqqani,64,00:20,real
+492,2008-09-09,day,attack,Capt. Jesse Melton III killed by an IED network led by Taliban commander Qari Baryal,Afghanistan,Taliban; Qari Baryal; Jesse Melton III,202,30:02,real
 80,2008-11,month,attack,Lashkar-e-Taiba suicide assault on Mumbai killed over 160 people; Sajid Mir was the mastermind,Mumbai,Lashkar-e-Taiba; David Headley; Sajid Mir,17,55:46,real
 103,2009,year,other,"TTP controls Buner, about 60 miles from Islamabad, prompting the Pakistani military offensive. Also Gen. Flynn's remark that the Haqqanis are a negotiable criminal group.",Buner,Pakistani military and intelligence establishment; Tehrik-e-Taliban Pakistan; Michael Flynn,20,23:20,real
-285,2009,year,statement,Another al-Qaeda video calling for jihad in Sudan,Sudan,al-Qaeda,84,14:52,real
-184,2009-12,month,other,"President Obama ordered the surge in Afghanistan, which lasted through 2010 into 2011.",Afghanistan,Barack Obama,53,24:48,real
-198,2009-12,month,statement,Obama speech announcing an 18-month surge to build up Afghan capacity.,Afghanistan,Barack Obama,56,11:33,real
+140,2009,approx,attack,"Attack on Forward Operating Base Chapman, facilitated by Haqqani territory and carried out by a double agent.",Khost,Haqqani Network; Tehrik-i-Taliban Pakistan; Humam al-Balawi,22,50:58,real
+383,2009,year,statement,Another al-Qaeda video calling for jihad in Sudan,Sudan,al-Qaeda,84,14:52,real
+229,2009-12,month,other,"President Obama ordered the surge in Afghanistan, which lasted through 2010 into 2011.",Afghanistan,Barack Obama,53,24:48,real
+243,2009-12,month,statement,Obama speech announcing an 18-month surge to build up Afghan capacity.,Afghanistan,Barack Obama,56,11:33,real
 74,2010,approx,other,AQAP ruled large areas of southern Yemen for about a year (2010-11).,Yemen,al-Qaeda in the Arabian Peninsula,17,27:31,real
 86,2010,year,bounty,News report that Iran was paying bounties for American soldiers in Afghanistan.,Afghanistan,Iran,19,28:35,real
-160,2010,year,offensive,"US Afghan surge, which the hosts criticized; they say more US soldiers were killed and wounded during it than in the rest of the war combined.",Afghanistan,US military,43,24:47,real
-163,2010,year,other,"Afghan surge, which the hosts criticized and say caused heavy US casualties.",Afghanistan,United States,43,24:47,real
-195,2010,approx,statement,A bin Laden file from mid-2010 recounts Atiyah's report that al-Qaeda had strong military activity across eight Afghan provinces.,Afghanistan,al-Qaeda; Osama bin Laden; Atiyah Abd al-Rahman,56,08:24,real
-309,2010,year,arrest,US forces capture al-Qaeda operations commander Abu Ikhlas al-Masri in Kunar.,Kunar,United States; Abu Ikhlas al-Masri,89,16:06,real
-330,2010,year,death,US killed Islamic State of Iraq emir Abu Omar al-Baghdadi and al-Qaeda's representative (Abu Ayyub al-Masri) at ISI's low point,Iraq,Abu Omar al-Baghdadi; Abu Ayyub al-Masri,97,34:57,real
-355,2010,approx,death,"Leaders of the Islamic State of Iraq, including Abu Ayyub al-Masri, killed, leading to premature declarations of AQI's defeat.",Iraq,Abu Bakr al-Baghdadi; Abu Ayyub al-Masri,124,10:51,real
+205,2010,year,offensive,"US Afghan surge, which the hosts criticized; they say more US soldiers were killed and wounded during it than in the rest of the war combined.",Afghanistan,US military,43,24:47,real
+208,2010,year,other,"Afghan surge, which the hosts criticized and say caused heavy US casualties.",Afghanistan,United States,43,24:47,real
+240,2010,approx,statement,A bin Laden file from mid-2010 recounts Atiyah's report that al-Qaeda had strong military activity across eight Afghan provinces.,Afghanistan,al-Qaeda; Osama bin Laden; Atiyah Abd al-Rahman,56,08:24,real
+261,2010,year,other,al-Qaeda ransom exchange for an Afghan ambassador yields $5 million; Ibrahim Haqqani identified as key guarantor/mediator,,al-Qaeda; Ibrahim Haqqani,57,33:47,real
+407,2010,year,arrest,US forces capture al-Qaeda operations commander Abu Ikhlas al-Masri in Kunar.,Kunar,United States; Abu Ikhlas al-Masri,89,16:06,real
+428,2010,year,death,US killed Islamic State of Iraq emir Abu Omar al-Baghdadi and al-Qaeda's representative (Abu Ayyub al-Masri) at ISI's low point,Iraq,Abu Omar al-Baghdadi; Abu Ayyub al-Masri,97,34:57,real
+453,2010,approx,death,"Leaders of the Islamic State of Iraq, including Abu Ayyub al-Masri, killed, leading to premature declarations of AQI's defeat.",Iraq,Abu Bakr al-Baghdadi; Abu Ayyub al-Masri,124,10:51,real
+520,2010,year,statement,NYT says the Haqqanis wanted peace in 2010; hosts say the bin Laden files and Haqqani actions at the time contradict this.,,Haqqani Network,213,44:43,real
 73,2010-04,month,death,"Abu Omar al-Baghdadi and Abu Hamza al-Muhajir, leaders of the Islamic State of Iraq, were killed.",Iraq,Abu Hamza al-Muhajir; Abu Omar al-Baghdadi,17,41:51,real
+135,2010-05,month,attack,Times Square bombing plot overseen by Hakimullah Mehsud.,New York,Tehrik-i-Taliban Pakistan; Hakimullah Mehsud,22,50:28,real
+136,2010-08,month,designation,Treasury designated the IRGC Ansar Corps for supporting the Taliban.,,Taliban; Ansar Corps,22,60:44,real
 21,2011,year,statement,"John Brennan called the caliphate-building project in Iraq an 'absurd, feckless delusion'.",,John Brennan,11,47:40,real
 104,2011,year,death,Osama bin Laden killed in Abbottabad; Hafiz Saeed called him a martyr.,Abbottabad,Osama bin Laden; Hafiz Saeed,20,30:19,real
-125,2011,year,death,Atiyah Abd al-Rahman killed,,Atiyah Abd al-Rahman,41,22:14,real
-197,2011,year,strike,US raid kills bin Laden.,,Barack Obama; Osama bin Laden,56,10:42,real
-246,2011,approx,death,"Bin Laden was killed after about 10 years of searching, while sheltering in a Pakistani cantonment (year not stated in the transcript).",Pakistan,Osama bin Laden,72,32:20,real
-259,2011,year,death,US raid kills Osama bin Laden; al-Qaeda took about six weeks to announce a successor.,Abbottabad,United States; al-Qaeda; Osama bin Laden,83,04:30,real
-298,2011,approx,death,"Death of Osama bin Laden, after which Zawahiri issued guidelines to put his stamp on al-Qaeda.",,Osama bin Laden; Ayman al-Zawahiri,84,39:04,real
-331,2011,approx,meeting,"Roggio and Joscelyn debated Peter Bergen on whether al-Qaeda was done, citing al-Qaeda in Iraq's resurgence in Anbar",United States,Peter Bergen,97,37:49,real
-143,2011-05,month,other,"Files recovered at bin Laden's compound, including Suri's personnel file.",,Yasin al-Suri; Osama bin Laden,41,50:51,real
-218,2011-05,month,other,"Bin Laden files recovered in Abbottabad show al-Qaeda negotiating with Pakistani state for ceasefires, working with Sirajuddin Haqqani.",Abbottabad,al-Qaeda; Sirajuddin Haqqani,58,46:02,real
-229,2011-05-02,day,death,Osama bin Laden killed in a US Navy SEAL/CIA raid in Abbottabad.,Abbottabad,US Navy SEALs and CIA; Osama bin Laden,70,16:42,real
-144,2011-07,month,designation,"US Treasury designated Yasin al-Suri's al-Qaeda facilitation network in Iran, exposing the secret Iran-al-Qaeda deal.",Iran,US Treasury Department; Yasin al-Suri,41,50:27,real
-136,2011-07/2016-07,approx,designation,"Series of Obama-era Treasury and State designations of al-Qaeda operatives in Iran, spelling out the secret agreement and the 'core pipeline'.",Iran,US Department of the Treasury; US Department of State; Barack Obama,41,44:31,real
-145,2011-08,month,death,Atiyah Abd al-Rahman killed (hosts also say mid-2011).,,Atiyah Abd al-Rahman,41,53:54,real
+147,2011,approx,agreement,"The hosts say, citing bin Laden's files, that AQIM cut a deal with the government of Mauritania.",Mauritania,Government of Mauritania; AQIM,27,11:08,real
+148,2011,approx,offensive,"AQAP took over large areas of southern and central Yemen (2011-12, and again 2015-16).",Yemen,al-Qaeda in the Arabian Peninsula,27,18:52,real
+153,2011,approx,statement,John Brennan declared al-Qaeda on the verge of defeat (2011-12).,,John Brennan,27,31:55,real
+170,2011,year,death,Atiyah Abd al-Rahman killed,,Atiyah Abd al-Rahman,41,22:14,real
+242,2011,year,strike,US raid kills bin Laden.,,Barack Obama; Osama bin Laden,56,10:42,real
+344,2011,approx,death,"Bin Laden was killed after about 10 years of searching, while sheltering in a Pakistani cantonment (year not stated in the transcript).",Pakistan,Osama bin Laden,72,32:20,real
+357,2011,year,death,US raid kills Osama bin Laden; al-Qaeda took about six weeks to announce a successor.,Abbottabad,United States; al-Qaeda; Osama bin Laden,83,04:30,real
+396,2011,approx,death,"Death of Osama bin Laden, after which Zawahiri issued guidelines to put his stamp on al-Qaeda.",,Osama bin Laden; Ayman al-Zawahiri,84,39:04,real
+429,2011,approx,meeting,"Roggio and Joscelyn debated Peter Bergen on whether al-Qaeda was done, citing al-Qaeda in Iraq's resurgence in Anbar",United States,Peter Bergen,97,37:49,real
+156,2011-05,month,attack,US raid on bin Laden's compound yielded an archive showing he was still managing al-Qaeda.,Pakistan,CIA; Osama bin Laden,27,52:43,real
+188,2011-05,month,other,"Files recovered at bin Laden's compound, including Suri's personnel file.",,Yasin al-Suri; Osama bin Laden,41,50:51,real
+282,2011-05,month,other,"Bin Laden files recovered in Abbottabad show al-Qaeda negotiating with Pakistani state for ceasefires, working with Sirajuddin Haqqani.",Abbottabad,al-Qaeda; Sirajuddin Haqqani,58,46:02,real
+327,2011-05-02,day,death,Osama bin Laden killed in a US Navy SEAL/CIA raid in Abbottabad.,Abbottabad,US Navy SEALs and CIA; Osama bin Laden,70,16:42,real
+189,2011-07,month,designation,"US Treasury designated Yasin al-Suri's al-Qaeda facilitation network in Iran, exposing the secret Iran-al-Qaeda deal.",Iran,US Treasury Department; Yasin al-Suri,41,50:27,real
+181,2011-07/2016-07,approx,designation,"Series of Obama-era Treasury and State designations of al-Qaeda operatives in Iran, spelling out the secret agreement and the 'core pipeline'.",Iran,US Department of the Treasury; US Department of State; Barack Obama,41,44:31,real
+190,2011-08,month,death,Atiyah Abd al-Rahman killed (hosts also say mid-2011).,,Atiyah Abd al-Rahman,41,53:54,real
+302,2011/2012,approx,offensive,"JNIM's predecessor controlled central Mali, 2011 to 2012.",Mali,JNIM,62,72:59,real
 19,2012,year,offensive,"French intervention in Mali (Operation Serval, per hosts) against al-Qaeda and allies building an emirate.",Mali,French military (Operation Serval); al-Qaeda,11,13:44,real
 20,2012,year,statement,"Obama said in 2012 that the 'time of war began in Afghanistan, and this is where it will end'.",United States,Barack Obama,11,22:23,real
-303,2012,year,attack,"An AQ cell in Dinder National Park attacked a park guard post and captured a large cache of weapons. The Sudanese state then destroyed the cell. Sudani says it lacked vision, goals and cohesive leadership.",Dinder National Park,Sudanese authorities; al-Qaeda,84,42:49,real
-318,2012,year,designation,Bilal al-Sudani designated a Specially Designated Global Terrorist.,,Bilal al-Sudani,89,44:09,real
-339,2012,year,offensive,"al-Qaeda (AQIM under Ansar Dine's banner) with the MNLA took over northern Mali, then betrayed and expelled the MNLA from the cities",Northern Mali,Ansar Dine; National Movement for the Liberation of Azawad; al-Qaeda,101,14:34,real
-395,2012,year,travel,Selber's Afghan Hand deployment advising the Afghan Local Police program in Kunduz and Ghorak,Afghanistan,Afghan Local Police; Will Selber,202,08:10,real
-137,2012-02,month,designation,"Designation of Iran's Ministry of Intelligence and Security for facilitating al-Qaeda, including passports.",Iran,Iranian Ministry of Intelligence and Security; US Department of the Treasury,41,46:19,real
-138,2012-10,month,designation,Designation detailing the terms of the Iran-al-Qaeda agreement and reshuffling of the network in Iran.,Iran,US Department of the Treasury; US Department of State,41,45:27,real
+131,2012,approx,designation,US designated the Haqqani Network as a terrorist organization (hosts say around 2011-2012).,,Haqqani Network,22,44:15,real
+401,2012,year,attack,"An AQ cell in Dinder National Park attacked a park guard post and captured a large cache of weapons. The Sudanese state then destroyed the cell. Sudani says it lacked vision, goals and cohesive leadership.",Dinder National Park,Sudanese authorities; al-Qaeda,84,42:49,real
+416,2012,year,designation,Bilal al-Sudani designated a Specially Designated Global Terrorist.,,Bilal al-Sudani,89,44:09,real
+437,2012,year,offensive,"al-Qaeda (AQIM under Ansar Dine's banner) with the MNLA took over northern Mali, then betrayed and expelled the MNLA from the cities",Northern Mali,Ansar Dine; National Movement for the Liberation of Azawad; al-Qaeda,101,14:34,real
+493,2012,year,travel,Selber's Afghan Hand deployment advising the Afghan Local Police program in Kunduz and Ghorak,Afghanistan,Afghan Local Police; Will Selber,202,08:10,real
+182,2012-02,month,designation,"Designation of Iran's Ministry of Intelligence and Security for facilitating al-Qaeda, including passports.",Iran,Iranian Ministry of Intelligence and Security; US Department of the Treasury,41,46:19,real
+183,2012-10,month,designation,Designation detailing the terms of the Iran-al-Qaeda agreement and reshuffling of the network in Iran.,Iran,US Department of the Treasury; US Department of State,41,45:27,real
 16,2013,year,statement,The TTP declared the Islamic Emirate of Waziristan.,Waziristan,Tehrik-e-Taliban Pakistan,11,08:20,real
 34,2013,year,statement,US officials drafted a renunciation-of-terrorism statement in Mullah Omar's name for the Taliban's Doha office to read; it was never read.,Doha,Taliban political office in Doha; United States; Mullah Mohammad Omar,12,29:12,real
 58,2013,year,meeting,Abu Hamam al-Shami met Omar al-Shishani while mediating between al-Nusra and ISIS.,Syria,Omar al-Shishani; Abu Humam al-Shami,17,05:13,real
 79,2013,approx,death,Al-Shabaab killed American member Omar Hammami after about 18 months of public disputes (year not stated in transcript).,Somalia,Shabaab; Omar Hammami,17,32:33,real
-157,2013,approx,other,Obama administration walks away from talks with the Taliban partly because the Taliban refused to drop 'Islamic Emirate' language.,,Taliban; Obama administration,43,17:03,real
-196,2013,year,death,Mullah Omar dies of natural causes in mysterious circumstances.,,Mullah Mohammad Omar,56,09:46,real
-199,2013,approx,other,US walks away from peace talks with the Taliban.,,Taliban; Barack Obama,56,15:36,real
-217,2013,approx,death,"Hakimullah Mehsud killed; Fazlullah selected TTP emir, reportedly with Afghan Taliban/Haqqani/al-Qaeda role.",,Hakimullah Mehsud; Mullah Fazlullah,58,37:35,real
-295,2013,year,statement,"Zawahiri issued the General Guidelines for Jihad, limiting targets to military, security and political ones and barring direct targeting of civilians.",,al-Qaeda; Ayman al-Zawahiri,84,37:01,real
-304,2013,year,death,"A Sudanese jihadist who had become an AQ commander in Mali, believed to have come from the Dinder camp, was killed.",Mali,al-Qaeda,84,44:21,real
-340,2013,year,offensive,French intervention pushed al-Qaeda back; conflict has ebbed and flowed since,Mali,al-Qaeda; France (Operation Barkhane),101,04:26,real
-396,2013,year,other,Taliban opened a negotiating office in Qatar and raised its flag 'as if a government in exile'; Beth Bailey left the intelligence community the same year,Doha,Taliban; Beth Bailey,202,33:11,real
-356,2013-03,month,other,"Resolute Support evacuated Afghan forces from Sangin district center, flattened it and relocated it four miles away, claiming government control.",Sangin,Resolute Support,124,28:07,real
+149,2013,year,statement,"Al-Qaeda circulated its general guidelines of jihad to branches, including the Islamic State of Iraq. Baghdadi never responded, which led to a split.",,al-Qaeda; Abu Bakr al-Baghdadi,27,27:46,real
+202,2013,approx,other,Obama administration walks away from talks with the Taliban partly because the Taliban refused to drop 'Islamic Emirate' language.,,Taliban; Obama administration,43,17:03,real
+241,2013,year,death,Mullah Omar dies of natural causes in mysterious circumstances.,,Mullah Mohammad Omar,56,09:46,real
+244,2013,approx,other,US walks away from peace talks with the Taliban.,,Taliban; Barack Obama,56,15:36,real
+281,2013,approx,death,"Hakimullah Mehsud killed; Fazlullah selected TTP emir, reportedly with Afghan Taliban/Haqqani/al-Qaeda role.",,Hakimullah Mehsud; Mullah Fazlullah,58,37:35,real
+393,2013,year,statement,"Zawahiri issued the General Guidelines for Jihad, limiting targets to military, security and political ones and barring direct targeting of civilians.",,al-Qaeda; Ayman al-Zawahiri,84,37:01,real
+402,2013,year,death,"A Sudanese jihadist who had become an AQ commander in Mali, believed to have come from the Dinder camp, was killed.",Mali,al-Qaeda,84,44:21,real
+438,2013,year,offensive,French intervention pushed al-Qaeda back; conflict has ebbed and flowed since,Mali,al-Qaeda; France (Operation Barkhane),101,04:26,real
+494,2013,year,other,Taliban opened a negotiating office in Qatar and raised its flag 'as if a government in exile'; Beth Bailey left the intelligence community the same year,Doha,Taliban; Beth Bailey,202,33:11,real
+563,2013,approx,other,Jolani's dispute with Baghdadi over control of the Syrian jihad (2013-14) split the movement; Zawahiri ejected the Islamic State and sided with Jolani.,Syria,Abu Mohammad al-Jolani; Abu Bakr al-Baghdadi; Ayman al-Zawahiri,281,22:09,real
+454,2013-03,month,other,"Resolute Support evacuated Afghan forces from Sangin district center, flattened it and relocated it four miles away, claiming government control.",Sangin,Resolute Support,124,28:07,real
+128,2013-04,month,attack,"Boston bombing, cited as inspired by Khorasan mythology.",Boston,,22,06:23,real
 18,2014,year,statement,ISIS declared a caliphate and set up provinces to compete with al-Qaeda's proto-emirates.,Iraq,Islamic State; Abu Bakr al-Baghdadi,11,20:20,real
 59,2014,approx,statement,Abu Hamam appeared in a video describing his truce efforts between al-Nusra and ISIS.,Syria,Abu Humam al-Shami,17,04:00,real
 119,2014,approx,statement,Baghdadi declares himself caliph in a video; hosts joke about the watch he wore.,"Mosul, Iraq",Abu Bakr al-Baghdadi,20,93:39,real
-187,2014,year,other,Roggio formalized his district-control map after an Afghan press report cited an anonymous official saying the Taliban controlled eight districts.,Afghanistan,,53,26:06,real
-200,2014,year,statement,"US and NATO declare end to combat operations, called a 'big lie' by Roggio.",Afghanistan,NATO; United States,56,15:40,real
-242,2014,year,other,Blaise Compaoré was ousted in Burkina Faso. He had reportedly had a deal with AQ.,Burkina Faso,al-Qaeda; Blaise Compaoré,72,37:56,real
-249,2014,year,statement,AQ and Zawahiri made statements urging Muslims in the Central African Republic to rise up and wage jihad; the effort failed (approximately 2014-2015).,Central African Republic,al-Qaeda; Ayman al-Zawahiri,72,67:23,real
-357,2014,approx,offensive,"Al-Qaeda in Iraq took Fallujah, Ramadi and most of western Anbar, then overran Mosul.",Iraq,Al-Qaeda in Iraq,124,11:30,real
+151,2014,year,other,AQIS was stood up.,,al-Qaeda in the Indian Subcontinent,27,34:50,real
+232,2014,year,other,Roggio formalized his district-control map after an Afghan press report cited an anonymous official saying the Taliban controlled eight districts.,Afghanistan,,53,26:06,real
+245,2014,year,statement,"US and NATO declare end to combat operations, called a 'big lie' by Roggio.",Afghanistan,NATO; United States,56,15:40,real
+262,2014,year,release,"Five Guantanamo detainees exchanged for Bowe Bergdahl, held by the Haqqanis",Guantanamo Bay,Haqqani Network; Khairullah Khairkhwa; Mohammad Fazl; Bowe Bergdahl; Mohammad Nabi Omari; Abdul Haq Wasiq; Noorullah Noori,57,37:47,real
+340,2014,year,other,Blaise Compaoré was ousted in Burkina Faso. He had reportedly had a deal with AQ.,Burkina Faso,al-Qaeda; Blaise Compaoré,72,37:56,real
+347,2014,year,statement,AQ and Zawahiri made statements urging Muslims in the Central African Republic to rise up and wage jihad; the effort failed (approximately 2014-2015).,Central African Republic,al-Qaeda; Ayman al-Zawahiri,72,67:23,real
+455,2014,approx,offensive,"Al-Qaeda in Iraq took Fallujah, Ramadi and most of western Anbar, then overran Mosul.",Iraq,Al-Qaeda in Iraq,124,11:30,real
 47,2015,year,appointment,"Mullah Mansour was formally named Taliban emir overall; Zawahiri pledged allegiance and Mansour publicly accepted it in a speech, later taken down.",,Taliban; Akhtar Mohammad Mansour; Ayman al-Zawahiri,14,21:12,real
 105,2015,year,other,Al-Qaeda kidnapped an Iranian diplomat; he was reportedly exchanged for al-Qaeda detainees in Iran. Three of them left and were killed in Syria; Saif al-Adel and Abu Muhammad al-Masri stayed.,Iran,Iran; al-Qaeda; Abu Muhammad al-Masri; Saif al-Adel,20,45:46,real
-146,2015,year,release,"Five senior al-Qaeda leaders, including Abu Muhammad al-Masri and Saif al-Adel, freed by Iran after al-Qaeda kidnapped an Iranian diplomat; three went to Syria and were killed.",Iran,Iranian regime; al-Qaeda; Abu Muhammad al-Masri; Saif al-Adel,41,55:43,real
-170,2015,approx,appointment,"Mullah Mansour was appointed Taliban leader after Mullah Omar's death was disclosed, causing a schism. Sirajuddin and Jalaluddin Haqqani helped bring the factions back together.",Afghanistan,Sirajuddin Haqqani; Akhtar Mohammad Mansour; Jalaluddin Haqqani,43,47:44,real
-230,2015,year,other,"ISKP formed from ex-TTP fighters, disaffected Afghan Taliban and some al-Qaeda members.",Afghanistan,Islamic State Khorasan Province,70,05:23,real
-287,2015,year,strike,"U.S. raid on an al-Qaeda camp in Burmal district, Paktika killed Abu Khalil al-Sudani; intelligence found led to the Shorabak camps",Burmal district,U.S. forces; Haqqani Network; Abu Khalil al-Sudani,84,20:37,real
-288,2015,approx,offensive,"Several months after the Paktika raid, U.S. and Afghan forces raided two large AQ training camps in Shorabak, killing 150-200 fighters",Shorabak district,U.S. forces; al-Qaeda,84,21:31,real
-291,2015,year,strike,"US raid on an al-Qaeda camp in Barmal district, Paktika, killed Abu Khalil al-Sudani; documents found revealed two large training camps in Shorabak, Kandahar.","Barmal, Paktika",Haqqani Network; US forces; Abu Khalil al-Sudani,84,20:37,real
-341,2015,year,agreement,Tuareg rebel groups signed a peace agreement with Bamako that was never well implemented,Mali,Coordination of Azawad Movements; Government of Mali,101,10:40,real
+157,2015,approx,strike,"US killed Nasser al-Wuhayshi, AQAP emir and al-Qaeda general manager (hosts say 2015 or 2016).",Yemen,Nasser al-Wuhayshi,27,61:29,real
+191,2015,year,release,"Five senior al-Qaeda leaders, including Abu Muhammad al-Masri and Saif al-Adel, freed by Iran after al-Qaeda kidnapped an Iranian diplomat; three went to Syria and were killed.",Iran,Iranian regime; al-Qaeda; Abu Muhammad al-Masri; Saif al-Adel,41,55:43,real
+215,2015,approx,appointment,"Mullah Mansour was appointed Taliban leader after Mullah Omar's death was disclosed, causing a schism. Sirajuddin and Jalaluddin Haqqani helped bring the factions back together.",Afghanistan,Sirajuddin Haqqani; Akhtar Mohammad Mansour; Jalaluddin Haqqani,43,47:44,real
+328,2015,year,other,"ISKP formed from ex-TTP fighters, disaffected Afghan Taliban and some al-Qaeda members.",Afghanistan,Islamic State Khorasan Province,70,05:23,real
+385,2015,year,strike,"U.S. raid on an al-Qaeda camp in Burmal district, Paktika killed Abu Khalil al-Sudani; intelligence found led to the Shorabak camps",Burmal district,U.S. forces; Haqqani Network; Abu Khalil al-Sudani,84,20:37,real
+386,2015,approx,offensive,"Several months after the Paktika raid, U.S. and Afghan forces raided two large AQ training camps in Shorabak, killing 150-200 fighters",Shorabak district,U.S. forces; al-Qaeda,84,21:31,real
+389,2015,year,strike,"US raid on an al-Qaeda camp in Barmal district, Paktika, killed Abu Khalil al-Sudani; documents found revealed two large training camps in Shorabak, Kandahar.","Barmal, Paktika",Haqqani Network; US forces; Abu Khalil al-Sudani,84,20:37,real
+439,2015,year,agreement,Tuareg rebel groups signed a peace agreement with Bamako that was never well implemented,Mali,Coordination of Azawad Movements; Government of Mali,101,10:40,real
+564,2015,approx,strike,"US unofficially served as the Taliban's air force against the Islamic State in Nangarhar and surrounding provinces, c. 2015-2019.",Nangarhar,Taliban; Islamic State; United States,281,13:55,real
 38,2015-01,month,attack,"Charlie Hebdo attack, facilitated and executed by AQAP.",Paris,al-Qaeda in the Arabian Peninsula,12,24:43,real
-251,2015-10,month,attack,"US raid on two al-Qaeda training camps in Shorabak district, Kandahar, described as among the largest since 9/11.",Shorabak,al-Qaeda,75,08:23,real
-358,2015-10,month,strike,"US raid on two large al-Qaeda camps in Shorabak district killed about 150-200 fighters, raising the estimate to 200.",Shorabak,United States; al-Qaeda,124,16:20,real
+150,2015-07,approx,statement,The Taliban admitted Mullah Omar had been dead for about two years. Zawahiri began producing material regularly from about August 2015.,Afghanistan,Taliban; Ayman al-Zawahiri,27,26:49,real
+349,2015-10,month,attack,"US raid on two al-Qaeda training camps in Shorabak district, Kandahar, described as among the largest since 9/11.",Shorabak,al-Qaeda,75,08:23,real
+456,2015-10,month,strike,"US raid on two large al-Qaeda camps in Shorabak district killed about 150-200 fighters, raising the estimate to 200.",Shorabak,United States; al-Qaeda,124,16:20,real
 39,2015-11,month,attack,"ISIS attacks in Paris on stadiums, the Bataclan and restaurants.",Paris,Islamic State,12,25:00,real
 40,2015-12,month,attack,San Bernardino terrorist attack; Apple refused to break the security of the attackers' iPhone.,San Bernardino,Apple,12,03:23,real
 25,2016,year,statement,Donald Trump campaigned accusing Obama of being the founder of ISIS for withdrawing troops from Iraq.,,Barack Obama; Donald Trump,11,49:29,real
@@ -112,81 +155,100 @@ id,date,date_precision,type,description,place_text,actors,episode_idx,timestamp,
 48,2016,year,strike,Mullah Mansour was killed by the Obama administration in Pakistan.,Pakistan,Akhtar Mohammad Mansour,14,21:03,real
 87,2016,year,statement,The Taliban said they were not waging decades of jihad for a 'silly ministerial post'.,Afghanistan,Taliban,19,18:22,real
 106,2016,year,designation,"US Treasury designated three senior al-Qaeda terrorists in Iran, including Abu Hamza al-Khalidi as head of al-Qaeda's military committee.",Iran,US Treasury Department; Abu Hamza al-Khalidi,20,47:11,real
-273,2016,year,attack,Shabaab routs a Kenyan KDF base at El Adde; Kenya downplayed it until Shabaab released video and photos.,El Adde,Kenya Defence Forces; Shabaab,83,53:26,real
-275,2016,year,attack,"Shabaab routed a Kenyan base at el-Adde. Kenya initially denied the attack, then downplayed it.",El-Adde,Kenya Defence Forces; Shabaab,83,53:26,real
-359,2016,approx,offensive,Ghazni City fell to the Taliban; seven districts previously 'administered' from it were exposed as Taliban-controlled.,Ghazni,Taliban,124,23:43,real
+126,2016,year,death,Mullah Mansour killed after rejecting the ISIS caliphate and praising bin Laden and Zawahiri.,,Akhtar Mohammad Mansour,22,16:41,real
+371,2016,year,attack,Shabaab routs a Kenyan KDF base at El Adde; Kenya downplayed it until Shabaab released video and photos.,El Adde,Kenya Defence Forces; Shabaab,83,53:26,real
+373,2016,year,attack,"Shabaab routed a Kenyan base at el-Adde. Kenya initially denied the attack, then downplayed it.",El-Adde,Kenya Defence Forces; Shabaab,83,53:26,real
+457,2016,approx,offensive,Ghazni City fell to the Taliban; seven districts previously 'administered' from it were exposed as Taliban-controlled.,Ghazni,Taliban,124,23:43,real
+536,2016,approx,other,"NDS intelligence 2016-early 2019 showed Haqqanis 'teaming up' with ISKP, passing operations back and forth 'like football'.",Afghanistan,National Directorate of Security; Islamic State Khorasan Province; Haqqani Network,257,13:44,real
 60,2016-07,month,other,"Julani rebranded Nusra as Jabhat Fatah al-Sham, breaking from al-Qaeda; Abu Hamam publicly objected and left.",Syria,Abu Mohammad al-Jolani; Abu Humam al-Shami,17,06:50,real
 75,2016-07,month,statement,"Nusra Front rebranded and disassociated from al-Qaeda as Jabhat Fatah al-Sham, approved by Abu al-Khayr al-Masri in an audio message.",Syria,Hay'at Tahrir al-Sham; Abu Mohammad al-Jolani; Abu al-Khayr al-Masri,17,35:09,real
 82,2016-07,month,statement,Khalilzad recommended that Congress designate Pakistan a state sponsor of terrorism,,Zalmay Khalilzad,17,57:14,real
-360,2016-10,month,attack,"Taliban cut Route Bear, the critical supply node to Uruzgan.",Kandahar,Taliban,124,30:23,real
-362,2016/2017,approx,meeting,General Razik met TAAC-South leadership in the dining facility during Ramadan.,Kandahar Airfield,TAAC-South; Abdul Raziq Achakzai,124,48:38,real
+458,2016-10,month,attack,"Taliban cut Route Bear, the critical supply node to Uruzgan.",Kandahar,Taliban,124,30:23,real
+460,2016/2017,approx,meeting,General Razik met TAAC-South leadership in the dining facility during Ramadan.,Kandahar Airfield,TAAC-South; Abdul Raziq Achakzai,124,48:38,real
 37,2017,year,attack,"Hibatullah's son reportedly carried out a suicide bombing in Gereshk district, Helmand.",Gereshk district,Hibatullah Akhundzada,12,46:00,real
 61,2017,approx,other,"Nusra rebranded again as Hayat Tahrir al-Sham after merging with other factions; Saif al-Adel and Abu Muhammad al-Masri objected, and the coalition later broke apart.",Syria,Abu Muhammad al-Masri; Abu Mohammad al-Jolani; Saif al-Adel,17,07:37,real
 113,2017,year,death,"Abu al-Khayr al-Masri, Zawahiri's top deputy, killed in a US drone strike in Syria",Syria,Abu al-Khayr al-Masri,20,56:49,real
-237,2017,year,other,Zakir Musa founded Ansar Ghazwat-ul-Hind as an AQ-aligned splinter of Hizbul Mujahideen in Kashmir.,Kashmir,Hizbul Mujahideen; Ansar Ghazwat-ul-Hind; Zakir Musa,72,52:23,real
-247,2017,year,other,"Zakir Musa founded Ansar Ghazwat-ul-Hind and led it from 2017 to 2019, openly aligning with al-Qaeda.",Kashmir,Ansar Ghazwat-ul-Hind; Zakir Musa; Ayman al-Zawahiri,72,55:30,real
-286,2017,year,other,"Abu Huzaifa took part in Zawahiri-ordered al-Qaeda reconciliation efforts among Syrian jihadists, co-signing statements with al-Maqdisi and Abu Qatada",Syria,Abu Huzaifah al-Sudani; Abu Muhammad al-Maqdisi; Ayman al-Zawahiri; Abu Qatada al-Filistini,84,10:31,real
-338,2017,approx,other,ISIL laid down its blueprint (2017-2019) for regional networks/GDP to future-proof the jihad against military defeat in Iraq and Syria,Iraq/Syria,General Directorate of Provinces; Islamic State,97,11:26,real
+335,2017,year,other,Zakir Musa founded Ansar Ghazwat-ul-Hind as an AQ-aligned splinter of Hizbul Mujahideen in Kashmir.,Kashmir,Hizbul Mujahideen; Ansar Ghazwat-ul-Hind; Zakir Musa,72,52:23,real
+345,2017,year,other,"Zakir Musa founded Ansar Ghazwat-ul-Hind and led it from 2017 to 2019, openly aligning with al-Qaeda.",Kashmir,Ansar Ghazwat-ul-Hind; Zakir Musa; Ayman al-Zawahiri,72,55:30,real
+384,2017,year,other,"Abu Huzaifa took part in Zawahiri-ordered al-Qaeda reconciliation efforts among Syrian jihadists, co-signing statements with al-Maqdisi and Abu Qatada",Syria,Abu Huzaifah al-Sudani; Abu Muhammad al-Maqdisi; Ayman al-Zawahiri; Abu Qatada al-Filistini,84,10:31,real
+436,2017,approx,other,ISIL laid down its blueprint (2017-2019) for regional networks/GDP to future-proof the jihad against military defeat in Iraq and Syria,Iraq/Syria,General Directorate of Provinces; Islamic State,97,11:26,real
+514,2017,year,release,"Bin Laden files released after advocacy by Joscelyn and Roggio; the Haqqanis, especially Siraj, feature in them.",,Sirajuddin Haqqani; Osama bin Laden,213,44:43,real
+604,2017,year,other,Roggio and Fitton-Brown began discussing the UN Monitoring Team reports together.,,,313,02:00,real
 76,2017-02,approx,strike,"Abu al-Khayr al-Masri, Zawahiri's deputy, was killed in a US drone strike using an R-9X missile in Idlib.",Idlib,United States; Abu al-Khayr al-Masri,17,43:19,real
-361,2017-02,month,statement,Gen. Nicholson tells Sen. McCain the war is a stalemate and the Taliban gained ~15% territory since 2015.,Washington,John McCain; John Nicholson,124,26:57,real
-201,2017-08,month,statement,"Trump reluctantly signs off on a strategy to achieve 'victory' in Afghanistan, including a modest troop increase and getting tough on Pakistan.",Afghanistan,Donald Trump,56,18:39,real
-397,2017-08,approx,other,Trump-era decision point on Afghanistan ('third day of August 2017'),United States,Donald Trump,202,51:12,real
+459,2017-02,month,statement,Gen. Nicholson tells Sen. McCain the war is a stalemate and the Taliban gained ~15% territory since 2015.,Washington,John McCain; John Nicholson,124,26:57,real
+246,2017-08,month,statement,"Trump reluctantly signs off on a strategy to achieve 'victory' in Afghanistan, including a modest troop increase and getting tough on Pakistan.",Afghanistan,Donald Trump,56,18:39,real
+495,2017-08,approx,other,Trump-era decision point on Afghanistan ('third day of August 2017'),United States,Donald Trump,202,51:12,real
 62,2017-10,month,agreement,"Al-Qaeda's global network established a reconciliation initiative for the Syrian infighting, overseen by Abu Abdul Karim al-Masri.",Syria,Shabaab; al-Qaeda; AQIM; Abu Abd al-Karim al-Masri,17,09:52,real
-342,2017-10,month,attack,Tongo Tongo ambush killed four US Special Forces service members in Niger,Tongo Tongo,Islamic State Sahel Province; United States,101,31:57,real
-185,2017-11,month,statement,Gen. Nicholson called population control the 'most telling' metric for success in Afghanistan.,Afghanistan,John Nicholson,53,42:44,real
+440,2017-10,month,attack,Tongo Tongo ambush killed four US Special Forces service members in Niger,Tongo Tongo,Islamic State Sahel Province; United States,101,31:57,real
+230,2017-11,month,statement,Gen. Nicholson called population control the 'most telling' metric for success in Afghanistan.,Afghanistan,John Nicholson,53,42:44,real
 63,2018,year,agreement,"HTS and Hurras al-Din reached an accord in early 2018, followed by another bout of infighting later in 2018.",Syria,Hurras al-Din; Hay'at Tahrir al-Sham,17,11:34,real
-188,2018,year,other,"Alexander Kutowski helped migrate the map to Tableau, enabling real-time updates.",,Alexander Kutowski,53,41:07,real
-202,2018,year,agreement,"Trump administration abandons the 2017 strategy and begins negotiations with the Taliban, led by Khalilzad.",,Taliban; Mike Pompeo; Zalmay Khalilzad; Donald Trump,56,19:41,real
-305,2018,approx,other,"AQAP published an earlier Sudani book on al-Qaeda in Mali (2018 or 2019), which drew lessons from 2012.",,al-Qaeda in the Arabian Peninsula; Abu Huzaifah al-Sudani,84,50:46,real
-363,2018,approx,death,General Razik killed by the Taliban (hosts unsure whether 2018 or 2019).,Kandahar,Taliban; Abdul Raziq Achakzai,124,35:04,real
+233,2018,year,other,"Alexander Kutowski helped migrate the map to Tableau, enabling real-time updates.",,Alexander Kutowski,53,41:07,real
+247,2018,year,agreement,"Trump administration abandons the 2017 strategy and begins negotiations with the Taliban, led by Khalilzad.",,Taliban; Mike Pompeo; Zalmay Khalilzad; Donald Trump,56,19:41,real
+403,2018,approx,other,"AQAP published an earlier Sudani book on al-Qaeda in Mali (2018 or 2019), which drew lessons from 2012.",,al-Qaeda in the Arabian Peninsula; Abu Huzaifah al-Sudani,84,50:46,real
+461,2018,approx,death,General Razik killed by the Taliban (hosts unsure whether 2018 or 2019).,Kandahar,Taliban; Abdul Raziq Achakzai,124,35:04,real
+125,2018-05,month,attack,Ten young ISIS-K gunmen assaulted the Afghan Interior Ministry offices in Kabul after Gen. Nicholson blamed the Taliban/Haqqanis. ISIS then claimed the attack with a photo and video.,Kabul,Islamic State Khorasan Province; John Nicholson,22,26:31,real
+127,2018-08,month,statement,Hibatullah Akhundzada statement that Mattis described as a Taliban peace plan.,,Hibatullah Akhundzada; James Mattis,22,38:09,real
 15,2018-10,approx,attack,Taliban attack at a Kandahar provincial council meeting killed Gen. Raziq. Gen. Miller was nearly killed.,Kandahar,Taliban; Abdul Raziq Achakzai; Austin Scott Miller,11,35:41,real
-186,2018-10,month,statement,US/Resolute Support discontinued the district control and population metrics as of 'limited decision-making value'. Gen. Austin Miller shifted the success measure to a political settlement.,Afghanistan,Resolute Support Mission; US military; Austin Scott Miller,53,43:20,real
-189,2018-10,month,statement,"NATO, Resolute Support and U.S. Forces Afghanistan said district-control data was of limited decision-making value.",Afghanistan,Resolute Support Mission; U.S. Forces Afghanistan; NATO,53,49:08,real
+231,2018-10,month,statement,US/Resolute Support discontinued the district control and population metrics as of 'limited decision-making value'. Gen. Austin Miller shifted the success measure to a political settlement.,Afghanistan,Resolute Support Mission; US military; Austin Scott Miller,53,43:20,real
+234,2018-10,month,statement,"NATO, Resolute Support and U.S. Forces Afghanistan said district-control data was of limited decision-making value.",Afghanistan,Resolute Support Mission; U.S. Forces Afghanistan; NATO,53,49:08,real
 81,2019,year,attack,Jaish-e-Mohammed attack in Jammu and Kashmir killed 40 Indian police,Jammu and Kashmir,Jaish-e-Mohammed,17,52:05,real
 99,2019,year,statement,Turkestan Islamic Party claimed operations and published photos; Taliban denied as anti-peace propaganda,Afghanistan,Taliban; Turkistan Islamic Party,19,51:21,real
 107,2019,year,other,"Hafiz Saeed convicted on terrorism financing charges, but not seriously jailed.",Pakistan,Hafiz Saeed,20,29:21,real
 114,2019,year,death,"Asim Umar, AQIS emir, killed in Helmand along with his courier to Zawahiri",Helmand,Asim Omar,20,59:45,real
-158,2019,year,meeting,Trump plans to host the Taliban at Camp David; the Taliban released videos memorializing 9/11 and blaming the US.,Camp David,Taliban; Donald Trump,43,18:34,real
-162,2019,year,statement,Hosts published a Politico article setting out specific criteria for a real Taliban break with al-Qaeda.,,,43,39:19,real
-236,2019,year,other,"Ansaru re-emerged in northwest Nigeria after a dormant period, openly loyal to Zawahiri and AQIM.",Northwest Nigeria,Ansaru,72,06:47,real
-238,2019,year,death,Zakir Musa was killed in an Indian military operation. Ansar Ghazwat-ul-Hind has had a series of less prominent leaders since.,Kashmir,Zakir Musa,72,55:30,real
-248,2019,year,death,Zakir Musa was killed in an Indian military operation.,Kashmir,Zakir Musa,72,55:33,real
-293,2019,year,other,Omar al-Bashir's dictatorship was deposed in Sudan; Abdalla Hamdok led the new government.,Sudan,Omar al-Bashir; Abdalla Hamdok,84,23:48,real
-370,2019,year,statement,"The U.S. military stopped releasing district-control data, calling it of limited decision-making value and saying the goal was a political settlement.",Afghanistan,John Nicholson; Austin Scott Miller,172,18:22,real
+144,2019,year,other,Al Jazeera aired a documentary alleging that al-Qaeda operatives were hired by Bahrain and that Abu Zubaydah had Saudi royal contacts.,Bahrain,Al Jazeera; Kingdom of Bahrain,27,03:46,real
+203,2019,year,meeting,Trump plans to host the Taliban at Camp David; the Taliban released videos memorializing 9/11 and blaming the US.,Camp David,Taliban; Donald Trump,43,18:34,real
+207,2019,year,statement,Hosts published a Politico article setting out specific criteria for a real Taliban break with al-Qaeda.,,,43,39:19,real
+294,2019,approx,other,Fall of the last ISIS territory at Baghouz; detainees and families moved to camps.,Baghouz,Islamic State,62,43:02,real
+334,2019,year,other,"Ansaru re-emerged in northwest Nigeria after a dormant period, openly loyal to Zawahiri and AQIM.",Northwest Nigeria,Ansaru,72,06:47,real
+336,2019,year,death,Zakir Musa was killed in an Indian military operation. Ansar Ghazwat-ul-Hind has had a series of less prominent leaders since.,Kashmir,Zakir Musa,72,55:30,real
+346,2019,year,death,Zakir Musa was killed in an Indian military operation.,Kashmir,Zakir Musa,72,55:33,real
+391,2019,year,other,Omar al-Bashir's dictatorship was deposed in Sudan; Abdalla Hamdok led the new government.,Sudan,Omar al-Bashir; Abdalla Hamdok,84,23:48,real
+468,2019,year,statement,"The U.S. military stopped releasing district-control data, calling it of limited decision-making value and saying the goal was a political settlement.",Afghanistan,John Nicholson; Austin Scott Miller,172,18:22,real
 64,2019-02,month,statement,Long War Journal published an analysis of Karim's role in the HTS–Hurras al-Din accord.,,Long War Journal,17,11:19,real
 50,2019-04,approx,meeting,"Per the UN report, Hamza bin Laden met a Taliban delegation in spring 2019 and received assurances that the Taliban would not betray al-Qaeda.",,Taliban; Hamza bin Laden,14,29:54,real
 88,2019-04,month,attack,Bombing outside Bagram killed three Americans and wounded others. The Taliban claimed it as a suicide attack. It is the only attack cited as possibly Russian-bounty funded.,Bagram,Taliban; GRU,19,13:42,real
 49,2019-07,approx,statement,Suhail Shaheen told CBS News he was unsure that bin Laden and al-Qaeda were behind 9/11.,,Suhail Shaheen,14,24:12,real
+263,2019-07,month,statement,"Taliban video saying the US deserved 9/11, released during talks with the Trump administration",,Taliban,57,06:53,real
 51,2019-09,month,statement,"The White House announced Hamza bin Laden was dead, without giving place or date and saying only 'Afghanistan, Pakistan region'.",Afghanistan-Pakistan region,Hamza bin Laden,14,28:40,real
 52,2019-09,month,strike,Raid in Helmand (Musa Qala) in which Asim Umar was killed with his courier; al-Qaeda was being harbored by the Taliban.,Musa Qala,Taliban; al-Qaeda; Asim Omar,14,33:04,real
 65,2019-09,month,bounty,US State Department offered a reward of up to $5 million for Abu Abdul Karim al-Masri.,,US State Department; Abu Abd al-Karim al-Masri,17,11:56,real
 89,2019-09,month,attack,"Taliban-claimed suicide bombing in Kabul killed an American, prompting Trump to temporarily suspend the talks.",Kabul,Taliban; Donald Trump,19,20:06,real
-167,2019-09,month,strike,A joint Afghan-American raid in Helmand killed AQIS emir Asim Omar alongside Taliban commanders. The DOD reportedly buried the press release.,Helmand province,Taliban; US Forces Afghanistan; Asim Omar,43,50:13,real
+143,2019-09,approx,statement,Zawahiri released a lengthy 9/11 anniversary message rebutting Islamic critics of the hijackings and calling for fatwas against US military targets.,,Ayman al-Zawahiri,27,01:56,real
+158,2019-09,month,strike,Joint Afghan-US raid in Helmand killed AQIS emir Asim Umar and a courier who reported directly to Zawahiri.,Helmand,al-Qaeda in the Indian Subcontinent; Asim Omar,27,54:46,real
+212,2019-09,month,strike,A joint Afghan-American raid in Helmand killed AQIS emir Asim Omar alongside Taliban commanders. The DOD reportedly buried the press release.,Helmand province,Taliban; US Forces Afghanistan; Asim Omar,43,50:13,real
 28,2019-09-11,day,other,Al-Shamrani posted 'the countdown has begun' while visiting the 9/11 Memorial.,United States,Mohammed Saeed al-Shamrani,12,16:42,real
-328,2019-10,month,appointment,"Abu Ibrahim al-Hashimi al-Qurashi became ISIL emir, serving until February 2022",Syria,Abu Ibrahim al-Hashimi al-Qurashi,97,17:43,real
+426,2019-10,month,appointment,"Abu Ibrahim al-Hashimi al-Qurashi became ISIL emir, serving until February 2022",Syria,Abu Ibrahim al-Hashimi al-Qurashi,97,17:43,real
 90,2019-12,month,attack,"Suicide bombing in or near Bagram, months after the April 2019 attack.",Bagram,Taliban,19,15:31,real
 115,2019-12,month,attack,AQAP-linked attack at Naval Air Station Pensacola by Saudi second lieutenant Mohammed al-Shamrani,Pensacola,al-Qaeda in the Arabian Peninsula; Mohammed Saeed al-Shamrani,20,78:03,real
-335,2019-12,month,attack,"Pensacola attack, the most recent AQAP projection of a serious threat into the United States",Pensacola,al-Qaeda in the Arabian Peninsula,97,61:22,real
+433,2019-12,month,attack,"Pensacola attack, the most recent AQAP projection of a serious threat into the United States",Pensacola,al-Qaeda in the Arabian Peninsula,97,61:22,real
 27,2019-12-06,day,attack,Al-Shamrani's shooting at NAS Pensacola killed three US sailors and wounded eight.,Naval Air Station Pensacola,al-Qaeda in the Arabian Peninsula; Mohammed Saeed al-Shamrani,12,01:38,real
+159,2019-12-06,day,attack,"Mohammed Alshamrani killed three Americans at NAS Pensacola, in contact with AQAP handlers.",Naval Air Station Pensacola,al-Qaeda in the Arabian Peninsula; Mohammed Saeed al-Shamrani,27,57:08,real
 72,2020,approx,strike,Rifai Ahmed Taha Musa was killed by a US drone soon after arriving in Idlib from Turkey.,Idlib,United States; Rifai Ahmed Taha,17,25:21,real
 110,2020,year,other,"Pakistan asked the UN to free up funds for about 50 known jihadists, including Hafiz Saeed.",Pakistan,Pakistani military and intelligence establishment; Hafiz Saeed,20,29:05,real
-150,2020,approx,death,Abu Muhammad al-Masri killed in Iran; first reported by the New York Times (referenced as an example).,Iran,Abu Muhammad al-Masri,41,70:43,real
-159,2020,approx,meeting,"Mike Pompeo, as the first US cabinet official to do so, meets the Taliban in Doha.",Doha,Taliban; Mike Pompeo,43,18:04,real
-231,2020,year,statement,Some analysts claimed Zawahiri was dead; the hosts say there was no evidence and he later reappeared in videos and audios.,,Ayman al-Zawahiri,72,02:41,real
-343,2020,year,other,Military coup overthrew the government in Bamako; junta has ruled since,Bamako,Malian military junta,101,10:15,real
-398,2020,approx,other,Families of US servicemen killed in Afghanistan sued Iran for supporting the Taliban and al-Qaeda and won (2020-2021); NGIC reporting on Qari Baryal used as evidence,United States,Taliban; Islamic Revolutionary Guard Corps; al-Qaeda,202,15:56,real
-416,2020,approx,statement,"Pompeo says Taliban deal would see them defeat al-Qaeda, negotiate with Afghan government, and respect women's rights.",,Taliban; Mike Pompeo,225,39:37,real
+195,2020,approx,death,Abu Muhammad al-Masri killed in Iran; first reported by the New York Times (referenced as an example).,Iran,Abu Muhammad al-Masri,41,70:43,real
+204,2020,approx,meeting,"Mike Pompeo, as the first US cabinet official to do so, meets the Taliban in Doha.",Doha,Taliban; Mike Pompeo,43,18:04,real
+290,2020,approx,death,Abu Muhammad al-Masri assassinated in Tehran with his daughter (previously reported).,Tehran,Abu Muhammad al-Masri,62,26:41,real
+299,2020,year,death,AQIM leader Abdelmalek Droukdel killed.,Mali/Sahel,AQIM; Abdelmalek Droukdel,62,69:08,real
+308,2020,approx,agreement,Doha agreement: Khalilzad negotiated what Haqqani calls a withdrawal deal sold as a peace deal; the Taliban say their only commitment was to facilitate the US withdrawal.,Doha,Taliban; Zalmay Khalilzad; Donald Trump,64,06:57,real
+329,2020,year,statement,Some analysts claimed Zawahiri was dead; the hosts say there was no evidence and he later reappeared in videos and audios.,,Ayman al-Zawahiri,72,02:41,real
+441,2020,year,other,Military coup overthrew the government in Bamako; junta has ruled since,Bamako,Malian military junta,101,10:15,real
+496,2020,approx,other,Families of US servicemen killed in Afghanistan sued Iran for supporting the Taliban and al-Qaeda and won (2020-2021); NGIC reporting on Qari Baryal used as evidence,United States,Taliban; Islamic Revolutionary Guard Corps; al-Qaeda,202,15:56,real
+531,2020,approx,statement,"Pompeo says Taliban deal would see them defeat al-Qaeda, negotiate with Afghan government, and respect women's rights.",,Taliban; Mike Pompeo,225,39:37,real
 26,2020-01,approx,death,Qasem Soleimani killed alongside the PMF leader.,Iraq,Qassem Soleimani,11,65:44,real
 29,2020-01,approx,death,"AQAP emir Qasim al-Rimi was killed in a US drone strike in Yemen, a few weeks before the early Feb video.",Yemen,Qasim al-Rimi,12,03:45,real
+137,2020-01,month,attack,Afghan Black Hawk helicopter downed by an anti-tank missile in Helmand.,Helmand,Taliban,22,53:23,real
 24,2020-02,approx,agreement,"US-Taliban withdrawal deal signed in Doha, calling for a 5,000 for 1,000 prisoner swap.",Doha,Taliban; United States,11,51:48,real
 30,2020-02,month,statement,AQAP video claimed 'full responsibility' for Pensacola and described al-Shamrani as a sleeper agent.,Yemen,al-Qaeda in the Arabian Peninsula,12,03:45,real
 44,2020-02,approx,statement,Taliban statement after the withdrawal agreement offering a general amnesty to opponents.,Afghanistan,Taliban,12,46:19,real
 53,2020-02,month,meeting,"Per the UN report, Zawahiri met an Akani delegation (incl. Yahya Haqqani) and received assurances; location unknown.",,Haqqani Network; Yahya Haqqani; Ayman al-Zawahiri,14,33:46,real
-169,2020-02,approx,agreement,The US-Taliban (Doha) agreement; the hosts say the Taliban has not complied for more than 11 months.,Doha,Taliban; United States,43,44:48,real
-173,2020-02,month,agreement,US-Taliban withdrawal agreement signed in Doha; Taliban called themselves Islamic Emirate throughout.,Doha,Taliban; United States,47,05:58,real
-203,2020-02,month,agreement,US-Taliban withdrawal deal dressed up as a peace deal.,,Taliban; United States,56,22:31,real
-207,2020-02,month,agreement,US-Taliban deal signed with a May 1 withdrawal deadline and weak counterterrorism provisions.,,Taliban; United States; Donald Trump,56,33:55,real
-221,2020-02,month,agreement,The Doha deal between the US and the Taliban. The hosts say some US officials lied on the Taliban's behalf about its al-Qaeda ties. The date is not given in this chunk.,Doha,Taliban; United States,58,48:34,real
+123,2020-02,month,statement,New York Times publishes an op-ed attributed to Sirajuddin Haqqani that blames the US for the war and does not name al-Qaeda.,,New York Times; Sirajuddin Haqqani,22,30:21,real
+214,2020-02,approx,agreement,The US-Taliban (Doha) agreement; the hosts say the Taliban has not complied for more than 11 months.,Doha,Taliban; United States,43,44:48,real
+218,2020-02,month,agreement,US-Taliban withdrawal agreement signed in Doha; Taliban called themselves Islamic Emirate throughout.,Doha,Taliban; United States,47,05:58,real
+248,2020-02,month,agreement,US-Taliban withdrawal deal dressed up as a peace deal.,,Taliban; United States,56,22:31,real
+252,2020-02,month,agreement,US-Taliban deal signed with a May 1 withdrawal deadline and weak counterterrorism provisions.,,Taliban; United States; Donald Trump,56,33:55,real
+264,2020-02,month,agreement,Doha agreement signed between the Trump administration and the Taliban,Doha,Taliban; Donald Trump,57,04:40,real
+285,2020-02,month,agreement,The Doha deal between the US and the Taliban. The hosts say some US officials lied on the Taliban's behalf about its al-Qaeda ties. The date is not given in this chunk.,Doha,Taliban; United States,58,48:34,real
+505,2020-02,month,statement,New York Times ran an op-ed in Sirajuddin Haqqani's name promising an inclusive political system; hosts say he could not have written it.,,New York Times; Sirajuddin Haqqani,213,04:53,real
 36,2020-02-07,day,statement,Taliban issued a religious decree (fatwa) stating the only acceptable outcome is reestablishing the Islamic Emirate with Hibatullah as emir.,Afghanistan,Taliban; Hibatullah Akhundzada,12,45:16,real
 1,2020-02-29,approx,agreement,"U.S.-Taliban withdrawal agreement signed. The hosts say 'about three weeks' before recording; the date is resolved from the publish date. The hosts call it a withdrawal deal, not a peace deal.",,Taliban; U.S. State Department; Zalmay Khalilzad,3,01:19,real
 2,2020-02-29,approx,statement,Two Taliban spokesmen said on the day of signing that attacks on the Afghan government would continue.,Afghanistan,Taliban,3,04:56,real
@@ -197,23 +259,25 @@ id,date,date_precision,type,description,place_text,actors,episode_idx,timestamp,
 91,2020-02-29,day,agreement,US-Taliban withdrawal deal signed.,Doha,Taliban; United States,19,11:03,real
 98,2020-02-29,day,agreement,US-Taliban withdrawal deal referenced,,Taliban; United States,19,50:29,real
 108,2020-02-29,day,agreement,"US-Taliban deal signed; US to close five bases and withdraw 4,000 troops within 135 days.",Afghanistan,US State Department; Taliban,20,35:06,real
-130,2020-02-29,day,agreement,US-Taliban deal; Treasury says the Taliban and al-Qaeda kept a strong relationship in the months after it.,,Taliban,41,38:06,real
-152,2020-02-29,day,agreement,"US and Taliban sign the withdrawal agreement in Doha (host mis-speaks the year as 2000). The hosts say it has no reduction-in-violence, al-Qaeda-break or negotiation requirements.",Doha,Taliban; Trump administration; Zalmay Khalilzad,43,01:10,real
-161,2020-02-29,day,agreement,"US-Taliban withdrawal agreement signed. The US is to withdraw by May 2021, the Taliban are to prevent al-Qaeda from using Afghan soil, and the US pledges no force against Afghanistan.",Afghanistan,Taliban; Trump administration; United States,43,30:07,real
-213,2020-02-29,day,agreement,US-Taliban Doha withdrawal deal signed under the Trump administration.,Doha,Taliban; United States,58,08:51,real
-418,2020-02-29,day,agreement,US-Taliban Doha agreement signed at the end of February 2020 by the first Trump administration; contained nothing retaining a US foothold at Bagram.,Doha,Taliban; United States; Donald Trump,272,03:05,real
+122,2020-02-29,day,agreement,US-Taliban withdrawal deal signed in Doha.,Doha,Taliban; Mike Pompeo; Zalmay Khalilzad,22,07:14,real
+175,2020-02-29,day,agreement,US-Taliban deal; Treasury says the Taliban and al-Qaeda kept a strong relationship in the months after it.,,Taliban,41,38:06,real
+197,2020-02-29,day,agreement,"US and Taliban sign the withdrawal agreement in Doha (host mis-speaks the year as 2000). The hosts say it has no reduction-in-violence, al-Qaeda-break or negotiation requirements.",Doha,Taliban; Trump administration; Zalmay Khalilzad,43,01:10,real
+206,2020-02-29,day,agreement,"US-Taliban withdrawal agreement signed. The US is to withdraw by May 2021, the Taliban are to prevent al-Qaeda from using Afghan soil, and the US pledges no force against Afghanistan.",Afghanistan,Taliban; Trump administration; United States,43,30:07,real
+277,2020-02-29,day,agreement,US-Taliban Doha withdrawal deal signed under the Trump administration.,Doha,Taliban; United States,58,08:51,real
+548,2020-02-29,day,agreement,US-Taliban Doha agreement signed at the end of February 2020 by the first Trump administration; contained nothing retaining a US foothold at Bagram.,Doha,Taliban; United States; Donald Trump,272,03:05,real
 3,2020-03,approx,statement,"Esper suggested Taliban 'hardliners' were failing to honor the reduction in violence, days after the Taliban stepped up attacks.",,Mark Esper,3,02:24,real
 6,2020-03,approx,offensive,Taliban announced an offensive against ISIS in Kunar; Khalilzad praised it on Twitter and Suhail Shaheen rebutted him.,Kunar,Taliban; Islamic State; Suhail Shaheen; Zalmay Khalilzad,3,09:46,real
 7,2020-03,approx,statement,"al-Qaeda released a three-page Arabic statement praising the Taliban's victory, calling Hibatullah 'emir of the faithful' and urging mujahideen to abide by the deal.",,al-Qaeda; Hibatullah Akhundzada,3,12:08,real
 8,2020-03,approx,statement,"JNIM said it would negotiate with the Malian government if France leaves the region, citing the Taliban deal as a model.",Mali,Jama'at Nusrat al-Islam wal-Muslimin; France,3,19:44,real
 9,2020-03,approx,statement,AQIM's emir issued a video saying it would talk to regional governments as long as France withdraws.,,al-Qaeda in the Islamic Maghreb,3,19:58,real
 12,2020-03,approx,offensive,"After the deal, the Taliban carried out about 4,500 attacks in 45 days, according to Reuters.",Afghanistan,Taliban,11,37:12,real
-174,2020-03,approx,statement,Taliban issued fatwa a week after the deal saying only acceptable government is the Islamic Emirate under Hibatullah.,Afghanistan,Taliban; Hibatullah Akhundzada,47,08:08,real
+219,2020-03,approx,statement,Taliban issued fatwa a week after the deal saying only acceptable government is the Islamic Emirate under Hibatullah.,Afghanistan,Taliban; Hibatullah Akhundzada,47,08:08,real
 11,2020-03-07,approx,statement,"Taliban issued a fatwa about seven days after the deal, saying they did not fight for democracy or power-sharing but to re-establish the Islamic Emirate with Hibatullah as emir.",Afghanistan,Taliban; Hibatullah Akhundzada,11,48:27,real
 5,2020-03-15,day,other,Bill's tracking tally reached 248 Taliban-claimed attacks on Afghan forces in 28 of 34 provinces since the deal.,Afghanistan,Taliban,3,05:44,real
 4,2020-03-17,approx,statement,McKenzie told the Senate Armed Services Committee that a Taliban 'splinter' might be carrying out attacks ('last week').,,Senate Armed Services Committee; Kenneth McKenzie,3,02:42,real
 35,2020-05,approx,statement,Hibatullah Akhundzada issued an Eid al-Fitr statement calling for an Islamic system and offering amnesty.,Afghanistan,Hibatullah Akhundzada,12,40:57,real
-131,2020-05,month,statement,"Treasury assessment, as of May 2020, that the Taliban and al-Qaeda maintain a strong relationship and meet regularly.",Afghanistan,Taliban; US Department of the Treasury; al-Qaeda,41,38:06,real
+124,2020-05,month,statement,UN Monitoring Team report finds ISKP-claimed attacks traceable via intercepts to known Haqqani network members and cites a 'tactical accommodation'.,,UN Monitoring Team; Edmund Fitton-Brown,22,23:42,real
+176,2020-05,month,statement,"Treasury assessment, as of May 2020, that the Taliban and al-Qaeda maintain a strong relationship and meet regularly.",Afghanistan,Taliban; US Department of the Treasury; al-Qaeda,41,38:06,real
 13,2020-05-12,approx,attack,"ISIS-claimed attack on a funeral in Nangarhar, 'last week' relative to publication.",Nangarhar,Islamic State,11,36:33,real
 14,2020-05-12,approx,attack,"Attack on a maternity ward in Kabul, 'last week' relative to publication.",Kabul,Islamic State,11,36:39,real
 31,2020-05-18,approx,statement,DOJ and FBI press conference announcing access to al-Shamrani's phones and criticizing Apple.,United States,Apple; Department of Justice; FBI,12,14:44,real
@@ -229,6 +293,7 @@ id,date,date_precision,type,description,place_text,actors,episode_idx,timestamp,
 78,2020-06,approx,statement,"State Department released Country Reports on Terrorism for 2019, saying Pakistan continued to serve as a safe haven for certain regionally focused terrorist groups.",United States,US State Department,17,45:27,real
 84,2020-06,month,statement,Trump gave a West Point graduation speech about ending the endless wars,West Point,Donald Trump,17,67:01,real
 100,2020-06,approx,statement,Pompeo said he had seen evidence the Taliban is working to destroy al-Qaeda in Afghanistan,,Mike Pompeo,19,58:00,real
+160,2020-06,month,death,AQIM emir Abdelmalek Droukdel was killed.,,Abdelmalek Droukdel,27,53:50,real
 45,2020-06-03,day,statement,Senator Tom Cotton's New York Times op-ed 'Send in the Troops' called for deploying the military to restore order.,United States,Tom Cotton,14,10:27,real
 57,2020-06-12,day,statement,"Five jihadi groups, led by Hurras al-Din, announced the Stand Firm operations room.",Syria,Ansar al-Islam; Hurras al-Din; Al Ansar Fighters Brigade; Ansar al-Din,17,02:04,real
 83,2020-06-24,day,statement,Tom Joscelyn testified to the House Homeland Security Subcommittee on Intelligence and Counterterrorism alongside Mike Morell,,Mike Morell,17,60:00,real
@@ -238,219 +303,314 @@ id,date,date_precision,type,description,place_text,actors,episode_idx,timestamp,
 96,2020-07,approx,statement,Imam Bukhari Battalion's emir in Syria posted photos of a joint raid with the Taliban to capture Afghans; Caleb Weiss reported it,Syria,Taliban; Katibat Imam al-Bukhari,19,48:53,real
 97,2020-07,approx,statement,"Taliban spokesman Zabihullah Mujahid denied the report, calling it anti-peace propaganda stolen from Taliban archives, then released the 'original' photo",Afghanistan,Taliban; Zabihullah Mujahid,19,49:25,real
 109,2020-07,month,statement,Gen. McKenzie says Zawahiri is in eastern Afghanistan.,Eastern Afghanistan,Kenneth McKenzie; Ayman al-Zawahiri,20,01:53,real
+129,2020-07,approx,statement,"Trump, asked about Russian bounties on Americans, says the US also supplied weapons to those fighting the Russians.",,Donald Trump,22,39:51,real
+138,2020-07,month,attack,Afghan Black Hawk helicopter downed by an anti-tank missile during an evacuation mission in Helmand.,Helmand,Taliban,22,53:07,real
 94,2020-07-10,day,other,Hosts record the episode; congressional hearings on the Russian bounty story were held that week.,,,19,07:21,real
-147,2020-08,month,death,Abu Muhammad al-Masri killed in Iran.,Iran,Abu Muhammad al-Masri,41,55:50,real
-123,2020-08-07,day,death,"Abu Muhammad al-Masri, al-Qaeda deputy emir, killed in Iran by Israelis at US behest; first reported on al-Qaeda channels and then confirmed by the New York Times and, in this speech, by Pompeo",Iran,Israel; Mike Pompeo; Abu Muhammad al-Masri,41,19:49,real
-329,2020-09,month,arrest,"Turkey announced the detention of Bashar al-Sumaidai, wrongly suggesting he was ISIL's leader",Turkey,Bashar al-Sumaidai; Recep Tayyip Erdogan,97,19:01,real
-252,2020-11,month,statement,"Claims by Hassan Hassan and others that Zawahiri was dead, which Roggio and Joscelyn disputed.",,Ayman al-Zawahiri; Hassan Hassan,75,16:15,real
-219,2020-2021,approx,other,"TTP reconfiguration: nine groups rejoined under Noor Wali Mehsud, including two al-Qaeda groups.",Pakistan,Tehrik-e-Taliban Pakistan; Noor Wali Mehsud,58,39:32,real
-216,2021,year,release,"Taliban jailbreaks freed many Pakistani Taliban prisoners held by the Afghan government, including Fakir Mohammed.",Afghanistan,Taliban; Faqir Mohammad,58,43:54,real
-344,2021,year,other,Wagner Group deployed to Mali as Bamako's new state patron after France's departure,Mali,Wagner Group; Malian military junta,101,34:56,real
-364,2021,approx,offensive,"Taliban take Kandahar city and Kandahar Airfield, then Kabul, after Trump's deal and Biden's withdrawal.",Afghanistan,Taliban,124,35:28,real
-122,2021-01,approx,designation,"Last-minute Trump-administration designations, including the Houthis and the head of Iraq's Popular Mobilization Forces",,Houthis; Trump administration; Popular Mobilization Forces,41,6:52,real
-140,2021-01,month,other,"US troop level in Afghanistan falls to about 2,500.",Afghanistan,,41,26:34,real
-141,2021-01,approx,other,Reuters retitles its piece to 'Pompeo says Iran gives al-Qaeda new home base. Analysts skeptical' and adds the Iranian government denial.,,Reuters,41,49:10,real
-151,2021-01,approx,statement,Pompeo's speech on the Iran–al-Qaeda axis; hosts criticize the press dismissal of it.,,Mike Pompeo,41,70:29,real
-153,2021-01,approx,statement,"Jake Sullivan states three conditions for Taliban compliance (cut ties with terrorists including al-Qaeda, reduce violence, negotiate with the Afghan government) and that the Biden administration is reviewing the deal.",United States,Jake Sullivan,43,01:01,real
-155,2021-01,approx,attack,"Taliban assassination campaign against civil society, including two female judges killed in Kabul, plus lawyers, politicians, journalists and NGO workers.",Kabul,Taliban,43,06:42,real
-156,2021-01,approx,travel,Taliban delegation travels to Russia; earlier meetings in Iran and a trip to Indonesia in recent weeks.,Russia,Taliban,43,14:56,real
-129,2021-01-04,day,statement,"Treasury response to the DoD IG says al-Qaeda is gaining strength in Afghanistan under Taliban protection, with a joint Haqqani-al-Qaeda unit, and that the Taliban and al-Qaeda meet regularly.",Afghanistan,Taliban; Department of Defense Office of Inspector General; US Department of the Treasury; Haqqani Network; al-Qaeda,41,36:03,real
-120,2021-01-06,day,other,"Riot at the US Capitol, which delayed the episode by a week","Washington, D.C.",,41,0:30,real
-121,2021-01-12,approx,statement,"Pompeo delivers a speech on the Iran-al-Qaeda axis, and State Department Rewards for Justice announces details on al-Qaeda leaders in Iran","Washington, D.C.",US State Department Rewards for Justice; Mike Pompeo,41,4:47,real
-128,2021-01-12,day,statement,"Pompeo delivers a speech on the Iran-al-Qaeda axis, saying al-Qaeda has a new home base in Iran and fewer al-Qaeda operatives are in Afghanistan than in decades.",,Mike Pompeo,41,35:56,real
-154,2021-02-01,day,statement,Taliban statement calls the Doha deal a 'termination of occupation agreement'.,Afghanistan,Taliban,43,07:04,real
-177,2021-03,approx,death,A Tajik AQIS commander and a Taliban leader were killed in Haqqani-run area while plotting attacks on provincial capitals.,Afghanistan,Taliban; al-Qaeda in the Indian Subcontinent; Haqqani Network,47,26:09,real
-178,2021-03,approx,offensive,ISIS in Mozambique seized territory; small group of US trainers reported there.,Mozambique,ISIS Central Africa Province,47,30:00,real
-176,2021-04,approx,other,"Tolo News reported the Taliban might accept a 3-month extension in exchange for release of 7,000 prisoners and UN delisting.",Afghanistan,Taliban,47,15:22,real
-214,2021-04,approx,statement,President Biden decided to withdraw US forces from Afghanistan.,United States,Joe Biden,58,07:02,real
-164,2021-05,month,other,"Deadline in the agreement for full US withdrawal (May 1, 2021).",Afghanistan,Taliban; United States,43,31:27,real
-179,2021-05,month,offensive,"Taliban offensive begins in earnest. Roggio's count of Taliban-controlled districts rises from about 73 to about 142 of 407 by 24 June, i.e. 69 districts gained, mostly in the north.",Afghanistan,Taliban; Afghan government,53,07:57,real
-204,2021-05,month,offensive,"Taliban launches its offensive, taking districts, then provincial capitals; Afghan forces collapse.",Afghanistan,Taliban; Afghan National Army,56,16:36,real
-175,2021-05-01,day,other,Deadline for US troop withdrawal under the Doha deal; Biden reportedly considering 3-6 month extension.,Afghanistan,Taliban; Joe Biden,47,01:58,real
-182,2021-06,approx,attack,Taliban entered Kunduz city and fighting began there.,Kunduz,Taliban,53,02:20,real
-183,2021-06,approx,death,"After a base was overrun in Takhar, the Taliban executed the local NDS chief and the police chief. It was the only execution Roggio had seen during the offensive.",Takhar,Taliban; National Directorate of Security,53,04:59,real
-192,2021-06,approx,offensive,Many districts fell to the Taliban in the preceding weeks.,Afghanistan,Taliban; Afghan government,53,52:49,real
-369,2021-06,month,statement,Joscelyn's article for The Dispatch argued that the situation in Afghanistan was much worse than the U.S. military claimed.,Afghanistan,,172,11:43,real
-180,2021-06-23,day,statement,"Gen. Mark Milley testified to the House Armed Services Committee, implying about 30 districts had changed hands and downplaying the offensive because no provincial capitals had fallen.",Washington,House Armed Services Committee; Mark Milley,53,10:02,real
-181,2021-06-24,day,other,Date the episode was recorded; used as the snapshot for district counts.,,,53,07:36,real
-190,2021-06-24,approx,statement,A U.S. official testified before Congress on the number of districts the Taliban controls. The hosts doubt the analysis behind the figure.,United States,U.S. Congress,53,48:35,real
-191,2021-06-25,approx,other,A person at NATO headquarters contacted Roggio about his map of Taliban district control.,,NATO,53,48:50,real
-206,2021-07,approx,statement,"Gen. Milley says Afghan forces had the capacity to defend their country, weeks before the collapse.",,Mark Milley,56,25:05,real
-209,2021-07,approx,statement,Milley said in late July that the Afghans had the capacity to defend their country.,,Mark Milley,56,25:05,real
-223,2021-07,approx,appointment,The Taliban put the Tajik leader of Jamaat Ansarullah in control of five districts in northern Afghanistan (summer 2021).,Northern Afghanistan,Taliban; Jamaat Ansarullah,70,01:40,real
-371,2021-07,approx,other,Miller relinquished command in Afghanistan.,Afghanistan,Austin Scott Miller,172,27:47,real
-205,2021-07-08,day,statement,"Biden claims about 300,000 ANDSF personnel capable of defending the country.",,Joe Biden,56,24:49,real
-208,2021-07-08,approx,statement,"Biden claimed 300,000 ANDSF personnel were capable of defending the country.",,Joe Biden,56,24:52,real
-210,2021-08,approx,offensive,Taliban offensive collapses Afghan government; Kabul falls; chaotic scenes at Kabul airport.,Kabul,Taliban,56,35:37,real
-215,2021-08,approx,statement,Noor Wali Mehsud renewed TTP allegiance to Hibatullah Akhundzada days after the Taliban consolidated victory over the Afghan government.,,Tehrik-e-Taliban Pakistan; Hibatullah Akhundzada; Noor Wali Mehsud,58,42:47,real
-253,2021-08,month,other,US withdrawal from Afghanistan complete; Taliban takeover.,Afghanistan,Taliban,75,10:31,real
-345,2021-08,month,other,"Fall of Afghanistan to the Taliban, the start point of the hosts' 'next state to collapse' conversation",Afghanistan,Taliban,101,01:10,real
-373,2021-08,month,other,The U.S. withdrawal from Afghanistan and the Taliban takeover.,Kabul,Taliban; Joe Biden,172,29:34,real
-399,2021-08,month,other,US withdrawal and Kabul evacuation; Taliban provided security at HKIA,Hamid Karzai International Airport,Taliban; United States,202,37:19,real
-421,2021-08,month,other,US evacuation conducted from Kabul's civilian airport rather than Bagram; Badri 313 (Haqqani special forces) provided security outside Hamid Karzai International Airport.,Hamid Karzai International Airport,Haqqani Network; United States; Badri 313,272,14:30,real
-193,2021-08-15,approx,offensive,Kabul surrenders to the Taliban; the Taliban and allied jihadists including al-Qaeda enter the capital and prepare to announce the restored Islamic Emirate.,Kabul,Taliban; al-Qaeda,56,00:59,real
-419,2021-08-15,day,other,"Taliban took control of Bagram and, as one of its first official acts, emptied the prisons there, releasing thousands of al-Qaeda, Taliban and Islamic State fighters.",Bagram Air Base,Taliban; Islamic State Khorasan Province; al-Qaeda,272,13:39,real
-420,2021-08-26,day,attack,"Islamic State fighter released from prison 11 days earlier conducted a suicide attack at Abbey Gate, Kabul airport, killing 182 people including 13 US service members (hosts' figures).",Abbey Gate,Islamic State Khorasan Province; Abdul Rahman al-Logari,272,14:09,real
-211,2021-10,approx,statement,"Tom Joscelyn testified before the Senate Armed Services Committee and the Senate Banking Committee on Afghanistan, Taliban leverage and aid.","Washington, DC",Senate Banking Committee; Senate Armed Services Committee,58,01:02,real
-220,2021-10,approx,statement,Ibrahim al-Qosi (AQAP) video gloating over US withdrawal and threatening America.,Yemen,al-Qaeda in the Arabian Peninsula; Ibrahim al-Qosi,58,25:35,real
-212,2021-10-08,day,attack,"ISKP suicide bombing of a Hazara Shia mosque in Kunduz by a Uyghur bomber, as part of ISKP campaign against Shiites and wedge against Taliban/al-Qaeda/TIP.",Kunduz,Islamic State Khorasan Province,58,28:51,real
-254,2021-12,month,statement,Gen. McKenzie said US intelligence visibility in Afghanistan was 1-2% of pre-withdrawal.,,Kenneth McKenzie,75,07:16,real
-276,2022,year,attack,Shabaab overran a Burundian base in Middle Shabelle and killed dozens of troops.,Middle Shabelle,Shabaab; Burundian troops,83,54:11,real
-277,2022,year,attack,Shabaab incursion into Ethiopia early in the year.,Ethiopia,Shabaab,83,58:01,real
-306,2022,year,death,"Zawahiri was killed, 21 years after 9/11.",,United States; Ayman al-Zawahiri,84,53:22,real
-314,2022,year,attack,"Islamic State prison break at Hasakah, blamed on Ibrahim al-Katani.",Hasakah,Islamic State; Syrian Democratic Forces; Ibrahim al-Qahtani,89,32:22,real
-372,2022,year,strike,Zawahiri was killed in a U.S. drone strike in Kabul.,Kabul,Ayman al-Zawahiri,172,41:11,real
-379,2022,year,designation,US Treasury designated a smuggling network between northern Somalia and Yemen serving al-Shabaab and ISIS-Somalia,Somalia/Yemen,US Treasury,196,16:08,real
-446,2022,year,death,"Zawahiri killed in Kabul, 21 years after 9/11; Roggio says this exposed that AQ's current leader is based in Iran and embarrassed the Taliban.",Kabul,Taliban; United States; Ayman al-Zawahiri,337,17:44,real
-400,2022-02,month,other,Russian invasion of Ukraine ended real press criticism of the Afghanistan withdrawal,,Biden administration,202,50:22,real
-232,2022-02-24,day,other,"Russia invaded Ukraine. Zawahiri's bin Laden commemoration speech refers to it, which establishes that he was alive as of that date.",Ukraine,Ayman al-Zawahiri,72,03:22,real
-227,2022-04,month,attack,"ISKP mortar/rocket attack on Uzbekistan launched from the Afghan border area, its first cross-border attack from Afghanistan.",Uzbekistan,Islamic State Khorasan Province,70,04:09,real
-228,2022-04,approx,strike,"Pakistani airstrikes in Khost and Kunar killed about 47 Afghans, many of them civilians.",Khost; Kunar,Pakistani military and intelligence establishment,70,11:05,real
-321,2022-04,approx,attack,"Suicide bombing in Goma, North Kivu, attributed to ADF-linked activity. The speaker said it took place 'last April'; it is resolved against the 2023 publish date.",Goma,Islamic State Central Africa Province,89,59:42,real
-332,2022-04,month,statement,Roggio testified to the House Homeland Security Committee on global terrorism and al-Qaeda's safe haven in Afghanistan,"Washington, D.C.",,97,42:45,real
-224,2022-04-19,day,attack,ISKP bombing at a school in Kabul targeting Shia Hazaras; at least 6 killed.,Kabul,Islamic State Khorasan Province,70,03:23,real
-225,2022-04-21,approx,attack,ISKP attack on Shia in Mazar-i-Sharif; 31 killed and over 80 wounded.,Mazar-i-Sharif,Islamic State Khorasan Province,70,03:36,real
-226,2022-04-22,approx,attack,ISKP attack on a Sufi mosque in Kunduz city; 33 killed.,Kunduz,Islamic State Khorasan Province,70,03:45,real
-312,2022-05,month,statement,Abdul Haq al-Turkistani appears in a video celebrating the Taliban victory.,Afghanistan,Abdul Haq al-Turkistani,89,18:06,real
-245,2022-05-24,approx,other,Reports that Sirajuddin Haqqani is brokering talks between Pakistan and the Pakistani Taliban (TTP) — the transcript says 'Afghan Taliban' but context is the Pakistan–TTP ceasefire talks hosted by the Afghan Taliban in Kabul.,Pakistan,Haqqani Network; Sirajuddin Haqqani,72,38:12,real
-256,2022-07,approx,statement,State Department spokesman says US does not support armed resistance to the Taliban.,,US State Department,75,03:31,real
-257,2022-07,approx,statement,UN Monitoring Team report says Zawahiri is alive and al-Qaeda and the Taliban remain close.,,UN Monitoring Team,75,14:39,real
-258,2022-07,month,strike,US airstrike (most likely a drone) kills Ayman al-Zawahiri in Kabul at the end of July 2022; he was sheltered by Sirajuddin Haqqani's network.,Kabul,United States; Sirajuddin Haqqani; Ayman al-Zawahiri,83,02:59,real
-320,2022-07,approx,statement,UN 30th Monitoring Team report publishes findings on ISIL regional structures and the Al-Karrar office's financial hub role and funds to Afghanistan.,,UN Monitoring Team,89,50:36,real
-250,2022-07-31,approx,strike,US counterterrorism operation reportedly kills Ayman al-Zawahiri in Kabul (reported 1 Aug 2022).,Kabul,Ayman al-Zawahiri,75,00:00,real
-333,2022-07-31,approx,strike,US killed Ayman al-Zawahiri at a Haqqani guest house in Kabul ('end of July 22'); Taliban still deny it,Kabul,Taliban; Haqqani Network; United States; Ayman al-Zawahiri,97,52:54,real
-426,2022-07-31,day,strike,"United States killed Ayman al-Zawahiri; his deputy Saif al-Adel, based in Iran, became al-Qaeda leader",Afghanistan,United States; Saif al-Adel; Ayman al-Zawahiri,295,12:58,real
-263,2022-08,month,attack,"Shabaab lays siege to the Hayat Hotel in Mogadishu for more than 30 hours, killing dozens, its longest hotel siege in the city.",Mogadishu,Shabaab,83,29:27,real
-265,2022-09,month,offensive,"Somalia launches the largest offensive against Shabaab since about 2011 in mid-September, led by the SNA and Ma'awisley with ATMIS and US support, in Hiraan, Galgaduud and Bay.",Hiraan,Ma'awisley; Somali National Army; United States; ATMIS,83,29:12,real
-278,2022-09,approx,attack,"Shabaab suicide bombing in Somaliland-claimed territory controlled de facto by Puntland, the first in that territory since 2018.",Puntland,Puntland; Somaliland; Shabaab,83,58:18,real
-274,2022-10,approx,statement,The Somali federal government stated that sharing Shabaab propaganda violates its terrorism act and banned many accounts.,Somalia,Federal Government of Somalia; Shabaab,83,52:10,real
-325,2022-10,month,appointment,Abu al-Hussein al-Husseini al-Qurashi became emir of the Islamic State,Syria,Islamic State; Abu al-Hussein al-Husseini al-Qurashi,97,17:17,real
-327,2022-10,month,death,"Abu al-Hasan al-Hashimi al-Qurashi, ISIL emir since February 2022, killed",Syria,Abu al-Hasan al-Hashimi al-Qurashi,97,17:37,real
-289,2022-11,approx,statement,"AQAP released Abu Huzaifa's book, a collection of letters to Sudanese mujahideen",Sudan,al-Qaeda in the Arabian Peninsula; Abu Huzaifah al-Sudani,84,11:35,real
-290,2022-11,approx,arrest,Al-Maqdisi said Abu Huzaifa was arrested in Sudan after the book's release; Sudanese papers allude to it; unconfirmed,Sudan,Abu Huzaifah al-Sudani; Abu Muhammad al-Maqdisi,84,11:55,real
-317,2023,approx,strike,US raid in Somalia kills Bilal al-Sudani and about 10 other Islamic State Somalia members and seizes hard drives and laptops.,Somalia,United States; Bilal al-Sudani,89,46:54,real
-376,2023,approx,death,"Abu Sara al-Iraqi, head of the General Directorate of Provinces, reported killed in the previous year's UN report",,Abu Sara al-Iraqi,196,13:48,real
-386,2023,approx,arrest,Turkey claimed to have captured the ISIS leader about a year ago; this appeared untrue,Turkey,Turkey,196,09:34,real
-401,2023,approx,travel,A Talib under travel restrictions traveled to Germany and sought support at a mosque,Germany,Taliban,202,53:35,real
-324,2023-02,month,death,"Ali Qasim Salam al-Jaburi (Abu Sara al-Iraqi), head of ISIL's General Directorate of Provinces and 'shadow leader', killed",Iraq/Syria,Islamic State; Ali Qasim Salam al-Jaburi,97,10:26,real
-315,2023-02-20,approx,strike,CENTCOM announces it killed senior Islamic State leader Ibrahim al-Katani.,Syria,CENTCOM; Ibrahim al-Qahtani,89,32:13,real
-316,2023-02-20,approx,statement,Zalmay Khalilzad tweets that cooperation with the Taliban against ISIS can be a key part of future relations.,,Zalmay Khalilzad,89,39:54,real
-326,2023-04,month,statement,Turkey (Erdogan) claimed ISIL emir Abu al-Hussein had been killed; unconfirmed by ISIL or other states,Turkey/Syria,Abu al-Hussein al-Husseini al-Qurashi; Recep Tayyip Erdogan,97,17:27,real
-337,2023-06,approx,statement,"Previous Generation Jihad episode with Fitton-Brown on the UN Monitoring Team's Afghanistan report (al-Qaeda camps, al-Qaeda leaders in Taliban government)",,UN Monitoring Team,97,01:21,real
-334,2023-07,approx,statement,Iran accused the Taliban of bringing ISIL figures into Afghanistan; Taliban denied it,Iran/Afghanistan,Iran; Taliban,97,51:34,real
-336,2023-07,approx,other,"Coup in Niger 'just this week', following coups in Mali and Sudan over the last two years",Niger,Government of Niger,97,73:14,real
-347,2023-07,approx,other,Coup in Niger (not formally called a coup by the US) curtailed US drone/ISR operations from base 201,Niger,AFRICOM,101,28:19,real
-348,2023-07,approx,offensive,"JNIM began besieging Timbuktu ('for the past two months'), blocking food and supplies; tens of thousands fled",Timbuktu,Jama'at Nusrat al-Islam wal-Muslimin,101,05:55,real
-322,2023-07-25,day,statement,UN Monitoring Team released its 32nd report on al-Qaeda and the Islamic State,,UN Monitoring Team,97,01:08,real
-323,2023-07-28,day,other,Episode recorded; hosts note it is almost exactly one year since Zawahiri's killing,,Edmund Fitton-Brown,97,32:08,real
-349,2023-08,approx,statement,Hundreds of Islamic State Sahel fighters pledged allegiance to new caliph Abu Hafs in a single photo set,Sahel,Islamic State Sahel Province; Abu Hafs al-Hashimi al-Qurashi,101,25:57,real
-375,2023-08,approx,appointment,Abu Hafs al-Hashimi al-Qurashi appointed ISIS caliph (first anniversary approaching),,Islamic State,196,05:55,real
-350,2023-09,approx,offensive,Islamic State took control of the entire Menaka province except Menaka town after months of advances and massacres,Menaka,Islamic State Sahel Province,101,08:37,real
-351,2023-09,approx,attack,Tuareg militias (CMA) claimed to shoot down an Su-25 and a jet trainer and capture another aircraft; heavy fighting near Ber by Timbuktu,Timbuktu,Wagner Group; Malian military junta; Coordination of Azawad Movements,101,11:58,real
-352,2023-09-26,approx,statement,JNIM issued a statement denying it signed a truce with the Islamic State to fight Wagner,Mali,Jama'at Nusrat al-Islam wal-Muslimin; Islamic State Sahel Province,101,06:57,real
-455,2023-10-07,day,attack,"Hamas attack on Israel, cited by Roggio as the cost of allowing a safe haven.",Israel,Hamas,337,59:06,real
-383,2023-11,month,other,Estimate that JNIM controls about 40% of Burkina Faso,Burkina Faso,JNIM,196,42:20,real
-353,2023-12,month,other,UN peacekeeping mission (MINUSMA) to be fully withdrawn from Mali by end of 2023 at Bamako's request,Mali,MINUSMA; Malian military junta,101,41:45,real
-380,2023-12,month,death,Jaysh Ayman emir Mahdhah reported killed; the UN report says he is alive,Somalia,Mahdhah,196,29:34,real
-385,2024,approx,attack,ISKP attack in Iran earlier in the year,Iran,Islamic State Khorasan Province,196,47:29,real
-387,2024,approx,death,"Saif al-Adel's son died in mysterious circumstances, possibly a house fire.",Yemen,al-Qaeda in the Arabian Peninsula; Son of Saif al-Adel (unnamed),196,58:34,real
-388,2024,approx,death,"AQAP leader Khalid Batarfi died, possibly of illness, at about the same time. The report raises suspicion.",Yemen,al-Qaeda in the Arabian Peninsula; Khalid Batarfi,196,58:54,real
-389,2024,approx,appointment,Sa'ad bin Atef al-Awlaki became the new leader of AQAP.,Yemen,al-Qaeda in the Arabian Peninsula; Saad bin Atef al-Awlaki,196,60:57,real
-390,2024,approx,travel,"al-Qaeda sent an operative, identified as 'Somali', to Iraq to establish cells, per the UN report.",Iraq,al-Qaeda; Al-Somali,196,54:10,real
-384,2024-03,month,attack,Crocus City Hall attack in Moscow by ISKP-linked attackers with a Turkey connection,Moscow,Islamic State Khorasan Province,196,47:37,real
-368,2024-04,approx,statement,"Miller testified in a closed-door session of about nine to ten hours before the House Foreign Affairs Committee, producing more than 200 pages of transcript.","Washington, D.C.",House Foreign Affairs Committee; Austin Scott Miller,172,02:03,real
-374,2024-07,approx,other,"UN Monitoring Team report on ISIL/al-Qaeda published; disputes the caliph's identity and assesses ISIS-Somalia growth, the JNIM advance in Burkina Faso, and ISKP threat",,UN Monitoring Team,196,00:26,real
-382,2024-07,approx,attack,"Tuareg rebels, joined by JNIM, killed about 50 Wagner mercenaries in northern Mali",Mali,Wagner Group; Tuareg rebels; JNIM,196,32:25,real
-391,2024-08,approx,statement,UN Monitoring Team report discussed. It covers the Iraq/Levant and AQAP sections and notes HTS logistical support for Hurras al-Din.,,UN Monitoring Team,196,55:24,real
-381,2024-08-12,approx,statement,UN in Mogadishu issued a drone alert for Mogadishu International Airport,Mogadishu,United Nations,196,30:35,real
-402,2024-08-22,day,statement,"Taliban issued new vice-and-virtue decrees: full face covering, no loud speech in public or at home, no travel without a mahram, restrictions on men's dress; female spies used to police women",Afghanistan,Taliban,202,38:42,real
-403,2024-08-28,approx,statement,CIA deputy director publicly described the Taliban as an effective counterterrorism partner taking the fight to al-Qaeda,United States,Taliban; Central Intelligence Agency,202,32:15,real
-405,2024-09,approx,other,Britain closing the Afghan embassy after the Taliban dismissed its staff,United Kingdom,Taliban; Islamic Republic of Afghanistan,202,53:05,real
-404,2024-09-10,day,statement,Presidential debate: Harris stood by the withdrawal; Trump misnamed the Taliban leader; no mention of Afghans left behind,United States,Kamala Harris; Donald Trump,202,45:03,real
-411,2024-11,approx,travel,Mullah Yaqoub travels to Turkey and is photographed with Afghan military officers at a weapons exposition.,Turkey,Mullah Mohammad Yaqoob,225,34:12,real
-412,2024-11,approx,statement,New York Times puff piece on Sirajuddin Haqqani as the great moderate hope.,,New York Times; Sirajuddin Haqqani,225,20:48,real
-354,2024-12,month,other,"African Union forces due to leave Somalia (about 15-16,000 troops) unless extended",Somalia,Shabaab; African Union forces,101,43:13,real
-406,2024-12,approx,other,HTS-led forces oust Bashar al-Assad; Jolani becomes de facto ruler and courts Western engagement.,Syria,Hay'at Tahrir al-Sham; Bashar al-Assad; Abu Mohammad al-Jolani,225,03:54,real
-407,2024-12,approx,statement,Taliban congratulate Jolani on taking power in Syria.,Afghanistan,Taliban; Abu Mohammad al-Jolani,225,08:33,real
-408,2024-12,month,death,Khalil ur-Rahman Haqqani dies; Gulbuddin Hekmatyar attends the funeral.,Afghanistan,Khalil Haqqani; Gulbuddin Hekmatyar,225,25:41,real
-409,2024-12-12,day,statement,"New York Times article 'How America Created the Enemy It Most Feared' published on Dec 12, updated Dec 17, profiling Mullah Osman in Nuristan.",Nuristan,New York Times; Mullah Osman,225,27:53,real
-410,2024-12-18,day,statement,New York Times article claims Taliban have all but cleared Afghanistan of poppy and illicit drugs.,Afghanistan,Taliban; New York Times,225,36:49,real
-425,2025,approx,other,Roggio: al-Qaeda camps are operating in at least 13 of Afghanistan's 34 provinces; Joscelyn: UN reporting names AQ personnel transiting in and out of or holed up in Afghanistan.,Afghanistan,Taliban; al-Qaeda,272,18:13,real
-439,2025,year,death,"Abu Khadija, head of the Islamic State's General Directorate of Provinces, killed",,Islamic State; Abu Khadija,295,72:00,real
-452,2025,approx,attack,"About 1,500 Alawites killed in Syria ('last year'); Reuters traced responsibility to al-Sharaa's chain of command. Roggio: two massacres orchestrated by his people in the first eight months of his presidency.",Syria,Syrian government; Abu Mohammad al-Jolani,337,50:13,real
-435,2025-01,month,statement,Hurras al-Din announced it was disbanding after Sharaa took control of Syria (late Jan / early Feb 2025) while saying it would 'stand by for further developments',Syria,Hurras al-Din; Abu Mohammad al-Jolani,295,57:41,real
-427,2025-06,month,other,'Twelve-day war' in June (Iran conflict); Saif al-Adel did not leave Iran during or after it,Iran,Iran; Saif al-Adel,295,09:46,real
-422,2025-09,approx,statement,"Taliban foreign ministry spokesman Zakir Jalal: Afghanistan and the US need to engage, but without any US military presence in any part of Afghanistan.",Kabul,Taliban; Zakir Jalal,272,05:51,real
-423,2025-09,approx,statement,"Hurriyat Radio reports foreign minister Muttaqi has stated 'not even a fraction of Bagram's land will be relinquished', and runs article 'fantasy of Americans returning to Bagram Air Base is ridiculous'.",Kabul,Taliban; Hurriyat Radio; Amir Khan Muttaqi,272,06:12,real
-417,2025-09-21,day,statement,"President Trump says the US is trying to get Bagram Air Base back from the Taliban, citing its proximity to China's nuclear weapons production.",Washington,Taliban; Donald Trump,272,02:03,real
-429,2026,year,statement,"UN 1267 Monitoring Team report (written by end of December 2025) says al-Qaeda leadership 'cohesive, though isolated', rank-and-file dissatisfied with Saif al-Adel, AQ retains ambition for spectacular external attacks; omits Saif's location for the third consecutive report",,al-Qaeda; UN Monitoring Team,295,15:10,real
-449,2026,approx,statement,"Latest UN 1267 Monitoring Team report: AQ central core assessed in decline, but AQIM passed a large portion of a $50M ransom up to AQ senior leadership; Houthis, AQAP and Shabaab cooperate on weapons smuggling; AQ training facilities in at least 13 of 34 Afghan provinces plus safe houses, madrasas, a weapons depot and facilitation routes into Iran.",Afghanistan,UN Security Council Analytical Support and Sanctions Monitoring Team; Houthis; al-Qaeda in the Arabian Peninsula; Shabaab; al-Qaeda; al-Qaeda in the Islamic Maghreb,337,25:33,real
-437,2026-01,month,offensive,"Syrian government attacked the SDF in mid-to-late January 2026, raising fears for the ISIS camps and prisons",northeastern Syria,Syrian Democratic Forces; Syrian government,295,33:57,real
-442,2026-01,month,other,SIGAR disbanded 'within the last several weeks',United States,Special Inspector General for Afghanistan Reconstruction,295,94:21,real
-454,2026-08,month,statement,"Graeme Wood publishes 'What Happened to al-Qaeda' in The Atlantic, 25 years after 9/11.",,The Atlantic; Graeme Wood,337,01:23,real
-240,approx 1990s,approx,other,"In the early 1990s bin Laden sent people to East Africa, Sudan and Somalia to help train local insurgencies. Al-Qaeda helped the GIA, Eritrean Islamic Jihad and Al-Ihad.",Sudan,al-Qaeda; Osama bin Laden,72,09:00,real
-243,approx 2000s,approx,agreement,"AQ negotiated a ceasefire with Mauritania in the early 2000s, in return for Mauritania not attacking it.",Mauritania,al-Qaeda; al-Qaeda in the Islamic Maghreb,72,37:45,real
-239,approx 2002,approx,travel,Abu Mohammed al-Yemini was sent to Algeria and visited GSPC training camps in Algeria and Mali.,Algeria,Salafist Group for Preaching and Combat; Abu Mohammed al-Yemini,72,10:21,real
-413,approx 2006,approx,statement,Hekmatyar appears in a video (aired by Al Jazeera) swearing allegiance to al-Qaeda.,,al-Qaeda; Gulbuddin Hekmatyar,225,26:28,real
-414,approx 2007,approx,attack,"Asaib Ahl al-Haq kidnaps five American soldiers at a provincial reconstruction center in southern Iraq, tries to take them to Iran, and executes them when pursued (date not stated by hosts).",Iraq,Asaib Ahl al-Haq,225,16:44,real
-367,approx 2009,approx,other,"Obama surge in Afghanistan ended and Obama wanted to leave the country, after which the war 'became pointless'.",Afghanistan,Barack Obama,124,57:54,real
-415,approx 2009,approx,release,US releases Qais and Laith al-Khazali and hundreds of AAH fighters as part of reconciliation while withdrawing (date not stated).,Iraq,Laith al-Khazali; Qais al-Khazali,225,19:21,real
-262,approx 2010,approx,other,"During the 2010-2011 drought, Shabaab downplayed its al-Qaeda ties while distributing foreign aid, yet featured American al-Qaeda member Jehad Mostafa at aid events.",Somalia,Shabaab; Jehad Serwan Mostafa,83,24:44,real
-244,approx 2010s,approx,agreement,"Al-Qaeda negotiated with Iran to free an Iranian diplomat held in Pakistan, in exchange for greater freedom of movement for AQ leaders sheltering in Iran.",Iran,al-Qaeda,72,40:12,real
-451,approx 2011,approx,designation,Obama administration designated dozens of al-Qaeda operatives based in Iran and disclosed the 'secret deal' between al-Qaeda and Iran; Roggio checked a year ago and most are still alive as mid-to-high-level operatives.,Iran,Iran; United States; al-Qaeda,337,17:18,real
-139,approx 2012,approx,meeting,Roggio and Joscelyn debate Peter Bergen at the New America Foundation about al-Qaeda's supposed defeat.,,New America Foundation; Peter Bergen,41,29:12,real
-261,approx 2012,approx,statement,"Zawahiri, as al-Qaeda emir, decides to make the Shabaab oath of allegiance public, against bin Laden's earlier policy. The year is inferred, not stated.",,Shabaab; Ayman al-Zawahiri,83,24:14,real
-450,approx 2014,approx,other,Al-Qaeda ejected the Islamic State after the disagreement between Baghdadi and al-Jolani (al-Sharaa).,Syria,Islamic State; al-Qaeda; Abu Mohammad al-Jolani; Abu Bakr al-Baghdadi,337,25:14,real
+139,2020-07-30,day,statement,The New York Times reported that Iran is suspected of supplying the missiles.,,Iran,22,53:29,real
+121,2020-08,month,statement,Andarabi claims the new ISKP leader is Haqqani and that a local Taliban commander was behind the Jalalabad jailbreak.,Kabul,Massoud Andarabi,22,19:19,real
+154,2020-08,approx,other,A coup occurred in Mali (described as recent).,Mali,,27,45:00,real
+162,2020-08,approx,appointment,Christopher Miller started as NCTC director (mid-August 2020).,,National Counterterrorism Center; Christopher Miller,27,49:50,real
+192,2020-08,month,death,Abu Muhammad al-Masri killed in Iran.,Iran,Abu Muhammad al-Masri,41,55:50,real
+120,2020-08-02,day,attack,"ISIS-K assault on Jalalabad prison: SVBIED rammed the gates and two ISIS teams infiltrated, causing a roughly 20-hour siege into 3 Aug. At least 29 were killed and hundreds of prisoners escaped.",Jalalabad,Islamic State Khorasan Province,22,03:09,real
+168,2020-08-07,day,death,"Abu Muhammad al-Masri, al-Qaeda deputy emir, killed in Iran by Israelis at US behest; first reported on al-Qaeda channels and then confirmed by the New York Times and, in this speech, by Pompeo",Iran,Israel; Mike Pompeo; Abu Muhammad al-Masri,41,19:49,real
+161,2020-08-14,day,statement,"DoD Inspector General report (dated 14 Aug, released 18 Aug) says al-Qaeda continues to fight alongside the Taliban against the Afghan government.",Afghanistan,Taliban; Defense Department Inspector General; al-Qaeda,27,50:02,real
+163,2020-09,approx,statement,"Miller's Washington Post op-ed claims al-Qaeda is in crisis and on the verge of collapse, calling Zawahiri its 'sole remaining ideological leader'.",,Christopher Miller,27,66:02,real
+427,2020-09,month,arrest,"Turkey announced the detention of Bashar al-Sumaidai, wrongly suggesting he was ISIL's leader",Turkey,Bashar al-Sumaidai; Recep Tayyip Erdogan,97,19:01,real
+152,2020-09-10,day,statement,Christopher Miller published a Washington Post op-ed arguing the war on al-Qaeda is well in sight of its end.,Washington,Christopher Miller,27,31:16,real
+141,2020-09-11,day,statement,Al-Qaeda released a Zawahiri video on the 9/11 anniversary. It rebuts an Al Jazeera documentary and claims al-Qaeda is no client of any government. It is part of a new series called 'deal of the century / crusade of a century'. It also takes a swipe at Baghdadi and discusses the 2013 general guidelines for jihad.,,al-Qaeda; Ayman al-Zawahiri,27,01:18,real
+142,2020-09-11,approx,statement,English translation of the third issue of the al-Qaeda magazine One Ummah released. Its Arabic edition came out in late 2019.,,al-Qaeda,27,01:26,real
+265,2020-11,month,other,Mark Esper fired as Secretary of Defense,,Mark Esper; Donald Trump,57,10:03,real
+350,2020-11,month,statement,"Claims by Hassan Hassan and others that Zawahiri was dead, which Roggio and Joscelyn disputed.",,Ayman al-Zawahiri; Hassan Hassan,75,16:15,real
+283,2020-2021,approx,other,"TTP reconfiguration: nine groups rejoined under Noor Wali Mehsud, including two al-Qaeda groups.",Pakistan,Tehrik-e-Taliban Pakistan; Noor Wali Mehsud,58,39:32,real
+280,2021,year,release,"Taliban jailbreaks freed many Pakistani Taliban prisoners held by the Afghan government, including Fakir Mohammed.",Afghanistan,Taliban; Faqir Mohammad,58,43:54,real
+295,2021,approx,death,Shekau killed himself in Sambisa Forest when tracked down by ISWAP.,Sambisa Forest,ISWAP; Abubakar Shekau,62,55:41,real
+442,2021,year,other,Wagner Group deployed to Mali as Bamako's new state patron after France's departure,Mali,Wagner Group; Malian military junta,101,34:56,real
+462,2021,approx,offensive,"Taliban take Kandahar city and Kandahar Airfield, then Kabul, after Trump's deal and Biden's withdrawal.",Afghanistan,Taliban,124,35:28,real
+546,2021,approx,other,Taliban spokesmen denied ISIS existed in Afghanistan; today they confirm hunting ISKP.,Afghanistan,Taliban; Islamic State Khorasan Province,257,07:25,real
+167,2021-01,approx,designation,"Last-minute Trump-administration designations, including the Houthis and the head of Iraq's Popular Mobilization Forces",,Houthis; Trump administration; Popular Mobilization Forces,41,6:52,real
+185,2021-01,month,other,"US troop level in Afghanistan falls to about 2,500.",Afghanistan,,41,26:34,real
+186,2021-01,approx,other,Reuters retitles its piece to 'Pompeo says Iran gives al-Qaeda new home base. Analysts skeptical' and adds the Iranian government denial.,,Reuters,41,49:10,real
+196,2021-01,approx,statement,Pompeo's speech on the Iran–al-Qaeda axis; hosts criticize the press dismissal of it.,,Mike Pompeo,41,70:29,real
+198,2021-01,approx,statement,"Jake Sullivan states three conditions for Taliban compliance (cut ties with terrorists including al-Qaeda, reduce violence, negotiate with the Afghan government) and that the Biden administration is reviewing the deal.",United States,Jake Sullivan,43,01:01,real
+200,2021-01,approx,attack,"Taliban assassination campaign against civil society, including two female judges killed in Kabul, plus lawyers, politicians, journalists and NGO workers.",Kabul,Taliban,43,06:42,real
+201,2021-01,approx,travel,Taliban delegation travels to Russia; earlier meetings in Iran and a trip to Indonesia in recent weeks.,Russia,Taliban,43,14:56,real
+289,2021-01,month,statement,Last proof-of-life video of Ayman al-Zawahiri.,,Ayman al-Zawahiri,62,22:47,real
+174,2021-01-04,day,statement,"Treasury response to the DoD IG says al-Qaeda is gaining strength in Afghanistan under Taliban protection, with a joint Haqqani-al-Qaeda unit, and that the Taliban and al-Qaeda meet regularly.",Afghanistan,Taliban; Department of Defense Office of Inspector General; US Department of the Treasury; Haqqani Network; al-Qaeda,41,36:03,real
+165,2021-01-06,day,other,"Riot at the US Capitol, which delayed the episode by a week","Washington, D.C.",,41,0:30,real
+166,2021-01-12,approx,statement,"Pompeo delivers a speech on the Iran-al-Qaeda axis, and State Department Rewards for Justice announces details on al-Qaeda leaders in Iran","Washington, D.C.",US State Department Rewards for Justice; Mike Pompeo,41,4:47,real
+173,2021-01-12,day,statement,"Pompeo delivers a speech on the Iran-al-Qaeda axis, saying al-Qaeda has a new home base in Iran and fewer al-Qaeda operatives are in Afghanistan than in decades.",,Mike Pompeo,41,35:56,real
+199,2021-02-01,day,statement,Taliban statement calls the Doha deal a 'termination of occupation agreement'.,Afghanistan,Taliban,43,07:04,real
+222,2021-03,approx,death,A Tajik AQIS commander and a Taliban leader were killed in Haqqani-run area while plotting attacks on provincial capitals.,Afghanistan,Taliban; al-Qaeda in the Indian Subcontinent; Haqqani Network,47,26:09,real
+223,2021-03,approx,offensive,ISIS in Mozambique seized territory; small group of US trainers reported there.,Mozambique,ISIS Central Africa Province,47,30:00,real
+297,2021-03,month,attack,ASWJ/ISIS-linked events in northern Mozambique; the transcript cuts off before detail.,Mozambique,Ansar al-Sunna wa Jama'a,62,60:32,real
+155,2021-04,approx,agreement,Premise of the US-Taliban deal is a US withdrawal from Afghanistan by April 2021.,Afghanistan,Taliban; United States,27,44:46,real
+221,2021-04,approx,other,"Tolo News reported the Taliban might accept a 3-month extension in exchange for release of 7,000 prisoners and UN delisting.",Afghanistan,Taliban,47,15:22,real
+278,2021-04,approx,statement,President Biden decided to withdraw US forces from Afghanistan.,United States,Joe Biden,58,07:02,real
+209,2021-05,month,other,"Deadline in the agreement for full US withdrawal (May 1, 2021).",Afghanistan,Taliban; United States,43,31:27,real
+224,2021-05,month,offensive,"Taliban offensive begins in earnest. Roggio's count of Taliban-controlled districts rises from about 73 to about 142 of 407 by 24 June, i.e. 69 districts gained, mostly in the north.",Afghanistan,Taliban; Afghan government,53,07:57,real
+249,2021-05,month,offensive,"Taliban launches its offensive, taking districts, then provincial capitals; Afghan forces collapse.",Afghanistan,Taliban; Afghan National Army,56,16:36,real
+220,2021-05-01,day,other,Deadline for US troop withdrawal under the Doha deal; Biden reportedly considering 3-6 month extension.,Afghanistan,Taliban; Joe Biden,47,01:58,real
+227,2021-06,approx,attack,Taliban entered Kunduz city and fighting began there.,Kunduz,Taliban,53,02:20,real
+228,2021-06,approx,death,"After a base was overrun in Takhar, the Taliban executed the local NDS chief and the police chief. It was the only execution Roggio had seen during the offensive.",Takhar,Taliban; National Directorate of Security,53,04:59,real
+237,2021-06,approx,offensive,Many districts fell to the Taliban in the preceding weeks.,Afghanistan,Taliban; Afghan government,53,52:49,real
+306,2021-06,month,other,"Roggio and Haqqani made a joint public appearance in early June 2021 'in the heart of the Taliban offensive', warning against the Doha agreement.",,Taliban; Husain Haqqani,64,01:15,real
+467,2021-06,month,statement,Joscelyn's article for The Dispatch argued that the situation in Afghanistan was much worse than the U.S. military claimed.,Afghanistan,,172,11:43,real
+225,2021-06-23,day,statement,"Gen. Mark Milley testified to the House Armed Services Committee, implying about 30 districts had changed hands and downplaying the offensive because no provincial capitals had fallen.",Washington,House Armed Services Committee; Mark Milley,53,10:02,real
+226,2021-06-24,day,other,Date the episode was recorded; used as the snapshot for district counts.,,,53,07:36,real
+235,2021-06-24,approx,statement,A U.S. official testified before Congress on the number of districts the Taliban controls. The hosts doubt the analysis behind the figure.,United States,U.S. Congress,53,48:35,real
+236,2021-06-25,approx,other,A person at NATO headquarters contacted Roggio about his map of Taliban district control.,,NATO,53,48:50,real
+251,2021-07,approx,statement,"Gen. Milley says Afghan forces had the capacity to defend their country, weeks before the collapse.",,Mark Milley,56,25:05,real
+254,2021-07,approx,statement,Milley said in late July that the Afghans had the capacity to defend their country.,,Mark Milley,56,25:05,real
+266,2021-07,month,death,"Abdul Haq, son of Mohammad Nabi Omari, killed in fighting in Khost and celebrated by the Taliban",Khost,Taliban; Mohammad Nabi Omari; Abdul Haq Omari,57,43:07,real
+321,2021-07,approx,appointment,The Taliban put the Tajik leader of Jamaat Ansarullah in control of five districts in northern Afghanistan (summer 2021).,Northern Afghanistan,Taliban; Jamaat Ansarullah,70,01:40,real
+469,2021-07,approx,other,Miller relinquished command in Afghanistan.,Afghanistan,Austin Scott Miller,172,27:47,real
+250,2021-07-08,day,statement,"Biden claims about 300,000 ANDSF personnel capable of defending the country.",,Joe Biden,56,24:49,real
+253,2021-07-08,approx,statement,"Biden claimed 300,000 ANDSF personnel were capable of defending the country.",,Joe Biden,56,24:52,real
+255,2021-08,approx,offensive,Taliban offensive collapses Afghan government; Kabul falls; chaotic scenes at Kabul airport.,Kabul,Taliban,56,35:37,real
+279,2021-08,approx,statement,Noor Wali Mehsud renewed TTP allegiance to Hibatullah Akhundzada days after the Taliban consolidated victory over the Afghan government.,,Tehrik-e-Taliban Pakistan; Hibatullah Akhundzada; Noor Wali Mehsud,58,42:47,real
+287,2021-08,approx,travel,Amin al-Haq returned to Afghanistan and his home in Nangarhar to a Taliban-escorted parade; also seen in Kabul.,Nangarhar,Taliban; Amin ul-Haq,62,03:48,real
+288,2021-08,approx,offensive,The Taliban took over Afghanistan with AQIS fighting alongside them.,Afghanistan,Taliban; al-Qaeda in the Indian Subcontinent,62,09:47,real
+307,2021-08,approx,offensive,Taliban took Afghanistan by force; 'six months in' they still frame it as a victory of their ideology over the Western way of life.,Afghanistan,Taliban,64,02:01,real
+311,2021-08,month,statement,Husain Haqqani wrote in Foreign Affairs (Aug 2021) that Pakistan sees the Taliban's return as a victory but it will be pyrrhic.,,Husain Haqqani,64,25:50,real
+317,2021-08,approx,meeting,Khalilzad tried at the last minute to negotiate a handover of power to a committee involving Karzai; the Taliban refused.,Kabul,Taliban; Hamid Karzai; Zalmay Khalilzad,64,47:56,real
+351,2021-08,month,other,US withdrawal from Afghanistan complete; Taliban takeover.,Afghanistan,Taliban,75,10:31,real
+443,2021-08,month,other,"Fall of Afghanistan to the Taliban, the start point of the hosts' 'next state to collapse' conversation",Afghanistan,Taliban,101,01:10,real
+471,2021-08,month,other,The U.S. withdrawal from Afghanistan and the Taliban takeover.,Kabul,Taliban; Joe Biden,172,29:34,real
+497,2021-08,month,other,US withdrawal and Kabul evacuation; Taliban provided security at HKIA,Hamid Karzai International Airport,Taliban; United States,202,37:19,real
+506,2021-08,approx,offensive,Taliban took over Afghanistan and reinstalled the Islamic Emirate 'a year and a half' after the op-ed.,Afghanistan,Taliban,213,07:15,real
+532,2021-08,month,other,"Collapse of the Afghan Republic ('almost four years' before the episode); president, VP, armed forces, judiciary and parliament all escaped.",Kabul,Taliban; Afghan Republic government,257,01:38,real
+539,2021-08,approx,statement,Amrullah Saleh declared himself president after the collapse.,,Amrullah Saleh,257,40:38,real
+551,2021-08,month,other,US evacuation conducted from Kabul's civilian airport rather than Bagram; Badri 313 (Haqqani special forces) provided security outside Hamid Karzai International Airport.,Hamid Karzai International Airport,Haqqani Network; United States; Badri 313,272,14:30,real
+565,2021-08,approx,offensive,Within two years of the end of US-Taliban anti-ISIS cooperation the Taliban walked into Kabul.,Kabul,Taliban,281,14:44,real
+238,2021-08-15,approx,offensive,Kabul surrenders to the Taliban; the Taliban and allied jihadists including al-Qaeda enter the capital and prepare to announce the restored Islamic Emirate.,Kabul,Taliban; al-Qaeda,56,00:59,real
+549,2021-08-15,day,other,"Taliban took control of Bagram and, as one of its first official acts, emptied the prisons there, releasing thousands of al-Qaeda, Taliban and Islamic State fighters.",Bagram Air Base,Taliban; Islamic State Khorasan Province; al-Qaeda,272,13:39,real
+550,2021-08-26,day,attack,"Islamic State fighter released from prison 11 days earlier conducted a suicide attack at Abbey Gate, Kabul airport, killing 182 people including 13 US service members (hosts' figures).",Abbey Gate,Islamic State Khorasan Province; Abdul Rahman al-Logari,272,14:09,real
+273,2021-09,approx,appointment,"Hassan Akhund became head of state of the Taliban's regime, a promotion from his previous foreign minister post.",Afghanistan,Taliban; Mohammad Hassan Akhund,57,47:44,real
+274,2021-09,approx,statement,A Taliban spokesman recently said there was no evidence that bin Laden or al-Qaeda was responsible for 9/11.,,Taliban,57,53:09,real
+296,2021-09,month,death,Unconfirmed reports that Barnawi was killed.,,Abu Musab al-Barnawi,62,56:53,real
+275,2021-10,approx,statement,"Tom Joscelyn testified before the Senate Armed Services Committee and the Senate Banking Committee on Afghanistan, Taliban leverage and aid.","Washington, DC",Senate Banking Committee; Senate Armed Services Committee,58,01:02,real
+284,2021-10,approx,statement,Ibrahim al-Qosi (AQAP) video gloating over US withdrawal and threatening America.,Yemen,al-Qaeda in the Arabian Peninsula; Ibrahim al-Qosi,58,25:35,real
+291,2021-10,approx,arrest,Iraqi forces captured ISIS finance chief and deputy Samuel al-Jaburi (announced Oct/Nov 2021).,Iraq,Iraqi security forces; Sami Jasim al-Jaburi,62,28:03,real
+513,2021-10,month,statement,Joscelyn testified before the Senate with written testimony dismantling Taliban-apologist arguments.,Washington DC,US Senate,213,26:44,real
+276,2021-10-08,day,attack,"ISKP suicide bombing of a Hazara Shia mosque in Kunduz by a Uyghur bomber, as part of ISKP campaign against Shiites and wedge against Taliban/al-Qaeda/TIP.",Kunduz,Islamic State Khorasan Province,58,28:51,real
+534,2021-11,approx,death,'Qari Ahmadullah' killed in the military hospital in the initial days of Taliban rule (one of several intra-Taliban killings).,Kabul,Islamic State Khorasan Province; Qari Hamdullah,257,15:18,real
+314,2021-12,month,statement,CENTCOM commander McKenzie stated US ISR capability in Afghanistan is 1-2% of what it was before the withdrawal.,,CENTCOM; Kenneth McKenzie,64,61:29,real
+352,2021-12,month,statement,Gen. McKenzie said US intelligence visibility in Afghanistan was 1-2% of pre-withdrawal.,,Kenneth McKenzie,75,07:16,real
+374,2022,year,attack,Shabaab overran a Burundian base in Middle Shabelle and killed dozens of troops.,Middle Shabelle,Shabaab; Burundian troops,83,54:11,real
+375,2022,year,attack,Shabaab incursion into Ethiopia early in the year.,Ethiopia,Shabaab,83,58:01,real
+404,2022,year,death,"Zawahiri was killed, 21 years after 9/11.",,United States; Ayman al-Zawahiri,84,53:22,real
+412,2022,year,attack,"Islamic State prison break at Hasakah, blamed on Ibrahim al-Katani.",Hasakah,Islamic State; Syrian Democratic Forces; Ibrahim al-Qahtani,89,32:22,real
+470,2022,year,strike,Zawahiri was killed in a U.S. drone strike in Kabul.,Kabul,Ayman al-Zawahiri,172,41:11,real
+477,2022,year,designation,US Treasury designated a smuggling network between northern Somalia and Yemen serving al-Shabaab and ISIS-Somalia,Somalia/Yemen,US Treasury,196,16:08,real
+606,2022,year,death,"Zawahiri killed in Kabul, 21 years after 9/11; Roggio says this exposed that AQ's current leader is based in Iran and embarrassed the Taliban.",Kabul,Taliban; United States; Ayman al-Zawahiri,337,17:44,real
+292,2022-01,approx,attack,Hasakah prison break by ISIS in northeastern Syria shortly before Abu Ibrahim was killed.,Hasakah,Islamic State,62,33:14,real
+293,2022-02,approx,death,"ISIS emir Abu Ibrahim al-Hashimi al-Qurashi killed ('we just had the death of the Islamic State's emir', episode published 15 Feb 2022).",,Abu Ibrahim al-Hashimi al-Qurashi,62,01:53,real
+298,2022-02,approx,statement,"The UN Monitoring Team's 29th (1267) report was released, covering June–December 2021.",,UN 1267 Analytical Support and Sanctions Monitoring Team,62,01:07,real
+312,2022-02,approx,attack,Recent Baloch militant attacks on military facilities in Balochistan.,Balochistan,Baloch militants; Pakistan Army,64,24:40,real
+315,2022-02,approx,other,Washington Post reported a US Army assessment of the withdrawal in which commanders said Biden officials did not understand the situation on the ground.,,US military,64,46:14,real
+316,2022-02,approx,other,President Biden allocated $3.5 billion of the $7-9 billion frozen Afghan reserves for humanitarian aid ('just last week').,,Joe Biden,64,63:03,real
+498,2022-02,month,other,Russian invasion of Ukraine ended real press criticism of the Afghanistan withdrawal,,Biden administration,202,50:22,real
+330,2022-02-24,day,other,"Russia invaded Ukraine. Zawahiri's bin Laden commemoration speech refers to it, which establishes that he was alive as of that date.",Ukraine,Ayman al-Zawahiri,72,03:22,real
+325,2022-04,month,attack,"ISKP mortar/rocket attack on Uzbekistan launched from the Afghan border area, its first cross-border attack from Afghanistan.",Uzbekistan,Islamic State Khorasan Province,70,04:09,real
+326,2022-04,approx,strike,"Pakistani airstrikes in Khost and Kunar killed about 47 Afghans, many of them civilians.",Khost; Kunar,Pakistani military and intelligence establishment,70,11:05,real
+419,2022-04,approx,attack,"Suicide bombing in Goma, North Kivu, attributed to ADF-linked activity. The speaker said it took place 'last April'; it is resolved against the 2023 publish date.",Goma,Islamic State Central Africa Province,89,59:42,real
+430,2022-04,month,statement,Roggio testified to the House Homeland Security Committee on global terrorism and al-Qaeda's safe haven in Afghanistan,"Washington, D.C.",,97,42:45,real
+322,2022-04-19,day,attack,ISKP bombing at a school in Kabul targeting Shia Hazaras; at least 6 killed.,Kabul,Islamic State Khorasan Province,70,03:23,real
+323,2022-04-21,approx,attack,ISKP attack on Shia in Mazar-i-Sharif; 31 killed and over 80 wounded.,Mazar-i-Sharif,Islamic State Khorasan Province,70,03:36,real
+324,2022-04-22,approx,attack,ISKP attack on a Sufi mosque in Kunduz city; 33 killed.,Kunduz,Islamic State Khorasan Province,70,03:45,real
+410,2022-05,month,statement,Abdul Haq al-Turkistani appears in a video celebrating the Taliban victory.,Afghanistan,Abdul Haq al-Turkistani,89,18:06,real
+343,2022-05-24,approx,other,Reports that Sirajuddin Haqqani is brokering talks between Pakistan and the Pakistani Taliban (TTP) — the transcript says 'Afghan Taliban' but context is the Pakistan–TTP ceasefire talks hosted by the Afghan Taliban in Kabul.,Pakistan,Haqqani Network; Sirajuddin Haqqani,72,38:12,real
+354,2022-07,approx,statement,State Department spokesman says US does not support armed resistance to the Taliban.,,US State Department,75,03:31,real
+355,2022-07,approx,statement,UN Monitoring Team report says Zawahiri is alive and al-Qaeda and the Taliban remain close.,,UN Monitoring Team,75,14:39,real
+356,2022-07,month,strike,US airstrike (most likely a drone) kills Ayman al-Zawahiri in Kabul at the end of July 2022; he was sheltered by Sirajuddin Haqqani's network.,Kabul,United States; Sirajuddin Haqqani; Ayman al-Zawahiri,83,02:59,real
+418,2022-07,approx,statement,UN 30th Monitoring Team report publishes findings on ISIL regional structures and the Al-Karrar office's financial hub role and funds to Afghanistan.,,UN Monitoring Team,89,50:36,real
+348,2022-07-31,approx,strike,US counterterrorism operation reportedly kills Ayman al-Zawahiri in Kabul (reported 1 Aug 2022).,Kabul,Ayman al-Zawahiri,75,00:00,real
+431,2022-07-31,approx,strike,US killed Ayman al-Zawahiri at a Haqqani guest house in Kabul ('end of July 22'); Taliban still deny it,Kabul,Taliban; Haqqani Network; United States; Ayman al-Zawahiri,97,52:54,real
+571,2022-07-31,day,strike,"United States killed Ayman al-Zawahiri; his deputy Saif al-Adel, based in Iran, became al-Qaeda leader",Afghanistan,United States; Saif al-Adel; Ayman al-Zawahiri,295,12:58,real
+361,2022-08,month,attack,"Shabaab lays siege to the Hayat Hotel in Mogadishu for more than 30 hours, killing dozens, its longest hotel siege in the city.",Mogadishu,Shabaab,83,29:27,real
+363,2022-09,month,offensive,"Somalia launches the largest offensive against Shabaab since about 2011 in mid-September, led by the SNA and Ma'awisley with ATMIS and US support, in Hiraan, Galgaduud and Bay.",Hiraan,Ma'awisley; Somali National Army; United States; ATMIS,83,29:12,real
+376,2022-09,approx,attack,"Shabaab suicide bombing in Somaliland-claimed territory controlled de facto by Puntland, the first in that territory since 2018.",Puntland,Puntland; Somaliland; Shabaab,83,58:18,real
+372,2022-10,approx,statement,The Somali federal government stated that sharing Shabaab propaganda violates its terrorism act and banned many accounts.,Somalia,Federal Government of Somalia; Shabaab,83,52:10,real
+423,2022-10,month,appointment,Abu al-Hussein al-Husseini al-Qurashi became emir of the Islamic State,Syria,Islamic State; Abu al-Hussein al-Husseini al-Qurashi,97,17:17,real
+425,2022-10,month,death,"Abu al-Hasan al-Hashimi al-Qurashi, ISIL emir since February 2022, killed",Syria,Abu al-Hasan al-Hashimi al-Qurashi,97,17:37,real
+387,2022-11,approx,statement,"AQAP released Abu Huzaifa's book, a collection of letters to Sudanese mujahideen",Sudan,al-Qaeda in the Arabian Peninsula; Abu Huzaifah al-Sudani,84,11:35,real
+388,2022-11,approx,arrest,Al-Maqdisi said Abu Huzaifa was arrested in Sudan after the book's release; Sudanese papers allude to it; unconfirmed,Sudan,Abu Huzaifah al-Sudani; Abu Muhammad al-Maqdisi,84,11:55,real
+415,2023,approx,strike,US raid in Somalia kills Bilal al-Sudani and about 10 other Islamic State Somalia members and seizes hard drives and laptops.,Somalia,United States; Bilal al-Sudani,89,46:54,real
+474,2023,approx,death,"Abu Sara al-Iraqi, head of the General Directorate of Provinces, reported killed in the previous year's UN report",,Abu Sara al-Iraqi,196,13:48,real
+484,2023,approx,arrest,Turkey claimed to have captured the ISIS leader about a year ago; this appeared untrue,Turkey,Turkey,196,09:34,real
+499,2023,approx,travel,A Talib under travel restrictions traveled to Germany and sought support at a mosque,Germany,Taliban,202,53:35,real
+422,2023-02,month,death,"Ali Qasim Salam al-Jaburi (Abu Sara al-Iraqi), head of ISIL's General Directorate of Provinces and 'shadow leader', killed",Iraq/Syria,Islamic State; Ali Qasim Salam al-Jaburi,97,10:26,real
+413,2023-02-20,approx,strike,CENTCOM announces it killed senior Islamic State leader Ibrahim al-Katani.,Syria,CENTCOM; Ibrahim al-Qahtani,89,32:13,real
+414,2023-02-20,approx,statement,Zalmay Khalilzad tweets that cooperation with the Taliban against ISIS can be a key part of future relations.,,Zalmay Khalilzad,89,39:54,real
+424,2023-04,month,statement,Turkey (Erdogan) claimed ISIL emir Abu al-Hussein had been killed; unconfirmed by ISIL or other states,Turkey/Syria,Abu al-Hussein al-Husseini al-Qurashi; Recep Tayyip Erdogan,97,17:27,real
+435,2023-06,approx,statement,"Previous Generation Jihad episode with Fitton-Brown on the UN Monitoring Team's Afghanistan report (al-Qaeda camps, al-Qaeda leaders in Taliban government)",,UN Monitoring Team,97,01:21,real
+432,2023-07,approx,statement,Iran accused the Taliban of bringing ISIL figures into Afghanistan; Taliban denied it,Iran/Afghanistan,Iran; Taliban,97,51:34,real
+434,2023-07,approx,other,"Coup in Niger 'just this week', following coups in Mali and Sudan over the last two years",Niger,Government of Niger,97,73:14,real
+445,2023-07,approx,other,Coup in Niger (not formally called a coup by the US) curtailed US drone/ISR operations from base 201,Niger,AFRICOM,101,28:19,real
+446,2023-07,approx,offensive,"JNIM began besieging Timbuktu ('for the past two months'), blocking food and supplies; tens of thousands fled",Timbuktu,Jama'at Nusrat al-Islam wal-Muslimin,101,05:55,real
+420,2023-07-25,day,statement,UN Monitoring Team released its 32nd report on al-Qaeda and the Islamic State,,UN Monitoring Team,97,01:08,real
+421,2023-07-28,day,other,Episode recorded; hosts note it is almost exactly one year since Zawahiri's killing,,Edmund Fitton-Brown,97,32:08,real
+447,2023-08,approx,statement,Hundreds of Islamic State Sahel fighters pledged allegiance to new caliph Abu Hafs in a single photo set,Sahel,Islamic State Sahel Province; Abu Hafs al-Hashimi al-Qurashi,101,25:57,real
+473,2023-08,approx,appointment,Abu Hafs al-Hashimi al-Qurashi appointed ISIS caliph (first anniversary approaching),,Islamic State,196,05:55,real
+448,2023-09,approx,offensive,Islamic State took control of the entire Menaka province except Menaka town after months of advances and massacres,Menaka,Islamic State Sahel Province,101,08:37,real
+449,2023-09,approx,attack,Tuareg militias (CMA) claimed to shoot down an Su-25 and a jet trainer and capture another aircraft; heavy fighting near Ber by Timbuktu,Timbuktu,Wagner Group; Malian military junta; Coordination of Azawad Movements,101,11:58,real
+450,2023-09-26,approx,statement,JNIM issued a statement denying it signed a truce with the Islamic State to fight Wagner,Mali,Jama'at Nusrat al-Islam wal-Muslimin; Islamic State Sahel Province,101,06:57,real
+615,2023-10-07,day,attack,"Hamas attack on Israel, cited by Roggio as the cost of allowing a safe haven.",Israel,Hamas,337,59:06,real
+481,2023-11,month,other,Estimate that JNIM controls about 40% of Burkina Faso,Burkina Faso,JNIM,196,42:20,real
+451,2023-12,month,other,UN peacekeeping mission (MINUSMA) to be fully withdrawn from Mali by end of 2023 at Bamako's request,Mali,MINUSMA; Malian military junta,101,41:45,real
+478,2023-12,month,death,Jaysh Ayman emir Mahdhah reported killed; the UN report says he is alive,Somalia,Mahdhah,196,29:34,real
+483,2024,approx,attack,ISKP attack in Iran earlier in the year,Iran,Islamic State Khorasan Province,196,47:29,real
+485,2024,approx,death,"Saif al-Adel's son died in mysterious circumstances, possibly a house fire.",Yemen,al-Qaeda in the Arabian Peninsula; Son of Saif al-Adel (unnamed),196,58:34,real
+486,2024,approx,death,"AQAP leader Khalid Batarfi died, possibly of illness, at about the same time. The report raises suspicion.",Yemen,al-Qaeda in the Arabian Peninsula; Khalid Batarfi,196,58:54,real
+487,2024,approx,appointment,Sa'ad bin Atef al-Awlaki became the new leader of AQAP.,Yemen,al-Qaeda in the Arabian Peninsula; Saad bin Atef al-Awlaki,196,60:57,real
+488,2024,approx,travel,"al-Qaeda sent an operative, identified as 'Somali', to Iraq to establish cells, per the UN report.",Iraq,al-Qaeda; Al-Somali,196,54:10,real
+515,2024,year,attack,"Islamic State attacked Moscow, Russia and Iran this year; multiple plots inside the US homeland.",Moscow,Islamic State Khorasan Province,213,19:29,real
+540,2024,year,statement,Amrullah Saleh said he would no longer be president ('last year').,,Amrullah Saleh,257,40:38,real
+482,2024-03,month,attack,Crocus City Hall attack in Moscow by ISKP-linked attackers with a Turkey connection,Moscow,Islamic State Khorasan Province,196,47:37,real
+466,2024-04,approx,statement,"Miller testified in a closed-door session of about nine to ten hours before the House Foreign Affairs Committee, producing more than 200 pages of transcript.","Washington, D.C.",House Foreign Affairs Committee; Austin Scott Miller,172,02:03,real
+472,2024-07,approx,other,"UN Monitoring Team report on ISIL/al-Qaeda published; disputes the caliph's identity and assesses ISIS-Somalia growth, the JNIM advance in Burkina Faso, and ISKP threat",,UN Monitoring Team,196,00:26,real
+480,2024-07,approx,attack,"Tuareg rebels, joined by JNIM, killed about 50 Wagner mercenaries in northern Mali",Mali,Wagner Group; Tuareg rebels; JNIM,196,32:25,real
+489,2024-08,approx,statement,UN Monitoring Team report discussed. It covers the Iraq/Levant and AQAP sections and notes HTS logistical support for Hurras al-Din.,,UN Monitoring Team,196,55:24,real
+479,2024-08-12,approx,statement,UN in Mogadishu issued a drone alert for Mogadishu International Airport,Mogadishu,United Nations,196,30:35,real
+500,2024-08-22,day,statement,"Taliban issued new vice-and-virtue decrees: full face covering, no loud speech in public or at home, no travel without a mahram, restrictions on men's dress; female spies used to police women",Afghanistan,Taliban,202,38:42,real
+501,2024-08-28,approx,statement,CIA deputy director publicly described the Taliban as an effective counterterrorism partner taking the fight to al-Qaeda,United States,Taliban; Central Intelligence Agency,202,32:15,real
+503,2024-09,approx,other,Britain closing the Afghan embassy after the Taliban dismissed its staff,United Kingdom,Taliban; Islamic Republic of Afghanistan,202,53:05,real
+502,2024-09-10,day,statement,Presidential debate: Harris stood by the withdrawal; Trump misnamed the Taliban leader; no mention of Afghans left behind,United States,Kamala Harris; Donald Trump,202,45:03,real
+516,2024-10,approx,other,"Within one week: floggings in Logar and Bamyan, 17 people flogged in Khost, one in Kabul and one in Faryab; new bans on women's voices and bus travel without masks.",Khost,Taliban,213,41:28,real
+517,2024-10,approx,statement,Qatar's Ministry of Foreign Affairs announced a fourth Doha meeting in the near future.,Doha,Taliban; Qatar Ministry of Foreign Affairs,213,46:14,real
+518,2024-10,approx,meeting,"Shortly after the NYT article, Barnett Rubin was photographed in China with the Taliban's ambassador to China.",China,Taliban; Barnett Rubin,213,21:59,real
+504,2024-10-24,day,statement,New York Times publishes 'Is Afghanistan's most wanted militant now its best hope for change?' profiling Sirajuddin Haqqani as a pragmatic statesman.,,New York Times; Sirajuddin Haqqani,213,03:08,real
+526,2024-11,approx,travel,Mullah Yaqoub travels to Turkey and is photographed with Afghan military officers at a weapons exposition.,Turkey,Mullah Mohammad Yaqoob,225,34:12,real
+527,2024-11,approx,statement,New York Times puff piece on Sirajuddin Haqqani as the great moderate hope.,,New York Times; Sirajuddin Haqqani,225,20:48,real
+452,2024-12,month,other,"African Union forces due to leave Somalia (about 15-16,000 troops) unless extended",Somalia,Shabaab; African Union forces,101,43:13,real
+521,2024-12,approx,other,HTS-led forces oust Bashar al-Assad; Jolani becomes de facto ruler and courts Western engagement.,Syria,Hay'at Tahrir al-Sham; Bashar al-Assad; Abu Mohammad al-Jolani,225,03:54,real
+522,2024-12,approx,statement,Taliban congratulate Jolani on taking power in Syria.,Afghanistan,Taliban; Abu Mohammad al-Jolani,225,08:33,real
+523,2024-12,month,death,Khalil ur-Rahman Haqqani dies; Gulbuddin Hekmatyar attends the funeral.,Afghanistan,Khalil Haqqani; Gulbuddin Hekmatyar,225,25:41,real
+533,2024-12,approx,death,"Khalil Haqqani ('Hakani's uncle', deputy PM) assassinated 'last year'; Haqqanis suspect the Kandahar Taliban, not ISIS; Hibatullah warned Mullah Shirin and Wafa to beware revenge.",Kabul,Kandahar Taliban; Khalil Haqqani; Hibatullah Akhundzada,257,16:14,real
+556,2024-12,month,offensive,Sharaa's coalition ousted Bashar al-Assad; Sharaa appointed himself president.,Syria,Bashar al-Assad; Abu Mohammad al-Jolani,281,00:48,real
+524,2024-12-12,day,statement,"New York Times article 'How America Created the Enemy It Most Feared' published on Dec 12, updated Dec 17, profiling Mullah Osman in Nuristan.",Nuristan,New York Times; Mullah Osman,225,27:53,real
+525,2024-12-18,day,statement,New York Times article claims Taliban have all but cleared Afghanistan of poppy and illicit drugs.,Afghanistan,Taliban; New York Times,225,36:49,real
+537,2025,approx,travel,A senior Taliban official who publicly complained 'a few months ago' escaped Afghanistan and now lives in Dubai.,Dubai,Taliban; Sher Mohammad Abbas Stanikzai,257,14:36,real
+538,2025,approx,other,Sirajuddin Haqqani has not gone to his office for three or four months; the deputy-PM post left by Khalil's killing remains unfilled.,Kabul,Sirajuddin Haqqani,257,18:44,real
+543,2025,approx,other,State Department's CARE office for Afghan evacuation shut down; Afghanistan has no embassy in the US; embassies closing from India to Europe.,United States,US State Department; Afghan Republic government,257,35:12,real
+544,2025,approx,other,Iran and Pakistan deporting former Afghan soldiers who sought refuge; Taliban jail and torture returnees.,Iran,Iranian government; Taliban; Pakistani state,257,31:55,real
+545,2025,approx,statement,Rumors that the Trump administration will 'give the Taliban a chance' as it did Jolani in Syria; no deal yet.,,Taliban; Abu Mohammad al-Jolani; Donald Trump,257,23:08,real
+555,2025,approx,other,Roggio: al-Qaeda camps are operating in at least 13 of Afghanistan's 34 provinces; Joscelyn: UN reporting names AQ personnel transiting in and out of or holed up in Afghanistan.,Afghanistan,Taliban; al-Qaeda,272,18:13,real
+559,2025,approx,attack,Massacre of Alawites in Latakia; Reuters investigation found Sharaa's people including his defense ministry ordered and directed it; no one punished.,Latakia,Alawite community; Syrian government,281,15:26,real
+560,2025,approx,attack,Massacre of Druze by members of Sharaa's coalition; second massacre in his first eight months.,Syria,Druze community; Syrian government,281,04:39,real
+562,2025,approx,other,Six-month extension of the suspension of US sanctions on Syria; sanctions not yet gone.,,United States; Syrian government,281,29:20,real
+566,2025,approx,statement,"Interviewed about 9/11, Sharaa said he was only 19 and that it was sad innocent people died; refused to denounce it.",,Abu Mohammad al-Jolani,281,24:23,real
+567,2025,approx,statement,Sharaa said it is premature to seek a peace agreement with Israel.,,Israeli government; Abu Mohammad al-Jolani,281,42:32,real
+570,2025,approx,appointment,"Sharaa appointed foreign fighters, including a TIP division, into the Syrian military.",Syria,Turkistan Islamic Party; Syrian government,281,05:28,real
+584,2025,year,death,"Abu Khadija, head of the Islamic State's General Directorate of Provinces, killed",,Islamic State; Abu Khadija,295,72:00,real
+612,2025,approx,attack,"About 1,500 Alawites killed in Syria ('last year'); Reuters traced responsibility to al-Sharaa's chain of command. Roggio: two massacres orchestrated by his people in the first eight months of his presidency.",Syria,Syrian government; Abu Mohammad al-Jolani,337,50:13,real
+580,2025-01,month,statement,Hurras al-Din announced it was disbanding after Sharaa took control of Syria (late Jan / early Feb 2025) while saying it would 'stand by for further developments',Syria,Hurras al-Din; Abu Mohammad al-Jolani,295,57:41,real
+542,2025-06,approx,other,Eid al-Adha 'in four days on Friday' (dates recording to early June 2025); Afghans report lacking food.,Afghanistan,,257,54:08,real
+572,2025-06,month,other,'Twelve-day war' in June (Iran conflict); Saif al-Adel did not leave Iran during or after it,Iran,Iran; Saif al-Adel,295,09:46,real
+541,2025-07,approx,other,"Up to 10,000 Afghans under Temporary Protected Status in the US must begin to self-deport 'in about a month'.",United States,United States,257,52:23,real
+552,2025-09,approx,statement,"Taliban foreign ministry spokesman Zakir Jalal: Afghanistan and the US need to engage, but without any US military presence in any part of Afghanistan.",Kabul,Taliban; Zakir Jalal,272,05:51,real
+553,2025-09,approx,statement,"Hurriyat Radio reports foreign minister Muttaqi has stated 'not even a fraction of Bagram's land will be relinquished', and runs article 'fantasy of Americans returning to Bagram Air Base is ridiculous'.",Kabul,Taliban; Hurriyat Radio; Amir Khan Muttaqi,272,06:12,real
+547,2025-09-21,day,statement,"President Trump says the US is trying to get Bagram Air Base back from the Taliban, citing its proximity to China's nuclear weapons production.",Washington,Taliban; Donald Trump,272,02:03,real
+557,2025-11,approx,meeting,Sharaa visited Washington/the White House ('just the other day'); met members of Congress; filmed playing basketball with CENTCOM commander Adm. Cooper.,Washington DC,Abu Mohammad al-Jolani; Brad Cooper; Donald Trump,281,01:31,real
+558,2025-11,approx,agreement,"Syria agreed a limited, conditional membership of the anti-ISIS coalition; nothing on peace with Israel or enforceable minority guarantees.",Washington DC,Anti-ISIS international coalition; Syrian government,281,08:30,real
+561,2025-11,approx,designation,UN resolution lifting sanctions on Sharaa and his former deputy passed; China abstained.,,Chinese government; Abu Mohammad al-Jolani,281,38:29,real
+568,2025-11,approx,meeting,Mohammed bin Salman due in Washington 'next week' to meet Trump; Syria on the agenda.,Washington DC,Mohammed bin Salman; Donald Trump,281,34:21,real
+569,2025-11,approx,agreement,Kazakhstan joined the Abraham Accords.,Kazakhstan,Kazakhstan,281,43:17,real
+574,2026,year,statement,"UN 1267 Monitoring Team report (written by end of December 2025) says al-Qaeda leadership 'cohesive, though isolated', rank-and-file dissatisfied with Saif al-Adel, AQ retains ambition for spectacular external attacks; omits Saif's location for the third consecutive report",,al-Qaeda; UN Monitoring Team,295,15:10,real
+597,2026,approx,attack,"Iran attacked Qatar, Oman and Gulf infrastructure (desalination, power plants) as well as US bases.",Qatar,Iranian government; Qatari government; Omani government,313,34:37,real
+598,2026,approx,attack,Houthis made token missile/drone attacks on Israel that were intercepted; neither Israel nor the US retaliated.,Yemen,Israeli government; Houthis,313,30:35,real
+599,2026,approx,offensive,Pakistan and the Afghan Taliban in a 'hot border war' over Taliban support for the TTP.,Afghanistan,Taliban; Pakistani state; Tehrik-i-Taliban Pakistan,313,20:57,real
+600,2026,approx,other,Pakistan 'only just fought a war with India'.,Pakistan,Pakistani state; Indian government,313,22:43,real
+601,2026,approx,statement,Pakistani Defence Minister in hot water for posting threats against Israel.,Pakistan,Khawaja Asif,313,24:18,real
+602,2026,approx,travel,Zelensky visited the Arabian Peninsula marketing Ukrainian air-defense help against Iranian attacks.,Arabian Peninsula,Gulf Cooperation Council; Volodymyr Zelensky,313,36:53,real
+609,2026,approx,statement,"Latest UN 1267 Monitoring Team report: AQ central core assessed in decline, but AQIM passed a large portion of a $50M ransom up to AQ senior leadership; Houthis, AQAP and Shabaab cooperate on weapons smuggling; AQ training facilities in at least 13 of 34 Afghan provinces plus safe houses, madrasas, a weapons depot and facilitation routes into Iran.",Afghanistan,UN Security Council Analytical Support and Sanctions Monitoring Team; Houthis; al-Qaeda in the Arabian Peninsula; Shabaab; al-Qaeda; al-Qaeda in the Islamic Maghreb,337,25:33,real
+582,2026-01,month,offensive,"Syrian government attacked the SDF in mid-to-late January 2026, raising fears for the ISIS camps and prisons",northeastern Syria,Syrian Democratic Forces; Syrian government,295,33:57,real
+587,2026-01,month,other,SIGAR disbanded 'within the last several weeks',United States,Special Inspector General for Afghanistan Reconstruction,295,94:21,real
+596,2026-01,month,statement,Trump promised the Iranian people he was coming to their rescue and they would take control of their country.,,Donald Trump,313,15:54,real
+590,2026-02-28,day,attack,US-Israel war with Iran began; six weeks of hot war until the ceasefire; the Strait of Hormuz became an issue only after this date.,Iran,Iranian government; Israeli government; United States,313,16:44,real
+591,2026-04,approx,agreement,Two-week US-Iran ceasefire agreed 'last week' in exchange for Iran reopening the Strait of Hormuz.,,Iranian government; Donald Trump,313,00:06,real
+592,2026-04,approx,meeting,US-Iran peace talks in Islamabad failed; US 15-point plan vs Iranian 10-point plan had nothing in common.,Islamabad,Pakistani state; J.D. Vance; Mohammad Bagher Ghalibaf,313,02:49,real
+593,2026-04,approx,statement,"Iran said it may have misplaced mines in the Omani part of the waterway, making the Strait unsafe.",Strait of Hormuz,Iranian government; Omani government,313,00:06,real
+595,2026-04,approx,statement,"Russia, China and France defeated a UN Security Council resolution to reopen the Strait of Hormuz.",,Chinese government; French government; UN Security Council; Russian government,313,08:30,real
+594,2026-04-13,approx,other,US 'blockade' of shipping using Iranian ports through the Strait of Hormuz took effect ('yesterday'/'today'); Iran announced a counter-blockade.,Strait of Hormuz,Iranian government; United States,313,17:34,real
+614,2026-08,month,statement,"Graeme Wood publishes 'What Happened to al-Qaeda' in The Atlantic, 25 years after 9/11.",,The Atlantic; Graeme Wood,337,01:23,real
+318,approx 1850,approx,other,"Tehrik-e-Mujahideen raised money across India and built a base in today's Khyber Pakhtunkhwa; the British destroyed the base and killed its leaders, but offshoots persisted into the 20th century.",Khyber Pakhtunkhwa,Tehrik-e-Mujahideen,64,44:36,real
+338,approx 1990s,approx,other,"In the early 1990s bin Laden sent people to East Africa, Sudan and Somalia to help train local insurgencies. Al-Qaeda helped the GIA, Eritrean Islamic Jihad and Al-Ihad.",Sudan,al-Qaeda; Osama bin Laden,72,09:00,real
+341,approx 2000s,approx,agreement,"AQ negotiated a ceasefire with Mauritania in the early 2000s, in return for Mauritania not attacking it.",Mauritania,al-Qaeda; al-Qaeda in the Islamic Maghreb,72,37:45,real
+320,approx 2001,approx,statement,Haqqani published 'Islam's Medieval Outposts' on the madrasa curriculum shortly after 9/11.,,Husain Haqqani,64,56:26,real
+337,approx 2002,approx,travel,Abu Mohammed al-Yemini was sent to Algeria and visited GSPC training camps in Algeria and Mali.,Algeria,Salafist Group for Preaching and Combat; Abu Mohammed al-Yemini,72,10:21,real
+528,approx 2006,approx,statement,Hekmatyar appears in a video (aired by Al Jazeera) swearing allegiance to al-Qaeda.,,al-Qaeda; Gulbuddin Hekmatyar,225,26:28,real
+529,approx 2007,approx,attack,"Asaib Ahl al-Haq kidnaps five American soldiers at a provincial reconstruction center in southern Iraq, tries to take them to Iran, and executes them when pursued (date not stated by hosts).",Iraq,Asaib Ahl al-Haq,225,16:44,real
+310,approx 2009,approx,offensive,"TTP took over the tribal areas and much of the then-NWFP; the Pakistani state only moved against them when they entered Buner, 60 miles from Islamabad (year not stated by hosts).",Buner,Pakistan Army; Tehrik-i-Taliban Pakistan,64,28:14,real
+465,approx 2009,approx,other,"Obama surge in Afghanistan ended and Obama wanted to leave the country, after which the war 'became pointless'.",Afghanistan,Barack Obama,124,57:54,real
+530,approx 2009,approx,release,US releases Qais and Laith al-Khazali and hundreds of AAH fighters as part of reconciliation while withdrawing (date not stated).,Iraq,Laith al-Khazali; Qais al-Khazali,225,19:21,real
+360,approx 2010,approx,other,"During the 2010-2011 drought, Shabaab downplayed its al-Qaeda ties while distributing foreign aid, yet featured American al-Qaeda member Jehad Mostafa at aid events.",Somalia,Shabaab; Jehad Serwan Mostafa,83,24:44,real
+342,approx 2010s,approx,agreement,"Al-Qaeda negotiated with Iran to free an Iranian diplomat held in Pakistan, in exchange for greater freedom of movement for AQ leaders sheltering in Iran.",Iran,al-Qaeda,72,40:12,real
+611,approx 2011,approx,designation,Obama administration designated dozens of al-Qaeda operatives based in Iran and disclosed the 'secret deal' between al-Qaeda and Iran; Roggio checked a year ago and most are still alive as mid-to-high-level operatives.,Iran,Iran; United States; al-Qaeda,337,17:18,real
+184,approx 2012,approx,meeting,Roggio and Joscelyn debate Peter Bergen at the New America Foundation about al-Qaeda's supposed defeat.,,New America Foundation; Peter Bergen,41,29:12,real
+359,approx 2012,approx,statement,"Zawahiri, as al-Qaeda emir, decides to make the Shabaab oath of allegiance public, against bin Laden's earlier policy. The year is inferred, not stated.",,Shabaab; Ayman al-Zawahiri,83,24:14,real
+610,approx 2014,approx,other,Al-Qaeda ejected the Islamic State after the disagreement between Baghdadi and al-Jolani (al-Sharaa).,Syria,Islamic State; al-Qaeda; Abu Mohammad al-Jolani; Abu Bakr al-Baghdadi,337,25:14,real
 111,approx 2015,approx,raid,"US and Afghan forces raided two massive al-Qaeda training camps in Shorabak, Kandahar, forcing revision of the 50-100 estimate.","Shorabak district, Kandahar",al-Qaeda; US military,20,10:55,real
-292,approx 2015,approx,attack,"Several months after the Paktika raid, US and Afghan forces raided the Shorabak camps and killed 150-200 al-Qaeda fighters.","Shorabak, Kandahar",Afghan forces; al-Qaeda; US forces,84,21:31,real
-424,approx 2015,approx,statement,Taliban statement (2015 or 2016 per Roggio): 'The Islamic Emirate has not readily embraced this death and destruction for the sake of some silly ministerial posts or a share of the power.',,Taliban,272,09:48,real
-448,approx 2015,approx,death,"Nasir al-Wuhayshi, AQAP emir and AQ general manager, killed by the US (Roggio recalls '2016 or 17').",Yemen,United States; Nasir al-Wuhayshi,337,27:50,real
+390,approx 2015,approx,attack,"Several months after the Paktika raid, US and Afghan forces raided the Shorabak camps and killed 150-200 al-Qaeda fighters.","Shorabak, Kandahar",Afghan forces; al-Qaeda; US forces,84,21:31,real
+512,approx 2015,approx,other,"After Mullah Omar's death was revealed and the Taliban nearly fell apart, Siraj and his father put the Taliban back together.",,Sirajuddin Haqqani; Jalaluddin Haqqani; Mullah Mohammad Yaqoob,213,14:58,real
+554,approx 2015,approx,statement,Taliban statement (2015 or 2016 per Roggio): 'The Islamic Emirate has not readily embraced this death and destruction for the sake of some silly ministerial posts or a share of the power.',,Taliban,272,09:48,real
+608,approx 2015,approx,death,"Nasir al-Wuhayshi, AQAP emir and AQ general manager, killed by the US (Roggio recalls '2016 or 17').",Yemen,United States; Nasir al-Wuhayshi,337,27:50,real
 112,approx 2016,approx,designation,"Obama administration designations of three senior al-Qaeda figures in Iran, including Abu Hamza al-Khalidi as head of the military committee",Iran,United States; Abu Hamza al-Khalidi,20,47:17,real
-365,approx 2018-12,approx,other,Secretary of Defense Mattis stepped down because he could not execute Trump's decision to leave Syria.,United States,Donald Trump; James Mattis,124,59:21,real
-166,approx 2019/2020,approx,strike,"Three senior al-Qaeda leaders killed in the last year and a half, in Taliban-controlled areas and alongside Taliban leaders.",Afghanistan,Afghan forces; United States; al-Qaeda,43,29:28,real
+463,approx 2018-12,approx,other,Secretary of Defense Mattis stepped down because he could not execute Trump's decision to leave Syria.,United States,Donald Trump; James Mattis,124,59:21,real
+211,approx 2019/2020,approx,strike,"Three senior al-Qaeda leaders killed in the last year and a half, in Taliban-controlled areas and alongside Taliban leaders.",Afghanistan,Afghan forces; United States; al-Qaeda,43,29:28,real
 70,approx 2020,approx,strike,Rifai Taha Ahmed Musa was killed by a US drone after entering Idlib from Turkey (date not stated in the transcript).,Idlib,Rifai Ahmed Taha,17,25:29,real
 116,approx 2020,approx,death,"Qasim al-Raymi, AQAP emir, recently killed in Yemen",Yemen,Qasim al-Rimi,20,66:20,real
 117,approx 2020,approx,death,Abdelmalek Droukdel killed in a French-led operation with US assistance,North Africa,Abdelmalek Droukdel,20,83:57,real
 118,approx 2020,approx,statement,State Department country reports on terrorism say al-Qaeda's facilitation network in Iran is still operating,Iran,US State Department; al-Qaeda,20,48:20,real
-126,approx 2020,approx,death,Abdelmalek Droukdel killed in Mali,Mali,Abdelmalek Droukdel,41,25:13,real
-132,approx 2020,approx,death,"Husam Abd al-Rauf ('Hassam al-Dharouf'), a senior al-Qaeda management figure, killed in Afghanistan.",Afghanistan,Husam Abd al-Rauf,41,28:10,real
-168,approx 2020,approx,death,"A US-confirmed killing of senior al-Qaeda figure Husam Abd al-Rauf ('Osama Roof') in Afghanistan, never tied publicly to the Taliban deal.",Afghanistan,United States; Husam Abd al-Rauf,43,53:48,real
-235,approx 2020,approx,other,Al-Qaeda 'Jerusalem will never be Judaized' campaign (2020 or early 2021). al-Shabaab and JNIM carried out suicide attacks in its name.,Jerusalem,Jama'at Nusrat al-Islam wal-Muslimin; Shabaab; al-Qaeda,72,05:37,real
-308,approx 2020,approx,death,"Abu Muhammad al-Masri, al-Qaeda's number two and Iran-based leader, is killed in Iran.",Iran,Abu Muhammad al-Masri,89,11:28,real
-366,approx 2020,approx,agreement,Trump 'cut the deal' with the Taliban and Biden later executed the US exit from Afghanistan.,Afghanistan,Taliban; Donald Trump; Joe Biden,124,57:46,real
-222,approx 2021,approx,statement,Senate hearings at which Tom Joscelyn testified and generals testified. The hosts say senators recognized the Taliban-al-Qaeda relationship is unbroken.,United States,United States Senate,58,49:06,real
-294,approx 2021,approx,other,"Gen. Abdel Fattah al-Burhan overthrew Hamdok in a coup, creating a military junta.",Sudan,Abdalla Hamdok; Abdel Fattah al-Burhan,84,24:01,real
-310,approx 2021,approx,release,"After the Taliban took Bagram, Abu Ikhlas al-Masri is freed after about 11 years in detention, along with other al-Qaeda, IS and Taliban prisoners.",Bagram,Taliban; Abu Ikhlas al-Masri,89,16:43,real
-311,approx 2021,approx,travel,Amin al-Haq returns to Nangarhar with a Taliban parade and escort within weeks of the fall of Afghanistan.,Nangarhar,Taliban; Amin ul-Haq,89,17:31,real
-447,approx 2021,approx,statement,"Right after the Taliban victory, Saif al-Adel issued an explicit call for supporters to migrate to Afghanistan to train to fight in Israel and elsewhere.",Afghanistan,al-Qaeda; Saif al-Adel,337,11:15,real
-148,approx 2021-01,approx,statement,"Pompeo speech on the Iran-al-Qaeda axis, claiming Iran allowed al-Qaeda a new operational headquarters after a 2015 change; accompanied by new designations of four al-Qaeda figures including Maghrebi and Sultan Yusuf Hassan al-Arif.",,Mike Pompeo; Sultan Yusuf Hasan al-Arif; Abd al-Rahman al-Maghrebi,41,54:24,real
-149,approx 2021-01,approx,other,"CIA assessment sent to the State Department in the past week, reportedly concluding that Masri and Saif al-Adel reorganized al-Qaeda's global management from Iran after 2015.",Iran,US State Department; CIA; Abu Muhammad al-Masri; Saif al-Adel,41,64:19,real
-165,approx 2021-01,approx,statement,"US Treasury report to the Defense Department on Taliban, al-Qaeda and ISIS financing concluded al-Qaeda is gaining strength under the Taliban banner. The Taliban dismissed it as warmongering.",Afghanistan,Taliban; US Treasury Department; al-Qaeda,43,36:52,real
-172,approx 2021-01,approx,statement,National Security Advisor Jake Sullivan said the Taliban would have to renounce ties to al-Qaeda and other terrorist groups.,,Jake Sullivan,43,46:29,real
-171,approx 2021-02,approx,statement,Pentagon spokesman Kirby said the Taliban is not living up to the deal and has not renounced terrorism or al-Qaeda.,,US Department of Defense; John Kirby,43,49:14,real
-428,approx 2021-2022,approx,travel,"Saif al-Adel reportedly travelled to Afghanistan at least once after the fall of the Afghan government and Zawahiri's death to handle al-Qaeda leadership consolidation (trips, not residence)",Afghanistan,Saif al-Adel,295,14:08,real
-233,approx 2022,approx,statement,"Zawahiri speech commemorating Osama bin Laden, praising bin Laden's deeds and saying America is weak.",,Osama bin Laden; Ayman al-Zawahiri,72,03:07,real
-234,approx 2022,approx,statement,"Al-Qaeda production on Kashmir and Palestine quoting Zawahiri, calling for jihad across the whole Indian subcontinent.",Kashmir,al-Qaeda; Ayman al-Zawahiri,72,45:54,real
-297,approx 2022,approx,other,Abu Huzaifah al-Sudani published an 83-page manual for starting jihad in Sudan.,Sudan,Abu Huzaifah al-Sudani,84,26:30,real
-307,approx 2022,approx,strike,US drone strike kills al-Qaeda emir Ayman al-Zawahiri at a Haqqani Network safe house in Kabul.,Kabul,Haqqani Network; United States; Ayman al-Zawahiri,89,02:45,real
-313,approx 2022,approx,offensive,"Taliban assault on Panjshir, with foreign fighters including al-Qaeda alongside the Red Unit.",Panjshir,Taliban; Taliban Red Unit,89,21:58,real
-346,approx 2022,approx,attack,"Malian military and Wagner massacred hundreds of people after mock trials in Moura, central Mali (date not stated)",Moura,Wagner Group; Malian military junta,101,35:13,real
-264,approx 2022-08,approx,statement,"After the hotel siege, Hassan Sheikh Mohamud vows to defeat Shabaab within one year.",Somalia,Hassan Sheikh Mohamud,83,30:23,real
-266,approx 2022-09,approx,strike,US 'defensive' airstrike in support of Somali forces in contact allegedly kills 27 Shabaab fighters.,Somalia,United States,83,36:20,real
-267,approx 2022-09,approx,strike,"US airstrike kills Shabaab co-founder and Dawa head Abdullah Yare, who had a $3 million bounty.",Somalia,United States; Abdullah Yare,83,36:38,real
-268,approx 2022-09,approx,statement,Shabaab spokesman Ali Rage releases a video accepting Hassan Sheikh's challenge to face the government head on.,Somalia,Shabaab; Ali Mohamud Rage,83,42:09,real
-269,approx 2022-10,approx,attack,"Triple suicide bombing in Beledweyne hits a clan-fighter mobilization center, then emergency responders; about 30 or more killed.",Beledweyne,Shabaab,83,44:44,real
-270,approx 2022-10,approx,offensive,"Somalia reports new offensive operations in Middle Shabelle; Shabaab retaliates, claiming to have killed Ugandan and Burundian troops.",Middle Shabelle,Somali National Army; Shabaab,83,38:53,real
-271,approx 2022-10,approx,statement,Ahmed Madobe announces Jubaland forces will soon start their own counteroffensive against Shabaab.,Jubaland,Jubaland; Ahmed Madobe,83,39:53,real
-272,approx 2022-10,approx,other,"The Somali government bans accounts it deems Shabaab propaganda, citing its terrorism act, which risks catching analysts and journalists.",Somalia,Federal Government of Somalia,83,51:58,real
-296,approx 2022-10,approx,attack,Al-Shabaab attack in Somalia killed 100+ civilians 'just a couple days ago'; the group justified it by claiming the education ministry recruited fighters against them.,Somalia,Shabaab,84,37:40,real
-377,approx 2023,approx,strike,"US Special Forces operation in Somalia kills Bilal al-Sudani, an Al-Karrar official",Somalia,United States; Bilal al-Sudani,196,12:08,real
-441,approx 2023,approx,offensive,"ISIS Mozambique captured Mocimboa da Praia, a port in Cabo Delgado ('a couple of years ago')",Mocimboa da Praia,Islamic State Mozambique Province,295,85:14,real
-378,approx 2024,approx,strike,US attempted a strike/operation against Mumin during the reporting period; the outcome is unclear and he is reportedly alive,Somalia,United States; Abdul Qadir Mumin,196,11:35,real
-432,approx 2025,approx,attack,"ISIS attack on Jewish revelers at Bondi Beach, Sydney; assailants had spent time in southern Philippines before the attack",Bondi Beach,Islamic State,295,23:36,real
-434,approx 2025,approx,other,JNIM instituted a fuel blockade around Bamako and expanded territory; a single ransom payment of around $50 million reported,Bamako,Jama'at Nusrat al-Islam wal-Muslimin,295,48:07,real
-436,approx 2025,approx,meeting,Sharaa met and shook hands with the US president; US sanctions removed from HTS and from Sharaa personally,United States,Hay'at Tahrir al-Sham; Abu Mohammad al-Jolani; Donald Trump,295,27:08,real
-438,approx 2025,approx,attack,"Three Americans, including two soldiers, killed in Syria; US subsequently targeted the Islamic State (host notes the perpetrator was reportedly linked to Hurras al-Din)",Syria,CENTCOM; Hurras al-Din; Islamic State,295,60:58,real
-440,approx 2025,approx,strike,President Trump launched strikes in Nigeria against people accused of killing Christians,Nigeria,United States; Donald Trump,295,53:29,real
-453,approx 2025,approx,meeting,Al-Sharaa invited to the White House; Trump gave him cologne; CENTCOM commander Admiral Cooper filmed shooting hoops with him.,White House,Abu Mohammad al-Jolani; Brad Cooper; Donald Trump,337,50:25,real
+164,approx 2020,approx,agreement,"US-Taliban deal for US withdrawal, criticised by the hosts as absolving the Taliban of sheltering al-Qaeda.",Afghanistan,Taliban,27,81:35,real
+171,approx 2020,approx,death,Abdelmalek Droukdel killed in Mali,Mali,Abdelmalek Droukdel,41,25:13,real
+177,approx 2020,approx,death,"Husam Abd al-Rauf ('Hassam al-Dharouf'), a senior al-Qaeda management figure, killed in Afghanistan.",Afghanistan,Husam Abd al-Rauf,41,28:10,real
+213,approx 2020,approx,death,"A US-confirmed killing of senior al-Qaeda figure Husam Abd al-Rauf ('Osama Roof') in Afghanistan, never tied publicly to the Taliban deal.",Afghanistan,United States; Husam Abd al-Rauf,43,53:48,real
+333,approx 2020,approx,other,Al-Qaeda 'Jerusalem will never be Judaized' campaign (2020 or early 2021). al-Shabaab and JNIM carried out suicide attacks in its name.,Jerusalem,Jama'at Nusrat al-Islam wal-Muslimin; Shabaab; al-Qaeda,72,05:37,real
+406,approx 2020,approx,death,"Abu Muhammad al-Masri, al-Qaeda's number two and Iran-based leader, is killed in Iran.",Iran,Abu Muhammad al-Masri,89,11:28,real
+464,approx 2020,approx,agreement,Trump 'cut the deal' with the Taliban and Biden later executed the US exit from Afghanistan.,Afghanistan,Taliban; Donald Trump; Joe Biden,124,57:46,real
+286,approx 2021,approx,statement,Senate hearings at which Tom Joscelyn testified and generals testified. The hosts say senators recognized the Taliban-al-Qaeda relationship is unbroken.,United States,United States Senate,58,49:06,real
+300,approx 2021,approx,death,"Reported death of Abubakar Shekau, whose death had been reported many times before (identification inferred).",Nigeria,Abubakar Shekau,62,64:48,real
+303,approx 2021,approx,arrest,Kenyan al-Shabaab operative arrested while undergoing pilot training.,Kenya,Shabaab,62,67:24,real
+304,approx 2021,approx,death,ISIL's reported regional leader in Southeast Asia was killed during the UN reporting period.,Southeast Asia,ISIL core,62,78:26,real
+392,approx 2021,approx,other,"Gen. Abdel Fattah al-Burhan overthrew Hamdok in a coup, creating a military junta.",Sudan,Abdalla Hamdok; Abdel Fattah al-Burhan,84,24:01,real
+408,approx 2021,approx,release,"After the Taliban took Bagram, Abu Ikhlas al-Masri is freed after about 11 years in detention, along with other al-Qaeda, IS and Taliban prisoners.",Bagram,Taliban; Abu Ikhlas al-Masri,89,16:43,real
+409,approx 2021,approx,travel,Amin al-Haq returns to Nangarhar with a Taliban parade and escort within weeks of the fall of Afghanistan.,Nangarhar,Taliban; Amin ul-Haq,89,17:31,real
+607,approx 2021,approx,statement,"Right after the Taliban victory, Saif al-Adel issued an explicit call for supporters to migrate to Afghanistan to train to fight in Israel and elsewhere.",Afghanistan,al-Qaeda; Saif al-Adel,337,11:15,real
+193,approx 2021-01,approx,statement,"Pompeo speech on the Iran-al-Qaeda axis, claiming Iran allowed al-Qaeda a new operational headquarters after a 2015 change; accompanied by new designations of four al-Qaeda figures including Maghrebi and Sultan Yusuf Hassan al-Arif.",,Mike Pompeo; Sultan Yusuf Hasan al-Arif; Abd al-Rahman al-Maghrebi,41,54:24,real
+194,approx 2021-01,approx,other,"CIA assessment sent to the State Department in the past week, reportedly concluding that Masri and Saif al-Adel reorganized al-Qaeda's global management from Iran after 2015.",Iran,US State Department; CIA; Abu Muhammad al-Masri; Saif al-Adel,41,64:19,real
+210,approx 2021-01,approx,statement,"US Treasury report to the Defense Department on Taliban, al-Qaeda and ISIS financing concluded al-Qaeda is gaining strength under the Taliban banner. The Taliban dismissed it as warmongering.",Afghanistan,Taliban; US Treasury Department; al-Qaeda,43,36:52,real
+217,approx 2021-01,approx,statement,National Security Advisor Jake Sullivan said the Taliban would have to renounce ties to al-Qaeda and other terrorist groups.,,Jake Sullivan,43,46:29,real
+216,approx 2021-02,approx,statement,Pentagon spokesman Kirby said the Taliban is not living up to the deal and has not renounced terrorism or al-Qaeda.,,US Department of Defense; John Kirby,43,49:14,real
+267,approx 2021-08,approx,travel,Dr. Amin al-Haq escorted by the Taliban in a military convoy to his home in Nangarhar,Nangarhar,Taliban; Amin ul-Haq,57,19:36,real
+268,approx 2021-09,approx,statement,"Taliban air the third 'Victorious Force' installment on RTA, gloating over 9/11 and blaming America",Afghanistan,Taliban; Radio Television Afghanistan,57,02:29,real
+269,approx 2021-09,approx,appointment,"New Taliban cabinet named with Hassan Akhund as head of state, Sirajuddin Haqqani as interior minister, Khalil Haqqani as refugees minister, Wasiq as intelligence director, Noori and Fazl in senior roles, Nabi Omari as Khost governor",Kabul,Taliban; Sirajuddin Haqqani; Mohammad Fazl; Khalil Haqqani; Mohammad Nabi Omari; Abdul Haq Wasiq; Noorullah Noori; Mohammad Hassan Akhund; Tajmir Jawad,57,34:52,real
+573,approx 2021-2022,approx,travel,"Saif al-Adel reportedly travelled to Afghanistan at least once after the fall of the Afghan government and Zawahiri's death to handle al-Qaeda leadership consolidation (trips, not residence)",Afghanistan,Saif al-Adel,295,14:08,real
+313,approx 2022,approx,statement,Taliban prime minister said the Taliban did not come to power to provide bread but to impose Islam.,Kabul,Taliban; Mohammad Hassan Akhund,64,19:29,real
+331,approx 2022,approx,statement,"Zawahiri speech commemorating Osama bin Laden, praising bin Laden's deeds and saying America is weak.",,Osama bin Laden; Ayman al-Zawahiri,72,03:07,real
+332,approx 2022,approx,statement,"Al-Qaeda production on Kashmir and Palestine quoting Zawahiri, calling for jihad across the whole Indian subcontinent.",Kashmir,al-Qaeda; Ayman al-Zawahiri,72,45:54,real
+395,approx 2022,approx,other,Abu Huzaifah al-Sudani published an 83-page manual for starting jihad in Sudan.,Sudan,Abu Huzaifah al-Sudani,84,26:30,real
+405,approx 2022,approx,strike,US drone strike kills al-Qaeda emir Ayman al-Zawahiri at a Haqqani Network safe house in Kabul.,Kabul,Haqqani Network; United States; Ayman al-Zawahiri,89,02:45,real
+411,approx 2022,approx,offensive,"Taliban assault on Panjshir, with foreign fighters including al-Qaeda alongside the Red Unit.",Panjshir,Taliban; Taliban Red Unit,89,21:58,real
+444,approx 2022,approx,attack,"Malian military and Wagner massacred hundreds of people after mock trials in Moura, central Mali (date not stated)",Moura,Wagner Group; Malian military junta,101,35:13,real
+362,approx 2022-08,approx,statement,"After the hotel siege, Hassan Sheikh Mohamud vows to defeat Shabaab within one year.",Somalia,Hassan Sheikh Mohamud,83,30:23,real
+364,approx 2022-09,approx,strike,US 'defensive' airstrike in support of Somali forces in contact allegedly kills 27 Shabaab fighters.,Somalia,United States,83,36:20,real
+365,approx 2022-09,approx,strike,"US airstrike kills Shabaab co-founder and Dawa head Abdullah Yare, who had a $3 million bounty.",Somalia,United States; Abdullah Yare,83,36:38,real
+366,approx 2022-09,approx,statement,Shabaab spokesman Ali Rage releases a video accepting Hassan Sheikh's challenge to face the government head on.,Somalia,Shabaab; Ali Mohamud Rage,83,42:09,real
+367,approx 2022-10,approx,attack,"Triple suicide bombing in Beledweyne hits a clan-fighter mobilization center, then emergency responders; about 30 or more killed.",Beledweyne,Shabaab,83,44:44,real
+368,approx 2022-10,approx,offensive,"Somalia reports new offensive operations in Middle Shabelle; Shabaab retaliates, claiming to have killed Ugandan and Burundian troops.",Middle Shabelle,Somali National Army; Shabaab,83,38:53,real
+369,approx 2022-10,approx,statement,Ahmed Madobe announces Jubaland forces will soon start their own counteroffensive against Shabaab.,Jubaland,Jubaland; Ahmed Madobe,83,39:53,real
+370,approx 2022-10,approx,other,"The Somali government bans accounts it deems Shabaab propaganda, citing its terrorism act, which risks catching analysts and journalists.",Somalia,Federal Government of Somalia,83,51:58,real
+394,approx 2022-10,approx,attack,Al-Shabaab attack in Somalia killed 100+ civilians 'just a couple days ago'; the group justified it by claiming the education ministry recruited fighters against them.,Somalia,Shabaab,84,37:40,real
+475,approx 2023,approx,strike,"US Special Forces operation in Somalia kills Bilal al-Sudani, an Al-Karrar official",Somalia,United States; Bilal al-Sudani,196,12:08,real
+535,approx 2023,approx,death,"Balkh governor and other lower-ranking Taliban leaders killed; one or two claimed by ISIS, the rest unattributed.",Balkh,Taliban; Islamic State Khorasan Province,257,16:14,real
+586,approx 2023,approx,offensive,"ISIS Mozambique captured Mocimboa da Praia, a port in Cabo Delgado ('a couple of years ago')",Mocimboa da Praia,Islamic State Mozambique Province,295,85:14,real
+476,approx 2024,approx,strike,US attempted a strike/operation against Mumin during the reporting period; the outcome is unclear and he is reportedly alive,Somalia,United States; Abdul Qadir Mumin,196,11:35,real
+519,approx 2024,approx,travel,Sirajuddin Haqqani 'popped up' in the UAE; The Diplomat quoted Rubin saying he no longer poses a threat to Americans (date not given by hosts).,United Arab Emirates,Sirajuddin Haqqani; Barnett Rubin,213,22:45,real
+577,approx 2025,approx,attack,"ISIS attack on Jewish revelers at Bondi Beach, Sydney; assailants had spent time in southern Philippines before the attack",Bondi Beach,Islamic State,295,23:36,real
+579,approx 2025,approx,other,JNIM instituted a fuel blockade around Bamako and expanded territory; a single ransom payment of around $50 million reported,Bamako,Jama'at Nusrat al-Islam wal-Muslimin,295,48:07,real
+581,approx 2025,approx,meeting,Sharaa met and shook hands with the US president; US sanctions removed from HTS and from Sharaa personally,United States,Hay'at Tahrir al-Sham; Abu Mohammad al-Jolani; Donald Trump,295,27:08,real
+583,approx 2025,approx,attack,"Three Americans, including two soldiers, killed in Syria; US subsequently targeted the Islamic State (host notes the perpetrator was reportedly linked to Hurras al-Din)",Syria,CENTCOM; Hurras al-Din; Islamic State,295,60:58,real
+585,approx 2025,approx,strike,President Trump launched strikes in Nigeria against people accused of killing Christians,Nigeria,United States; Donald Trump,295,53:29,real
+613,approx 2025,approx,meeting,Al-Sharaa invited to the White House; Trump gave him cologne; CENTCOM commander Admiral Cooper filmed shooting hoops with him.,White House,Abu Mohammad al-Jolani; Brad Cooper; Donald Trump,337,50:25,real
 55,unknown,approx,statement,"The New York Times published an op-ed attributed to Sirajuddin Haqqani, which the hosts call disinformation.",,Sirajuddin Haqqani,14,11:01,real
