@@ -827,7 +827,7 @@
 "dataset": "real",
 "role": "First spokesman of the Islamic State",
 "status": "unknown",
-"n_episodes": 3,
+"n_episodes": 4,
 "country": null
 },
 {
@@ -4381,13 +4381,13 @@
 "country": null
 },
 {
-"id": "P-5c56e30760",
+"id": "P-811ff7c636",
 "kind": "person",
-"name": "Abd al-Hadi al-Iraqi",
+"name": "Abdul Hadi al-Iraqi",
 "dataset": "real",
 "role": "Major bin Laden lieutenant; organized guerrilla warfare in Afghanistan; led joint fighting force with the Taliban",
 "status": "detained",
-"n_episodes": 1,
+"n_episodes": 2,
 "country": null
 },
 {
@@ -6961,16 +6961,6 @@
 "country": null
 },
 {
-"id": "P-2fe7b8d554",
-"kind": "person",
-"name": "Abu Muhammad al-Sadani",
-"dataset": "real",
-"role": "al-Qaeda veteran in Syria, possible target of US drone strike",
-"status": "unknown",
-"n_episodes": 1,
-"country": null
-},
-{
 "id": "O-a434a32921",
 "kind": "organization",
 "name": "US Forces-Afghanistan",
@@ -8508,16 +8498,6 @@
 "role": "al-Qaeda security chief in Tora Bora and earlier",
 "status": "alive",
 "n_episodes": 4,
-"country": null
-},
-{
-"id": "P-811ff7c636",
-"kind": "person",
-"name": "Abdul Hadi al-Iraqi",
-"dataset": "real",
-"role": "Top lieutenant of bin Laden",
-"status": "unknown",
-"n_episodes": 1,
 "country": null
 },
 {
@@ -55938,17 +55918,6 @@
 "detail": null
 },
 {
-"source": "P-2fe7b8d554",
-"target": "O-c74761bdcd",
-"type": "member_of",
-"n": 1,
-"episodes": [
-32
-],
-"confidence": "stated",
-"detail": null
-},
-{
 "source": "P-3000a25a72",
 "target": "O-6e0f19f16b",
 "type": "member_of",
@@ -57604,28 +57573,6 @@
 "detail": null
 },
 {
-"source": "P-5c56e30760",
-"target": "O-03898888bd",
-"type": "member_of",
-"n": 1,
-"episodes": [
-16
-],
-"confidence": "stated",
-"detail": null
-},
-{
-"source": "P-5c56e30760",
-"target": "O-c74761bdcd",
-"type": "member_of",
-"n": 1,
-"episodes": [
-16
-],
-"confidence": "stated",
-"detail": null
-},
-{
 "source": "P-5c5b3408a5",
 "target": "O-3529ee4f45",
 "type": "member_of",
@@ -59123,10 +59070,22 @@
 },
 {
 "source": "P-811ff7c636",
-"target": "O-c74761bdcd",
+"target": "O-03898888bd",
 "type": "member_of",
 "n": 1,
 "episodes": [
+16
+],
+"confidence": "stated",
+"detail": null
+},
+{
+"source": "P-811ff7c636",
+"target": "O-c74761bdcd",
+"type": "member_of",
+"n": 2,
+"episodes": [
+16,
 57
 ],
 "confidence": "stated",
@@ -62583,6 +62542,17 @@
 4,
 13,
 29
+],
+"confidence": "stated",
+"detail": null
+},
+{
+"source": "P-e354385635",
+"target": "O-c74761bdcd",
+"type": "member_of",
+"n": 1,
+"episodes": [
+32
 ],
 "confidence": "stated",
 "detail": null

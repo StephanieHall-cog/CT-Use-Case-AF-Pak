@@ -33,3 +33,11 @@ python3 scripts/build_db.py --synthetic synthetic/*.json
   raw spellings are kept in `aliases`.
 - Claims are the hosts' analysis, not adjudicated fact. `confidence` = `stated` (hosts said it) or `inferred` (extractor inference).
 - Synthetic records are fictional people only; never attach synthetic attributes to a real entity id.
+
+## Documentation
+- `docs/network-findings.md` — what the 93 episodes reveal (narrative + generated tables; regenerate the tables with `python3 scripts/report.py`).
+- `docs/gui-plan.md` — how to turn this database into an analyst GUI.
+- `raw/reports/batch_XX_report.md` — per-batch extraction notes, including which episodes were hand-extracted.
+
+## Current build
+93 episodes · 1,635 entities (persons/organizations/places) · 3,536 aliases · 6,571 relationships · 1,394 dated events · 2,720 mentions.
