@@ -13,12 +13,21 @@ def deg(kind=None):
     return q(f"""select e.name, e.kind, e.n_episodes, count(r.id) rels,
         sum(r.confidence='stated') stated, sum(r.confidence='inferred') inferred
         from entities e join relationships r on r.source_id=e.id or r.target_id=e.id
-        where e.dataset='real' {k} group by e.id order by rels desc""")
-n = {t: q(f"select count(*) from {t}")[0][0] for t in ("episodes","entities","relationships","events","mentions","aliases")}
+        where e.dataset='real' and r.source='podcast' {k} group by e.id order by rels desc""")
+n = {t: q(f"select count(*) from {t}")[0][0] for t in ("episodes","entities","relationships","events","mentions","aliases","profiles")}
 print("## Corpus\n", ", ".join(f"{k}: {v}" for k, v in n.items()))
+print("\n## External profile sources (UN 1988 Sanctions List, FBI Wanted – Terrorism)\n", table(q("""select p.source, p.category, count(*) profiles,
+    sum(e.n_episodes>0) also_in_podcast, sum(e.sources like '%podcast%' and e.sources like '%un_1988%' and e.sources like '%fbi_wanted%') in_all_three
+    from profiles p left join entities e on e.id=p.entity_id group by 1,2 order by 1,2"""), ["source","category","profiles","also discussed in podcast","in all three sources"]))
+print("\n### Podcast figures with an official sanctions / wanted profile\n", table(q("""select e.name, e.n_episodes, group_concat(p.source||' '||p.reference, '; '), max(coalesce(p.listed_on,'')), max(coalesce(p.dob,'')), max(coalesce(p.pob,''))
+    from entities e join profiles p on p.entity_id=e.id where e.n_episodes>0 group by e.id order by e.n_episodes desc"""), ["person/org","episodes","profile refs","listed","DOB (as listed)","POB (as listed)"]))
+print("\n### Haqqani Network: UN-listed members and stated family/command links\n", table(q("""select s.name, r.type, t.name, r.detail, r.quote from relationships r join entities s on s.id=r.source_id join entities t on t.id=r.target_id
+    where r.source='un_1988' and (s.name like '%Haqqani%' or t.name like '%Haqqani%' or t.name='Haqqani Network') order by r.type, s.name"""), ["source","type","target","list refs","UN sentence"]))
+print("\n### FBI Wanted – Terrorism profiles (biodata as published)\n", table(q("""select p.category, p.name, coalesce(e.name,''), p.nationality, p.dob, p.pob, substr(p.physical,1,120), substr(p.reward_text,1,80)
+    from profiles p left join entities e on e.id=p.entity_id where p.source='fbi_wanted' order by p.category, p.name"""), ["category","FBI name","linked entity","nationality","DOB(s) used","POB","physical","reward"]))
 print("\n## Most connected persons (degree = relationship rows)\n", table(deg("person")[:40], ["person","kind","episodes","edges","stated","inferred"]))
 print("\n## Most connected organizations\n", table(deg("organization")[:25], ["org","kind","episodes","edges","stated","inferred"]))
-print("\n## Relationship types\n", table(q("select type, count(*), sum(confidence='stated'), sum(confidence='inferred') from relationships where dataset='real' group by type order by 2 desc"), ["type","n","stated","inferred"]))
+print("\n## Relationship types\n", table(q("select type, count(*), sum(confidence='stated'), sum(confidence='inferred') from relationships where dataset='real' and source='podcast' group by type order by 2 desc"), ["type","n","stated","inferred"]))
 print("\n## Family ties\n", table(q("""select s.name, t.name, r.detail, group_concat(distinct r.episode_idx) from relationships r join entities s on s.id=r.source_id join entities t on t.id=r.target_id
     where r.type in ('family') or r.type like '%son_of%' or r.type like '%father%' or r.type like '%brother%' or r.type like '%uncle%' or r.type like '%married%' or r.type like 'relative%' group by s.id,t.id,r.type order by s.name"""), ["person","relative","detail","episodes"]))
 print("\n## Leadership & succession\n", table(q("""select s.name, r.type, t.name, r.date, r.confidence, group_concat(distinct r.episode_idx) from relationships r join entities s on s.id=r.source_id join entities t on t.id=r.target_id
