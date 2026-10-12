@@ -1,0 +1,677 @@
+{
+ "episode": {
+  "idx": 70,
+  "title": "Ep. 69 — An Afghanistan Update",
+  "published": "Mon, 09 May 2022 22:21:22 +0000",
+  "guid": "e6473b88-7886-4aaa-a6ed-938fcc8256a9"
+ },
+ "persons": [
+  {
+   "name": "Osama bin Laden",
+   "aliases": [
+    "bin Laden",
+    "Kilbin Laden"
+   ],
+   "role": "founder and first emir of al-Qaeda",
+   "organizations": [
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "dead",
+   "status_detail": "killed in a US Navy SEAL/CIA raid on his compound in Abbottabad, Pakistan, on 2 May 2011",
+   "family": [],
+   "locations": [
+    "Abbottabad",
+    "Pakistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "16:03",
+     "quote": "we could look no further than Osama bin Laden... he lived basically just outside the West Point of Pakistan"
+    },
+    {
+     "timestamp": "16:42",
+     "quote": "His anniversary was just recently on May 2nd"
+    },
+    {
+     "timestamp": "21:56",
+     "quote": "We got the bin Laden files"
+    }
+   ]
+  },
+  {
+   "name": "Ayman al-Zawahiri",
+   "aliases": [
+    "Zawahari",
+    "Zawar Quri",
+    "Zahari",
+    "Iman al-Zawahiri"
+   ],
+   "role": "al-Qaeda emir; bin Laden's deputy on 9/11 and co-founder of al-Qaeda",
+   "organizations": [
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Egyptian",
+   "status": "alive",
+   "status_detail": "described as still alive and active as of May 2022, 21 years after 9/11; he took over al-Qaeda after bin Laden's death",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "19:20",
+     "quote": "To Iman al-Zawahiri, who was al-Qaeda's deputy on the day of 9-11"
+    },
+    {
+     "timestamp": "22:33",
+     "quote": "Zawar Quri took the reins. He's weathered several crises, including the rise of ISIS"
+    }
+   ]
+  },
+  {
+   "name": "Zalmay Khalilzad",
+   "aliases": [
+    "Zalmeh Kelesad"
+   ],
+   "role": "former US Special Representative for Afghanistan Reconciliation",
+   "organizations": [
+    "US government"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "the position no longer exists",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "18:04",
+     "quote": "negotiating with the Taliban and Zalmeh Kelesad, who was the special representative for Afghanistan reconciliation"
+    },
+    {
+     "timestamp": "18:21",
+     "quote": "he called the Pakistani government a partner in peace in Afghanistan"
+    }
+   ]
+  },
+  {
+   "name": "Hafiz Gul Bahadur",
+   "aliases": [
+    "Huffis Gull Bahadur"
+   ],
+   "role": "Pashtun militant commander operating on both sides of the Afghanistan-Pakistan border",
+   "organizations": [],
+   "nationality_or_origin": "Pakistani",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "North Waziristan",
+    "Afghanistan-Pakistan border"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "14:42",
+     "quote": "Look no further than individuals like Hafiz Gul Bahadur or the Haqqani network who operate on both sides of the border"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Taliban",
+   "aliases": [
+    "Afghan Taliban",
+    "Islamic Emirate of Afghanistan"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda",
+    "Jamaat Ansarullah",
+    "Tehrik-e-Taliban Pakistan",
+    "Pakistan military and ISI",
+    "Iran"
+   ],
+   "rivals": [
+    "Islamic State Khorasan Province"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Controls all 34 provinces and has over 100,000 fighters, plus US-supplied materiel. Pakistan is its state sponsor and Iran does so to a lesser degree. Shelters al-Qaeda, AQIS, TTP and Jamaat Ansarullah."
+  },
+  {
+   "name": "Islamic State Khorasan Province",
+   "aliases": [
+    "ISIS-K",
+    "ISK",
+    "ISKP",
+    "Islamic State"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Islamic State"
+   ],
+   "rivals": [
+    "Taliban",
+    "al-Qaeda"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Formed in about 2015 from ex-TTP members, disaffected Afghan Taliban and a few al-Qaeda members. Controls no territory and operates in cells. UN estimates it has several thousand fighters. Strongholds were previously Nangarhar and Kunar. Ran an April 2022 campaign called 'Revenge of the Two Sheikhs'."
+  },
+  {
+   "name": "al-Qaeda",
+   "aliases": [
+    "al-Qaeda core"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban",
+    "AQIS",
+    "AQAP",
+    "al-Shabaab"
+   ],
+   "rivals": [
+    "Islamic State Khorasan Province"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Operates in Afghanistan under Taliban protection and is led by Zawahiri. Its branches flourish particularly in Africa."
+  },
+  {
+   "name": "al-Qaeda in the Indian Subcontinent",
+   "aliases": [
+    "AQIS"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda",
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "al-Qaeda's South Asia branch, sheltered by the Taliban."
+  },
+  {
+   "name": "Tehrik-e-Taliban Pakistan",
+   "aliases": [
+    "Pakistani Taliban",
+    "Movement of the Taliban in Pakistan",
+    "TTP"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [
+    "Pakistani state"
+   ],
+   "country_base": "Pakistan",
+   "notes": "Thousands of fighters are in Afghanistan with safe haven and conduct cross-border attacks. Attacks reportedly doubled in a year. Aims to create an Islamic Emirate of Pakistan. Controlled large parts of northwestern Pakistan from 2006 to about 2015-16."
+  },
+  {
+   "name": "Jamaat Ansarullah",
+   "aliases": [
+    "Jamata Ansarula"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Tajik terror group. The Taliban put its Tajik leader in charge of five districts in northern Afghanistan in summer 2021."
+  },
+  {
+   "name": "Haqqani Network",
+   "aliases": [
+    "Hakani network"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan/Pakistan",
+   "notes": "Operates on both sides of the border; its headquarters were in Miranshah, North Waziristan, for two decades."
+  },
+  {
+   "name": "Pakistani military and intelligence establishment",
+   "aliases": [
+    "ISI",
+    "Pakistani deep state",
+    "Inter-Services Intelligence",
+    "Pakistani state",
+    "Pakistani establishment",
+    "Pakistani military"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Pakistani military",
+    "Taliban",
+    "Inter-Services Intelligence"
+   ],
+   "rivals": [
+    "TTP"
+   ],
+   "country_base": "Pakistan",
+   "notes": "Together with the military, it is the 'deep state' that controls foreign policy and backs the Afghan Taliban for strategic depth."
+  },
+  {
+   "name": "al-Qaeda in the Arabian Peninsula",
+   "aliases": [
+    "AQAP"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda"
+   ],
+   "rivals": [],
+   "country_base": "Yemen",
+   "notes": "Controlled territory in southern Yemen in 2011-12 and again in 2015-16. Currently on a downward path but not defeated."
+  },
+  {
+   "name": "al-Shabaab",
+   "aliases": [
+    "Shabab"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda"
+   ],
+   "rivals": [],
+   "country_base": "Somalia",
+   "notes": "Controlled most of southern and central Somalia, including Mogadishu, c. 2007-2012. Was driven out by an African Union mission with US help. Now said to control at least 25% of Somalia and is rising."
+  },
+  {
+   "name": "US Navy SEALs and CIA",
+   "aliases": [],
+   "type": "military",
+   "parent_or_allies": [],
+   "rivals": [
+    "al-Qaeda"
+   ],
+   "country_base": "United States",
+   "notes": "Carried out the Abbottabad raid that killed bin Laden."
+  },
+  {
+   "name": "Afghan National Army",
+   "aliases": [
+    "Afghan National Police",
+    "NDS"
+   ],
+   "type": "military",
+   "parent_or_allies": [],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Former Afghan government forces, now defunct. Their US-provided weapons fell to the Taliban."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Taliban-ruled safe haven for al-Qaeda, AQIS, TTP, Jamaat Ansarullah and other groups. ISKP carried out attacks there."
+  },
+  {
+   "name": "Kabul",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Kabul",
+   "significance": "Site of the 19 April 2022 bombing at a school targeting Shia Hazaras; at least 6 killed."
+  },
+  {
+   "name": "Mazar-i-Sharif",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Balkh",
+   "significance": "Site of the 21 April 2022 attack on Shia; 31 killed and 80+ wounded."
+  },
+  {
+   "name": "Kunduz",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Kunduz",
+   "significance": "Site of the 22 April 2022 attack on a Sufi mosque; 33 killed."
+  },
+  {
+   "name": "Balkh",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Mazar-i-Sharif is the provincial capital."
+  },
+  {
+   "name": "Nangarhar",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Former ISKP stronghold in eastern Afghanistan."
+  },
+  {
+   "name": "Kunar",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Former ISKP stronghold; also hit by Pakistani airstrikes."
+  },
+  {
+   "name": "Khost",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Hit by Pakistani airstrikes in April/May 2022."
+  },
+  {
+   "name": "Uzbekistan",
+   "type": "country",
+   "country": "Uzbekistan",
+   "parent": "",
+   "significance": "Target of the first ISKP mortar/rocket attack launched from Afghanistan against another country, April 2022."
+  },
+  {
+   "name": "Abbottabad",
+   "type": "city",
+   "country": "Pakistan",
+   "parent": "Khyber Pakhtunkhwa",
+   "significance": "City near Pakistan's military academy where bin Laden lived in a large compound until the 2011 raid."
+  },
+  {
+   "name": "Miranshah",
+   "type": "town",
+   "country": "Pakistan",
+   "parent": "North Waziristan",
+   "significance": "Haqqani Network headquarters for two decades."
+  },
+  {
+   "name": "North Waziristan",
+   "type": "region",
+   "country": "Pakistan",
+   "parent": "Pakistan",
+   "significance": "Base area of the Haqqanis and Hafiz Gul Bahadur."
+  },
+  {
+   "name": "Durand Line",
+   "type": "region",
+   "country": "Afghanistan/Pakistan",
+   "parent": "",
+   "significance": "Border not recognized by the Pashtuns who straddle it."
+  },
+  {
+   "name": "Somalia",
+   "type": "country",
+   "country": "Somalia",
+   "parent": "",
+   "significance": "Al-Shabaab territory."
+  },
+  {
+   "name": "Yemen",
+   "type": "country",
+   "country": "Yemen",
+   "parent": "",
+   "significance": "AQAP territory."
+  }
+ ],
+ "events": [
+  {
+   "date": "2021-07",
+   "date_precision": "approx",
+   "type": "appointment",
+   "description": "The Taliban put the Tajik leader of Jamaat Ansarullah in control of five districts in northern Afghanistan (summer 2021).",
+   "place": "Northern Afghanistan",
+   "actors": [
+    "Taliban",
+    "Jamaat Ansarullah"
+   ],
+   "timestamp": "01:40"
+  },
+  {
+   "date": "2022-04-19",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "ISKP bombing at a school in Kabul targeting Shia Hazaras; at least 6 killed.",
+   "place": "Kabul",
+   "actors": [
+    "Islamic State Khorasan Province"
+   ],
+   "timestamp": "03:23"
+  },
+  {
+   "date": "2022-04-21",
+   "date_precision": "approx",
+   "type": "attack",
+   "description": "ISKP attack on Shia in Mazar-i-Sharif; 31 killed and over 80 wounded.",
+   "place": "Mazar-i-Sharif",
+   "actors": [
+    "Islamic State Khorasan Province"
+   ],
+   "timestamp": "03:36"
+  },
+  {
+   "date": "2022-04-22",
+   "date_precision": "approx",
+   "type": "attack",
+   "description": "ISKP attack on a Sufi mosque in Kunduz city; 33 killed.",
+   "place": "Kunduz",
+   "actors": [
+    "Islamic State Khorasan Province"
+   ],
+   "timestamp": "03:45"
+  },
+  {
+   "date": "2022-04",
+   "date_precision": "month",
+   "type": "attack",
+   "description": "ISKP mortar/rocket attack on Uzbekistan launched from the Afghan border area, its first cross-border attack from Afghanistan.",
+   "place": "Uzbekistan",
+   "actors": [
+    "Islamic State Khorasan Province"
+   ],
+   "timestamp": "04:09"
+  },
+  {
+   "date": "2022-04",
+   "date_precision": "approx",
+   "type": "strike",
+   "description": "Pakistani airstrikes in Khost and Kunar killed about 47 Afghans, many of them civilians.",
+   "place": "Khost; Kunar",
+   "actors": [
+    "Pakistani military and intelligence establishment"
+   ],
+   "timestamp": "11:05"
+  },
+  {
+   "date": "2011-05-02",
+   "date_precision": "day",
+   "type": "death",
+   "description": "Osama bin Laden killed in a US Navy SEAL/CIA raid in Abbottabad.",
+   "place": "Abbottabad",
+   "actors": [
+    "US Navy SEALs and CIA",
+    "Osama bin Laden"
+   ],
+   "timestamp": "16:42"
+  },
+  {
+   "date": "2015",
+   "date_precision": "year",
+   "type": "other",
+   "description": "ISKP formed from ex-TTP fighters, disaffected Afghan Taliban and some al-Qaeda members.",
+   "place": "Afghanistan",
+   "actors": [
+    "Islamic State Khorasan Province"
+   ],
+   "timestamp": "05:23"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Taliban",
+   "target": "Jamaat Ansarullah",
+   "type": "allied_with",
+   "detail": "The Taliban placed the Tajik leader of Jamaat Ansarullah in charge of five northern districts, contradicting claims they do not host foreign terrorists.",
+   "date": "2021-07",
+   "confidence": "stated",
+   "timestamp": "01:40",
+   "quote": "The Taliban put the leader of this group, who is a Tajik national in control of five districts"
+  },
+  {
+   "source": "Taliban",
+   "target": "al-Qaeda",
+   "type": "allied_with",
+   "detail": "The Taliban shelter al-Qaeda and AQIS.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "10:07",
+   "quote": "the Taliban shelters foreign terror groups... al-Qaeda and its branch in South Asia"
+  },
+  {
+   "source": "al-Qaeda in the Indian Subcontinent",
+   "target": "Taliban",
+   "type": "sheltered_by",
+   "detail": "AQIS is sheltered by the Taliban in Afghanistan.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "10:07",
+   "quote": "al-Qaeda in the Indian subcontinent"
+  },
+  {
+   "source": "Tehrik-e-Taliban Pakistan",
+   "target": "Taliban",
+   "type": "sheltered_by",
+   "detail": "The Afghan Taliban let TTP operate from Afghan soil; thousands of TTP fighters have safe haven there.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "10:58",
+   "quote": "Thousands upon thousands of Pakistani Taliban fighters are operating inside of Afghanistan"
+  },
+  {
+   "source": "Taliban",
+   "target": "Pakistani military and intelligence establishment",
+   "type": "funded_by",
+   "detail": "The Afghan Taliban are supported by the Pakistani state (military/ISI); Iran does so to a lesser degree.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "12:04",
+   "quote": "the Afghan Taliban are... supported by the Pakistani state"
+  },
+  {
+   "source": "Islamic State Khorasan Province",
+   "target": "Taliban",
+   "type": "rival_of",
+   "detail": "ISKP is a mortal enemy of the Taliban and refuses to submit to Taliban rule.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "02:48",
+   "quote": "therefore they're mortal enemies"
+  },
+  {
+   "source": "Islamic State Khorasan Province",
+   "target": "al-Qaeda",
+   "type": "rival_of",
+   "detail": "The Islamic State broke away from al-Qaeda.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "22:45",
+   "quote": "the break-off of the Islamic State from al-Qaeda was a monumental or a cataclysmic event"
+  },
+  {
+   "source": "Haqqani Network",
+   "target": "Miranshah",
+   "type": "located_in",
+   "detail": "The Haqqani headquarters were in Miranshah, North Waziristan, for two decades.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "14:52",
+   "quote": "their headquarters was in Miram Shah in North Waziristan"
+  },
+  {
+   "source": "Osama bin Laden",
+   "target": "Abbottabad",
+   "type": "located_in",
+   "detail": "Bin Laden lived for years in a large compound in Abbottabad, apparently under Pakistani nose.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "16:31",
+   "quote": "Osama bin Laden was able to live there for years, have a large compound"
+  },
+  {
+   "source": "US Navy SEALs and CIA",
+   "target": "Osama bin Laden",
+   "type": "killed",
+   "detail": "Killed in the raid on his Abbottabad compound.",
+   "date": "2011-05-02",
+   "confidence": "stated",
+   "timestamp": "16:51",
+   "quote": "U.S. Navy Seals and the CIA conducted a daring raid into Abadabad"
+  },
+  {
+   "source": "Ayman al-Zawahiri",
+   "target": "Osama bin Laden",
+   "type": "succeeded",
+   "detail": "Zawahiri took the reins of al-Qaeda after bin Laden's death.",
+   "date": "2011",
+   "confidence": "stated",
+   "timestamp": "22:33",
+   "quote": "Zawar Quri took the reins"
+  },
+  {
+   "source": "Ayman al-Zawahiri",
+   "target": "al-Qaeda",
+   "type": "leads",
+   "detail": "Emir of al-Qaeda; all its branches swore allegiance to him.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "19:13",
+   "quote": "all of its branches swore allegiance to its new emir"
+  },
+  {
+   "source": "Pakistani military and intelligence establishment",
+   "target": "Tehrik-e-Taliban Pakistan",
+   "type": "rival_of",
+   "detail": "The Pakistani state fights the TTP, which is helped by the Afghan Taliban.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "15:11",
+   "quote": "The Pakistani state fights the Pakistani Taliban, which is helped by the Afghan Taliban"
+  },
+  {
+   "source": "Zalmay Khalilzad",
+   "target": "Taliban",
+   "type": "negotiated_with",
+   "detail": "Khalilzad negotiated with the Taliban as US special representative.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "18:04",
+   "quote": "when we were negotiating with the Taliban and Zalmeh Kelesad"
+  },
+  {
+   "source": "Hafiz Gul Bahadur",
+   "target": "North Waziristan",
+   "type": "located_in",
+   "detail": "Described as operating on both sides of the border, in the Waziristan area.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "14:42",
+   "quote": "individuals like Hafiz Gul Bahadur or the Haqqani network who operate on both sides of the border"
+  }
+ ],
+ "sources_cited": [
+  "United Nations estimate of ISKP strength (several thousand fighters)",
+  "CIA release of the bin Laden files",
+  "Roggio's own article on the Taliban as the real problem in Afghanistan"
+ ],
+ "key_claims": [
+  "The Taliban control all 34 Afghan provinces and shelter al-Qaeda, AQIS, TTP and Jamaat Ansarullah, contradicting their claim to bar foreign terrorists.",
+  "ISKP controls no territory and operates in cells, so it is mostly a nuisance to the Taliban, but its attacks challenge Taliban claims of full control.",
+  "ISKP's April 2022 attacks hit Hazara, Shia and Sufi targets and included its first cross-border mortar attack, on Uzbekistan.",
+  "Pakistan backs the Afghan Taliban for 'strategic depth' against India and tolerates TTP violence as the price, so open Pakistan-Taliban conflict over the airstrikes is unlikely.",
+  "The Hakkanis and Hafiz Gul Bahadur are examples of how Pashtun militants straddle the Durand Line, part of what Tom Joscelyn called the 'wheel of jihad'.",
+  "Bin Laden's killing did not collapse al-Qaeda; Zawahiri led it through the rise of ISIS and its branches in Africa are flourishing.",
+  "Bin Laden lived in Abbottabad for years, which shows Pakistani duplicity; the US did not tell Pakistan about the raid.",
+  "Khalilzad's calling Pakistan a 'partner in peace' was either a lie or a cynical ploy."
+ ]
+}

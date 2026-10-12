@@ -1,0 +1,1822 @@
+{
+ "episode": {
+  "idx": 196,
+  "title": "Ep. 201 — New UN report on jihadi threat in Africa, Asia, and the Middle East",
+  "published": "Tue, 13 Aug 2024 18:15:00 +0000",
+  "guid": "99e61bcd-1ce1-4d7b-970c-e21eca6118cb"
+ },
+ "persons": [
+  {
+   "name": "Abdul Qadir Mumin",
+   "aliases": [
+    "Moomin",
+    "Muman",
+    "Mumin"
+   ],
+   "role": "Head of ISIS-Somalia and head of the Al-Karrar office; per US intel reporting, possibly the overall ISIS caliph (disputed)",
+   "organizations": [
+    "Islamic State",
+    "ISIS-Somalia",
+    "Al-Karrar office"
+   ],
+   "nationality_or_origin": "Somali",
+   "status": "alive",
+   "status_detail": "The US reportedly targeted him during the reporting period, but the outcome is unclear and Somali sources say he is still alive. Hosts doubt he is the caliph.",
+   "family": [],
+   "locations": [
+    "Somalia",
+    "Puntland"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "02:40",
+     "quote": "U.S. intelligence officials have said that the head of the Islamic State is actually a Somali known as Abdul Qadir Mumin"
+    },
+    {
+     "timestamp": "10:49",
+     "quote": "in this case, Mumin has got both roles. He's the head of ISIL-Somalia and the head of the Al-Qarar office"
+    },
+    {
+     "timestamp": "11:35",
+     "quote": "I think the Americans have already had a go at him during this reporting period"
+    }
+   ]
+  },
+  {
+   "name": "Abu Hafs al-Hashimi al-Qurashi",
+   "aliases": [
+    "Abu Hafzal Hashemi al-Karechi",
+    "Abelhoff's"
+   ],
+   "role": "Current ISIS caliph/emir (nom de guerre); identity of the real person disputed by member states",
+   "organizations": [
+    "Islamic State"
+   ],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "Appointed about a year before the episode. Hosts note that the two caliphs before him lasted less than a year each.",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "03:37",
+     "quote": "the leader Abu Hafzal, Hashemi al-Karechi, among possible candidates"
+    },
+    {
+     "timestamp": "05:55",
+     "quote": "tomorrow will be the first anniversary of his appointment"
+    }
+   ]
+  },
+  {
+   "name": "Abdullah Makki Muslih al-Rifai",
+   "aliases": [
+    "Abdul Maki, Moslin, al-Rafi",
+    "Abu Qajada",
+    "Abu Khadijah"
+   ],
+   "role": "Candidate for ISIS caliph or head of the General Directorate of Provinces, per UN report",
+   "organizations": [
+    "Islamic State"
+   ],
+   "nationality_or_origin": "Iraqi",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Iraq"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "03:41",
+     "quote": "Abdul Maki, Moslin, al-Rafi, who is an Iraqi alias, Abu Qajada"
+    }
+   ]
+  },
+  {
+   "name": "Ahmad Hamid Husayn al-Ithawi",
+   "aliases": [
+    "Ahmad Hamid Hussein Alethwawi",
+    "Ahmad Hamid Hussein al-Jaburi (as transcribed: 'Alethwawi')"
+   ],
+   "role": "ISIS deputy emir; named in the UN report as possible caliph or head of the General Directorate of Provinces (name normalized from transcribed 'Alethwawi'; Claude's original 'al-Jaburi' surname was not in the transcript)",
+   "organizations": [
+    "Islamic State"
+   ],
+   "nationality_or_origin": "Iraqi",
+   "status": "unknown",
+   "status_detail": "The surname is uncertain because the transcript is garbled.",
+   "family": [],
+   "locations": [
+    "Iraq"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "04:08",
+     "quote": "the deputy emir, Ahmad Hamid Hussein Alethwawi. He's also an Iraqi."
+    }
+   ]
+  },
+  {
+   "name": "Abu Sara al-Iraqi",
+   "aliases": [
+    "Abu Saara Alaraki"
+   ],
+   "role": "Former head of ISIS General Directorate of Provinces",
+   "organizations": [
+    "Islamic State"
+   ],
+   "nationality_or_origin": "Iraqi",
+   "status": "dead",
+   "status_detail": "Reported killed in last year's UN monitoring team report. The team said this was a bigger deal than killing the caliph.",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "13:48",
+     "quote": "the head of the GDP, Abu Saara Alaraki, had been killed"
+    }
+   ]
+  },
+  {
+   "name": "Bilal al-Sudani",
+   "aliases": [
+    "Bilal al-Sadani"
+   ],
+   "role": "Al-Karrar office official working for Mumin; ISIS financier/facilitator",
+   "organizations": [
+    "Islamic State",
+    "Al-Karrar office"
+   ],
+   "nationality_or_origin": "Sudanese",
+   "status": "dead",
+   "status_detail": "Killed by a US Special Forces operation in Somalia",
+   "family": [],
+   "locations": [
+    "Somalia"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "12:08",
+     "quote": "someone who was working for him, Bilal al-Sadani, who was successfully killed by a US Special Forces operation"
+    }
+   ]
+  },
+  {
+   "name": "Ahmed Diriye",
+   "aliases": [
+    "Abu Abedah",
+    "Abu Ubaidah",
+    "Abu Ubaidah (Ahmed Diriye)"
+   ],
+   "role": "Emir of al-Shabaab",
+   "organizations": [
+    "al-Shabaab",
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Somali",
+   "status": "alive",
+   "status_detail": "In firm control despite rumors of infighting with Mahad Karate",
+   "family": [],
+   "locations": [
+    "Somalia"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "29:20",
+     "quote": "Abu Abedah, the Amir of al-Shabaab is in firm control"
+    }
+   ]
+  },
+  {
+   "name": "Mahad Karate",
+   "aliases": [
+    "Mahat Karate"
+   ],
+   "role": "Longtime head of al-Shabaab's Amniyat (intelligence/security service)",
+   "organizations": [
+    "al-Shabaab"
+   ],
+   "nationality_or_origin": "Somali",
+   "status": "alive",
+   "status_detail": "Rumored infighting with Abu Ubaidah, per the report",
+   "family": [],
+   "locations": [
+    "Somalia"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "29:26",
+     "quote": "rumors of infighting with Mahat Karate, the longtime leader of the Amniat"
+    }
+   ]
+  },
+  {
+   "name": "Mahdhah",
+   "aliases": [
+    "Mahdhah (Jaysh Ayman emir; spelling uncertain)"
+   ],
+   "role": "Emir of Jaysh Ayman, al-Shabaab's Kenya-focused wing (spelling uncertain; reported killed Dec 2023 but UN report says alive)",
+   "organizations": [
+    "Jaysh Ayman",
+    "al-Shabaab"
+   ],
+   "nationality_or_origin": "",
+   "status": "alive",
+   "status_detail": "Reported killed in December 2023, but the UN report says he is alive and active",
+   "family": [],
+   "locations": [
+    "Southern Somalia",
+    "Kenya"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "29:34",
+     "quote": "Mahdhah, the Amir of Jashu-Iman... reported killed last December, but they say on this report that he's alive and active"
+    }
+   ]
+  },
+  {
+   "name": "Abu Qas",
+   "aliases": [],
+   "role": "Senior ISCAP/ADF leader said to lead massacres in DRC",
+   "organizations": [
+    "ADF",
+    "ISIS Central Africa Province"
+   ],
+   "nationality_or_origin": "Tanzanian",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "DRC"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "45:40",
+     "quote": "it's mainly Abu Qas. He's this Tanzanian Arab. He's the one leading these three of massacres"
+    }
+   ]
+  },
+  {
+   "name": "Musa Baluku",
+   "aliases": [
+    "Baluku"
+   ],
+   "role": "Emir of ISIS Central Africa Province (ADF)",
+   "organizations": [
+    "ADF",
+    "ISIS Central Africa Province"
+   ],
+   "nationality_or_origin": "Ugandan",
+   "status": "alive",
+   "status_detail": "UN report says he is gravely ill and seeking hospitalization; hosts cannot corroborate",
+   "family": [],
+   "locations": [
+    "DRC"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "46:12",
+     "quote": "Baluku is gravely ill and seeking hospitalization"
+    }
+   ]
+  },
+  {
+   "name": "Saif al-Adel",
+   "aliases": [
+    "Saffa Lattel",
+    "Saevalada",
+    "Safe",
+    "Sae Faladl",
+    "Seifal-Adl",
+    "Saefer Ladle",
+    "Saefel Adel",
+    "Saif al-Adl"
+   ],
+   "role": "Leader of al-Qaeda",
+   "organizations": [
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Egyptian",
+   "status": "alive",
+   "status_detail": "Monitoring team has said he is in Iran as a guest of the Iranian government. He was previously based in Somalia.",
+   "family": [
+    {
+     "relation": "son",
+     "name": "Son of Saif al-Adel (unnamed)"
+    }
+   ],
+   "locations": [
+    "Iran",
+    "Somalia",
+    "Somalia (previously based there)"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "52:29",
+     "quote": "Saffa Lattel, the leader of al-Qaeda, is in Iran... as a guest of the Iranian government"
+    },
+    {
+     "timestamp": "54:38",
+     "quote": "maybe with Saevalada when he was based in Somalia"
+    },
+    {
+     "timestamp": "52:34",
+     "quote": "In Iran, as a guest of the Iranian government with Iranian government protection facilitation."
+    },
+    {
+     "timestamp": "54:42",
+     "quote": "maybe with Saevalada when he was based in Somalia"
+    },
+    {
+     "timestamp": "59:13",
+     "quote": "Saefer Ladle being a house guest of the Iranian government"
+    }
+   ]
+  },
+  {
+   "name": "Abu Mohammad al-Jolani",
+   "aliases": [
+    "Jalani",
+    "Abu Muhammad al-Jolani"
+   ],
+   "role": "Leader of Hay'at Tahrir al-Sham",
+   "organizations": [
+    "Hayat Tahrir al-Sham"
+   ],
+   "nationality_or_origin": "Syrian",
+   "status": "alive",
+   "status_detail": "HTS broke from al-Qaeda",
+   "family": [],
+   "locations": [
+    "Syria"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "55:24",
+     "quote": "Hayat-Tihar al-Sham... led by Jalani, which broke from al-Qaeda"
+    }
+   ]
+  },
+  {
+   "name": "Ayman al-Zawahiri",
+   "aliases": [
+    "Zawahiri"
+   ],
+   "role": "Former al-Qaeda emir (reference)",
+   "organizations": [
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Egyptian",
+   "status": "dead",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "14:31",
+     "quote": "in al-Qaeda was different, right, with Zawahiri and bin Laden because of their role in 9-11"
+    }
+   ]
+  },
+  {
+   "name": "Osama bin Laden",
+   "aliases": [
+    "bin Laden"
+   ],
+   "role": "Founder of al-Qaeda (reference)",
+   "organizations": [
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "dead",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "14:31",
+     "quote": "Zawahiri and bin Laden because of their role in 9-11"
+    }
+   ]
+  },
+  {
+   "name": "Abu Bakr al-Baghdadi",
+   "aliases": [
+    "Baghdadi"
+   ],
+   "role": "Former ISIS caliph (reference)",
+   "organizations": [
+    "Islamic State"
+   ],
+   "nationality_or_origin": "Iraqi",
+   "status": "dead",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "09:34",
+     "quote": "Baghdadi was visible to some degree"
+    }
+   ]
+  },
+  {
+   "name": "Son of Saif al-Adel (unnamed)",
+   "aliases": [],
+   "role": "Significant figure in AQAP and key link man between Saif al-Adel and AQAP",
+   "organizations": [
+    "AQAP",
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "",
+   "status": "dead",
+   "status_detail": "Died in mysterious circumstances in early 2024, possibly a 'house fire' (machine transcript: 'house farm'); the UN report raises the possibility of an internal dispute",
+   "family": [
+    {
+     "relation": "father",
+     "name": "Saif al-Adel"
+    }
+   ],
+   "locations": [
+    "Yemen"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "56:11",
+     "quote": "the son of Saif al-Adl... may have been killed due to internal disputes"
+    },
+    {
+     "timestamp": "58:34",
+     "quote": "Seifal-Adl's son was a significant figure in al-Qaeda in the Arabian Peninsula until he died in mysterious circumstances"
+    }
+   ]
+  },
+  {
+   "name": "Khalid Batarfi",
+   "aliases": [
+    "Caleb Tatarfi",
+    "Batafi",
+    "Batarfi"
+   ],
+   "role": "Leader of AQAP for several years",
+   "organizations": [
+    "AQAP",
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Yemeni",
+   "status": "dead",
+   "status_detail": "Died in early 2024, possibly from illness according to the report, though the circumstances are questioned",
+   "family": [],
+   "locations": [
+    "Yemen"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "56:11",
+     "quote": "Khalid Batarfi, and then the son of Saif al-Adl"
+    },
+    {
+     "timestamp": "58:54",
+     "quote": "leader of Al-Qaeda in the Arabian Peninsula... also died"
+    }
+   ]
+  },
+  {
+   "name": "Sa'ad bin Atef al-Awlaki",
+   "aliases": [
+    "Saabanaata Falauleki"
+   ],
+   "role": "New leader of AQAP",
+   "organizations": [
+    "AQAP",
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Yemeni",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Yemen"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "60:57",
+     "quote": "there could be a change of direction with... the new leader of AQAP"
+    }
+   ]
+  },
+  {
+   "name": "Al-Somali",
+   "aliases": [
+    "Somali",
+    "Al-Somali (al-Qaeda emissary to Iraq)"
+   ],
+   "role": "al-Qaeda operative sent to Iraq to help establish cells",
+   "organizations": [
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "The report gives his name as 'Somali'. Caleb Weiss suspects he spent time in Somalia, possibly with Saif al-Adel, rather than being an ethnic Somali.",
+   "family": [],
+   "locations": [
+    "Iraq",
+    "Somalia"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "54:10",
+     "quote": "al-Qaeda sent someone to Iraq to help establish cells there"
+    },
+    {
+     "timestamp": "54:38",
+     "quote": "his name is Somali"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "UN Analytical Support and Sanctions Monitoring Team",
+   "aliases": [
+    "monitoring team",
+    "1267 Committee team",
+    "UN Analytical Support and Sanctions Monitoring Team (Monitoring Team)",
+    "UN Monitoring Team"
+   ],
+   "type": "international body",
+   "parent_or_allies": [
+    "United Nations"
+   ],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Authors the report on al-Qaeda, ISIL and associated groups. It gathers information from member states and habitually avoids accusing member states directly."
+  },
+  {
+   "name": "Islamic State",
+   "aliases": [
+    "ISIL",
+    "ISIS",
+    "Daesh",
+    "IS"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [
+    "al-Qaeda",
+    "al-Shabaab",
+    "JNIM",
+    "Taliban"
+   ],
+   "country_base": "Iraq/Syria",
+   "notes": "Caliph is disputed. The General Directorate of Provinces (GDP) is roughly equivalent to al-Qaeda's general manager. Five key regional offices: Al-Karrar, Al-Furqan, Al-Siddiq, and the Syria and Iraq provinces."
+  },
+  {
+   "name": "Al-Karrar office",
+   "aliases": [
+    "Al-Qarar office",
+    "Al-Qarrar"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Islamic State",
+    "ISIS-Somalia"
+   ],
+   "rivals": [],
+   "country_base": "Somalia",
+   "notes": "ISIS regional office coordinating recruiting, fundraising and funneling of money and war material to Africa, Afghanistan, Yemen and Turkey. Headed by Mumin and reportedly ISIS's most important financial stream."
+  },
+  {
+   "name": "ISIS-Somalia",
+   "aliases": [
+    "ISIL-Somalia",
+    "IS Somalia",
+    "ISSP"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Islamic State"
+   ],
+   "rivals": [
+    "al-Shabaab"
+   ],
+   "country_base": "Somalia",
+   "notes": "Growing in numbers, with 300-500 fighters recruited from Yemen and East/North Africa. It pushed al-Shabaab out of part of the Al Miskaad mountains in Puntland."
+  },
+  {
+   "name": "ISIS-Yemen",
+   "aliases": [
+    "ISIL-Yemen"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Islamic State"
+   ],
+   "rivals": [],
+   "country_base": "Yemen",
+   "notes": "Weak; linked to ISIS-Somalia via a smuggling network"
+  },
+  {
+   "name": "al-Shabaab",
+   "aliases": [
+    "Shabab"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda"
+   ],
+   "rivals": [
+    "ISIS-Somalia",
+    "Islamic State in Somalia"
+   ],
+   "country_base": "Somalia",
+   "notes": "Called the 'Taliban of Africa'. It funds other al-Qaeda branches and remits money to al-Qaeda leadership. It is reportedly seeking 3D-printed weapons and weaponized drones."
+  },
+  {
+   "name": "Jaysh Ayman",
+   "aliases": [
+    "Jashu-Iman"
+   ],
+   "type": "militia",
+   "parent_or_allies": [
+    "al-Shabaab"
+   ],
+   "rivals": [],
+   "country_base": "Somalia",
+   "notes": "Armed wing operating in Kenya and southern Somalia"
+  },
+  {
+   "name": "Amniyat",
+   "aliases": [
+    "Amniat"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Shabaab"
+   ],
+   "rivals": [],
+   "country_base": "Somalia",
+   "notes": "al-Shabaab's intelligence/security wing"
+  },
+  {
+   "name": "AQAP",
+   "aliases": [
+    "al-Qaeda in the Arabian Peninsula"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda"
+   ],
+   "rivals": [
+    "Islamic State",
+    "Houthis"
+   ],
+   "country_base": "Yemen",
+   "notes": "In a truce or deconfliction period with the Houthis. Possible internal divisions after the deaths of Batarfi and Saif al-Adel's son."
+  },
+  {
+   "name": "al-Qaeda",
+   "aliases": [
+    "AQ"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "AQAP",
+    "Hurras al-Din",
+    "al-Shabaab",
+    "Taliban",
+    "Iran (host)"
+   ],
+   "rivals": [
+    "Islamic State"
+   ],
+   "country_base": "Afghanistan/Iran",
+   "notes": "Leader Saif al-Adel is reportedly in Iran. It sent a Somali-linked operative to Iraq to set up cells."
+  },
+  {
+   "name": "JNIM",
+   "aliases": [
+    "Jama'at Nusrat al-Islam wal-Muslimin",
+    "J&IM",
+    "Jane I'm"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda"
+   ],
+   "rivals": [
+    "ISGS / IS Sahel Province"
+   ],
+   "country_base": "Mali/Burkina Faso",
+   "notes": "Controls about 40% of Burkina Faso (Nov 2023 estimate). It has non-aggression pacts with some Tuareg factions, a fragile truce with ISGS, and is expanding south into Benin and Togo."
+  },
+  {
+   "name": "Islamic State Sahel Province",
+   "aliases": [
+    "Islamic State in the Greater Sahara",
+    "IS Sahel",
+    "ISGS / IS Sahel Province"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Islamic State"
+   ],
+   "rivals": [
+    "JNIM"
+   ],
+   "country_base": "Mali/Niger",
+   "notes": "Strong in Menaka, Gao, Tillaberi and eastern Burkina Faso. It is linking up with the Lake Chad theatre."
+  },
+  {
+   "name": "Al-Furqan office",
+   "aliases": [
+    "Al-Fir-Khan",
+    "Al-Furkan"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Islamic State"
+   ],
+   "rivals": [],
+   "country_base": "Nigeria/Lake Chad Basin",
+   "notes": "Now covers West Africa, the Sahel and North Africa, having absorbed the former office responsible for Egypt and Sudan and, earlier, Libya's Al-Anfal office."
+  },
+  {
+   "name": "Al-Siddiq office",
+   "aliases": [
+    "Al-Sidik office"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Islamic State"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "ISIS regional office for Afghanistan; the report mainly discusses ISKP"
+  },
+  {
+   "name": "ISKP",
+   "aliases": [
+    "ISIL-Khorasan",
+    "ISIS-Khorasan",
+    "ISIL-K",
+    "Islamic State Khorasan Province"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Islamic State",
+    "Al-Siddiq office"
+   ],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Seen as the leading immediate terror threat in non-conflict zones. It uses Tajik, Uzbek and other Central Asian diasporas and has a Turkey connection (Crocus City attackers, Moscow, March 2024)."
+  },
+  {
+   "name": "ISIS Central Africa Province",
+   "aliases": [
+    "ADF",
+    "Allied Democratic Forces",
+    "Ice Cap",
+    "ISIS Central Africa Province (ISCAP)"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Islamic State"
+   ],
+   "rivals": [],
+   "country_base": "DRC",
+   "notes": "Resilient despite Operation Shujaa. It recruits from Sudan, Tanzania and Somalia."
+  },
+  {
+   "name": "ISIS Mozambique",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Islamic State",
+    "ISCAP"
+   ],
+   "rivals": [],
+   "country_base": "Mozambique",
+   "notes": "250-350 fighters; shifting to Dawa and civilian outreach"
+  },
+  {
+   "name": "Operation Shujaa",
+   "aliases": [
+    "Operation Shuzha",
+    "Operation Shusia"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "DRC",
+    "Uganda"
+   ],
+   "rivals": [
+    "ADF"
+   ],
+   "country_base": "DRC",
+   "notes": "Joint DRC-Uganda operation across three agreed sectors"
+  },
+  {
+   "name": "Hayat Tahrir al-Sham",
+   "aliases": [
+    "HTS",
+    "Hyattir al-Sharm",
+    "Hay'at Tahrir al-Sham"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Hurras al-Din (working relationship)",
+    "Hurras al-Din"
+   ],
+   "rivals": [
+    "Syrian government"
+   ],
+   "country_base": "Syria",
+   "notes": "Led by al-Jolani. Broke from al-Qaeda but still provides logistical support to Hurras al-Din."
+  },
+  {
+   "name": "Hurras al-Din",
+   "aliases": [
+    "Haras al-Din",
+    "HAD"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda",
+    "Hay'at Tahrir al-Sham",
+    "Hayat Tahrir al-Sham"
+   ],
+   "rivals": [],
+   "country_base": "Syria",
+   "notes": "al-Qaeda's branch in Syria"
+  },
+  {
+   "name": "Tuareg rebels",
+   "aliases": [
+    "Tuaregs"
+   ],
+   "type": "militia",
+   "parent_or_allies": [
+    "JNIM (non-aggression pacts)"
+   ],
+   "rivals": [
+    "Wagner Group",
+    "Mali government"
+   ],
+   "country_base": "Mali",
+   "notes": "Started the recent attack that killed about 50 Wagner mercenaries; JNIM joined"
+  },
+  {
+   "name": "Wagner Group",
+   "aliases": [
+    "Wagner"
+   ],
+   "type": "militia",
+   "parent_or_allies": [
+    "Mali junta",
+    "Burkina junta"
+   ],
+   "rivals": [
+    "JNIM",
+    "Tuareg rebels"
+   ],
+   "country_base": "Russia",
+   "notes": "About 50 Wagner mercenaries killed in northern Mali a few days before the episode"
+  },
+  {
+   "name": "US Treasury",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "In 2022 designated a smuggling network between northern Somalia and Yemen serving al-Shabaab and ISIS-Somalia"
+  },
+  {
+   "name": "Houthis",
+   "aliases": [
+    "Ansar Allah"
+   ],
+   "type": "militia",
+   "parent_or_allies": [
+    "Iran"
+   ],
+   "rivals": [
+    "AQAP"
+   ],
+   "country_base": "Yemen",
+   "notes": "US reports al-Shabaab is seeking sophisticated weapons from them"
+  },
+  {
+   "name": "Iran",
+   "aliases": [
+    "Iranian government"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Hezbollah",
+    "Houthis"
+   ],
+   "rivals": [],
+   "country_base": "Iran",
+   "notes": "Hosts Saif al-Adel and al-Qaeda leaders; the report does not say so explicitly"
+  },
+  {
+   "name": "Turkey",
+   "aliases": [
+    "Turkish government"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Turkey",
+   "notes": "Turkey is a hub for ISIS finance and facilitation. It claimed about a year ago to have captured the ISIS leader, which appeared untrue."
+  },
+  {
+   "name": "Hezbollah",
+   "aliases": [
+    "Hizbalah"
+   ],
+   "type": "militia",
+   "parent_or_allies": [
+    "Iran"
+   ],
+   "rivals": [],
+   "country_base": "Lebanon",
+   "notes": "Mentioned as active in Syria alongside Iran."
+  },
+  {
+   "name": "Taliban",
+   "aliases": [],
+   "type": "political movement",
+   "parent_or_allies": [
+    "al-Qaeda"
+   ],
+   "rivals": [
+    "ISKP"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Described, along with al-Qaeda, as playing footsies with Pakistan and Iran, which can push fervent jihadists to IS."
+  },
+  {
+   "name": "Shia militias (Iraq/Syria)",
+   "aliases": [],
+   "type": "militia",
+   "parent_or_allies": [
+    "Iran"
+   ],
+   "rivals": [
+    "United States"
+   ],
+   "country_base": "Iraq",
+   "notes": "Their attacks on US bases likely reduced counterterrorism operations."
+  },
+  {
+   "name": "General Directorate of Provinces",
+   "aliases": [
+    "GDP",
+    "general director of the provinces"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Islamic State"
+   ],
+   "rivals": [],
+   "country_base": "",
+   "notes": "IS body that links regional offices and provinces."
+  },
+  {
+   "name": "Darod clan",
+   "aliases": [
+    "Darode"
+   ],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Somalia",
+   "notes": "Somali clan family of Abdul Qadir Mumin; claims Qurayshi descent (hosts call this myth)."
+  }
+ ],
+ "places": [
+  {
+   "name": "Somalia",
+   "type": "country",
+   "country": "Somalia",
+   "parent": "",
+   "significance": "Base of ISIS-Somalia and the Al-Karrar office, and of al-Shabaab. Its economy is reliant on diaspora remittances."
+  },
+  {
+   "name": "Puntland",
+   "type": "region",
+   "country": "Somalia",
+   "parent": "Somalia",
+   "significance": "ISIS-Somalia stronghold"
+  },
+  {
+   "name": "Al Miskaad mountains",
+   "type": "region",
+   "country": "Somalia",
+   "parent": "Puntland",
+   "significance": "ISIS-Somalia pushed al-Shabaab out of part of the range"
+  },
+  {
+   "name": "Bosaso",
+   "type": "city",
+   "country": "Somalia",
+   "parent": "Puntland",
+   "significance": "ISIS-Somalia can exert influence there and extract taxes"
+  },
+  {
+   "name": "Mogadishu",
+   "type": "city",
+   "country": "Somalia",
+   "parent": "Somalia",
+   "significance": "Drone alert issued for the airport on 12 Aug 2024"
+  },
+  {
+   "name": "Yemen",
+   "type": "country",
+   "country": "Yemen",
+   "parent": "",
+   "significance": "Source of 300-500 recruits for ISIS-Somalia; smuggling and recruitment links to Somalia"
+  },
+  {
+   "name": "Turkey",
+   "type": "country",
+   "country": "Turkey",
+   "parent": "",
+   "significance": "Hub for ISIS finance, the Arawi network, Central Asian diasporas, and the Crocus City attackers' operational connection"
+  },
+  {
+   "name": "Iran",
+   "type": "country",
+   "country": "Iran",
+   "parent": "",
+   "significance": "Hosts Saif al-Adel and the al-Qaeda leadership"
+  },
+  {
+   "name": "Burkina Faso",
+   "type": "country",
+   "country": "Burkina Faso",
+   "parent": "",
+   "significance": "JNIM controls about 40% and has considerable freedom of action"
+  },
+  {
+   "name": "Mali",
+   "type": "country",
+   "country": "Mali",
+   "parent": "",
+   "significance": "JNIM/ISGS operations; Wagner losses"
+  },
+  {
+   "name": "Menaka",
+   "type": "region",
+   "country": "Mali",
+   "parent": "Mali",
+   "significance": "ISGS stronghold"
+  },
+  {
+   "name": "Gao",
+   "type": "region",
+   "country": "Mali",
+   "parent": "Mali",
+   "significance": "ISGS area"
+  },
+  {
+   "name": "Tillaberi",
+   "type": "region",
+   "country": "Niger",
+   "parent": "Niger",
+   "significance": "ISGS area"
+  },
+  {
+   "name": "Niger",
+   "type": "country",
+   "country": "Niger",
+   "parent": "",
+   "significance": "ISIS corridor linking the Lake Chad Basin and the Sahel"
+  },
+  {
+   "name": "Benin",
+   "type": "country",
+   "country": "Benin",
+   "parent": "",
+   "significance": "Fragile; JNIM expanding into the north"
+  },
+  {
+   "name": "Togo",
+   "type": "country",
+   "country": "Togo",
+   "parent": "",
+   "significance": "Fragile; JNIM expanding into the north"
+  },
+  {
+   "name": "Lake Chad Basin",
+   "type": "region",
+   "country": "Nigeria",
+   "parent": "",
+   "significance": "Al-Furqan office area"
+  },
+  {
+   "name": "Nigeria",
+   "type": "country",
+   "country": "Nigeria",
+   "parent": "",
+   "significance": "ISIS northwestern Nigeria expansion"
+  },
+  {
+   "name": "Democratic Republic of the Congo",
+   "type": "country",
+   "country": "DRC",
+   "parent": "",
+   "significance": "ADF/ISCAP base"
+  },
+  {
+   "name": "Mozambique",
+   "type": "country",
+   "country": "Mozambique",
+   "parent": "",
+   "significance": "ISIS Mozambique, 250-350 fighters"
+  },
+  {
+   "name": "Johannesburg",
+   "type": "city",
+   "country": "South Africa",
+   "parent": "",
+   "significance": "Hub of Somali diaspora hawala network funding Al-Karrar"
+  },
+  {
+   "name": "Nairobi",
+   "type": "city",
+   "country": "Kenya",
+   "parent": "",
+   "significance": "Redistribution point for Al-Karrar funds to Uganda, Congo, Kenya, Tanzania and Mozambique"
+  },
+  {
+   "name": "Iraq",
+   "type": "country",
+   "country": "Iraq",
+   "parent": "",
+   "significance": "Al-Qaeda sent an operative to set up cells"
+  },
+  {
+   "name": "Syria",
+   "type": "country",
+   "country": "Syria",
+   "parent": "",
+   "significance": "HTS and Hurras al-Din"
+  },
+  {
+   "name": "Moscow",
+   "type": "city",
+   "country": "Russia",
+   "parent": "",
+   "significance": "Crocus City Hall attack, March 2024"
+  },
+  {
+   "name": "Red Sea",
+   "type": "region",
+   "country": "",
+   "parent": "",
+   "significance": "Link between Yemen and Somalia."
+  },
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Taliban and al-Qaeda dynamic. Compared with the 'Afghanization' of Somalia and the Sahel."
+  },
+  {
+   "name": "Sahel",
+   "type": "region",
+   "country": "",
+   "parent": "West Africa",
+   "significance": "Possible 'Afghanization' by al-Qaeda."
+  },
+  {
+   "name": "Central Asia",
+   "type": "region",
+   "country": "",
+   "parent": "",
+   "significance": "Region where Taliban/al-Qaeda dealings with foreign governments can push jihadists toward IS."
+  },
+  {
+   "name": "Western Europe",
+   "type": "region",
+   "country": "",
+   "parent": "",
+   "significance": "Possible target of a major ISKP attack."
+  }
+ ],
+ "events": [
+  {
+   "date": "2024-07",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "UN Monitoring Team report on ISIL/al-Qaeda published; disputes the caliph's identity and assesses ISIS-Somalia growth, the JNIM advance in Burkina Faso, and ISKP threat",
+   "place": "",
+   "actors": [
+    "UN Analytical Support and Sanctions Monitoring Team"
+   ],
+   "timestamp": "00:26"
+  },
+  {
+   "date": "2023-08",
+   "date_precision": "approx",
+   "type": "appointment",
+   "description": "Abu Hafs al-Hashimi al-Qurashi appointed ISIS caliph (first anniversary approaching)",
+   "place": "",
+   "actors": [
+    "Islamic State"
+   ],
+   "timestamp": "05:55"
+  },
+  {
+   "date": "2023",
+   "date_precision": "approx",
+   "type": "death",
+   "description": "Abu Sara al-Iraqi, head of the General Directorate of Provinces, reported killed in the previous year's UN report",
+   "place": "",
+   "actors": [
+    "Abu Sara al-Iraqi"
+   ],
+   "timestamp": "13:48"
+  },
+  {
+   "date": "approx 2023",
+   "date_precision": "approx",
+   "type": "strike",
+   "description": "US Special Forces operation in Somalia kills Bilal al-Sudani, an Al-Karrar official",
+   "place": "Somalia",
+   "actors": [
+    "Bilal al-Sudani",
+    "United States"
+   ],
+   "timestamp": "12:08"
+  },
+  {
+   "date": "approx 2024",
+   "date_precision": "approx",
+   "type": "strike",
+   "description": "US attempted a strike/operation against Mumin during the reporting period; the outcome is unclear and he is reportedly alive",
+   "place": "Somalia",
+   "actors": [
+    "Abdul Qadir Mumin",
+    "United States"
+   ],
+   "timestamp": "11:35"
+  },
+  {
+   "date": "2022",
+   "date_precision": "year",
+   "type": "designation",
+   "description": "US Treasury designated a smuggling network between northern Somalia and Yemen serving al-Shabaab and ISIS-Somalia",
+   "place": "Somalia/Yemen",
+   "actors": [
+    "US Treasury"
+   ],
+   "timestamp": "16:08"
+  },
+  {
+   "date": "2023-12",
+   "date_precision": "month",
+   "type": "death",
+   "description": "Jaysh Ayman emir Mahdhah reported killed; the UN report says he is alive",
+   "place": "Somalia",
+   "actors": [
+    "Mahdhah"
+   ],
+   "timestamp": "29:34"
+  },
+  {
+   "date": "2024-08-12",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "UN in Mogadishu issued a drone alert for Mogadishu International Airport",
+   "place": "Mogadishu",
+   "actors": [
+    "United Nations"
+   ],
+   "timestamp": "30:35"
+  },
+  {
+   "date": "2024-07",
+   "date_precision": "approx",
+   "type": "attack",
+   "description": "Tuareg rebels, joined by JNIM, killed about 50 Wagner mercenaries in northern Mali",
+   "place": "Mali",
+   "actors": [
+    "Tuareg rebels",
+    "JNIM",
+    "Wagner Group"
+   ],
+   "timestamp": "32:25"
+  },
+  {
+   "date": "2023-11",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Estimate that JNIM controls about 40% of Burkina Faso",
+   "place": "Burkina Faso",
+   "actors": [
+    "JNIM"
+   ],
+   "timestamp": "42:20"
+  },
+  {
+   "date": "2024-03",
+   "date_precision": "month",
+   "type": "attack",
+   "description": "Crocus City Hall attack in Moscow by ISKP-linked attackers with a Turkey connection",
+   "place": "Moscow",
+   "actors": [
+    "ISKP"
+   ],
+   "timestamp": "47:37"
+  },
+  {
+   "date": "2024",
+   "date_precision": "approx",
+   "type": "attack",
+   "description": "ISKP attack in Iran earlier in the year",
+   "place": "Iran",
+   "actors": [
+    "ISKP"
+   ],
+   "timestamp": "47:29"
+  },
+  {
+   "date": "2023",
+   "date_precision": "approx",
+   "type": "arrest",
+   "description": "Turkey claimed to have captured the ISIS leader about a year ago; this appeared untrue",
+   "place": "Turkey",
+   "actors": [
+    "Turkey"
+   ],
+   "timestamp": "09:34"
+  },
+  {
+   "date": "2024",
+   "date_precision": "approx",
+   "type": "death",
+   "description": "Saif al-Adel's son died in mysterious circumstances, possibly a house fire.",
+   "place": "Yemen",
+   "actors": [
+    "Son of Saif al-Adel (unnamed)",
+    "AQAP"
+   ],
+   "timestamp": "58:34"
+  },
+  {
+   "date": "2024",
+   "date_precision": "approx",
+   "type": "death",
+   "description": "AQAP leader Khalid Batarfi died, possibly of illness, at about the same time. The report raises suspicion.",
+   "place": "Yemen",
+   "actors": [
+    "Khalid Batarfi",
+    "AQAP"
+   ],
+   "timestamp": "58:54"
+  },
+  {
+   "date": "2024",
+   "date_precision": "approx",
+   "type": "appointment",
+   "description": "Sa'ad bin Atef al-Awlaki became the new leader of AQAP.",
+   "place": "Yemen",
+   "actors": [
+    "Sa'ad bin Atef al-Awlaki",
+    "AQAP"
+   ],
+   "timestamp": "60:57"
+  },
+  {
+   "date": "2024",
+   "date_precision": "approx",
+   "type": "travel",
+   "description": "al-Qaeda sent an operative, identified as 'Somali', to Iraq to establish cells, per the UN report.",
+   "place": "Iraq",
+   "actors": [
+    "al-Qaeda",
+    "Al-Somali"
+   ],
+   "timestamp": "54:10"
+  },
+  {
+   "date": "2024-08",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "UN Monitoring Team report discussed. It covers the Iraq/Levant and AQAP sections and notes HTS logistical support for Hurras al-Din.",
+   "place": "",
+   "actors": [
+    "UN Analytical Support and Sanctions Monitoring Team"
+   ],
+   "timestamp": "55:24"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Abdul Qadir Mumin",
+   "target": "Al-Karrar office",
+   "type": "leads",
+   "detail": "Mumin heads the Al-Karrar office.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "10:49",
+   "quote": "he's the head of ISIL-Somalia and the head of the Al-Qarar office"
+  },
+  {
+   "source": "Abdul Qadir Mumin",
+   "target": "ISIS-Somalia",
+   "type": "leads",
+   "detail": "Mumin leads ISIS-Somalia.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "10:49",
+   "quote": "He's the head of ISIL-Somalia"
+  },
+  {
+   "source": "Abdul Qadir Mumin",
+   "target": "Islamic State",
+   "type": "member_of",
+   "detail": "Possibly head of the General Directorate of Provinces; disputed as caliph.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "07:03",
+   "quote": "if Moomin is the head of the general director to provinces, he would still be a primary target"
+  },
+  {
+   "source": "Bilal al-Sudani",
+   "target": "Abdul Qadir Mumin",
+   "type": "reports_to",
+   "detail": "Al-Sudani worked for Mumin.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "12:08",
+   "quote": "someone who was working for him, Bilal al-Sadani"
+  },
+  {
+   "source": "United States",
+   "target": "Bilal al-Sudani",
+   "type": "killed",
+   "detail": "Killed in a US Special Forces operation in Somalia.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "12:08",
+   "quote": "successfully killed by a US Special Forces operation not long ago"
+  },
+  {
+   "source": "Ahmed Diriye",
+   "target": "al-Shabaab",
+   "type": "leads",
+   "detail": "Emir of al-Shabaab.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "29:20",
+   "quote": "Abu Abedah, the Amir of al-Shabaab is in firm control"
+  },
+  {
+   "source": "Mahad Karate",
+   "target": "al-Shabaab",
+   "type": "leads",
+   "detail": "Longtime head of the Amniyat.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "29:26",
+   "quote": "Mahat Karate, the longtime leader of the Amniat"
+  },
+  {
+   "source": "Mahdhah",
+   "target": "Jaysh Ayman",
+   "type": "leads",
+   "detail": "Emir of Jaysh Ayman.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "29:34",
+   "quote": "Mahdhah, the Amir of Jashu-Iman"
+  },
+  {
+   "source": "Jaysh Ayman",
+   "target": "al-Shabaab",
+   "type": "member_of",
+   "detail": "Armed wing of al-Shabaab.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "29:43",
+   "quote": "their Kenyan armed wing"
+  },
+  {
+   "source": "Musa Baluku",
+   "target": "ISIS Central Africa Province",
+   "type": "leads",
+   "detail": "Emir of ISCAP.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "46:16",
+   "quote": "Beluku being the Emir of Ice Cap"
+  },
+  {
+   "source": "Abu Qas",
+   "target": "ISIS Central Africa Province",
+   "type": "member_of",
+   "detail": "Senior leader who leads massacres.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "45:50",
+   "quote": "He's a well-known senior leader of Ice Cap"
+  },
+  {
+   "source": "Saif al-Adel",
+   "target": "Iran",
+   "type": "sheltered_by",
+   "detail": "The monitoring team says he is in Iran as a guest of the Iranian government.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "52:34",
+   "quote": "as a guest of the Iranian government with Iranian government protection facilitation"
+  },
+  {
+   "source": "Saif al-Adel",
+   "target": "al-Qaeda",
+   "type": "leads",
+   "detail": "Leader of al-Qaeda.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "52:29",
+   "quote": "Saif al-Adel, the leader of al-Qaeda, is in Iran"
+  },
+  {
+   "source": "Abu Mohammad al-Jolani",
+   "target": "Hayat Tahrir al-Sham",
+   "type": "leads",
+   "detail": "Jolani leads HTS, which broke from al-Qaeda.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "55:29",
+   "quote": "led by Jalani, which broke from al-Qaeda"
+  },
+  {
+   "source": "Hayat Tahrir al-Sham",
+   "target": "Hurras al-Din",
+   "type": "allied_with",
+   "detail": "HTS provides logistical support to Hurras al-Din against Syrian government forces.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "55:35",
+   "quote": "gaining logistical support from HTS to fight against Syrian government forces"
+  },
+  {
+   "source": "Hurras al-Din",
+   "target": "al-Qaeda",
+   "type": "member_of",
+   "detail": "Al-Qaeda's branch in Syria.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "55:35",
+   "quote": "Haras al-Din, which is al-Qaeda's branch in Syria"
+  },
+  {
+   "source": "ISIS-Somalia",
+   "target": "al-Shabaab",
+   "type": "rival_of",
+   "detail": "ISIS-Somalia pushed al-Shabaab out of part of the Al Miskaad mountains.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "16:44",
+   "quote": "Ayas Malaya sort of kicking out Shabab from a certain area of the Almaskat mountains"
+  },
+  {
+   "source": "JNIM",
+   "target": "Islamic State Sahel Province",
+   "type": "rival_of",
+   "detail": "Fragile truce, recent clashes.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "32:26",
+   "quote": "there is a fragile truce between J&IM and ISGS"
+  },
+  {
+   "source": "JNIM",
+   "target": "Tuareg rebels",
+   "type": "allied_with",
+   "detail": "Non-aggression pacts and coordination against Wagner.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "32:17",
+   "quote": "J&I.M reaching these sort of non-aggression pacts with Tuareg rebels"
+  },
+  {
+   "source": "ISIS-Somalia",
+   "target": "ISKP",
+   "type": "funded_by",
+   "detail": "Al-Karrar/ISIS-Somalia provides financial resources to ISKP and African affiliates; direction is ISIS-Somalia funding others.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "18:29",
+   "quote": "providing financial resources to ISIL K... and African affiliates"
+  },
+  {
+   "source": "al-Qaeda",
+   "target": "Iraq",
+   "type": "other",
+   "detail": "Al-Qaeda sent a Somali-linked operative to Iraq to establish cells.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "54:10",
+   "quote": "al-Qaeda sent someone to Iraq to help establish cells there"
+  },
+  {
+   "source": "al-Shabaab",
+   "target": "Houthis",
+   "type": "other",
+   "detail": "Per US reporting, al-Shabaab is seeking sophisticated weapons from the Houthis.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "31:03",
+   "quote": "Shabab is attempting to get more sophisticated weapons from the Houthis"
+  },
+  {
+   "source": "Saif al-Adel",
+   "target": "Iran",
+   "type": "hosted_by",
+   "detail": "Saif al-Adel is in Iran as a guest of the Iranian government, with protection and facilitation.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "52:34",
+   "quote": "as a guest of the Iranian government with Iranian government protection facilitation"
+  },
+  {
+   "source": "Saif al-Adel",
+   "target": "Son of Saif al-Adel (unnamed)",
+   "type": "family",
+   "detail": "Father of a significant AQAP figure who died in early 2024.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "58:34",
+   "quote": "Seifal-Adl's son was a significant figure in al-Qaeda in the Arabian Peninsula"
+  },
+  {
+   "source": "Son of Saif al-Adel (unnamed)",
+   "target": "AQAP",
+   "type": "member_of",
+   "detail": "Key link man between Saif al-Adel and AQAP.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "59:16",
+   "quote": "having his son as his key link man to... al-Qaeda in the Rabin Peninsula in Yemen"
+  },
+  {
+   "source": "Khalid Batarfi",
+   "target": "AQAP",
+   "type": "leads",
+   "detail": "Leader of AQAP for several years until his death.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "58:54",
+   "quote": "the reasonably long, several years, leader of Al-Qaeda in the Rheban Peninsula"
+  },
+  {
+   "source": "Sa'ad bin Atef al-Awlaki",
+   "target": "Khalid Batarfi",
+   "type": "succeeded",
+   "detail": "Became new AQAP leader after Batarfi's death.",
+   "date": "2024",
+   "confidence": "inferred",
+   "timestamp": "60:57",
+   "quote": "the new leader of AQAP"
+  },
+  {
+   "source": "Sa'ad bin Atef al-Awlaki",
+   "target": "AQAP",
+   "type": "leads",
+   "detail": "New leader of AQAP.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "60:57",
+   "quote": "Saabanaata Falauleki, the new leader of AQAP"
+  },
+  {
+   "source": "Saif al-Adel",
+   "target": "AQAP",
+   "type": "leads",
+   "detail": "Influenced AQAP toward a ceasefire with the Houthis, per Fitton-Brown's speculation.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "59:22",
+   "quote": "influencing them into a ceasefire with the Houthis"
+  },
+  {
+   "source": "AQAP",
+   "target": "Houthis",
+   "type": "allied_with",
+   "detail": "AQAP in deconfliction or truce with the Houthis.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "58:19",
+   "quote": "AQAP has been in a sort of a period of deconfliction or truce with the Houthis"
+  },
+  {
+   "source": "Houthis",
+   "target": "al-Shabaab",
+   "type": "other",
+   "detail": "Report hints at the Houthis possibly supplying technology or support to al-Shabaab.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "60:28",
+   "quote": "the Houthis possibly supplying technology or support to al-Shabaab"
+  },
+  {
+   "source": "Islamic State",
+   "target": "al-Qaeda",
+   "type": "rival_of",
+   "detail": "IS accuses al-Qaeda of being half-committed or colluding with governing powers.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "60:00",
+   "quote": "ISIL has always drawn strength from accusing Al-Qaeda of being either only half committed"
+  },
+  {
+   "source": "Iran",
+   "target": "Houthis",
+   "type": "allied_with",
+   "detail": "The Houthis are described as Iran's proxy.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "57:14",
+   "quote": "what are Iran's proxies doing"
+  },
+  {
+   "source": "Abdul Qadir Mumin",
+   "target": "Darod clan",
+   "type": "member_of",
+   "detail": "Mumin comes from the wider Darod Somali clan family, which claims Qurayshi descent.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "05:25",
+   "quote": "the wider Somali clan family that he comes from the Darode. They do claim to be Qarashi"
+  },
+  {
+   "source": "Hayat Tahrir al-Sham",
+   "target": "al-Qaeda",
+   "type": "other",
+   "detail": "HTS broke from al-Qaeda but still gives logistical support to its Syrian branch Hurras al-Din.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "55:29",
+   "quote": "Jolani leads HTS, which broke from al-Qaeda"
+  }
+ ],
+ "sources_cited": [
+  "UN Analytical Support and Sanctions Monitoring Team latest report (Aug 2024)",
+  "UN Monitoring Team prior report (last year, killing of Abu Sara al-Iraqi)",
+  "2022 US Treasury designation of Somalia-Yemen smuggling network",
+  "Bridgeway Foundation field research on Somali diaspora financing",
+  "Al-Naba ISIS newsletter",
+  "US intelligence reporting on Mumin"
+ ],
+ "key_claims": [
+  "The hosts doubt that Abdul Qadir Mumin is the ISIS caliph, but he is at least head of the Al-Karrar office and likely of the General Directorate of Provinces.",
+  "ISIS-Somalia and the Al-Karrar office are growing and are now a central financial stream for ISIS globally, using the Somali diaspora and hawala networks.",
+  "ISIS-Somalia has pushed al-Shabaab out of part of the Al Miskaad mountains, and al-Shabaab may see this as an existential threat.",
+  "JNIM controls about 40% of Burkina Faso and is expanding into Benin and Togo, aided by coups, Wagner and weak local governance.",
+  "The Al-Furqan office now oversees West Africa, the Sahel and North Africa and is linking with ISGS via northwestern Nigeria and Niger.",
+  "ISKP is the leading terror threat in non-conflict zones, using Central Asian diasporas and routes through Turkey.",
+  "The report avoids saying explicitly that Saif al-Adel is in Iran and understates Turkey's role.",
+  "Al-Qaeda is trying to build cells in Iraq and HTS still supports Hurras al-Din.",
+  "Saif al-Adel is in Iran as a guest of the Iranian government, yet the UN report never says so explicitly.",
+  "The report says al-Qaeda sent a man named 'Somali' to Iraq to set up cells, which shows al-Qaeda sees opportunity there.",
+  "HTS broke from al-Qaeda but still provides logistical support to al-Qaeda's Syrian branch Hurras al-Din.",
+  "The deaths of AQAP leader Khalid Batarfi and Saif al-Adel's son raise suspicions of internal disputes, and some member states think AQAP is divided.",
+  "Edmund Fitton-Brown speculates that Saif al-Adel's son pushed AQAP into a truce with the Houthis, which may have angered jihadis in Yemen and could help IS recruit.",
+  "Al-Qaeda's alliances of convenience, such as hosting by Iran and Taliban dealings with Pakistan and Iran, can push fervent jihadists toward the Islamic State.",
+  "The Islamic State is devolving control to regional offices and provinces, so it is becoming a more integrated but globally dispersed organization like al-Qaeda.",
+  "ISKP could mount a major attack in Western Europe in 2024, while al-Qaeda plays a longer game, including the 'Afghanization' of Somalia and the Sahel."
+ ]
+}

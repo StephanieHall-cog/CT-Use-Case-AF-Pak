@@ -1,0 +1,689 @@
+{
+ "episode": {
+  "idx": 272,
+  "title": "Back to Bagram?",
+  "published": "Mon, 22 Sep 2025 18:25:09 +0000",
+  "guid": "f5181005-d0b7-480b-a222-fbe97fa3de21"
+ },
+ "persons": [
+  {
+   "name": "Donald Trump",
+   "aliases": [
+    "President Trump"
+   ],
+   "role": "US President (second term); said he wants US forces back at Bagram; signed the Doha agreement in his first term",
+   "organizations": [
+    "US government"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Washington"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "02:25",
+     "quote": "Quote, we're trying to get it back because they need things from us, end quote, it being Bagram Air Base"
+    },
+    {
+     "timestamp": "02:40",
+     "quote": "we want that base back... it's an hour away from where China makes its nuclear weapons"
+    },
+    {
+     "timestamp": "03:03",
+     "quote": "He signed the Doha Agreement, negotiated with the Taliban, signed the Doha agreement at the end of February of 2020"
+    }
+   ]
+  },
+  {
+   "name": "Joe Biden",
+   "aliases": [
+    "President Biden"
+   ],
+   "role": "US President who completed the 2021 withdrawal from Afghanistan",
+   "organizations": [
+    "US government"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "03:12",
+     "quote": "that gave President Biden all of the excuse he needed to withdraw from Afghanistan"
+    },
+    {
+     "timestamp": "04:19",
+     "quote": "President Biden in that administration didn't actually evacuate U.S. forces... through Bougarum, but instead tried to evacuate from a civilian airport inside Kabul"
+    }
+   ]
+  },
+  {
+   "name": "Zakir Jalal",
+   "aliases": [],
+   "role": "Taliban foreign ministry spokesman",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Kabul"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "05:51",
+     "quote": "the foreign ministry spokesman had said. His name is Zakir Jalal, quote, Afghanistan and the United States need to engage with one another, but without the United States maintaining any military presence in any part of Afghanistan"
+    }
+   ]
+  },
+  {
+   "name": "Amir Khan Muttaqi",
+   "aliases": [
+    "Mutaki",
+    "Mataki"
+   ],
+   "role": "Taliban foreign minister",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Kabul"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "06:20",
+     "quote": "the Mutaki, who's the foreign minister... Mataki has adamantly stated on multiple occasions that not even a fraction of Bagram's land will be relinquished"
+    }
+   ]
+  },
+  {
+   "name": "Sirajuddin Haqqani",
+   "aliases": [
+    "Sarajokani",
+    "Sirajicani"
+   ],
+   "role": "Taliban interior minister; Haqqani Network leader",
+   "organizations": [
+    "Taliban",
+    "Haqqani Network"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Kabul"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "17:21",
+     "quote": "The Chinese, I guarantee you, are walking into, from their embassy into the foreign office or into Sarajokani's office"
+    },
+    {
+     "timestamp": "18:56",
+     "quote": "hit the Interior Ministry. Hopefully you get Sirajicani"
+    }
+   ]
+  },
+  {
+   "name": "Abdul Rahman al-Logari",
+   "aliases": [
+    "adolf rabbi (as transcribed; canonical name inferred from public reporting on the Abbey Gate bomber)"
+   ],
+   "role": "Islamic State (ISKP) fighter released from prison by the Taliban in August 2021; Abbey Gate suicide bomber",
+   "organizations": [
+    "Islamic State Khorasan Province"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "dead",
+   "status_detail": "died in his suicide attack at Abbey Gate, Kabul airport, 26 Aug 2021",
+   "family": [],
+   "locations": [
+    "Bagram",
+    "Kabul",
+    "Hamid Karzai International Airport"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "13:39",
+     "quote": "the Taliban took control of baghram on the 15th and adolf rabbi he was an Islamic state fighter on august 25th he conducted a suicide attack on Abbey Gate. I'm sorry, that was August 26, so 11 days that killed 182 people, including 13 American soldiers"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Taliban",
+   "aliases": [
+    "Islamic Emirate",
+    "Taliban government"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda",
+    "Haqqani Network",
+    "China"
+   ],
+   "rivals": [
+    "Islamic State Khorasan Province"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Rules Afghanistan since Aug 2021; hosts say it will never allow US forces back at Bagram; released thousands of prisoners from Bagram in Aug 2021."
+  },
+  {
+   "name": "Haqqani Network",
+   "aliases": [
+    "Hakani"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Badri 313 described as its special forces unit; Sirajuddin Haqqani runs the Interior Ministry."
+  },
+  {
+   "name": "Badri 313",
+   "aliases": [
+    "Badri 313 Battalion",
+    "Hakani Special Forces unit"
+   ],
+   "type": "militia",
+   "parent_or_allies": [
+    "Haqqani Network",
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Provided 'security' outside Hamid Karzai International Airport during the Aug 2021 evacuation."
+  },
+  {
+   "name": "al-Qaeda",
+   "aliases": [
+    "AQ"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Hosts say AQ bases/training camps operate in at least 13 of Afghanistan's 34 provinces, with named personnel transiting per UN reporting."
+  },
+  {
+   "name": "Islamic State Khorasan Province",
+   "aliases": [
+    "Islamic State",
+    "ISIS",
+    "ISKP"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Islamic State"
+   ],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Abbey Gate bomber was an IS fighter freed from prison by the Taliban."
+  },
+  {
+   "name": "Hurriyat Radio",
+   "aliases": [
+    "Harriet Radio English",
+    "Harriet News",
+    "Hurriyat"
+   ],
+   "type": "other",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Taliban media/propaganda arm; ran 'fantasy of Americans returning to Bagram Air Base is ridiculous'."
+  },
+  {
+   "name": "China",
+   "aliases": [
+    "the Chinese",
+    "Chinese government"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [
+    "United States"
+   ],
+   "country_base": "China",
+   "notes": "Has business/economic relationships with the Taliban; hosts say Beijing would veto any US return to Bagram."
+  },
+  {
+   "name": "United States government",
+   "aliases": [
+    "US",
+    "Trump administration",
+    "Biden administration"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "United States",
+   "notes": "Signed Doha agreement Feb 2020; withdrew Aug 2021."
+  },
+  {
+   "name": "Taliban Ministry of Foreign Affairs",
+   "aliases": [
+    "foreign ministry",
+    "foreign office"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Run by Amir Khan Muttaqi; spokesman Zakir Jalal."
+  },
+  {
+   "name": "Taliban Ministry of Interior",
+   "aliases": [
+    "Interior Ministry"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Taliban",
+    "Haqqani Network"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Headed by Sirajuddin Haqqani."
+  },
+  {
+   "name": "Taliban Ministry of Defense",
+   "aliases": [
+    "Ministry of Defense"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Named by Roggio as a target in his 'warheads on foreheads' recommendation."
+  },
+  {
+   "name": "FDD's Long War Journal",
+   "aliases": [
+    "Long War Journal",
+    "Foundation for Defense of Democracies",
+    "FDD"
+   ],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Host organization."
+  },
+  {
+   "name": "Just Security",
+   "aliases": [
+    "Reiss Center on Law and Security"
+   ],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Tom Joscelyn's affiliation in 2025."
+  }
+ ],
+ "places": [
+  {
+   "name": "Bagram Air Base",
+   "type": "base",
+   "country": "Afghanistan",
+   "parent": "Parwan",
+   "significance": "Trump says he wants it back; Taliban took it 15 Aug 2021 and emptied its prison; former largest US detention facility; hosts say it has 'emotional juice' for Taliban, al-Qaeda and ISIS fighters."
+  },
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Taliban-ruled; al-Qaeda camps in at least 13 of 34 provinces per hosts."
+  },
+  {
+   "name": "Kabul",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Kabul",
+   "significance": "Site of the Aug 2021 evacuation from the civilian airport."
+  },
+  {
+   "name": "Hamid Karzai International Airport",
+   "type": "base",
+   "country": "Afghanistan",
+   "parent": "Kabul",
+   "significance": "Evacuation site; Badri 313 provided outer security; Abbey Gate bombing."
+  },
+  {
+   "name": "Abbey Gate",
+   "type": "other",
+   "country": "Afghanistan",
+   "parent": "Hamid Karzai International Airport",
+   "significance": "26 Aug 2021 ISKP suicide bombing killed 13 US service members."
+  },
+  {
+   "name": "Doha",
+   "type": "city",
+   "country": "Qatar",
+   "parent": "Qatar",
+   "significance": "US-Taliban agreement signed end of February 2020."
+  },
+  {
+   "name": "China",
+   "type": "country",
+   "country": "China",
+   "parent": "",
+   "significance": "Trump said Bagram is an hour from where China makes nuclear weapons; Beijing has economic ties with the Taliban."
+  },
+  {
+   "name": "Washington",
+   "type": "city",
+   "country": "United States",
+   "parent": "United States",
+   "significance": "Hosts say officials of both parties there 'have a fetish for the Taliban'."
+  }
+ ],
+ "events": [
+  {
+   "date": "2025-09-21",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "President Trump says the US is trying to get Bagram Air Base back from the Taliban, citing its proximity to China's nuclear weapons production.",
+   "place": "Washington",
+   "actors": [
+    "Donald Trump",
+    "Taliban"
+   ],
+   "timestamp": "02:03"
+  },
+  {
+   "date": "2020-02-29",
+   "date_precision": "day",
+   "type": "agreement",
+   "description": "US-Taliban Doha agreement signed at the end of February 2020 by the first Trump administration; contained nothing retaining a US foothold at Bagram.",
+   "place": "Doha",
+   "actors": [
+    "Donald Trump",
+    "Taliban",
+    "United States government"
+   ],
+   "timestamp": "03:05"
+  },
+  {
+   "date": "2021-08-15",
+   "date_precision": "day",
+   "type": "other",
+   "description": "Taliban took control of Bagram and, as one of its first official acts, emptied the prisons there, releasing thousands of al-Qaeda, Taliban and Islamic State fighters.",
+   "place": "Bagram Air Base",
+   "actors": [
+    "Taliban",
+    "al-Qaeda",
+    "Islamic State Khorasan Province"
+   ],
+   "timestamp": "13:39"
+  },
+  {
+   "date": "2021-08-26",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "Islamic State fighter released from prison 11 days earlier conducted a suicide attack at Abbey Gate, Kabul airport, killing 182 people including 13 US service members (hosts' figures).",
+   "place": "Abbey Gate",
+   "actors": [
+    "Abdul Rahman al-Logari",
+    "Islamic State Khorasan Province"
+   ],
+   "timestamp": "14:09"
+  },
+  {
+   "date": "2021-08",
+   "date_precision": "month",
+   "type": "other",
+   "description": "US evacuation conducted from Kabul's civilian airport rather than Bagram; Badri 313 (Haqqani special forces) provided security outside Hamid Karzai International Airport.",
+   "place": "Hamid Karzai International Airport",
+   "actors": [
+    "United States government",
+    "Badri 313",
+    "Haqqani Network"
+   ],
+   "timestamp": "14:30"
+  },
+  {
+   "date": "2025-09",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "Taliban foreign ministry spokesman Zakir Jalal: Afghanistan and the US need to engage, but without any US military presence in any part of Afghanistan.",
+   "place": "Kabul",
+   "actors": [
+    "Zakir Jalal",
+    "Taliban"
+   ],
+   "timestamp": "05:51"
+  },
+  {
+   "date": "2025-09",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "Hurriyat Radio reports foreign minister Muttaqi has stated 'not even a fraction of Bagram's land will be relinquished', and runs article 'fantasy of Americans returning to Bagram Air Base is ridiculous'.",
+   "place": "Kabul",
+   "actors": [
+    "Amir Khan Muttaqi",
+    "Hurriyat Radio",
+    "Taliban"
+   ],
+   "timestamp": "06:12"
+  },
+  {
+   "date": "approx 2015",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "Taliban statement (2015 or 2016 per Roggio): 'The Islamic Emirate has not readily embraced this death and destruction for the sake of some silly ministerial posts or a share of the power.'",
+   "place": "",
+   "actors": [
+    "Taliban"
+   ],
+   "timestamp": "09:48"
+  },
+  {
+   "date": "2025",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Roggio: al-Qaeda camps are operating in at least 13 of Afghanistan's 34 provinces; Joscelyn: UN reporting names AQ personnel transiting in and out of or holed up in Afghanistan.",
+   "place": "Afghanistan",
+   "actors": [
+    "al-Qaeda",
+    "Taliban"
+   ],
+   "timestamp": "18:13"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Sirajuddin Haqqani",
+   "target": "Taliban Ministry of Interior",
+   "type": "leads",
+   "detail": "Roggio names the Interior Ministry as the place to 'get' Sirajuddin Haqqani.",
+   "date": "2025-09",
+   "confidence": "stated",
+   "timestamp": "18:56",
+   "quote": "hit the Interior Ministry. Hopefully you get Sirajicani"
+  },
+  {
+   "source": "Sirajuddin Haqqani",
+   "target": "Taliban",
+   "type": "member_of",
+   "detail": "Senior Taliban official whose office the Chinese would visit.",
+   "date": "2025-09",
+   "confidence": "stated",
+   "timestamp": "17:21",
+   "quote": "from their embassy into the foreign office or into Sarajokani's office"
+  },
+  {
+   "source": "Badri 313",
+   "target": "Haqqani Network",
+   "type": "member_of",
+   "detail": "Badri 313 described as the Haqqani special forces unit.",
+   "date": "2021-08",
+   "confidence": "stated",
+   "timestamp": "14:30",
+   "quote": "those members of Badri 313, the Hakani Special Forces unit that was providing, quote, security outside of Hamid Karzai International Airport"
+  },
+  {
+   "source": "Badri 313",
+   "target": "Hamid Karzai International Airport",
+   "type": "located_in",
+   "detail": "Provided outer security at the airport during the Aug 2021 evacuation.",
+   "date": "2021-08",
+   "confidence": "stated",
+   "timestamp": "14:30",
+   "quote": "providing, quote, security outside of Hamid Karzai International Airport"
+  },
+  {
+   "source": "Abdul Rahman al-Logari",
+   "target": "Islamic State Khorasan Province",
+   "type": "member_of",
+   "detail": "Abbey Gate bomber was an Islamic State fighter.",
+   "date": "2021-08-26",
+   "confidence": "stated",
+   "timestamp": "13:39",
+   "quote": "he was an Islamic state fighter... he conducted a suicide attack on Abbey Gate"
+  },
+  {
+   "source": "Taliban",
+   "target": "Abdul Rahman al-Logari",
+   "type": "other",
+   "detail": "The Taliban released the future Abbey Gate bomber when it emptied the prisons after taking Bagram.",
+   "date": "2021-08-15",
+   "confidence": "stated",
+   "timestamp": "13:39",
+   "quote": "the Taliban took control of baghram on the 15th... even though they let him out"
+  },
+  {
+   "source": "Amir Khan Muttaqi",
+   "target": "Taliban Ministry of Foreign Affairs",
+   "type": "leads",
+   "detail": "Muttaqi is the Taliban foreign minister.",
+   "date": "2025-09",
+   "confidence": "stated",
+   "timestamp": "06:20",
+   "quote": "the Mutaki, who's the foreign minister"
+  },
+  {
+   "source": "Zakir Jalal",
+   "target": "Taliban Ministry of Foreign Affairs",
+   "type": "member_of",
+   "detail": "Foreign ministry spokesman.",
+   "date": "2025-09",
+   "confidence": "stated",
+   "timestamp": "05:51",
+   "quote": "the foreign ministry spokesman had said. His name is Zakir Jalal"
+  },
+  {
+   "source": "Hurriyat Radio",
+   "target": "Taliban",
+   "type": "member_of",
+   "detail": "Taliban mouthpiece / media propaganda arm.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "06:12",
+   "quote": "Harriet Radio English, which is a Taliban mouthpiece, a Taliban media propaganda arm"
+  },
+  {
+   "source": "Taliban",
+   "target": "China",
+   "type": "allied_with",
+   "detail": "Taliban has business and economic relationships with China, which hosts say gives Beijing a vote on any US return.",
+   "date": "2025",
+   "confidence": "stated",
+   "timestamp": "16:22",
+   "quote": "the Taliban has formed business relationships and economic relationships with the Chinese as well"
+  },
+  {
+   "source": "al-Qaeda",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "AQ bases and training camps in Afghanistan, in at least 13 of 34 provinces per Roggio.",
+   "date": "2025",
+   "confidence": "stated",
+   "timestamp": "13:11",
+   "quote": "there are all sorts of al-Qaeda bases now in training camps in Afghanistan"
+  },
+  {
+   "source": "al-Qaeda",
+   "target": "Taliban",
+   "type": "sheltered_by",
+   "detail": "Taliban has given al-Qaeda time, space and resources to recruit, train and plan.",
+   "date": "2025",
+   "confidence": "inferred",
+   "timestamp": "19:04",
+   "quote": "we've given them the time, space. They're pre-9-11 on steroids"
+  },
+  {
+   "source": "Donald Trump",
+   "target": "Taliban",
+   "type": "negotiated_with",
+   "detail": "Trump's first administration negotiated and signed the Doha agreement with the Taliban.",
+   "date": "2020-02-29",
+   "confidence": "stated",
+   "timestamp": "03:03",
+   "quote": "He signed the Doha Agreement. negotiated with the Taliban, signed the Doha agreement at the end of February of 2020"
+  },
+  {
+   "source": "Islamic State Khorasan Province",
+   "target": "United States government",
+   "type": "killed",
+   "detail": "Abbey Gate bombing killed 13 US service members.",
+   "date": "2021-08-26",
+   "confidence": "stated",
+   "timestamp": "14:09",
+   "quote": "killed 182 people, including 13 American soldiers"
+  }
+ ],
+ "sources_cited": [
+  "President Trump's 21 Sep 2025 remarks on Bagram",
+  "Taliban foreign ministry spokesman Zakir Jalal statement",
+  "Hurriyat Radio English report on Muttaqi and article 'fantasy of Americans returning to Bagram Air Base is ridiculous'",
+  "Taliban 2015/16 statement on 'silly ministerial posts'",
+  "UN reporting naming al-Qaeda personnel in Afghanistan",
+  "Long War Journal data on al-Qaeda camps in 13 of 34 provinces"
+ ],
+ "key_claims": [
+  "The Taliban will never allow US forces back at Bagram: expelling the US is its core legitimacy claim and its foreign ministry has said not even a fraction of Bagram's land will be relinquished.",
+  "Nothing in the Feb 2020 Doha agreement preserved a US foothold at Bagram even though the China/counterterrorism argument for one was made at the time.",
+  "The Taliban's first official acts in Aug 2021 included emptying Bagram's prisons; one freed Islamic State fighter carried out the Abbey Gate bombing 11 days later while Haqqani Badri 313 forces guarded the airport perimeter.",
+  "Al-Qaeda bases and training camps operate in at least 13 of Afghanistan's 34 provinces, and a US presence at Bagram would require flying over them without striking.",
+  "China's economic relationship with the Taliban means Beijing would veto any US return; Sirajuddin Haqqani's office is among those Beijing would lobby.",
+  "Roggio's policy recommendation is drone strikes on al-Qaeda camps and Taliban ministries, not re-engagement."
+ ]
+}

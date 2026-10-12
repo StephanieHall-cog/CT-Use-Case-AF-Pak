@@ -1,0 +1,1423 @@
+{
+ "episode": {
+  "idx": 124,
+  "title": "Ep. 123 — The Afghanistan affliction",
+  "published": "Fri, 08 Dec 2023 00:00:00 +0000",
+  "guid": "a93ab67e-d3b6-48aa-b991-23a4c9a83018"
+ },
+ "persons": [
+  {
+   "name": "Stu Velasco",
+   "aliases": [
+    "Stu"
+   ],
+   "role": "Former US Army intelligence analyst and contractor; Uruzgan Provincial Analyst at KIFC, TAAC-South (2016-17); co-host of The Boardwalk Podcast",
+   "organizations": [
+    "US Army",
+    "3rd Special Forces Group",
+    "KIFC",
+    "TAAC-South",
+    "Boardwalk Podcast"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Uruzgan",
+    "Kandahar Airfield",
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": true,
+   "mentions": [
+    {
+     "timestamp": "01:57",
+     "quote": "I was lucky enough to get set up with... First Battalion and Third Special Forces Group"
+    },
+    {
+     "timestamp": "15:20",
+     "quote": "Stu, you were the Arousgan analyst, correct?"
+    },
+    {
+     "timestamp": "59:39",
+     "quote": "Stoop. Parting thoughts from you?"
+    }
+   ]
+  },
+  {
+   "name": "Zach Popp",
+   "aliases": [
+    "Zach"
+   ],
+   "role": "Former US Army intelligence analyst and contractor; Kandahar Provincial Analyst at KIFC, TAAC-South (2016-17); co-host of The Boardwalk Podcast",
+   "organizations": [
+    "US Army",
+    "XVIII Airborne Corps",
+    "KIFC",
+    "TAAC-South",
+    "Boardwalk Podcast"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Kandahar",
+    "Baghdad",
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": true,
+   "mentions": [
+    {
+     "timestamp": "09:35",
+     "quote": "I was in the last unit, last active duty unit to leave Iraq"
+    },
+    {
+     "timestamp": "15:05",
+     "quote": "I was the Candahar provincial analyst"
+    },
+    {
+     "timestamp": "58:01",
+     "quote": "Go ahead, Zach, I'll start with you."
+    }
+   ]
+  },
+  {
+   "name": "Abdul Raziq Achakzai",
+   "aliases": [
+    "General Razik",
+    "General Razak",
+    "Razik",
+    "Rizak"
+   ],
+   "role": "Kandahar police chief/powerful general; described as probably the most powerful man in Afghanistan in the south",
+   "organizations": [
+    "Afghan National Police",
+    "Achakzai tribe"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "dead",
+   "status_detail": "Killed by the Taliban, in 2018 or 2019 per hosts' recollection",
+   "family": [],
+   "locations": [
+    "Kandahar",
+    "Spin Boldak",
+    "Uruzgan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "31:48",
+     "quote": "General Razik... probably the most powerful man in Afghanistan before he was killed by the Taliban"
+    },
+    {
+     "timestamp": "31:57",
+     "quote": "He despised the Taliban, but he would extort them when they were smuggling stuff in and out"
+    },
+    {
+     "timestamp": "44:55",
+     "quote": "General Razik killed a lot of Taliban. He probably killed a lot of innocent people, too"
+    },
+    {
+     "timestamp": "48:38",
+     "quote": "General Razek came to meet with the TAC South leadership... in the dining facility... second week of Ramadan"
+    }
+   ]
+  },
+  {
+   "name": "John Nicholson",
+   "aliases": [
+    "General Nicholson",
+    "General McNickleson"
+   ],
+   "role": "US general, commander of Resolute Support/US Forces-Afghanistan (2016-2018)",
+   "organizations": [
+    "US Army",
+    "Resolute Support",
+    "Lockheed Martin"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "Now chief executive of Lockheed Martin's Middle East branch, per hosts",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "26:57",
+     "quote": "General Nicholson's being asked by Senator John McCain, are we winning or losing? He says, we're in a stalemate"
+    },
+    {
+     "timestamp": "47:55",
+     "quote": "now General Nicholson is the chief executive of Lockheed Martin's Middle East branch"
+    }
+   ]
+  },
+  {
+   "name": "John McCain",
+   "aliases": [
+    "Senator McCain"
+   ],
+   "role": "US Senator, Armed Services Committee chairman",
+   "organizations": [
+    "US Senate"
+   ],
+   "nationality_or_origin": "American",
+   "status": "dead",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "27:02",
+     "quote": "General Nicholson is being asked by Senator John McCain, are we winning or losing?"
+    }
+   ]
+  },
+  {
+   "name": "Austin Scott Miller",
+   "aliases": [
+    "General Miller"
+   ],
+   "role": "US commander in Afghanistan",
+   "organizations": [
+    "US Army",
+    "Resolute Support"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Kabul"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "39:45",
+     "quote": "General Miller stormed out of a lunch after the reporter mentioned my name to him and my work on the map"
+    }
+   ]
+  },
+  {
+   "name": "Mullah Amanullah",
+   "aliases": [
+    "Mullah Imanullah",
+    "Amanullah from Aruris Khan"
+   ],
+   "role": "Taliban provincial leader/shadow governor of Uruzgan",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Uruzgan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "33:56",
+     "quote": "Mullah Amanullah from Aruris Khan? He was their provincial government"
+    },
+    {
+     "timestamp": "34:38",
+     "quote": "Imanullah's response... great, we'll meet you in the cities"
+    }
+   ]
+  },
+  {
+   "name": "Abu Bakr al-Baghdadi",
+   "aliases": [
+    "Abu Bakr Baghdadi"
+   ],
+   "role": "Leader of al-Qaeda in Iraq / Islamic State of Iraq (as stated by hosts)",
+   "organizations": [
+    "al-Qaeda in Iraq",
+    "Islamic State"
+   ],
+   "nationality_or_origin": "Iraqi",
+   "status": "dead",
+   "status_detail": "Hosts say 'we've killed their Abu Bakr Baghdadi' in context of 2010 (likely conflation with Abu Omar al-Baghdadi)",
+   "family": [],
+   "locations": [
+    "Iraq"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "10:51",
+     "quote": "we've killed their Abu Bakr Baghdadi and Abu Ayub al-Masri"
+    }
+   ]
+  },
+  {
+   "name": "Abu Ayyub al-Masri",
+   "aliases": [
+    "Abu Ayub al-Masri",
+    "Abu-Yubaiub al-Masri"
+   ],
+   "role": "War minister of the Islamic State of Iraq",
+   "organizations": [
+    "al-Qaeda in Iraq",
+    "Islamic State of Iraq"
+   ],
+   "nationality_or_origin": "Egyptian",
+   "status": "dead",
+   "status_detail": "Killed by US/Iraqi forces, approx 2010",
+   "family": [],
+   "locations": [
+    "Iraq"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "10:57",
+     "quote": "it was then the Islamic State of Iraq, as well as its war minister, was Abu-Yubaiub al-Masri"
+    }
+   ]
+  },
+  {
+   "name": "Peter Bergen",
+   "aliases": [
+    "Peter Burden",
+    "Peter Burgen"
+   ],
+   "role": "Terrorism analyst/author who argued al-Qaeda was defeated",
+   "organizations": [],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "11:45",
+     "quote": "Peter Burgen turns to me and says, you know, Bill, Al-Qaeda is defeated"
+    }
+   ]
+  },
+  {
+   "name": "Mike Mullen",
+   "aliases": [
+    "Admiral Mullins"
+   ],
+   "role": "Former chairman of the Joint Chiefs of Staff",
+   "organizations": [
+    "US Navy"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "11:50",
+     "quote": "it was Admiral Mullins, former chief... chairman-joint chiefs of staff"
+    }
+   ]
+  },
+  {
+   "name": "Gul Agha Sherzai",
+   "aliases": [
+    "Golaga Shirzai"
+   ],
+   "role": "Powerful Kandahar strongman, example of local richest person US relied on",
+   "organizations": [],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Kandahar"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "36:21",
+     "quote": "finding the local richest person... like Golaga Shirzai down in Kandahar"
+    }
+   ]
+  },
+  {
+   "name": "Ashraf Ghani",
+   "aliases": [
+    "Ghanai"
+   ],
+   "role": "President of Afghanistan",
+   "organizations": [
+    "Afghan government"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "44:25",
+     "quote": "under the Ghanai administration, he started this big anti-corruption initiative"
+    }
+   ]
+  },
+  {
+   "name": "Donald Trump",
+   "aliases": [
+    "President Trump"
+   ],
+   "role": "US president who struck the Doha deal with the Taliban",
+   "organizations": [
+    "US government"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan",
+    "Syria"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "37:45",
+     "quote": "the Trump's deal and Biden's withdrawal were merely the closing acts of a great tragedy"
+    },
+    {
+     "timestamp": "57:46",
+     "quote": "and then Trump's cut the deal and then Biden executed"
+    }
+   ]
+  },
+  {
+   "name": "Joe Biden",
+   "aliases": [
+    "Biden"
+   ],
+   "role": "US president who completed the withdrawal from Afghanistan",
+   "organizations": [
+    "US government"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "37:45",
+     "quote": "Trump's deal and Biden's withdrawal"
+    },
+    {
+     "timestamp": "57:46",
+     "quote": "Trump's cut the deal and then Biden executed"
+    }
+   ]
+  },
+  {
+   "name": "Duskin",
+   "aliases": [
+    "Chief Duskin"
+   ],
+   "role": "US Army special forces soldier after whom Camp Dusk is named",
+   "organizations": [
+    "US Army"
+   ],
+   "nationality_or_origin": "American",
+   "status": "dead",
+   "status_detail": "Implied; base named after him",
+   "family": [],
+   "locations": [
+    "Camp Dusk"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "02:33",
+     "quote": "I had met Chief Duskin right before my first deployment"
+    }
+   ]
+  },
+  {
+   "name": "Jim Webb",
+   "aliases": [],
+   "role": "US politician (former senator), to whom a quote about Congress and military service is attributed",
+   "organizations": [],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "58:24",
+     "quote": "There's a quote, and it's attributed to Jim Webb... if 25% of Congress had to send their children to war, we'd have a different foreign policy"
+    }
+   ]
+  },
+  {
+   "name": "James Mattis",
+   "aliases": [
+    "Secretary Mattis"
+   ],
+   "role": "US Secretary of Defense who stepped down over Trump's Syria withdrawal decision",
+   "organizations": [
+    "US Department of Defense"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "resigned as Secretary of Defense after disagreeing with Trump's decision to leave Syria",
+   "family": [],
+   "locations": [
+    "Syria"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "59:21",
+     "quote": "we commended Secretary Mattis for stepping down when he could not faithfully execute President Trump's decision to leave Syria"
+    }
+   ]
+  },
+  {
+   "name": "Ash Carter",
+   "aliases": [],
+   "role": "Former US Secretary of Defense, mentioned in connection with the Mattis resignation",
+   "organizations": [
+    "US Department of Defense"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "59:34",
+     "quote": "step down, let Ash Carter make that decision"
+    }
+   ]
+  },
+  {
+   "name": "Barack Obama",
+   "aliases": [
+    "President Obama"
+   ],
+   "role": "US President; announced policy of leaving Afghanistan after the surge",
+   "organizations": [
+    "US government"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "57:43",
+     "quote": "once President Obama said his policy was to get out of Afghanistan"
+    }
+   ]
+  },
+  {
+   "name": "George W. Bush",
+   "aliases": [
+    "Bush administration"
+   ],
+   "role": "US President whose administration started the Afghanistan war and then got bogged down in Iraq",
+   "organizations": [
+    "US government"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan",
+    "Iraq"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "57:33",
+     "quote": "I think the Bush administration did have good intentions. It didn't sell the war to the American public over time because it got involved in Iraq"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Taliban",
+   "aliases": [
+    "Palavan"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [
+    "Afghan government",
+    "Resolute Support",
+    "US military",
+    "ANSF"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Ran effective shadow governance in rural Uruzgan and Kandahar, taxed poppy and smuggling, cut Route Bear Oct 2016, later took Kabul."
+  },
+  {
+   "name": "al-Qaeda",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [
+    "United States"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Hosts estimate 300-400 in Kandahar and 200-300 in Uruzgan versus official 50-100."
+  },
+  {
+   "name": "al-Qaeda in Iraq",
+   "aliases": [
+    "Islamic State of Iraq",
+    "Islamic State"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [
+    "al-Qaeda"
+   ],
+   "country_base": "Iraq",
+   "notes": "Took Fallujah, Ramadi and western Anbar ~2014, then broke from al-Qaeda and seized Mosul."
+  },
+  {
+   "name": "Turkestan Islamic Party",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Bill asks if it was in the Uruzgan estimates; reporting too limited."
+  },
+  {
+   "name": "Afghan Local Police",
+   "aliases": [
+    "ALP"
+   ],
+   "type": "militia",
+   "parent_or_allies": [
+    "Afghan government"
+   ],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "US-touted program that decayed from first to second deployment."
+  },
+  {
+   "name": "Afghan Commandos",
+   "aliases": [],
+   "type": "military",
+   "parent_or_allies": [
+    "Afghan National Army"
+   ],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Misused for holding remote bases instead of night raids."
+  },
+  {
+   "name": "Resolute Support",
+   "aliases": [
+    "ISAF",
+    "RSM"
+   ],
+   "type": "international body",
+   "parent_or_allies": [
+    "NATO",
+    "United States"
+   ],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Destroyed Sangin district center in Mar 2013 and moved it four miles away."
+  },
+  {
+   "name": "TAAC-South",
+   "aliases": [
+    "Train Advise Assist Command-South",
+    "TAC South",
+    "RC South"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "Resolute Support"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Kandahar-based command where guests worked at KIFC."
+  },
+  {
+   "name": "Kandahar Intelligence Fusion Cell",
+   "aliases": [
+    "KIFC"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "TAAC-South"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Where Stu, Zach and Kyle Reynolds met in 2016."
+  },
+  {
+   "name": "3rd Special Forces Group",
+   "aliases": [
+    "1st BN, 3rd SFG"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "US Army"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Stu's unit."
+  },
+  {
+   "name": "Afghan National Defense and Security Forces",
+   "aliases": [
+    "ANSF",
+    "ANSAF",
+    "Afghan military"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "Afghan government",
+    "US military"
+   ],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Ghost soldiers inflated numbers."
+  },
+  {
+   "name": "Afghan Interior Ministry",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Afghan government"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Planned a rebuttal map to Bill's control map."
+  },
+  {
+   "name": "Noorzai tribe",
+   "aliases": [
+    "Norzai"
+   ],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [
+    "Achakzai tribe"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Feuded with Razik over smuggling; many sympathetic to Taliban."
+  },
+  {
+   "name": "Achakzai tribe",
+   "aliases": [
+    "Czech side"
+   ],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [
+    "Noorzai tribe"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Razik's tribe (mis-transcribed 'Czech side')."
+  },
+  {
+   "name": "Voice of Jihad",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Taliban media outlet that carried Amanullah's interview on strategy."
+  },
+  {
+   "name": "Lockheed Martin",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Nicholson's post-service employer."
+  },
+  {
+   "name": "National Guard",
+   "aliases": [
+    "US National Guard"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "US Army"
+   ],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "United States",
+   "notes": "Units were rotated in 'turn one' and 'turn two' halves; discussed as being placed in roles for which they were not trained."
+  },
+  {
+   "name": "Afghan special forces",
+   "aliases": [],
+   "type": "military",
+   "parent_or_allies": [
+    "US special forces"
+   ],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "The first rotation focused on training them to operate without US special forces."
+  },
+  {
+   "name": "US State Department",
+   "aliases": [
+    "State Department"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Criticized as absent from nation-building and government development in Afghanistan."
+  },
+  {
+   "name": "US Congress",
+   "aliases": [
+    "Congress"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Discussed regarding lack of 'skin in the game' and foreign policy."
+  },
+  {
+   "name": "The Boardwalk Podcast",
+   "aliases": [
+    "the boardwalk"
+   ],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Podcast run by the guests, who are former Afghanistan intelligence analysts."
+  }
+ ],
+ "places": [
+  {
+   "name": "Kandahar",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Guests' area of analysis; most districts contested apart from the city; Razik's base."
+  },
+  {
+   "name": "Uruzgan",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Stu's area; capital besieged, Taliban shadow governance."
+  },
+  {
+   "name": "Tarin Kot",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Uruzgan",
+   "significance": "Provincial capital with advisors' EAP location."
+  },
+  {
+   "name": "Route Bear",
+   "type": "region",
+   "country": "Afghanistan",
+   "parent": "Kandahar/Uruzgan",
+   "significance": "Critical supply route to Uruzgan cut by Taliban Oct 2016."
+  },
+  {
+   "name": "Shorabak",
+   "type": "district",
+   "country": "Afghanistan",
+   "parent": "Kandahar",
+   "significance": "Site of Oct 2015 raid on al-Qaeda camps; district center moved."
+  },
+  {
+   "name": "Registan",
+   "type": "district",
+   "country": "Afghanistan",
+   "parent": "Kandahar",
+   "significance": "Desert district; center located in Shorabak."
+  },
+  {
+   "name": "Maywand",
+   "type": "district",
+   "country": "Afghanistan",
+   "parent": "Kandahar",
+   "significance": "Opium processing, Taliban funding."
+  },
+  {
+   "name": "Maruf",
+   "type": "district",
+   "country": "Afghanistan",
+   "parent": "Kandahar",
+   "significance": "Smuggling node near Spin Boldak."
+  },
+  {
+   "name": "Spin Boldak",
+   "type": "border crossing",
+   "country": "Afghanistan",
+   "parent": "Kandahar",
+   "significance": "Smuggling and corruption hub tied to Razik."
+  },
+  {
+   "name": "Shah Wali Kot",
+   "type": "district",
+   "country": "Afghanistan",
+   "parent": "Kandahar",
+   "significance": "Unreachable after Route Bear was cut."
+  },
+  {
+   "name": "Sangin",
+   "type": "district",
+   "country": "Afghanistan",
+   "parent": "Helmand",
+   "significance": "District center flattened and moved Mar 2013."
+  },
+  {
+   "name": "Helmand",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Mentioned as area not covered by estimates."
+  },
+  {
+   "name": "Ghazni",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Ghazni",
+   "significance": "Fell to Taliban; seven districts governed nominally from the city."
+  },
+  {
+   "name": "Deh Rawood",
+   "type": "district",
+   "country": "Afghanistan",
+   "parent": "Uruzgan",
+   "significance": "Contested with Taliban shadow governance."
+  },
+  {
+   "name": "Tagab",
+   "type": "district",
+   "country": "Afghanistan",
+   "parent": "Uruzgan",
+   "significance": "Very busy/contested."
+  },
+  {
+   "name": "Khas Uruzgan",
+   "type": "district",
+   "country": "Afghanistan",
+   "parent": "Uruzgan",
+   "significance": "Out of ANSF control for 1-3 years."
+  },
+  {
+   "name": "Kandahar Airfield",
+   "type": "base",
+   "country": "Afghanistan",
+   "parent": "Kandahar",
+   "significance": "Where guests worked; later taken by the Taliban."
+  },
+  {
+   "name": "Fallujah",
+   "type": "city",
+   "country": "Iraq",
+   "parent": "Anbar",
+   "significance": "Taken by al-Qaeda in Iraq ~2014."
+  },
+  {
+   "name": "Ramadi",
+   "type": "city",
+   "country": "Iraq",
+   "parent": "Anbar",
+   "significance": "Taken by AQI ~2014; National Guard suffered casualties."
+  },
+  {
+   "name": "Mosul",
+   "type": "city",
+   "country": "Iraq",
+   "parent": "Iraq",
+   "significance": "Overrun by the Islamic State."
+  },
+  {
+   "name": "Haditha",
+   "type": "town",
+   "country": "Iraq",
+   "parent": "Anbar",
+   "significance": "AQI videos in 2012-13."
+  },
+  {
+   "name": "Syria",
+   "type": "country",
+   "country": "Syria",
+   "parent": "",
+   "significance": "Where al-Qaeda relocated per Zach's 2011 assessment."
+  },
+  {
+   "name": "Camp Rhino",
+   "type": "base",
+   "country": "Afghanistan",
+   "parent": "Kandahar",
+   "significance": "Set up in Registan."
+  },
+  {
+   "name": "Ukraine",
+   "type": "country",
+   "country": "Ukraine",
+   "parent": "",
+   "significance": "Compared with Afghanistan on corruption and rebuilding militaries."
+  },
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Setting of the 'pointless war' discussion."
+  },
+  {
+   "name": "Iraq",
+   "type": "country",
+   "country": "Iraq",
+   "parent": "",
+   "significance": "Comparison war; the US 'bit off more than we could chew' there."
+  },
+  {
+   "name": "Libya",
+   "type": "country",
+   "country": "Libya",
+   "parent": "",
+   "significance": "Slave markets cited as an example of a lack of far-reaching planning."
+  }
+ ],
+ "events": [
+  {
+   "date": "2010",
+   "date_precision": "approx",
+   "type": "death",
+   "description": "Leaders of the Islamic State of Iraq, including Abu Ayyub al-Masri, killed, leading to premature declarations of AQI's defeat.",
+   "place": "Iraq",
+   "actors": [
+    "Abu Ayyub al-Masri",
+    "Abu Bakr al-Baghdadi"
+   ],
+   "timestamp": "10:51"
+  },
+  {
+   "date": "2013-03",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Resolute Support evacuated Afghan forces from Sangin district center, flattened it and relocated it four miles away, claiming government control.",
+   "place": "Sangin",
+   "actors": [
+    "Resolute Support"
+   ],
+   "timestamp": "28:07"
+  },
+  {
+   "date": "2014",
+   "date_precision": "approx",
+   "type": "offensive",
+   "description": "Al-Qaeda in Iraq took Fallujah, Ramadi and most of western Anbar, then overran Mosul.",
+   "place": "Iraq",
+   "actors": [
+    "al-Qaeda in Iraq"
+   ],
+   "timestamp": "11:30"
+  },
+  {
+   "date": "2015-10",
+   "date_precision": "month",
+   "type": "strike",
+   "description": "US raid on two large al-Qaeda camps in Shorabak district killed about 150-200 fighters, raising the estimate to 200.",
+   "place": "Shorabak",
+   "actors": [
+    "United States",
+    "al-Qaeda"
+   ],
+   "timestamp": "16:20"
+  },
+  {
+   "date": "2016",
+   "date_precision": "approx",
+   "type": "offensive",
+   "description": "Ghazni City fell to the Taliban; seven districts previously 'administered' from it were exposed as Taliban-controlled.",
+   "place": "Ghazni",
+   "actors": [
+    "Taliban"
+   ],
+   "timestamp": "23:43"
+  },
+  {
+   "date": "2016-10",
+   "date_precision": "month",
+   "type": "attack",
+   "description": "Taliban cut Route Bear, the critical supply node to Uruzgan.",
+   "place": "Kandahar",
+   "actors": [
+    "Taliban"
+   ],
+   "timestamp": "30:23"
+  },
+  {
+   "date": "2017-02",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Gen. Nicholson tells Sen. McCain the war is a stalemate and the Taliban gained ~15% territory since 2015.",
+   "place": "Washington",
+   "actors": [
+    "John Nicholson",
+    "John McCain"
+   ],
+   "timestamp": "26:57"
+  },
+  {
+   "date": "2016/2017",
+   "date_precision": "approx",
+   "type": "meeting",
+   "description": "General Razik met TAAC-South leadership in the dining facility during Ramadan.",
+   "place": "Kandahar Airfield",
+   "actors": [
+    "Abdul Raziq Achakzai",
+    "TAAC-South"
+   ],
+   "timestamp": "48:38"
+  },
+  {
+   "date": "2018",
+   "date_precision": "approx",
+   "type": "death",
+   "description": "General Razik killed by the Taliban (hosts unsure whether 2018 or 2019).",
+   "place": "Kandahar",
+   "actors": [
+    "Abdul Raziq Achakzai",
+    "Taliban"
+   ],
+   "timestamp": "35:04"
+  },
+  {
+   "date": "2021",
+   "date_precision": "approx",
+   "type": "offensive",
+   "description": "Taliban take Kandahar city and Kandahar Airfield, then Kabul, after Trump's deal and Biden's withdrawal.",
+   "place": "Afghanistan",
+   "actors": [
+    "Taliban"
+   ],
+   "timestamp": "35:28"
+  },
+  {
+   "date": "approx 2018-12",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Secretary of Defense Mattis stepped down because he could not execute Trump's decision to leave Syria.",
+   "place": "United States",
+   "actors": [
+    "James Mattis",
+    "Donald Trump"
+   ],
+   "timestamp": "59:21"
+  },
+  {
+   "date": "approx 2020",
+   "date_precision": "approx",
+   "type": "agreement",
+   "description": "Trump 'cut the deal' with the Taliban and Biden later executed the US exit from Afghanistan.",
+   "place": "Afghanistan",
+   "actors": [
+    "Donald Trump",
+    "Joe Biden",
+    "Taliban"
+   ],
+   "timestamp": "57:46"
+  },
+  {
+   "date": "approx 2009",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Obama surge in Afghanistan ended and Obama wanted to leave the country, after which the war 'became pointless'.",
+   "place": "Afghanistan",
+   "actors": [
+    "Barack Obama"
+   ],
+   "timestamp": "57:54"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Taliban",
+   "target": "Abdul Raziq Achakzai",
+   "type": "killed",
+   "detail": "Taliban killed Razik, around 2018-19.",
+   "date": "2018",
+   "confidence": "stated",
+   "timestamp": "31:48",
+   "quote": "before he was killed by the Taliban"
+  },
+  {
+   "source": "Abdul Raziq Achakzai",
+   "target": "Taliban",
+   "type": "rival_of",
+   "detail": "Razik despised the Taliban and killed many, yet extorted them over smuggling.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "31:57",
+   "quote": "He despised the Taliban, but he would extort them when they were smuggling"
+  },
+  {
+   "source": "Abdul Raziq Achakzai",
+   "target": "Noorzai tribe",
+   "type": "rival_of",
+   "detail": "Razik had a feud with the Noorzai over smuggling access across the border.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "45:06",
+   "quote": "They have an ongoing feud with the Norzai tribe for smuggling access"
+  },
+  {
+   "source": "Abdul Raziq Achakzai",
+   "target": "Achakzai tribe",
+   "type": "member_of",
+   "detail": "Razik belonged to the Achakzai tribe (transcribed 'Czech side').",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "45:06",
+   "quote": "General Razu wasn't a Czech side"
+  },
+  {
+   "source": "Abdul Raziq Achakzai",
+   "target": "Spin Boldak",
+   "type": "located_in",
+   "detail": "Razik's smuggling-node corruption centered around Spin Boldak/Maruf.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "31:48",
+   "quote": "a huge smuggling node down by Spinn-Boldak... people like General Razik"
+  },
+  {
+   "source": "Mullah Amanullah",
+   "target": "Taliban",
+   "type": "member_of",
+   "detail": "Amanullah was Taliban provincial leader for Uruzgan who laid out strategy in a Voice of Jihad interview.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "34:10",
+   "quote": "he laid out the Taliban strategy in an interview at Voice of Jihad"
+  },
+  {
+   "source": "Mullah Amanullah",
+   "target": "Uruzgan",
+   "type": "located_in",
+   "detail": "Amanullah led the Taliban in Uruzgan, taking remote areas to pressure the capital.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "34:46",
+   "quote": "Amanullah, taking the remote areas of Arousaon and laying pressure to the center"
+  },
+  {
+   "source": "John Nicholson",
+   "target": "John McCain",
+   "type": "met_with",
+   "detail": "Nicholson testified to McCain on stalemate and Taliban gains.",
+   "date": "2017-02",
+   "confidence": "stated",
+   "timestamp": "26:57",
+   "quote": "General Nicholson's being asked by Senator John McCain"
+  },
+  {
+   "source": "John Nicholson",
+   "target": "Lockheed Martin",
+   "type": "member_of",
+   "detail": "Nicholson is now Lockheed Martin Middle East chief executive.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "47:55",
+   "quote": "now General Nicholson is the chief executive of Lockheed Martin's Middle East branch"
+  },
+  {
+   "source": "Abdul Raziq Achakzai",
+   "target": "TAAC-South",
+   "type": "met_with",
+   "detail": "Razik met TAAC-South leadership at a dining facility during Ramadan.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "48:38",
+   "quote": "General Razek came to meet with the TAC South leadership"
+  },
+  {
+   "source": "Stu Velasco",
+   "target": "Uruzgan",
+   "type": "located_in",
+   "detail": "Stu was the Uruzgan provincial analyst at KIFC.",
+   "date": "2016",
+   "confidence": "stated",
+   "timestamp": "15:20",
+   "quote": "Stu, you were the Arousgan analyst"
+  },
+  {
+   "source": "Zach Popp",
+   "target": "Kandahar",
+   "type": "located_in",
+   "detail": "Zach was Kandahar provincial analyst at KIFC/TAAC-South.",
+   "date": "2016",
+   "confidence": "stated",
+   "timestamp": "15:05",
+   "quote": "I was the Candahar provincial analyst"
+  },
+  {
+   "source": "Abu Ayyub al-Masri",
+   "target": "al-Qaeda in Iraq",
+   "type": "member_of",
+   "detail": "Abu Ayyub al-Masri was war minister of the Islamic State of Iraq.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "10:57",
+   "quote": "its war minister, was Abu-Yubaiub al-Masri"
+  },
+  {
+   "source": "Abu Bakr al-Baghdadi",
+   "target": "al-Qaeda in Iraq",
+   "type": "leads",
+   "detail": "Baghdadi described as leader of AQI/Islamic State of Iraq and reported killed.",
+   "date": "2010",
+   "confidence": "stated",
+   "timestamp": "10:51",
+   "quote": "we've killed their Abu Bakr Baghdadi"
+  },
+  {
+   "source": "al-Qaeda in Iraq",
+   "target": "al-Qaeda",
+   "type": "other",
+   "detail": "Islamic State ejected from/broke from al-Qaeda over disagreement.",
+   "date": "2014",
+   "confidence": "stated",
+   "timestamp": "11:36",
+   "quote": "broke from al-Qaeda, or actually al-Qaeda ejected the Islamic State"
+  },
+  {
+   "source": "Gul Agha Sherzai",
+   "target": "Kandahar",
+   "type": "located_in",
+   "detail": "Cited as Kandahar strongman the US relied on.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "36:21",
+   "quote": "Golaga Shirzai down in Kandahar"
+  },
+  {
+   "source": "Ashraf Ghani",
+   "target": "Afghan government",
+   "type": "leads",
+   "detail": "Ghani administration launched an anti-corruption initiative that devolved into 'effective corruption'.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "44:25",
+   "quote": "under the Ghanai administration, He started this big anti-corruption initiative"
+  },
+  {
+   "source": "Taliban",
+   "target": "Route Bear",
+   "type": "other",
+   "detail": "Taliban cut Route Bear, isolating Uruzgan.",
+   "date": "2016-10",
+   "confidence": "stated",
+   "timestamp": "30:23",
+   "quote": "the Taliban cut off route there, which was the critical supply node into Arousgan"
+  },
+  {
+   "source": "James Mattis",
+   "target": "Donald Trump",
+   "type": "reports_to",
+   "detail": "Mattis stepped down as Secretary of Defense after disagreeing with Trump's decision to leave Syria.",
+   "date": "approx 2018-12",
+   "confidence": "stated",
+   "timestamp": "59:21",
+   "quote": "Secretary Mattis for stepping down when he could not faithfully execute President Trump's decision to leave Syria"
+  },
+  {
+   "source": "Donald Trump",
+   "target": "Taliban",
+   "type": "negotiated_with",
+   "detail": "Trump 'cut the deal' with the Taliban.",
+   "date": "approx 2020",
+   "confidence": "stated",
+   "timestamp": "57:46",
+   "quote": "Trump's cut the deal and then Biden executed"
+  },
+  {
+   "source": "National Guard",
+   "target": "Taliban",
+   "type": "rival_of",
+   "detail": "The second rotation of a National Guard unit wanted to kill Taliban rather than build up Afghan forces.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "54:00",
+   "quote": "They wanted dead Taliban."
+  }
+ ],
+ "sources_cited": [
+  "Voice of Jihad interview with Mullah Amanullah",
+  "New York Times reporting on Ghazni districts",
+  "Bill Roggio's Long War Journal Afghanistan district control map",
+  "Senate Armed Services testimony of Gen. Nicholson (Feb 2017)",
+  "SIGAR (ghost soldiers)",
+  "CIA estimate of 50-100 al-Qaeda fighters in Afghanistan"
+ ],
+ "key_claims": [
+  "Hosts argue official estimates of 50-100 al-Qaeda in Afghanistan were badly low; guests assessed roughly 300-400 in Kandahar and 200-300 in Uruzgan alone.",
+  "Intelligence on district control was manipulated upward by commanders, so districts were rated contested when under Taliban control.",
+  "The Taliban's rural-first guerrilla strategy, articulated by Mullah Amanullah, surrounded Uruzgan's capital and ultimately won the war.",
+  "General Razik was effective against the Taliban but corrupt, feuded with the Noorzai and fueled Taliban recruitment.",
+  "Cutting Route Bear in Oct 2016 isolated Uruzgan and showed that the US-Afghan hold was a 'paper tiger'.",
+  "The Trump deal and Biden withdrawal merely closed a defeat already evident by 2014-2019.",
+  "Al-Qaeda in Iraq was not defeated in 2010-11; it regrouped and rose as the Islamic State by 2014.",
+  "Lack of accountability and repeated analytic mistakes in Afghanistan risk recurrence in Ukraine.",
+  "US forces rotating National Guard units were placed in roles they were not trained or given time to prepare for, because the military was overstretched by Iraq.",
+  "The first National Guard rotation made progress by strengthening ANSF and Afghan special forces, while the second pursued kills over sustained mission goals.",
+  "Lack of continuity from commander to commander undermined US missions in Iraq and Afghanistan.",
+  "The State Department never built up the Afghan government, leaving military officers to handle civil tasks like water disputes.",
+  "The war 'became pointless' after the surge ended and Obama sought to leave, followed by Trump's deal and Biden's execution of the withdrawal.",
+  "Low US casualties and few political families serving reduced pressure to end or win the war."
+ ]
+}

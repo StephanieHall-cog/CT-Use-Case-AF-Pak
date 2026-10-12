@@ -1,0 +1,2690 @@
+{
+ "episode": {
+  "idx": 20,
+  "title": "Ep. 19 - Al Qaeda in 2020",
+  "published": "Tue, 21 Jul 2020 11:00:00 +0000",
+  "guid": "69153f11-9f71-4cab-99cc-97008646fe56"
+ },
+ "persons": [
+  {
+   "name": "Ayman al-Zawahiri",
+   "aliases": [
+    "Zawahari",
+    "Zawahiri",
+    "Iman-L-Zal-Hurie",
+    "Awehiri",
+    "the old Egyptian",
+    "Zawahir"
+   ],
+   "role": "al-Qaeda emir (number one); formerly bin Laden's deputy and head of Egyptian Islamic Jihad",
+   "organizations": [
+    "al-Qaeda",
+    "Egyptian Islamic Jihad"
+   ],
+   "nationality_or_origin": "Egyptian",
+   "status": "alive",
+   "status_detail": "Per CENTCOM commander Gen. McKenzie in July 2020, he is in eastern Afghanistan. Previously imprisoned in Egypt in the 1980s and briefly detained by Russia in the 1990s.",
+   "family": [],
+   "locations": [
+    "eastern Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "01:49",
+     "quote": "the number one al-Qaeda guy in the plan, I'm in Al-Zawahiri. He's still in the game."
+    },
+    {
+     "timestamp": "02:40",
+     "quote": "he was in jail, imprisoned by the Egyptians in the 80s. He briefly detained by the Russians in the 90s"
+    },
+    {
+     "timestamp": "04:05",
+     "quote": "Zawahiri actually ejected the Islamic State from Al-Qaeda"
+    },
+    {
+     "timestamp": "54:02",
+     "quote": "succession plan in place... zawahiri dies next up on the list would be this guy"
+    },
+    {
+     "timestamp": "62:14",
+     "quote": "how much is Zawahiri in control this thing?"
+    },
+    {
+     "timestamp": "75:02",
+     "quote": "He did have an overt allegiance or Bayat to Imal Zahouhiri... Zawahiri is suspiciously not disowned Jolani"
+    }
+   ]
+  },
+  {
+   "name": "Osama bin Laden",
+   "aliases": [
+    "Osama",
+    "bin Laden",
+    "Bin Laden"
+   ],
+   "role": "founder and former emir of al-Qaeda",
+   "organizations": [
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "dead",
+   "status_detail": "Killed in a US raid in 2011 while sheltering in a compound in Abbottabad, Pakistan.",
+   "family": [],
+   "locations": [
+    "Abbottabad",
+    "Pakistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "03:07",
+     "quote": "it took us 10 years to kill Osama bin Laden"
+    },
+    {
+     "timestamp": "03:11",
+     "quote": "sheltering in a compound ... in Abadabad"
+    },
+    {
+     "timestamp": "61:07",
+     "quote": "not only was he managing the operation, but he was even micromanaging it"
+    },
+    {
+     "timestamp": "92:56",
+     "quote": "bin Laden even wore one [Casio F-91W] in one of his images"
+    },
+    {
+     "timestamp": "93:01",
+     "quote": "That watch is actually the only piece of branded gear that bin Laden was ever seen with."
+    }
+   ]
+  },
+  {
+   "name": "Kenneth McKenzie",
+   "aliases": [
+    "General McKenzie",
+    "McKenzie"
+   ],
+   "role": "US CENTCOM commander",
+   "organizations": [
+    "US Central Command"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "Publicly stated Zawahiri is in eastern Afghanistan.",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "01:53",
+     "quote": "According to General McKenzie, the Sengom commander, he's in eastern Afghanistan."
+    }
+   ]
+  },
+  {
+   "name": "Jalaluddin Haqqani",
+   "aliases": [
+    "Jalalid and Akani",
+    "Jalaluddin Akhani"
+   ],
+   "role": "Haqqani Network founder; early benefactor of Osama bin Laden",
+   "organizations": [
+    "Haqqani Network",
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "unknown",
+   "status_detail": "Described only as one of Osama's earliest benefactors.",
+   "family": [
+    {
+     "relation": "son",
+     "name": "Sirajuddin Haqqani"
+    }
+   ],
+   "locations": [
+    "eastern Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "16:00",
+     "quote": "Jalalid and Akani was one of Osama's earliest benefactors."
+    }
+   ]
+  },
+  {
+   "name": "Sirajuddin Haqqani",
+   "aliases": [
+    "Sir Judan Akhani",
+    "Saraj Akani",
+    "Sirajuddin Akhani"
+   ],
+   "role": "Haqqani Network leader and one of two Taliban deputy leaders",
+   "organizations": [
+    "Haqqani Network",
+    "Taliban",
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "Hosts describe him as an al-Qaeda guy all along. He is a designated terrorist.",
+   "family": [
+    {
+     "relation": "father",
+     "name": "Jalaluddin Haqqani"
+    }
+   ],
+   "locations": [
+    "eastern Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "16:00",
+     "quote": "His son, Sir Judan Akhani has been an al-Qaeda guy all along."
+    },
+    {
+     "timestamp": "18:26",
+     "quote": "Saraj Akani isn't just the leader of the Hikani Network. He's one of two deputy mayors for the Taliban."
+    }
+   ]
+  },
+  {
+   "name": "Michael Flynn",
+   "aliases": [
+    "General Flynn"
+   ],
+   "role": "Former US general who in 2009 called the Haqqanis a criminal group that could be negotiated with",
+   "organizations": [
+    "US military"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "Later backed off the 2009 characterization.",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "17:57",
+     "quote": "the General Flynn long ago stated, I believe that was in 2009. And he backed off that"
+    }
+   ]
+  },
+  {
+   "name": "Hafiz Saeed",
+   "aliases": [
+    "Hafez-Siyid",
+    "Hafez Saiid",
+    "HFSAE"
+   ],
+   "role": "Lashkar-e-Taiba / Jamaat-ud-Dawa leader",
+   "organizations": [
+    "Lashkar-e-Taiba",
+    "Jamaat-ud-Dawa"
+   ],
+   "nationality_or_origin": "Pakistani",
+   "status": "detained",
+   "status_detail": "Convicted of terrorism finance charges in 2019, but living under 'house arrest' at home. In 2020 Pakistan asked the UN to free up cash for him and about 50 other jihadists.",
+   "family": [],
+   "locations": [
+    "Pakistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "29:11",
+     "quote": "Hafez Saeed was one of them."
+    },
+    {
+     "timestamp": "30:19",
+     "quote": "described Osama bin Laden as a martyr"
+    }
+   ]
+  },
+  {
+   "name": "David Headley",
+   "aliases": [
+    "David Heedly"
+   ],
+   "role": "Surveillance operative for the Mumbai attacks who also did surveillance for al-Qaeda in Denmark",
+   "organizations": [
+    "Lashkar-e-Taiba",
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "American",
+   "status": "detained",
+   "status_detail": "Imprisoned.",
+   "family": [],
+   "locations": [
+    "Mumbai",
+    "Denmark"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "30:35",
+     "quote": "David Heedly, who did the surveillance work for the Mumbai attacks, ends up doing surveillance also for Al-Qaeda"
+    }
+   ]
+  },
+  {
+   "name": "Abu Firas al-Suri",
+   "aliases": [
+    "Abu Furas Alsuri"
+   ],
+   "role": "al-Qaeda veteran and Nusra Front spokesman in Syria; claimed to have helped bin Laden establish Lashkar-e-Taiba",
+   "organizations": [
+    "al-Qaeda",
+    "Nusra Front"
+   ],
+   "nationality_or_origin": "Syrian",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Syria"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "26:04",
+     "quote": "Abu Furas Alsuri ... they said, well, he helped bin Laden establish Lashkaritaiba."
+    }
+   ]
+  },
+  {
+   "name": "Zakir Musa",
+   "aliases": [
+    "secure Musa"
+   ],
+   "role": "al-Qaeda's guy in Kashmir for a time",
+   "organizations": [
+    "al-Qaeda",
+    "Ansar Ghazwat-ul-Hind"
+   ],
+   "nationality_or_origin": "Kashmiri",
+   "status": "dead",
+   "status_detail": "Killed; the hosts do not say by whom. Identification of 'secure Musa' as Zakir Musa is inferred.",
+   "family": [],
+   "locations": [
+    "Kashmir"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "31:33",
+     "quote": "secure Musa was their guy for a time. He was killed."
+    }
+   ]
+  },
+  {
+   "name": "Khalid Batarfi",
+   "aliases": [
+    "Halibbuttarfi",
+    "Haleh Batarfi",
+    "Holland Batarfi"
+   ],
+   "role": "Current leader of al-Qaeda in the Arabian Peninsula (AQAP)",
+   "organizations": [
+    "al-Qaeda in the Arabian Peninsula",
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Yemeni",
+   "status": "alive",
+   "status_detail": "Made statements calling for jihad in Burma.",
+   "family": [],
+   "locations": [
+    "Yemen"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "44:16",
+     "quote": "the current leader of AQAWP, Halibbuttarfi. And others were calling to ... spark the jihadist scene in Burma."
+    },
+    {
+     "timestamp": "78:45",
+     "quote": "its senior leader now, Khalid Batarfi... He's not just AQAP's leader. He's part of AQ's senior management"
+    }
+   ]
+  },
+  {
+   "name": "Imran Khan",
+   "aliases": [
+    "Imam Khan"
+   ],
+   "role": "Prime Minister of Pakistan",
+   "organizations": [
+    "Government of Pakistan"
+   ],
+   "nationality_or_origin": "Pakistani",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Pakistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "27:50",
+     "quote": "political issues with, like, say, with Imam Khan, the prime minister"
+    }
+   ]
+  },
+  {
+   "name": "Saif al-Adel",
+   "aliases": [
+    "Saifo Otto",
+    "Saif al-Adl",
+    "Saifl Adon",
+    "Saif al-A",
+    "Saif al-A al-Mazeri",
+    "Saiflat"
+   ],
+   "role": "Senior al-Qaeda lieutenant of Zawahiri; on the succession chain",
+   "organizations": [
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Egyptian",
+   "status": "alive",
+   "status_detail": "In Iran. Previously detained there, then stayed after an exchange for an Iranian diplomat kidnapped by al-Qaeda in 2015. Plays a management role in Zawahiri's network.",
+   "family": [],
+   "locations": [
+    "Iran"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "45:38",
+     "quote": "Saifo Otto and Abu Muhammad al-Mazeri are in Iran."
+    },
+    {
+     "timestamp": "46:37",
+     "quote": "Both these guys are on the succession chain for Zawahiri."
+    },
+    {
+     "timestamp": "54:06",
+     "quote": "some of those guys of succession line, including Saif al-Adel and Abu Muhammad al-Masri, are still alive to this day and in Iran"
+    },
+    {
+     "timestamp": "62:23",
+     "quote": "the guys in Iran, Saif al-Adel and Abu Muhammad al-Masri are playing a role in it"
+    }
+   ]
+  },
+  {
+   "name": "Abu Muhammad al-Masri",
+   "aliases": [
+    "Abu Muhammad al-Mazeri"
+   ],
+   "role": "Senior al-Qaeda lieutenant of Zawahiri; on the succession chain",
+   "organizations": [
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Egyptian",
+   "status": "alive",
+   "status_detail": "In Iran. Previously detained there, then stayed to manage affairs for Zawahiri.",
+   "family": [],
+   "locations": [
+    "Iran"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "45:38",
+     "quote": "Saifo Otto and Abu Muhammad al-Mazeri are in Iran."
+    },
+    {
+     "timestamp": "54:11",
+     "quote": "Saif al-Adel and Abu Muhammad al-Masri, are still alive to this day and in Iran"
+    }
+   ]
+  },
+  {
+   "name": "Abu Hamza al-Khalidi",
+   "aliases": [
+    "Abu Hamzah al-Khalidi",
+    "Abu Hamz al-Khalidi",
+    "Abul-Hamzal Liddy"
+   ],
+   "role": "Designated by Treasury in 2016 as head of al-Qaeda's military committee; mentioned in the bin Laden files as part of a new generation groomed for leadership",
+   "organizations": [
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "Inside Iran as of the 2016 designation; has worked with the Pakistani Taliban.",
+   "family": [],
+   "locations": [
+    "Iran",
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "47:21",
+     "quote": "Abu Hamza al-Khalidi. This is a guy who we found was mentioned in the bin Laden files"
+    },
+    {
+     "timestamp": "47:39",
+     "quote": "identified him as the head of al-Qaeda's military committee"
+    },
+    {
+     "timestamp": "47:21",
+     "quote": "Abu Hamza al-Khalidi. This is a guy who we found was mentioned in the bin Laden files as part of a new generation"
+    },
+    {
+     "timestamp": "47:39",
+     "quote": "the Obama administration identified him as the head of al-Qaeda's military committee"
+    },
+    {
+     "timestamp": "50:56",
+     "quote": "identified as the leader of al-Qaeda fighters in Afghanistan who sort of graduates up the chain"
+    }
+   ]
+  },
+  {
+   "name": "Yasin al-Suri",
+   "aliases": [
+    "Yassin al-Suri"
+   ],
+   "role": "Initial head of al-Qaeda's facilitation network in Iran",
+   "organizations": [
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Syrian (originally from Kurdistan, per the hosts)",
+   "status": "unknown",
+   "status_detail": "May have moved to Syria or elsewhere; unclear whether he is still in Iran.",
+   "family": [],
+   "locations": [
+    "Iran",
+    "Syria"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "48:03",
+     "quote": "initially head by a guy known as Yassin al-Suri, who was originally from Kurdistan"
+    },
+    {
+     "timestamp": "48:03",
+     "quote": "It was initially head by a guy known as Yassin al-Suri, who was originally from Kurdistan"
+    }
+   ]
+  },
+  {
+   "name": "Khalid Sheikh Mohammed",
+   "aliases": [
+    "Kaliqqqa, Mohammed"
+   ],
+   "role": "former al-Qaeda media committee figure and 9/11 mastermind",
+   "organizations": [
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "",
+   "status": "detained",
+   "status_detail": "Captured; status inferred from 'captured' context, not stated",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "55:38",
+     "quote": "Khalid Sheikh Mohammed played a leading role in it, the media committee, the mastermind of 9-11"
+    }
+   ]
+  },
+  {
+   "name": "Abu al-Khayr al-Masri",
+   "aliases": [
+    "Abu Al-Qarra Amazri",
+    "Abu al-Khair al-Masri"
+   ],
+   "role": "top deputy to Zawahiri, based in Syria",
+   "organizations": [
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Egyptian",
+   "status": "dead",
+   "status_detail": "Killed in a US drone strike in Syria in 2017",
+   "family": [],
+   "locations": [
+    "Syria"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "56:49",
+     "quote": "Abu Al-Khayr al-Masri in Syria, he was killed in 2017 in a drone strike. He was the top deputy to Zawahiri"
+    }
+   ]
+  },
+  {
+   "name": "Nasir al-Wuhayshi",
+   "aliases": [
+    "Nazar Wahashi",
+    "Nasser O'Hashy",
+    "Wuhayshi",
+    "Uhashi"
+   ],
+   "role": "former emir of AQAP, deputy emir of al-Qaeda and its general manager",
+   "organizations": [
+    "al-Qaeda in the Arabian Peninsula",
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Yemeni",
+   "status": "dead",
+   "status_detail": "Killed in the drone campaign (death not detailed in this chunk)",
+   "family": [],
+   "locations": [
+    "Yemen"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "57:02",
+     "quote": "Nasir al-Wuhayshi was the Emir of AQAP. We know he was the deputy emir of al-Qaeda... so-called general manager"
+    }
+   ]
+  },
+  {
+   "name": "Abdelmalek Droukdel",
+   "aliases": [
+    "Drukdel",
+    "Abdul al-Duc Del",
+    "Droop Del"
+   ],
+   "role": "emir of AQIM; second deputy of Zawahiri per the French government",
+   "organizations": [
+    "al-Qaeda in the Islamic Maghreb",
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Algerian",
+   "status": "dead",
+   "status_detail": "Killed in a French-led operation with US assistance (recent as of July 2020)",
+   "family": [],
+   "locations": [
+    "North Africa"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "83:57",
+     "quote": "Abdul al-Duc Del, who had been killed in this French-led operation with the U.S. assistance"
+    },
+    {
+     "timestamp": "84:01",
+     "quote": "The French government says that he was the second deputy of Zawahiri"
+    }
+   ]
+  },
+  {
+   "name": "Asim Umar",
+   "aliases": [
+    "Assim Umar",
+    "Asim Omar"
+   ],
+   "role": "emir of AQIS",
+   "organizations": [
+    "al-Qaeda in the Indian Subcontinent",
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Indian-born (inferred)",
+   "status": "dead",
+   "status_detail": "Killed in Helmand province, Afghanistan in 2019, alongside his courier to Zawahiri",
+   "family": [],
+   "locations": [
+    "Helmand",
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "59:45",
+     "quote": "we killed Assim Umar in Afghanistan in Helman province in 2019. His courier to Zawahiri was killed alongside him"
+    }
+   ]
+  },
+  {
+   "name": "Qasim al-Raymi",
+   "aliases": [
+    "Qasemoremi"
+   ],
+   "role": "AQAP emir",
+   "organizations": [
+    "al-Qaeda in the Arabian Peninsula"
+   ],
+   "nationality_or_origin": "Yemeni",
+   "status": "dead",
+   "status_detail": "Recently killed in Yemen (as of July 2020)",
+   "family": [],
+   "locations": [
+    "Yemen"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "66:20",
+     "quote": "a guy like Qasim al-Raymi, who was recently killed in Yemen is a good example of that"
+    }
+   ]
+  },
+  {
+   "name": "Ahmed Diriye",
+   "aliases": [
+    "Abu Abedah",
+    "Abu Obeidah",
+    "Abu Abedah Amman Amar",
+    "Ahmed Umar (Abu Ubaidah)"
+   ],
+   "role": "emir of al-Shabaab",
+   "organizations": [
+    "al-Shabaab",
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Somali",
+   "status": "alive",
+   "status_detail": "Shabaab emir as of July 2020; hosts speculate he may sit on an al-Qaeda regional shura",
+   "family": [],
+   "locations": [
+    "Somalia"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "82:18",
+     "quote": "the emir of Shabab, Abu Abedah... he comments on events far outside of Somalia"
+    }
+   ]
+  },
+  {
+   "name": "Ahmed Abdi Godane",
+   "aliases": [
+    "Zubair",
+    "Zabar",
+    "Abu Zubair"
+   ],
+   "role": "former emir of al-Shabaab",
+   "organizations": [
+    "al-Shabaab",
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Somali",
+   "status": "dead",
+   "status_detail": "Referred to as 'their past Amir'; death not detailed in this chunk",
+   "family": [],
+   "locations": [
+    "Somalia"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "83:07",
+     "quote": "Zubair, their past Amir, was a key player within Shabab as well, or within Al-Qaeda"
+    },
+    {
+     "timestamp": "84:56",
+     "quote": "It wasn't just Droukdel, wasn't just Zubair, wasn't just Wuhayshi in AQAP"
+    }
+   ]
+  },
+  {
+   "name": "Ali Mohamud Rage",
+   "aliases": [
+    "Sheikh Raya",
+    "Sheikh Rage",
+    "Ali Dheere"
+   ],
+   "role": "al-Shabaab spokesman",
+   "organizations": [
+    "al-Shabaab"
+   ],
+   "nationality_or_origin": "Somali",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Somalia"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "83:16",
+     "quote": "Sheikh Raya, the spokesman for Shabab, he's openly pronouncing their undying allegiance to Zawahiri"
+    }
+   ]
+  },
+  {
+   "name": "Abu Muhammad al-Jolani",
+   "aliases": [
+    "Jolani",
+    "Abu Muhammad al-Jalani"
+   ],
+   "role": "leader of Hayat Tahrir al-Sham; former al-Qaeda regional emir in Syria",
+   "organizations": [
+    "Hayat Tahrir al-Sham",
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Syrian",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Syria"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "74:49",
+     "quote": "Abu Muhammad al-Jalani, who leads HTS. He was the regional leader for al-Qaeda, the regional emir"
+    }
+   ]
+  },
+  {
+   "name": "Mohammed Haydar Zammar",
+   "aliases": [
+    "Muhammad Zimar",
+    "Mohammed Zamar"
+   ],
+   "role": "recruiter of the 9/11 hijackers in Germany; reportedly visited the Sinai to woo jihadists to ISIS",
+   "organizations": [
+    "Islamic State",
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "German-Syrian",
+   "status": "unknown",
+   "status_detail": "Reportedly released from a Syrian prison with ISIS's help (per Bruce Riedel); current whereabouts unknown",
+   "family": [],
+   "locations": [
+    "Germany",
+    "Syria",
+    "Sinai"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "76:57",
+     "quote": "Muhammad Zammar, who helped recruit the 9-11 hijackers in Germany... ISIS had secured his release from a Syrian prison and that he actually went to the Sinai"
+    }
+   ]
+  },
+  {
+   "name": "Mohamed Islam",
+   "aliases": [
+    "Guy Mohamed Islam"
+   ],
+   "role": "senior al-Qaeda figure in Turkey named in the bin Laden files",
+   "organizations": [
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "Identity uncertain from garbled transcript",
+   "family": [],
+   "locations": [
+    "Turkey"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "75:24",
+     "quote": "leadership member we've been tracking, Mohamed Islam, in the bin Laden files, was clearly a senior al-Qaeda guy"
+    }
+   ]
+  },
+  {
+   "name": "Iyad Ag Ghali",
+   "aliases": [
+    "Yalai",
+    "Iyad ag Ghaly"
+   ],
+   "role": "head of JNIM",
+   "organizations": [
+    "Jama'at Nusrat al-Islam wal-Muslimin",
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Malian (Tuareg)",
+   "status": "alive",
+   "status_detail": "Hosts speculate he is part of AQ senior management",
+   "family": [],
+   "locations": [
+    "Mali"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "85:36",
+     "quote": "I wouldn't be surprised if the head of JNIM is also part of an AQ management team"
+    }
+   ]
+  },
+  {
+   "name": "Yusuf al-Annabi",
+   "aliases": [
+    "Anabi",
+    "Yusufanahdi",
+    "Abu Obeida Yusuf al-Annabi"
+   ],
+   "role": "AQIM leader and potential successor to Droukdel",
+   "organizations": [
+    "al-Qaeda in the Islamic Maghreb",
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Algerian",
+   "status": "alive",
+   "status_detail": "Suspected part of the al-Qaeda management/advisory team",
+   "family": [],
+   "locations": [
+    "North Africa"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "84:23",
+     "quote": "potential successors and guys there who we suspect like Annabi, Yusuf al-Annabi, and others"
+    }
+   ]
+  },
+  {
+   "name": "Abdul Majid al-Zindani",
+   "aliases": [
+    "Zindani",
+    "Shakespeare Zandani",
+    "Sheikh Abdul Majeed Zindani"
+   ],
+   "role": "Yemeni cleric, al-Iman University founder, designated by the US in 2004, bin Laden mentor",
+   "organizations": [
+    "al-Iman University"
+   ],
+   "nationality_or_origin": "Yemeni",
+   "status": "alive",
+   "status_detail": "Reportedly hosted by the Saudis for meetings despite travel bans",
+   "family": [],
+   "locations": [
+    "Yemen",
+    "Saudi Arabia"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "78:29",
+     "quote": "Zindani and his university, Al-Iman University"
+    },
+    {
+     "timestamp": "79:07",
+     "quote": "the Saudis actually welcomed him for some meetings in Saudi Arabia, even though defying international travel bans"
+    },
+    {
+     "timestamp": "79:30",
+     "quote": "designated by the U.S. government in 2004... one of the mentors for Osama bin Laden"
+    }
+   ]
+  },
+  {
+   "name": "Mohammed al-Shamrani",
+   "aliases": [
+    "Mohammed al-Shimrani"
+   ],
+   "role": "AQAP sleeper agent and Saudi second lieutenant; Pensacola Naval Air Station attacker",
+   "organizations": [
+    "al-Qaeda in the Arabian Peninsula"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "dead",
+   "status_detail": "Attacker in the Dec 2019 Pensacola shooting (death not stated in this chunk)",
+   "family": [],
+   "locations": [
+    "Pensacola",
+    "United States"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "78:03",
+     "quote": "AQAP carried out this attack in December at the Naval Air Station, Pensacola, with the sleeper agent, Mohammed al-Shimrani"
+    }
+   ]
+  },
+  {
+   "name": "Abu Musab al-Zarqawi",
+   "aliases": [
+    "Zarqawi"
+   ],
+   "role": "founder of al-Qaeda in Iraq; his companions were rumored to be building a new al-Qaeda effort in Iraq",
+   "organizations": [
+    "al-Qaeda in Iraq"
+   ],
+   "nationality_or_origin": "Jordanian",
+   "status": "dead",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Iraq"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "72:57",
+     "quote": "including some of Zarqawi's companions is that we're going to lead a new al-Qaeda effort"
+    }
+   ]
+  },
+  {
+   "name": "Abu Bakr al-Baghdadi",
+   "aliases": [
+    "Baghdaddy",
+    "Bagdaddy",
+    "Bagdad"
+   ],
+   "role": "ISIS caliph",
+   "organizations": [
+    "Islamic State",
+    "Islamic State"
+   ],
+   "nationality_or_origin": "Iraqi",
+   "status": "dead",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "93:39",
+     "quote": "when Baghdadi declared himself caliph in that video... that watch was not a Rolex"
+    },
+    {
+     "timestamp": "93:39",
+     "quote": "when Baghdadi declared himself caliph in that video... that watch was not a Rolex"
+    }
+   ]
+  },
+  {
+   "name": "Abdullah al-Muhaysini",
+   "aliases": [
+    "Sheikh Mahasney",
+    "Muhaysini"
+   ],
+   "role": "Saudi jihadi cleric in Syria (hosts joke about his watches)",
+   "organizations": [],
+   "nationality_or_origin": "Saudi",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Syria"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "94:12",
+     "quote": "Sheikh Mahasney in Syria? That guy's always wearing different making models of watches"
+    }
+   ]
+  },
+  {
+   "name": "George W. Bush",
+   "aliases": [
+    "President Bush"
+   ],
+   "role": "US president who kept a chart of al-Qaeda leaders and ran the early drone campaign",
+   "organizations": [
+    "US Government"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "64:01",
+     "quote": "President Bush had some type of chart at his desk and with photographs... X off as soon as we would kill or capture one"
+    }
+   ]
+  },
+  {
+   "name": "John Walker Lindh",
+   "aliases": [
+    "Johnny Walker Lind"
+   ],
+   "role": "American jihadist, mentioned jokingly",
+   "organizations": [],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "90:04",
+     "quote": "jihadi fashion dorks like Johnny Walker Lind or Jihadi Jack"
+    }
+   ]
+  },
+  {
+   "name": "Jack Letts",
+   "aliases": [
+    "Jihadi Jack"
+   ],
+   "role": "British jihadist, mentioned jokingly",
+   "organizations": [],
+   "nationality_or_origin": "British",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "90:04",
+     "quote": "Johnny Walker Lind or Jihadi Jack"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "al-Qaeda",
+   "aliases": [
+    "Al Qaeda",
+    "AQ",
+    "al-Qaeda core",
+    "Al-Qaeda's Central Command",
+    "general command",
+    "AQ senior leadership"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban",
+    "Haqqani Network",
+    "Egyptian Islamic Jihad",
+    "Turkistan Islamic Party",
+    "Lashkar-e-Taiba (partly)",
+    "Harakat ul-Mujahideen",
+    "AQAP",
+    "AQIM",
+    "JNIM",
+    "al-Shabaab",
+    "AQIS",
+    "Hurras al-Din",
+    "Iran (facilitation arrangement)"
+   ],
+   "rivals": [
+    "Islamic State",
+    "ISKP",
+    "ISIS"
+   ],
+   "country_base": "Afghanistan/Pakistan",
+   "notes": "Zawahiri leads from eastern Afghanistan. Branches still report to him and send money. A Shura member runs the Turkistan Islamic Party. A management cell is in Iran."
+  },
+  {
+   "name": "Egyptian Islamic Jihad",
+   "aliases": [
+    "EIJ",
+    "IJ"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda"
+   ],
+   "rivals": [],
+   "country_base": "Egypt",
+   "notes": "The hosts argue it was effectively merged with al-Qaeda early, with helped planning of the 1998 embassy bombings with assistance from Hezbollah and Iran."
+  },
+  {
+   "name": "Taliban",
+   "aliases": [
+    "Afghan Taliban"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda",
+    "Haqqani Network",
+    "Pakistani state"
+   ],
+   "rivals": [
+    "ISKP"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Signed the 29 Feb 2020 deal with the US. Denies al-Qaeda or foreign terrorists are in Afghanistan. Reports no raids on al-Qaeda."
+  },
+  {
+   "name": "Haqqani Network",
+   "aliases": [
+    "Hacani Network",
+    "Akani network",
+    "Khanis"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban",
+    "al-Qaeda"
+   ],
+   "rivals": [
+    "ISKP"
+   ],
+   "country_base": "Afghanistan/Pakistan",
+   "notes": "Incubated al-Qaeda in eastern Afghanistan. Likely hosts Zawahiri. Designated as a terrorist organization."
+  },
+  {
+   "name": "al-Qaeda in the Indian Subcontinent",
+   "aliases": [
+    "AQIS",
+    "EQIS"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda",
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan/Pakistan",
+   "notes": "Absorbed some Pakistani groups in 2014. Fights under the Taliban banner and serves as a release valve for Pakistani jihadists."
+  },
+  {
+   "name": "Tehrik-e-Taliban Pakistan",
+   "aliases": [
+    "TTP",
+    "movement of the Taliban in Pakistan",
+    "Pakistani Taliban",
+    "bad Taliban",
+    "Pakistan Taliban (TTP)"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda",
+    "Taliban"
+   ],
+   "rivals": [
+    "Pakistani state"
+   ],
+   "country_base": "Pakistan",
+   "notes": "Took over the tribal areas, reaching Buner by 2009. Now a more localized threat. Described as part of al-Qaeda's orbit."
+  },
+  {
+   "name": "Islamic State Khorasan Province",
+   "aliases": [
+    "ISKP",
+    "ISIS in the region"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Islamic State"
+   ],
+   "rivals": [
+    "Taliban",
+    "Haqqani Network",
+    "al-Qaeda"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Indian officials allege Pakistani military support. The hosts see no evidence of that, and note the group is openly hostile to the Taliban."
+  },
+  {
+   "name": "Islamic State",
+   "aliases": [
+    "ISIS"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [
+    "al-Qaeda"
+   ],
+   "country_base": "Iraq/Syria",
+   "notes": "Ejected from al-Qaeda by Zawahiri. Has small presences in Kashmir and Bangladesh."
+  },
+  {
+   "name": "Turkistan Islamic Party",
+   "aliases": [
+    "TIP"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda",
+    "Taliban",
+    "Hayat Tahrir al-Sham"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Largely Uyghur. The hosts say its head was al-Qaeda's operations chief for Afghanistan and Pakistan and on al-Qaeda's Shura, until injured (name garbled in the transcript)."
+  },
+  {
+   "name": "Islamic Movement of Uzbekistan",
+   "aliases": [
+    "IMU"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Reconstituted and folded under the Taliban banner."
+  },
+  {
+   "name": "Islamic Jihad Union",
+   "aliases": [
+    "IJU"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [
+    "Pakistani state"
+   ],
+   "country_base": "Afghanistan/Pakistan",
+   "notes": "Listed with the 'bad Taliban' that attacked the Pakistani state."
+  },
+  {
+   "name": "Lashkar-e-Taiba",
+   "aliases": [
+    "Lashgari Tayyva",
+    "LeT",
+    "Lashkar-i-Taiba"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Pakistani state",
+    "al-Qaeda (partly)"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "A state-sponsored 'good Taliban' group. Part of it is wedded to al-Qaeda. Fights in Afghanistan, with a UN-estimated ~800 split with Jaish-e-Mohammed. Linked to Hafiz Saeed's Jamaat-ud-Dawa."
+  },
+  {
+   "name": "Jaish-e-Mohammed",
+   "aliases": [
+    "Jash Muhammad",
+    "JeM"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Pakistani state"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "State-sponsored 'good Taliban' group, active in Afghanistan."
+  },
+  {
+   "name": "Harakat ul-Mujahideen",
+   "aliases": [
+    "Harakato Mujahideen",
+    "HuM",
+    "Harkat al-Mujahideen"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Pakistani state",
+    "al-Qaeda"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "A State Department designation (~2015/16) said it ran training camps in Afghanistan. Implicated in bin Laden's Pakistan support network."
+  },
+  {
+   "name": "Harakat-ul-Jihad al-Islami",
+   "aliases": [
+    "Huzi",
+    "HuJI"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Pakistani state"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Has had a footprint in Afghanistan."
+  },
+  {
+   "name": "Jamaat-ud-Dawa",
+   "aliases": [
+    "Lashkar-Aid-Jisha"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Lashkar-e-Taiba"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Charitable front network run from Hafiz Saeed's home."
+  },
+  {
+   "name": "Pakistani military and intelligence establishment",
+   "aliases": [
+    "ISI",
+    "Pakistani state",
+    "Pakistani military",
+    "Pakistani military and Inter-Services Intelligence"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Taliban",
+    "Haqqani Network",
+    "Lashkar-e-Taiba",
+    "Jaish-e-Mohammed"
+   ],
+   "rivals": [
+    "TTP"
+   ],
+   "country_base": "Pakistan",
+   "notes": "The hosts charge it with sponsoring jihadist groups (the 'wheel of jihad') and discouraging press reporting on them."
+  },
+  {
+   "name": "US Central Command",
+   "aliases": [
+    "CENTCOM",
+    "Sengom"
+   ],
+   "type": "military",
+   "parent_or_allies": [],
+   "rivals": [
+    "al-Qaeda"
+   ],
+   "country_base": "United States",
+   "notes": "Commanded by Gen. McKenzie."
+  },
+  {
+   "name": "US State Department",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Signed the 29 Feb 2020 deal with the Taliban. Raised bounties on al-Qaeda figures in Iran. Its country reports on terrorism say the al-Qaeda facilitation pipeline in Iran persists."
+  },
+  {
+   "name": "US Treasury Department",
+   "aliases": [
+    "Treasury"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Designated three senior al-Qaeda figures in Iran in 2016."
+  },
+  {
+   "name": "UN Security Council Analytical Support and Sanctions Monitoring Team",
+   "aliases": [
+    "UN expert panel",
+    "United Nations Security Council Monitoring Team"
+   ],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Reports al-Qaeda in at least 12 Afghan provinces and ~5,500 Pakistani jihadists in Afghanistan."
+  },
+  {
+   "name": "Iran",
+   "aliases": [
+    "Government of Iran",
+    "Iranian regime"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "al-Qaeda (facilitation arrangement)",
+    "Hezbollah",
+    "al-Qaeda (facilitation network)"
+   ],
+   "rivals": [],
+   "country_base": "Iran",
+   "notes": "Hosts al-Qaeda leaders and a facilitation network despite rivalry with al-Qaeda in Syria and Yemen."
+  },
+  {
+   "name": "Hezbollah",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Iran"
+   ],
+   "rivals": [],
+   "country_base": "Lebanon",
+   "notes": "Reportedly assisted EIJ/al-Qaeda with the 1998 embassy bombings."
+  },
+  {
+   "name": "al-Qaeda in the Arabian Peninsula",
+   "aliases": [
+    "AQAP"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda"
+   ],
+   "rivals": [
+    "ISIS"
+   ],
+   "country_base": "Yemen",
+   "notes": "Led by Khalid Batarfi."
+  },
+  {
+   "name": "Ansarullah Bangla Team",
+   "aliases": [
+    "Ansarul Islam",
+    "Ansarola Bangla"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda"
+   ],
+   "rivals": [
+    "Islamic State"
+   ],
+   "country_base": "Bangladesh",
+   "notes": "Claimed attacks against so-called blasphemers and bloggers as part of al-Qaeda's global campaign."
+  },
+  {
+   "name": "Jamaat-ul-Mujahideen Bangladesh",
+   "aliases": [
+    "JMB",
+    "Jaysim Islamic Bangladesh",
+    "JUIB"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Pakistani state"
+   ],
+   "rivals": [
+    "Government of Bangladesh"
+   ],
+   "country_base": "Bangladesh",
+   "notes": "Pakistani-supported; the Bangladeshi government cracked down and executed its leader (name garbled in transcript)."
+  },
+  {
+   "name": "Nawa-i-Ghazwat-ul-Hind",
+   "aliases": [
+    "Nahuahazwa-Ihinged"
+   ],
+   "type": "other",
+   "parent_or_allies": [
+    "al-Qaeda in the Indian Subcontinent"
+   ],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Al-Qaeda's rebranded Urdu publication in the region, referencing Kashmir and the subcontinent."
+  },
+  {
+   "name": "al-Qaeda military committee",
+   "aliases": [
+    "military committee"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda"
+   ],
+   "rivals": [],
+   "country_base": "Iran",
+   "notes": "Led by Abu Hamza al-Khalidi per US designation; two others on the designation list played similar roles."
+  },
+  {
+   "name": "al-Qaeda Shura Council",
+   "aliases": [
+    "Shura Council"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda"
+   ],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Current composition unknown; past members revealed through letters and drone strike aftermaths."
+  },
+  {
+   "name": "As-Sahab",
+   "aliases": [
+    "Asahab",
+    "As Sahab Media"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda"
+   ],
+   "rivals": [],
+   "country_base": "",
+   "notes": "al-Qaeda's central media outfit; promotes the unity of branches via logos."
+  },
+  {
+   "name": "al-Qaeda in the Islamic Maghreb",
+   "aliases": [
+    "AQI.M",
+    "AQAM",
+    "AQIM"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda",
+    "JNIM"
+   ],
+   "rivals": [],
+   "country_base": "Algeria/North Africa",
+   "notes": "Leader Droukdel killed in French operation; operates in Libya through cutouts."
+  },
+  {
+   "name": "Jama'at Nusrat al-Islam wal-Muslimin",
+   "aliases": [
+    "JNI.M",
+    "group for support of Islam and Muslims",
+    "JNIM"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "AQIM",
+    "al-Qaeda"
+   ],
+   "rivals": [],
+   "country_base": "Mali",
+   "notes": "West African al-Qaeda wing led by Iyad Ag Ghali."
+  },
+  {
+   "name": "al-Shabaab",
+   "aliases": [
+    "Shabab",
+    "Shabaab"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda"
+   ],
+   "rivals": [
+    "Islamic State in Somalia"
+   ],
+   "country_base": "Somalia",
+   "notes": "Trending up; Amniyat suppresses dissent and ISIS defection; waiting for African Union withdrawal."
+  },
+  {
+   "name": "Amniyat (Shabaab)",
+   "aliases": [
+    "Omniat"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Shabaab"
+   ],
+   "rivals": [],
+   "country_base": "Somalia",
+   "notes": "Shabaab intelligence service; suppresses dissent and pro-ISIS elements."
+  },
+  {
+   "name": "Hayat Tahrir al-Sham",
+   "aliases": [
+    "HTS",
+    "Hayat Terrir al-Sham"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Turkistan Islamic Party (alliance)"
+   ],
+   "rivals": [
+    "Hurras al-Din"
+   ],
+   "country_base": "Syria",
+   "notes": "Considered by UN/US an al-Qaeda affiliate; led by Jolani; strained relationship with Zawahiri."
+  },
+  {
+   "name": "Hurras al-Din",
+   "aliases": [
+    "Herosal-Deen",
+    "Guardians of the Religion"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda"
+   ],
+   "rivals": [
+    "Hayat Tahrir al-Sham"
+   ],
+   "country_base": "Syria",
+   "notes": "Leadership are clearly al-Qaeda guys per the hosts."
+  },
+  {
+   "name": "ISIS Sinai Province",
+   "aliases": [
+    "Wilayat Sinai"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "ISIS"
+   ],
+   "rivals": [
+    "al-Qaeda"
+   ],
+   "country_base": "Egypt",
+   "notes": "Claims to have cleaned al-Qaeda's clock in the Sinai."
+  },
+  {
+   "name": "Ansar Bayt al-Maqdis",
+   "aliases": [
+    "Ansar Jerusalem"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Egypt",
+   "notes": "Unofficial al-Qaeda-linked group that converted to ISIS."
+  },
+  {
+   "name": "Jemaah Islamiyah",
+   "aliases": [
+    "Jimmy and Islamia"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda"
+   ],
+   "rivals": [],
+   "country_base": "Indonesia",
+   "notes": "Former al-Qaeda theater that largely defected."
+  },
+  {
+   "name": "Abu Sayyaf Group",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda"
+   ],
+   "rivals": [],
+   "country_base": "Philippines",
+   "notes": "Former al-Qaeda theater lost to ISIS."
+  },
+  {
+   "name": "al-Iman University",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Yemen",
+   "notes": "Founded by Zindani, a local asset leveraged by AQAP."
+  },
+  {
+   "name": "African Union",
+   "aliases": [],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [
+    "al-Shabaab"
+   ],
+   "country_base": "",
+   "notes": "Propping up the Somali government; due to withdraw."
+  },
+  {
+   "name": "9/11 Commission",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "USA",
+   "notes": "2004 report described al-Qaeda committee structure and 5-10,000 camp trainees."
+  },
+  {
+   "name": "Islamic Caucasus Emirate",
+   "aliases": [
+    "Caucasus Emirate"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Russia",
+   "notes": "Only mentioned in a joke about Chechen jihadi style."
+  },
+  {
+   "name": "FDD's Long War Journal",
+   "aliases": [
+    "Long War Journal"
+   ],
+   "type": "other",
+   "parent_or_allies": [
+    "FDD"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Hosts' publication, which tracks jihadist watches."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Al-Qaeda is clandestinely present under the Taliban banner; the US is drawing down."
+  },
+  {
+   "name": "Eastern Afghanistan",
+   "type": "region",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Where McKenzie says Zawahiri is; Haqqani stronghold; ISKP clashes."
+  },
+  {
+   "name": "Shorabak district, Kandahar",
+   "type": "district",
+   "country": "Afghanistan",
+   "parent": "Kandahar",
+   "significance": "Site of two massive al-Qaeda training camps raided by US and Afghan forces, forcing a revision of the 50-100 estimate."
+  },
+  {
+   "name": "Kunar",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "ISKP presence is mocked as a 'port-a-potty' claimed as a province."
+  },
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Al-Qaeda 'black box', jihadist wheel, ISI sponsorship."
+  },
+  {
+   "name": "Abbottabad",
+   "type": "city",
+   "country": "Pakistan",
+   "parent": "Khyber Pakhtunkhwa",
+   "significance": "Bin Laden's compound near Pakistan's military academy."
+  },
+  {
+   "name": "North and South Waziristan",
+   "type": "region",
+   "country": "Pakistan",
+   "parent": "Khyber Pakhtunkhwa",
+   "significance": "Former FATA, once seized by the TTP; Pakistani soldiers killed there go underreported."
+  },
+  {
+   "name": "Khyber Pakhtunkhwa",
+   "type": "province",
+   "country": "Pakistan",
+   "parent": "Pakistan",
+   "significance": "Formerly North-West Frontier Province."
+  },
+  {
+   "name": "Buner",
+   "type": "district",
+   "country": "Pakistan",
+   "parent": "Khyber Pakhtunkhwa",
+   "significance": "TTP controlled it in 2009, about 60 miles from Islamabad, triggering the Pakistani military operation."
+  },
+  {
+   "name": "Karachi",
+   "type": "city",
+   "country": "Pakistan",
+   "parent": "Sindh",
+   "significance": "A Washington Post estimate placed about a thousand al-Qaeda fighters there."
+  },
+  {
+   "name": "Peshawar",
+   "type": "city",
+   "country": "Pakistan",
+   "parent": "Khyber Pakhtunkhwa",
+   "significance": "Historical al-Qaeda location; madrasa/camp mentioned."
+  },
+  {
+   "name": "Quetta",
+   "type": "city",
+   "country": "Pakistan",
+   "parent": "Balochistan",
+   "significance": "Historical al-Qaeda location (transcribed 'Keta')."
+  },
+  {
+   "name": "Kashmir",
+   "type": "region",
+   "country": "India",
+   "parent": "India",
+   "significance": "Al-Qaeda and ISIS have small footprints; Pakistani state dials pressure up and down here."
+  },
+  {
+   "name": "Mumbai",
+   "type": "city",
+   "country": "India",
+   "parent": "India",
+   "significance": "2008 attacks; LeT/al-Qaeda overlap via Headley."
+  },
+  {
+   "name": "India",
+   "type": "country",
+   "country": "India",
+   "parent": "",
+   "significance": "Concerned mostly about Pakistani state-sponsored groups; further attacks are possible."
+  },
+  {
+   "name": "Bangladesh",
+   "type": "country",
+   "country": "Bangladesh",
+   "parent": "",
+   "significance": "AQ-linked Ansarullah Bangla Team and then ISIS attacks."
+  },
+  {
+   "name": "Burma (Myanmar)",
+   "type": "country",
+   "country": "Myanmar",
+   "parent": "",
+   "significance": "Al-Qaeda rhetoric about Rohingya, but little materialized."
+  },
+  {
+   "name": "Iran",
+   "type": "country",
+   "country": "Iran",
+   "parent": "",
+   "significance": "Hosts senior al-Qaeda leaders and a facilitation network; seen as untouchable."
+  },
+  {
+   "name": "Syria",
+   "type": "country",
+   "country": "Syria",
+   "parent": "",
+   "significance": "Three comrades released from Iran were killed there; Nusra Front."
+  },
+  {
+   "name": "Yemen",
+   "type": "country",
+   "country": "Yemen",
+   "parent": "",
+   "significance": "AQAP base; Iran and al-Qaeda are opposed there."
+  },
+  {
+   "name": "Islamabad",
+   "type": "city",
+   "country": "Pakistan",
+   "parent": "Pakistan",
+   "significance": "Pakistani capital; reference point for the TTP's 2009 advance."
+  },
+  {
+   "name": "Kurdistan",
+   "type": "region",
+   "country": "Iraq",
+   "parent": "",
+   "significance": "Yassin al-Suri's alleged origin"
+  },
+  {
+   "name": "Turkey",
+   "type": "country",
+   "country": "Turkey",
+   "parent": "",
+   "significance": "Al-Qaeda support networks"
+  },
+  {
+   "name": "Helmand",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Asim Umar killed in 2019"
+  },
+  {
+   "name": "Somalia",
+   "type": "country",
+   "country": "Somalia",
+   "parent": "",
+   "significance": "Shabaab base, controlling about 25% of territory per US Africa Command"
+  },
+  {
+   "name": "Iraq",
+   "type": "country",
+   "country": "Iraq",
+   "parent": "",
+   "significance": "Al-Qaeda's biggest loss; lost to ISIS"
+  },
+  {
+   "name": "Sinai",
+   "type": "region",
+   "country": "Egypt",
+   "parent": "Egypt",
+   "significance": "Al-Qaeda lost to ISIS"
+  },
+  {
+   "name": "Mali",
+   "type": "country",
+   "country": "Mali",
+   "parent": "",
+   "significance": "JNIM operations"
+  },
+  {
+   "name": "Libya",
+   "type": "country",
+   "country": "Libya",
+   "parent": "",
+   "significance": "Both ISIS and al-Qaeda hit, now underground"
+  },
+  {
+   "name": "Saudi Arabia",
+   "type": "country",
+   "country": "Saudi Arabia",
+   "parent": "",
+   "significance": "Hosted Zindani for meetings"
+  },
+  {
+   "name": "Pensacola",
+   "type": "city",
+   "country": "United States",
+   "parent": "Florida",
+   "significance": "Dec 2019 AQAP-linked attack at Naval Air Station"
+  },
+  {
+   "name": "Germany",
+   "type": "country",
+   "country": "Germany",
+   "parent": "",
+   "significance": "Where Zammar recruited 9/11 hijackers"
+  },
+  {
+   "name": "Southeast Asia",
+   "type": "region",
+   "country": "",
+   "parent": "",
+   "significance": "Former al-Qaeda theater (Indonesia, Philippines) lost to ISIS"
+  }
+ ],
+ "events": [
+  {
+   "date": "1998",
+   "date_precision": "year",
+   "type": "attack",
+   "description": "US embassy bombings, the biggest al-Qaeda attack before 9/11. EIJ operatives laid the groundwork, with Hezbollah and Iran assistance per the hosts.",
+   "place": "",
+   "actors": [
+    "al-Qaeda",
+    "Egyptian Islamic Jihad",
+    "Hezbollah",
+    "Iran"
+   ],
+   "timestamp": "05:03"
+  },
+  {
+   "date": "2008",
+   "date_precision": "year",
+   "type": "attack",
+   "description": "Mumbai attacks by Lashkar-e-Taiba; Headley did surveillance, later also for al-Qaeda plots.",
+   "place": "Mumbai",
+   "actors": [
+    "Lashkar-e-Taiba",
+    "David Headley"
+   ],
+   "timestamp": "30:35"
+  },
+  {
+   "date": "2009",
+   "date_precision": "year",
+   "type": "other",
+   "description": "TTP controls Buner, about 60 miles from Islamabad, prompting the Pakistani military offensive. Also Gen. Flynn's remark that the Haqqanis are a negotiable criminal group.",
+   "place": "Buner",
+   "actors": [
+    "Tehrik-e-Taliban Pakistan",
+    "Pakistani military and intelligence establishment",
+    "Michael Flynn"
+   ],
+   "timestamp": "23:20"
+  },
+  {
+   "date": "2011",
+   "date_precision": "year",
+   "type": "death",
+   "description": "Osama bin Laden killed in Abbottabad; Hafiz Saeed called him a martyr.",
+   "place": "Abbottabad",
+   "actors": [
+    "Osama bin Laden",
+    "Hafiz Saeed"
+   ],
+   "timestamp": "30:19"
+  },
+  {
+   "date": "2015",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Al-Qaeda kidnapped an Iranian diplomat; he was reportedly exchanged for al-Qaeda detainees in Iran. Three of them left and were killed in Syria; Saif al-Adel and Abu Muhammad al-Masri stayed.",
+   "place": "Iran",
+   "actors": [
+    "al-Qaeda",
+    "Iran",
+    "Saif al-Adel",
+    "Abu Muhammad al-Masri"
+   ],
+   "timestamp": "45:46"
+  },
+  {
+   "date": "2016",
+   "date_precision": "year",
+   "type": "designation",
+   "description": "US Treasury designated three senior al-Qaeda terrorists in Iran, including Abu Hamza al-Khalidi as head of al-Qaeda's military committee.",
+   "place": "Iran",
+   "actors": [
+    "US Treasury Department",
+    "Abu Hamza al-Khalidi"
+   ],
+   "timestamp": "47:11"
+  },
+  {
+   "date": "2019",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Hafiz Saeed convicted on terrorism financing charges, but not seriously jailed.",
+   "place": "Pakistan",
+   "actors": [
+    "Hafiz Saeed"
+   ],
+   "timestamp": "29:21"
+  },
+  {
+   "date": "2020-02-29",
+   "date_precision": "day",
+   "type": "agreement",
+   "description": "US-Taliban deal signed; US to close five bases and withdraw 4,000 troops within 135 days.",
+   "place": "Afghanistan",
+   "actors": [
+    "Taliban",
+    "US State Department"
+   ],
+   "timestamp": "35:06"
+  },
+  {
+   "date": "2020-07",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Gen. McKenzie says Zawahiri is in eastern Afghanistan.",
+   "place": "Eastern Afghanistan",
+   "actors": [
+    "Kenneth McKenzie",
+    "Ayman al-Zawahiri"
+   ],
+   "timestamp": "01:53"
+  },
+  {
+   "date": "2020",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Pakistan asked the UN to free up funds for about 50 known jihadists, including Hafiz Saeed.",
+   "place": "Pakistan",
+   "actors": [
+    "Pakistani military and intelligence establishment",
+    "Hafiz Saeed"
+   ],
+   "timestamp": "29:05"
+  },
+  {
+   "date": "approx 2015",
+   "date_precision": "approx",
+   "type": "raid",
+   "description": "US and Afghan forces raided two massive al-Qaeda training camps in Shorabak, Kandahar, forcing revision of the 50-100 estimate.",
+   "place": "Shorabak district, Kandahar",
+   "actors": [
+    "US military",
+    "al-Qaeda"
+   ],
+   "timestamp": "10:55"
+  },
+  {
+   "date": "approx 2016",
+   "date_precision": "approx",
+   "type": "designation",
+   "description": "Obama administration designations of three senior al-Qaeda figures in Iran, including Abu Hamza al-Khalidi as head of the military committee",
+   "place": "Iran",
+   "actors": [
+    "Abu Hamza al-Khalidi",
+    "US Government"
+   ],
+   "timestamp": "47:17"
+  },
+  {
+   "date": "2017",
+   "date_precision": "year",
+   "type": "death",
+   "description": "Abu al-Khayr al-Masri, Zawahiri's top deputy, killed in a US drone strike in Syria",
+   "place": "Syria",
+   "actors": [
+    "Abu al-Khayr al-Masri"
+   ],
+   "timestamp": "56:49"
+  },
+  {
+   "date": "2019",
+   "date_precision": "year",
+   "type": "death",
+   "description": "Asim Umar, AQIS emir, killed in Helmand along with his courier to Zawahiri",
+   "place": "Helmand",
+   "actors": [
+    "Asim Umar"
+   ],
+   "timestamp": "59:45"
+  },
+  {
+   "date": "2019-12",
+   "date_precision": "month",
+   "type": "attack",
+   "description": "AQAP-linked attack at Naval Air Station Pensacola by Saudi second lieutenant Mohammed al-Shamrani",
+   "place": "Pensacola",
+   "actors": [
+    "al-Qaeda in the Arabian Peninsula",
+    "Mohammed al-Shamrani"
+   ],
+   "timestamp": "78:03"
+  },
+  {
+   "date": "approx 2020",
+   "date_precision": "approx",
+   "type": "death",
+   "description": "Qasim al-Raymi, AQAP emir, recently killed in Yemen",
+   "place": "Yemen",
+   "actors": [
+    "Qasim al-Raymi"
+   ],
+   "timestamp": "66:20"
+  },
+  {
+   "date": "approx 2020",
+   "date_precision": "approx",
+   "type": "death",
+   "description": "Abdelmalek Droukdel killed in a French-led operation with US assistance",
+   "place": "North Africa",
+   "actors": [
+    "Abdelmalek Droukdel"
+   ],
+   "timestamp": "83:57"
+  },
+  {
+   "date": "approx 2020",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "State Department country reports on terrorism say al-Qaeda's facilitation network in Iran is still operating",
+   "place": "Iran",
+   "actors": [
+    "US State Department",
+    "al-Qaeda"
+   ],
+   "timestamp": "48:20"
+  },
+  {
+   "date": "2014",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "Baghdadi declares himself caliph in a video; hosts joke about the watch he wore.",
+   "place": "Mosul, Iraq",
+   "actors": [
+    "Abu Bakr al-Baghdadi"
+   ],
+   "timestamp": "93:39"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Ayman al-Zawahiri",
+   "target": "al-Qaeda",
+   "type": "leads",
+   "detail": "Zawahiri is al-Qaeda's current number one and still commands loyalty from branches.",
+   "date": "2020",
+   "confidence": "stated",
+   "timestamp": "04:15",
+   "quote": "Al-Qaeda's branches still exist and they still report to him"
+  },
+  {
+   "source": "Ayman al-Zawahiri",
+   "target": "Osama bin Laden",
+   "type": "deputy_of",
+   "detail": "Zawahiri started as al-Qaeda's number two under bin Laden.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "04:21",
+   "quote": "who started out as Al-Qaeda's number two and is now al-Qaeda's number one"
+  },
+  {
+   "source": "Ayman al-Zawahiri",
+   "target": "Egyptian Islamic Jihad",
+   "type": "leads",
+   "detail": "Zawahiri's EIJ operatives helped plan the 1998 embassy bombings and were tied to bin Laden early on.",
+   "date": "1990s",
+   "confidence": "stated",
+   "timestamp": "05:03",
+   "quote": "it was his Egyptian Islamic jihad operatives that really laid the groundwork"
+  },
+  {
+   "source": "Ayman al-Zawahiri",
+   "target": "Haqqani Network",
+   "type": "sheltered_by",
+   "detail": "Hosts say Zawahiri is very likely sheltered by the Haqqanis and other Taliban groups in eastern Afghanistan.",
+   "date": "2020",
+   "confidence": "inferred",
+   "timestamp": "07:38",
+   "quote": "Most likely the Akhanis, of course, and other Taliban groups."
+  },
+  {
+   "source": "Osama bin Laden",
+   "target": "Abbottabad",
+   "type": "located_in",
+   "detail": "Bin Laden sheltered in a compound in Abbottabad near Pakistan's military academy.",
+   "date": "until 2011",
+   "confidence": "stated",
+   "timestamp": "03:11",
+   "quote": "he, of course, was sheltering in a compound outside of Pakistan's"
+  },
+  {
+   "source": "Jalaluddin Haqqani",
+   "target": "Osama bin Laden",
+   "type": "other",
+   "detail": "Jalaluddin was one of bin Laden's earliest benefactors.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "16:00",
+   "quote": "one of Osama's earliest benefactors"
+  },
+  {
+   "source": "Sirajuddin Haqqani",
+   "target": "Jalaluddin Haqqani",
+   "type": "family",
+   "detail": "Sirajuddin is Jalaluddin's son.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "16:00",
+   "quote": "His son, Sir Judan Akhani"
+  },
+  {
+   "source": "Sirajuddin Haqqani",
+   "target": "Haqqani Network",
+   "type": "leads",
+   "detail": "Sirajuddin leads the Haqqani Network.",
+   "date": "2020",
+   "confidence": "stated",
+   "timestamp": "18:26",
+   "quote": "isn't just the leader of the Hikani Network"
+  },
+  {
+   "source": "Sirajuddin Haqqani",
+   "target": "Taliban",
+   "type": "deputy_of",
+   "detail": "He is one of two Taliban deputy leaders.",
+   "date": "2020",
+   "confidence": "stated",
+   "timestamp": "18:31",
+   "quote": "He's one of two deputy mayors for the Taliban."
+  },
+  {
+   "source": "Haqqani Network",
+   "target": "al-Qaeda",
+   "type": "allied_with",
+   "detail": "Haqqanis incubated al-Qaeda in eastern Afghanistan and remain allied.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "16:09",
+   "quote": "the Khanis incubated al-Qaeda in eastern Afghanistan originally"
+  },
+  {
+   "source": "Taliban",
+   "target": "al-Qaeda",
+   "type": "allied_with",
+   "detail": "Al-Qaeda fights under the Taliban banner; the Taliban deny its presence and report no raids on it.",
+   "date": "2020",
+   "confidence": "stated",
+   "timestamp": "14:19",
+   "quote": "al-Qaeda figured out a long time ago, if it just fights under the Taliban's banner"
+  },
+  {
+   "source": "Haqqani Network",
+   "target": "ISKP",
+   "type": "rival_of",
+   "detail": "The Haqqanis, Taliban and al-Qaeda have clashed with ISIS in eastern Afghanistan.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "39:46",
+   "quote": "leading the fight against the ISIS and eastern Afghanistan"
+  },
+  {
+   "source": "Michael Flynn",
+   "target": "Haqqani Network",
+   "type": "other",
+   "detail": "In 2009 Flynn described the Haqqanis as a criminal group that could be negotiated with, later backed off.",
+   "date": "2009",
+   "confidence": "stated",
+   "timestamp": "17:57",
+   "quote": "not just some criminal group as general, that can be negotiated"
+  },
+  {
+   "source": "Kenneth McKenzie",
+   "target": "US Central Command",
+   "type": "leads",
+   "detail": "McKenzie is the CENTCOM commander.",
+   "date": "2020",
+   "confidence": "stated",
+   "timestamp": "01:53",
+   "quote": "General McKenzie, the Sengom commander"
+  },
+  {
+   "source": "Hafiz Saeed",
+   "target": "Lashkar-e-Taiba",
+   "type": "leads",
+   "detail": "Saeed heads LeT/Jamaat-ud-Dawa and its charitable fronts from his home.",
+   "date": "2020",
+   "confidence": "stated",
+   "timestamp": "29:49",
+   "quote": "his home is a hub for Lashkar-Aid-Jisha or Jammat-Dawa"
+  },
+  {
+   "source": "Lashkar-e-Taiba",
+   "target": "Pakistani military and intelligence establishment",
+   "type": "funded_by",
+   "detail": "LeT is a state-sponsored group, which Pakistan sought UN funds for.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "30:48",
+   "quote": "a Pakistani state in bed with Lashkar-a-Taibe"
+  },
+  {
+   "source": "Lashkar-e-Taiba",
+   "target": "al-Qaeda",
+   "type": "allied_with",
+   "detail": "Part of LeT is wedded to al-Qaeda, with overlap going back to Mumbai.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "25:56",
+   "quote": "part of Lashkar-I-Tiba has been wedded to al-Qaeda"
+  },
+  {
+   "source": "David Headley",
+   "target": "Lashkar-e-Taiba",
+   "type": "member_of",
+   "detail": "Headley conducted surveillance for the Mumbai attacks.",
+   "date": "2008",
+   "confidence": "stated",
+   "timestamp": "30:35",
+   "quote": "did the surveillance work for the Mumbai attacks"
+  },
+  {
+   "source": "David Headley",
+   "target": "al-Qaeda",
+   "type": "allied_with",
+   "detail": "Headley also did surveillance for al-Qaeda in Denmark.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "30:35",
+   "quote": "surveillance also for Al-Qaeda and Denmark"
+  },
+  {
+   "source": "Abu Firas al-Suri",
+   "target": "Osama bin Laden",
+   "type": "other",
+   "detail": "Claimed to have helped bin Laden establish Lashkar-e-Taiba.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "26:15",
+   "quote": "he helped bin Laden establish Lashkaritaiba"
+  },
+  {
+   "source": "Zakir Musa",
+   "target": "al-Qaeda",
+   "type": "member_of",
+   "detail": "Was al-Qaeda's guy in Kashmir for a time; has been killed.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "31:33",
+   "quote": "secure Musa was their guy for a time"
+  },
+  {
+   "source": "Khalid Batarfi",
+   "target": "al-Qaeda in the Arabian Peninsula",
+   "type": "leads",
+   "detail": "Batarfi is the current leader of AQAP and called for jihad in Burma.",
+   "date": "2020",
+   "confidence": "stated",
+   "timestamp": "44:16",
+   "quote": "the current leader of AQAWP, Halibbuttarfi"
+  },
+  {
+   "source": "Abu Hamza al-Khalidi",
+   "target": "al-Qaeda military committee",
+   "type": "leads",
+   "detail": "Designated as head of al-Qaeda's military committee while in Iran.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "47:39",
+   "quote": "the Obama administration identified him as the head of al-Qaeda's military committee"
+  },
+  {
+   "source": "Abu Hamza al-Khalidi",
+   "target": "Tehrik-e-Taliban Pakistan",
+   "type": "allied_with",
+   "detail": "Worked with al-Qaeda-affiliated groups including the Pakistan Taliban.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "47:33",
+   "quote": "He's worked with other al-Qaeda groups and other al-Qaeda affiliated groups, including the Pakistan Taliban"
+  },
+  {
+   "source": "Abu Hamza al-Khalidi",
+   "target": "Iran",
+   "type": "sheltered_by",
+   "detail": "He operates from inside Iran leading al-Qaeda military affairs.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "47:46",
+   "quote": "he was inside Iran leading their military affairs"
+  },
+  {
+   "source": "Yasin al-Suri",
+   "target": "al-Qaeda",
+   "type": "leads",
+   "detail": "Initially headed al-Qaeda's facilitation network in Iran.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "48:03",
+   "quote": "initially head by a guy known as Yassin al-Suri"
+  },
+  {
+   "source": "al-Qaeda",
+   "target": "Iran",
+   "type": "sheltered_by",
+   "detail": "An agreement allows al-Qaeda a facilitation network and leaders to operate in Iran.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "48:01",
+   "quote": "a network that was part of an agreement between al-Qaeda and Iran"
+  },
+  {
+   "source": "Saif al-Adel",
+   "target": "Iran",
+   "type": "sheltered_by",
+   "detail": "Remained in Iran after release from Iranian custody; still alive.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "54:11",
+   "quote": "Saif al-Adel and Abu Muhammad al-Masri, are still alive to this day and in Iran"
+  },
+  {
+   "source": "Abu Muhammad al-Masri",
+   "target": "Iran",
+   "type": "sheltered_by",
+   "detail": "Alive and in Iran.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "54:11",
+   "quote": "are still alive to this day and in Iran, interestingly enough"
+  },
+  {
+   "source": "Saif al-Adel",
+   "target": "Ayman al-Zawahiri",
+   "type": "other",
+   "detail": "On the succession line to Zawahiri and reportedly playing a role in managing al-Qaeda.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "54:02",
+   "quote": "zawahiri dies next up on the list would be this guy and then this guy"
+  },
+  {
+   "source": "Abu al-Khayr al-Masri",
+   "target": "Ayman al-Zawahiri",
+   "type": "deputy_of",
+   "detail": "Top deputy at the time, based in Syria.",
+   "date": "2017",
+   "confidence": "stated",
+   "timestamp": "56:54",
+   "quote": "He was the top deputy Iman Al-Zawahiri at the time"
+  },
+  {
+   "source": "Nasir al-Wuhayshi",
+   "target": "Ayman al-Zawahiri",
+   "type": "deputy_of",
+   "detail": "Was AQAP emir, al-Qaeda deputy emir and general manager.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "57:04",
+   "quote": "he was the deputy emir of Al-Qaeda and also at one point in time, so-called general manager"
+  },
+  {
+   "source": "Nasir al-Wuhayshi",
+   "target": "al-Qaeda in the Arabian Peninsula",
+   "type": "leads",
+   "detail": "Former emir of AQAP.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "57:02",
+   "quote": "Nasir al-Wuhayshi was the Emir of AQAP"
+  },
+  {
+   "source": "Abdelmalek Droukdel",
+   "target": "Ayman al-Zawahiri",
+   "type": "deputy_of",
+   "detail": "French government says he was Zawahiri's second deputy.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "84:01",
+   "quote": "he was the second deputy of Zawahiri and part of the al-Qaeda senior management team"
+  },
+  {
+   "source": "Abdelmalek Droukdel",
+   "target": "al-Qaeda in the Islamic Maghreb",
+   "type": "leads",
+   "detail": "Emir of AQIM.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "84:06",
+   "quote": "he was not just the mirror of this regional branch of al-Qaeda, an AQIM"
+  },
+  {
+   "source": "Asim Umar",
+   "target": "Ayman al-Zawahiri",
+   "type": "reports_to",
+   "detail": "Had a courier with direct communication to Zawahiri.",
+   "date": "2019",
+   "confidence": "stated",
+   "timestamp": "59:52",
+   "quote": "His courier to Zawahiri, he was killed alongside him. He's in direct communication with Zawahiri"
+  },
+  {
+   "source": "Khalid Batarfi",
+   "target": "Qasim al-Raymi",
+   "type": "succeeded",
+   "detail": "Batarfi became AQAP emir after Raymi was killed.",
+   "date": "2020",
+   "confidence": "stated",
+   "timestamp": "78:45",
+   "quote": "Haleh Batarfi... its senior leader now"
+  },
+  {
+   "source": "Khalid Batarfi",
+   "target": "al-Qaeda in the Arabian Peninsula",
+   "type": "leads",
+   "detail": "AQAP leader and part of AQ senior management.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "78:52",
+   "quote": "He's not just AQAP's leader. He's part of AQ's senior management"
+  },
+  {
+   "source": "Ahmed Diriye",
+   "target": "al-Shabaab",
+   "type": "leads",
+   "detail": "Emir of Shabaab.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "82:18",
+   "quote": "the emir of Shabab, Abu Abedah"
+  },
+  {
+   "source": "Ahmed Abdi Godane",
+   "target": "al-Shabaab",
+   "type": "leads",
+   "detail": "Past emir of Shabaab.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "83:07",
+   "quote": "Zubair, their past Amir, was a key player within Shabab"
+  },
+  {
+   "source": "Ali Mohamud Rage",
+   "target": "Ayman al-Zawahiri",
+   "type": "allied_with",
+   "detail": "Shabaab spokesman openly pledges undying allegiance to Zawahiri.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "83:16",
+   "quote": "he's openly pronouncing their undying allegiance to Zawahiri"
+  },
+  {
+   "source": "Abu Muhammad al-Jolani",
+   "target": "Hayat Tahrir al-Sham",
+   "type": "leads",
+   "detail": "Leads HTS.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "74:49",
+   "quote": "Abu Muhammad al-Jalani, who leads HDS"
+  },
+  {
+   "source": "Abu Muhammad al-Jolani",
+   "target": "Ayman al-Zawahiri",
+   "type": "reports_to",
+   "detail": "Previously held a formal bayah to Zawahiri as al-Qaeda's regional emir; the relationship is strained and murky.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "74:54",
+   "quote": "He did have an overt allegiance or Bayat to Imal Zahouhiri"
+  },
+  {
+   "source": "Ayman al-Zawahiri",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "CENTCOM commander McKenzie said Zawahiri is in eastern Afghanistan.",
+   "date": "2020-07",
+   "confidence": "stated",
+   "timestamp": "01:53",
+   "quote": "General McKenzie, the Sengom commander... Zawahiri is in eastern Afghanistan"
+  },
+  {
+   "source": "al-Qaeda",
+   "target": "Afghanistan",
+   "type": "located_in",
+   "detail": "UN reporting: al-Qaeda clandestinely operating in at least 12 provinces.",
+   "date": "2020",
+   "confidence": "stated",
+   "timestamp": "15:39",
+   "quote": "UN reporting is suggested that the Al-Qaeda is actually clandestinely operating in at least 12 different provinces"
+  },
+  {
+   "source": "al-Qaeda",
+   "target": "Haqqani Network",
+   "type": "allied_with",
+   "detail": "AQ survived the war through its strong alliance with the Haqqani Network.",
+   "date": "2020",
+   "confidence": "stated",
+   "timestamp": "15:52",
+   "quote": "one of the reasons why Al Qaeda has been able to survive this war has been its strong alliance in relationship with the Akhanis, the Akani network"
+  }
+ ],
+ "sources_cited": [
+  "Gen. McKenzie's July 2020 remarks that Zawahiri is in eastern Afghanistan",
+  "UN Monitoring Team reporting on al-Qaeda in 12 Afghan provinces",
+  "US Treasury 2016 designations of al-Qaeda figures in Iran (Abu Hamza al-Khalidi et al.)",
+  "State Department Country Reports on Terrorism",
+  "Bin Laden files (Abbottabad documents)",
+  "French government statement on Droukdel's killing",
+  "US-Taliban agreement of 29 Feb 2020",
+  "9/11 Commission report"
+ ],
+ "key_claims": [
+  "Al-Qaeda in 2020 is alive but misunderstood: its emir Zawahiri is in eastern Afghanistan per CENTCOM and the UN says AQ operates clandestinely in at least 12 Afghan provinces.",
+  "Al-Qaeda survived the war through its alliance with the Haqqani Network, whose founder Jalaluddin Haqqani was one of bin Laden's earliest benefactors and whose current leader Sirajuddin Haqqani is a Taliban deputy emir.",
+  "Al-Qaeda's senior leadership is partly based in Iran under a standing arrangement: Saif al-Adel and Abu Muhammad al-Masri live there and sit on the succession chain, and Abu Hamza al-Khalidi ran AQ's military committee from Iran.",
+  "Al-Qaeda's regional branches (AQAP, AQIM, Shabaab, AQIS, Hurras al-Din) remain loyal to Zawahiri and their emirs double as AQ deputies/general managers, so the core-vs-branch distinction is misleading.",
+  "Pakistan's state is 'in bed' with Lashkar-e-Taiba and tolerates Hafiz Saeed; parts of LeT have long been wedded to al-Qaeda.",
+  "Successive leadership losses (Abu al-Khayr al-Masri, Wuhayshi, Droukdel, Asim Umar, Raymi) have not collapsed the organization because replacements were pre-positioned."
+ ]
+}

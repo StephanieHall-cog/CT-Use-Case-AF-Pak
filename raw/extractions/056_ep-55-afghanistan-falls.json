@@ -1,0 +1,1365 @@
+{
+ "episode": {
+  "idx": 56,
+  "title": "Ep. 55 - Afghanistan Falls",
+  "published": "Mon, 16 Aug 2021 22:40:40 +0000",
+  "guid": "80c639f4-ccde-447e-bcb3-3f3ab8824666"
+ },
+ "persons": [
+  {
+   "name": "Osama bin Laden",
+   "aliases": [
+    "bin Laden",
+    "Osama and Laden"
+   ],
+   "role": "al-Qaeda founder and emir",
+   "organizations": [
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "dead",
+   "status_detail": "Killed in the US raid in 2011; the hosts say he did not live an additional 10 years after Tora Bora and credit Obama with bringing him to justice",
+   "family": [],
+   "locations": [
+    "Tora Bora",
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "05:28",
+     "quote": "President Bill Clinton at the time passed up numerous opportunities to potentially kill Osama bin Laden"
+    },
+    {
+     "timestamp": "06:32",
+     "quote": "When bin Laden was surrounded in Tora Bora, you needed everything there"
+    },
+    {
+     "timestamp": "08:24",
+     "quote": "One of those files from mid-2010... recounts to bin Laden from Atiyah..."
+    }
+   ]
+  },
+  {
+   "name": "Ayman al-Zawahiri",
+   "aliases": [
+    "Al-Zawahiri"
+   ],
+   "role": "al-Qaeda emir (successor to bin Laden)",
+   "organizations": [
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Egyptian",
+   "status": "unknown",
+   "status_detail": "Hosts say 'for all we know' he is still alive and in charge of al-Qaeda, and has led it for a decade since bin Laden's death",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "09:23",
+     "quote": "not just bin Laden, but Zawahiri, who for all we know is still alive and in charge of Al-Qaeda to this day"
+    }
+   ]
+  },
+  {
+   "name": "Atiyah Abd al-Rahman",
+   "aliases": [
+    "Atiyadhman"
+   ],
+   "role": "bin Laden's lead lieutenant (as of mid-2010 files)",
+   "organizations": [
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Libyan",
+   "status": "unknown",
+   "status_detail": "Fate not discussed in this chunk",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "08:24",
+     "quote": "recounts to bin Laden from Atiyadhman, his lead lieutenant, that in fact, al-Qaeda had very strong military activity across eight provinces of Afghanistan"
+    }
+   ]
+  },
+  {
+   "name": "Mullah Omar",
+   "aliases": [
+    "Mul Omar",
+    "Mulamar",
+    "Mullah Mohammad Omar"
+   ],
+   "role": "Taliban founder and leader of the Islamic Emirate of Afghanistan",
+   "organizations": [
+    "Taliban",
+    "Islamic Emirate of Afghanistan"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "dead",
+   "status_detail": "Died of natural causes sometime in 2013 in mysterious circumstances",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "09:37",
+     "quote": "Mullah Omar, who defied America... said he wasn't going to turn over Osama bin Laden, he walked and he died of natural causes sometime in 2013"
+    }
+   ]
+  },
+  {
+   "name": "Bill Clinton",
+   "aliases": [
+    "President Clinton"
+   ],
+   "role": "US President in the 1990s",
+   "organizations": [
+    "US government"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [
+    {
+     "relation": "wife",
+     "name": "Hillary Clinton"
+    }
+   ],
+   "locations": [
+    "United States"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "05:28",
+     "quote": "President Bill Clinton at the time passed up numerous opportunities to potentially kill Osama bin Laden"
+    }
+   ]
+  },
+  {
+   "name": "George W. Bush",
+   "aliases": [
+    "President Bush"
+   ],
+   "role": "US President 2001-2009",
+   "organizations": [
+    "US government"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan",
+    "Iraq"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "05:56",
+     "quote": "President George W. Bush and his Secretary of Defense, Donald Rumsfeld"
+    },
+    {
+     "timestamp": "08:10",
+     "quote": "The Bush administration failed, and they walked"
+    }
+   ]
+  },
+  {
+   "name": "Donald Rumsfeld",
+   "aliases": [
+    "Secretary Rumsfeld"
+   ],
+   "role": "US Secretary of Defense under Bush",
+   "organizations": [
+    "US government",
+    "US Department of Defense"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "07:15",
+     "quote": "Secretary of Rumsfeld wrote a note, one of his snowflakes... worried about occupying eastern Afghanistan like the Soviets did"
+    }
+   ]
+  },
+  {
+   "name": "Barack Obama",
+   "aliases": [
+    "President Obama"
+   ],
+   "role": "US President 2009-2017",
+   "organizations": [
+    "US government"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan",
+    "Iraq"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "11:10",
+     "quote": "Now, let's go to President Obama"
+    },
+    {
+     "timestamp": "12:06",
+     "quote": "President Barack Obama says he's going to stand up this force"
+    },
+    {
+     "timestamp": "17:34",
+     "quote": "President Obama orders the raid..."
+    }
+   ]
+  },
+  {
+   "name": "Donald Trump",
+   "aliases": [
+    "President Trump"
+   ],
+   "role": "US President 2017-2021",
+   "organizations": [
+    "US government",
+    "US Government"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan",
+    "Camp David"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "18:22",
+     "quote": "Then you get to President Trump now. He comes into office in 2017"
+    },
+    {
+     "timestamp": "21:32",
+     "quote": "a guy who wanted to invite the Taliban to Camp David"
+    },
+    {
+     "timestamp": "31:39",
+     "quote": "President Trump then is drawing down. He leaves him with 2,500 troops"
+    },
+    {
+     "timestamp": "34:03",
+     "quote": "Trump and his Secretary of State Pompeo had vouched for the freaking Taliban as America's counterterrorism partner"
+    }
+   ]
+  },
+  {
+   "name": "Joe Biden",
+   "aliases": [
+    "President Biden"
+   ],
+   "role": "US President (2021)",
+   "organizations": [
+    "US government",
+    "US Government"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "24:49",
+     "quote": "President Biden claimed there were 300,000 Afghan personnel, members of the ANDSF on July 8th"
+    },
+    {
+     "timestamp": "24:49",
+     "quote": "President Biden claimed there were 300,000 Afghan personnel"
+    },
+    {
+     "timestamp": "31:39",
+     "quote": "that's the hand that President Biden inherits"
+    }
+   ]
+  },
+  {
+   "name": "Mike Pompeo",
+   "aliases": [
+    "Secretary of State Pompeo",
+    "Pompeo"
+   ],
+   "role": "US Secretary of State under Trump",
+   "organizations": [
+    "US government",
+    "US Department of State",
+    "US Government"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "19:41",
+     "quote": "he and his advisors, including Secretary of State Mike Pompeo, decide to pick up this track"
+    },
+    {
+     "timestamp": "21:43",
+     "quote": "Secretary of State Mike Pompeo said that the Taliban was now going to work with us to... destroy al-Qaeda"
+    },
+    {
+     "timestamp": "34:03",
+     "quote": "Secretary of State Pompeo had vouched for the freaking Taliban as America's counterterrorism partner"
+    }
+   ]
+  },
+  {
+   "name": "Hillary Clinton",
+   "aliases": [],
+   "role": "US Secretary of State under Obama",
+   "organizations": [
+    "US government",
+    "US Department of State"
+   ],
+   "nationality_or_origin": "American",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [
+    {
+     "relation": "husband",
+     "name": "Bill Clinton"
+    }
+   ],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "19:46",
+     "quote": "laid by the Obama administration by the then Secretary of State Hillary Clinton"
+    }
+   ]
+  },
+  {
+   "name": "Zalmay Khalilzad",
+   "aliases": [
+    "Zalmei Kalilazad",
+    "Kalilazad"
+   ],
+   "role": "US special representative for Afghanistan reconciliation; lead negotiator with the Taliban",
+   "organizations": [
+    "US government",
+    "US Department of State"
+   ],
+   "nationality_or_origin": "Afghan-American",
+   "status": "alive",
+   "status_detail": "Hosts call for investigation of his conduct over the last three years",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "20:08",
+     "quote": "they appoint special representative Zalmay Khalilzad in charge in negotiations"
+    },
+    {
+     "timestamp": "20:29",
+     "quote": "it's obvious that he was not working in the cause of peace"
+    }
+   ]
+  },
+  {
+   "name": "Mark Milley",
+   "aliases": [
+    "Mark Millie",
+    "General Millie",
+    "General Mark Millie"
+   ],
+   "role": "Chairman of the Joint Chiefs of Staff",
+   "organizations": [
+    "US military",
+    "US Department of Defense"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "24:40",
+     "quote": "the chairman of the Joint Chiefs and Staff, General Mark Millie"
+    },
+    {
+     "timestamp": "25:00",
+     "quote": "What General Mark Millie said was that they had the capacity to defend their country"
+    },
+    {
+     "timestamp": "24:40",
+     "quote": "the chairman of the Joint Chiefs and Staff, General Mark Millie, claimed that there were 300,000 Afghan personnel"
+    }
+   ]
+  },
+  {
+   "name": "Joseph Dunford",
+   "aliases": [
+    "General Dunford"
+   ],
+   "role": "Former US commander in Afghanistan and later Chairman of the Joint Chiefs",
+   "organizations": [
+    "US military",
+    "US Military"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "16:00",
+     "quote": "This is General Dunford told this"
+    },
+    {
+     "timestamp": "38:23",
+     "quote": "General Dunford, who the Taliban openly mocks as a loser"
+    }
+   ]
+  },
+  {
+   "name": "John Nicholson",
+   "aliases": [
+    "General Nicholson"
+   ],
+   "role": "Former US commander in Afghanistan",
+   "organizations": [
+    "US military",
+    "US Army"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "16:01",
+     "quote": "And then General Nicholson and General Miller"
+    },
+    {
+     "timestamp": "37:42",
+     "quote": "His predecessor, General Nicholson, on his retirement speech, said that this war needs to end"
+    }
+   ]
+  },
+  {
+   "name": "Austin Scott Miller",
+   "aliases": [
+    "General Miller"
+   ],
+   "role": "Former US commander in Afghanistan",
+   "organizations": [
+    "US military",
+    "US Army",
+    "NATO"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "16:01",
+     "quote": "General Nicholson and General Miller. They've told us about the reliability and strength"
+    },
+    {
+     "timestamp": "37:42",
+     "quote": "General Austin Scott Miller, he was one of the last commanding general over U.S. forces Afghanistan and NATO"
+    }
+   ]
+  },
+  {
+   "name": "Steve Coll",
+   "aliases": [
+    "Steve Cole"
+   ],
+   "role": "Author of 'Directorate S'",
+   "organizations": [],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "14:47",
+     "quote": "The history is also in Steve Cole's Directorate S a little bit, although he's harsh on it"
+    }
+   ]
+  },
+  {
+   "name": "James Mattis",
+   "aliases": [
+    "Mattis"
+   ],
+   "role": "Former US Secretary of Defense",
+   "organizations": [
+    "US Department of Defense"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "38:33",
+     "quote": "General James Mattis... claimed there will be no military victory in Afghanistan"
+    }
+   ]
+  },
+  {
+   "name": "Hibatullah Akhundzada",
+   "aliases": [
+    "Halbutu Al-Qanzaa",
+    "Aqunzada"
+   ],
+   "role": "Head (emir) of the Taliban",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "38:47",
+     "quote": "the head of the Taliban put out a statement... Mattis claimed that Akhundzada had put forth a peace plan"
+    }
+   ]
+  },
+  {
+   "name": "David Petraeus",
+   "aliases": [
+    "General Petraeus"
+   ],
+   "role": "Former US general and CIA director",
+   "organizations": [
+    "US Military",
+    "CIA"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "39:27",
+     "quote": "General Petraeus saying on Fox News in 2009, Al-Qaeda is not operating in Afghanistan anymore"
+    }
+   ]
+  },
+  {
+   "name": "Sirajuddin Haqqani",
+   "aliases": [
+    "Sir Ajudan Haqani",
+    "Akani"
+   ],
+   "role": "Deputy leader (number two) of the Taliban",
+   "organizations": [
+    "Taliban",
+    "Haqqani Network",
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "39:52",
+     "quote": "Sirajuddin Haqqani is a strategic figure. He's the number two of the Taliban hierarchy. He's an al-Qaeda man."
+    }
+   ]
+  },
+  {
+   "name": "Leon Panetta",
+   "aliases": [
+    "Panetta"
+   ],
+   "role": "Former US Secretary of Defense",
+   "organizations": [
+    "US Department of Defense"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "40:45",
+     "quote": "Secretary of Defense Leon Panetta said that the reason the Taliban is killing Americans at insider attacks was evidence that the Taliban was desperate"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Taliban",
+   "aliases": [
+    "Islamic Emirate of Afghanistan"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda",
+    "Haqqani Network"
+   ],
+   "rivals": [
+    "Afghan government",
+    "ANDSF",
+    "United States"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Retook almost all of Afghanistan and took Kabul in August 2021; hosts say it is preparing to announce the resurrected Islamic Emirate."
+  },
+  {
+   "name": "al-Qaeda",
+   "aliases": [
+    "Al-Qaeda"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban",
+    "Haqqani Network"
+   ],
+   "rivals": [
+    "United States"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Streaming into Kabul alongside the Taliban; per bin Laden files it played a key role in the Taliban insurgency, with strong military activity across eight provinces in 2010."
+  },
+  {
+   "name": "Islamic Emirate of Afghanistan",
+   "aliases": [],
+   "type": "political movement",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Toppled in 2001; Taliban preparing to announce its restoration roughly 20 years later."
+  },
+  {
+   "name": "Afghan National Defense and Security Forces",
+   "aliases": [
+    "ANDSF",
+    "Afghan security forces",
+    "Afghan military"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "United States"
+   ],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Claimed at about 300,000 personnel (a 'paper army', ghost soldiers); collapsed in the 2021 Taliban offensive."
+  },
+  {
+   "name": "United States military",
+   "aliases": [
+    "US military",
+    "Pentagon"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "NATO"
+   ],
+   "rivals": [
+    "Taliban",
+    "al-Qaeda"
+   ],
+   "country_base": "United States",
+   "notes": "Criticised for training failures and for misleading assessments."
+  },
+  {
+   "name": "US Department of State",
+   "aliases": [
+    "State Department"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Went along with the Taliban peace process."
+  },
+  {
+   "name": "NATO",
+   "aliases": [],
+   "type": "international body",
+   "parent_or_allies": [
+    "United States"
+   ],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Declared end to combat operations in 2014 together with the US."
+  },
+  {
+   "name": "Foundation for Defense of Democracies",
+   "aliases": [
+    "FDD",
+    "Long War Journal"
+   ],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Host institution."
+  },
+  {
+   "name": "Haqqani Network",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban",
+    "al-Qaeda"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Led by Sirajuddin Haqqani; described as long in bed with al-Qaeda."
+  },
+  {
+   "name": "United States Department of Defense",
+   "aliases": [
+    "Pentagon"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Criticized for delusional assessments of Taliban and ANDSF."
+  },
+  {
+   "name": "CIA",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Reportedly warned Kabul could fall quickly."
+  },
+  {
+   "name": "Special Inspector General for Afghanistan Reconstruction",
+   "aliases": [
+    "SIGAR",
+    "specter in general for Afghan reconstruction"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Independent oversight body reporting to Congress."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Taliban retook nearly the whole country in August 2021."
+  },
+  {
+   "name": "Kabul",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Capital surrendered to the Taliban, which with allied jihadists including al-Qaeda is streaming in."
+  },
+  {
+   "name": "Tora Bora",
+   "type": "region",
+   "country": "Afghanistan",
+   "parent": "Nangarhar",
+   "significance": "December 2001 site where bin Laden was surrounded and the US failed to finish him."
+  },
+  {
+   "name": "Eastern Afghanistan",
+   "type": "region",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Rumsfeld worried about occupying it as the Soviets did."
+  },
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Hosts say there was never a plan to deal with Pakistan; Trump's 2017 get-tough policy was abandoned."
+  },
+  {
+   "name": "Iraq",
+   "type": "country",
+   "country": "Iraq",
+   "parent": "",
+   "significance": "Comparison for US failure to build militaries; Bush was distracted by Iraq."
+  },
+  {
+   "name": "Camp David",
+   "type": "base",
+   "country": "United States",
+   "parent": "Maryland",
+   "significance": "Trump wanted to invite the Taliban there."
+  }
+ ],
+ "events": [
+  {
+   "date": "2021-08-15",
+   "date_precision": "approx",
+   "type": "offensive",
+   "description": "Kabul surrenders to the Taliban; the Taliban and allied jihadists including al-Qaeda enter the capital and prepare to announce the restored Islamic Emirate.",
+   "place": "Kabul",
+   "actors": [
+    "Taliban",
+    "al-Qaeda"
+   ],
+   "timestamp": "00:59"
+  },
+  {
+   "date": "2001-12",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Bin Laden surrounded in Tora Bora; the US relied on outsourced forces and he escaped.",
+   "place": "Tora Bora",
+   "actors": [
+    "Osama bin Laden",
+    "George W. Bush",
+    "Donald Rumsfeld"
+   ],
+   "timestamp": "06:32"
+  },
+  {
+   "date": "2010",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "A bin Laden file from mid-2010 recounts Atiyah's report that al-Qaeda had strong military activity across eight Afghan provinces.",
+   "place": "Afghanistan",
+   "actors": [
+    "Atiyah Abd al-Rahman",
+    "Osama bin Laden",
+    "al-Qaeda"
+   ],
+   "timestamp": "08:24"
+  },
+  {
+   "date": "2013",
+   "date_precision": "year",
+   "type": "death",
+   "description": "Mullah Omar dies of natural causes in mysterious circumstances.",
+   "place": "",
+   "actors": [
+    "Mullah Omar"
+   ],
+   "timestamp": "09:46"
+  },
+  {
+   "date": "2011",
+   "date_precision": "year",
+   "type": "strike",
+   "description": "US raid kills bin Laden.",
+   "place": "",
+   "actors": [
+    "Barack Obama",
+    "Osama bin Laden"
+   ],
+   "timestamp": "10:42"
+  },
+  {
+   "date": "2009-12",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Obama speech announcing an 18-month surge to build up Afghan capacity.",
+   "place": "Afghanistan",
+   "actors": [
+    "Barack Obama"
+   ],
+   "timestamp": "11:33"
+  },
+  {
+   "date": "2013",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "US walks away from peace talks with the Taliban.",
+   "place": "",
+   "actors": [
+    "Barack Obama",
+    "Taliban"
+   ],
+   "timestamp": "15:36"
+  },
+  {
+   "date": "2014",
+   "date_precision": "year",
+   "type": "statement",
+   "description": "US and NATO declare end to combat operations, called a 'big lie' by Roggio.",
+   "place": "Afghanistan",
+   "actors": [
+    "NATO",
+    "United States"
+   ],
+   "timestamp": "15:40"
+  },
+  {
+   "date": "2017-08",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Trump reluctantly signs off on a strategy to achieve 'victory' in Afghanistan, including a modest troop increase and getting tough on Pakistan.",
+   "place": "Afghanistan",
+   "actors": [
+    "Donald Trump"
+   ],
+   "timestamp": "18:39"
+  },
+  {
+   "date": "2018",
+   "date_precision": "year",
+   "type": "agreement",
+   "description": "Trump administration abandons the 2017 strategy and begins negotiations with the Taliban, led by Khalilzad.",
+   "place": "",
+   "actors": [
+    "Donald Trump",
+    "Mike Pompeo",
+    "Zalmay Khalilzad",
+    "Taliban"
+   ],
+   "timestamp": "19:41"
+  },
+  {
+   "date": "2020-02",
+   "date_precision": "month",
+   "type": "agreement",
+   "description": "US-Taliban withdrawal deal dressed up as a peace deal.",
+   "place": "",
+   "actors": [
+    "United States",
+    "Taliban"
+   ],
+   "timestamp": "22:31"
+  },
+  {
+   "date": "2021-05",
+   "date_precision": "month",
+   "type": "offensive",
+   "description": "Taliban launches its offensive, taking districts, then provincial capitals; Afghan forces collapse.",
+   "place": "Afghanistan",
+   "actors": [
+    "Taliban",
+    "Afghan National Defense and Security Forces"
+   ],
+   "timestamp": "16:36"
+  },
+  {
+   "date": "2021-07-08",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Biden claims about 300,000 ANDSF personnel capable of defending the country.",
+   "place": "",
+   "actors": [
+    "Joe Biden"
+   ],
+   "timestamp": "24:49"
+  },
+  {
+   "date": "2021-07",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "Gen. Milley says Afghan forces had the capacity to defend their country, weeks before the collapse.",
+   "place": "",
+   "actors": [
+    "Mark Milley"
+   ],
+   "timestamp": "25:05"
+  },
+  {
+   "date": "2020-02",
+   "date_precision": "month",
+   "type": "agreement",
+   "description": "US-Taliban deal signed with a May 1 withdrawal deadline and weak counterterrorism provisions.",
+   "place": "",
+   "actors": [
+    "Taliban",
+    "United States",
+    "Donald Trump"
+   ],
+   "timestamp": "33:55"
+  },
+  {
+   "date": "2021-07-08",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "Biden claimed 300,000 ANDSF personnel were capable of defending the country.",
+   "place": "",
+   "actors": [
+    "Joe Biden"
+   ],
+   "timestamp": "24:52"
+  },
+  {
+   "date": "2021-07",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "Milley said in late July that the Afghans had the capacity to defend their country.",
+   "place": "",
+   "actors": [
+    "Mark Milley"
+   ],
+   "timestamp": "25:05"
+  },
+  {
+   "date": "2021-08",
+   "date_precision": "approx",
+   "type": "offensive",
+   "description": "Taliban offensive collapses Afghan government; Kabul falls; chaotic scenes at Kabul airport.",
+   "place": "Kabul",
+   "actors": [
+    "Taliban"
+   ],
+   "timestamp": "35:37"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Taliban",
+   "target": "al-Qaeda",
+   "type": "allied_with",
+   "detail": "Taliban and allied jihadists including al-Qaeda are streaming into Kabul.",
+   "date": "2021-08",
+   "confidence": "stated",
+   "timestamp": "00:59",
+   "quote": "The Taliban and its allied jihadists, including al-Qaeda, are streaming into the capital"
+  },
+  {
+   "source": "al-Qaeda",
+   "target": "Taliban",
+   "type": "allied_with",
+   "detail": "Bin Laden files show al-Qaeda played a big role in helping the Taliban make a comeback and launch its insurgency.",
+   "date": "2010",
+   "confidence": "stated",
+   "timestamp": "08:52",
+   "quote": "al-Qaeda had actually played a big role in helping the Taliban make a comeback and launch this insurgency"
+  },
+  {
+   "source": "Atiyah Abd al-Rahman",
+   "target": "Osama bin Laden",
+   "type": "reports_to",
+   "detail": "Atiyah was bin Laden's lead lieutenant, reporting on al-Qaeda activity in Afghanistan.",
+   "date": "2010",
+   "confidence": "stated",
+   "timestamp": "08:24",
+   "quote": "recounts to bin Laden from Atiyadhman, his lead lieutenant"
+  },
+  {
+   "source": "Atiyah Abd al-Rahman",
+   "target": "al-Qaeda",
+   "type": "member_of",
+   "detail": "Senior al-Qaeda figure.",
+   "date": "2010",
+   "confidence": "inferred",
+   "timestamp": "08:24",
+   "quote": "Atiyadhman, his lead lieutenant, that in fact, al-Qaeda had very strong military activity"
+  },
+  {
+   "source": "Osama bin Laden",
+   "target": "al-Qaeda",
+   "type": "leads",
+   "detail": "Bin Laden led al-Qaeda; thousands swore allegiance to him.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "09:07",
+   "quote": "thousands of fighters elsewhere... swore their lead in Osama bin Laden"
+  },
+  {
+   "source": "Ayman al-Zawahiri",
+   "target": "Osama bin Laden",
+   "type": "succeeded",
+   "detail": "Zawahiri has led al-Qaeda for a decade after bin Laden's death.",
+   "date": "2011",
+   "confidence": "stated",
+   "timestamp": "09:27",
+   "quote": "he's been leading al-Qaeda for a decade after bin Laden's death"
+  },
+  {
+   "source": "Ayman al-Zawahiri",
+   "target": "al-Qaeda",
+   "type": "leads",
+   "detail": "Believed still alive and in charge.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "09:23",
+   "quote": "still alive and in charge of Al-Qaeda to this day"
+  },
+  {
+   "source": "Mullah Omar",
+   "target": "Taliban",
+   "type": "leads",
+   "detail": "Led the Taliban regime that refused to hand over bin Laden.",
+   "date": "2001",
+   "confidence": "stated",
+   "timestamp": "09:42",
+   "quote": "Mullah Omar who defied America and said he wasn't going to turn over Osama bin Laden"
+  },
+  {
+   "source": "Osama bin Laden",
+   "target": "Mullah Omar",
+   "type": "sheltered_by",
+   "detail": "Omar refused to turn over bin Laden to America (i.e. protected him).",
+   "date": "2001",
+   "confidence": "inferred",
+   "timestamp": "09:42",
+   "quote": "he wasn't going to turn over Osama and Laden"
+  },
+  {
+   "source": "Bill Clinton",
+   "target": "Osama bin Laden",
+   "type": "other",
+   "detail": "Clinton passed up numerous opportunities to kill bin Laden in the 1990s.",
+   "date": "1990s",
+   "confidence": "stated",
+   "timestamp": "05:28",
+   "quote": "passed up numerous opportunities to potentially kill Osama bin Laden"
+  },
+  {
+   "source": "Donald Rumsfeld",
+   "target": "George W. Bush",
+   "type": "reports_to",
+   "detail": "Rumsfeld was Bush's Secretary of Defense.",
+   "date": "2001",
+   "confidence": "stated",
+   "timestamp": "05:56",
+   "quote": "President George W. Bush and his Secretary of Defense, Donald Rumsfeld"
+  },
+  {
+   "source": "Barack Obama",
+   "target": "Osama bin Laden",
+   "type": "killed",
+   "detail": "Obama ordered the 2011 raid that brought bin Laden to justice.",
+   "date": "2011",
+   "confidence": "stated",
+   "timestamp": "18:00",
+   "quote": "bin Laden absolutely being brought to justice, as they would say, under Obama was a great thing"
+  },
+  {
+   "source": "Hillary Clinton",
+   "target": "Barack Obama",
+   "type": "reports_to",
+   "detail": "Secretary of State who laid the Taliban negotiation track.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "19:46",
+   "quote": "the then Secretary of State Hillary Clinton"
+  },
+  {
+   "source": "Mike Pompeo",
+   "target": "Donald Trump",
+   "type": "reports_to",
+   "detail": "Secretary of State under Trump.",
+   "date": "2018",
+   "confidence": "stated",
+   "timestamp": "19:41",
+   "quote": "he and his advisors, including Secretary of State Mike Pompeo"
+  },
+  {
+   "source": "Zalmay Khalilzad",
+   "target": "Taliban",
+   "type": "negotiated_with",
+   "detail": "US special representative leading negotiations with the Taliban from 2018.",
+   "date": "2018",
+   "confidence": "stated",
+   "timestamp": "20:08",
+   "quote": "they appoint special representative Zalmay Khalilzad in charge in negotiations"
+  },
+  {
+   "source": "Donald Trump",
+   "target": "Taliban",
+   "type": "negotiated_with",
+   "detail": "Trump administration pursued the peace process and wanted to invite the Taliban to Camp David.",
+   "date": "2018",
+   "confidence": "stated",
+   "timestamp": "21:32",
+   "quote": "a guy who wanted to invite the Taliban to Camp David"
+  },
+  {
+   "source": "Mike Pompeo",
+   "target": "Taliban",
+   "type": "other",
+   "detail": "Pompeo claimed the Taliban would work with the US to destroy al-Qaeda.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "21:43",
+   "quote": "the Taliban was now going to work with us to alongside America to hunt down and quote unquote destroy al-Qaeda"
+  },
+  {
+   "source": "Joe Biden",
+   "target": "Afghan National Defense and Security Forces",
+   "type": "other",
+   "detail": "Biden claimed 300,000 ANDSF personnel could defend the country.",
+   "date": "2021-07-08",
+   "confidence": "stated",
+   "timestamp": "24:49",
+   "quote": "President Biden claimed there were 300,000 Afghan personnel, members of the ANDSF"
+  },
+  {
+   "source": "Mark Milley",
+   "target": "Afghan National Defense and Security Forces",
+   "type": "other",
+   "detail": "Milley vouched that they had the capacity to defend the country.",
+   "date": "2021-07",
+   "confidence": "stated",
+   "timestamp": "25:00",
+   "quote": "What General Mark Millie said was that they had the capacity... to defend their country"
+  },
+  {
+   "source": "Taliban",
+   "target": "Afghan National Defense and Security Forces",
+   "type": "rival_of",
+   "detail": "Taliban defeated the ANDSF, which collapsed in the 2021 offensive.",
+   "date": "2021",
+   "confidence": "stated",
+   "timestamp": "16:42",
+   "quote": "the Afghan forces collapsed because of these years of failure"
+  },
+  {
+   "source": "Sirajuddin Haqqani",
+   "target": "Taliban",
+   "type": "deputy_of",
+   "detail": "Described as number two of the Taliban hierarchy.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "39:54",
+   "quote": "He's the number two of the Taliban hierarchy"
+  },
+  {
+   "source": "Sirajuddin Haqqani",
+   "target": "al-Qaeda",
+   "type": "allied_with",
+   "detail": "Hosts say Haqqani has been in bed with al-Qaeda for decades.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "40:01",
+   "quote": "The Akani's been in bed with al-Qaeda for decades"
+  },
+  {
+   "source": "Hibatullah Akhundzada",
+   "target": "Taliban",
+   "type": "leads",
+   "detail": "Head of the Taliban.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "38:47",
+   "quote": "the head of the Taliban put out a statement"
+  },
+  {
+   "source": "Austin Scott Miller",
+   "target": "John Nicholson",
+   "type": "succeeded",
+   "detail": "Miller succeeded Nicholson as commander in Afghanistan.",
+   "date": "2018",
+   "confidence": "stated",
+   "timestamp": "38:12",
+   "quote": "His predecessor, General Nicholson"
+  },
+  {
+   "source": "Donald Trump",
+   "target": "Taliban",
+   "type": "negotiated_with",
+   "detail": "Trump administration made the withdrawal deal with the Taliban.",
+   "date": "2020",
+   "confidence": "stated",
+   "timestamp": "31:43",
+   "quote": "They've got this servile deal that they did with the Taliban"
+  },
+  {
+   "source": "Mike Pompeo",
+   "target": "Donald Trump",
+   "type": "reports_to",
+   "detail": "Pompeo was Trump's Secretary of State.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "34:03",
+   "quote": "Trump and his Secretary of State Pompeo"
+  }
+ ],
+ "sources_cited": [
+  "9/11 Commission Report",
+  "Afghanistan Papers (Washington Post)",
+  "Bin Laden files (declassified Abbottabad documents, mid-2010 letter)",
+  "Steve Coll, Directorate S",
+  "Obama speech, December 2009",
+  "SIGAR reports",
+  "Wall Street Journal reporting on US military advice to keep 2,500-3,500 troops",
+  "Taliban/Akhundzada statement posted on Long War Journal"
+ ],
+ "key_claims": [
+  "The Taliban has retaken nearly all of Afghanistan and Kabul has surrendered, with al-Qaeda streaming in alongside it.",
+  "Al-Qaeda under bin Laden played a key role in forming the Taliban insurgency; bin Laden files (mid-2010) show strong al-Qaeda military activity across eight provinces, contradicting US claims of only 50-100 fighters.",
+  "The December 2001 failure to kill or capture bin Laden at Tora Bora by outsourcing the operation was a fatal strategic mistake.",
+  "The 2020 US-Taliban deal was a withdrawal deal dressed up as a peace process that undermined the Afghan government; Taliban district control grew about 80% between February 2020 and May 2021.",
+  "Afghan security forces collapsed due to years of failures; the 300,000 figure was a paper army with ghost soldiers, and US officials' timelines kept shrinking.",
+  "Successive US presidents from Clinton through Biden made decisions that contributed to the failure; the hosts call for accountability including investigating Khalilzad.",
+  "The jihadist threat has been boosted and a new generation of jihadis will emerge from the Taliban victory.",
+  "The Afghan security forces were defeated largely between Feb 2020 and May 2021 under the US-Taliban deal, and the collapse had been years in the making.",
+  "US leaders' claim of 300,000 capable ANDSF personnel was a paper number that ignored ghost soldiers and hollowing out.",
+  "The Taliban never intended a political settlement and the Taliban deal had no enforcement or verification mechanisms.",
+  "Sirajuddin Haqqani, the Taliban's number two, is an al-Qaeda man, so Taliban victory is an al-Qaeda victory.",
+  "The hosts predict an al-Qaeda moment in Afghanistan where it makes its role clearer.",
+  "US officials and generals persistently misread the Taliban and al-Qaeda relationship, from Mattis to Petraeus to Panetta."
+ ]
+}

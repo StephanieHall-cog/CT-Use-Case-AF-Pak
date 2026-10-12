@@ -1,0 +1,1081 @@
+{
+ "episode": {
+  "idx": 101,
+  "title": "Ep. 100 — Squad Pops Off on Mali",
+  "published": "Wed, 27 Sep 2023 02:00:00 +0000",
+  "guid": "5b2c8656-a37f-4584-b9ba-139a7e6620ae"
+ },
+ "persons": [
+  {
+   "name": "Iyad ag Ghali",
+   "aliases": [
+    "Ieda Gali",
+    "Iyad Ag Ghaly"
+   ],
+   "role": "Leader of Ansar Dine (2012) and now emir of JNIM, 'al-Qaeda's man in the Sahel'; from a notable Tuareg (Ifoghas) clan",
+   "organizations": [
+    "JNIM",
+    "Ansar Dine",
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Malian (Tuareg)",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Mali"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "17:57",
+     "quote": "the leader of Anzardine, Ieda Gali, who is from a notable Poirot-Tlaan, who is also the leader of J&I am now. Al-Qaeda's man in the Sahel"
+    }
+   ]
+  },
+  {
+   "name": "Abu Hafs al-Hashimi al-Qurashi",
+   "aliases": [
+    "Abel Hafts",
+    "Abu Hafs"
+   ],
+   "role": "New caliph of the Islamic State to whom Sahel fighters pledged allegiance in a mass photo set",
+   "organizations": [
+    "Islamic State"
+   ],
+   "nationality_or_origin": "",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "25:57",
+     "quote": "from the most recent pledging of allegiance to the new Islamic State Caliph, Abel Hafts, I mean, just hundreds of guys in the Sahel in like a single photo set"
+    }
+   ]
+  },
+  {
+   "name": "Yevgeny Prigozhin",
+   "aliases": [
+    "progoshan",
+    "progoshin"
+   ],
+   "role": "Former leader of the Wagner Group; his death has not changed Wagner's modus operandi in Africa",
+   "organizations": [
+    "Wagner Group"
+   ],
+   "nationality_or_origin": "Russian",
+   "status": "dead",
+   "status_detail": "Referred to as Wagner's former leader; hosts discuss 'what now for Wagner's African stuff' after Prigozhin",
+   "family": [],
+   "locations": [
+    "Russia"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "38:13",
+     "quote": "I'm definitely not a quote unquote expert on Wagner or it's former leader progoshan so a lot of people have been asking you know what now for Wagner's African stuff was progoshin uh nothing seems to have changed so far"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Jama'at Nusrat al-Islam wal-Muslimin",
+   "aliases": [
+    "JNIM",
+    "J&I.M",
+    "Jane I am",
+    "Group for Support of Islam and Muslims"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda in the Islamic Maghreb",
+    "al-Qaeda",
+    "Tuareg militias (local alliances)"
+   ],
+   "rivals": [
+    "Islamic State Sahel Province",
+    "Wagner Group",
+    "Malian military junta"
+   ],
+   "country_base": "Mali",
+   "notes": "al-Qaeda's official Sahel branch (sub-branch of AQIM); controls territory in northern and central Mali; forming 'attack zones' around Bamako; blockades towns until they accept Sharia; besieging Timbuktu for two months; denied signing a truce with the Islamic State"
+  },
+  {
+   "name": "al-Qaeda in the Islamic Maghreb",
+   "aliases": [
+    "AQIM"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda"
+   ],
+   "rivals": [],
+   "country_base": "North Africa/Mali",
+   "notes": "al-Qaeda's official branch in North Africa; parent of JNIM; directed foot soldiers to fight under Ansar Dine's banner in 2012"
+  },
+  {
+   "name": "al-Qaeda",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "JNIM",
+    "AQIM",
+    "Ansar Dine"
+   ],
+   "rivals": [
+    "Islamic State"
+   ],
+   "country_base": "",
+   "notes": "Helped take over northern Mali in 2012; betrayed MNLA; tried to build community alliances against the Islamic State in Menaka and lost"
+  },
+  {
+   "name": "Islamic State Sahel Province",
+   "aliases": [
+    "Islamic State's Sahara province",
+    "ISGS",
+    "Islamic State in the Greater Sahara",
+    "Islamic State in the Sahel"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Islamic State"
+   ],
+   "rivals": [
+    "JNIM",
+    "Dawsahak militias",
+    "Tuareg militias",
+    "Wagner Group"
+   ],
+   "country_base": "Mali (Menaka)",
+   "notes": "Controls the entire province of Menaka except Menaka town; enforcing harsh Sharia; massacres of Dawsahak communities; massive regional recruitment; leadership historically Sahrawis from a former al-Qaeda group in the Sahel"
+  },
+  {
+   "name": "Islamic State",
+   "aliases": [
+    "ISIS"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [
+    "al-Qaeda"
+   ],
+   "country_base": "Iraq/Syria",
+   "notes": "New caliph Abu Hafs received mass pledges from the Sahel; weekly newsletter al-Naba publicizes Sharia in northern Mali"
+  },
+  {
+   "name": "Ansar Dine",
+   "aliases": [
+    "Ansar-A-Din",
+    "Ansardine",
+    "Anzardine"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda in the Islamic Maghreb",
+    "al-Qaeda"
+   ],
+   "rivals": [],
+   "country_base": "Mali",
+   "notes": "2012 al-Qaeda front group led by Iyad ag Ghali; bin Laden documents and al-Qaeda correspondence directed AQIM fighters to fight under its banner; remnants formed HCUA"
+  },
+  {
+   "name": "Coordination of Azawad Movements",
+   "aliases": [
+    "CMA",
+    "coordination for Azawad movement"
+   ],
+   "type": "militia",
+   "parent_or_allies": [
+    "MNLA",
+    "HCUA"
+   ],
+   "rivals": [
+    "Malian military junta",
+    "Wagner Group"
+   ],
+   "country_base": "Mali (north)",
+   "notes": "Tuareg nationalist alliance that rebelled in 2012 and signed the 2015 peace agreement; now fighting Bamako again; JNIM approached its leadership, which rejected the overture, though foot soldiers are more receptive"
+  },
+  {
+   "name": "National Movement for the Liberation of Azawad",
+   "aliases": [
+    "MNLA",
+    "Immanelae",
+    "M&LA"
+   ],
+   "type": "militia",
+   "parent_or_allies": [
+    "Coordination of Azawad Movements"
+   ],
+   "rivals": [
+    "al-Qaeda (betrayed by it in 2012)",
+    "Malian military junta"
+   ],
+   "country_base": "Mali (north)",
+   "notes": "Fought alongside al-Qaeda in 2012 to take the north, then was betrayed and expelled from the cities; large, well-equipped force"
+  },
+  {
+   "name": "High Council for the Unity of Azawad",
+   "aliases": [
+    "HCUA",
+    "H-C-U-A"
+   ],
+   "type": "militia",
+   "parent_or_allies": [
+    "Coordination of Azawad Movements",
+    "JNIM (ties per UN panel)"
+   ],
+   "rivals": [
+    "Malian military junta"
+   ],
+   "country_base": "Mali (north)",
+   "notes": "Formed from remnants of Ansar Dine members who disliked being an al-Qaeda front; per UN panel of experts it still maintains ties with JNIM, especially among foot soldiers"
+  },
+  {
+   "name": "Wagner Group",
+   "aliases": [
+    "Vagner",
+    "Fogna Group",
+    "Russia"
+   ],
+   "type": "militia",
+   "parent_or_allies": [
+    "Malian military junta",
+    "Russia"
+   ],
+   "rivals": [
+    "JNIM",
+    "Islamic State Sahel Province",
+    "Tuareg militias"
+   ],
+   "country_base": "Russia (deployed in Mali since 2021)",
+   "notes": "Bamako's new state patron after France's expulsion; regime protection and force multiplier; complicit in massacres such as Moura; paid ~$10M a month plus access to artisanal gold mines; presence in Gao; lost aircraft and been ambushed recently"
+  },
+  {
+   "name": "Malian military junta",
+   "aliases": [
+    "Government of Mali",
+    "Bamako",
+    "Malayan government"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Wagner Group"
+   ],
+   "rivals": [
+    "JNIM",
+    "Islamic State Sahel Province",
+    "Coordination of Azawad Movements"
+   ],
+   "country_base": "Mali",
+   "notes": "Took power in 2020 coup; expelled France and asked the UN to leave; divide-and-conquer strategy against communities in central Mali; chose to go to war again with the Tuareg"
+  },
+  {
+   "name": "MINUSMA",
+   "aliases": [
+    "United Nations peacekeeping mission in Mali",
+    "UN"
+   ],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Mali",
+   "notes": "Withdrawing at Bamako's request; gone by end of 2023; UN panel of experts on Mali documented Tuareg-JNIM ties"
+  },
+  {
+   "name": "France (Operation Barkhane)",
+   "aliases": [
+    "France",
+    "French counterterrorism force"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "United States",
+    "European partners",
+    "Dawsahak militias"
+   ],
+   "rivals": [
+    "JNIM",
+    "Islamic State Sahel Province"
+   ],
+   "country_base": "France",
+   "notes": "Intervened in 2013 to push al-Qaeda back; expelled from Mali; its departure removed support for Dawsahak militias and ISR sharing"
+  },
+  {
+   "name": "AFRICOM",
+   "aliases": [
+    "Afriqam",
+    "U.S. Africa Command"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "Niger (pre-coup)"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Drone/ISR base 201 near Agadez and base 101 in Niamey; operations limited to force protection after the Niger coup; other drone base in Djibouti"
+  },
+  {
+   "name": "Dawsahak militias",
+   "aliases": [
+    "doazac",
+    "Della Sack",
+    "Daoussak"
+   ],
+   "type": "militia",
+   "parent_or_allies": [
+    "France"
+   ],
+   "rivals": [
+    "Islamic State Sahel Province"
+   ],
+   "country_base": "Mali (Menaka)",
+   "notes": "Non-Tuareg ethnic militias that held the line against the Islamic State until France left; targets of IS massacres"
+  },
+  {
+   "name": "al-Shabaab",
+   "aliases": [
+    "Shabab"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda"
+   ],
+   "rivals": [
+    "Somali government",
+    "African Union forces"
+   ],
+   "country_base": "Somalia",
+   "notes": "'Taliban of Africa'; momentum turning back in its favor with large-scale raids and suicide bombings; AU forces due out by December 2024"
+  },
+  {
+   "name": "Syrian Democratic Forces",
+   "aliases": [
+    "SDF",
+    "Kurdistan Workers Party",
+    "PKK"
+   ],
+   "type": "militia",
+   "parent_or_allies": [
+    "United States"
+   ],
+   "rivals": [],
+   "country_base": "Syria",
+   "notes": "Roggio's analogy for lack of effective partners: the SDF is really the PKK, a designated FTO"
+  },
+  {
+   "name": "Bridgeway Foundation",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Caleb Weiss is a senior analyst there on the Islamic State in Central Africa"
+  }
+ ],
+ "places": [
+  {
+   "name": "Mali",
+   "type": "country",
+   "country": "Mali",
+   "parent": "",
+   "significance": "Hosts judge it the state most likely to collapse next; two jihadist insurgencies plus Tuareg rebellion"
+  },
+  {
+   "name": "Bamako",
+   "type": "city",
+   "country": "Mali",
+   "parent": "Mali",
+   "significance": "Capital; JNIM forming attack zones in suburbs and on nearby military installations"
+  },
+  {
+   "name": "Central Mali",
+   "type": "region",
+   "country": "Mali",
+   "parent": "Mali",
+   "significance": "JNIM advancing on multiple fronts; blockades until Sharia accepted; Wagner/junta massacres"
+  },
+  {
+   "name": "Timbuktu",
+   "type": "city",
+   "country": "Mali",
+   "parent": "Mali",
+   "significance": "Besieged by JNIM for two months; tens of thousands fled; Tuareg militias holding on there; nearby fighting"
+  },
+  {
+   "name": "Menaka",
+   "type": "province",
+   "country": "Mali",
+   "parent": "Mali",
+   "significance": "Islamic State controls the entire province except Menaka town; ethnic cleansing of Dawsahak"
+  },
+  {
+   "name": "Menaka town",
+   "type": "town",
+   "country": "Mali",
+   "parent": "Menaka",
+   "significance": "Only part of Menaka province not held by the Islamic State"
+  },
+  {
+   "name": "Gao",
+   "type": "city",
+   "country": "Mali",
+   "parent": "Mali",
+   "significance": "Wagner presence nearby"
+  },
+  {
+   "name": "Ber",
+   "type": "town",
+   "country": "Mali",
+   "parent": "Timbuktu region",
+   "significance": "Heavy fighting between Tuareg militias and Malian military/Wagner near Timbuktu (heard as 'Weir/Weirah'; identification inferred)"
+  },
+  {
+   "name": "Moura",
+   "type": "town",
+   "country": "Mali",
+   "parent": "Central Mali",
+   "significance": "Malian military and Wagner massacred hundreds after mock trials"
+  },
+  {
+   "name": "Niger",
+   "type": "country",
+   "country": "Niger",
+   "parent": "",
+   "significance": "Coup limited US drone/ISR operations; previously biggest US security partner in the Sahel"
+  },
+  {
+   "name": "Air Base 201 (Agadez)",
+   "type": "base",
+   "country": "Niger",
+   "parent": "Niger",
+   "significance": "US drone base; operations now limited to force protection"
+  },
+  {
+   "name": "Niamey",
+   "type": "city",
+   "country": "Niger",
+   "parent": "Niger",
+   "significance": "US base 101 in the capital"
+  },
+  {
+   "name": "Djibouti",
+   "type": "country",
+   "country": "Djibouti",
+   "parent": "",
+   "significance": "Other US drone base in Africa; long legs to the Sahel"
+  },
+  {
+   "name": "Tongo Tongo",
+   "type": "town",
+   "country": "Niger",
+   "parent": "Niger",
+   "significance": "2017 ambush that killed four US Special Forces soldiers"
+  },
+  {
+   "name": "Somalia",
+   "type": "country",
+   "country": "Somalia",
+   "parent": "",
+   "significance": "The other candidate for collapse; al-Shabaab momentum; AU forces leaving by Dec 2024"
+  },
+  {
+   "name": "Mogadishu",
+   "type": "city",
+   "country": "Somalia",
+   "parent": "Somalia",
+   "significance": "Government supported by Turkey, US airstrikes and AU troops"
+  },
+  {
+   "name": "Burkina Faso",
+   "type": "country",
+   "country": "Burkina Faso",
+   "parent": "",
+   "significance": "Source of regional 'foreign fighters' for the Islamic State"
+  },
+  {
+   "name": "Western Sahara",
+   "type": "region",
+   "country": "",
+   "parent": "North Africa",
+   "significance": "Home of the Sahrawis who historically dominated the Islamic State Sahel leadership"
+  },
+  {
+   "name": "Sahel",
+   "type": "region",
+   "country": "",
+   "parent": "Africa",
+   "significance": "One conflict zone; massive Islamic State recruitment"
+  },
+  {
+   "name": "Central African Republic",
+   "type": "country",
+   "country": "Central African Republic",
+   "parent": "",
+   "significance": "Wagner pattern of fighting for gold and abusing rights, like Sudan and Libya"
+  },
+  {
+   "name": "Syria",
+   "type": "country",
+   "country": "Syria",
+   "parent": "",
+   "significance": "Analogy: no effective partner but the SDF/PKK"
+  }
+ ],
+ "events": [
+  {
+   "date": "2012",
+   "date_precision": "year",
+   "type": "offensive",
+   "description": "al-Qaeda (AQIM under Ansar Dine's banner) with the MNLA took over northern Mali, then betrayed and expelled the MNLA from the cities",
+   "place": "Northern Mali",
+   "actors": [
+    "al-Qaeda",
+    "Ansar Dine",
+    "National Movement for the Liberation of Azawad"
+   ],
+   "timestamp": "14:34"
+  },
+  {
+   "date": "2013",
+   "date_precision": "year",
+   "type": "offensive",
+   "description": "French intervention pushed al-Qaeda back; conflict has ebbed and flowed since",
+   "place": "Mali",
+   "actors": [
+    "France (Operation Barkhane)",
+    "al-Qaeda"
+   ],
+   "timestamp": "04:26"
+  },
+  {
+   "date": "2015",
+   "date_precision": "year",
+   "type": "agreement",
+   "description": "Tuareg rebel groups signed a peace agreement with Bamako that was never well implemented",
+   "place": "Mali",
+   "actors": [
+    "Coordination of Azawad Movements",
+    "Government of Mali"
+   ],
+   "timestamp": "10:40"
+  },
+  {
+   "date": "2017-10",
+   "date_precision": "month",
+   "type": "attack",
+   "description": "Tongo Tongo ambush killed four US Special Forces service members in Niger",
+   "place": "Tongo Tongo",
+   "actors": [
+    "Islamic State Sahel Province",
+    "United States"
+   ],
+   "timestamp": "31:57"
+  },
+  {
+   "date": "2020",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Military coup overthrew the government in Bamako; junta has ruled since",
+   "place": "Bamako",
+   "actors": [
+    "Malian military junta"
+   ],
+   "timestamp": "10:15"
+  },
+  {
+   "date": "2021",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Wagner Group deployed to Mali as Bamako's new state patron after France's departure",
+   "place": "Mali",
+   "actors": [
+    "Wagner Group",
+    "Malian military junta"
+   ],
+   "timestamp": "34:56"
+  },
+  {
+   "date": "2021-08",
+   "date_precision": "month",
+   "type": "other",
+   "description": "Fall of Afghanistan to the Taliban, the start point of the hosts' 'next state to collapse' conversation",
+   "place": "Afghanistan",
+   "actors": [
+    "Taliban"
+   ],
+   "timestamp": "01:10"
+  },
+  {
+   "date": "approx 2022",
+   "date_precision": "approx",
+   "type": "attack",
+   "description": "Malian military and Wagner massacred hundreds of people after mock trials in Moura, central Mali (date not stated)",
+   "place": "Moura",
+   "actors": [
+    "Wagner Group",
+    "Malian military junta"
+   ],
+   "timestamp": "35:13"
+  },
+  {
+   "date": "2023-07",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "Coup in Niger (not formally called a coup by the US) curtailed US drone/ISR operations from base 201",
+   "place": "Niger",
+   "actors": [
+    "AFRICOM"
+   ],
+   "timestamp": "28:19"
+  },
+  {
+   "date": "2023-07",
+   "date_precision": "approx",
+   "type": "offensive",
+   "description": "JNIM began besieging Timbuktu ('for the past two months'), blocking food and supplies; tens of thousands fled",
+   "place": "Timbuktu",
+   "actors": [
+    "Jama'at Nusrat al-Islam wal-Muslimin"
+   ],
+   "timestamp": "05:55"
+  },
+  {
+   "date": "2023-08",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "Hundreds of Islamic State Sahel fighters pledged allegiance to new caliph Abu Hafs in a single photo set",
+   "place": "Sahel",
+   "actors": [
+    "Islamic State Sahel Province",
+    "Abu Hafs al-Hashimi al-Qurashi"
+   ],
+   "timestamp": "25:57"
+  },
+  {
+   "date": "2023-09",
+   "date_precision": "approx",
+   "type": "offensive",
+   "description": "Islamic State took control of the entire Menaka province except Menaka town after months of advances and massacres",
+   "place": "Menaka",
+   "actors": [
+    "Islamic State Sahel Province"
+   ],
+   "timestamp": "08:37"
+  },
+  {
+   "date": "2023-09",
+   "date_precision": "approx",
+   "type": "attack",
+   "description": "Tuareg militias (CMA) claimed to shoot down an Su-25 and a jet trainer and capture another aircraft; heavy fighting near Ber by Timbuktu",
+   "place": "Timbuktu",
+   "actors": [
+    "Coordination of Azawad Movements",
+    "Malian military junta",
+    "Wagner Group"
+   ],
+   "timestamp": "11:58"
+  },
+  {
+   "date": "2023-09-26",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "JNIM issued a statement denying it signed a truce with the Islamic State to fight Wagner",
+   "place": "Mali",
+   "actors": [
+    "Jama'at Nusrat al-Islam wal-Muslimin",
+    "Islamic State Sahel Province"
+   ],
+   "timestamp": "06:57"
+  },
+  {
+   "date": "2023-12",
+   "date_precision": "month",
+   "type": "other",
+   "description": "UN peacekeeping mission (MINUSMA) to be fully withdrawn from Mali by end of 2023 at Bamako's request",
+   "place": "Mali",
+   "actors": [
+    "MINUSMA",
+    "Malian military junta"
+   ],
+   "timestamp": "41:45"
+  },
+  {
+   "date": "2024-12",
+   "date_precision": "month",
+   "type": "other",
+   "description": "African Union forces due to leave Somalia (about 15-16,000 troops) unless extended",
+   "place": "Somalia",
+   "actors": [
+    "African Union forces",
+    "al-Shabaab"
+   ],
+   "timestamp": "43:13"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Jama'at Nusrat al-Islam wal-Muslimin",
+   "target": "al-Qaeda in the Islamic Maghreb",
+   "type": "member_of",
+   "detail": "JNIM is al-Qaeda's Sahel branch, a sub-branch of AQIM",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "03:58",
+   "quote": "J&I.M, which is, of course, Al-Qaeda's group for support of Islam and Muslims, It's sort of their official branch in the Sahel, which is itself a sub-branch of al-Qaeda and the Islamic Meghreb"
+  },
+  {
+   "source": "al-Qaeda in the Islamic Maghreb",
+   "target": "al-Qaeda",
+   "type": "member_of",
+   "detail": "AQIM is al-Qaeda's official branch in North Africa",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "04:05",
+   "quote": "al-Qaeda and the Islamic Meghreb, which is al-Qaeda's official branch in North Africa"
+  },
+  {
+   "source": "Iyad ag Ghali",
+   "target": "Jama'at Nusrat al-Islam wal-Muslimin",
+   "type": "leads",
+   "detail": "Leader of JNIM, 'al-Qaeda's man in the Sahel'",
+   "date": "2023",
+   "confidence": "stated",
+   "timestamp": "17:57",
+   "quote": "Ieda Gali ... who is also the leader of J&I am now. Al-Qaeda's man in the Sahel"
+  },
+  {
+   "source": "Iyad ag Ghali",
+   "target": "Ansar Dine",
+   "type": "leads",
+   "detail": "Led Ansar Dine in 2012",
+   "date": "2012",
+   "confidence": "stated",
+   "timestamp": "17:57",
+   "quote": "the leader of Anzardine, Ieda Gali, who is from a notable Poirot-Tlaan"
+  },
+  {
+   "source": "Ansar Dine",
+   "target": "al-Qaeda in the Islamic Maghreb",
+   "type": "member_of",
+   "detail": "Ansar Dine was an AQIM front; al-Qaeda correspondence and bin Laden documents directed AQIM fighters to fight under its banner",
+   "date": "2012",
+   "confidence": "stated",
+   "timestamp": "17:13",
+   "quote": "of Ansardine being a front group for AQIM, there's al-Qaeda correspondents both found inside Mali and also in the bin Laden documents that openly and explicitly talk about or even direct AQIM's foot soldiers to fight under the banner of Anzardine to sort of hide the al-Qaeda hand"
+  },
+  {
+   "source": "National Movement for the Liberation of Azawad",
+   "target": "al-Qaeda",
+   "type": "allied_with",
+   "detail": "MNLA fought alongside al-Qaeda in 2012 to take the north",
+   "date": "2012",
+   "confidence": "stated",
+   "timestamp": "14:34",
+   "quote": "Immanelae fought alongside Al-Qaeda in 2012 to take over the north"
+  },
+  {
+   "source": "al-Qaeda",
+   "target": "National Movement for the Liberation of Azawad",
+   "type": "rival_of",
+   "detail": "al-Qaeda betrayed the MNLA and expelled it from the cities they took together",
+   "date": "2012",
+   "confidence": "stated",
+   "timestamp": "14:38",
+   "quote": "then al-Qaeda historically, or infamously, rather, betrayed them. and kicked them out of all the cities they helped take with al-Qaeda"
+  },
+  {
+   "source": "High Council for the Unity of Azawad",
+   "target": "Ansar Dine",
+   "type": "other",
+   "detail": "HCUA came out of remnants of Ansar Dine members who did not like being an al-Qaeda front",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "14:49",
+   "quote": "Then the other is H-C-U-A, which sort of came out of the remnants of, you know, members of Ansar-A-Din"
+  },
+  {
+   "source": "High Council for the Unity of Azawad",
+   "target": "Coordination of Azawad Movements",
+   "type": "member_of",
+   "detail": "HCUA and MNLA form the backbone of the CMA",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "15:13",
+   "quote": "these two groups in Middle-HCUA are formed the backbone of CMA and CMA is the one fighting Bamako"
+  },
+  {
+   "source": "National Movement for the Liberation of Azawad",
+   "target": "Coordination of Azawad Movements",
+   "type": "member_of",
+   "detail": "MNLA is one of the two main CMA factions",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "14:15",
+   "quote": "main factions of that alliance, which is the coordination for Azad movement, CMA, is the Immanelae or the national movement for the liberation of Azawad, and the High Council for the unity of Azawad"
+  },
+  {
+   "source": "Coordination of Azawad Movements",
+   "target": "Malian military junta",
+   "type": "rival_of",
+   "detail": "CMA is fighting Bamako again after the 2015 peace agreement collapsed",
+   "date": "2023",
+   "confidence": "stated",
+   "timestamp": "14:07",
+   "quote": "It's those latter groups that are fighting Bamako"
+  },
+  {
+   "source": "High Council for the Unity of Azawad",
+   "target": "Jama'at Nusrat al-Islam wal-Muslimin",
+   "type": "allied_with",
+   "detail": "Per UN panel of experts, HCUA especially still maintains ties with JNIM, mainly among foot soldiers; CMA leadership rejected a JNIM overture",
+   "date": "2023",
+   "confidence": "stated",
+   "timestamp": "15:20",
+   "quote": "both of them and especially HCUA sort of still maintain ties with J&IM. maybe not necessarily at the highest levels"
+  },
+  {
+   "source": "Jama'at Nusrat al-Islam wal-Muslimin",
+   "target": "Islamic State Sahel Province",
+   "type": "rival_of",
+   "detail": "Fighting each other in Menaka; JNIM denied reports of a truce against Wagner",
+   "date": "2023",
+   "confidence": "stated",
+   "timestamp": "06:35",
+   "quote": "in the extreme north province of Manaka, you see al-Qaeda in the Islamic State fighting each other, though there's been some rumblings that they sort of signed maybe a temporary truce"
+  },
+  {
+   "source": "Jama'at Nusrat al-Islam wal-Muslimin",
+   "target": "Islamic State Sahel Province",
+   "type": "allied_with",
+   "detail": "Historically the only al-Qaeda and Islamic State branches that cooperated before turning on each other",
+   "date": "approx 2015-2019",
+   "confidence": "stated",
+   "timestamp": "07:33",
+   "quote": "Prior to al-Qaeda, the Islamic State fighting each other in Mali, they did cooperate. They did work together"
+  },
+  {
+   "source": "Jama'at Nusrat al-Islam wal-Muslimin",
+   "target": "Wagner Group",
+   "type": "rival_of",
+   "detail": "JNIM combats Wagner in central Mali; both sides take heavy losses",
+   "date": "2023",
+   "confidence": "stated",
+   "timestamp": "05:12",
+   "quote": "They're still combating in the military. They're combating Wagner"
+  },
+  {
+   "source": "Jama'at Nusrat al-Islam wal-Muslimin",
+   "target": "Timbuktu",
+   "type": "located_in",
+   "detail": "JNIM besieging Timbuktu for two months, likely in exchange for control",
+   "date": "2023-09",
+   "confidence": "stated",
+   "timestamp": "05:55",
+   "quote": "they are besieging Timbuktu as we speak. For the past two months"
+  },
+  {
+   "source": "Jama'at Nusrat al-Islam wal-Muslimin",
+   "target": "Bamako",
+   "type": "located_in",
+   "detail": "Forming attack zones in Bamako's suburbs and nearby military installations, like the Taliban around Afghan provincial capitals",
+   "date": "2023",
+   "confidence": "stated",
+   "timestamp": "04:41",
+   "quote": "They're creating areas around Bamako in the suburbs and on military installations close to the capital"
+  },
+  {
+   "source": "Islamic State Sahel Province",
+   "target": "Menaka",
+   "type": "located_in",
+   "detail": "Controls the entirety of Menaka province except Menaka town; enforcing Sharia",
+   "date": "2023-09",
+   "confidence": "stated",
+   "timestamp": "08:49",
+   "quote": "they control the entirety of that province, except for the capital, which is Manaka town. they're enacting Sharia"
+  },
+  {
+   "source": "Islamic State Sahel Province",
+   "target": "Dawsahak militias",
+   "type": "killed",
+   "detail": "IS massacred Dawsahak communities, including about 100 villagers in a single massacre, for resisting",
+   "date": "approx 2022-2023",
+   "confidence": "stated",
+   "timestamp": "22:20",
+   "quote": "the main sort of ethnic group in that area that they committed these massacres on is called the doazac ... I think they killed like a hundred villagers in one village"
+  },
+  {
+   "source": "Dawsahak militias",
+   "target": "France (Operation Barkhane)",
+   "type": "allied_with",
+   "detail": "Dawsahak militias were favored French partners until France left",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "22:42",
+   "quote": "They were favored partners by France, but the Islamic State kind of beat them back"
+  },
+  {
+   "source": "al-Qaeda",
+   "target": "Islamic State Sahel Province",
+   "type": "rival_of",
+   "detail": "al-Qaeda built alliances with local communities and Tuareg militias against the Islamic State in Menaka but lost",
+   "date": "2023",
+   "confidence": "stated",
+   "timestamp": "09:36",
+   "quote": "the only people that, you know, were actually making a stand against, you know, this Islamic State encroachment was Al-Qaeda ... But the Islamic State prevailed"
+  },
+  {
+   "source": "Islamic State Sahel Province",
+   "target": "Abu Hafs al-Hashimi al-Qurashi",
+   "type": "reports_to",
+   "detail": "Hundreds of Sahel fighters pledged allegiance to the new caliph",
+   "date": "2023-08",
+   "confidence": "stated",
+   "timestamp": "25:57",
+   "quote": "from the most recent pledging of allegiance to the new Islamic State Caliph, Abel Hafts, I mean, just hundreds of guys in the Sahel in like a single photo set"
+  },
+  {
+   "source": "Islamic State Sahel Province",
+   "target": "Islamic State",
+   "type": "member_of",
+   "detail": "Sahel province publicizes Sharia enforcement in ISIS's weekly al-Naba newsletter",
+   "date": "2023",
+   "confidence": "stated",
+   "timestamp": "09:00",
+   "quote": "photos and statements in their weekly newsletter on Naba, talking about implementing Sharia in Northern Mali"
+  },
+  {
+   "source": "Wagner Group",
+   "target": "Malian military junta",
+   "type": "allied_with",
+   "detail": "Wagner is Bamako's new state patron providing regime protection and force multiplication",
+   "date": "2021",
+   "confidence": "stated",
+   "timestamp": "36:21",
+   "quote": "Wagner's main role right now is essentially regime protection for the military regime in Bamako"
+  },
+  {
+   "source": "Wagner Group",
+   "target": "Malian military junta",
+   "type": "funded_by",
+   "detail": "Paid roughly $10 million a month plus access to artisanal gold mines",
+   "date": "2023",
+   "confidence": "stated",
+   "timestamp": "37:09",
+   "quote": "they're paid tens of millions of dollars a month. I think, 10 million maybe was the last estimate I saw ... they also have access to artisanal gold mines"
+  },
+  {
+   "source": "Wagner Group",
+   "target": "Coordination of Azawad Movements",
+   "type": "rival_of",
+   "detail": "Wagner and Malian forces conduct airstrikes and raids against Tuareg militias near Timbuktu",
+   "date": "2023-09",
+   "confidence": "stated",
+   "timestamp": "11:47",
+   "quote": "we're seeing Wagner and Mali watch airstrikes and raids against Tuaric militias in the north, especially near Timbuktu"
+  },
+  {
+   "source": "Wagner Group",
+   "target": "Gao",
+   "type": "located_in",
+   "detail": "Wagner has a presence in Gao",
+   "date": "2023",
+   "confidence": "stated",
+   "timestamp": "09:25",
+   "quote": "Wagner, which does have a presence in nearby Gao"
+  },
+  {
+   "source": "Yevgeny Prigozhin",
+   "target": "Wagner Group",
+   "type": "leads",
+   "detail": "Former leader of Wagner",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "38:13",
+   "quote": "Wagner or it's former leader progoshan"
+  },
+  {
+   "source": "Malian military junta",
+   "target": "MINUSMA",
+   "type": "other",
+   "detail": "Bamako requested the UN mission's departure; it leaves by end of 2023",
+   "date": "2023",
+   "confidence": "stated",
+   "timestamp": "02:20",
+   "quote": "The United Nations is leaving per the request of the Malayan government"
+  },
+  {
+   "source": "Malian military junta",
+   "target": "France (Operation Barkhane)",
+   "type": "rival_of",
+   "detail": "Junta kicked out France, and by extension US and European forces",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "41:37",
+   "quote": "the French were kicked out which by virtue means that the Americans and all the Europeans were kicked out"
+  },
+  {
+   "source": "AFRICOM",
+   "target": "Niger",
+   "type": "located_in",
+   "detail": "US drone base 201 near Agadez and base 101 in Niamey; ISR limited to force protection after the coup",
+   "date": "2023",
+   "confidence": "stated",
+   "timestamp": "29:30",
+   "quote": "they're really only monitoring base 201, which is the base you're alluding to in sort of like the Agadez desert area ... there is another American base that we have in Niamet, the capital. That's base 101"
+  },
+  {
+   "source": "Islamic State Sahel Province",
+   "target": "Sahrawis",
+   "type": "other",
+   "detail": "IS Sahel leadership historically dominated by Sahrawis from a former al-Qaeda group in the Sahel, though many fighters are Fulani",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "27:52",
+   "quote": "historically they've been dominated by sahraways ... the Sahrawis, which came from a former al-Qaeda group in the Sahel, they are now the leadership of the Islamic State"
+  },
+  {
+   "source": "al-Shabaab",
+   "target": "al-Qaeda",
+   "type": "member_of",
+   "detail": "Al-Shabaab, 'the Taliban of Africa', is the other jihadist group poised to take a state",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "01:42",
+   "quote": "Shabab is very well organized, very well armed ... People call them the Taliban of Africa"
+  },
+  {
+   "source": "Syrian Democratic Forces",
+   "target": "Kurdistan Workers Party",
+   "type": "member_of",
+   "detail": "Roggio: the SDF is really the PKK, a designated FTO the US allied with",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "39:27",
+   "quote": "the Syrian Democratic Forces, which really is the Kurdistan Workers Party, which is a foreign terrorist organization, which we've relied ourselves with"
+  }
+ ],
+ "sources_cited": [
+  "Caleb Weiss, 'Setting the Stage for Mali's Near Future' (Long War Journal, Sep 2023)",
+  "UN Panel of Experts on Mali reports (Tuareg-JNIM ties)",
+  "Islamic State weekly newsletter al-Naba",
+  "bin Laden documents and al-Qaeda correspondence found in Mali on Ansar Dine as AQIM cover",
+  "JNIM statement denying a truce with the Islamic State",
+  "Reports on AFRICOM restarting force-protection drone flights from Niger"
+ ],
+ "key_claims": [
+  "Mali, not Somalia, is the next state most likely to collapse: France, the US/Europeans and the UN are gone or leaving, leaving only Wagner, which makes things worse.",
+  "JNIM (al-Qaeda) controls large parts of northern and central Mali, is forming Taliban-style attack zones around Bamako, uses blockades to force Sharia agreements and has besieged Timbuktu for two months.",
+  "The Islamic State Sahel Province now controls all of Menaka province except its capital, having massacred Dawsahak communities and out-recruited al-Qaeda across the Sahel; its leadership is historically Sahrawi and it pledged en masse to new caliph Abu Hafs.",
+  "Ansar Dine was an al-Qaeda front: AQIM fighters were directed to fight under its banner in 2012, and its leader Iyad ag Ghali now leads JNIM.",
+  "The Tuareg CMA (MNLA and HCUA) is again at war with Bamako; HCUA retains ties to JNIM, and a Tuareg-JNIM alignment against the junta is plausible but unconfirmed.",
+  "Wagner is Bamako's regime-protection force, paid ~$10M a month plus gold concessions, complicit in massacres like Moura; Prigozhin's death has not changed its conduct.",
+  "The Niger coup has reduced US drone operations from base 201 to force protection, degrading ISR over Mali.",
+  "Somalia has more time: AU troops remain until December 2024 and Turkey/US airstrikes continue, though al-Shabaab's momentum is returning."
+ ]
+}

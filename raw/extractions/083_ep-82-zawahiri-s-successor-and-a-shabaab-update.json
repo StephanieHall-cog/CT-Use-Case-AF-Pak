@@ -1,0 +1,1668 @@
+{
+ "episode": {
+  "idx": 83,
+  "title": "Ep. 82 — Zawahiri's successor and a Shabaab update",
+  "published": "Wed, 12 Oct 2022 17:30:00 +0000",
+  "guid": "3fd082f6-3a17-417f-8d2b-93d31906bcdf"
+ },
+ "persons": [
+  {
+   "name": "Ayman al-Zawahiri",
+   "aliases": [
+    "Zawahari",
+    "Zawahiri",
+    "Zawiri",
+    "Swahari"
+   ],
+   "role": "Emir of al-Qaeda (about 11 years, succeeded bin Laden)",
+   "organizations": [
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Egyptian",
+   "status": "dead",
+   "status_detail": "Killed in a US airstrike, most likely a drone, in Kabul at the end of July 2022; al-Qaeda had not announced a successor by mid-Oct 2022",
+   "family": [],
+   "locations": [
+    "Kabul",
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "02:59",
+     "quote": "Zawahiri was killed by the U.S. in a, well, an airstrike, most likely a drone in Kabul"
+    },
+    {
+     "timestamp": "03:09",
+     "quote": "He was being sheltered by Sirajuddin Haqqani"
+    },
+    {
+     "timestamp": "25:21",
+     "quote": "Jihad Mustafa who was sent there as the personal representative of Zawahiri"
+    }
+   ]
+  },
+  {
+   "name": "Sirajuddin Haqqani",
+   "aliases": [
+    "Sirajun Haqqani",
+    "Sarajudin",
+    "Sirajun Haqani"
+   ],
+   "role": "Head of the Haqqani Network; Taliban deputy emir; Taliban interior minister",
+   "organizations": [
+    "Haqqani Network",
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Kabul",
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "03:09",
+     "quote": "He was being sheltered by Sirajun Haqqani, who is the head of the al-Qaeda linked, allied subgroup"
+    },
+    {
+     "timestamp": "03:24",
+     "quote": "one of two deputy Taliban emirs... also serves as the Taliban's interior minister"
+    },
+    {
+     "timestamp": "11:19",
+     "quote": "killed in Kabul at a safe house run by a friend or a member of Sirajun Haqani's leadership"
+    }
+   ]
+  },
+  {
+   "name": "Mullah Yaqoob",
+   "aliases": [
+    "Mullah Akub",
+    "Mullah Yaqub"
+   ],
+   "role": "Taliban deputy emir",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "",
+   "family": [
+    {
+     "relation": "father",
+     "name": "Mullah Mohammad Omar"
+    }
+   ],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "03:24",
+     "quote": "the other being Mullah Akub, the son of Mullah Omar, the founder of the Taliban"
+    }
+   ]
+  },
+  {
+   "name": "Mullah Mohammad Omar",
+   "aliases": [
+    "Muil Omar",
+    "Mullah Omar"
+   ],
+   "role": "Founder of the Taliban",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "dead",
+   "status_detail": "Mentioned only as founder and father of Mullah Yaqub",
+   "family": [
+    {
+     "relation": "son",
+     "name": "Mullah Yaqoob"
+    }
+   ],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "03:24",
+     "quote": "the son of Muil Omar, the founder of the Taliban"
+    }
+   ]
+  },
+  {
+   "name": "Osama bin Laden",
+   "aliases": [
+    "bin Laden"
+   ],
+   "role": "Founder and first emir of al-Qaeda",
+   "organizations": [
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Saudi",
+   "status": "dead",
+   "status_detail": "Killed in the US raid at Abbottabad in 2011; about a month and a half passed before al-Qaeda announced his successor",
+   "family": [],
+   "locations": [
+    "Abbottabad",
+    "Pakistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "04:30",
+     "quote": "basing this off of what happened after bin Laden was killed... a month and a half"
+    },
+    {
+     "timestamp": "22:50",
+     "quote": "what bin Laden did to Zabar, the former emir of Shabab, he basically said... don't publicize this"
+    }
+   ]
+  },
+  {
+   "name": "Saif al-Adel",
+   "aliases": [
+    "Seif al-Aidl",
+    "Saif al-Aadol",
+    "Seifal-Aidl",
+    "Adel"
+   ],
+   "role": "Senior al-Qaeda leader and frontrunner to succeed Zawahiri",
+   "organizations": [
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Egyptian",
+   "status": "alive",
+   "status_detail": "Reportedly based in Iran; reports say he travelled to Afghanistan right after Zawahiri was killed",
+   "family": [],
+   "locations": [
+    "Iran",
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "15:29",
+     "quote": "if the new successor is Abd al-Rahman al-Maghrebi, he's also supposedly in Iran"
+    },
+    {
+     "timestamp": "17:34",
+     "quote": "Certainly, Saif al-Adel is the frontrunner"
+    },
+    {
+     "timestamp": "17:44",
+     "quote": "reports that he's traveled to Afghanistan. We know he's gone back and forth"
+    }
+   ]
+  },
+  {
+   "name": "Abd al-Rahman al-Maghrebi",
+   "aliases": [
+    "Abd al-Maghdhaqman al-Magrebbe",
+    "McGreby",
+    "Macri",
+    "Magrebbe"
+   ],
+   "role": "Senior al-Qaeda leader, possible successor to Zawahiri",
+   "organizations": [
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Moroccan",
+   "status": "alive",
+   "status_detail": "Reportedly based in Iran; appears in a pre-2015 photo with other al-Qaeda leaders in central Iran",
+   "family": [],
+   "locations": [
+    "Iran"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "15:34",
+     "quote": "Abd al-Maghdhaqman al-Magrebbe, he's also supposedly in Iran"
+    },
+    {
+     "timestamp": "17:53",
+     "quote": "that photo came out with Seifal Adel and Macri and Abu Muhammad al-Mazri... hanging out in central Iran"
+    }
+   ]
+  },
+  {
+   "name": "Abu Muhammad al-Masri",
+   "aliases": [
+    "Abu al-Qaeda al-Masri",
+    "Abu Muhammad al-Mazri"
+   ],
+   "role": "Senior al-Qaeda leader based in Iran (mentioned, then corrected, as subject of the pre-2015 Iran photo)",
+   "organizations": [
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Egyptian",
+   "status": "unknown",
+   "status_detail": "Roggio names him as the third man in the pre-2015 Iran photo with Saif al-Adel and al-Maghrebi; Weiss corrects this at [018:18] (name garbled as 'Abu al-Qaeda al-Masri', likely Abu al-Khayr al-Masri) - either way an al-Qaeda leader based in Iran.",
+   "family": [],
+   "locations": [
+    "Iran"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "17:53",
+     "quote": "Abu Muhammad al-Mazri that was taken around sometime before 2015"
+    },
+    {
+     "timestamp": "18:24",
+     "quote": "It was Abu al-Qaeda al-Masri... just another al-Qaeda leader based in Iran"
+    }
+   ]
+  },
+  {
+   "name": "Ahmed Abdi Godane",
+   "aliases": [
+    "Zabar",
+    "Abu Zubair",
+    "Mukhtar Abu Zubair"
+   ],
+   "role": "Former emir of Shabaab; pledged allegiance to bin Laden",
+   "organizations": [
+    "al-Shabaab",
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Somali",
+   "status": "dead",
+   "status_detail": "Described only as 'the former emir of Shabab'; this identification of the transcribed name 'Zabar' is inferred",
+   "family": [],
+   "locations": [
+    "Somalia"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "22:50",
+     "quote": "what bin Laden did to Zabar, the former emir of Shabab"
+    }
+   ]
+  },
+  {
+   "name": "Sulayman Abu Nafan",
+   "aliases": [
+    "Sully Abu Napan"
+   ],
+   "role": "Foreign leader of Shabaab who pledged allegiance to bin Laden on behalf of the group in about 2008",
+   "organizations": [
+    "al-Shabaab"
+   ],
+   "nationality_or_origin": "",
+   "status": "unknown",
+   "status_detail": "Name is uncertain (machine transcription 'Sully Abu Napan')",
+   "family": [],
+   "locations": [
+    "Somalia"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "22:29",
+     "quote": "Sully Abu Napan, who was a foreign leader of Shab, pledging allegiance to bin Laden on behalf of the organization in, I believe, 2008"
+    }
+   ]
+  },
+  {
+   "name": "Jehad Serwan Mostafa",
+   "aliases": [
+    "Jihad Sir Juan Mustafa",
+    "Jihad Mustafa"
+   ],
+   "role": "American-citizen al-Qaeda member in Shabaab; Zawahiri's personal representative; deputy emir and then overall emir in Somalia (as described by hosts)",
+   "organizations": [
+    "al-Qaeda",
+    "al-Shabaab"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "Whereabouts unknown, believed active in Shabaab",
+   "family": [],
+   "locations": [
+    "Somalia"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "24:54",
+     "quote": "they decided to feature jihad Sir Juan Mustafa, who's an American citizen, but a member of Al-Qaeda"
+    },
+    {
+     "timestamp": "25:21",
+     "quote": "sent there as the personal representative of Zawahri"
+    },
+    {
+     "timestamp": "25:39",
+     "quote": "he's still out there. We don't know where he is"
+    }
+   ]
+  },
+  {
+   "name": "Abdullah Yare",
+   "aliases": [
+    "Abdullah Hayare"
+   ],
+   "role": "Co-founder of Shabaab; head of Dawa; $3 million Rewards for Justice bounty",
+   "organizations": [
+    "al-Shabaab"
+   ],
+   "nationality_or_origin": "Somali",
+   "status": "dead",
+   "status_detail": "Killed in a US airstrike during the 2022 Somali offensive",
+   "family": [],
+   "locations": [
+    "Somalia"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "36:38",
+     "quote": "they killed a co-founder of Shabab, Abdullah Hayare, who actually, he was the head of Dawa"
+    },
+    {
+     "timestamp": "36:54",
+     "quote": "a $3 million bounty on him by rewards for justice"
+    }
+   ]
+  },
+  {
+   "name": "Hassan Sheikh Mohamud",
+   "aliases": [
+    "Hassan Sheikh Mohammed",
+    "Hassan Shake"
+   ],
+   "role": "President of Somalia (second non-consecutive term, from 2022)",
+   "organizations": [
+    "Federal Government of Somalia"
+   ],
+   "nationality_or_origin": "Somali",
+   "status": "alive",
+   "status_detail": "Vowed after the Hayat Hotel siege to defeat Shabaab in one year",
+   "family": [],
+   "locations": [
+    "Somalia",
+    "Mogadishu"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "29:59",
+     "quote": "the new president of Somalia, or new old, I guess, Hassan Sheikh Mohammed"
+    },
+    {
+     "timestamp": "30:23",
+     "quote": "he vowed to defeat Shabab in one year"
+    }
+   ]
+  },
+  {
+   "name": "Mohamed Abdullahi Farmajo",
+   "aliases": [
+    "Formajo"
+   ],
+   "role": "Former president of Somalia (until 2022)",
+   "organizations": [
+    "Federal Government of Somalia"
+   ],
+   "nationality_or_origin": "Somali",
+   "status": "alive",
+   "status_detail": "Criticized as unwilling or incapable of fighting Shabaab, which stagnated for five years under him",
+   "family": [],
+   "locations": [
+    "Somalia"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "28:49",
+     "quote": "five years of Formajo, the former president of Somalia, of basically who was either unwilling or incapable of actually going after Shab"
+    }
+   ]
+  },
+  {
+   "name": "Ahmed Madobe",
+   "aliases": [
+    "Ahma Madobe",
+    "Afamadobai"
+   ],
+   "role": "Leader of Jubaland, a semi-autonomous region of southern Somalia",
+   "organizations": [
+    "Jubaland"
+   ],
+   "nationality_or_origin": "Somali",
+   "status": "alive",
+   "status_detail": "A former rebel who is now anti-Shabaab; announced Jubaland forces will start their own counteroffensive",
+   "family": [],
+   "locations": [
+    "Jubaland",
+    "Somalia"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "39:42",
+     "quote": "it's led by this guy named Ahma Madobe... he's anti-Shabaab"
+    },
+    {
+     "timestamp": "39:53",
+     "quote": "his regional force will likely start their own counter-offensive against Shab soon"
+    }
+   ]
+  },
+  {
+   "name": "Ali Mohamud Rage",
+   "aliases": [
+    "Ali Raji",
+    "Ali Dheere"
+   ],
+   "role": "Main spokesman of Shabaab",
+   "organizations": [
+    "al-Shabaab"
+   ],
+   "nationality_or_origin": "Somali",
+   "status": "alive",
+   "status_detail": "Released a video responding to Hassan Sheikh's vow: 'we accept your challenge'",
+   "family": [],
+   "locations": [
+    "Somalia"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "42:09",
+     "quote": "their main spokesman Ali Raji kind of had a cheeky response... we accept your challenge"
+    }
+   ]
+  },
+  {
+   "name": "Abu al-Khayr al-Masri",
+   "aliases": [
+    "Abu al-Qaeda al-Masri (as transcribed)"
+   ],
+   "role": "Senior al-Qaeda leader based in Iran; the third man in the pre-2015 Iran photo per Weiss's correction (identification inferred from garbled audio)",
+   "organizations": [
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Egyptian",
+   "status": "unknown",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Iran"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "18:18",
+     "quote": "Just a small correction. It was Abu al-Qaeda al-Masri that was... / Either way, it was just another al-Qaeda leader based in Iran."
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "al-Qaeda",
+   "aliases": [
+    "AQ",
+    "al-Qaida"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban",
+    "Haqqani Network",
+    "Shabaab"
+   ],
+   "rivals": [
+    "Islamic State"
+   ],
+   "country_base": "Afghanistan/Pakistan",
+   "notes": "Has not publicly named a successor to Zawahiri. Hosts give four non-exclusive reasons: security protocol, avoiding embarrassing the Taliban, the leader's possible Iran base, or that a leader is already chosen but unannounced. No branch has disavowed it."
+  },
+  {
+   "name": "Taliban",
+   "aliases": [
+    "Islamic Emirate"
+   ],
+   "type": "political movement",
+   "parent_or_allies": [
+    "al-Qaeda",
+    "Haqqani Network"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Denied then 'investigated' Zawahiri's presence in Kabul. Hosts say it benefits from de facto legitimacy and has an arrangement with al-Qaeda."
+  },
+  {
+   "name": "Haqqani Network",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban",
+    "al-Qaeda"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Described as the al-Qaeda-linked, allied subgroup/faction of the Taliban led by Sirajuddin Haqqani."
+  },
+  {
+   "name": "al-Shabaab",
+   "aliases": [
+    "Shabab",
+    "Shabh",
+    "Shabaab"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda"
+   ],
+   "rivals": [
+    "Islamic State",
+    "Federal Government of Somalia",
+    "Somali federal government",
+    "Jubaland",
+    "Kenya Defence Forces",
+    "Puntland"
+   ],
+   "country_base": "Somalia",
+   "notes": "Described as 'the Taliban of Africa' and al-Qaeda's best organized branch. It has suppressed the Islamic State in Somalia and manipulates clan politics. It struck at the Hayat Hotel and Beledweyne."
+  },
+  {
+   "name": "Islamic State",
+   "aliases": [
+    "IS",
+    "ISIS"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [
+    "al-Qaeda",
+    "Shabaab"
+   ],
+   "country_base": "",
+   "notes": "Could exploit an al-Qaeda emir being based in Iran; the hosts say it does so mainly in al-Naba."
+  },
+  {
+   "name": "Hayat Tahrir al-Sham",
+   "aliases": [
+    "HTS",
+    "Hyatt Terrier O'Sham"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [
+    "al-Qaeda"
+   ],
+   "country_base": "Syria",
+   "notes": "Former al-Qaeda members now in HTS urge AQ members to leave AQ; the hosts see this as poaching and a bid for legitimacy for HTS's statelet in northwest Syria."
+  },
+  {
+   "name": "AQAP",
+   "aliases": [
+    "al-Qaeda in the Arabian Peninsula"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda"
+   ],
+   "rivals": [],
+   "country_base": "Yemen",
+   "notes": "Cited as a branch that publicly announces new emirs."
+  },
+  {
+   "name": "AQIM",
+   "aliases": [
+    "al-Qaeda in the Islamic Maghreb"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda"
+   ],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Cited as a branch that publicly announces new emirs."
+  },
+  {
+   "name": "Tehrik-e-Taliban Pakistan",
+   "aliases": [
+    "TTP",
+    "the movement of the Taliban in Pakistan"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Said to have emerged from al-Qaeda's work navigating tribal dynamics in Pakistan's tribal areas."
+  },
+  {
+   "name": "Somali National Army",
+   "aliases": [
+    "SNA",
+    "S&A"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "Federal Government of Somalia",
+    "Ma'awisley",
+    "ATMIS",
+    "United States"
+   ],
+   "rivals": [
+    "Shabaab"
+   ],
+   "country_base": "Somalia",
+   "notes": "Leads clearing operations in the offensive that began in mid-September 2022."
+  },
+  {
+   "name": "Ma'awisley",
+   "aliases": [
+    "Maa Wiesli",
+    "Ma'u Isli",
+    "Mawisley"
+   ],
+   "type": "militia",
+   "parent_or_allies": [
+    "Somali National Army",
+    "Federal Government of Somalia"
+   ],
+   "rivals": [
+    "Shabaab"
+   ],
+   "country_base": "Somalia",
+   "notes": "Clan-based militias of citizens fed up with Shabaab, now armed and mobilized by the state. Compared to the Awakening/Sons of Iraq. They do holding operations."
+  },
+  {
+   "name": "ATMIS",
+   "aliases": [
+    "Atmos",
+    "African Union Transition Mission in Somalia"
+   ],
+   "type": "international body",
+   "parent_or_allies": [
+    "Somali National Army"
+   ],
+   "rivals": [
+    "Shabaab"
+   ],
+   "country_base": "Somalia",
+   "notes": "Successor to AMISOM; gives medical and medevac support and sets up joint operation centers with the SNA."
+  },
+  {
+   "name": "AMISOM",
+   "aliases": [
+    "Ami Sam"
+   ],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [
+    "Shabaab"
+   ],
+   "country_base": "Somalia",
+   "notes": "Predecessor of ATMIS."
+  },
+  {
+   "name": "Djiboutian troops",
+   "aliases": [],
+   "type": "military",
+   "parent_or_allies": [
+    "ATMIS",
+    "Somali National Army"
+   ],
+   "rivals": [
+    "Shabaab"
+   ],
+   "country_base": "Djibouti",
+   "notes": "Allegedly give mechanized support to the SNA in Hiraan, which is the Djibouti-held sector."
+  },
+  {
+   "name": "United States",
+   "aliases": [
+    "U.S. military",
+    "US Special Forces"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "Somali National Army"
+   ],
+   "rivals": [
+    "al-Qaeda",
+    "Shabaab"
+   ],
+   "country_base": "United States",
+   "notes": "Killed Zawahiri in Kabul. Conducted two airstrikes in Somalia during the offensive (a 'defensive' strike killing 27 and the strike that killed Abdullah Yare). Special Forces are back in Somalia in an advisory capacity."
+  },
+  {
+   "name": "Jubaland",
+   "aliases": [
+    "Jubaland regional force",
+    "Jubaland forces",
+    "Jubiland"
+   ],
+   "type": "militia",
+   "parent_or_allies": [
+    "Somali federal government"
+   ],
+   "rivals": [
+    "Shabaab"
+   ],
+   "country_base": "Somalia",
+   "notes": "Expected to launch an offensive against Shabaab. Weiss speculates that this could push Shabaab fighters into Kenya."
+  },
+  {
+   "name": "Federal Government of Somalia",
+   "aliases": [
+    "Somali federal government"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Somali National Army",
+    "Ma'awisley",
+    "ATMIS",
+    "United States"
+   ],
+   "rivals": [
+    "Shabaab"
+   ],
+   "country_base": "Somalia",
+   "notes": "Issued a statement that sharing Shabaab propaganda violates Somalia's terrorism act. Accounts were banned, and the hosts worry that journalists and analysts may be caught up in the ban."
+  },
+  {
+   "name": "Kenya Defence Forces",
+   "aliases": [
+    "KDF",
+    "Kenyan troops"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "Kenya"
+   ],
+   "rivals": [
+    "Shabaab"
+   ],
+   "country_base": "Kenya",
+   "notes": "Its base at El Adde was routed by Shabaab in 2016; Kenya downplayed it."
+  },
+  {
+   "name": "Rewards for Justice",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [
+    "United States"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Offered a $3 million bounty on Abdullah Yare."
+  },
+  {
+   "name": "Burundian troops",
+   "aliases": [
+    "Burundi National Defence Force"
+   ],
+   "type": "military",
+   "parent_or_allies": [],
+   "rivals": [
+    "Shabaab"
+   ],
+   "country_base": "Burundi",
+   "notes": "Their base in Middle Shabelle was overrun by Shabaab earlier in 2022. Burundi downplayed it and has still not given a full casualty estimate."
+  },
+  {
+   "name": "Puntland",
+   "aliases": [
+    "Potland"
+   ],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [
+    "Shabaab"
+   ],
+   "country_base": "Somalia",
+   "notes": "Northern semi-autonomous region that de facto controls an area disputed with Somaliland. Shabaab carried out a suicide bombing there."
+  },
+  {
+   "name": "Somaliland",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [
+    "Shabaab"
+   ],
+   "country_base": "Somalia",
+   "notes": "The territory it claims saw the first Shabaab suicide bombing since 2018."
+  },
+  {
+   "name": "Long War Journal",
+   "aliases": [
+    "LWJ"
+   ],
+   "type": "other",
+   "parent_or_allies": [
+    "FDD"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Banned in Pakistan for about 10 years, and the hosts worry it could also be banned in Somalia."
+  },
+  {
+   "name": "Al-Qaeda in Iraq",
+   "aliases": [
+    "AQI"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda"
+   ],
+   "rivals": [],
+   "country_base": "Iraq",
+   "notes": "Roggio cites its propaganda as essential for understanding Anbar province."
+  }
+ ],
+ "places": [
+  {
+   "name": "Kabul",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Where Zawahiri was killed in a US strike at a safe house tied to Haqqani leadership."
+  },
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Taliban-ruled; hosts other al-Qaeda leaders; Saif al-Adel reportedly travelled there."
+  },
+  {
+   "name": "Iran",
+   "type": "country",
+   "country": "Iran",
+   "parent": "",
+   "significance": "Base of senior al-Qaeda leaders (Saif al-Adel, al-Maghrebi); a problem for al-Qaeda's legitimacy."
+  },
+  {
+   "name": "Abbottabad",
+   "type": "city",
+   "country": "Pakistan",
+   "parent": "Pakistan",
+   "significance": "Bin Laden's compound; documents found there showed the Shabaab pledge was kept quiet."
+  },
+  {
+   "name": "Somalia",
+   "type": "country",
+   "country": "Somalia",
+   "parent": "",
+   "significance": "Shabaab's home; site of the largest offensive against it since about 2011."
+  },
+  {
+   "name": "Mogadishu",
+   "type": "city",
+   "country": "Somalia",
+   "parent": "Somalia",
+   "significance": "Site of the Hayat Hotel siege of more than 30 hours in August 2022."
+  },
+  {
+   "name": "Hiraan",
+   "type": "region",
+   "country": "Somalia",
+   "parent": "Somalia",
+   "significance": "Main region of the central Somalia offensive; Djibouti's ATMIS sector."
+  },
+  {
+   "name": "Beledweyne",
+   "type": "city",
+   "country": "Somalia",
+   "parent": "Hiraan",
+   "significance": "Capital of Hiraan; hit by a triple suicide bombing of a mobilization center."
+  },
+  {
+   "name": "Galgaduud",
+   "type": "region",
+   "country": "Somalia",
+   "parent": "Somalia",
+   "significance": "Neighboring region where the offensive is under way."
+  },
+  {
+   "name": "Mudug",
+   "type": "region",
+   "country": "Somalia",
+   "parent": "Somalia",
+   "significance": "One of the three main regions of central Somalia, with Hiraan and Galgaduud."
+  },
+  {
+   "name": "Bay",
+   "type": "region",
+   "country": "Somalia",
+   "parent": "Somalia",
+   "significance": "Southern Somali region where the offensive is under way."
+  },
+  {
+   "name": "Middle Shabelle",
+   "type": "region",
+   "country": "Somalia",
+   "parent": "Somalia",
+   "significance": "Region north-east of Mogadishu where new offensive operations were claimed."
+  },
+  {
+   "name": "Jubaland",
+   "type": "region",
+   "country": "Somalia",
+   "parent": "Somalia",
+   "significance": "Semi-autonomous southern state led by Ahmed Madobe, expected to open its own offensive."
+  },
+  {
+   "name": "Puntland",
+   "type": "region",
+   "country": "Somalia",
+   "parent": "Somalia",
+   "significance": "Mentioned as another semi-autonomous region."
+  },
+  {
+   "name": "El Adde",
+   "type": "town",
+   "country": "Somalia",
+   "parent": "Somalia",
+   "significance": "Site of the 2016 Shabaab attack that routed a Kenyan base."
+  },
+  {
+   "name": "Northwest Syria",
+   "type": "region",
+   "country": "Syria",
+   "parent": "Syria",
+   "significance": "HTS's statelet, seeking legitimacy."
+  },
+  {
+   "name": "Helmand",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Example of districts changing hands between the Taliban and the Afghan government."
+  },
+  {
+   "name": "Northeast Kenya",
+   "type": "region",
+   "country": "Kenya",
+   "parent": "Kenya",
+   "significance": "Shabaab already has a sizable presence there."
+  },
+  {
+   "name": "Kenya",
+   "type": "country",
+   "country": "Kenya",
+   "parent": "",
+   "significance": "Concern about spillover from the Jubaland offensive, and possible Kenyan troop moves north into Somalia."
+  },
+  {
+   "name": "Ethiopia",
+   "type": "country",
+   "country": "Ethiopia",
+   "parent": "",
+   "significance": "Shabaab incursion in early 2022. The border regions of Galgaduud and Hiran may see more incursions."
+  },
+  {
+   "name": "Hiran",
+   "type": "region",
+   "country": "Somalia",
+   "parent": "Somalia",
+   "significance": "Offensive area bordering Ethiopia (transcribed 'Iran')."
+  },
+  {
+   "name": "Somaliland",
+   "type": "region",
+   "country": "Somalia",
+   "parent": "Somalia",
+   "significance": "A suicide bombing in its claimed territory the previous month was the first since 2018."
+  },
+  {
+   "name": "Anbar province",
+   "type": "province",
+   "country": "Iraq",
+   "parent": "Iraq",
+   "significance": "Roggio cites understanding Anbar through al-Qaeda in Iraq propaganda."
+  },
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Long War Journal has been banned there for about 10 years."
+  }
+ ],
+ "events": [
+  {
+   "date": "2022-07",
+   "date_precision": "month",
+   "type": "strike",
+   "description": "US airstrike (most likely a drone) kills Ayman al-Zawahiri in Kabul at the end of July 2022; he was sheltered by Sirajuddin Haqqani's network.",
+   "place": "Kabul",
+   "actors": [
+    "United States",
+    "Ayman al-Zawahiri",
+    "Sirajuddin Haqqani"
+   ],
+   "timestamp": "02:59"
+  },
+  {
+   "date": "2011",
+   "date_precision": "year",
+   "type": "death",
+   "description": "US raid kills Osama bin Laden; al-Qaeda took about six weeks to announce a successor.",
+   "place": "Abbottabad",
+   "actors": [
+    "United States",
+    "Osama bin Laden",
+    "al-Qaeda"
+   ],
+   "timestamp": "04:30"
+  },
+  {
+   "date": "2008",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "Shabaab figure pledges allegiance to bin Laden on behalf of the group; al-Qaeda never officially responded and told Shabaab to keep it quiet.",
+   "place": "Somalia",
+   "actors": [
+    "al-Shabaab",
+    "Osama bin Laden",
+    "Sulayman Abu Nafan"
+   ],
+   "timestamp": "22:35"
+  },
+  {
+   "date": "approx 2012",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "Zawahiri, as al-Qaeda emir, decides to make the Shabaab oath of allegiance public, against bin Laden's earlier policy. The year is inferred, not stated.",
+   "place": "",
+   "actors": [
+    "Ayman al-Zawahiri",
+    "al-Shabaab"
+   ],
+   "timestamp": "24:14"
+  },
+  {
+   "date": "approx 2010",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "During the 2010-2011 drought, Shabaab downplayed its al-Qaeda ties while distributing foreign aid, yet featured American al-Qaeda member Jehad Mostafa at aid events.",
+   "place": "Somalia",
+   "actors": [
+    "al-Shabaab",
+    "Jehad Serwan Mostafa"
+   ],
+   "timestamp": "24:44"
+  },
+  {
+   "date": "2022-08",
+   "date_precision": "month",
+   "type": "attack",
+   "description": "Shabaab lays siege to the Hayat Hotel in Mogadishu for more than 30 hours, killing dozens, its longest hotel siege in the city.",
+   "place": "Mogadishu",
+   "actors": [
+    "al-Shabaab"
+   ],
+   "timestamp": "29:27"
+  },
+  {
+   "date": "approx 2022-08",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "After the hotel siege, Hassan Sheikh Mohamud vows to defeat Shabaab within one year.",
+   "place": "Somalia",
+   "actors": [
+    "Hassan Sheikh Mohamud"
+   ],
+   "timestamp": "30:23"
+  },
+  {
+   "date": "2022-09",
+   "date_precision": "month",
+   "type": "offensive",
+   "description": "Somalia launches the largest offensive against Shabaab since about 2011 in mid-September, led by the SNA and Ma'awisley with ATMIS and US support, in Hiraan, Galgaduud and Bay.",
+   "place": "Hiraan",
+   "actors": [
+    "Somali National Army",
+    "Ma'awisley",
+    "ATMIS",
+    "United States"
+   ],
+   "timestamp": "29:12"
+  },
+  {
+   "date": "approx 2022-09",
+   "date_precision": "approx",
+   "type": "strike",
+   "description": "US 'defensive' airstrike in support of Somali forces in contact allegedly kills 27 Shabaab fighters.",
+   "place": "Somalia",
+   "actors": [
+    "United States"
+   ],
+   "timestamp": "36:20"
+  },
+  {
+   "date": "approx 2022-09",
+   "date_precision": "approx",
+   "type": "strike",
+   "description": "US airstrike kills Shabaab co-founder and Dawa head Abdullah Yare, who had a $3 million bounty.",
+   "place": "Somalia",
+   "actors": [
+    "United States",
+    "Abdullah Yare"
+   ],
+   "timestamp": "36:38"
+  },
+  {
+   "date": "approx 2022-09",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "Shabaab spokesman Ali Rage releases a video accepting Hassan Sheikh's challenge to face the government head on.",
+   "place": "Somalia",
+   "actors": [
+    "Ali Mohamud Rage",
+    "al-Shabaab"
+   ],
+   "timestamp": "42:09"
+  },
+  {
+   "date": "approx 2022-10",
+   "date_precision": "approx",
+   "type": "attack",
+   "description": "Triple suicide bombing in Beledweyne hits a clan-fighter mobilization center, then emergency responders; about 30 or more killed.",
+   "place": "Beledweyne",
+   "actors": [
+    "al-Shabaab"
+   ],
+   "timestamp": "44:44"
+  },
+  {
+   "date": "approx 2022-10",
+   "date_precision": "approx",
+   "type": "offensive",
+   "description": "Somalia reports new offensive operations in Middle Shabelle; Shabaab retaliates, claiming to have killed Ugandan and Burundian troops.",
+   "place": "Middle Shabelle",
+   "actors": [
+    "Somali National Army",
+    "al-Shabaab"
+   ],
+   "timestamp": "38:53"
+  },
+  {
+   "date": "approx 2022-10",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "Ahmed Madobe announces Jubaland forces will soon start their own counteroffensive against Shabaab.",
+   "place": "Jubaland",
+   "actors": [
+    "Ahmed Madobe",
+    "Jubaland"
+   ],
+   "timestamp": "39:53"
+  },
+  {
+   "date": "approx 2022-10",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "The Somali government bans accounts it deems Shabaab propaganda, citing its terrorism act, which risks catching analysts and journalists.",
+   "place": "Somalia",
+   "actors": [
+    "Federal Government of Somalia"
+   ],
+   "timestamp": "51:58"
+  },
+  {
+   "date": "2016",
+   "date_precision": "year",
+   "type": "attack",
+   "description": "Shabaab routs a Kenyan KDF base at El Adde; Kenya downplayed it until Shabaab released video and photos.",
+   "place": "El Adde",
+   "actors": [
+    "al-Shabaab",
+    "Kenya Defence Forces"
+   ],
+   "timestamp": "53:26"
+  },
+  {
+   "date": "2022-10",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "The Somali federal government stated that sharing Shabaab propaganda violates its terrorism act and banned many accounts.",
+   "place": "Somalia",
+   "actors": [
+    "Federal Government of Somalia",
+    "al-Shabaab"
+   ],
+   "timestamp": "52:10"
+  },
+  {
+   "date": "2016",
+   "date_precision": "year",
+   "type": "attack",
+   "description": "Shabaab routed a Kenyan base at el-Adde. Kenya initially denied the attack, then downplayed it.",
+   "place": "El-Adde",
+   "actors": [
+    "al-Shabaab",
+    "Kenya Defence Forces"
+   ],
+   "timestamp": "53:26"
+  },
+  {
+   "date": "2022",
+   "date_precision": "year",
+   "type": "attack",
+   "description": "Shabaab overran a Burundian base in Middle Shabelle and killed dozens of troops.",
+   "place": "Middle Shabelle",
+   "actors": [
+    "al-Shabaab",
+    "Burundian troops"
+   ],
+   "timestamp": "54:11"
+  },
+  {
+   "date": "2022",
+   "date_precision": "year",
+   "type": "attack",
+   "description": "Shabaab incursion into Ethiopia early in the year.",
+   "place": "Ethiopia",
+   "actors": [
+    "al-Shabaab"
+   ],
+   "timestamp": "58:01"
+  },
+  {
+   "date": "2022-09",
+   "date_precision": "approx",
+   "type": "attack",
+   "description": "Shabaab suicide bombing in Somaliland-claimed territory controlled de facto by Puntland, the first in that territory since 2018.",
+   "place": "Puntland",
+   "actors": [
+    "al-Shabaab",
+    "Puntland",
+    "Somaliland"
+   ],
+   "timestamp": "58:18"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Ayman al-Zawahiri",
+   "target": "Sirajuddin Haqqani",
+   "type": "sheltered_by",
+   "detail": "Zawahiri was sheltered in Kabul by Sirajuddin Haqqani's network until the July 2022 US strike.",
+   "date": "2022-07",
+   "confidence": "stated",
+   "timestamp": "03:09",
+   "quote": "He was being sheltered by Sirajun Haqqani"
+  },
+  {
+   "source": "United States",
+   "target": "Ayman al-Zawahiri",
+   "type": "killed",
+   "detail": "US airstrike, most likely a drone, killed Zawahiri in Kabul.",
+   "date": "2022-07",
+   "confidence": "stated",
+   "timestamp": "02:59",
+   "quote": "Zawahiri was killed by the U.S. in a, well, an airstrike, most likely a drone in Kabul"
+  },
+  {
+   "source": "Ayman al-Zawahiri",
+   "target": "Kabul",
+   "type": "located_in",
+   "detail": "Zawahiri lived in a Kabul safe house run by a friend or member of Haqqani leadership.",
+   "date": "2022",
+   "confidence": "stated",
+   "timestamp": "11:19",
+   "quote": "killed in Kabul at a safe house run by a friend or a member of Sirajun Haqani's leadership"
+  },
+  {
+   "source": "Sirajuddin Haqqani",
+   "target": "Taliban",
+   "type": "deputy_of",
+   "detail": "One of two deputy Taliban emirs and also interior minister.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "03:24",
+   "quote": "one of two deputy Taliban emirs, the other being Mullah Akub"
+  },
+  {
+   "source": "Mullah Yaqoob",
+   "target": "Taliban",
+   "type": "deputy_of",
+   "detail": "The other deputy Taliban emir.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "03:24",
+   "quote": "the other being Mullah Akub, the son of Mullah Omar"
+  },
+  {
+   "source": "Mullah Yaqoob",
+   "target": "Mullah Mohammad Omar",
+   "type": "family",
+   "detail": "Yaqub is the son of Taliban founder Mullah Omar.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "03:24",
+   "quote": "Mullah Akub, the son of Muil Omar, the founder of the Taliban"
+  },
+  {
+   "source": "Sirajuddin Haqqani",
+   "target": "Haqqani Network",
+   "type": "leads",
+   "detail": "Head of the al-Qaeda-linked, allied Taliban faction.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "03:09",
+   "quote": "head of the al-Qaeda linked, allied subgroup... a faction of the Taliban"
+  },
+  {
+   "source": "Haqqani Network",
+   "target": "al-Qaeda",
+   "type": "allied_with",
+   "detail": "The Haqqani faction is al-Qaeda-linked and sheltered its emir.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "03:09",
+   "quote": "al-Qaeda linked, allied subgroup"
+  },
+  {
+   "source": "Taliban",
+   "target": "al-Qaeda",
+   "type": "allied_with",
+   "detail": "They work together and the Taliban's wish to hide Zawahiri's Kabul death takes precedence over al-Qaeda's wish to publicize it.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "14:08",
+   "quote": "this is part of the arrangement between the Taliban and al-Qaeda. They're going to work together to further each other's ends"
+  },
+  {
+   "source": "Taliban",
+   "target": "United States",
+   "type": "other",
+   "detail": "The Taliban signed the withdrawal deal promising not to shelter foreign terrorist groups; the Zawahiri killing undermines that claim.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "11:02",
+   "quote": "The Taliban as part of that deal that it's signed, which really is the withdrawal deal with the U.S., it claimed that it wouldn't support al-Qaeda"
+  },
+  {
+   "source": "Ayman al-Zawahiri",
+   "target": "Osama bin Laden",
+   "type": "succeeded",
+   "detail": "Zawahiri was al-Qaeda emir for 11-plus years after bin Laden's killing.",
+   "date": "2011",
+   "confidence": "stated",
+   "timestamp": "07:40",
+   "quote": "he was in charge of al-Qaeda for 11 plus years. And his predecessor was a charge of Al-Qaeda for 11 years"
+  },
+  {
+   "source": "Saif al-Adel",
+   "target": "Iran",
+   "type": "located_in",
+   "detail": "Supposedly based in Iran; frontrunner to succeed Zawahiri.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "15:34",
+   "quote": "both of these dudes being in Iran puts al-Qaeda in a weird place"
+  },
+  {
+   "source": "Abd al-Rahman al-Maghrebi",
+   "target": "Iran",
+   "type": "located_in",
+   "detail": "Supposedly based in Iran; possible successor.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "15:29",
+   "quote": "if the new successor is Abd al-Rahman al-Maghrebi, he's also supposedly in Iran"
+  },
+  {
+   "source": "Saif al-Adel",
+   "target": "Abd al-Rahman al-Maghrebi",
+   "type": "met_with",
+   "detail": "Pictured together, with another al-Qaeda leader, in central Iran in a photo from before 2015.",
+   "date": "approx 2015",
+   "confidence": "stated",
+   "timestamp": "17:53",
+   "quote": "photo came out with Seifal Adel and Macri and Abu Muhammad al-Mazri"
+  },
+  {
+   "source": "Saif al-Adel",
+   "target": "Ayman al-Zawahiri",
+   "type": "other",
+   "detail": "Saif al-Adel and al-Maghrebi are named as frontrunners to succeed Zawahiri.",
+   "date": "2022",
+   "confidence": "stated",
+   "timestamp": "17:34",
+   "quote": "those are the frontrunners. Certainly, Saif al-Adel is the frontrunner"
+  },
+  {
+   "source": "Sulayman Abu Nafan",
+   "target": "Osama bin Laden",
+   "type": "other",
+   "detail": "Pledged allegiance to bin Laden on behalf of Shabaab, about 2008.",
+   "date": "2008",
+   "confidence": "stated",
+   "timestamp": "22:29",
+   "quote": "pledging allegiance to bin Laden on behalf of the organization in, I believe, 2008"
+  },
+  {
+   "source": "Osama bin Laden",
+   "target": "Ahmed Abdi Godane",
+   "type": "other",
+   "detail": "Bin Laden told the Shabaab emir to keep the affiliation quiet so aid distribution during the drought was not disrupted.",
+   "date": "approx 2010",
+   "confidence": "stated",
+   "timestamp": "22:50",
+   "quote": "yes, Shabab is a part of Al-Qaeda... but don't publicize this"
+  },
+  {
+   "source": "Ayman al-Zawahiri",
+   "target": "al-Shabaab",
+   "type": "other",
+   "detail": "As emir, Zawahiri chose to make Shabaab's oath of allegiance public.",
+   "date": "approx 2012",
+   "confidence": "stated",
+   "timestamp": "24:14",
+   "quote": "Zahouhiri decided to make the oath of allegiance public"
+  },
+  {
+   "source": "al-Shabaab",
+   "target": "al-Qaeda",
+   "type": "member_of",
+   "detail": "Shabaab is al-Qaeda's East African branch.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "01:57",
+   "quote": "Shab, which is al-Qaeda's branch in East Africa"
+  },
+  {
+   "source": "Jehad Serwan Mostafa",
+   "target": "Ayman al-Zawahiri",
+   "type": "reports_to",
+   "detail": "Served as Zawahiri's personal representative inside Shabaab.",
+   "date": "approx 2010",
+   "confidence": "stated",
+   "timestamp": "25:21",
+   "quote": "Jihad Mustafa who was sent there as the personal representative of Zawahri"
+  },
+  {
+   "source": "Jehad Serwan Mostafa",
+   "target": "al-Shabaab",
+   "type": "member_of",
+   "detail": "American al-Qaeda member who rose to deputy emir and then overall emir within Shabaab, per the hosts, and is still thought active.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "25:29",
+   "quote": "at that point, he was a deputy mayor, but eventually became... the overall mirror"
+  },
+  {
+   "source": "Abdullah Yare",
+   "target": "al-Shabaab",
+   "type": "member_of",
+   "detail": "Co-founder of Shabaab and head of Dawa.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "36:38",
+   "quote": "a co-founder of Shabab, Abdullah Hayare, who actually, he was the head of Dawa"
+  },
+  {
+   "source": "United States",
+   "target": "Abdullah Yare",
+   "type": "killed",
+   "detail": "Killed in a US airstrike during the Somali offensive.",
+   "date": "approx 2022-09",
+   "confidence": "stated",
+   "timestamp": "36:38",
+   "quote": "another one, they killed a co-founder of Shabab, Abdullah Hayare"
+  },
+  {
+   "source": "Hassan Sheikh Mohamud",
+   "target": "Mohamed Abdullahi Farmajo",
+   "type": "succeeded",
+   "detail": "Hassan Sheikh returned to the presidency for a second non-consecutive term after Farmajo.",
+   "date": "2022",
+   "confidence": "stated",
+   "timestamp": "29:59",
+   "quote": "this is his second non-consecutive term"
+  },
+  {
+   "source": "Ahmed Madobe",
+   "target": "Jubaland",
+   "type": "leads",
+   "detail": "Leads Jubaland and its regional force, separate from the SNA.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "39:42",
+   "quote": "it's led by this guy named Ahma Madobe"
+  },
+  {
+   "source": "Ahmed Madobe",
+   "target": "al-Shabaab",
+   "type": "rival_of",
+   "detail": "A former rebel who is anti-Shabaab and plans a counteroffensive.",
+   "date": "2022-10",
+   "confidence": "stated",
+   "timestamp": "39:51",
+   "quote": "he's anti-Shabaab. He announced that his government or his regional force will likely start their own counter-offensive"
+  },
+  {
+   "source": "Ali Mohamud Rage",
+   "target": "al-Shabaab",
+   "type": "member_of",
+   "detail": "Main Shabaab spokesman.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "42:09",
+   "quote": "their main spokesman Ali Raji"
+  },
+  {
+   "source": "al-Shabaab",
+   "target": "Kenya Defence Forces",
+   "type": "other",
+   "detail": "Shabaab routed a KDF base at el-Adde in 2016, and Kenya downplayed the loss.",
+   "date": "2016",
+   "confidence": "stated",
+   "timestamp": "53:32",
+   "quote": "Shabab just absolutely routed a Kenyan base"
+  },
+  {
+   "source": "al-Shabaab",
+   "target": "Burundian troops",
+   "type": "other",
+   "detail": "Shabaab overran a Burundian base in Middle Shabelle earlier in 2022 and killed dozens of troops.",
+   "date": "2022",
+   "confidence": "stated",
+   "timestamp": "54:14",
+   "quote": "the Burundian base in Middle Shabell that was overran"
+  },
+  {
+   "source": "al-Shabaab",
+   "target": "Northeast Kenya",
+   "type": "located_in",
+   "detail": "Shabaab has a sizable presence in northeast Kenya.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "57:35",
+   "quote": "Shabab already has a sizable presence in northeast Kenya"
+  },
+  {
+   "source": "Jubaland",
+   "target": "al-Shabaab",
+   "type": "rival_of",
+   "detail": "Jubaland is expected to launch an offensive against Shabaab.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "57:24",
+   "quote": "when Jubiland does start their offensive"
+  },
+  {
+   "source": "Federal Government of Somalia",
+   "target": "al-Shabaab",
+   "type": "rival_of",
+   "detail": "The government bans Shabaab propaganda and is conducting an offensive against the group.",
+   "date": "2022",
+   "confidence": "stated",
+   "timestamp": "52:10",
+   "quote": "anyone who shares Shabh propaganda is violation of our terrorism act"
+  },
+  {
+   "source": "al-Shabaab",
+   "target": "Puntland",
+   "type": "rival_of",
+   "detail": "Shabaab bombed a disputed area controlled de facto by Puntland.",
+   "date": "2022-09",
+   "confidence": "stated",
+   "timestamp": "58:23",
+   "quote": "Shabab did a suicide bombing in an area of northern Somalia"
+  },
+  {
+   "source": "Abu al-Khayr al-Masri",
+   "target": "Iran",
+   "type": "located_in",
+   "detail": "Pictured with Saif al-Adel and al-Maghrebi in central Iran before 2015 (identity inferred from Weiss's garbled correction).",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "18:18",
+   "quote": "Either way, it was just another al-Qaeda leader based in Iran."
+  },
+  {
+   "source": "Sirajuddin Haqqani",
+   "target": "Taliban",
+   "type": "member_of",
+   "detail": "Serves as Taliban interior minister.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "03:38",
+   "quote": "Sirajudin also serves as ... the Taliban's interior minister as well."
+  },
+  {
+   "source": "Jehad Serwan Mostafa",
+   "target": "al-Qaeda",
+   "type": "member_of",
+   "detail": "American citizen and al-Qaeda member sent to Shabaab as Zawahiri's personal representative.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "24:54",
+   "quote": "jihad Sir Juan Mustafa, who is ... an American citizen, but a member of Al-Qaeda."
+  }
+ ],
+ "sources_cited": [
+  "Shabaab propaganda photos and videos",
+  "Somali federal government statement on terrorism act"
+ ],
+ "key_claims": [
+  "The current offensive is the biggest threat Shabaab has faced since 2011, according to Weiss.",
+  "Shabaab habitually makes tactical retreats, withdrawing from one area and appearing in another.",
+  "A Jubaland offensive could push Shabaab fighters into northeast Kenya or Ethiopia.",
+  "Shabaab has expanded into northern Somalia, as shown by the first suicide bombing in Somaliland-claimed territory since 2018.",
+  "Kenya and Burundi both initially denied or downplayed Shabaab victories, and Shabaab's photos and videos later contradicted them.",
+  "Somalia's broad ban on sharing Shabaab propaganda could catch journalists and analysts, though the hosts support the government."
+ ]
+}

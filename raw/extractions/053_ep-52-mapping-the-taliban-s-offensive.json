@@ -1,0 +1,870 @@
+{
+ "episode": {
+  "idx": 53,
+  "title": "Ep. 52 - Mapping the Taliban’s Offensive",
+  "published": "Fri, 25 Jun 2021 13:07:44 +0000",
+  "guid": "7e17e7b2-d6e6-4ca0-9643-6dddfbd5aa17"
+ },
+ "persons": [
+  {
+   "name": "Mark Milley",
+   "aliases": [
+    "Mark Millie"
+   ],
+   "role": "Chairman of the US Joint Chiefs of Staff",
+   "organizations": [
+    "US military",
+    "Joint Chiefs of Staff"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Washington"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "10:02",
+     "quote": "General Mark Millie, who is the chairman of the joint chiefs of staff, testified for House Armed Services Committee."
+    },
+    {
+     "timestamp": "10:21",
+     "quote": "if you work out the math of what he said, that he basically had it as 30 districts had changed hands"
+    }
+   ]
+  },
+  {
+   "name": "Ahmad Shah Massoud",
+   "aliases": [
+    "Masoud"
+   ],
+   "role": "Northern Alliance leader (historical); Panjshir was his home base",
+   "organizations": [
+    "Northern Alliance"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "dead",
+   "status_detail": "Death not discussed in this chunk",
+   "family": [],
+   "locations": [
+    "Panjshir"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "03:39",
+     "quote": "they fully controlled the provinces of Panshir, obviously. That was Masoud's home base."
+    }
+   ]
+  },
+  {
+   "name": "Barack Obama",
+   "aliases": [
+    "President Obama"
+   ],
+   "role": "Former US president who ordered the December 2009 surge and set a withdrawal timetable",
+   "organizations": [
+    "US government"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "24:48",
+     "quote": "surge in forces ordered by President Obama in December 2009"
+    },
+    {
+     "timestamp": "25:34",
+     "quote": "President Obama, he put in a timetable. So he told the Taliban how long they needed to lay low."
+    }
+   ]
+  },
+  {
+   "name": "John Nicholson",
+   "aliases": [
+    "General Nicholson",
+    "John W. Nicholson Jr."
+   ],
+   "role": "Commander of Resolute Support and US Forces Afghanistan (until 2018)",
+   "organizations": [
+    "Resolute Support Mission",
+    "US military"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "42:44",
+     "quote": "in November of 2017, General John W. Nicholson Jr. ... said that the, quote, most telling metric for success is population control"
+    }
+   ]
+  },
+  {
+   "name": "Austin Scott Miller",
+   "aliases": [
+    "General Austin Miller",
+    "Scott Miller",
+    "Austin Miller"
+   ],
+   "role": "Commander of Resolute Support and US Forces Afghanistan (from 2018)",
+   "organizations": [
+    "Resolute Support Mission",
+    "US military"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "43:39",
+     "quote": "the new commander in Afghanistan, General Austin Miller ... said that the goal was to bring about a political settlement for the war"
+    }
+   ]
+  },
+  {
+   "name": "Alexander Kutowski",
+   "aliases": [
+    "Alexander",
+    "Zan"
+   ],
+   "role": "Former FDD data analyst who helped Bill Roggio move the district map to Tableau; now at the National Security Council",
+   "organizations": [
+    "FDD",
+    "National Security Council"
+   ],
+   "nationality_or_origin": "",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "41:07",
+     "quote": "Alexander Kutowski, who now works at the National Security Council. She offered to help really good with data. And she used a product called Tableau."
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Taliban",
+   "aliases": [
+    "Afghan Taliban"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda"
+   ],
+   "rivals": [
+    "Afghan government",
+    "National Directorate of Security"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Conducting a major 2021 offensive, especially in the north. Hosts say al-Qaeda is deeply embedded in the Taliban."
+  },
+  {
+   "name": "al-Qaeda",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Hosts say it helped integrate Tajik and Uzbek terror groups into the Taliban rank and file, and is embedded in Taliban-controlled areas such as Helmand."
+  },
+  {
+   "name": "Afghan government",
+   "aliases": [
+    "Afghan security forces",
+    "Afghan military"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "US military",
+    "NATO"
+   ],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Forces are surrendering districts, bases and outposts to the Taliban. The government is promoting a 'national uprising' of local militias."
+  },
+  {
+   "name": "National Directorate of Security",
+   "aliases": [
+    "NDS"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [
+    "Afghan government"
+   ],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Afghan intelligence agency, described as the CIA and FBI rolled into one. The Taliban hate it for targeting their leadership."
+  },
+  {
+   "name": "Northern Alliance",
+   "aliases": [],
+   "type": "militia",
+   "parent_or_allies": [],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Historical anti-Taliban coalition. Held Panjshir and Badakhshan, which was its headquarters."
+  },
+  {
+   "name": "US military",
+   "aliases": [
+    "Department of Defense"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "NATO",
+    "Resolute Support"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Hosts say it consistently downplayed Taliban control and stopped district-level tracking in October 2018."
+  },
+  {
+   "name": "Resolute Support Mission",
+   "aliases": [
+    "RS",
+    "Resolute Support"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "NATO",
+    "US military"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "NATO command in Afghanistan, backboned by the US military. Supplied the data behind SIGAR's district maps."
+  },
+  {
+   "name": "NATO",
+   "aliases": [
+    "NATO headquarters"
+   ],
+   "type": "international body",
+   "parent_or_allies": [
+    "US military"
+   ],
+   "rivals": [],
+   "country_base": "",
+   "notes": "A NATO headquarters contact recently asked Bill Roggio about his map."
+  },
+  {
+   "name": "Special Inspector General for Afghanistan Reconstruction",
+   "aliases": [
+    "SIGAR",
+    "Cigar"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Issues quarterly reports to Congress. Produced district-control maps from DoD/Resolute Support data."
+  },
+  {
+   "name": "FDD's Long War Journal",
+   "aliases": [
+    "FDD",
+    "Foundation for the Defense of Democracies"
+   ],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Publisher of Long War Journal and the host organization."
+  },
+  {
+   "name": "House Armed Services Committee",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Heard Milley's testimony on 23 June 2021."
+  },
+  {
+   "name": "Awakening movement",
+   "aliases": [
+    "Concerned Citizens",
+    "Sahwa"
+   ],
+   "type": "militia",
+   "parent_or_allies": [
+    "US military"
+   ],
+   "rivals": [
+    "Islamic State of Iraq"
+   ],
+   "country_base": "Iraq",
+   "notes": "Analogy to the Afghan government's 'uprising' militias. Organized largely by the US military in Anbar, Baghdad, Ninewa and Salahuddin."
+  },
+  {
+   "name": "Islamic State of Iraq",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [
+    "Awakening movement"
+   ],
+   "country_base": "Iraq",
+   "notes": "Jihadist group the Awakenings fought."
+  },
+  {
+   "name": "Tehrik-e-Taliban Pakistan",
+   "aliases": [
+    "Pakistani Taliban",
+    "Taliban in Pakistan"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Roggio's early mapping project tracked its takeover of tribal areas in northwestern Pakistan around 2007-2008."
+  },
+  {
+   "name": "National Security Council",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Current employer of Alexander Kutowski."
+  },
+  {
+   "name": "United Nations",
+   "aliases": [
+    "UN"
+   ],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "A UN official estimated 50 or more districts changed hands."
+  },
+  {
+   "name": "Biden administration",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [
+    "US military"
+   ],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Hosts say it 'owns' the Afghanistan outcome and has an interest in downplaying the collapse."
+  },
+  {
+   "name": "U.S. Forces Afghanistan",
+   "aliases": [
+    "USFOR-A"
+   ],
+   "type": "military",
+   "parent_or_allies": [
+    "NATO"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Hosts say it dismissed the district-control assessments."
+  },
+  {
+   "name": "U.S. Congress",
+   "aliases": [
+    "Congress"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "A U.S. official testified there the day before the recording about how many districts the Taliban controls."
+  }
+ ],
+ "places": [
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Site of the Taliban offensive and the district-mapping project."
+  },
+  {
+   "name": "Kunduz",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Taliban entered Kunduz city. All surrounding districts and all districts in the province are under Taliban control."
+  },
+  {
+   "name": "Faryab",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Significant Taliban gains in the north."
+  },
+  {
+   "name": "Takhar",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Taliban gains; the local NDS chief was executed after a base was overrun."
+  },
+  {
+   "name": "Samangan",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Significant Taliban gains in the north."
+  },
+  {
+   "name": "Paktia",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "About six districts fell to the Taliban in 48 hours."
+  },
+  {
+   "name": "Farah",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Looks bad for the government amid the western Taliban offensive."
+  },
+  {
+   "name": "Panjshir",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Massoud's home base, fully held by the Northern Alliance."
+  },
+  {
+   "name": "Badakhshan",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Northern Alliance headquarters; now mostly contested, with 3-4 districts under the Taliban."
+  },
+  {
+   "name": "Helmand",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Taliban stronghold. Roggio's mapping began here and in Kandahar in 2008."
+  },
+  {
+   "name": "Kandahar",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Focus of the Taliban offensive in 2008; Roggio's early mapping."
+  },
+  {
+   "name": "Baghran",
+   "type": "district",
+   "country": "Afghanistan",
+   "parent": "Helmand",
+   "significance": "Northern Helmand district that never left Taliban control, even during the surge."
+  },
+  {
+   "name": "Kabul",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Where a US military officer contacted Roggio about his map."
+  },
+  {
+   "name": "Anbar",
+   "type": "province",
+   "country": "Iraq",
+   "parent": "Iraq",
+   "significance": "Awakening movement analogy."
+  },
+  {
+   "name": "Al-Qaim",
+   "type": "town",
+   "country": "Iraq",
+   "parent": "Anbar",
+   "significance": "Roggio attended a meeting with a powerful tribal leader on his first Iraq embed in 2005."
+  },
+  {
+   "name": "Baghdad",
+   "type": "city",
+   "country": "Iraq",
+   "parent": "Iraq",
+   "significance": "Awakening movement area."
+  },
+  {
+   "name": "Northwestern Pakistan",
+   "type": "region",
+   "country": "Pakistan",
+   "parent": "Pakistan",
+   "significance": "Site of an early Roggio mapping project on Taliban control of tribal areas."
+  }
+ ],
+ "events": [
+  {
+   "date": "2021-05",
+   "date_precision": "month",
+   "type": "offensive",
+   "description": "Taliban offensive begins in earnest. Roggio's count of Taliban-controlled districts rises from about 73 to about 142 of 407 by 24 June, i.e. 69 districts gained, mostly in the north.",
+   "place": "Afghanistan",
+   "actors": [
+    "Taliban",
+    "Afghan government"
+   ],
+   "timestamp": "07:57"
+  },
+  {
+   "date": "2021-06-23",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "Gen. Mark Milley testified to the House Armed Services Committee, implying about 30 districts had changed hands and downplaying the offensive because no provincial capitals had fallen.",
+   "place": "Washington",
+   "actors": [
+    "Mark Milley",
+    "House Armed Services Committee"
+   ],
+   "timestamp": "10:02"
+  },
+  {
+   "date": "2021-06-24",
+   "date_precision": "day",
+   "type": "other",
+   "description": "Date the episode was recorded; used as the snapshot for district counts.",
+   "place": "",
+   "actors": [
+    "Bill Roggio",
+    "Tom Joscelyn"
+   ],
+   "timestamp": "07:36"
+  },
+  {
+   "date": "2021-06",
+   "date_precision": "approx",
+   "type": "attack",
+   "description": "Taliban entered Kunduz city and fighting began there.",
+   "place": "Kunduz",
+   "actors": [
+    "Taliban"
+   ],
+   "timestamp": "02:20"
+  },
+  {
+   "date": "2021-06",
+   "date_precision": "approx",
+   "type": "death",
+   "description": "After a base was overrun in Takhar, the Taliban executed the local NDS chief and the police chief. It was the only execution Roggio had seen during the offensive.",
+   "place": "Takhar",
+   "actors": [
+    "Taliban",
+    "National Directorate of Security"
+   ],
+   "timestamp": "04:59"
+  },
+  {
+   "date": "2009-12",
+   "date_precision": "month",
+   "type": "other",
+   "description": "President Obama ordered the surge in Afghanistan, which lasted through 2010 into 2011.",
+   "place": "Afghanistan",
+   "actors": [
+    "Barack Obama"
+   ],
+   "timestamp": "24:48"
+  },
+  {
+   "date": "2017-11",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Gen. Nicholson called population control the 'most telling' metric for success in Afghanistan.",
+   "place": "Afghanistan",
+   "actors": [
+    "John Nicholson"
+   ],
+   "timestamp": "42:44"
+  },
+  {
+   "date": "2018-10",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "US/Resolute Support discontinued the district control and population metrics as of 'limited decision-making value'. Gen. Austin Miller shifted the success measure to a political settlement.",
+   "place": "Afghanistan",
+   "actors": [
+    "Resolute Support Mission",
+    "Austin Scott Miller",
+    "US military"
+   ],
+   "timestamp": "43:20"
+  },
+  {
+   "date": "2014",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Roggio formalized his district-control map after an Afghan press report cited an anonymous official saying the Taliban controlled eight districts.",
+   "place": "Afghanistan",
+   "actors": [
+    "Bill Roggio"
+   ],
+   "timestamp": "26:06"
+  },
+  {
+   "date": "2018",
+   "date_precision": "year",
+   "type": "other",
+   "description": "Alexander Kutowski helped migrate the map to Tableau, enabling real-time updates.",
+   "place": "",
+   "actors": [
+    "Alexander Kutowski"
+   ],
+   "timestamp": "41:07"
+  },
+  {
+   "date": "2018-10",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "NATO, Resolute Support and U.S. Forces Afghanistan said district-control data was of limited decision-making value.",
+   "place": "Afghanistan",
+   "actors": [
+    "NATO",
+    "Resolute Support Mission",
+    "U.S. Forces Afghanistan"
+   ],
+   "timestamp": "49:08"
+  },
+  {
+   "date": "2021-06-24",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "A U.S. official testified before Congress on the number of districts the Taliban controls. The hosts doubt the analysis behind the figure.",
+   "place": "United States",
+   "actors": [
+    "U.S. Congress"
+   ],
+   "timestamp": "48:35"
+  },
+  {
+   "date": "2021-06-25",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "A person at NATO headquarters contacted Roggio about his map of Taliban district control.",
+   "place": "",
+   "actors": [
+    "NATO"
+   ],
+   "timestamp": "48:50"
+  },
+  {
+   "date": "2021-06",
+   "date_precision": "approx",
+   "type": "offensive",
+   "description": "Many districts fell to the Taliban in the preceding weeks.",
+   "place": "Afghanistan",
+   "actors": [
+    "Taliban",
+    "Afghan government"
+   ],
+   "timestamp": "52:49"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Taliban",
+   "target": "National Directorate of Security",
+   "type": "rival_of",
+   "detail": "The Taliban hate the NDS because it targets their leadership, and executed a local NDS chief in Takhar.",
+   "date": "2021-06",
+   "confidence": "stated",
+   "timestamp": "04:59",
+   "quote": "They did execute the local NDS chief after the base was overrun"
+  },
+  {
+   "source": "Taliban",
+   "target": "National Directorate of Security",
+   "type": "killed",
+   "detail": "The Taliban killed the head of the NDS and the police in Takhar.",
+   "date": "2021-06",
+   "confidence": "stated",
+   "timestamp": "04:59",
+   "quote": "They killed the head of the NDS and the police."
+  },
+  {
+   "source": "al-Qaeda",
+   "target": "Taliban",
+   "type": "allied_with",
+   "detail": "Hosts say al-Qaeda is deeply embedded in the Taliban insurgency and worked closely with the Taliban to integrate Tajik and Uzbek terror groups.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "36:59",
+   "quote": "al-Qaeda helped the Taliban work closely with the Taliban to integrate those, the Tajik and Uzbek terror groups into the Taliban rank and file."
+  },
+  {
+   "source": "Taliban",
+   "target": "al-Qaeda",
+   "type": "sheltered_by",
+   "detail": "Helmand is described as contested or controlled by the Taliban and al-Qaeda, i.e. al-Qaeda operates inside Taliban areas.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "37:04",
+   "quote": "Helmand is mostly contested or controlled by the Taliban and Al-Qaeda."
+  },
+  {
+   "source": "Ahmad Shah Massoud",
+   "target": "Panjshir",
+   "type": "located_in",
+   "detail": "Panjshir was Massoud's home base.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "03:39",
+   "quote": "That was Masoud's home base."
+  },
+  {
+   "source": "Northern Alliance",
+   "target": "Badakhshan",
+   "type": "located_in",
+   "detail": "Badakhshan hosted the Northern Alliance's headquarters.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "03:45",
+   "quote": "this is with the actual headquarters of the Northern Alliance."
+  },
+  {
+   "source": "Mark Milley",
+   "target": "US military",
+   "type": "member_of",
+   "detail": "Milley is chairman of the Joint Chiefs and downplayed the Taliban offensive.",
+   "date": "2021-06-23",
+   "confidence": "stated",
+   "timestamp": "10:02",
+   "quote": "Mark Millie, who is the chairman of the joint chiefs of staff, testified"
+  },
+  {
+   "source": "John Nicholson",
+   "target": "Resolute Support Mission",
+   "type": "leads",
+   "detail": "Nicholson was commander of Resolute Support and US Forces Afghanistan in 2017.",
+   "date": "2017-11",
+   "confidence": "stated",
+   "timestamp": "42:44",
+   "quote": "then the commander of Resolute Support in U.S. forces Afghanistan"
+  },
+  {
+   "source": "Austin Scott Miller",
+   "target": "John Nicholson",
+   "type": "succeeded",
+   "detail": "Miller became the new commander in Afghanistan by October 2018.",
+   "date": "2018-10",
+   "confidence": "stated",
+   "timestamp": "43:39",
+   "quote": "the new commander in Afghanistan, General Austin Miller"
+  },
+  {
+   "source": "Alexander Kutowski",
+   "target": "FDD's Long War Journal",
+   "type": "member_of",
+   "detail": "She helped FDD's Long War Journal build the Tableau map and drone-strike maps before moving to the NSC.",
+   "date": "2018",
+   "confidence": "stated",
+   "timestamp": "41:07",
+   "quote": "Alexander Kutowski, who now works at the National Security Council. She offered to help"
+  },
+  {
+   "source": "Barack Obama",
+   "target": "Taliban",
+   "type": "other",
+   "detail": "Hosts say Obama's surge timetable let the Taliban lay low and return after US forces left.",
+   "date": "2011",
+   "confidence": "stated",
+   "timestamp": "25:36",
+   "quote": "he told the Taliban how long they needed to lay low"
+  },
+  {
+   "source": "Resolute Support Mission",
+   "target": "Special Inspector General for Afghanistan Reconstruction",
+   "type": "other",
+   "detail": "SIGAR's district maps were based on DoD/Resolute Support information.",
+   "date": "2016",
+   "confidence": "stated",
+   "timestamp": "32:09",
+   "quote": "they're getting the information from Resolute Support, U.S. military"
+  },
+  {
+   "source": "NATO",
+   "target": "Resolute Support Mission",
+   "type": "other",
+   "detail": "Hosts link NATO and Resolute Support to the 2018 dismissal of district-control data as of limited decision-making value.",
+   "date": "2018-10",
+   "confidence": "stated",
+   "timestamp": "49:06",
+   "quote": "NATO said this doesn't matter. This is of limited decision-making value."
+  },
+  {
+   "source": "Taliban",
+   "target": "Helmand",
+   "type": "other",
+   "detail": "Roggio says the Taliban mostly control Helmand.",
+   "date": "2021-06",
+   "confidence": "stated",
+   "timestamp": "52:37",
+   "quote": "if you're going to try and tell us that Hellman is not mostly controlled by that Taliban at this point, well, we've got a problem"
+  },
+  {
+   "source": "Taliban",
+   "target": "Afghan government",
+   "type": "rival_of",
+   "detail": "The Taliban took many districts from the Afghan government in recent weeks.",
+   "date": "2021-06",
+   "confidence": "stated",
+   "timestamp": "52:49",
+   "quote": "all those districts that have fallen to the Taliban in recent weeks"
+  }
+ ],
+ "sources_cited": [
+  "SIGAR quarterly reports to Congress (district-control assessments)",
+  "Gen. Mark Milley's testimony to the House Armed Services Committee, 23 June 2021",
+  "Gen. John Nicholson's November 2017 statement on population control as a metric",
+  "US military October 2018 statement discontinuing the metric",
+  "Afghan press reports",
+  "UN official estimate (50+ districts)",
+  "Roggio's Long War Journal district control map",
+  "Bill Roggio's map of Taliban district control (Long War Journal)",
+  "U.S. official testimony before Congress, June 2021"
+ ],
+ "key_claims": [
+  "The Taliban gained about 69 districts between 1 May and 24 June 2021, taking control of roughly 142 of 407 districts, with about two-thirds of the gains in northern Afghanistan.",
+  "Afghan security forces are often surrendering districts and bases through negotiations via intermediaries, and the Taliban are mostly not carrying out mass executions, though a local NDS chief was killed in Takhar.",
+  "The Taliban are holding off on provincial capitals until the full Western withdrawal but are already encircling and assaulting them.",
+  "Hosts say the US military consistently downplayed Taliban control and ties to al-Qaeda, and dropped the district and population metrics in October 2018 when they showed a steady Taliban advance.",
+  "Hosts say al-Qaeda remains deeply embedded in the Taliban, citing its integration of Tajik and Uzbek groups in the north and its presence in Helmand.",
+  "The Afghan government's 'national uprising' framing is an unintentional admission of Taliban strength, and the militias risk being a return of the warlords.",
+  "SIGAR/Resolute Support maps used five control categories and undercounted Taliban control, e.g. rating three Helmand districts Taliban-controlled when about six were, partly because of reporting lag.",
+  "Hosts say U.S. and Afghan officials dislike Roggio's district-control map because it gives a more honest picture of Taliban gains.",
+  "Hosts say NATO, Resolute Support and USFOR-A dismissed the district data in 2018, and NATO is now asking for it.",
+  "Roggio says the Taliban mostly control Helmand province, contrary to Afghan official claims.",
+  "Hosts say the Taliban have taken many districts in recent weeks and doubt the Afghan government can retake most of them.",
+  "Hosts argue the map should have served as an alarm that the war effort was failing."
+ ]
+}

@@ -1,0 +1,816 @@
+{
+ "episode": {
+  "idx": 75,
+  "title": "Ep. 74 — Zawahiri in Afghanistan",
+  "published": "Mon, 01 Aug 2022 04:00:00 +0000",
+  "guid": "f0651517-0dc8-4709-9367-88db5ff98fd8"
+ },
+ "persons": [
+  {
+   "name": "Ayman al-Zawahiri",
+   "aliases": [
+    "Zawahari",
+    "Zawahiri"
+   ],
+   "role": "Emir (head) of al-Qaeda; bin Laden's deputy on 9/11",
+   "organizations": [
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Egyptian",
+   "status": "dead",
+   "status_detail": "Reported killed by a US counterterrorism operation in Kabul, Afghanistan (reported 1 Aug 2022, per episode intro added after recording)",
+   "family": [],
+   "locations": [
+    "Kabul",
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "00:00",
+     "quote": "the U.S. killed Ayman al-Zawahiri, the head of al-Qaeda, in a counterterrorism operation inside of Kabul"
+    },
+    {
+     "timestamp": "14:39",
+     "quote": "the report states that Ayman al-Zawahiri... is still alive... communicating freely"
+    },
+    {
+     "timestamp": "17:29",
+     "quote": "Zawahiri's apparent increased comfort and ability to communicate has coincided with the Taliban's takeover"
+    }
+   ]
+  },
+  {
+   "name": "Sirajuddin Haqqani",
+   "aliases": [
+    "Sirajun Haqani",
+    "Sirajun Hakani",
+    "Sarajuddin Hakani",
+    "Sarajun Khani",
+    "Sarjouin"
+   ],
+   "role": "Taliban deputy emir and interior minister; Specially Designated Global Terrorist",
+   "organizations": [
+    "Taliban",
+    "Haqqani Network",
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "",
+   "family": [
+    {
+     "relation": "father",
+     "name": "Jalaluddin Haqqani"
+    }
+   ],
+   "locations": [
+    "Kabul",
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "00:37",
+     "quote": "Sirajun Haqani, who is one of two deputy Taliban emirs, as well as its interior minister"
+    },
+    {
+     "timestamp": "18:24",
+     "quote": "served as a member of al-Qaeda's central committee or at Shurim Mijlays"
+    },
+    {
+     "timestamp": "18:51",
+     "quote": "interior ministry in Afghanistan issues passports"
+    }
+   ]
+  },
+  {
+   "name": "Jalaluddin Haqqani",
+   "aliases": [
+    "Jalaluddin Hakani"
+   ],
+   "role": "Famed Taliban leader, founder of the Haqqani Network",
+   "organizations": [
+    "Taliban",
+    "Haqqani Network"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "dead",
+   "status_detail": "Died several years ago",
+   "family": [
+    {
+     "relation": "son",
+     "name": "Sirajuddin Haqqani"
+    }
+   ],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "18:02",
+     "quote": "the son of Jalaluddin Hakani, who was famed... Taliban leader, who died several years ago"
+    }
+   ]
+  },
+  {
+   "name": "Mullah Yaqoob",
+   "aliases": [
+    "Mullah Yikoub",
+    "Mullah Yaqoub"
+   ],
+   "role": "Taliban deputy emir",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "",
+   "family": [
+    {
+     "relation": "father",
+     "name": "Mullah Omar"
+    }
+   ],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "18:40",
+     "quote": "The other is Mullah Yikoub, who is the son of Mullah Omar"
+    }
+   ]
+  },
+  {
+   "name": "Mullah Omar",
+   "aliases": [],
+   "role": "Founder of the Taliban",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "dead",
+   "status_detail": "",
+   "family": [
+    {
+     "relation": "son",
+     "name": "Mullah Yaqoob"
+    }
+   ],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "18:40",
+     "quote": "Mullah Yikoub, who is the son of Mullah Omar"
+    }
+   ]
+  },
+  {
+   "name": "Ahmad Massoud",
+   "aliases": [
+    "Ahmed Masu"
+   ],
+   "role": "Leader of the National Resistance Front",
+   "organizations": [
+    "National Resistance Front"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "",
+   "family": [
+    {
+     "relation": "father",
+     "name": "Ahmad Shah Massoud"
+    }
+   ],
+   "locations": [
+    "Panjshir",
+    "Baghlan",
+    "Andarab"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "04:50",
+     "quote": "led by the... son of Ahmed Shah Massoud"
+    },
+    {
+     "timestamp": "05:14",
+     "quote": "his son is currently in charge of the National Resistance Front"
+    }
+   ]
+  },
+  {
+   "name": "Ahmad Shah Massoud",
+   "aliases": [
+    "Ahmed Shah Massoud"
+   ],
+   "role": "Former leader of the Northern Alliance",
+   "organizations": [
+    "Northern Alliance"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "dead",
+   "status_detail": "Assassinated by al-Qaeda suicide bombers disguised as journalists, two days before 9/11",
+   "family": [
+    {
+     "relation": "son",
+     "name": "Ahmad Massoud"
+    }
+   ],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "04:58",
+     "quote": "two days prior to [9/11], he was executed by Al-Qaeda's suicide bombers who disguised themselves as journalists"
+    }
+   ]
+  },
+  {
+   "name": "Kenneth McKenzie",
+   "aliases": [
+    "General McKenzie"
+   ],
+   "role": "Former commander of US Central Command",
+   "organizations": [
+    "US Central Command"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "07:16",
+     "quote": "General McKenzie, the previous commander of U.S. Central Command, admitted that our ability to see in Afghanistan... is one to two percent"
+    }
+   ]
+  },
+  {
+   "name": "Zalmay Khalilzad",
+   "aliases": [
+    "Zal-Makal-Aid"
+   ],
+   "role": "Former US special representative for Afghanistan reconciliation",
+   "organizations": [],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "13:43",
+     "quote": "said basically the same thing just the other day in a series of tweets saying that we should engage the Taliban"
+    }
+   ]
+  },
+  {
+   "name": "Hassan Hassan",
+   "aliases": [
+    "Hassan, Hassan"
+   ],
+   "role": "Analyst who claimed in Nov 2020 that Zawahiri was dead",
+   "organizations": [],
+   "nationality_or_origin": "",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "16:11",
+     "quote": "folks like Hassan... saying in November 2020 that Zawahiri was dead"
+    }
+   ]
+  },
+  {
+   "name": "Edmund Fitton-Brown",
+   "aliases": [
+    "Edmund Fitton Brown"
+   ],
+   "role": "Former head of UN Analytical Support and Sanctions Monitoring Team",
+   "organizations": [
+    "UN Analytical Support and Sanctions Monitoring Team"
+   ],
+   "nationality_or_origin": "British",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": true,
+   "mentions": [
+    {
+     "timestamp": "16:50",
+     "quote": "I spoke to Edmund Fitton Brown, who... just left the position as the head of the... monitoring team"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "al-Qaeda",
+   "aliases": [
+    "Al-Qaeda"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban",
+    "Haqqani Network"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Leadership reportedly plays an advisory role with the Taliban; enjoys safe haven in Afghanistan."
+  },
+  {
+   "name": "Taliban",
+   "aliases": [
+    "Islamic Emirate of Afghanistan"
+   ],
+   "type": "political movement",
+   "parent_or_allies": [
+    "al-Qaeda"
+   ],
+   "rivals": [
+    "National Resistance Front",
+    "Afghanistan Freedom Front"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Controls all of Afghanistan; de facto administration includes key al-Qaeda allies."
+  },
+  {
+   "name": "Haqqani Network",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban",
+    "al-Qaeda"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Led by the Haqqani family."
+  },
+  {
+   "name": "National Resistance Front",
+   "aliases": [],
+   "type": "militia",
+   "parent_or_allies": [],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Led by Ahmad Massoud; operates in Panjshir and Baghlan (Andarab); guerrilla activity."
+  },
+  {
+   "name": "Afghanistan Freedom Front",
+   "aliases": [],
+   "type": "militia",
+   "parent_or_allies": [],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Likely composed of former military officers and NDS members; reported in north and east (Khost, Paktia)."
+  },
+  {
+   "name": "Northern Alliance",
+   "aliases": [],
+   "type": "militia",
+   "parent_or_allies": [],
+   "rivals": [
+    "Taliban",
+    "al-Qaeda"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Pre-9/11 resistance to the Taliban led by Ahmad Shah Massoud."
+  },
+  {
+   "name": "UN Analytical Support and Sanctions Monitoring Team",
+   "aliases": [
+    "UN Monitoring Team"
+   ],
+   "type": "international body",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "Its recent report said Zawahiri is alive and the Taliban and al-Qaeda remain close."
+  },
+  {
+   "name": "US Central Command",
+   "aliases": [
+    "CENTCOM"
+   ],
+   "type": "military",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": ""
+  },
+  {
+   "name": "Over-the-horizon counterterrorism center",
+   "aliases": [],
+   "type": "military",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United Arab Emirates",
+   "notes": "Based in Dubai, 100+ personnel, $19.5B budgeted; zero strikes in Afghanistan since Aug 2021 (as of recording)."
+  },
+  {
+   "name": "US State Department",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Said it does not support armed resistance to the Taliban."
+  },
+  {
+   "name": "Islamic State",
+   "aliases": [
+    "ISKP"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "",
+   "notes": "No US strikes against it since withdrawal."
+  },
+  {
+   "name": "al-Qaeda in Iraq",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Iraq",
+   "notes": "Took over parts of Anbar by 2013 and a large area by mid-2014."
+  },
+  {
+   "name": "PKK",
+   "aliases": [
+    "Kurdistan Workers Party",
+    "Syrian Democratic Forces"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Turkey",
+   "notes": "Mentioned as US partner against Islamic State."
+  },
+  {
+   "name": "National Directorate of Security",
+   "aliases": [
+    "NDS"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Former Afghan intelligence service."
+  }
+ ],
+ "places": [
+  {
+   "name": "Kabul",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Where Zawahiri was reportedly killed by a US operation."
+  },
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Safe haven for al-Qaeda under Taliban control."
+  },
+  {
+   "name": "Panjshir",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "National Resistance Front stronghold."
+  },
+  {
+   "name": "Baghlan",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "NRF operates in Andarab district."
+  },
+  {
+   "name": "Andarab",
+   "type": "district",
+   "country": "Afghanistan",
+   "parent": "Baghlan",
+   "significance": "NRF ambushes of Taliban forces."
+  },
+  {
+   "name": "Khost",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Afghanistan Freedom Front reportedly operating."
+  },
+  {
+   "name": "Paktia",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Afghanistan Freedom Front reportedly operating."
+  },
+  {
+   "name": "Shorabak",
+   "type": "district",
+   "country": "Afghanistan",
+   "parent": "Kandahar",
+   "significance": "Site of the October 2015 raid on al-Qaeda training camps."
+  },
+  {
+   "name": "Kandahar",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Province of the large al-Qaeda camp."
+  },
+  {
+   "name": "Paktika",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Where a senior al-Qaeda leader was killed months before the 2015 camp raid."
+  },
+  {
+   "name": "Dubai",
+   "type": "city",
+   "country": "United Arab Emirates",
+   "parent": "United Arab Emirates",
+   "significance": "Hosts the US over-the-horizon counterterrorism center."
+  },
+  {
+   "name": "Anbar",
+   "type": "province",
+   "country": "Iraq",
+   "parent": "Iraq",
+   "significance": "Where al-Qaeda in Iraq resurged by 2013."
+  }
+ ],
+ "events": [
+  {
+   "date": "2022-07-31",
+   "date_precision": "approx",
+   "type": "strike",
+   "description": "US counterterrorism operation reportedly kills Ayman al-Zawahiri in Kabul (reported 1 Aug 2022).",
+   "place": "Kabul",
+   "actors": [
+    "Ayman al-Zawahiri"
+   ],
+   "timestamp": "00:00"
+  },
+  {
+   "date": "2015-10",
+   "date_precision": "month",
+   "type": "attack",
+   "description": "US raid on two al-Qaeda training camps in Shorabak district, Kandahar, described as among the largest since 9/11.",
+   "place": "Shorabak",
+   "actors": [
+    "al-Qaeda"
+   ],
+   "timestamp": "08:23"
+  },
+  {
+   "date": "2020-11",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Claims by Hassan Hassan and others that Zawahiri was dead, which Roggio and Joscelyn disputed.",
+   "place": "",
+   "actors": [
+    "Hassan Hassan",
+    "Ayman al-Zawahiri"
+   ],
+   "timestamp": "16:15"
+  },
+  {
+   "date": "2021-08",
+   "date_precision": "month",
+   "type": "other",
+   "description": "US withdrawal from Afghanistan complete; Taliban takeover.",
+   "place": "Afghanistan",
+   "actors": [
+    "Taliban"
+   ],
+   "timestamp": "10:31"
+  },
+  {
+   "date": "2021-12",
+   "date_precision": "month",
+   "type": "statement",
+   "description": "Gen. McKenzie said US intelligence visibility in Afghanistan was 1-2% of pre-withdrawal.",
+   "place": "",
+   "actors": [
+    "Kenneth McKenzie"
+   ],
+   "timestamp": "07:16"
+  },
+  {
+   "date": "2001-09-09",
+   "date_precision": "approx",
+   "type": "death",
+   "description": "Ahmad Shah Massoud assassinated by al-Qaeda suicide bombers posing as journalists.",
+   "place": "Afghanistan",
+   "actors": [
+    "al-Qaeda",
+    "Ahmad Shah Massoud"
+   ],
+   "timestamp": "04:58"
+  },
+  {
+   "date": "2022-07",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "State Department spokesman says US does not support armed resistance to the Taliban.",
+   "place": "",
+   "actors": [
+    "US State Department"
+   ],
+   "timestamp": "03:31"
+  },
+  {
+   "date": "2022-07",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "UN Monitoring Team report says Zawahiri is alive and al-Qaeda and the Taliban remain close.",
+   "place": "",
+   "actors": [
+    "UN Analytical Support and Sanctions Monitoring Team"
+   ],
+   "timestamp": "14:39"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Sirajuddin Haqqani",
+   "target": "Jalaluddin Haqqani",
+   "type": "family",
+   "detail": "Sirajuddin is the son of Jalaluddin.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "18:02",
+   "quote": "the son of Jalaluddin Hakani"
+  },
+  {
+   "source": "Mullah Yaqoob",
+   "target": "Mullah Omar",
+   "type": "family",
+   "detail": "Yaqoub is the son of Mullah Omar.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "18:40",
+   "quote": "Mullah Yikoub, who is the son of Mullah Omar"
+  },
+  {
+   "source": "Ahmad Massoud",
+   "target": "Ahmad Shah Massoud",
+   "type": "family",
+   "detail": "Ahmad is the son of Ahmad Shah Massoud.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "04:50",
+   "quote": "son of Ahmed Shah Massoud"
+  },
+  {
+   "source": "Ahmad Massoud",
+   "target": "National Resistance Front",
+   "type": "leads",
+   "detail": "Massoud leads the NRF.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "05:14",
+   "quote": "his son is currently in charge of the National Resistance Front"
+  },
+  {
+   "source": "Ayman al-Zawahiri",
+   "target": "Sirajuddin Haqqani",
+   "type": "sheltered_by",
+   "detail": "Hosts say it is very likely Haqqani supported and sheltered Zawahiri in Kabul.",
+   "date": "2022",
+   "confidence": "inferred",
+   "timestamp": "00:43",
+   "quote": "very likely that Sirajun Hakani was supporting and sheltering Zawahiri"
+  },
+  {
+   "source": "Ayman al-Zawahiri",
+   "target": "Taliban",
+   "type": "sheltered_by",
+   "detail": "Zawahiri sheltered in Kabul with consent of senior Taliban leadership.",
+   "date": "2022",
+   "confidence": "stated",
+   "timestamp": "00:30",
+   "quote": "certainly with the express consent and support of senior Taliban leadership"
+  },
+  {
+   "source": "Sirajuddin Haqqani",
+   "target": "Taliban",
+   "type": "deputy_of",
+   "detail": "One of two deputy emirs.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "18:40",
+   "quote": "currently one of two deputy emirs of the Taliban"
+  },
+  {
+   "source": "Mullah Yaqoob",
+   "target": "Taliban",
+   "type": "deputy_of",
+   "detail": "The other deputy emir.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "18:40",
+   "quote": "The other is Mullah Yikoub"
+  },
+  {
+   "source": "Sirajuddin Haqqani",
+   "target": "al-Qaeda",
+   "type": "member_of",
+   "detail": "Reportedly served on al-Qaeda's central shura/committee at some time.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "18:29",
+   "quote": "served as a member of al-Qaeda's central committee"
+  },
+  {
+   "source": "Taliban",
+   "target": "al-Qaeda",
+   "type": "allied_with",
+   "detail": "UN says al-Qaeda advises the Taliban and the groups remain close.",
+   "date": "2022",
+   "confidence": "stated",
+   "timestamp": "16:02",
+   "quote": "Al-Qaeda's leadership reportedly plays an advisory role with the Taliban, and the groups remain close"
+  },
+  {
+   "source": "Ayman al-Zawahiri",
+   "target": "al-Qaeda",
+   "type": "leads",
+   "detail": "Head of al-Qaeda.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "14:42",
+   "quote": "He is the head of al-Qaeda"
+  },
+  {
+   "source": "al-Qaeda",
+   "target": "Ahmad Shah Massoud",
+   "type": "killed",
+   "detail": "Al-Qaeda suicide bombers killed Massoud.",
+   "date": "2001-09",
+   "confidence": "stated",
+   "timestamp": "04:58",
+   "quote": "he was executed by Al-Qaeda's suicide bombers"
+  },
+  {
+   "source": "Ahmad Massoud",
+   "target": "Panjshir",
+   "type": "located_in",
+   "detail": "NRF operates mainly in Panjshir.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "05:18",
+   "quote": "primarily operating in Panshire province"
+  },
+  {
+   "source": "Ayman al-Zawahiri",
+   "target": "Kabul",
+   "type": "located_in",
+   "detail": "Sheltering/killed in Kabul.",
+   "date": "2022",
+   "confidence": "stated",
+   "timestamp": "00:27",
+   "quote": "Zawahiri was sheltering inside of Afghanistan in Kabul"
+  }
+ ],
+ "sources_cited": [
+  "UN Analytical Support and Sanctions Monitoring Team report (July 2022)",
+  "Foreign Desk report quoting State Department spokesman",
+  "General McKenzie remarks, Dec 2021",
+  "9/11 Commission Report",
+  "Bill Roggio LWJ article 'Ayman al Zawahiri is alive; Taliban and Al Qaeda remain close, UN reports'"
+ ],
+ "key_claims": [
+  "Zawahiri was sheltered in Kabul with the consent of senior Taliban leadership, likely Sirajuddin Haqqani.",
+  "The Taliban-al-Qaeda alliance remains strong and al-Qaeda advises the Taliban.",
+  "Key al-Qaeda allies in the Taliban's de facto administration have coincided with Zawahiri's greater freedom to communicate.",
+  "Sirajuddin Haqqani, as interior minister who controls passports and a reported al-Qaeda shura member, is the most obvious al-Qaeda ally in the Taliban.",
+  "US intelligence visibility in Afghanistan is minimal and the over-the-horizon center had conducted zero strikes before the Zawahiri operation.",
+  "Afghanistan under full Taliban control is a better safe haven for al-Qaeda than pre-9/11.",
+  "The US should support anti-Taliban resistance (NRF, AFF) to gain intelligence and a potential bridgehead."
+ ]
+}

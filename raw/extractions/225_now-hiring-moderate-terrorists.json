@@ -1,0 +1,1363 @@
+{
+ "episode": {
+  "idx": 225,
+  "title": "Now hiring: moderate terrorists",
+  "published": "Wed, 18 Dec 2024 20:05:00 +0000",
+  "guid": "d8d30159-7f48-4802-9bf5-3287c0055338"
+ },
+ "persons": [
+  {
+   "name": "Abu Mohammad al-Jolani",
+   "aliases": [
+    "Mohammed Al-Jolani",
+    "Abu Muhammad Al Jalani",
+    "Jalani",
+    "Jelani",
+    "Julani"
+   ],
+   "role": "Leader of Hayat Tahrir al-Sham (HTS); now at the helm in Syria",
+   "organizations": [
+    "Hayat Tahrir al-Sham",
+    "al-Qaeda",
+    "al-Qaeda in Iraq"
+   ],
+   "nationality_or_origin": "Syrian",
+   "status": "alive",
+   "status_detail": "Presented as the new ruler in Syria, dressing in a suit and courting Western engagement in Dec 2024",
+   "family": [],
+   "locations": [
+    "Syria",
+    "Iraq",
+    "Camp Bucca"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "01:52",
+     "quote": "he goes to Camp Buka after he battles the U.S. fighting for Al-Qaeda in Iraq"
+    },
+    {
+     "timestamp": "04:53",
+     "quote": "Immediately upon his release, he returns to Syria and leads al-Qaeda's branch there"
+    },
+    {
+     "timestamp": "08:33",
+     "quote": "the Taliban congratulated Jalani"
+    }
+   ]
+  },
+  {
+   "name": "Abu Bakr al-Baghdadi",
+   "aliases": [
+    "Baghdaddy",
+    "Baghdadi"
+   ],
+   "role": "Head of the Islamic State in Iraq; later founder of the Islamic State",
+   "organizations": [
+    "al-Qaeda in Iraq",
+    "Islamic State"
+   ],
+   "nationality_or_origin": "Iraqi",
+   "status": "dead",
+   "status_detail": "Death not discussed in this chunk",
+   "family": [],
+   "locations": [
+    "Iraq"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "04:58",
+     "quote": "Reports to Abu Bakr al-Baghdadi before Baghdadi's founded the Islamic State"
+    },
+    {
+     "timestamp": "05:40",
+     "quote": "Baghdaddy says F this, I'm going to form the Islamic State"
+    }
+   ]
+  },
+  {
+   "name": "Ayman al-Zawahiri",
+   "aliases": [
+    "Zawahiri",
+    "Zahiri",
+    "Zahahiri"
+   ],
+   "role": "Emir of al-Qaeda; arbiter of the Jolani–Baghdadi dispute",
+   "organizations": [
+    "al-Qaeda"
+   ],
+   "nationality_or_origin": "Egyptian",
+   "status": "dead",
+   "status_detail": "Death not discussed in this chunk",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "05:34",
+     "quote": "Zahiri sides with Jalani and says you're ahead of the jihad in Syria"
+    }
+   ]
+  },
+  {
+   "name": "Bashar al-Assad",
+   "aliases": [],
+   "role": "Former Syrian president, ousted",
+   "organizations": [],
+   "nationality_or_origin": "Syrian",
+   "status": "alive",
+   "status_detail": "Ousted from power in Syria, Dec 2024",
+   "family": [],
+   "locations": [
+    "Syria"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "03:56",
+     "quote": "back the groups to oust Bashar al-Assad who was a monster"
+    }
+   ]
+  },
+  {
+   "name": "Muqtada al-Sadr",
+   "aliases": [
+    "Mookie",
+    "Sodder",
+    "Sadr"
+   ],
+   "role": "Iraqi Shia cleric and militia leader (Mahdi Army); described as a 'moderate nationalist'",
+   "organizations": [
+    "Mahdi Army",
+    "Special Groups"
+   ],
+   "nationality_or_origin": "Iraqi",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Iraq"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "13:34",
+     "quote": "Mookie... a moderate nationalist who just wants his little piece of the pie"
+    },
+    {
+     "timestamp": "15:49",
+     "quote": "it was Sodder's pool that they swam in"
+    }
+   ]
+  },
+  {
+   "name": "Qais al-Khazali",
+   "aliases": [
+    "Case Kazali",
+    "Kaysa Kizali",
+    "Casein Laith Kazali (garbled)"
+   ],
+   "role": "Co-founder and leader of Asaib Ahl al-Haq",
+   "organizations": [
+    "Asaib Ahl al-Haq",
+    "Special Groups",
+    "Mahdi Army"
+   ],
+   "nationality_or_origin": "Iraqi",
+   "status": "alive",
+   "status_detail": "Released by US as part of reconciliation, then returned to lead AAH",
+   "family": [
+    {
+     "relation": "brother",
+     "name": "Laith al-Khazali"
+    }
+   ],
+   "locations": [
+    "Iraq"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "16:12",
+     "quote": "Founders of Asiba Haq, of another Iraqi militia"
+    },
+    {
+     "timestamp": "19:36",
+     "quote": "Case Kazali quickly returns to lead Asaib Hawk and the rest of history"
+    }
+   ]
+  },
+  {
+   "name": "Laith al-Khazali",
+   "aliases": [
+    "Leith Kazali"
+   ],
+   "role": "Co-founder of Asaib Ahl al-Haq",
+   "organizations": [
+    "Asaib Ahl al-Haq",
+    "Special Groups"
+   ],
+   "nationality_or_origin": "Iraqi",
+   "status": "alive",
+   "status_detail": "Released alongside Qais al-Khazali as part of reconciliation",
+   "family": [
+    {
+     "relation": "brother",
+     "name": "Qais al-Khazali"
+    }
+   ],
+   "locations": [
+    "Iraq"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "19:21",
+     "quote": "Case and Leith Kazali were released"
+    }
+   ]
+  },
+  {
+   "name": "Akram al-Kaabi",
+   "aliases": [
+    "Akramakabi"
+   ],
+   "role": "Iranian-backed Iraqi militia commander (former Mahdi Army)",
+   "organizations": [
+    "Special Groups",
+    "Mahdi Army"
+   ],
+   "nationality_or_origin": "Iraqi",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Iraq"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "15:17",
+     "quote": "Kaysa Kizali, Shpani, and all the whole, you know, we'd go down the Akramakabi"
+    }
+   ]
+  },
+  {
+   "name": "Abu Mustafa al-Sheibani",
+   "aliases": [
+    "Shpani"
+   ],
+   "role": "Former Mahdi Army commander in Iranian-backed Special Groups (identification uncertain)",
+   "organizations": [
+    "Special Groups",
+    "Mahdi Army"
+   ],
+   "nationality_or_origin": "Iraqi",
+   "status": "unknown",
+   "status_detail": "Identification from garbled transcript is uncertain",
+   "family": [],
+   "locations": [
+    "Iraq"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "15:17",
+     "quote": "Kaysa Kizali, Shpani, and all the whole"
+    }
+   ]
+  },
+  {
+   "name": "Sirajuddin Haqqani",
+   "aliases": [
+    "Siraj Hakani",
+    "Sarah Judin",
+    "Sarajun Hacani",
+    "Saraj Khanna",
+    "Saraj"
+   ],
+   "role": "Taliban deputy emir and acting minister of interior; Haqqani Network leader",
+   "organizations": [
+    "Taliban",
+    "Haqqani Network",
+    "al-Qaeda (ties)"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "US $10 million bounty; Specially Designated Global Terrorist",
+   "family": [
+    {
+     "relation": "nephew",
+     "name": "Khalil Haqqani"
+    }
+   ],
+   "locations": [
+    "Afghanistan",
+    "Kabul"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "19:54",
+     "quote": "Sarajun, Hacani, Deputy Emir, the Taliban, current minister of interior"
+    },
+    {
+     "timestamp": "20:31",
+     "quote": "10 million dollar bounty on his head, his group, the Haqqani Network, foreign terrorist organization"
+    },
+    {
+     "timestamp": "23:30",
+     "quote": "he's driving a hard bargain with Alcanzada"
+    }
+   ]
+  },
+  {
+   "name": "Khalil Haqqani",
+   "aliases": [
+    "Khalil Hakani",
+    "Khalil Ol Rahman",
+    "Khalil ur-Rahman Haqqani"
+   ],
+   "role": "Taliban minister of refugees and senior Haqqani Network leader",
+   "organizations": [
+    "Taliban",
+    "Haqqani Network"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "dead",
+   "status_detail": "Died Dec 2024 (hosts discuss his funeral; cause not stated in this episode)",
+   "family": [
+    {
+     "relation": "uncle",
+     "name": "Sirajuddin Haqqani"
+    }
+   ],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "24:55",
+     "quote": "Yil Hacani, who passed way too soon"
+    },
+    {
+     "timestamp": "25:41",
+     "quote": "So he attends Khalil Ol Rahman's, Hakani's funeral"
+    }
+   ]
+  },
+  {
+   "name": "Gulbuddin Hekmatyar",
+   "aliases": [
+    "Gubaldine Hekmatier",
+    "Heck Mottier",
+    "Hekmatir"
+   ],
+   "role": "Head of Hezb-e-Islami; 'butcher of Kabul'",
+   "organizations": [
+    "Hezb-e-Islami",
+    "al-Qaeda (pledged allegiance)"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "Attended Khalil Haqqani's funeral; according to the hosts, pledged allegiance to al-Qaeda in a c.2006-07 video",
+   "family": [],
+   "locations": [
+    "Afghanistan",
+    "Kabul"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "24:23",
+     "quote": "Gubaldine, Hekmatier. Head of Hezbi Islami"
+    },
+    {
+     "timestamp": "26:28",
+     "quote": "Heck Mottier swears allegiance to al-Qaeda... 2006 or 2007"
+    }
+   ]
+  },
+  {
+   "name": "Hibatullah Akhundzada",
+   "aliases": [
+    "Alcanzada"
+   ],
+   "role": "Taliban supreme leader",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "23:30",
+     "quote": "he's driving a hard bargain with Alcanzada"
+    }
+   ]
+  },
+  {
+   "name": "Mullah Yaqoob",
+   "aliases": [
+    "Mullah Yakub",
+    "Yakub",
+    "Mullah Yaqoub"
+   ],
+   "role": "Taliban minister of defense; son of Mullah Omar",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "Travelled to Turkey in late Nov 2024 to a weapons exposition",
+   "family": [
+    {
+     "relation": "father",
+     "name": "Mullah Mohammad Omar"
+    }
+   ],
+   "locations": [
+    "Turkey",
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "33:51",
+     "quote": "Mullah Yakub, the son of Mullah Omar"
+    },
+    {
+     "timestamp": "34:12",
+     "quote": "in late November, he went to Turkey"
+    },
+    {
+     "timestamp": "35:21",
+     "quote": "Mullah Yakub, who's now the Minister of Defense"
+    }
+   ]
+  },
+  {
+   "name": "Mullah Mohammad Omar",
+   "aliases": [
+    "Mullah Omar"
+   ],
+   "role": "Founder of the Taliban; leader of the 1990s Islamic Emirate",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "dead",
+   "status_detail": "Death not discussed in this chunk",
+   "family": [
+    {
+     "relation": "son",
+     "name": "Mullah Yaqoob"
+    }
+   ],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "33:51",
+     "quote": "the son of Mullah Omar, the founder of the very moderate Taliban"
+    }
+   ]
+  },
+  {
+   "name": "Mullah Osman",
+   "aliases": [
+    "Osman"
+   ],
+   "role": "Nuristan Taliban member profiled by the New York Times; claims US actions radicalized him",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Nuristan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "29:10",
+     "quote": "His name is Mullah Osman"
+    },
+    {
+     "timestamp": "29:35",
+     "quote": "he had a tattoo of Ronald Reagan on his shoulder"
+    }
+   ]
+  },
+  {
+   "name": "Barnett Rubin",
+   "aliases": [
+    "Barnet Ruby"
+   ],
+   "role": "US academic and analyst on Afghanistan; cited as saying Sirajuddin Haqqani is no longer a US threat",
+   "organizations": [],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "21:30",
+     "quote": "Quote from Barnett Rubin on the Hakkani note"
+    }
+   ]
+  },
+  {
+   "name": "Zalmay Khalilzad",
+   "aliases": [
+    "Zalma Haloside",
+    "Zalmei Khalazad"
+   ],
+   "role": "Former US special representative for Afghanistan reconciliation",
+   "organizations": [],
+   "nationality_or_origin": "American (Afghan-born)",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Afghanistan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "22:24",
+     "quote": "You and Zalmei Khalazad... statues"
+    }
+   ]
+  },
+  {
+   "name": "Mike Pompeo",
+   "aliases": [],
+   "role": "Former US Secretary of State",
+   "organizations": [],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "39:37",
+     "quote": "Mike Pompeo, then Secretary of State told us, was going to defeat al-Qaeda"
+    }
+   ]
+  },
+  {
+   "name": "Antony Blinken",
+   "aliases": [
+    "Blinkin"
+   ],
+   "role": "US Secretary of State",
+   "organizations": [
+    "Biden administration"
+   ],
+   "nationality_or_origin": "American",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "09:49",
+     "quote": "watching Blinkin talking about we're reaching out, we're in dialogue"
+    }
+   ]
+  },
+  {
+   "name": "Recep Tayyip Erdogan",
+   "aliases": [
+    "Erdogan"
+   ],
+   "role": "President of Turkey",
+   "organizations": [],
+   "nationality_or_origin": "Turkish",
+   "status": "alive",
+   "status_detail": "",
+   "family": [],
+   "locations": [
+    "Turkey"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "35:04",
+     "quote": "A great NATO ally Erdogan... Welcomes his Taliban brothers into a weapons exhibit"
+    }
+   ]
+  }
+ ],
+ "organizations": [
+  {
+   "name": "Hayat Tahrir al-Sham",
+   "aliases": [
+    "HTS"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda (former)",
+    "Taliban (congratulated)"
+   ],
+   "rivals": [
+    "Assad regime"
+   ],
+   "country_base": "Syria",
+   "notes": "Led by al-Jolani; still US-designated; hosts say it sponsored over 40 suicide attacks in one year; Biden administration has opened contact."
+  },
+  {
+   "name": "al-Qaeda",
+   "aliases": [],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [
+    "Islamic State"
+   ],
+   "country_base": "",
+   "notes": "Zawahiri was head; Hekmatyar allegedly pledged allegiance; Haqqanis designated for al-Qaeda ties."
+  },
+  {
+   "name": "al-Qaeda in Iraq",
+   "aliases": [
+    "Al-Qaeda Iraq"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda"
+   ],
+   "rivals": [],
+   "country_base": "Iraq",
+   "notes": "Al-Jolani fought for it and was in Camp Bucca."
+  },
+  {
+   "name": "Islamic State",
+   "aliases": [
+    "Islamic State in Iraq",
+    "ISIS"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [
+    "al-Qaeda"
+   ],
+   "country_base": "Iraq",
+   "notes": "Formed after Baghdadi's dispute with Jolani and Zawahiri's ruling."
+  },
+  {
+   "name": "ISKP",
+   "aliases": [
+    "ISIS-KP",
+    "Islamic State Khorasan Province"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Islamic State"
+   ],
+   "rivals": [
+    "Taliban"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Mentioned as having not yet 'moderated'; joked about in context of Haqqani funeral."
+  },
+  {
+   "name": "Taliban",
+   "aliases": [
+    "Islamic Emirate"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [
+    "ISKP"
+   ],
+   "country_base": "Afghanistan",
+   "notes": "Ruling Afghanistan; issued national ID cards to foreign fighters; congratulated Jolani."
+  },
+  {
+   "name": "Haqqani Network",
+   "aliases": [
+    "Haq Connie Network"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "Taliban",
+    "al-Qaeda"
+   ],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "US-designated FTO; Sirajuddin Haqqani leads."
+  },
+  {
+   "name": "Hezb-e-Islami",
+   "aliases": [
+    "Hezbi Islami"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "Afghanistan",
+   "notes": "Led by Hekmatyar; hosts allege it sabotaged the Afghan Republic."
+  },
+  {
+   "name": "Mahdi Army",
+   "aliases": [
+    "Jaish al-Mahdi",
+    "J. Shalmati"
+   ],
+   "type": "militia",
+   "parent_or_allies": [
+    "Iran (special groups)"
+   ],
+   "rivals": [
+    "US forces"
+   ],
+   "country_base": "Iraq",
+   "notes": "Sadr's militia; special groups were former Mahdi Army commanders backed by Iran."
+  },
+  {
+   "name": "Special Groups",
+   "aliases": [],
+   "type": "militia",
+   "parent_or_allies": [
+    "Iran",
+    "Mahdi Army"
+   ],
+   "rivals": [
+    "US forces"
+   ],
+   "country_base": "Iraq",
+   "notes": "Iranian-backed splinters of the Mahdi Army that became Iraqi militias."
+  },
+  {
+   "name": "Asaib Ahl al-Haq",
+   "aliases": [
+    "Asiba Haq",
+    "Asebel Hawk",
+    "League of the Righteous"
+   ],
+   "type": "militia",
+   "parent_or_allies": [
+    "Special Groups",
+    "Iran"
+   ],
+   "rivals": [],
+   "country_base": "Iraq",
+   "notes": "Founded by the Khazali brothers; kidnapped and executed five American soldiers."
+  },
+  {
+   "name": "Lashkar-e-Taiba",
+   "aliases": [
+    "Lashkar-e-Taybo"
+   ],
+   "type": "jihadist group",
+   "parent_or_allies": [
+    "al-Qaeda (cooperation)"
+   ],
+   "rivals": [],
+   "country_base": "Pakistan",
+   "notes": "Mentioned as active in Kunar/Nuristan; US raided training camps."
+  },
+  {
+   "name": "Biden administration",
+   "aliases": [],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Criticized for establishing relations with both the Taliban and HTS."
+  },
+  {
+   "name": "US Department of State",
+   "aliases": [
+    "State Department"
+   ],
+   "type": "state agency",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "HTS designation unchanged."
+  },
+  {
+   "name": "New York Times",
+   "aliases": [],
+   "type": "other",
+   "parent_or_allies": [],
+   "rivals": [],
+   "country_base": "United States",
+   "notes": "Published pieces on Sirajuddin Haqqani, Nuristan and Taliban drug eradication."
+  }
+ ],
+ "places": [
+  {
+   "name": "Camp Bucca",
+   "type": "base",
+   "country": "Iraq",
+   "parent": "Iraq",
+   "significance": "US-run prison where Jolani was held; called the 'University of Jihad'."
+  },
+  {
+   "name": "Syria",
+   "type": "country",
+   "country": "Syria",
+   "parent": "",
+   "significance": "Jolani/HTS now at the helm after Assad's ouster."
+  },
+  {
+   "name": "Iraq",
+   "type": "country",
+   "country": "Iraq",
+   "parent": "",
+   "significance": "Setting for Jolani's AQI past, and Sadr/Khazali militias."
+  },
+  {
+   "name": "Afghanistan",
+   "type": "country",
+   "country": "Afghanistan",
+   "parent": "",
+   "significance": "Taliban rule; Haqqani, Hekmatyar."
+  },
+  {
+   "name": "Nuristan",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Subject of NYT article on Mullah Osman; al-Qaeda rat lines."
+  },
+  {
+   "name": "Kunar",
+   "type": "province",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Al-Qaeda rat lines; Arabs and Saudis killed there."
+  },
+  {
+   "name": "Kabul",
+   "type": "city",
+   "country": "Afghanistan",
+   "parent": "Afghanistan",
+   "significance": "Hekmatyar's 'butcher of Kabul' epithet."
+  },
+  {
+   "name": "Turkey",
+   "type": "country",
+   "country": "Turkey",
+   "parent": "",
+   "significance": "Mullah Yaqoub attended a weapons expo in late Nov 2024."
+  },
+  {
+   "name": "Pakistan",
+   "type": "country",
+   "country": "Pakistan",
+   "parent": "",
+   "significance": "Destination of al-Qaeda rat lines through Kunar/Nuristan."
+  },
+  {
+   "name": "Turkmenistan",
+   "type": "country",
+   "country": "Turkmenistan",
+   "parent": "",
+   "significance": "Joked about as a border threat justifying Taliban arms purchases."
+  }
+ ],
+ "events": [
+  {
+   "date": "2024-12",
+   "date_precision": "approx",
+   "type": "other",
+   "description": "HTS-led forces oust Bashar al-Assad; Jolani becomes de facto ruler and courts Western engagement.",
+   "place": "Syria",
+   "actors": [
+    "Hayat Tahrir al-Sham",
+    "Abu Mohammad al-Jolani",
+    "Bashar al-Assad"
+   ],
+   "timestamp": "03:54"
+  },
+  {
+   "date": "2024-12",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "Taliban congratulate Jolani on taking power in Syria.",
+   "place": "Afghanistan",
+   "actors": [
+    "Taliban",
+    "Abu Mohammad al-Jolani"
+   ],
+   "timestamp": "08:33"
+  },
+  {
+   "date": "2024-12",
+   "date_precision": "month",
+   "type": "death",
+   "description": "Khalil ur-Rahman Haqqani dies; Gulbuddin Hekmatyar attends the funeral.",
+   "place": "Afghanistan",
+   "actors": [
+    "Khalil Haqqani",
+    "Gulbuddin Hekmatyar"
+   ],
+   "timestamp": "25:41"
+  },
+  {
+   "date": "2024-12-12",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "New York Times article 'How America Created the Enemy It Most Feared' published on Dec 12, updated Dec 17, profiling Mullah Osman in Nuristan.",
+   "place": "Nuristan",
+   "actors": [
+    "New York Times",
+    "Mullah Osman"
+   ],
+   "timestamp": "27:53"
+  },
+  {
+   "date": "2024-12-18",
+   "date_precision": "day",
+   "type": "statement",
+   "description": "New York Times article claims Taliban have all but cleared Afghanistan of poppy and illicit drugs.",
+   "place": "Afghanistan",
+   "actors": [
+    "New York Times",
+    "Taliban"
+   ],
+   "timestamp": "36:49"
+  },
+  {
+   "date": "2024-11",
+   "date_precision": "approx",
+   "type": "travel",
+   "description": "Mullah Yaqoub travels to Turkey and is photographed with Afghan military officers at a weapons exposition.",
+   "place": "Turkey",
+   "actors": [
+    "Mullah Yaqoob"
+   ],
+   "timestamp": "34:12"
+  },
+  {
+   "date": "2024-11",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "New York Times puff piece on Sirajuddin Haqqani as the great moderate hope.",
+   "place": "",
+   "actors": [
+    "New York Times",
+    "Sirajuddin Haqqani"
+   ],
+   "timestamp": "20:48"
+  },
+  {
+   "date": "approx 2006",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "Hekmatyar appears in a video (aired by Al Jazeera) swearing allegiance to al-Qaeda.",
+   "place": "",
+   "actors": [
+    "Gulbuddin Hekmatyar",
+    "al-Qaeda"
+   ],
+   "timestamp": "26:28"
+  },
+  {
+   "date": "approx 2007",
+   "date_precision": "approx",
+   "type": "attack",
+   "description": "Asaib Ahl al-Haq kidnaps five American soldiers at a provincial reconstruction center in southern Iraq, tries to take them to Iran, and executes them when pursued (date not stated by hosts).",
+   "place": "Iraq",
+   "actors": [
+    "Asaib Ahl al-Haq"
+   ],
+   "timestamp": "16:44"
+  },
+  {
+   "date": "approx 2009",
+   "date_precision": "approx",
+   "type": "release",
+   "description": "US releases Qais and Laith al-Khazali and hundreds of AAH fighters as part of reconciliation while withdrawing (date not stated).",
+   "place": "Iraq",
+   "actors": [
+    "Qais al-Khazali",
+    "Laith al-Khazali"
+   ],
+   "timestamp": "19:21"
+  },
+  {
+   "date": "2020",
+   "date_precision": "approx",
+   "type": "statement",
+   "description": "Pompeo says Taliban deal would see them defeat al-Qaeda, negotiate with Afghan government, and respect women's rights.",
+   "place": "",
+   "actors": [
+    "Mike Pompeo",
+    "Taliban"
+   ],
+   "timestamp": "39:37"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Abu Mohammad al-Jolani",
+   "target": "al-Qaeda in Iraq",
+   "type": "member_of",
+   "detail": "Jolani fought the US with al-Qaeda in Iraq and was imprisoned at Camp Bucca.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "01:52",
+   "quote": "he battles the U.S. fighting for Al-Qaeda in Iraq"
+  },
+  {
+   "source": "Abu Mohammad al-Jolani",
+   "target": "Camp Bucca",
+   "type": "located_in",
+   "detail": "Jolani was imprisoned at Camp Bucca before returning to Syria.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "01:52",
+   "quote": "he goes to Camp Buka"
+  },
+  {
+   "source": "Abu Mohammad al-Jolani",
+   "target": "Abu Bakr al-Baghdadi",
+   "type": "reports_to",
+   "detail": "Jolani led al-Qaeda's Syria branch reporting to Baghdadi before the split.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "04:58",
+   "quote": "Reports to Abu Bakr al-Baghdadi"
+  },
+  {
+   "source": "Abu Mohammad al-Jolani",
+   "target": "Abu Bakr al-Baghdadi",
+   "type": "rival_of",
+   "detail": "Dispute between them led to the formation of the Islamic State.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "05:28",
+   "quote": "Jalani's dispute with Baghdaddy leads to the formation of the Islamic State"
+  },
+  {
+   "source": "Ayman al-Zawahiri",
+   "target": "Abu Mohammad al-Jolani",
+   "type": "allied_with",
+   "detail": "Zawahiri sided with Jolani as head of the jihad in Syria and told Baghdadi to stay in Iraq.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "05:34",
+   "quote": "Zahiri sides with Jalani"
+  },
+  {
+   "source": "Ayman al-Zawahiri",
+   "target": "al-Qaeda",
+   "type": "leads",
+   "detail": "Zawahiri is head of al-Qaeda.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "05:16",
+   "quote": "al-Zawahiri is the head of Al-Qaeda"
+  },
+  {
+   "source": "Abu Mohammad al-Jolani",
+   "target": "Hayat Tahrir al-Sham",
+   "type": "leads",
+   "detail": "Jolani heads HTS, formerly part of al-Qaeda.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "06:04",
+   "quote": "Hayatahir al-Sham, that's his group that was part of al-Qaeda"
+  },
+  {
+   "source": "Taliban",
+   "target": "Hayat Tahrir al-Sham",
+   "type": "allied_with",
+   "detail": "Taliban congratulated Jolani on taking power.",
+   "date": "2024-12",
+   "confidence": "stated",
+   "timestamp": "08:33",
+   "quote": "the Taliban congratulated Jalani"
+  },
+  {
+   "source": "Muqtada al-Sadr",
+   "target": "Mahdi Army",
+   "type": "leads",
+   "detail": "Sadr led the Mahdi Army that fought the US.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "14:06",
+   "quote": "his J. Shalmati, all the special groups"
+  },
+  {
+   "source": "Special Groups",
+   "target": "Muqtada al-Sadr",
+   "type": "other",
+   "detail": "Special groups were Iranian-backed offshoots of Sadr's Mahdi Army and 'swam in Sadr's pool'.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "15:49",
+   "quote": "it was Sodder's pool that they swam in"
+  },
+  {
+   "source": "Qais al-Khazali",
+   "target": "Laith al-Khazali",
+   "type": "family",
+   "detail": "Brothers who co-founded Asaib Ahl al-Haq (relation implied by shared surname and joint founding).",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "16:12",
+   "quote": "Founders of Asiba Haq"
+  },
+  {
+   "source": "Qais al-Khazali",
+   "target": "Asaib Ahl al-Haq",
+   "type": "leads",
+   "detail": "After release Qais quickly returned to lead AAH.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "19:36",
+   "quote": "Case Kazali quickly returns to lead Asaib Hawk"
+  },
+  {
+   "source": "Laith al-Khazali",
+   "target": "Asaib Ahl al-Haq",
+   "type": "member_of",
+   "detail": "Co-founder of AAH.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "16:12",
+   "quote": "Founders of Asiba Haq"
+  },
+  {
+   "source": "Asaib Ahl al-Haq",
+   "target": "Special Groups",
+   "type": "member_of",
+   "detail": "AAH was one of the special groups / League of the Righteous.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "16:17",
+   "quote": "one of the special groups or the League of the Righteous"
+  },
+  {
+   "source": "Asaib Ahl al-Haq",
+   "target": "Iran",
+   "type": "allied_with",
+   "detail": "Special groups were Iranian-backed; AAH tried to take kidnapped US soldiers to Iran.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "16:57",
+   "quote": "attempted to take them to Iran, but once the hunt was on, they executed them"
+  },
+  {
+   "source": "Sirajuddin Haqqani",
+   "target": "Taliban",
+   "type": "deputy_of",
+   "detail": "Sirajuddin is Taliban deputy emir and interior minister.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "19:54",
+   "quote": "Deputy Emir, the Taliban, current minister of interior"
+  },
+  {
+   "source": "Sirajuddin Haqqani",
+   "target": "Haqqani Network",
+   "type": "leads",
+   "detail": "Leads the Haqqani Network, a designated FTO.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "20:33",
+   "quote": "his group, the Haqqani Network, foreign terrorist organization"
+  },
+  {
+   "source": "Haqqani Network",
+   "target": "al-Qaeda",
+   "type": "allied_with",
+   "detail": "Sirajuddin and family members designated for ties to al-Qaeda.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "20:44",
+   "quote": "all for their ties to al-Qaeda"
+  },
+  {
+   "source": "Sirajuddin Haqqani",
+   "target": "Hibatullah Akhundzada",
+   "type": "negotiated_with",
+   "detail": "Defenders claim Sirajuddin privately pushes Akhundzada on girls' schooling; hosts sarcastic.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "23:30",
+   "quote": "he's driving a hard bargain with Alcanzada"
+  },
+  {
+   "source": "Barnett Rubin",
+   "target": "Sirajuddin Haqqani",
+   "type": "other",
+   "detail": "Rubin is cited as vouching that Haqqani is no longer a threat to the US and as facilitating his NYT op-ed.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "21:30",
+   "quote": "Quote from Barnett Rubin on the Hakkani note"
+  },
+  {
+   "source": "Khalil Haqqani",
+   "target": "Sirajuddin Haqqani",
+   "type": "family",
+   "detail": "Khalil Haqqani is Sirajuddin Haqqani's uncle (public record; hosts only say both are Haqqanis).",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "25:41",
+   "quote": "Khalil Ol Rahman's, Hakani's funeral"
+  },
+  {
+   "source": "Gulbuddin Hekmatyar",
+   "target": "Hezb-e-Islami",
+   "type": "leads",
+   "detail": "Head of Hezb-e-Islami.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "24:23",
+   "quote": "Head of Hezbi Islami"
+  },
+  {
+   "source": "Gulbuddin Hekmatyar",
+   "target": "Khalil Haqqani",
+   "type": "met_with",
+   "detail": "Hekmatyar attended Khalil Haqqani's funeral to pay respects.",
+   "date": "2024-12",
+   "confidence": "stated",
+   "timestamp": "25:41",
+   "quote": "So he attends Khalil Ol Rahman's, Hakani's funeral"
+  },
+  {
+   "source": "Gulbuddin Hekmatyar",
+   "target": "al-Qaeda",
+   "type": "allied_with",
+   "detail": "Hosts say he swore allegiance to al-Qaeda in a video c.2006-07 and never renounced it.",
+   "date": "2006",
+   "confidence": "stated",
+   "timestamp": "26:28",
+   "quote": "heck Mottier swears allegiance to al-Qaeda"
+  },
+  {
+   "source": "Mullah Yaqoob",
+   "target": "Mullah Mohammad Omar",
+   "type": "family",
+   "detail": "Yaqoub is the son of Taliban founder Mullah Omar.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "33:51",
+   "quote": "Mullah Yakub, the son of Mullah Omar"
+  },
+  {
+   "source": "Mullah Yaqoob",
+   "target": "Taliban",
+   "type": "member_of",
+   "detail": "Taliban minister of defense.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "35:21",
+   "quote": "Mullah Yakub, who's now the Minister of Defense"
+  },
+  {
+   "source": "Mullah Yaqoob",
+   "target": "Turkey",
+   "type": "located_in",
+   "detail": "Visited Turkey in late November 2024 for a weapons expo.",
+   "date": "2024-11",
+   "confidence": "stated",
+   "timestamp": "34:12",
+   "quote": "in late November, he went to Turkey"
+  },
+  {
+   "source": "Mullah Osman",
+   "target": "Taliban",
+   "type": "member_of",
+   "detail": "Nuristan resident who became Taliban and killed Americans, per NYT profile.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "29:48",
+   "quote": "I had no choice but to kill Americans"
+  },
+  {
+   "source": "Mike Pompeo",
+   "target": "Taliban",
+   "type": "negotiated_with",
+   "detail": "As Secretary of State he claimed the Taliban would defeat al-Qaeda and negotiate with the Afghan government.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "39:37",
+   "quote": "told us, was going to defeat al-Qaeda"
+  },
+  {
+   "source": "Biden administration",
+   "target": "Hayat Tahrir al-Sham",
+   "type": "met_with",
+   "detail": "Administration has established relations with both the Taliban and HTS, per the hosts.",
+   "date": "2024-12",
+   "confidence": "stated",
+   "timestamp": "10:06",
+   "quote": "the Biden administration has basically kind of established relations with both the Taliban and HTS"
+  },
+  {
+   "source": "Biden administration",
+   "target": "Taliban",
+   "type": "negotiated_with",
+   "detail": "Established relations with the Taliban.",
+   "date": "",
+   "confidence": "stated",
+   "timestamp": "10:06",
+   "quote": "established relations with both the Taliban and HTS"
+  },
+  {
+   "source": "Taliban",
+   "target": "Lashkar-e-Taiba",
+   "type": "allied_with",
+   "detail": "Al-Qaeda rat lines in Kunar/Nuristan involved Taliban movement and Lashkar-e-Taiba.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "32:23",
+   "quote": "Pakistan was very active there. Lashkar-e-Taybo, we raided training camps"
+  },
+  {
+   "source": "Khalil Haqqani",
+   "target": "Taliban",
+   "type": "member_of",
+   "detail": "Taliban minister of refugees and senior Haqqani Network figure.",
+   "date": "",
+   "confidence": "inferred",
+   "timestamp": "25:41",
+   "quote": "Khalil, Ol Rahman's, Hakani's"
+  }
+ ],
+ "sources_cited": [
+  "New York Times, 'How America Created the Enemy It Most Feared' (Dec 12, updated Dec 17, 2024)",
+  "New York Times article on Taliban drug eradication (Dec 18, 2024)",
+  "New York Times coverage/op-ed on Sirajuddin Haqqani (Nov 2024)",
+  "Wall Street Journal report on former Assad soldiers handing over weapons under amnesty",
+  "Al Jazeera video of Hekmatyar pledging allegiance to al-Qaeda",
+  "US State Department HTS designation"
+ ],
+ "key_claims": [
+  "Jolani led al-Qaeda's Syrian branch, reported to Baghdadi, and his dispute with Baghdadi, resolved by Zawahiri in Jolani's favor, produced the Islamic State.",
+  "HTS remains US-designated and is not seen as having changed; Western outreach is called naive wishful thinking.",
+  "The Taliban's issuing of national ID cards to foreign fighters is a playbook Jolani copies by making foreigners citizens.",
+  "Sirajuddin Haqqani is a US-designated terrorist with a $10M bounty and al-Qaeda ties, yet is portrayed as a moderate by Western analysts such as Barnett Rubin.",
+  "Hekmatyar attended Khalil Haqqani's funeral and allegedly pledged allegiance to al-Qaeda c.2006-07, never renounced.",
+  "The Khazali brothers were released by the US and returned to lead Asaib Ahl al-Haq, the most dangerous Iraqi special group.",
+  "Mullah Yaqoub, Taliban defense minister and Mullah Omar's son, visited a weapons expo in Turkey in late Nov 2024.",
+  "The NYT's Nuristan profile ignores al-Qaeda use of Kunar/Nuristan as rat lines, and its drug-eradication story uncritically accepts Taliban claims."
+ ]
+}
