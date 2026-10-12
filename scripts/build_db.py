@@ -26,6 +26,14 @@ CREATE TABLE profiles(id INTEGER PRIMARY KEY AUTOINCREMENT, entity_id TEXT, sour
   listed_on TEXT, last_updated TEXT, status TEXT, summary TEXT, narrative TEXT, url TEXT, photo_url TEXT, interpol_link TEXT, raw TEXT);
 CREATE TABLE events(id INTEGER PRIMARY KEY AUTOINCREMENT, date TEXT, date_precision TEXT, type TEXT, description TEXT, place_id TEXT, place_text TEXT,
   episode_idx INTEGER, timestamp TEXT, dataset TEXT DEFAULT 'real', doc_id TEXT);
+CREATE TABLE event_geo(event_id INTEGER PRIMARY KEY, lat REAL, lon REAL, precision_km REAL, method TEXT, dataset TEXT DEFAULT 'real');
+CREATE TABLE sites(id INTEGER PRIMARY KEY AUTOINCREMENT, name TEXT, kind TEXT, operator TEXT, status TEXT, place TEXT, lat REAL, lon REAL, precision_km REAL, verified INTEGER DEFAULT 0, source TEXT, note TEXT, dataset TEXT DEFAULT 'real');
+CREATE TABLE target_cards(entity_id TEXT PRIMARY KEY, objective_name TEXT, kunyas TEXT, name_variants TEXT, tribe TEXT, sub_tribe TEXT, network TEXT, role_current TEXT, role_history TEXT,
+  priority TEXT, status TEXT, dob TEXT, pob TEXT, home_area TEXT, summary TEXT, last_hit_id INTEGER, dataset TEXT DEFAULT 'synthetic');
+CREATE TABLE selectors(id TEXT PRIMARY KEY, entity_id TEXT, kind TEXT, value TEXT, label TEXT, provider TEXT, platform TEXT, country TEXT, first_seen TEXT, last_seen TEXT, confidence TEXT, dataset TEXT DEFAULT 'synthetic');
+CREATE TABLE selector_links(a_id TEXT, b_id TEXT, relation TEXT, evidence TEXT, confidence TEXT, dataset TEXT DEFAULT 'synthetic', PRIMARY KEY(a_id, b_id, relation));
+CREATE TABLE location_hits(id INTEGER PRIMARY KEY AUTOINCREMENT, entity_id TEXT, selector_id TEXT, kind TEXT, ts TEXT, lat REAL, lon REAL, precision_km REAL, place TEXT, detail TEXT, confidence TEXT, dataset TEXT DEFAULT 'synthetic');
+CREATE INDEX i_hit_e ON location_hits(entity_id, ts);
 CREATE TABLE event_actors(event_id INTEGER, entity_id TEXT, PRIMARY KEY(event_id, entity_id));
 CREATE TABLE claims(id INTEGER PRIMARY KEY AUTOINCREMENT, episode_idx INTEGER, claim TEXT, doc_id TEXT);
 CREATE TABLE sources_cited(id INTEGER PRIMARY KEY AUTOINCREMENT, episode_idx INTEGER, source TEXT, doc_id TEXT);
@@ -107,6 +115,42 @@ def load_profiles(con, ents, ent):
                 addresses="; ".join(r.get("possible_countries", [])), physical=json.dumps(r.get("physical", {})), languages="; ".join(r.get("languages", [])),
                 reward_text=r.get("reward_text"), listed_on=(r.get("publication") or "")[:10], last_updated=(r.get("modified") or "")[:10], status=r.get("warning_message"),
                 summary=summary, url=r.get("url"), photo_url=r.get("photo_url"))
+
+def load_targets(con, ents, files):
+    """Target-tracking layer: public-reference `sites` (always) and, for synthetic files with scenario_kind='targets',
+    baseball-card fields, selectors (phone/IMSI/IMEI/e-mail/social/CMA/vehicle), selector correlations and location hits.
+    Selector/hit rows attach to the SYNTHETIC person ids only (eid(..., 'synthetic')); never to a real person."""
+    sp = f"{ROOT}/synthetic/sites_reference.json"
+    if os.path.exists(sp):
+        for r in json.load(open(sp)):
+            con.execute("INSERT INTO sites(name,kind,operator,status,place,lat,lon,precision_km,verified,source,note,dataset) VALUES(?,?,?,?,?,?,?,?,?,?,?,?)",
+                        (r["name"], r["kind"], r.get("operator"), r.get("status"), r.get("place"), r["lat"], r["lon"], r.get("precision_km"), r.get("verified", 0), r.get("source", "public_reference"), r.get("note"), "real"))
+    for f, dataset in files:
+        d = json.load(open(f))
+        if d.get("scenario_kind") != "targets" or dataset != "synthetic": continue
+        R = Resolver(); byname = {}
+        for c in d.get("target_cards", []): byname[c["entity"]] = eid("persons", R.resolve("persons", c["name"]), "synthetic")
+        for c in d.get("target_cards", []):
+            i = byname[c["entity"]]
+            if i not in ents: continue
+            con.execute("""INSERT OR REPLACE INTO target_cards(entity_id,objective_name,kunyas,name_variants,tribe,sub_tribe,network,role_current,role_history,priority,status,dob,pob,home_area,summary,dataset)
+                           VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)""", (i, c.get("objective_name"), json.dumps(c.get("kunyas", [])), json.dumps(c.get("name_variants", [])), c.get("tribe"), c.get("sub_tribe"), c.get("network"),
+                        c.get("role_current"), json.dumps(c.get("role_history", [])), c.get("priority"), c.get("status"), c.get("dob"), c.get("pob"), c.get("home_area"), c.get("summary"), "synthetic"))
+        for sel in d.get("selectors", []):
+            i = byname.get(sel["entity"])
+            if not i: continue
+            con.execute("INSERT OR REPLACE INTO selectors(id,entity_id,kind,value,label,provider,platform,country,first_seen,last_seen,confidence,dataset) VALUES(?,?,?,?,?,?,?,?,?,?,?,?)",
+                        (sel["id"], i, sel["kind"], sel["value"], sel.get("label"), sel.get("provider"), sel.get("platform"), sel.get("country"), sel.get("first_seen"), sel.get("last_seen"), sel.get("confidence"), "synthetic"))
+        for l in d.get("selector_links", []):
+            con.execute("INSERT OR IGNORE INTO selector_links VALUES(?,?,?,?,?,?)", (l["a"], l["b"], l["relation"], l.get("evidence"), l.get("confidence"), "synthetic"))
+        for h in d.get("location_hits", []):
+            i = byname.get(h["entity"])
+            if not i: continue
+            con.execute("INSERT INTO location_hits(entity_id,selector_id,kind,ts,lat,lon,precision_km,place,detail,confidence,dataset) VALUES(?,?,?,?,?,?,?,?,?,?,?)",
+                        (i, h.get("selector"), h["kind"], h["ts"], h["lat"], h["lon"], h.get("precision_km"), h.get("place"), h.get("detail"), h.get("confidence"), "synthetic"))
+        con.execute("UPDATE target_cards SET last_hit_id=(SELECT id FROM location_hits h WHERE h.entity_id=target_cards.entity_id ORDER BY ts DESC LIMIT 1)")
+        for (sid_,) in con.execute("SELECT id FROM selectors").fetchall():
+            con.execute("UPDATE selectors SET last_seen=(SELECT max(ts) FROM location_hits WHERE selector_id=?) WHERE id=? AND last_seen IS NULL", (sid_, sid_))
 
 def main():
     ap = argparse.ArgumentParser(); ap.add_argument("--synthetic", nargs="*", default=[]); ap.add_argument("--no-isw", action="store_true"); a = ap.parse_args()
@@ -206,6 +250,8 @@ def main():
             pi = ent("places", ev["place"], dataset, ep) if ev.get("place") else None
             cur = con.execute("INSERT INTO events(date,date_precision,type,description,place_id,place_text,episode_idx,timestamp,dataset,doc_id) VALUES(?,?,?,?,?,?,?,?,?,?)",
                               (ev.get("date"), ev.get("date_precision"), ev.get("type"), ev.get("description"), pi, ev.get("place"), idx, ev.get("timestamp"), dataset, doc))
+            if ev.get("lat") is not None and ev.get("lon") is not None:
+                con.execute("INSERT OR REPLACE INTO event_geo VALUES(?,?,?,?,?,?)", (cur.lastrowid, ev["lat"], ev["lon"], ev.get("precision_km"), "scenario", dataset))
             for ac in ev.get("actors", []) or []:
                 k, n = kind_of(ac, "persons"); ai = ent(k, n, dataset, ep)
                 if ai: con.execute("INSERT OR IGNORE INTO event_actors VALUES(?,?)", (cur.lastrowid, ai))
@@ -213,6 +259,7 @@ def main():
         for s in d.get("sources_cited", []) or []: con.execute("INSERT INTO sources_cited(episode_idx,source,doc_id) VALUES(?,?,?)", (idx, s, doc))
 
     load_profiles(con, ents, ent)
+    load_targets(con, ents, files)
 
     # entity-level resolution of unresolved person names that are a substring/last-name match of a canonical (conservative): skipped on purpose; see review_names.py
     for i, r in ents.items():
@@ -236,6 +283,36 @@ def main():
             w = csv.writer(fh); w.writerow(cols); w.writerows(rows)
         return cols, rows
     dump("SELECT * FROM entities ORDER BY kind, n_episodes DESC, name", "entities")
+    dump("SELECT * FROM sites ORDER BY kind, name", "sites")
+    dump("SELECT s.*, e.name AS entity_name FROM selectors s JOIN entities e ON e.id=s.entity_id ORDER BY e.name, s.kind", "selectors")
+    dump("SELECT * FROM selector_links", "selector_links")
+    dump("SELECT h.*, e.name AS entity_name FROM location_hits h JOIN entities e ON e.id=h.entity_id ORDER BY e.name, h.ts", "location_hits")
+    def geojson(q, name, props):
+        feats = [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [r[1], r[0]]}, "properties": dict(zip(props, r[2:]))} for r in con.execute(q) if r[0] is not None]
+        json.dump({"type": "FeatureCollection", "features": feats}, open(f"{ROOT}/db/exports/{name}.geojson", "w"), ensure_ascii=False)
+    geojson("SELECT lat,lon,id,name,kind,operator,status,place,precision_km,verified,note,dataset FROM sites", "sites", ["id","name","kind","operator","status","place","precision_km","verified","note","dataset"])
+    geojson("SELECT h.lat,h.lon,h.id,h.entity_id,e.name,h.kind,h.ts,h.precision_km,h.place,h.detail,h.confidence,h.selector_id,h.dataset FROM location_hits h JOIN entities e ON e.id=h.entity_id", "location_hits",
+            ["id","entity_id","name","kind","ts","precision_km","place","detail","confidence","selector_id","dataset"])
+    geojson("""SELECT g.lat,g.lon,ev.id,ev.date,ev.type,ev.description,ev.place_text,g.precision_km,ev.dataset,ev.source,
+                (SELECT group_concat(en.name,'; ') FROM event_actors ea JOIN entities en ON en.id=ea.entity_id WHERE ea.event_id=ev.id),
+                (SELECT group_concat(en.name,'; ') FROM event_actors ea JOIN entities en ON en.id=ea.entity_id WHERE ea.event_id=ev.id AND en.kind='organization')
+                FROM events ev JOIN event_geo g ON g.event_id=ev.id""", "event_points", ["id","date","type","description","place","precision_km","dataset","source","actors","groups"])
+    cards = []
+    for r in con.execute("""SELECT c.entity_id,e.name,c.objective_name,c.kunyas,c.name_variants,c.tribe,c.sub_tribe,c.network,c.role_current,c.role_history,c.priority,c.status,c.dob,c.pob,c.home_area,c.summary,c.dataset,
+                               h.kind,h.ts,h.lat,h.lon,h.precision_km,h.place,h.detail FROM target_cards c JOIN entities e ON e.id=c.entity_id LEFT JOIN location_hits h ON h.id=c.last_hit_id"""):
+        eid_ = r[0]
+        cards.append(dict(entity_id=eid_, name=r[1], objective_name=r[2], kunyas=json.loads(r[3] or "[]"), name_variants=json.loads(r[4] or "[]"), tribe=r[5], sub_tribe=r[6], network=r[7], role_current=r[8],
+                          role_history=json.loads(r[9] or "[]"), priority=r[10], status=r[11], dob=r[12], pob=r[13], home_area=r[14], summary=r[15], dataset=r[16],
+                          last_known_location=dict(kind=r[17], ts=r[18], lat=r[19], lon=r[20], precision_km=r[21], place=r[22], detail=r[23]) if r[18] else None,
+                          aliases=[a for (a,) in con.execute("SELECT alias FROM aliases WHERE entity_id=?", (eid_,))],
+                          family=[dict(type=t, name=n) for (t, n) in con.execute("SELECT r.type, x.name FROM relationships r JOIN entities x ON x.id=CASE WHEN r.source_id=? THEN r.target_id ELSE r.source_id END WHERE (r.source_id=? OR r.target_id=?) AND r.type LIKE '%_of'", (eid_, eid_, eid_))],
+                          selectors=[dict(id=a, kind=b, value=c, label=d, provider=p, platform=pl, country=cc, first_seen=fs, last_seen=ls, confidence=cf) for (a, b, c, d, p, pl, cc, fs, ls, cf) in
+                                     con.execute("SELECT id,kind,value,label,provider,platform,country,first_seen,last_seen,confidence FROM selectors WHERE entity_id=?", (eid_,))],
+                          correlations=[dict(a=a, b=b, relation=rel, evidence=ev, confidence=cf) for (a, b, rel, ev, cf) in
+                                        con.execute("SELECT l.a_id,l.b_id,l.relation,l.evidence,l.confidence FROM selector_links l WHERE l.a_id IN (SELECT id FROM selectors WHERE entity_id=?) OR l.b_id IN (SELECT id FROM selectors WHERE entity_id=?)", (eid_, eid_))],
+                          location_hits=[dict(kind=k, ts=t, lat=la, lon=lo, precision_km=pr, place=pl, detail=de, confidence=cf, selector_id=sl) for (k, t, la, lo, pr, pl, de, cf, sl) in
+                                         con.execute("SELECT kind,ts,lat,lon,precision_km,place,detail,confidence,selector_id FROM location_hits WHERE entity_id=? ORDER BY ts DESC", (eid_,))]))
+    json.dump(cards, open(f"{ROOT}/db/exports/target_cards.json", "w"), indent=1, ensure_ascii=False)
     dump("SELECT p.*, e.name AS entity_name FROM profiles p LEFT JOIN entities e ON e.id=p.entity_id ORDER BY p.source, p.reference", "profiles")
     dump("""SELECT r.id, s.name AS source, s.kind AS source_kind, r.type, t.name AS target, t.kind AS target_kind, r.detail, r.date, r.confidence,
             r.episode_idx, r.doc_id, COALESCE(e.title, d.title) AS source_title, COALESCE(e.published, d.published) AS published, r.timestamp, r.quote, r.dataset, r.source

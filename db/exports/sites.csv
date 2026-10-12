@@ -1,0 +1,39 @@
+id,name,kind,operator,status,place,lat,lon,precision_km,verified,source,note,dataset
+35,Angoor Adda border crossing,border_crossing,Afghanistan / Pakistan,active,Angoor Adda,32.286,69.433,1.0,0,public_reference,,real
+33,Chaman–Spin Boldak border crossing,border_crossing,Afghanistan / Pakistan,active,Chaman,30.92,66.445,1.0,0,public_reference,,real
+34,Ghulam Khan border crossing,border_crossing,Afghanistan / Pakistan,active,Ghulam Khan,33.07,70.176,1.0,0,public_reference,,real
+32,Torkham border crossing,border_crossing,Afghanistan / Pakistan,active,Torkham,34.113,71.094,1.0,0,public_reference,,real
+26,"Consulate of Afghanistan, Peshawar",host_gov,Afghanistan,active,Peshawar,34.012,71.56,2.0,0,public_reference,Approximate.,real
+37,Bannu Cantonment,host_gov_military,Pakistan,active,Bannu,32.99,70.61,2.0,0,public_reference,Approximate; attacked 2024/2025.,real
+38,Miran Shah Cantonment / FC camp,host_gov_military,Pakistan,active,Miram Shah,33.003,70.08,2.0,0,public_reference,Approximate.,real
+36,Pakistan Army 11 Corps HQ Peshawar,host_gov_military,Pakistan,active,Peshawar,34.005,71.54,2.0,0,public_reference,Approximate.,real
+31,Hamid Karzai International Airport,infrastructure,Afghanistan,active,Kabul,34.5658,69.2123,1.0,0,public_reference,Abbey Gate attack 26 Aug 2021.,real
+28,ICRC Kabul delegation,intl_org,ICRC,active,Kabul,34.525,69.17,2.0,0,public_reference,Approximate.,real
+27,UNAMA HQ Kabul,intl_org,United Nations,active,Kabul,34.537,69.196,1.0,0,public_reference,Approximate.,real
+14,British Embassy Kabul (suspended 2021),other_gov_diplomatic,United Kingdom,closed,Kabul,34.533,69.185,1.0,0,public_reference,Wazir Akbar Khan area; approximate.,real
+15,British High Commission Islamabad,other_gov_diplomatic,United Kingdom,active,Islamabad,33.726,73.117,2.0,0,public_reference,Approximate.,real
+22,"Consulate of India, Jalalabad (closed)",other_gov_diplomatic,India,closed,Jalalabad,34.43,70.45,2.0,0,public_reference,Attacked 2013; approximate.,real
+23,"Consulate of India, Kandahar (closed)",other_gov_diplomatic,India,closed,Kandahar,31.613,65.709,2.0,0,public_reference,Approximate.,real
+24,"Consulate of Iran, Jalalabad",other_gov_diplomatic,Iran,active,Jalalabad,34.427,70.453,2.0,0,public_reference,Approximate.,real
+25,"Consulate of Pakistan, Jalalabad",other_gov_diplomatic,Pakistan,active,Jalalabad,34.428,70.448,2.0,0,public_reference,Approximate.,real
+17,"Embassy of China, Kabul",other_gov_diplomatic,China,active,Kabul,34.532,69.18,1.0,0,public_reference,Approximate.,real
+19,"Embassy of Iran, Kabul",other_gov_diplomatic,Iran,active,Kabul,34.53,69.183,1.0,0,public_reference,Approximate.,real
+16,"Embassy of Pakistan, Kabul",other_gov_diplomatic,Pakistan,active,Kabul,34.534,69.18,1.0,0,public_reference,Approximate.,real
+20,"Embassy of Qatar, Kabul",other_gov_diplomatic,Qatar,active,Kabul,34.535,69.19,1.0,0,public_reference,Approximate.,real
+18,"Embassy of Russia, Kabul",other_gov_diplomatic,Russia,active,Kabul,34.52,69.137,1.0,0,public_reference,Darulaman Road; attacked Sep 2022; approximate.,real
+21,"Embassy of Turkey, Kabul",other_gov_diplomatic,Turkey,active,Kabul,34.531,69.187,1.0,0,public_reference,Approximate.,real
+12,Camp Bastion / Leatherneck (former),other_gov_military,United Kingdom / United States (former),historical,Lashkar Gah,31.8638,64.2246,1.0,0,public_reference,,real
+13,Shamsi Airfield,other_gov_military,Pakistan,active,Dalbandin,27.845,65.163,2.0,0,public_reference,Formerly used for US drone operations (to 2011).,real
+30,Intercontinental Hotel Kabul,soft_target,private,active,Kabul,34.539,69.134,1.0,0,public_reference,"Attacked 2011, 2018.",real
+29,Kabul Serena Hotel,soft_target,private,active,Kabul,34.527,69.175,1.0,0,public_reference,"Attacked 2008, 2014.",real
+4,U.S. Consulate General Karachi,usg_diplomatic,United States,active,Karachi,24.845,67.032,3.0,0,public_reference,Approximate.,real
+5,U.S. Consulate General Lahore,usg_diplomatic,United States,active,Lahore,31.55,74.33,3.0,0,public_reference,Approximate.,real
+3,U.S. Consulate General Peshawar,usg_diplomatic,United States,active,Peshawar,34.003,71.528,2.0,0,public_reference,Approximate.,real
+6,U.S. Consulate Herat (closed 2021),usg_diplomatic,United States,closed,Herat,34.348,62.203,3.0,0,public_reference,Approximate.,real
+7,U.S. Consulate Mazar-e Sharif (closed 2021),usg_diplomatic,United States,closed,Mazar-i-Sharif,36.709,67.11,3.0,0,public_reference,Approximate.,real
+2,U.S. Embassy Islamabad,usg_diplomatic,United States,active,Islamabad,33.725,73.115,2.0,0,public_reference,Diplomatic Enclave; approximate.,real
+1,U.S. Embassy Kabul (suspended 2021),usg_diplomatic,United States,closed,Kabul,34.5346,69.186,1.0,0,public_reference,"Operations suspended 31 Aug 2021; approximate location, verify.",real
+8,Bagram Airfield (handed over 2021),usg_military,United States / NATO,historical,Bagram,34.9461,69.265,1.0,0,public_reference,Former main US base; now Afghan/Taliban controlled.,real
+9,Camp Chapman / Khost Airfield,usg_military,United States (former),historical,Khost,33.333,69.953,1.0,0,public_reference,Site of Dec 2009 attack; approximate.,real
+10,FOB Salerno (former),usg_military,United States (former),historical,Khost,33.364,69.956,1.0,0,public_reference,Approximate.,real
+11,Kandahar Airfield (former ISAF),usg_military,United States / NATO (former),historical,Kandahar,31.5058,65.8478,1.0,0,public_reference,,real

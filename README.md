@@ -27,7 +27,7 @@ backbone for a terrorist-network tracking GUI; a separate `synthetic/` namespace
 | `scripts/review_docs.py` | QA listing for document extractions (new vs. merged persons, non-actor names, dangling edge endpoints) |
 | `isw/` | ISW Map Room source (`isw_maps`): `manifest.json` (58 maps), `maps/<slug>.json` (vision-extracted legend/anchors/plots), `images/` (≤1600 px map JPEGs), gazetteer, `dead_pages.json` — see `docs/isw-maps.md` |
 | `scripts/isw_scrape.py` / `isw_extract.py` / `build_isw_db.py` | collect Map Room pages+images (Chrome over CDP) → Claude-vision digitisation → georeference + load `map_*`/`place_coords` tables + GeoJSON |
-| `synthetic/` | fictional supplement records (same schema, `dataset='synthetic'`, ids prefixed `S`) |
+| `synthetic/` | fictional supplement records (same schema, `dataset='synthetic'`, ids prefixed `S`); `targets_demo.json` = target-tracking demo (14 targets, selectors, correlations, location hits, attacks) from `scripts/synthetic_targets.py`; `sites_reference.json` = public USG / other-government / international sites with approximate coordinates |
 | `docs/` | GUI plan, network findings, National Security Archive source inventory (`docs/nsa-sources.md`) |
 
 ## Rebuild

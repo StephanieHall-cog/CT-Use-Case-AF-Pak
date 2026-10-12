@@ -1,0 +1,5882 @@
+{
+ "scenario_kind": "targets",
+ "episode": {
+  "idx": null,
+  "title": "SYNTHETIC: target-tracking demo — Khost/Waziristan attack network",
+  "published": "2026-10-12"
+ },
+ "persons": [
+  {
+   "name": "Hafiz Gul Zadran",
+   "aliases": [
+    "Abu Hafs Khosti",
+    "Hafiz Sahib",
+    "Hafez Gul Zadran",
+    "Hafiz Gul Jadran",
+    "حافظ گل ځدراڼ",
+    "OBJECTIVE GRANITE"
+   ],
+   "role": "Khost attack planner; coordinates cross-border IED/VBIED cells (fictional)",
+   "organizations": [
+    "Haqqani Network"
+   ],
+   "nationality_or_origin": "Afghan (fictional)",
+   "status": "alive",
+   "family": [],
+   "locations": [
+    "Khost"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "000:00",
+     "quote": "SYNTHETIC target record for demonstration."
+    }
+   ]
+  },
+  {
+   "name": "Qari Nasrullah Mehsud",
+   "aliases": [
+    "Abu Umar Waziristani",
+    "Qari Sahib",
+    "Qari Nasrallah Mahsud",
+    "Nasrullah Masood",
+    "OBJECTIVE BASALT"
+   ],
+   "role": "TTP Bannu-Lakki regional commander (fictional)",
+   "organizations": [
+    "Tehrik-i-Taliban Pakistan"
+   ],
+   "nationality_or_origin": "Pakistani (fictional)",
+   "status": "alive",
+   "family": [],
+   "locations": [
+    "Bannu"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "000:00",
+     "quote": "SYNTHETIC target record for demonstration."
+    }
+   ]
+  },
+  {
+   "name": "Mawlawi Abdul Rashid Kharoti",
+   "aliases": [
+    "Mawlawi Rashid",
+    "Abdul Rasheed Kharoti",
+    "Maulvi Abdul Rashid",
+    "OBJECTIVE FELDSPAR"
+   ],
+   "role": "Head of the (fictional) Finance Shura revenue committee, Kabul",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan (fictional)",
+   "status": "alive",
+   "family": [],
+   "locations": [
+    "Kabul"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "000:00",
+     "quote": "SYNTHETIC target record for demonstration."
+    }
+   ]
+  },
+  {
+   "name": "Haji Daud Wazir",
+   "aliases": [
+    "Haji Daud",
+    "Daud Dawar",
+    "Hajji Dawood Wazir",
+    "Daud Khan Wazir",
+    "OBJECTIVE OBSIDIAN"
+   ],
+   "role": "Logistics and vehicle procurement facilitator, Miram Shah–Khost (fictional)",
+   "organizations": [
+    "Haqqani Network"
+   ],
+   "nationality_or_origin": "Pakistani (fictional)",
+   "status": "alive",
+   "family": [],
+   "locations": [
+    "Miram Shah"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "000:00",
+     "quote": "SYNTHETIC target record for demonstration."
+    }
+   ]
+  },
+  {
+   "name": "Engineer Sami ul-Haq Afridi",
+   "aliases": [
+    "Engineer Sami",
+    "Abu Yahya",
+    "Samiul Haq Afridi",
+    "Sami-ul-Haq",
+    "OBJECTIVE QUARTZ"
+   ],
+   "role": "IED/VBIED builder, Bara–Khost (fictional)",
+   "organizations": [
+    "Haqqani Network"
+   ],
+   "nationality_or_origin": "Pakistani (fictional)",
+   "status": "alive",
+   "family": [],
+   "locations": [
+    "Bara"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "000:00",
+     "quote": "SYNTHETIC target record for demonstration."
+    }
+   ]
+  },
+  {
+   "name": "Rahimullah Jadran",
+   "aliases": [
+    "Rahim Jan",
+    "Rahimullah Zadran",
+    "Raheemullah",
+    "OBJECTIVE SLATE"
+   ],
+   "role": "Courier / driver for OBJECTIVE GRANITE (fictional)",
+   "organizations": [
+    "Haqqani Network"
+   ],
+   "nationality_or_origin": "Afghan (fictional)",
+   "status": "alive",
+   "family": [],
+   "locations": [
+    "Khost"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "000:00",
+     "quote": "SYNTHETIC target record for demonstration."
+    }
+   ]
+  },
+  {
+   "name": "Zahir Shah Mangal",
+   "aliases": [
+    "Zahir Mangal",
+    "Haji Zahir",
+    "Zaher Shah Mangal",
+    "OBJECTIVE MARBLE"
+   ],
+   "role": "Provincial security official, Paktia (fictional) — de facto Chief of Security contact for the cell",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan (fictional)",
+   "status": "alive",
+   "family": [],
+   "locations": [
+    "Gardez"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "000:00",
+     "quote": "SYNTHETIC target record for demonstration."
+    }
+   ]
+  },
+  {
+   "name": "Noor Alam Shinwari",
+   "aliases": [
+    "Abu Talha Khorasani",
+    "Noor Alam",
+    "Nur Alam Shinwari",
+    "OBJECTIVE PYRITE"
+   ],
+   "role": "ISKP media and recruitment node, Jalalabad–Peshawar (fictional)",
+   "organizations": [
+    "Islamic State Khorasan Province"
+   ],
+   "nationality_or_origin": "Afghan (fictional)",
+   "status": "alive",
+   "family": [],
+   "locations": [
+    "Jalalabad"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "000:00",
+     "quote": "SYNTHETIC target record for demonstration."
+    }
+   ]
+  },
+  {
+   "name": "Shams ud-Din Dawar",
+   "aliases": [
+    "Shamsuddin",
+    "Shams Mir Ali",
+    "Shamsuddin Dawar",
+    "Shams-ud-Din",
+    "OBJECTIVE TOPAZ"
+   ],
+   "role": "TTP Mir Ali cell leader; suicide-bomber facilitator (fictional)",
+   "organizations": [
+    "Tehrik-i-Taliban Pakistan"
+   ],
+   "nationality_or_origin": "Pakistani (fictional)",
+   "status": "alive",
+   "family": [],
+   "locations": [
+    "Mir Ali"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "000:00",
+     "quote": "SYNTHETIC target record for demonstration."
+    }
+   ]
+  },
+  {
+   "name": "Bilal Ahmad Zadran",
+   "aliases": [
+    "Bilal Khosti",
+    "Belal Ahmad Zadran",
+    "OBJECTIVE AGATE"
+   ],
+   "role": "Deputy to OBJECTIVE GRANITE; Khost city cell lead (fictional)",
+   "organizations": [
+    "Haqqani Network"
+   ],
+   "nationality_or_origin": "Afghan (fictional)",
+   "status": "alive",
+   "family": [],
+   "locations": [
+    "Khost"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "000:00",
+     "quote": "SYNTHETIC target record for demonstration."
+    }
+   ]
+  },
+  {
+   "name": "Mohammad Nabi Hawaladar",
+   "aliases": [
+    "Nabi Sarraf",
+    "Haji Nabi",
+    "Muhammad Nabi Hawaladar",
+    "Nabi the money-changer",
+    "OBJECTIVE JASPER"
+   ],
+   "role": "Hawala operator, Sarai Shahzada, Kabul; moves funds for the Finance Shura committee (fictional)",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Afghan (fictional)",
+   "status": "alive",
+   "family": [],
+   "locations": [
+    "Kabul"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "000:00",
+     "quote": "SYNTHETIC target record for demonstration."
+    }
+   ]
+  },
+  {
+   "name": "Abdul Wakil Achakzai",
+   "aliases": [
+    "Wakil Agha",
+    "Abdul Wakeel Achakzai",
+    "OBJECTIVE ONYX"
+   ],
+   "role": "Quetta-based liaison and document facilitator (fictional)",
+   "organizations": [
+    "Taliban"
+   ],
+   "nationality_or_origin": "Pakistani (fictional)",
+   "status": "alive",
+   "family": [],
+   "locations": [
+    "Quetta"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "000:00",
+     "quote": "SYNTHETIC target record for demonstration."
+    }
+   ]
+  },
+  {
+   "name": "Ihsanullah Tanai",
+   "aliases": [
+    "Ihsan Tanai",
+    "Abu Bakr Tani",
+    "Ehsanullah Tanai",
+    "OBJECTIVE CORUNDUM"
+   ],
+   "role": "Border-crossing coordinator, Ghulam Khan (fictional)",
+   "organizations": [
+    "Haqqani Network"
+   ],
+   "nationality_or_origin": "Afghan (fictional)",
+   "status": "alive",
+   "family": [],
+   "locations": [
+    "Tani"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "000:00",
+     "quote": "SYNTHETIC target record for demonstration."
+    }
+   ]
+  },
+  {
+   "name": "Sher Zaman Burki",
+   "aliases": [
+    "Sher Zaman",
+    "Sherzaman Burki",
+    "Sher Zaman Baraki",
+    "OBJECTIVE GARNET"
+   ],
+   "role": "TTP finance collector, D.I. Khan–Tank (fictional)",
+   "organizations": [
+    "Tehrik-i-Taliban Pakistan"
+   ],
+   "nationality_or_origin": "Pakistani (fictional)",
+   "status": "alive",
+   "family": [],
+   "locations": [
+    "Dera Ismail Khan"
+   ],
+   "is_presenter_or_guest": false,
+   "mentions": [
+    {
+     "timestamp": "000:00",
+     "quote": "SYNTHETIC target record for demonstration."
+    }
+   ]
+  }
+ ],
+ "organizations": [],
+ "places": [
+  {
+   "name": "Bannu",
+   "type": "populated place",
+   "country": "Afghanistan"
+  },
+  {
+   "name": "Bara",
+   "type": "populated place",
+   "country": "Afghanistan"
+  },
+  {
+   "name": "Dera Ismail Khan",
+   "type": "populated place",
+   "country": "Afghanistan"
+  },
+  {
+   "name": "Gardez",
+   "type": "populated place",
+   "country": "Afghanistan"
+  },
+  {
+   "name": "Jalalabad",
+   "type": "populated place",
+   "country": "Afghanistan"
+  },
+  {
+   "name": "Kabul",
+   "type": "populated place",
+   "country": "Afghanistan"
+  },
+  {
+   "name": "Khost",
+   "type": "populated place",
+   "country": "Afghanistan"
+  },
+  {
+   "name": "Mir Ali",
+   "type": "populated place",
+   "country": "Afghanistan"
+  },
+  {
+   "name": "Miram Shah",
+   "type": "populated place",
+   "country": "Afghanistan"
+  },
+  {
+   "name": "Quetta",
+   "type": "populated place",
+   "country": "Afghanistan"
+  },
+  {
+   "name": "Tani",
+   "type": "populated place",
+   "country": "Afghanistan"
+  }
+ ],
+ "events": [
+  {
+   "date": "2025-02-11",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "SYNTHETIC: VBIED against district police HQ (fictional)",
+   "place": "Khost",
+   "actors": [
+    "Hafiz Gul Zadran",
+    "Engineer Sami ul-Haq Afridi",
+    "Bilal Ahmad Zadran",
+    "Haqqani Network"
+   ],
+   "timestamp": "000:00",
+   "lat": 33.34566,
+   "lon": 69.91979,
+   "precision_km": 1.5,
+   "group": "Haqqani Network"
+  },
+  {
+   "date": "2025-03-03",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "SYNTHETIC: Complex attack on cantonment gate (fictional)",
+   "place": "Bannu",
+   "actors": [
+    "Qari Nasrullah Mehsud",
+    "Shams ud-Din Dawar",
+    "Tehrik-i-Taliban Pakistan"
+   ],
+   "timestamp": "000:00",
+   "lat": 32.98531,
+   "lon": 70.60426,
+   "precision_km": 1.5,
+   "group": "Tehrik-i-Taliban Pakistan"
+  },
+  {
+   "date": "2025-04-18",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "SYNTHETIC: IED on security convoy (fictional)",
+   "place": "Dera Ismail Khan",
+   "actors": [
+    "Qari Nasrullah Mehsud",
+    "Sher Zaman Burki",
+    "Tehrik-i-Taliban Pakistan"
+   ],
+   "timestamp": "000:00",
+   "lat": 31.86031,
+   "lon": 70.64355,
+   "precision_km": 1.5,
+   "group": "Tehrik-i-Taliban Pakistan"
+  },
+  {
+   "date": "2025-05-22",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "SYNTHETIC: Suicide bombing at bank queue (fictional)",
+   "place": "Jalalabad",
+   "actors": [
+    "Noor Alam Shinwari",
+    "Islamic State Khorasan Province"
+   ],
+   "timestamp": "000:00",
+   "lat": 34.42636,
+   "lon": 70.45147,
+   "precision_km": 1.5,
+   "group": "Islamic State Khorasan Province"
+  },
+  {
+   "date": "2025-06-09",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "SYNTHETIC: Magnetic IED on official vehicle (fictional)",
+   "place": "Gardez",
+   "actors": [
+    "Rahimullah Jadran",
+    "Engineer Sami ul-Haq Afridi",
+    "Haqqani Network"
+   ],
+   "timestamp": "000:00",
+   "lat": 33.60171,
+   "lon": 69.22509,
+   "precision_km": 1.5,
+   "group": "Haqqani Network"
+  },
+  {
+   "date": "2025-07-14",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "SYNTHETIC: Ambush on FC patrol (fictional)",
+   "place": "Mir Ali",
+   "actors": [
+    "Shams ud-Din Dawar",
+    "Tehrik-i-Taliban Pakistan"
+   ],
+   "timestamp": "000:00",
+   "lat": 32.98899,
+   "lon": 70.37584,
+   "precision_km": 1.5,
+   "group": "Tehrik-i-Taliban Pakistan"
+  },
+  {
+   "date": "2025-08-02",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "SYNTHETIC: Attack near foreign embassy quarter, Wazir Akbar Khan (fictional)",
+   "place": "Kabul",
+   "actors": [
+    "Noor Alam Shinwari",
+    "Islamic State Khorasan Province"
+   ],
+   "timestamp": "000:00",
+   "lat": 34.52397,
+   "lon": 69.17515,
+   "precision_km": 1.5,
+   "group": "Islamic State Khorasan Province"
+  },
+  {
+   "date": "2025-08-29",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "SYNTHETIC: Extortion-related grenade attack (fictional)",
+   "place": "Tank",
+   "actors": [
+    "Sher Zaman Burki",
+    "Tehrik-i-Taliban Pakistan"
+   ],
+   "timestamp": "000:00",
+   "lat": 32.2388,
+   "lon": 70.38301,
+   "precision_km": 1.5,
+   "group": "Tehrik-i-Taliban Pakistan"
+  },
+  {
+   "date": "2025-09-17",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "SYNTHETIC: Rocket attack on district centre (fictional)",
+   "place": "Sabari",
+   "actors": [
+    "Bilal Ahmad Zadran",
+    "Haqqani Network"
+   ],
+   "timestamp": "000:00",
+   "lat": 33.5449,
+   "lon": 69.91179,
+   "precision_km": 1.5,
+   "group": "Haqqani Network"
+  },
+  {
+   "date": "2025-10-05",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "SYNTHETIC: Targeted killing of cleric (fictional)",
+   "place": "Peshawar",
+   "actors": [
+    "Noor Alam Shinwari",
+    "Islamic State Khorasan Province"
+   ],
+   "timestamp": "000:00",
+   "lat": 34.01184,
+   "lon": 71.58106,
+   "precision_km": 1.5,
+   "group": "Islamic State Khorasan Province"
+  },
+  {
+   "date": "2025-11-20",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "SYNTHETIC: VBIED intercepted at checkpoint; vehicle traced to OBSIDIAN (fictional)",
+   "place": "Khost",
+   "actors": [
+    "Haji Daud Wazir",
+    "Ihsanullah Tanai",
+    "Haqqani Network"
+   ],
+   "timestamp": "000:00",
+   "lat": 33.33933,
+   "lon": 69.91573,
+   "precision_km": 1.5,
+   "group": "Haqqani Network"
+  },
+  {
+   "date": "2025-12-12",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "SYNTHETIC: Quadcopter-dropped munition on police post (fictional)",
+   "place": "Bannu",
+   "actors": [
+    "Qari Nasrullah Mehsud",
+    "Tehrik-i-Taliban Pakistan"
+   ],
+   "timestamp": "000:00",
+   "lat": 32.98525,
+   "lon": 70.60403,
+   "precision_km": 1.5,
+   "group": "Tehrik-i-Taliban Pakistan"
+  },
+  {
+   "date": "2026-01-08",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "SYNTHETIC: Convoy ambush (fictional)",
+   "place": "Parachinar",
+   "actors": [
+    "Shams ud-Din Dawar",
+    "Tehrik-i-Taliban Pakistan"
+   ],
+   "timestamp": "000:00",
+   "lat": 33.90201,
+   "lon": 70.09926,
+   "precision_km": 1.5,
+   "group": "Tehrik-i-Taliban Pakistan"
+  },
+  {
+   "date": "2026-02-14",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "SYNTHETIC: IED near checkpoint (fictional)",
+   "place": "Jamrud",
+   "actors": [
+    "Engineer Sami ul-Haq Afridi",
+    "Noor Alam Shinwari",
+    "Islamic State Khorasan Province"
+   ],
+   "timestamp": "000:00",
+   "lat": 34.00344,
+   "lon": 71.37981,
+   "precision_km": 1.5,
+   "group": "Islamic State Khorasan Province"
+  },
+  {
+   "date": "2026-03-21",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "SYNTHETIC: Attack planning meeting raided; two detained (fictional)",
+   "place": "Miram Shah",
+   "actors": [
+    "Hafiz Gul Zadran",
+    "Haji Daud Wazir",
+    "Haqqani Network"
+   ],
+   "timestamp": "000:00",
+   "lat": 33.00166,
+   "lon": 70.08024,
+   "precision_km": 1.5,
+   "group": "Haqqani Network"
+  },
+  {
+   "date": "2026-04-10",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "SYNTHETIC: IED on Taliban security vehicle after internal dispute (fictional)",
+   "place": "Zurmat",
+   "actors": [
+    "Zahir Shah Mangal",
+    "Haqqani Network"
+   ],
+   "timestamp": "000:00",
+   "lat": 33.43821,
+   "lon": 69.02735,
+   "precision_km": 1.5,
+   "group": "Haqqani Network"
+  },
+  {
+   "date": "2026-05-05",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "SYNTHETIC: Attack on police station (fictional)",
+   "place": "Hangu",
+   "actors": [
+    "Qari Nasrullah Mehsud",
+    "Tehrik-i-Taliban Pakistan"
+   ],
+   "timestamp": "000:00",
+   "lat": 33.53442,
+   "lon": 71.06023,
+   "precision_km": 1.5,
+   "group": "Tehrik-i-Taliban Pakistan"
+  },
+  {
+   "date": "2026-06-19",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "SYNTHETIC: Suicide bomber neutralised near market (fictional)",
+   "place": "Khost",
+   "actors": [
+    "Bilal Ahmad Zadran",
+    "Engineer Sami ul-Haq Afridi",
+    "Haqqani Network"
+   ],
+   "timestamp": "000:00",
+   "lat": 33.33953,
+   "lon": 69.9205,
+   "precision_km": 1.5,
+   "group": "Haqqani Network"
+  },
+  {
+   "date": "2026-07-07",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "SYNTHETIC: IED at border market (fictional)",
+   "place": "Chaman",
+   "actors": [
+    "Abdul Wakil Achakzai",
+    "Tehrik-i-Taliban Pakistan"
+   ],
+   "timestamp": "000:00",
+   "lat": 30.92088,
+   "lon": 66.44984,
+   "precision_km": 1.5,
+   "group": "Tehrik-i-Taliban Pakistan"
+  },
+  {
+   "date": "2026-08-15",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "SYNTHETIC: Attempted attack on hotel hosting foreign delegation (fictional)",
+   "place": "Kabul",
+   "actors": [
+    "Noor Alam Shinwari",
+    "Islamic State Khorasan Province"
+   ],
+   "timestamp": "000:00",
+   "lat": 34.53012,
+   "lon": 69.17316,
+   "precision_km": 1.5,
+   "group": "Islamic State Khorasan Province"
+  },
+  {
+   "date": "2026-09-02",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "SYNTHETIC: VBIED on cantonment perimeter (fictional)",
+   "place": "Bannu",
+   "actors": [
+    "Qari Nasrullah Mehsud",
+    "Shams ud-Din Dawar",
+    "Sher Zaman Burki",
+    "Tehrik-i-Taliban Pakistan"
+   ],
+   "timestamp": "000:00",
+   "lat": 32.98549,
+   "lon": 70.60637,
+   "precision_km": 1.5,
+   "group": "Tehrik-i-Taliban Pakistan"
+  },
+  {
+   "date": "2026-09-20",
+   "date_precision": "day",
+   "type": "attack",
+   "description": "SYNTHETIC: Explosives seizure at crossing (fictional)",
+   "place": "Ghulam Khan",
+   "actors": [
+    "Ihsanullah Tanai",
+    "Haji Daud Wazir",
+    "Haqqani Network"
+   ],
+   "timestamp": "000:00",
+   "lat": 33.06377,
+   "lon": 70.17176,
+   "precision_km": 1.5,
+   "group": "Haqqani Network"
+  }
+ ],
+ "relationships": [
+  {
+   "source": "Hafiz Gul Zadran",
+   "target": "Bilal Ahmad Zadran",
+   "type": "brother_in_law_of",
+   "detail": "SYNTHETIC family link",
+   "date": "2025",
+   "confidence": "stated",
+   "timestamp": "000:00",
+   "quote": "SYNTHETIC"
+  },
+  {
+   "source": "Hafiz Gul Zadran",
+   "target": "Rahimullah Jadran",
+   "type": "uncle_of",
+   "detail": "SYNTHETIC family link",
+   "date": "2025",
+   "confidence": "stated",
+   "timestamp": "000:00",
+   "quote": "SYNTHETIC"
+  },
+  {
+   "source": "Qari Nasrullah Mehsud",
+   "target": "Shams ud-Din Dawar",
+   "type": "cousin_of",
+   "detail": "SYNTHETIC family link",
+   "date": "2025",
+   "confidence": "stated",
+   "timestamp": "000:00",
+   "quote": "SYNTHETIC"
+  },
+  {
+   "source": "Haji Daud Wazir",
+   "target": "Ihsanullah Tanai",
+   "type": "brother_of",
+   "detail": "SYNTHETIC family link",
+   "date": "2025",
+   "confidence": "stated",
+   "timestamp": "000:00",
+   "quote": "SYNTHETIC"
+  },
+  {
+   "source": "Mawlawi Abdul Rashid Kharoti",
+   "target": "Mohammad Nabi Hawaladar",
+   "type": "father_in_law_of",
+   "detail": "SYNTHETIC family link",
+   "date": "2025",
+   "confidence": "stated",
+   "timestamp": "000:00",
+   "quote": "SYNTHETIC"
+  },
+  {
+   "source": "Bilal Ahmad Zadran",
+   "target": "Hafiz Gul Zadran",
+   "type": "deputy_of",
+   "detail": "SYNTHETIC operational link",
+   "date": "2025",
+   "confidence": "stated",
+   "timestamp": "000:00",
+   "quote": "SYNTHETIC"
+  },
+  {
+   "source": "Rahimullah Jadran",
+   "target": "Hafiz Gul Zadran",
+   "type": "courier_for",
+   "detail": "SYNTHETIC operational link",
+   "date": "2025",
+   "confidence": "stated",
+   "timestamp": "000:00",
+   "quote": "SYNTHETIC"
+  },
+  {
+   "source": "Haji Daud Wazir",
+   "target": "Hafiz Gul Zadran",
+   "type": "supplies",
+   "detail": "SYNTHETIC operational link",
+   "date": "2025",
+   "confidence": "stated",
+   "timestamp": "000:00",
+   "quote": "SYNTHETIC"
+  },
+  {
+   "source": "Engineer Sami ul-Haq Afridi",
+   "target": "Hafiz Gul Zadran",
+   "type": "supplies",
+   "detail": "SYNTHETIC operational link",
+   "date": "2025",
+   "confidence": "stated",
+   "timestamp": "000:00",
+   "quote": "SYNTHETIC"
+  },
+  {
+   "source": "Ihsanullah Tanai",
+   "target": "Haji Daud Wazir",
+   "type": "paid_by",
+   "detail": "SYNTHETIC operational link",
+   "date": "2025",
+   "confidence": "stated",
+   "timestamp": "000:00",
+   "quote": "SYNTHETIC"
+  },
+  {
+   "source": "Zahir Shah Mangal",
+   "target": "Hafiz Gul Zadran",
+   "type": "protects",
+   "detail": "SYNTHETIC operational link",
+   "date": "2025",
+   "confidence": "stated",
+   "timestamp": "000:00",
+   "quote": "SYNTHETIC"
+  },
+  {
+   "source": "Zahir Shah Mangal",
+   "target": "Haji Daud Wazir",
+   "type": "registers_vehicles_for",
+   "detail": "SYNTHETIC operational link",
+   "date": "2025",
+   "confidence": "stated",
+   "timestamp": "000:00",
+   "quote": "SYNTHETIC"
+  },
+  {
+   "source": "Mohammad Nabi Hawaladar",
+   "target": "Mawlawi Abdul Rashid Kharoti",
+   "type": "moves_funds_for",
+   "detail": "SYNTHETIC operational link",
+   "date": "2025",
+   "confidence": "stated",
+   "timestamp": "000:00",
+   "quote": "SYNTHETIC"
+  },
+  {
+   "source": "Mawlawi Abdul Rashid Kharoti",
+   "target": "Hafiz Gul Zadran",
+   "type": "funds",
+   "detail": "SYNTHETIC operational link",
+   "date": "2025",
+   "confidence": "stated",
+   "timestamp": "000:00",
+   "quote": "SYNTHETIC"
+  },
+  {
+   "source": "Abdul Wakil Achakzai",
+   "target": "Haji Daud Wazir",
+   "type": "provides_documents_to",
+   "detail": "SYNTHETIC operational link",
+   "date": "2025",
+   "confidence": "stated",
+   "timestamp": "000:00",
+   "quote": "SYNTHETIC"
+  },
+  {
+   "source": "Abdul Wakil Achakzai",
+   "target": "Qari Nasrullah Mehsud",
+   "type": "provides_documents_to",
+   "detail": "SYNTHETIC operational link",
+   "date": "2025",
+   "confidence": "stated",
+   "timestamp": "000:00",
+   "quote": "SYNTHETIC"
+  },
+  {
+   "source": "Sher Zaman Burki",
+   "target": "Qari Nasrullah Mehsud",
+   "type": "collects_for",
+   "detail": "SYNTHETIC operational link",
+   "date": "2025",
+   "confidence": "stated",
+   "timestamp": "000:00",
+   "quote": "SYNTHETIC"
+  },
+  {
+   "source": "Shams ud-Din Dawar",
+   "target": "Qari Nasrullah Mehsud",
+   "type": "subordinate_of",
+   "detail": "SYNTHETIC operational link",
+   "date": "2025",
+   "confidence": "stated",
+   "timestamp": "000:00",
+   "quote": "SYNTHETIC"
+  },
+  {
+   "source": "Noor Alam Shinwari",
+   "target": "Engineer Sami ul-Haq Afridi",
+   "type": "procures_from",
+   "detail": "SYNTHETIC operational link",
+   "date": "2025",
+   "confidence": "stated",
+   "timestamp": "000:00",
+   "quote": "SYNTHETIC"
+  },
+  {
+   "source": "Qari Nasrullah Mehsud",
+   "target": "Hafiz Gul Zadran",
+   "type": "coordinates_with",
+   "detail": "SYNTHETIC operational link",
+   "date": "2025",
+   "confidence": "stated",
+   "timestamp": "000:00",
+   "quote": "SYNTHETIC"
+  },
+  {
+   "source": "Hafiz Gul Zadran",
+   "target": "Haqqani Network",
+   "type": "member_of",
+   "detail": "SYNTHETIC link to a real organization",
+   "date": "2025",
+   "confidence": "stated",
+   "timestamp": "000:00",
+   "quote": "SYNTHETIC"
+  },
+  {
+   "source": "Qari Nasrullah Mehsud",
+   "target": "Tehrik-i-Taliban Pakistan",
+   "type": "member_of",
+   "detail": "SYNTHETIC link to a real organization",
+   "date": "2025",
+   "confidence": "stated",
+   "timestamp": "000:00",
+   "quote": "SYNTHETIC"
+  },
+  {
+   "source": "Mawlawi Abdul Rashid Kharoti",
+   "target": "Taliban",
+   "type": "member_of",
+   "detail": "SYNTHETIC link to a real organization",
+   "date": "2025",
+   "confidence": "stated",
+   "timestamp": "000:00",
+   "quote": "SYNTHETIC"
+  },
+  {
+   "source": "Haji Daud Wazir",
+   "target": "Haqqani Network",
+   "type": "member_of",
+   "detail": "SYNTHETIC link to a real organization",
+   "date": "2025",
+   "confidence": "stated",
+   "timestamp": "000:00",
+   "quote": "SYNTHETIC"
+  },
+  {
+   "source": "Engineer Sami ul-Haq Afridi",
+   "target": "Haqqani Network",
+   "type": "member_of",
+   "detail": "SYNTHETIC link to a real organization",
+   "date": "2025",
+   "confidence": "stated",
+   "timestamp": "000:00",
+   "quote": "SYNTHETIC"
+  },
+  {
+   "source": "Rahimullah Jadran",
+   "target": "Haqqani Network",
+   "type": "member_of",
+   "detail": "SYNTHETIC link to a real organization",
+   "date": "2025",
+   "confidence": "stated",
+   "timestamp": "000:00",
+   "quote": "SYNTHETIC"
+  },
+  {
+   "source": "Zahir Shah Mangal",
+   "target": "Taliban",
+   "type": "member_of",
+   "detail": "SYNTHETIC link to a real organization",
+   "date": "2025",
+   "confidence": "stated",
+   "timestamp": "000:00",
+   "quote": "SYNTHETIC"
+  },
+  {
+   "source": "Noor Alam Shinwari",
+   "target": "Islamic State Khorasan Province",
+   "type": "member_of",
+   "detail": "SYNTHETIC link to a real organization",
+   "date": "2025",
+   "confidence": "stated",
+   "timestamp": "000:00",
+   "quote": "SYNTHETIC"
+  },
+  {
+   "source": "Shams ud-Din Dawar",
+   "target": "Tehrik-i-Taliban Pakistan",
+   "type": "member_of",
+   "detail": "SYNTHETIC link to a real organization",
+   "date": "2025",
+   "confidence": "stated",
+   "timestamp": "000:00",
+   "quote": "SYNTHETIC"
+  },
+  {
+   "source": "Bilal Ahmad Zadran",
+   "target": "Haqqani Network",
+   "type": "member_of",
+   "detail": "SYNTHETIC link to a real organization",
+   "date": "2025",
+   "confidence": "stated",
+   "timestamp": "000:00",
+   "quote": "SYNTHETIC"
+  },
+  {
+   "source": "Mohammad Nabi Hawaladar",
+   "target": "Taliban",
+   "type": "member_of",
+   "detail": "SYNTHETIC link to a real organization",
+   "date": "2025",
+   "confidence": "stated",
+   "timestamp": "000:00",
+   "quote": "SYNTHETIC"
+  },
+  {
+   "source": "Abdul Wakil Achakzai",
+   "target": "Taliban",
+   "type": "member_of",
+   "detail": "SYNTHETIC link to a real organization",
+   "date": "2025",
+   "confidence": "stated",
+   "timestamp": "000:00",
+   "quote": "SYNTHETIC"
+  },
+  {
+   "source": "Ihsanullah Tanai",
+   "target": "Haqqani Network",
+   "type": "member_of",
+   "detail": "SYNTHETIC link to a real organization",
+   "date": "2025",
+   "confidence": "stated",
+   "timestamp": "000:00",
+   "quote": "SYNTHETIC"
+  },
+  {
+   "source": "Sher Zaman Burki",
+   "target": "Tehrik-i-Taliban Pakistan",
+   "type": "member_of",
+   "detail": "SYNTHETIC link to a real organization",
+   "date": "2025",
+   "confidence": "stated",
+   "timestamp": "000:00",
+   "quote": "SYNTHETIC"
+  }
+ ],
+ "target_cards": [
+  {
+   "entity": "T01",
+   "name": "Hafiz Gul Zadran",
+   "objective_name": "OBJECTIVE GRANITE",
+   "kunyas": [
+    "Abu Hafs Khosti",
+    "Hafiz Sahib"
+   ],
+   "name_variants": [
+    "Hafez Gul Zadran",
+    "Hafiz Gul Jadran",
+    "حافظ گل ځدراڼ"
+   ],
+   "tribe": "Zadran",
+   "sub_tribe": "Mezi",
+   "network": "Haqqani Network",
+   "role_current": "Khost attack planner; coordinates cross-border IED/VBIED cells (fictional)",
+   "role_history": [
+    [
+     "2019",
+     "2021",
+     "Haqqani Network Miram Shah military shura member (fictional)"
+    ],
+    [
+     "2022",
+     null,
+     "Khost attack planner (fictional)"
+    ]
+   ],
+   "priority": "1",
+   "status": "active",
+   "dob": "c. 1983",
+   "pob": "Garda Saray, Paktia (fictional)",
+   "home_area": "Khost",
+   "summary": "SYNTHETIC. Senior Haqqani Network operative assessed to plan attacks in Khost and Paktika; moves between Khost city and Miram Shah.",
+   "dataset": "synthetic"
+  },
+  {
+   "entity": "T02",
+   "name": "Qari Nasrullah Mehsud",
+   "objective_name": "OBJECTIVE BASALT",
+   "kunyas": [
+    "Abu Umar Waziristani",
+    "Qari Sahib"
+   ],
+   "name_variants": [
+    "Qari Nasrallah Mahsud",
+    "Nasrullah Masood"
+   ],
+   "tribe": "Mehsud",
+   "sub_tribe": "Shabi Khel",
+   "network": "Tehrik-i-Taliban Pakistan",
+   "role_current": "TTP Bannu-Lakki regional commander (fictional)",
+   "role_history": [
+    [
+     "2017",
+     "2020",
+     "TTP South Waziristan deputy (fictional)"
+    ],
+    [
+     "2021",
+     null,
+     "TTP Bannu regional commander (fictional)"
+    ]
+   ],
+   "priority": "1",
+   "status": "active",
+   "dob": "c. 1979",
+   "pob": "Makeen, South Waziristan (fictional)",
+   "home_area": "Bannu",
+   "summary": "SYNTHETIC. TTP commander directing attacks on Pakistani security forces in Bannu and Lakki Marwat.",
+   "dataset": "synthetic"
+  },
+  {
+   "entity": "T03",
+   "name": "Mawlawi Abdul Rashid Kharoti",
+   "objective_name": "OBJECTIVE FELDSPAR",
+   "kunyas": [
+    "Mawlawi Rashid"
+   ],
+   "name_variants": [
+    "Abdul Rasheed Kharoti",
+    "Maulvi Abdul Rashid"
+   ],
+   "tribe": "Kharoti",
+   "sub_tribe": "",
+   "network": "Taliban",
+   "role_current": "Head of the (fictional) Finance Shura revenue committee, Kabul",
+   "role_history": [
+    [
+     "2016",
+     "2021",
+     "Taliban shadow finance official, Paktika (fictional)"
+    ],
+    [
+     "2021",
+     null,
+     "Finance Shura revenue committee head (fictional)"
+    ]
+   ],
+   "priority": "2",
+   "status": "active",
+   "dob": "1975-03-10 (fictional)",
+   "pob": "Barmal, Paktika (fictional)",
+   "home_area": "Kabul",
+   "summary": "SYNTHETIC. Controls fictional revenue streams and hawala transfers between Kabul, Dubai and Doha.",
+   "dataset": "synthetic"
+  },
+  {
+   "entity": "T04",
+   "name": "Haji Daud Wazir",
+   "objective_name": "OBJECTIVE OBSIDIAN",
+   "kunyas": [
+    "Haji Daud",
+    "Daud Dawar"
+   ],
+   "name_variants": [
+    "Hajji Dawood Wazir",
+    "Daud Khan Wazir"
+   ],
+   "tribe": "Wazir",
+   "sub_tribe": "Utmanzai (Dawar)",
+   "network": "Haqqani Network",
+   "role_current": "Logistics and vehicle procurement facilitator, Miram Shah–Khost (fictional)",
+   "role_history": [
+    [
+     "2020",
+     null,
+     "Vehicle/explosives logistics facilitator (fictional)"
+    ]
+   ],
+   "priority": "2",
+   "status": "active",
+   "dob": "c. 1988",
+   "pob": "Dande Darpa Khel (fictional)",
+   "home_area": "Miram Shah",
+   "summary": "SYNTHETIC. Buys vehicles in Bannu and Peshawar and moves them to Khost for the GRANITE cell.",
+   "dataset": "synthetic"
+  },
+  {
+   "entity": "T05",
+   "name": "Engineer Sami ul-Haq Afridi",
+   "objective_name": "OBJECTIVE QUARTZ",
+   "kunyas": [
+    "Engineer Sami",
+    "Abu Yahya"
+   ],
+   "name_variants": [
+    "Samiul Haq Afridi",
+    "Sami-ul-Haq"
+   ],
+   "tribe": "Afridi",
+   "sub_tribe": "Zakha Khel",
+   "network": "Haqqani Network",
+   "role_current": "IED/VBIED builder, Bara–Khost (fictional)",
+   "role_history": [
+    [
+     "2014",
+     "2018",
+     "TTP Khyber bomb-maker (fictional)"
+    ],
+    [
+     "2019",
+     null,
+     "Haqqani Network IED builder (fictional)"
+    ]
+   ],
+   "priority": "1",
+   "status": "active",
+   "dob": "c. 1986",
+   "pob": "Bara, Khyber (fictional)",
+   "home_area": "Bara",
+   "summary": "SYNTHETIC. Technical lead for explosive devices used by the GRANITE cell.",
+   "dataset": "synthetic"
+  },
+  {
+   "entity": "T06",
+   "name": "Rahimullah Jadran",
+   "objective_name": "OBJECTIVE SLATE",
+   "kunyas": [
+    "Rahim Jan"
+   ],
+   "name_variants": [
+    "Rahimullah Zadran",
+    "Raheemullah"
+   ],
+   "tribe": "Zadran",
+   "sub_tribe": "Sultan Khel",
+   "network": "Haqqani Network",
+   "role_current": "Courier / driver for OBJECTIVE GRANITE (fictional)",
+   "role_history": [
+    [
+     "2021",
+     null,
+     "Courier (fictional)"
+    ]
+   ],
+   "priority": "3",
+   "status": "active",
+   "dob": "c. 1996",
+   "pob": "Sabari, Khost (fictional)",
+   "home_area": "Khost",
+   "summary": "SYNTHETIC. Carries messages and cash between Khost, Gardez and Miram Shah; frequently crosses at Ghulam Khan.",
+   "dataset": "synthetic"
+  },
+  {
+   "entity": "T07",
+   "name": "Zahir Shah Mangal",
+   "objective_name": "OBJECTIVE MARBLE",
+   "kunyas": [
+    "Zahir Mangal",
+    "Haji Zahir"
+   ],
+   "name_variants": [
+    "Zaher Shah Mangal"
+   ],
+   "tribe": "Mangal",
+   "sub_tribe": "",
+   "network": "Taliban",
+   "role_current": "Provincial security official, Paktia (fictional) — de facto Chief of Security contact for the cell",
+   "role_history": [
+    [
+     "2021",
+     null,
+     "Paktia provincial security official (fictional)"
+    ]
+   ],
+   "priority": "2",
+   "status": "active",
+   "dob": "c. 1980",
+   "pob": "Zurmat, Paktia (fictional)",
+   "home_area": "Gardez",
+   "summary": "SYNTHETIC. Government-side contact who provides movement cover and vehicle registrations.",
+   "dataset": "synthetic"
+  },
+  {
+   "entity": "T08",
+   "name": "Noor Alam Shinwari",
+   "objective_name": "OBJECTIVE PYRITE",
+   "kunyas": [
+    "Abu Talha Khorasani",
+    "Noor Alam"
+   ],
+   "name_variants": [
+    "Nur Alam Shinwari"
+   ],
+   "tribe": "Shinwari",
+   "sub_tribe": "",
+   "network": "Islamic State Khorasan Province",
+   "role_current": "ISKP media and recruitment node, Jalalabad–Peshawar (fictional)",
+   "role_history": [
+    [
+     "2018",
+     "2020",
+     "ISKP Nangarhar media cell (fictional)"
+    ],
+    [
+     "2022",
+     null,
+     "ISKP recruiter / media (fictional)"
+    ]
+   ],
+   "priority": "2",
+   "status": "active",
+   "dob": "c. 1992",
+   "pob": "Achin, Nangarhar (fictional)",
+   "home_area": "Jalalabad",
+   "summary": "SYNTHETIC. Runs recruitment channels and claims; detained briefly in 2024 (fictional) and released.",
+   "dataset": "synthetic"
+  },
+  {
+   "entity": "T09",
+   "name": "Shams ud-Din Dawar",
+   "objective_name": "OBJECTIVE TOPAZ",
+   "kunyas": [
+    "Shamsuddin",
+    "Shams Mir Ali"
+   ],
+   "name_variants": [
+    "Shamsuddin Dawar",
+    "Shams-ud-Din"
+   ],
+   "tribe": "Dawar",
+   "sub_tribe": "Malikshahi",
+   "network": "Tehrik-i-Taliban Pakistan",
+   "role_current": "TTP Mir Ali cell leader; suicide-bomber facilitator (fictional)",
+   "role_history": [
+    [
+     "2019",
+     null,
+     "TTP Mir Ali cell leader (fictional)"
+    ]
+   ],
+   "priority": "1",
+   "status": "active",
+   "dob": "c. 1985",
+   "pob": "Mir Ali (fictional)",
+   "home_area": "Mir Ali",
+   "summary": "SYNTHETIC. Facilitates movement of bombers from North Waziristan into Bannu and D.I. Khan.",
+   "dataset": "synthetic"
+  },
+  {
+   "entity": "T10",
+   "name": "Bilal Ahmad Zadran",
+   "objective_name": "OBJECTIVE AGATE",
+   "kunyas": [
+    "Bilal Khosti"
+   ],
+   "name_variants": [
+    "Belal Ahmad Zadran"
+   ],
+   "tribe": "Zadran",
+   "sub_tribe": "Mezi",
+   "network": "Haqqani Network",
+   "role_current": "Deputy to OBJECTIVE GRANITE; Khost city cell lead (fictional)",
+   "role_history": [
+    [
+     "2022",
+     null,
+     "Deputy attack planner (fictional)"
+    ]
+   ],
+   "priority": "1",
+   "status": "active",
+   "dob": "c. 1990",
+   "pob": "Khost city (fictional)",
+   "home_area": "Khost",
+   "summary": "SYNTHETIC. Younger brother-in-law of GRANITE; runs the Khost city cell.",
+   "dataset": "synthetic"
+  },
+  {
+   "entity": "T11",
+   "name": "Mohammad Nabi Hawaladar",
+   "objective_name": "OBJECTIVE JASPER",
+   "kunyas": [
+    "Nabi Sarraf",
+    "Haji Nabi"
+   ],
+   "name_variants": [
+    "Muhammad Nabi Hawaladar",
+    "Nabi the money-changer"
+   ],
+   "tribe": "Ahmadzai",
+   "sub_tribe": "",
+   "network": "Taliban",
+   "role_current": "Hawala operator, Sarai Shahzada, Kabul; moves funds for the Finance Shura committee (fictional)",
+   "role_history": [
+    [
+     "2012",
+     null,
+     "Hawala operator (fictional)"
+    ]
+   ],
+   "priority": "3",
+   "status": "active",
+   "dob": "c. 1970",
+   "pob": "Pul-i-Alam, Logar (fictional)",
+   "home_area": "Kabul",
+   "summary": "SYNTHETIC. Financial facilitator linking Kabul hawala market to Dubai and Peshawar.",
+   "dataset": "synthetic"
+  },
+  {
+   "entity": "T12",
+   "name": "Abdul Wakil Achakzai",
+   "objective_name": "OBJECTIVE ONYX",
+   "kunyas": [
+    "Wakil Agha"
+   ],
+   "name_variants": [
+    "Abdul Wakeel Achakzai"
+   ],
+   "tribe": "Achakzai",
+   "sub_tribe": "",
+   "network": "Taliban",
+   "role_current": "Quetta-based liaison and document facilitator (fictional)",
+   "role_history": [
+    [
+     "2015",
+     null,
+     "Quetta liaison (fictional)"
+    ]
+   ],
+   "priority": "3",
+   "status": "active",
+   "dob": "c. 1977",
+   "pob": "Chaman (fictional)",
+   "home_area": "Quetta",
+   "summary": "SYNTHETIC. Provides travel documents and SIMs registered in Balochistan.",
+   "dataset": "synthetic"
+  },
+  {
+   "entity": "T13",
+   "name": "Ihsanullah Tanai",
+   "objective_name": "OBJECTIVE CORUNDUM",
+   "kunyas": [
+    "Ihsan Tanai",
+    "Abu Bakr Tani"
+   ],
+   "name_variants": [
+    "Ehsanullah Tanai"
+   ],
+   "tribe": "Tani",
+   "sub_tribe": "",
+   "network": "Haqqani Network",
+   "role_current": "Border-crossing coordinator, Ghulam Khan (fictional)",
+   "role_history": [
+    [
+     "2021",
+     null,
+     "Ghulam Khan crossing coordinator (fictional)"
+    ]
+   ],
+   "priority": "3",
+   "status": "active",
+   "dob": "c. 1989",
+   "pob": "Tani, Khost (fictional)",
+   "home_area": "Tani",
+   "summary": "SYNTHETIC. Controls which vehicles pass unchecked at Ghulam Khan; paid by OBJECTIVE OBSIDIAN.",
+   "dataset": "synthetic"
+  },
+  {
+   "entity": "T14",
+   "name": "Sher Zaman Burki",
+   "objective_name": "OBJECTIVE GARNET",
+   "kunyas": [
+    "Sher Zaman"
+   ],
+   "name_variants": [
+    "Sherzaman Burki",
+    "Sher Zaman Baraki"
+   ],
+   "tribe": "Burki",
+   "sub_tribe": "",
+   "network": "Tehrik-i-Taliban Pakistan",
+   "role_current": "TTP finance collector, D.I. Khan–Tank (fictional)",
+   "role_history": [
+    [
+     "2020",
+     null,
+     "TTP extortion/finance collector (fictional)"
+    ]
+   ],
+   "priority": "3",
+   "status": "active",
+   "dob": "c. 1982",
+   "pob": "Kaniguram, South Waziristan (fictional)",
+   "home_area": "Dera Ismail Khan",
+   "summary": "SYNTHETIC. Collects extortion payments and moves cash to BASALT via Tank.",
+   "dataset": "synthetic"
+  }
+ ],
+ "selectors": [
+  {
+   "id": "SEL-0001",
+   "entity": "T01",
+   "kind": "phone",
+   "value": "+93 700 555 9205",
+   "dataset": "synthetic",
+   "label": "handset 1",
+   "provider": "Roshan",
+   "country": "AF",
+   "first_seen": "2025-06-27",
+   "confidence": "medium"
+  },
+  {
+   "id": "SEL-0002",
+   "entity": "T01",
+   "kind": "imsi",
+   "value": "412209906769780",
+   "dataset": "synthetic",
+   "provider": "Roshan",
+   "country": "AF",
+   "label": "SIM for handset 1"
+  },
+  {
+   "id": "SEL-0003",
+   "entity": "T01",
+   "kind": "imei",
+   "value": "000000000719570",
+   "dataset": "synthetic",
+   "label": "handset 1 hardware",
+   "provider": "Tecno"
+  },
+  {
+   "id": "SEL-0004",
+   "entity": "T01",
+   "kind": "phone",
+   "value": "+92 318 555 9171",
+   "dataset": "synthetic",
+   "label": "handset 2",
+   "provider": "Jazz",
+   "country": "PK",
+   "first_seen": "2024-08-26",
+   "confidence": "high"
+  },
+  {
+   "id": "SEL-0005",
+   "entity": "T01",
+   "kind": "imsi",
+   "value": "410019922923734",
+   "dataset": "synthetic",
+   "provider": "Jazz",
+   "country": "PK",
+   "label": "SIM for handset 2"
+  },
+  {
+   "id": "SEL-0006",
+   "entity": "T01",
+   "kind": "imei",
+   "value": "000000006368140",
+   "dataset": "synthetic",
+   "label": "handset 2 hardware",
+   "provider": "Oppo"
+  },
+  {
+   "id": "SEL-0007",
+   "entity": "T01",
+   "kind": "email",
+   "value": "hafiz.psh65@example.com",
+   "dataset": "synthetic",
+   "provider": "example.com (fictional)"
+  },
+  {
+   "id": "SEL-0008",
+   "entity": "T01",
+   "kind": "social",
+   "value": "@hafiz.31377",
+   "dataset": "synthetic",
+   "platform": "TikTok",
+   "label": "TikTok account",
+   "confidence": "low"
+  },
+  {
+   "id": "SEL-0009",
+   "entity": "T01",
+   "kind": "social",
+   "value": "@hafiz.wzr9",
+   "dataset": "synthetic",
+   "platform": "Telegram",
+   "label": "Telegram account",
+   "confidence": "medium"
+  },
+  {
+   "id": "SEL-0010",
+   "entity": "T01",
+   "kind": "social",
+   "value": "@hafiz_afg51",
+   "dataset": "synthetic",
+   "platform": "Facebook",
+   "label": "Facebook account",
+   "confidence": "medium"
+  },
+  {
+   "id": "SEL-0011",
+   "entity": "T01",
+   "kind": "vehicle",
+   "value": "white Hyundai Shehzore (2017)",
+   "dataset": "synthetic",
+   "label": "vehicle",
+   "platform": "plate BNU-2176 (fictional)",
+   "confidence": "medium"
+  },
+  {
+   "id": "SEL-0012",
+   "entity": "T02",
+   "kind": "phone",
+   "value": "+92 305 555 2560",
+   "dataset": "synthetic",
+   "label": "handset 1",
+   "provider": "Jazz",
+   "country": "PK",
+   "first_seen": "2024-10-18",
+   "confidence": "high"
+  },
+  {
+   "id": "SEL-0013",
+   "entity": "T02",
+   "kind": "imsi",
+   "value": "410019931783265",
+   "dataset": "synthetic",
+   "provider": "Jazz",
+   "country": "PK",
+   "label": "SIM for handset 1"
+  },
+  {
+   "id": "SEL-0014",
+   "entity": "T02",
+   "kind": "imei",
+   "value": "000000002251540",
+   "dataset": "synthetic",
+   "label": "handset 1 hardware",
+   "provider": "Tecno"
+  },
+  {
+   "id": "SEL-0015",
+   "entity": "T02",
+   "kind": "email",
+   "value": "qari.khost75@example.org",
+   "dataset": "synthetic",
+   "provider": "example.com (fictional)"
+  },
+  {
+   "id": "SEL-0016",
+   "entity": "T02",
+   "kind": "social",
+   "value": "@qari_31335",
+   "dataset": "synthetic",
+   "platform": "X",
+   "label": "X account",
+   "confidence": "high"
+  },
+  {
+   "id": "SEL-0017",
+   "entity": "T02",
+   "kind": "social",
+   "value": "@qari_afg99",
+   "dataset": "synthetic",
+   "platform": "Instagram",
+   "label": "Instagram account",
+   "confidence": "high"
+  },
+  {
+   "id": "SEL-0018",
+   "entity": "T02",
+   "kind": "social",
+   "value": "@qari_khr86",
+   "dataset": "synthetic",
+   "platform": "TikTok",
+   "label": "TikTok account",
+   "confidence": "low"
+  },
+  {
+   "id": "SEL-0019",
+   "entity": "T02",
+   "kind": "vehicle",
+   "value": "white Hyundai Shehzore (2017)",
+   "dataset": "synthetic",
+   "label": "vehicle",
+   "platform": "plate PKT-6740 (fictional)",
+   "confidence": "medium"
+  },
+  {
+   "id": "SEL-0020",
+   "entity": "T03",
+   "kind": "phone",
+   "value": "+93 709 555 2287",
+   "dataset": "synthetic",
+   "label": "handset 1",
+   "provider": "Etisalat Afghanistan",
+   "country": "AF",
+   "first_seen": "2024-02-03",
+   "confidence": "high"
+  },
+  {
+   "id": "SEL-0021",
+   "entity": "T03",
+   "kind": "imsi",
+   "value": "412509936502879",
+   "dataset": "synthetic",
+   "provider": "Etisalat Afghanistan",
+   "country": "AF",
+   "label": "SIM for handset 1"
+  },
+  {
+   "id": "SEL-0022",
+   "entity": "T03",
+   "kind": "imei",
+   "value": "000000008007690",
+   "dataset": "synthetic",
+   "label": "handset 1 hardware",
+   "provider": "Infinix"
+  },
+  {
+   "id": "SEL-0023",
+   "entity": "T03",
+   "kind": "email",
+   "value": "mawlawi.waz44@example.org",
+   "dataset": "synthetic",
+   "provider": "example.com (fictional)"
+  },
+  {
+   "id": "SEL-0024",
+   "entity": "T03",
+   "kind": "social",
+   "value": "@mawlawi_khr80",
+   "dataset": "synthetic",
+   "platform": "TikTok",
+   "label": "TikTok account",
+   "confidence": "medium"
+  },
+  {
+   "id": "SEL-0025",
+   "entity": "T03",
+   "kind": "social",
+   "value": "@mawlawi.ps58",
+   "dataset": "synthetic",
+   "platform": "Telegram",
+   "label": "Telegram account",
+   "confidence": "low"
+  },
+  {
+   "id": "SEL-0026",
+   "entity": "T03",
+   "kind": "cma_account",
+   "value": "Mawlawi Exchange (fictional)",
+   "dataset": "synthetic",
+   "platform": "M-Paisa",
+   "label": "mobile-money / CMA account",
+   "confidence": "medium"
+  },
+  {
+   "id": "SEL-0027",
+   "entity": "T04",
+   "kind": "phone",
+   "value": "+92 324 555 6708",
+   "dataset": "synthetic",
+   "label": "handset 1",
+   "provider": "Ufone",
+   "country": "PK",
+   "first_seen": "2024-06-19",
+   "confidence": "high"
+  },
+  {
+   "id": "SEL-0028",
+   "entity": "T04",
+   "kind": "imsi",
+   "value": "410039932521218",
+   "dataset": "synthetic",
+   "provider": "Ufone",
+   "country": "PK",
+   "label": "SIM for handset 1"
+  },
+  {
+   "id": "SEL-0029",
+   "entity": "T04",
+   "kind": "imei",
+   "value": "000000009388430",
+   "dataset": "synthetic",
+   "label": "handset 1 hardware",
+   "provider": "Nokia"
+  },
+  {
+   "id": "SEL-0030",
+   "entity": "T04",
+   "kind": "email",
+   "value": "haji.kabul44@example.net",
+   "dataset": "synthetic",
+   "provider": "example.com (fictional)"
+  },
+  {
+   "id": "SEL-0031",
+   "entity": "T04",
+   "kind": "social",
+   "value": "@haji.khr32",
+   "dataset": "synthetic",
+   "platform": "Instagram",
+   "label": "Instagram account",
+   "confidence": "medium"
+  },
+  {
+   "id": "SEL-0032",
+   "entity": "T04",
+   "kind": "cma_account",
+   "value": "Haji Trading (fictional)",
+   "dataset": "synthetic",
+   "platform": "HesabPay",
+   "label": "mobile-money / CMA account",
+   "confidence": "medium"
+  },
+  {
+   "id": "SEL-0033",
+   "entity": "T04",
+   "kind": "vehicle",
+   "value": "red Honda CD-70 motorcycle (2019)",
+   "dataset": "synthetic",
+   "label": "vehicle",
+   "platform": "plate BNU-1391 (fictional)",
+   "confidence": "medium"
+  },
+  {
+   "id": "SEL-0034",
+   "entity": "T05",
+   "kind": "phone",
+   "value": "+92 310 555 5878",
+   "dataset": "synthetic",
+   "label": "handset 1",
+   "provider": "Zong",
+   "country": "PK",
+   "first_seen": "2024-01-16",
+   "confidence": "high"
+  },
+  {
+   "id": "SEL-0035",
+   "entity": "T05",
+   "kind": "imsi",
+   "value": "410049924035916",
+   "dataset": "synthetic",
+   "provider": "Zong",
+   "country": "PK",
+   "label": "SIM for handset 1"
+  },
+  {
+   "id": "SEL-0036",
+   "entity": "T05",
+   "kind": "imei",
+   "value": "000000004120300",
+   "dataset": "synthetic",
+   "label": "handset 1 hardware",
+   "provider": "Infinix"
+  },
+  {
+   "id": "SEL-0037",
+   "entity": "T05",
+   "kind": "phone",
+   "value": "+92 307 555 6992",
+   "dataset": "synthetic",
+   "label": "handset 2",
+   "provider": "Zong",
+   "country": "PK",
+   "first_seen": "2024-09-16",
+   "confidence": "medium"
+  },
+  {
+   "id": "SEL-0038",
+   "entity": "T05",
+   "kind": "imsi",
+   "value": "410049958584968",
+   "dataset": "synthetic",
+   "provider": "Zong",
+   "country": "PK",
+   "label": "SIM for handset 2"
+  },
+  {
+   "id": "SEL-0039",
+   "entity": "T05",
+   "kind": "imei",
+   "value": "000000007657910",
+   "dataset": "synthetic",
+   "label": "handset 2 hardware",
+   "provider": "Tecno"
+  },
+  {
+   "id": "SEL-0040",
+   "entity": "T05",
+   "kind": "email",
+   "value": "engineer.kabul12@example.net",
+   "dataset": "synthetic",
+   "provider": "example.com (fictional)"
+  },
+  {
+   "id": "SEL-0041",
+   "entity": "T05",
+   "kind": "social",
+   "value": "@engineer_afg43",
+   "dataset": "synthetic",
+   "platform": "Instagram",
+   "label": "Instagram account",
+   "confidence": "medium"
+  },
+  {
+   "id": "SEL-0042",
+   "entity": "T06",
+   "kind": "phone",
+   "value": "+93 787 555 4766",
+   "dataset": "synthetic",
+   "label": "handset 1",
+   "provider": "Roshan",
+   "country": "AF",
+   "first_seen": "2024-09-23",
+   "confidence": "high"
+  },
+  {
+   "id": "SEL-0043",
+   "entity": "T06",
+   "kind": "imsi",
+   "value": "412209939344345",
+   "dataset": "synthetic",
+   "provider": "Roshan",
+   "country": "AF",
+   "label": "SIM for handset 1"
+  },
+  {
+   "id": "SEL-0044",
+   "entity": "T06",
+   "kind": "imei",
+   "value": "000000008564050",
+   "dataset": "synthetic",
+   "label": "handset 1 hardware",
+   "provider": "Tecno"
+  },
+  {
+   "id": "SEL-0045",
+   "entity": "T06",
+   "kind": "email",
+   "value": "rahimullah.qta78@example.net",
+   "dataset": "synthetic",
+   "provider": "example.com (fictional)"
+  },
+  {
+   "id": "SEL-0046",
+   "entity": "T06",
+   "kind": "social",
+   "value": "@rahimullah.31368",
+   "dataset": "synthetic",
+   "platform": "Instagram",
+   "label": "Instagram account",
+   "confidence": "low"
+  },
+  {
+   "id": "SEL-0047",
+   "entity": "T06",
+   "kind": "social",
+   "value": "@rahimullah_afg18",
+   "dataset": "synthetic",
+   "platform": "X",
+   "label": "X account",
+   "confidence": "medium"
+  },
+  {
+   "id": "SEL-0048",
+   "entity": "T06",
+   "kind": "vehicle",
+   "value": "white Suzuki Bolan (2015)",
+   "dataset": "synthetic",
+   "label": "vehicle",
+   "platform": "plate KBL-4057 (fictional)",
+   "confidence": "medium"
+  },
+  {
+   "id": "SEL-0049",
+   "entity": "T07",
+   "kind": "phone",
+   "value": "+93 700 555 9331",
+   "dataset": "synthetic",
+   "label": "handset 1",
+   "provider": "Etisalat Afghanistan",
+   "country": "AF",
+   "first_seen": "2025-03-17",
+   "confidence": "high"
+  },
+  {
+   "id": "SEL-0050",
+   "entity": "T07",
+   "kind": "imsi",
+   "value": "412509974388985",
+   "dataset": "synthetic",
+   "provider": "Etisalat Afghanistan",
+   "country": "AF",
+   "label": "SIM for handset 1"
+  },
+  {
+   "id": "SEL-0051",
+   "entity": "T07",
+   "kind": "imei",
+   "value": "000000000064800",
+   "dataset": "synthetic",
+   "label": "handset 1 hardware",
+   "provider": "Tecno"
+  },
+  {
+   "id": "SEL-0052",
+   "entity": "T07",
+   "kind": "email",
+   "value": "zahir.qta89@example.net",
+   "dataset": "synthetic",
+   "provider": "example.com (fictional)"
+  },
+  {
+   "id": "SEL-0053",
+   "entity": "T07",
+   "kind": "social",
+   "value": "@zahir_ps46",
+   "dataset": "synthetic",
+   "platform": "TikTok",
+   "label": "TikTok account",
+   "confidence": "low"
+  },
+  {
+   "id": "SEL-0054",
+   "entity": "T07",
+   "kind": "social",
+   "value": "@zahir.afg87",
+   "dataset": "synthetic",
+   "platform": "Instagram",
+   "label": "Instagram account",
+   "confidence": "medium"
+  },
+  {
+   "id": "SEL-0055",
+   "entity": "T07",
+   "kind": "social",
+   "value": "@zahir_ps24",
+   "dataset": "synthetic",
+   "platform": "X",
+   "label": "X account",
+   "confidence": "low"
+  },
+  {
+   "id": "SEL-0056",
+   "entity": "T07",
+   "kind": "vehicle",
+   "value": "white Hyundai Shehzore (2017)",
+   "dataset": "synthetic",
+   "label": "vehicle",
+   "platform": "plate BNU-3324 (fictional)",
+   "confidence": "medium"
+  },
+  {
+   "id": "SEL-0057",
+   "entity": "T08",
+   "kind": "phone",
+   "value": "+93 796 555 3088",
+   "dataset": "synthetic",
+   "label": "handset 1",
+   "provider": "MTN Afghanistan",
+   "country": "AF",
+   "first_seen": "2025-05-18",
+   "confidence": "medium"
+  },
+  {
+   "id": "SEL-0058",
+   "entity": "T08",
+   "kind": "imsi",
+   "value": "412409947038508",
+   "dataset": "synthetic",
+   "provider": "MTN Afghanistan",
+   "country": "AF",
+   "label": "SIM for handset 1"
+  },
+  {
+   "id": "SEL-0059",
+   "entity": "T08",
+   "kind": "imei",
+   "value": "000000009331940",
+   "dataset": "synthetic",
+   "label": "handset 1 hardware",
+   "provider": "Xiaomi"
+  },
+  {
+   "id": "SEL-0060",
+   "entity": "T08",
+   "kind": "phone",
+   "value": "+92 331 555 4495",
+   "dataset": "synthetic",
+   "label": "handset 2",
+   "provider": "Telenor PK",
+   "country": "PK",
+   "first_seen": "2025-01-23",
+   "confidence": "medium"
+  },
+  {
+   "id": "SEL-0061",
+   "entity": "T08",
+   "kind": "imsi",
+   "value": "410069949767874",
+   "dataset": "synthetic",
+   "provider": "Telenor PK",
+   "country": "PK",
+   "label": "SIM for handset 2"
+  },
+  {
+   "id": "SEL-0062",
+   "entity": "T08",
+   "kind": "imei",
+   "value": "000000001802340",
+   "dataset": "synthetic",
+   "label": "handset 2 hardware",
+   "provider": "Nokia"
+  },
+  {
+   "id": "SEL-0063",
+   "entity": "T08",
+   "kind": "phone",
+   "value": "+92 320 555 1460",
+   "dataset": "synthetic",
+   "label": "handset 3",
+   "provider": "Jazz",
+   "country": "PK",
+   "first_seen": "2024-07-30",
+   "confidence": "high"
+  },
+  {
+   "id": "SEL-0064",
+   "entity": "T08",
+   "kind": "imsi",
+   "value": "410019973385734",
+   "dataset": "synthetic",
+   "provider": "Jazz",
+   "country": "PK",
+   "label": "SIM for handset 3"
+  },
+  {
+   "id": "SEL-0065",
+   "entity": "T08",
+   "kind": "imei",
+   "value": "000000004659400",
+   "dataset": "synthetic",
+   "label": "handset 3 hardware",
+   "provider": "Nokia"
+  },
+  {
+   "id": "SEL-0066",
+   "entity": "T08",
+   "kind": "email",
+   "value": "noor.waz80@example.net",
+   "dataset": "synthetic",
+   "provider": "example.com (fictional)"
+  },
+  {
+   "id": "SEL-0067",
+   "entity": "T08",
+   "kind": "social",
+   "value": "@noor_31375",
+   "dataset": "synthetic",
+   "platform": "Facebook",
+   "label": "Facebook account",
+   "confidence": "high"
+  },
+  {
+   "id": "SEL-0068",
+   "entity": "T08",
+   "kind": "social",
+   "value": "@noor_khr99",
+   "dataset": "synthetic",
+   "platform": "X",
+   "label": "X account",
+   "confidence": "high"
+  },
+  {
+   "id": "SEL-0069",
+   "entity": "T08",
+   "kind": "social",
+   "value": "@noor.afg59",
+   "dataset": "synthetic",
+   "platform": "Telegram",
+   "label": "Telegram account",
+   "confidence": "low"
+  },
+  {
+   "id": "SEL-0070",
+   "entity": "T09",
+   "kind": "phone",
+   "value": "+92 343 555 6786",
+   "dataset": "synthetic",
+   "label": "handset 1",
+   "provider": "Zong",
+   "country": "PK",
+   "first_seen": "2024-06-16",
+   "confidence": "medium"
+  },
+  {
+   "id": "SEL-0071",
+   "entity": "T09",
+   "kind": "imsi",
+   "value": "410049985275559",
+   "dataset": "synthetic",
+   "provider": "Zong",
+   "country": "PK",
+   "label": "SIM for handset 1"
+  },
+  {
+   "id": "SEL-0072",
+   "entity": "T09",
+   "kind": "imei",
+   "value": "000000002946410",
+   "dataset": "synthetic",
+   "label": "handset 1 hardware",
+   "provider": "Infinix"
+  },
+  {
+   "id": "SEL-0073",
+   "entity": "T09",
+   "kind": "phone",
+   "value": "+93 703 555 8580",
+   "dataset": "synthetic",
+   "label": "handset 2",
+   "provider": "Etisalat Afghanistan",
+   "country": "AF",
+   "first_seen": "2024-12-08",
+   "confidence": "high"
+  },
+  {
+   "id": "SEL-0074",
+   "entity": "T09",
+   "kind": "imsi",
+   "value": "412509941283116",
+   "dataset": "synthetic",
+   "provider": "Etisalat Afghanistan",
+   "country": "AF",
+   "label": "SIM for handset 2"
+  },
+  {
+   "id": "SEL-0075",
+   "entity": "T09",
+   "kind": "imei",
+   "value": "000000003127370",
+   "dataset": "synthetic",
+   "label": "handset 2 hardware",
+   "provider": "Oppo"
+  },
+  {
+   "id": "SEL-0076",
+   "entity": "T09",
+   "kind": "email",
+   "value": "shams.khost81@example.com",
+   "dataset": "synthetic",
+   "provider": "example.com (fictional)"
+  },
+  {
+   "id": "SEL-0077",
+   "entity": "T09",
+   "kind": "social",
+   "value": "@shams.ps79",
+   "dataset": "synthetic",
+   "platform": "Telegram",
+   "label": "Telegram account",
+   "confidence": "low"
+  },
+  {
+   "id": "SEL-0078",
+   "entity": "T09",
+   "kind": "social",
+   "value": "@shams_afg78",
+   "dataset": "synthetic",
+   "platform": "Facebook",
+   "label": "Facebook account",
+   "confidence": "high"
+  },
+  {
+   "id": "SEL-0079",
+   "entity": "T09",
+   "kind": "vehicle",
+   "value": "grey Toyota Corolla (2014)",
+   "dataset": "synthetic",
+   "label": "vehicle",
+   "platform": "plate KBL-9827 (fictional)",
+   "confidence": "medium"
+  },
+  {
+   "id": "SEL-0080",
+   "entity": "T10",
+   "kind": "phone",
+   "value": "+93 729 555 3905",
+   "dataset": "synthetic",
+   "label": "handset 1",
+   "provider": "Roshan",
+   "country": "AF",
+   "first_seen": "2024-04-06",
+   "confidence": "medium"
+  },
+  {
+   "id": "SEL-0081",
+   "entity": "T10",
+   "kind": "imsi",
+   "value": "412209955562631",
+   "dataset": "synthetic",
+   "provider": "Roshan",
+   "country": "AF",
+   "label": "SIM for handset 1"
+  },
+  {
+   "id": "SEL-0082",
+   "entity": "T10",
+   "kind": "imei",
+   "value": "000000005451020",
+   "dataset": "synthetic",
+   "label": "handset 1 hardware",
+   "provider": "Nokia"
+  },
+  {
+   "id": "SEL-0083",
+   "entity": "T10",
+   "kind": "phone",
+   "value": "+93 724 555 1658",
+   "dataset": "synthetic",
+   "label": "handset 2",
+   "provider": "MTN Afghanistan",
+   "country": "AF",
+   "first_seen": "2025-01-28",
+   "confidence": "high"
+  },
+  {
+   "id": "SEL-0084",
+   "entity": "T10",
+   "kind": "imsi",
+   "value": "412409976781994",
+   "dataset": "synthetic",
+   "provider": "MTN Afghanistan",
+   "country": "AF",
+   "label": "SIM for handset 2"
+  },
+  {
+   "id": "SEL-0085",
+   "entity": "T10",
+   "kind": "imei",
+   "value": "000000003162140",
+   "dataset": "synthetic",
+   "label": "handset 2 hardware",
+   "provider": "Oppo"
+  },
+  {
+   "id": "SEL-0086",
+   "entity": "T10",
+   "kind": "phone",
+   "value": "+92 332 555 3114",
+   "dataset": "synthetic",
+   "label": "handset 3",
+   "provider": "Ufone",
+   "country": "PK",
+   "first_seen": "2024-03-31",
+   "confidence": "high"
+  },
+  {
+   "id": "SEL-0087",
+   "entity": "T10",
+   "kind": "imsi",
+   "value": "410039928368781",
+   "dataset": "synthetic",
+   "provider": "Ufone",
+   "country": "PK",
+   "label": "SIM for handset 3"
+  },
+  {
+   "id": "SEL-0088",
+   "entity": "T10",
+   "kind": "imei",
+   "value": "000000006127780",
+   "dataset": "synthetic",
+   "label": "handset 3 hardware",
+   "provider": "Tecno"
+  },
+  {
+   "id": "SEL-0089",
+   "entity": "T10",
+   "kind": "email",
+   "value": "bilal.qta39@example.net",
+   "dataset": "synthetic",
+   "provider": "example.com (fictional)"
+  },
+  {
+   "id": "SEL-0090",
+   "entity": "T10",
+   "kind": "social",
+   "value": "@bilal_afg2",
+   "dataset": "synthetic",
+   "platform": "Facebook",
+   "label": "Facebook account",
+   "confidence": "high"
+  },
+  {
+   "id": "SEL-0091",
+   "entity": "T10",
+   "kind": "vehicle",
+   "value": "white Toyota Corolla (2008)",
+   "dataset": "synthetic",
+   "label": "vehicle",
+   "platform": "plate QTA-3182 (fictional)",
+   "confidence": "medium"
+  },
+  {
+   "id": "SEL-0092",
+   "entity": "T11",
+   "kind": "phone",
+   "value": "+93 770 555 2741",
+   "dataset": "synthetic",
+   "label": "handset 1",
+   "provider": "AWCC",
+   "country": "AF",
+   "first_seen": "2024-06-11",
+   "confidence": "medium"
+  },
+  {
+   "id": "SEL-0093",
+   "entity": "T11",
+   "kind": "imsi",
+   "value": "412019942816309",
+   "dataset": "synthetic",
+   "provider": "AWCC",
+   "country": "AF",
+   "label": "SIM for handset 1"
+  },
+  {
+   "id": "SEL-0094",
+   "entity": "T11",
+   "kind": "imei",
+   "value": "000000006661470",
+   "dataset": "synthetic",
+   "label": "handset 1 hardware",
+   "provider": "Nokia"
+  },
+  {
+   "id": "SEL-0095",
+   "entity": "T11",
+   "kind": "email",
+   "value": "mohammad.psh96@example.net",
+   "dataset": "synthetic",
+   "provider": "example.com (fictional)"
+  },
+  {
+   "id": "SEL-0096",
+   "entity": "T11",
+   "kind": "social",
+   "value": "@mohammad.afg52",
+   "dataset": "synthetic",
+   "platform": "TikTok",
+   "label": "TikTok account",
+   "confidence": "low"
+  },
+  {
+   "id": "SEL-0097",
+   "entity": "T11",
+   "kind": "cma_account",
+   "value": "Mohammad Exchange (fictional)",
+   "dataset": "synthetic",
+   "platform": "JazzCash",
+   "label": "mobile-money / CMA account",
+   "confidence": "medium"
+  },
+  {
+   "id": "SEL-0098",
+   "entity": "T12",
+   "kind": "phone",
+   "value": "+92 333 555 9099",
+   "dataset": "synthetic",
+   "label": "handset 1",
+   "provider": "Telenor PK",
+   "country": "PK",
+   "first_seen": "2024-07-31",
+   "confidence": "high"
+  },
+  {
+   "id": "SEL-0099",
+   "entity": "T12",
+   "kind": "imsi",
+   "value": "410069979588271",
+   "dataset": "synthetic",
+   "provider": "Telenor PK",
+   "country": "PK",
+   "label": "SIM for handset 1"
+  },
+  {
+   "id": "SEL-0100",
+   "entity": "T12",
+   "kind": "imei",
+   "value": "000000004060460",
+   "dataset": "synthetic",
+   "label": "handset 1 hardware",
+   "provider": "Tecno"
+  },
+  {
+   "id": "SEL-0101",
+   "entity": "T12",
+   "kind": "phone",
+   "value": "+93 724 555 0255",
+   "dataset": "synthetic",
+   "label": "handset 2",
+   "provider": "Roshan",
+   "country": "AF",
+   "first_seen": "2024-12-12",
+   "confidence": "medium"
+  },
+  {
+   "id": "SEL-0102",
+   "entity": "T12",
+   "kind": "imsi",
+   "value": "412209947259723",
+   "dataset": "synthetic",
+   "provider": "Roshan",
+   "country": "AF",
+   "label": "SIM for handset 2"
+  },
+  {
+   "id": "SEL-0103",
+   "entity": "T12",
+   "kind": "imei",
+   "value": "000000008298410",
+   "dataset": "synthetic",
+   "label": "handset 2 hardware",
+   "provider": "Tecno"
+  },
+  {
+   "id": "SEL-0104",
+   "entity": "T12",
+   "kind": "phone",
+   "value": "+92 300 555 2003",
+   "dataset": "synthetic",
+   "label": "handset 3",
+   "provider": "Telenor PK",
+   "country": "PK",
+   "first_seen": "2024-04-08",
+   "confidence": "high"
+  },
+  {
+   "id": "SEL-0105",
+   "entity": "T12",
+   "kind": "imsi",
+   "value": "410069922518104",
+   "dataset": "synthetic",
+   "provider": "Telenor PK",
+   "country": "PK",
+   "label": "SIM for handset 3"
+  },
+  {
+   "id": "SEL-0106",
+   "entity": "T12",
+   "kind": "imei",
+   "value": "000000000640950",
+   "dataset": "synthetic",
+   "label": "handset 3 hardware",
+   "provider": "Tecno"
+  },
+  {
+   "id": "SEL-0107",
+   "entity": "T12",
+   "kind": "email",
+   "value": "abdul.kabul20@example.org",
+   "dataset": "synthetic",
+   "provider": "example.com (fictional)"
+  },
+  {
+   "id": "SEL-0108",
+   "entity": "T12",
+   "kind": "social",
+   "value": "@abdul_khr90",
+   "dataset": "synthetic",
+   "platform": "WhatsApp",
+   "label": "WhatsApp account",
+   "confidence": "medium"
+  },
+  {
+   "id": "SEL-0109",
+   "entity": "T12",
+   "kind": "cma_account",
+   "value": "Abdul Trading (fictional)",
+   "dataset": "synthetic",
+   "platform": "HesabPay",
+   "label": "mobile-money / CMA account",
+   "confidence": "medium"
+  },
+  {
+   "id": "SEL-0110",
+   "entity": "T12",
+   "kind": "vehicle",
+   "value": "grey Toyota Corolla (2014)",
+   "dataset": "synthetic",
+   "label": "vehicle",
+   "platform": "plate BNU-2037 (fictional)",
+   "confidence": "medium"
+  },
+  {
+   "id": "SEL-0111",
+   "entity": "T13",
+   "kind": "phone",
+   "value": "+93 771 555 9777",
+   "dataset": "synthetic",
+   "label": "handset 1",
+   "provider": "Etisalat Afghanistan",
+   "country": "AF",
+   "first_seen": "2025-04-03",
+   "confidence": "high"
+  },
+  {
+   "id": "SEL-0112",
+   "entity": "T13",
+   "kind": "imsi",
+   "value": "412509983380425",
+   "dataset": "synthetic",
+   "provider": "Etisalat Afghanistan",
+   "country": "AF",
+   "label": "SIM for handset 1"
+  },
+  {
+   "id": "SEL-0113",
+   "entity": "T13",
+   "kind": "imei",
+   "value": "000000000787180",
+   "dataset": "synthetic",
+   "label": "handset 1 hardware",
+   "provider": "Infinix"
+  },
+  {
+   "id": "SEL-0114",
+   "entity": "T13",
+   "kind": "email",
+   "value": "ihsanullah.khost98@example.com",
+   "dataset": "synthetic",
+   "provider": "example.com (fictional)"
+  },
+  {
+   "id": "SEL-0115",
+   "entity": "T13",
+   "kind": "social",
+   "value": "@ihsanullah.wzr28",
+   "dataset": "synthetic",
+   "platform": "Facebook",
+   "label": "Facebook account",
+   "confidence": "medium"
+  },
+  {
+   "id": "SEL-0116",
+   "entity": "T13",
+   "kind": "social",
+   "value": "@ihsanullah.khr74",
+   "dataset": "synthetic",
+   "platform": "X",
+   "label": "X account",
+   "confidence": "low"
+  },
+  {
+   "id": "SEL-0117",
+   "entity": "T14",
+   "kind": "phone",
+   "value": "+92 308 555 8717",
+   "dataset": "synthetic",
+   "label": "handset 1",
+   "provider": "Ufone",
+   "country": "PK",
+   "first_seen": "2024-06-26",
+   "confidence": "high"
+  },
+  {
+   "id": "SEL-0118",
+   "entity": "T14",
+   "kind": "imsi",
+   "value": "410039953312372",
+   "dataset": "synthetic",
+   "provider": "Ufone",
+   "country": "PK",
+   "label": "SIM for handset 1"
+  },
+  {
+   "id": "SEL-0119",
+   "entity": "T14",
+   "kind": "imei",
+   "value": "000000001636490",
+   "dataset": "synthetic",
+   "label": "handset 1 hardware",
+   "provider": "Nokia"
+  },
+  {
+   "id": "SEL-0120",
+   "entity": "T14",
+   "kind": "phone",
+   "value": "+93 723 555 9235",
+   "dataset": "synthetic",
+   "label": "handset 2",
+   "provider": "MTN Afghanistan",
+   "country": "AF",
+   "first_seen": "2025-04-27",
+   "confidence": "high"
+  },
+  {
+   "id": "SEL-0121",
+   "entity": "T14",
+   "kind": "imsi",
+   "value": "412409935963786",
+   "dataset": "synthetic",
+   "provider": "MTN Afghanistan",
+   "country": "AF",
+   "label": "SIM for handset 2"
+  },
+  {
+   "id": "SEL-0122",
+   "entity": "T14",
+   "kind": "imei",
+   "value": "000000002218710",
+   "dataset": "synthetic",
+   "label": "handset 2 hardware",
+   "provider": "Infinix"
+  },
+  {
+   "id": "SEL-0123",
+   "entity": "T14",
+   "kind": "phone",
+   "value": "+92 327 555 1078",
+   "dataset": "synthetic",
+   "label": "handset 3",
+   "provider": "Ufone",
+   "country": "PK",
+   "first_seen": "2024-07-22",
+   "confidence": "high"
+  },
+  {
+   "id": "SEL-0124",
+   "entity": "T14",
+   "kind": "imsi",
+   "value": "410039960394758",
+   "dataset": "synthetic",
+   "provider": "Ufone",
+   "country": "PK",
+   "label": "SIM for handset 3"
+  },
+  {
+   "id": "SEL-0125",
+   "entity": "T14",
+   "kind": "imei",
+   "value": "000000005491370",
+   "dataset": "synthetic",
+   "label": "handset 3 hardware",
+   "provider": "Xiaomi"
+  },
+  {
+   "id": "SEL-0126",
+   "entity": "T14",
+   "kind": "email",
+   "value": "sher.psh71@example.org",
+   "dataset": "synthetic",
+   "provider": "example.com (fictional)"
+  },
+  {
+   "id": "SEL-0127",
+   "entity": "T14",
+   "kind": "social",
+   "value": "@sher_wzr91",
+   "dataset": "synthetic",
+   "platform": "TikTok",
+   "label": "TikTok account",
+   "confidence": "high"
+  },
+  {
+   "id": "SEL-0128",
+   "entity": "T14",
+   "kind": "social",
+   "value": "@sher_khr14",
+   "dataset": "synthetic",
+   "platform": "Facebook",
+   "label": "Facebook account",
+   "confidence": "medium"
+  },
+  {
+   "id": "SEL-0129",
+   "entity": "T14",
+   "kind": "social",
+   "value": "@sher_khr33",
+   "dataset": "synthetic",
+   "platform": "WhatsApp",
+   "label": "WhatsApp account",
+   "confidence": "low"
+  },
+  {
+   "id": "SEL-0130",
+   "entity": "T14",
+   "kind": "cma_account",
+   "value": "Sher Trading (fictional)",
+   "dataset": "synthetic",
+   "platform": "JazzCash",
+   "label": "mobile-money / CMA account",
+   "confidence": "medium"
+  },
+  {
+   "id": "SEL-0131",
+   "entity": "T14",
+   "kind": "vehicle",
+   "value": "grey Toyota Corolla (2014)",
+   "dataset": "synthetic",
+   "label": "vehicle",
+   "platform": "plate KHO-2302 (fictional)",
+   "confidence": "medium"
+  }
+ ],
+ "selector_links": [
+  {
+   "a": "SEL-0001",
+   "b": "SEL-0002",
+   "relation": "same_subscriber",
+   "evidence": "SS7/CDR: MSISDN and IMSI observed together",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0002",
+   "b": "SEL-0003",
+   "relation": "used_with",
+   "evidence": "CDR: IMSI registered on this IMEI",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0004",
+   "b": "SEL-0005",
+   "relation": "same_subscriber",
+   "evidence": "SS7/CDR: MSISDN and IMSI observed together",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0005",
+   "b": "SEL-0006",
+   "relation": "used_with",
+   "evidence": "CDR: IMSI registered on this IMEI",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0008",
+   "b": "SEL-0007",
+   "relation": "recovery_contact",
+   "evidence": "TikTok recovery e-mail",
+   "confidence": "medium",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0009",
+   "b": "SEL-0001",
+   "relation": "registered_with",
+   "evidence": "Telegram account registered to this number",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0010",
+   "b": "SEL-0007",
+   "relation": "recovery_contact",
+   "evidence": "Facebook recovery e-mail",
+   "confidence": "medium",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0011",
+   "b": "SEL-0001",
+   "relation": "co_located",
+   "evidence": "ISR: handset tracked inside this vehicle on 3+ occasions",
+   "confidence": "medium",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0012",
+   "b": "SEL-0013",
+   "relation": "same_subscriber",
+   "evidence": "SS7/CDR: MSISDN and IMSI observed together",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0013",
+   "b": "SEL-0014",
+   "relation": "used_with",
+   "evidence": "CDR: IMSI registered on this IMEI",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0016",
+   "b": "SEL-0015",
+   "relation": "recovery_contact",
+   "evidence": "X recovery e-mail",
+   "confidence": "medium",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0017",
+   "b": "SEL-0015",
+   "relation": "recovery_contact",
+   "evidence": "Instagram recovery e-mail",
+   "confidence": "medium",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0018",
+   "b": "SEL-0015",
+   "relation": "recovery_contact",
+   "evidence": "TikTok recovery e-mail",
+   "confidence": "medium",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0019",
+   "b": "SEL-0012",
+   "relation": "co_located",
+   "evidence": "ISR: handset tracked inside this vehicle on 3+ occasions",
+   "confidence": "medium",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0020",
+   "b": "SEL-0021",
+   "relation": "same_subscriber",
+   "evidence": "SS7/CDR: MSISDN and IMSI observed together",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0021",
+   "b": "SEL-0022",
+   "relation": "used_with",
+   "evidence": "CDR: IMSI registered on this IMEI",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0024",
+   "b": "SEL-0023",
+   "relation": "recovery_contact",
+   "evidence": "TikTok recovery e-mail",
+   "confidence": "medium",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0025",
+   "b": "SEL-0020",
+   "relation": "registered_with",
+   "evidence": "Telegram account registered to this number",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0026",
+   "b": "SEL-0020",
+   "relation": "registered_with",
+   "evidence": "CMA account registered to this MSISDN",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0026",
+   "b": "SEL-0023",
+   "relation": "registered_with",
+   "evidence": "CMA account contact e-mail",
+   "confidence": "medium",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0027",
+   "b": "SEL-0028",
+   "relation": "same_subscriber",
+   "evidence": "SS7/CDR: MSISDN and IMSI observed together",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0028",
+   "b": "SEL-0029",
+   "relation": "used_with",
+   "evidence": "CDR: IMSI registered on this IMEI",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0031",
+   "b": "SEL-0030",
+   "relation": "recovery_contact",
+   "evidence": "Instagram recovery e-mail",
+   "confidence": "medium",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0032",
+   "b": "SEL-0027",
+   "relation": "registered_with",
+   "evidence": "CMA account registered to this MSISDN",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0032",
+   "b": "SEL-0030",
+   "relation": "registered_with",
+   "evidence": "CMA account contact e-mail",
+   "confidence": "medium",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0033",
+   "b": "SEL-0027",
+   "relation": "co_located",
+   "evidence": "ISR: handset tracked inside this vehicle on 3+ occasions",
+   "confidence": "medium",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0034",
+   "b": "SEL-0035",
+   "relation": "same_subscriber",
+   "evidence": "SS7/CDR: MSISDN and IMSI observed together",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0035",
+   "b": "SEL-0036",
+   "relation": "used_with",
+   "evidence": "CDR: IMSI registered on this IMEI",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0037",
+   "b": "SEL-0038",
+   "relation": "same_subscriber",
+   "evidence": "SS7/CDR: MSISDN and IMSI observed together",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0038",
+   "b": "SEL-0039",
+   "relation": "used_with",
+   "evidence": "CDR: IMSI registered on this IMEI",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0041",
+   "b": "SEL-0040",
+   "relation": "recovery_contact",
+   "evidence": "Instagram recovery e-mail",
+   "confidence": "medium",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0042",
+   "b": "SEL-0043",
+   "relation": "same_subscriber",
+   "evidence": "SS7/CDR: MSISDN and IMSI observed together",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0043",
+   "b": "SEL-0044",
+   "relation": "used_with",
+   "evidence": "CDR: IMSI registered on this IMEI",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0046",
+   "b": "SEL-0045",
+   "relation": "recovery_contact",
+   "evidence": "Instagram recovery e-mail",
+   "confidence": "medium",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0047",
+   "b": "SEL-0045",
+   "relation": "recovery_contact",
+   "evidence": "X recovery e-mail",
+   "confidence": "medium",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0048",
+   "b": "SEL-0042",
+   "relation": "co_located",
+   "evidence": "ISR: handset tracked inside this vehicle on 3+ occasions",
+   "confidence": "medium",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0049",
+   "b": "SEL-0050",
+   "relation": "same_subscriber",
+   "evidence": "SS7/CDR: MSISDN and IMSI observed together",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0050",
+   "b": "SEL-0051",
+   "relation": "used_with",
+   "evidence": "CDR: IMSI registered on this IMEI",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0053",
+   "b": "SEL-0052",
+   "relation": "recovery_contact",
+   "evidence": "TikTok recovery e-mail",
+   "confidence": "medium",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0054",
+   "b": "SEL-0052",
+   "relation": "recovery_contact",
+   "evidence": "Instagram recovery e-mail",
+   "confidence": "medium",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0055",
+   "b": "SEL-0052",
+   "relation": "recovery_contact",
+   "evidence": "X recovery e-mail",
+   "confidence": "medium",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0056",
+   "b": "SEL-0049",
+   "relation": "co_located",
+   "evidence": "ISR: handset tracked inside this vehicle on 3+ occasions",
+   "confidence": "medium",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0057",
+   "b": "SEL-0058",
+   "relation": "same_subscriber",
+   "evidence": "SS7/CDR: MSISDN and IMSI observed together",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0058",
+   "b": "SEL-0059",
+   "relation": "used_with",
+   "evidence": "CDR: IMSI registered on this IMEI",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0060",
+   "b": "SEL-0061",
+   "relation": "same_subscriber",
+   "evidence": "SS7/CDR: MSISDN and IMSI observed together",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0061",
+   "b": "SEL-0062",
+   "relation": "used_with",
+   "evidence": "CDR: IMSI registered on this IMEI",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0063",
+   "b": "SEL-0064",
+   "relation": "same_subscriber",
+   "evidence": "SS7/CDR: MSISDN and IMSI observed together",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0064",
+   "b": "SEL-0065",
+   "relation": "used_with",
+   "evidence": "CDR: IMSI registered on this IMEI",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0067",
+   "b": "SEL-0066",
+   "relation": "recovery_contact",
+   "evidence": "Facebook recovery e-mail",
+   "confidence": "medium",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0068",
+   "b": "SEL-0066",
+   "relation": "recovery_contact",
+   "evidence": "X recovery e-mail",
+   "confidence": "medium",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0069",
+   "b": "SEL-0057",
+   "relation": "registered_with",
+   "evidence": "Telegram account registered to this number",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0070",
+   "b": "SEL-0071",
+   "relation": "same_subscriber",
+   "evidence": "SS7/CDR: MSISDN and IMSI observed together",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0071",
+   "b": "SEL-0072",
+   "relation": "used_with",
+   "evidence": "CDR: IMSI registered on this IMEI",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0073",
+   "b": "SEL-0074",
+   "relation": "same_subscriber",
+   "evidence": "SS7/CDR: MSISDN and IMSI observed together",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0074",
+   "b": "SEL-0075",
+   "relation": "used_with",
+   "evidence": "CDR: IMSI registered on this IMEI",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0077",
+   "b": "SEL-0070",
+   "relation": "registered_with",
+   "evidence": "Telegram account registered to this number",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0078",
+   "b": "SEL-0076",
+   "relation": "recovery_contact",
+   "evidence": "Facebook recovery e-mail",
+   "confidence": "medium",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0079",
+   "b": "SEL-0070",
+   "relation": "co_located",
+   "evidence": "ISR: handset tracked inside this vehicle on 3+ occasions",
+   "confidence": "medium",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0080",
+   "b": "SEL-0081",
+   "relation": "same_subscriber",
+   "evidence": "SS7/CDR: MSISDN and IMSI observed together",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0081",
+   "b": "SEL-0082",
+   "relation": "used_with",
+   "evidence": "CDR: IMSI registered on this IMEI",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0083",
+   "b": "SEL-0084",
+   "relation": "same_subscriber",
+   "evidence": "SS7/CDR: MSISDN and IMSI observed together",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0084",
+   "b": "SEL-0085",
+   "relation": "used_with",
+   "evidence": "CDR: IMSI registered on this IMEI",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0086",
+   "b": "SEL-0087",
+   "relation": "same_subscriber",
+   "evidence": "SS7/CDR: MSISDN and IMSI observed together",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0087",
+   "b": "SEL-0088",
+   "relation": "used_with",
+   "evidence": "CDR: IMSI registered on this IMEI",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0090",
+   "b": "SEL-0089",
+   "relation": "recovery_contact",
+   "evidence": "Facebook recovery e-mail",
+   "confidence": "medium",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0091",
+   "b": "SEL-0080",
+   "relation": "co_located",
+   "evidence": "ISR: handset tracked inside this vehicle on 3+ occasions",
+   "confidence": "medium",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0092",
+   "b": "SEL-0093",
+   "relation": "same_subscriber",
+   "evidence": "SS7/CDR: MSISDN and IMSI observed together",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0093",
+   "b": "SEL-0094",
+   "relation": "used_with",
+   "evidence": "CDR: IMSI registered on this IMEI",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0096",
+   "b": "SEL-0095",
+   "relation": "recovery_contact",
+   "evidence": "TikTok recovery e-mail",
+   "confidence": "medium",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0097",
+   "b": "SEL-0092",
+   "relation": "registered_with",
+   "evidence": "CMA account registered to this MSISDN",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0097",
+   "b": "SEL-0095",
+   "relation": "registered_with",
+   "evidence": "CMA account contact e-mail",
+   "confidence": "medium",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0098",
+   "b": "SEL-0099",
+   "relation": "same_subscriber",
+   "evidence": "SS7/CDR: MSISDN and IMSI observed together",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0099",
+   "b": "SEL-0100",
+   "relation": "used_with",
+   "evidence": "CDR: IMSI registered on this IMEI",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0101",
+   "b": "SEL-0102",
+   "relation": "same_subscriber",
+   "evidence": "SS7/CDR: MSISDN and IMSI observed together",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0102",
+   "b": "SEL-0103",
+   "relation": "used_with",
+   "evidence": "CDR: IMSI registered on this IMEI",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0104",
+   "b": "SEL-0105",
+   "relation": "same_subscriber",
+   "evidence": "SS7/CDR: MSISDN and IMSI observed together",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0105",
+   "b": "SEL-0106",
+   "relation": "used_with",
+   "evidence": "CDR: IMSI registered on this IMEI",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0108",
+   "b": "SEL-0098",
+   "relation": "registered_with",
+   "evidence": "WhatsApp account registered to this number",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0109",
+   "b": "SEL-0098",
+   "relation": "registered_with",
+   "evidence": "CMA account registered to this MSISDN",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0109",
+   "b": "SEL-0107",
+   "relation": "registered_with",
+   "evidence": "CMA account contact e-mail",
+   "confidence": "medium",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0110",
+   "b": "SEL-0098",
+   "relation": "co_located",
+   "evidence": "ISR: handset tracked inside this vehicle on 3+ occasions",
+   "confidence": "medium",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0111",
+   "b": "SEL-0112",
+   "relation": "same_subscriber",
+   "evidence": "SS7/CDR: MSISDN and IMSI observed together",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0112",
+   "b": "SEL-0113",
+   "relation": "used_with",
+   "evidence": "CDR: IMSI registered on this IMEI",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0115",
+   "b": "SEL-0114",
+   "relation": "recovery_contact",
+   "evidence": "Facebook recovery e-mail",
+   "confidence": "medium",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0116",
+   "b": "SEL-0114",
+   "relation": "recovery_contact",
+   "evidence": "X recovery e-mail",
+   "confidence": "medium",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0117",
+   "b": "SEL-0118",
+   "relation": "same_subscriber",
+   "evidence": "SS7/CDR: MSISDN and IMSI observed together",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0118",
+   "b": "SEL-0119",
+   "relation": "used_with",
+   "evidence": "CDR: IMSI registered on this IMEI",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0120",
+   "b": "SEL-0121",
+   "relation": "same_subscriber",
+   "evidence": "SS7/CDR: MSISDN and IMSI observed together",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0121",
+   "b": "SEL-0122",
+   "relation": "used_with",
+   "evidence": "CDR: IMSI registered on this IMEI",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0123",
+   "b": "SEL-0124",
+   "relation": "same_subscriber",
+   "evidence": "SS7/CDR: MSISDN and IMSI observed together",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0124",
+   "b": "SEL-0125",
+   "relation": "used_with",
+   "evidence": "CDR: IMSI registered on this IMEI",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0127",
+   "b": "SEL-0126",
+   "relation": "recovery_contact",
+   "evidence": "TikTok recovery e-mail",
+   "confidence": "medium",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0128",
+   "b": "SEL-0126",
+   "relation": "recovery_contact",
+   "evidence": "Facebook recovery e-mail",
+   "confidence": "medium",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0129",
+   "b": "SEL-0117",
+   "relation": "registered_with",
+   "evidence": "WhatsApp account registered to this number",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0130",
+   "b": "SEL-0117",
+   "relation": "registered_with",
+   "evidence": "CMA account registered to this MSISDN",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0130",
+   "b": "SEL-0126",
+   "relation": "registered_with",
+   "evidence": "CMA account contact e-mail",
+   "confidence": "medium",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0131",
+   "b": "SEL-0117",
+   "relation": "co_located",
+   "evidence": "ISR: handset tracked inside this vehicle on 3+ occasions",
+   "confidence": "medium",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0044",
+   "b": "SEL-0002",
+   "relation": "used_with",
+   "evidence": "CDR: GRANITE's SIM registered on courier's handset 2026-03-14 to 2026-03-16 (handset hand-off)",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0033",
+   "b": "SEL-0111",
+   "relation": "co_located",
+   "evidence": "ISR: CORUNDUM's handset inside OBSIDIAN's Hilux at Ghulam Khan",
+   "confidence": "medium",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0080",
+   "b": "SEL-0001",
+   "relation": "frequent_contact",
+   "evidence": "CDR: 140 calls / 90 days",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0042",
+   "b": "SEL-0001",
+   "relation": "frequent_contact",
+   "evidence": "CDR: 85 calls / 90 days",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0092",
+   "b": "SEL-0020",
+   "relation": "frequent_contact",
+   "evidence": "CDR: 60 calls / 90 days; spikes before Dubai trips",
+   "confidence": "high",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0130",
+   "b": "SEL-0012",
+   "relation": "transfers_to",
+   "evidence": "Mobile-money transfers to BASALT's number, 12 × PKR 25k (fictional)",
+   "confidence": "medium",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0040",
+   "b": "SEL-0067",
+   "relation": "recovery_contact",
+   "evidence": "QUARTZ e-mail is recovery address on PYRITE's Telegram (fictional)",
+   "confidence": "low",
+   "dataset": "synthetic"
+  },
+  {
+   "a": "SEL-0070",
+   "b": "SEL-0012",
+   "relation": "frequent_contact",
+   "evidence": "CDR: 44 calls / 90 days",
+   "confidence": "high",
+   "dataset": "synthetic"
+  }
+ ],
+ "location_hits": [
+  {
+   "kind": "gsm_cdr",
+   "precision_km": 0.9,
+   "selector": "SEL-0002",
+   "detail": "Cell registration on tower KHO-510 (LAC 9523/CID 26733), 46 events over 1 h",
+   "confidence": "high",
+   "entity": "T01",
+   "ts": "2025-05-10T17:20:00Z",
+   "lat": 33.34157,
+   "lon": 69.91349,
+   "place": "Khost",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "gsm_cdr",
+   "precision_km": 1.7,
+   "selector": "SEL-0005",
+   "detail": "Cell registration on tower KHO-841 (LAC 8932/CID 41654), 14 events over 5 h",
+   "confidence": "high",
+   "entity": "T01",
+   "ts": "2025-03-04T08:23:00Z",
+   "lat": 33.34164,
+   "lon": 69.91056,
+   "place": "Khost",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "ss7",
+   "precision_km": 4.7,
+   "selector": "SEL-0002",
+   "detail": "SS7 ATI/PSI location query: VLR Khost, cell-level answer",
+   "confidence": "medium",
+   "entity": "T01",
+   "ts": "2026-08-16T21:05:00Z",
+   "lat": 33.34269,
+   "lon": 69.92586,
+   "place": "Khost",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "open_source",
+   "precision_km": 3.0,
+   "selector": null,
+   "detail": "Geotagged social-media post by associate account",
+   "confidence": "low",
+   "entity": "T01",
+   "ts": "2025-06-06T12:52:00Z",
+   "lat": 33.3399,
+   "lon": 69.92018,
+   "place": "Khost",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "isr",
+   "precision_km": 0.1,
+   "selector": null,
+   "detail": "ISR full-motion video: subject identified at compound, 35 min dwell",
+   "confidence": "high",
+   "entity": "T01",
+   "ts": "2025-06-20T05:08:00Z",
+   "lat": 33.33901,
+   "lon": 69.92044,
+   "place": "Khost",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "gsm_cdr",
+   "precision_km": 0.8,
+   "selector": "SEL-0005",
+   "detail": "Cell registration on tower MIR-304 (LAC 1259/CID 47901), 15 events over 4 h",
+   "confidence": "high",
+   "entity": "T01",
+   "ts": "2025-08-21T21:27:00Z",
+   "lat": 33.00627,
+   "lon": 70.07094,
+   "place": "Miram Shah",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "isr",
+   "precision_km": 0.1,
+   "selector": null,
+   "detail": "ISR full-motion video: subject identified at compound, 61 min dwell",
+   "confidence": "high",
+   "entity": "T01",
+   "ts": "2025-11-29T23:47:00Z",
+   "lat": 33.00819,
+   "lon": 70.03677,
+   "place": "Dande Darpa Khel",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "gsm_cdr",
+   "precision_km": 1.1,
+   "selector": "SEL-0005",
+   "detail": "Cell registration on tower KHO-510 (LAC 2366/CID 59530), 27 events over 2 h",
+   "confidence": "high",
+   "entity": "T01",
+   "ts": "2025-05-13T08:57:00Z",
+   "lat": 33.33953,
+   "lon": 69.91823,
+   "place": "Khost",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "gsm_cdr",
+   "precision_km": 2.6,
+   "selector": "SEL-0002",
+   "detail": "Cell registration on tower KHO-612 (LAC 6922/CID 52050), 15 events over 5 h",
+   "confidence": "high",
+   "entity": "T01",
+   "ts": "2026-09-09T05:10:00Z",
+   "lat": 33.34011,
+   "lon": 69.91732,
+   "place": "Khost",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "ss7",
+   "precision_km": 4.0,
+   "selector": "SEL-0005",
+   "detail": "SS7 ATI/PSI location query: VLR Khost, cell-level answer",
+   "confidence": "medium",
+   "entity": "T01",
+   "ts": "2026-07-27T05:17:00Z",
+   "lat": 33.34761,
+   "lon": 69.9234,
+   "place": "Khost",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "travel",
+   "precision_km": 0.5,
+   "selector": null,
+   "detail": "Border crossing record at Ghulam Khan (vehicle bus)",
+   "confidence": "high",
+   "entity": "T02",
+   "ts": "2026-06-01T13:47:00Z",
+   "lat": 33.06859,
+   "lon": 70.17603,
+   "place": "Ghulam Khan",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "humint",
+   "precision_km": 5.0,
+   "selector": null,
+   "detail": "Source report: subject seen at a meeting (single-source, uncorroborated)",
+   "confidence": "low",
+   "entity": "T02",
+   "ts": "2026-08-12T18:20:00Z",
+   "lat": 32.97961,
+   "lon": 70.60448,
+   "place": "Bannu",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "open_source",
+   "precision_km": 3.0,
+   "selector": null,
+   "detail": "Geotagged social-media post by associate account",
+   "confidence": "low",
+   "entity": "T02",
+   "ts": "2025-10-18T23:20:00Z",
+   "lat": 32.24356,
+   "lon": 70.38127,
+   "place": "Tank",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "ss7",
+   "precision_km": 4.2,
+   "selector": "SEL-0013",
+   "detail": "SS7 ATI/PSI location query: VLR Bannu, cell-level answer",
+   "confidence": "medium",
+   "entity": "T02",
+   "ts": "2025-09-02T17:44:00Z",
+   "lat": 32.99176,
+   "lon": 70.6093,
+   "place": "Bannu",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "travel",
+   "precision_km": 0.5,
+   "selector": null,
+   "detail": "Border crossing record at Angoor Adda (vehicle Land Cruiser)",
+   "confidence": "high",
+   "entity": "T02",
+   "ts": "2025-05-11T05:41:00Z",
+   "lat": 32.28689,
+   "lon": 69.43276,
+   "place": "Angoor Adda",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "isr",
+   "precision_km": 0.1,
+   "selector": null,
+   "detail": "ISR full-motion video: subject identified at compound, 59 min dwell",
+   "confidence": "high",
+   "entity": "T02",
+   "ts": "2026-06-05T22:05:00Z",
+   "lat": 32.239,
+   "lon": 70.39281,
+   "place": "Tank",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "travel",
+   "precision_km": 0.5,
+   "selector": null,
+   "detail": "Border crossing record at Chaman (vehicle white Corolla)",
+   "confidence": "high",
+   "entity": "T02",
+   "ts": "2026-09-16T22:02:00Z",
+   "lat": 30.91856,
+   "lon": 66.45017,
+   "place": "Chaman",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "ss7",
+   "precision_km": 3.3,
+   "selector": "SEL-0013",
+   "detail": "SS7 ATI/PSI location query: VLR Bannu, cell-level answer",
+   "confidence": "medium",
+   "entity": "T02",
+   "ts": "2026-07-06T10:28:00Z",
+   "lat": 32.99069,
+   "lon": 70.60878,
+   "place": "Bannu",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "gsm_cdr",
+   "precision_km": 1.2,
+   "selector": "SEL-0013",
+   "detail": "Cell registration on tower BAN-895 (LAC 6562/CID 24573), 40 events over 2 h",
+   "confidence": "high",
+   "entity": "T02",
+   "ts": "2025-10-01T21:53:00Z",
+   "lat": 32.98527,
+   "lon": 70.60195,
+   "place": "Bannu",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "open_source",
+   "precision_km": 3.0,
+   "selector": null,
+   "detail": "Geotagged social-media post by associate account",
+   "confidence": "low",
+   "entity": "T02",
+   "ts": "2025-03-11T11:29:00Z",
+   "lat": 32.98728,
+   "lon": 70.61604,
+   "place": "Bannu",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "ss7",
+   "precision_km": 3.0,
+   "selector": "SEL-0013",
+   "detail": "SS7 ATI/PSI location query: VLR Dera Ismail Khan, cell-level answer",
+   "confidence": "medium",
+   "entity": "T02",
+   "ts": "2025-04-26T18:00:00Z",
+   "lat": 31.85625,
+   "lon": 70.65044,
+   "place": "Dera Ismail Khan",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "isr",
+   "precision_km": 0.1,
+   "selector": null,
+   "detail": "ISR full-motion video: subject identified at compound, 17 min dwell",
+   "confidence": "high",
+   "entity": "T02",
+   "ts": "2025-04-21T07:21:00Z",
+   "lat": 32.98704,
+   "lon": 70.60237,
+   "place": "Bannu",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "open_source",
+   "precision_km": 3.0,
+   "selector": null,
+   "detail": "Geotagged social-media post by associate account",
+   "confidence": "low",
+   "entity": "T02",
+   "ts": "2025-01-23T06:14:00Z",
+   "lat": 32.23931,
+   "lon": 70.3932,
+   "place": "Tank",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "gsm_cdr",
+   "precision_km": 1.2,
+   "selector": "SEL-0013",
+   "detail": "Cell registration on tower MAK-373 (LAC 4331/CID 45551), 39 events over 1 h",
+   "confidence": "high",
+   "entity": "T02",
+   "ts": "2026-07-13T13:48:00Z",
+   "lat": 32.47007,
+   "lon": 69.89963,
+   "place": "Makeen",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "humint",
+   "precision_km": 5.0,
+   "selector": null,
+   "detail": "Source report: subject seen at a meeting (single-source, uncorroborated)",
+   "confidence": "low",
+   "entity": "T03",
+   "ts": "2026-07-09T11:07:00Z",
+   "lat": 34.52034,
+   "lon": 69.17404,
+   "place": "Kabul",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "gsm_cdr",
+   "precision_km": 1.5,
+   "selector": "SEL-0021",
+   "detail": "Cell registration on tower DOH-541 (LAC 7954/CID 63027), 29 events over 3 h",
+   "confidence": "high",
+   "entity": "T03",
+   "ts": "2026-01-12T17:53:00Z",
+   "lat": 25.28208,
+   "lon": 51.53348,
+   "place": "Doha",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "ss7",
+   "precision_km": 2.8,
+   "selector": "SEL-0021",
+   "detail": "SS7 ATI/PSI location query: VLR Doha, cell-level answer",
+   "confidence": "medium",
+   "entity": "T03",
+   "ts": "2025-06-24T20:47:00Z",
+   "lat": 25.30023,
+   "lon": 51.51079,
+   "place": "Doha",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "gsm_cdr",
+   "precision_km": 2.6,
+   "selector": "SEL-0021",
+   "detail": "Cell registration on tower KAB-723 (LAC 5327/CID 45981), 48 events over 1 h",
+   "confidence": "high",
+   "entity": "T03",
+   "ts": "2026-07-27T10:50:00Z",
+   "lat": 34.52882,
+   "lon": 69.17227,
+   "place": "Kabul",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "gsm_cdr",
+   "precision_km": 2.3,
+   "selector": "SEL-0021",
+   "detail": "Cell registration on tower DUB-820 (LAC 2851/CID 24255), 26 events over 5 h",
+   "confidence": "high",
+   "entity": "T03",
+   "ts": "2026-07-23T23:07:00Z",
+   "lat": 25.20445,
+   "lon": 55.27081,
+   "place": "Dubai",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "open_source",
+   "precision_km": 3.0,
+   "selector": null,
+   "detail": "Geotagged social-media post by associate account",
+   "confidence": "low",
+   "entity": "T03",
+   "ts": "2025-09-29T06:42:00Z",
+   "lat": 33.99537,
+   "lon": 69.02621,
+   "place": "Pul-i-Alam",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "gsm_cdr",
+   "precision_km": 2.2,
+   "selector": "SEL-0021",
+   "detail": "Cell registration on tower PUL-715 (LAC 5085/CID 10223), 37 events over 3 h",
+   "confidence": "high",
+   "entity": "T03",
+   "ts": "2025-07-04T14:15:00Z",
+   "lat": 33.99684,
+   "lon": 69.02386,
+   "place": "Pul-i-Alam",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "gsm_cdr",
+   "precision_km": 2.9,
+   "selector": "SEL-0021",
+   "detail": "Cell registration on tower DUB-161 (LAC 8631/CID 27367), 9 events over 6 h",
+   "confidence": "high",
+   "entity": "T03",
+   "ts": "2026-05-29T09:22:00Z",
+   "lat": 25.20791,
+   "lon": 55.26185,
+   "place": "Dubai",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "ss7",
+   "precision_km": 6.7,
+   "selector": "SEL-0021",
+   "detail": "SS7 ATI/PSI location query: VLR Kabul, cell-level answer",
+   "confidence": "medium",
+   "entity": "T03",
+   "ts": "2026-06-29T14:47:00Z",
+   "lat": 34.53826,
+   "lon": 69.17185,
+   "place": "Kabul",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "gsm_cdr",
+   "precision_km": 1.6,
+   "selector": "SEL-0028",
+   "detail": "Cell registration on tower MIR-307 (LAC 4077/CID 11894), 16 events over 5 h",
+   "confidence": "high",
+   "entity": "T04",
+   "ts": "2025-06-20T17:15:00Z",
+   "lat": 32.99999,
+   "lon": 70.0723,
+   "place": "Miram Shah",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "ss7",
+   "precision_km": 7.4,
+   "selector": "SEL-0028",
+   "detail": "SS7 ATI/PSI location query: VLR Peshawar, cell-level answer",
+   "confidence": "medium",
+   "entity": "T04",
+   "ts": "2026-04-08T11:10:00Z",
+   "lat": 34.00803,
+   "lon": 71.57788,
+   "place": "Peshawar",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "travel",
+   "precision_km": 0.5,
+   "selector": null,
+   "detail": "Border crossing record at Chaman (vehicle Land Cruiser)",
+   "confidence": "high",
+   "entity": "T04",
+   "ts": "2025-10-12T20:53:00Z",
+   "lat": 30.91771,
+   "lon": 66.45258,
+   "place": "Chaman",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "ss7",
+   "precision_km": 4.0,
+   "selector": "SEL-0028",
+   "detail": "SS7 ATI/PSI location query: VLR Peshawar, cell-level answer",
+   "confidence": "medium",
+   "entity": "T04",
+   "ts": "2025-11-10T08:48:00Z",
+   "lat": 34.00072,
+   "lon": 71.58741,
+   "place": "Peshawar",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "humint",
+   "precision_km": 5.0,
+   "selector": null,
+   "detail": "Source report: subject seen at a meeting (single-source, uncorroborated)",
+   "confidence": "low",
+   "entity": "T04",
+   "ts": "2025-04-19T07:14:00Z",
+   "lat": 32.99581,
+   "lon": 70.07129,
+   "place": "Miram Shah",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "gsm_cdr",
+   "precision_km": 1.8,
+   "selector": "SEL-0028",
+   "detail": "Cell registration on tower PES-677 (LAC 9986/CID 13692), 22 events over 5 h",
+   "confidence": "high",
+   "entity": "T04",
+   "ts": "2025-01-06T21:47:00Z",
+   "lat": 34.00131,
+   "lon": 71.58533,
+   "place": "Peshawar",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "humint",
+   "precision_km": 5.0,
+   "selector": null,
+   "detail": "Source report: subject seen at a meeting (single-source, uncorroborated)",
+   "confidence": "low",
+   "entity": "T04",
+   "ts": "2026-07-10T22:56:00Z",
+   "lat": 32.98083,
+   "lon": 70.07124,
+   "place": "Miram Shah",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "ss7",
+   "precision_km": 5.6,
+   "selector": "SEL-0028",
+   "detail": "SS7 ATI/PSI location query: VLR Miram Shah, cell-level answer",
+   "confidence": "medium",
+   "entity": "T04",
+   "ts": "2026-03-27T15:37:00Z",
+   "lat": 33.00145,
+   "lon": 70.07102,
+   "place": "Miram Shah",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "gsm_cdr",
+   "precision_km": 1.1,
+   "selector": "SEL-0028",
+   "detail": "Cell registration on tower KHO-189 (LAC 2968/CID 24733), 18 events over 3 h",
+   "confidence": "high",
+   "entity": "T04",
+   "ts": "2026-09-27T09:48:00Z",
+   "lat": 33.33158,
+   "lon": 69.93521,
+   "place": "Khost",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "isr",
+   "precision_km": 0.1,
+   "selector": null,
+   "detail": "ISR full-motion video: subject identified at compound, 80 min dwell",
+   "confidence": "high",
+   "entity": "T04",
+   "ts": "2025-02-13T16:25:00Z",
+   "lat": 33.07304,
+   "lon": 70.17323,
+   "place": "Ghulam Khan",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "humint",
+   "precision_km": 5.0,
+   "selector": null,
+   "detail": "Source report: subject seen at a meeting (single-source, uncorroborated)",
+   "confidence": "low",
+   "entity": "T04",
+   "ts": "2026-08-13T19:30:00Z",
+   "lat": 33.00012,
+   "lon": 70.08156,
+   "place": "Miram Shah",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "ss7",
+   "precision_km": 2.5,
+   "selector": "SEL-0028",
+   "detail": "SS7 ATI/PSI location query: VLR Bannu, cell-level answer",
+   "confidence": "medium",
+   "entity": "T04",
+   "ts": "2025-03-13T12:39:00Z",
+   "lat": 32.98625,
+   "lon": 70.60411,
+   "place": "Bannu",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "ss7",
+   "precision_km": 2.6,
+   "selector": "SEL-0028",
+   "detail": "SS7 ATI/PSI location query: VLR Bannu, cell-level answer",
+   "confidence": "medium",
+   "entity": "T04",
+   "ts": "2026-02-07T18:27:00Z",
+   "lat": 32.98382,
+   "lon": 70.60536,
+   "place": "Bannu",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "gsm_cdr",
+   "precision_km": 1.2,
+   "selector": "SEL-0028",
+   "detail": "Cell registration on tower MIR-101 (LAC 2954/CID 48095), 41 events over 2 h",
+   "confidence": "high",
+   "entity": "T04",
+   "ts": "2026-01-14T07:16:00Z",
+   "lat": 33.01176,
+   "lon": 70.06851,
+   "place": "Miram Shah",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "ss7",
+   "precision_km": 7.3,
+   "selector": "SEL-0028",
+   "detail": "SS7 ATI/PSI location query: VLR Miram Shah, cell-level answer",
+   "confidence": "medium",
+   "entity": "T04",
+   "ts": "2025-06-08T20:55:00Z",
+   "lat": 33.00161,
+   "lon": 70.07252,
+   "place": "Miram Shah",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "gsm_cdr",
+   "precision_km": 1.2,
+   "selector": "SEL-0028",
+   "detail": "Cell registration on tower GHU-699 (LAC 6529/CID 23016), 46 events over 4 h",
+   "confidence": "high",
+   "entity": "T04",
+   "ts": "2025-02-16T08:53:00Z",
+   "lat": 33.0695,
+   "lon": 70.17414,
+   "place": "Ghulam Khan",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "ss7",
+   "precision_km": 2.4,
+   "selector": "SEL-0028",
+   "detail": "SS7 ATI/PSI location query: VLR Miram Shah, cell-level answer",
+   "confidence": "medium",
+   "entity": "T04",
+   "ts": "2025-07-18T10:31:00Z",
+   "lat": 33.01774,
+   "lon": 70.07071,
+   "place": "Miram Shah",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "travel",
+   "precision_km": 0.5,
+   "selector": null,
+   "detail": "Border crossing record at Torkham (vehicle Land Cruiser)",
+   "confidence": "high",
+   "entity": "T05",
+   "ts": "2025-02-25T18:38:00Z",
+   "lat": 34.11433,
+   "lon": 71.09451,
+   "place": "Torkham",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "isr",
+   "precision_km": 0.1,
+   "selector": null,
+   "detail": "ISR full-motion video: subject identified at compound, 86 min dwell",
+   "confidence": "high",
+   "entity": "T05",
+   "ts": "2026-01-06T16:47:00Z",
+   "lat": 33.98202,
+   "lon": 71.49992,
+   "place": "Bara",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "gsm_cdr",
+   "precision_km": 1.8,
+   "selector": "SEL-0038",
+   "detail": "Cell registration on tower BAR-796 (LAC 4925/CID 64707), 17 events over 2 h",
+   "confidence": "high",
+   "entity": "T05",
+   "ts": "2026-05-27T13:14:00Z",
+   "lat": 33.97814,
+   "lon": 71.50315,
+   "place": "Bara",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "ss7",
+   "precision_km": 5.4,
+   "selector": "SEL-0038",
+   "detail": "SS7 ATI/PSI location query: VLR Bara, cell-level answer",
+   "confidence": "medium",
+   "entity": "T05",
+   "ts": "2026-03-19T19:31:00Z",
+   "lat": 33.94956,
+   "lon": 71.50271,
+   "place": "Bara",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "ss7",
+   "precision_km": 6.9,
+   "selector": "SEL-0035",
+   "detail": "SS7 ATI/PSI location query: VLR Bara, cell-level answer",
+   "confidence": "medium",
+   "entity": "T05",
+   "ts": "2025-01-11T07:36:00Z",
+   "lat": 33.97398,
+   "lon": 71.49606,
+   "place": "Bara",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "isr",
+   "precision_km": 0.1,
+   "selector": null,
+   "detail": "ISR full-motion video: subject identified at compound, 47 min dwell",
+   "confidence": "high",
+   "entity": "T05",
+   "ts": "2025-03-08T18:52:00Z",
+   "lat": 33.9842,
+   "lon": 71.49862,
+   "place": "Bara",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "gsm_cdr",
+   "precision_km": 2.1,
+   "selector": "SEL-0035",
+   "detail": "Cell registration on tower JAM-329 (LAC 1929/CID 31527), 34 events over 2 h",
+   "confidence": "high",
+   "entity": "T05",
+   "ts": "2025-12-10T19:28:00Z",
+   "lat": 34.00149,
+   "lon": 71.37328,
+   "place": "Jamrud",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "ss7",
+   "precision_km": 3.4,
+   "selector": "SEL-0038",
+   "detail": "SS7 ATI/PSI location query: VLR Jamrud, cell-level answer",
+   "confidence": "medium",
+   "entity": "T05",
+   "ts": "2025-09-28T09:54:00Z",
+   "lat": 34.00181,
+   "lon": 71.37404,
+   "place": "Jamrud",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "isr",
+   "precision_km": 0.1,
+   "selector": null,
+   "detail": "ISR full-motion video: subject identified at compound, 13 min dwell",
+   "confidence": "high",
+   "entity": "T05",
+   "ts": "2025-01-01T10:14:00Z",
+   "lat": 33.33936,
+   "lon": 69.92029,
+   "place": "Khost",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "ss7",
+   "precision_km": 5.4,
+   "selector": "SEL-0038",
+   "detail": "SS7 ATI/PSI location query: VLR Bara, cell-level answer",
+   "confidence": "medium",
+   "entity": "T05",
+   "ts": "2025-06-12T05:41:00Z",
+   "lat": 33.98,
+   "lon": 71.50001,
+   "place": "Bara",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "open_source",
+   "precision_km": 3.0,
+   "selector": null,
+   "detail": "Geotagged social-media post by associate account",
+   "confidence": "low",
+   "entity": "T05",
+   "ts": "2026-09-23T06:00:00Z",
+   "lat": 34.10456,
+   "lon": 71.14237,
+   "place": "Landi Kotal",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "gsm_cdr",
+   "precision_km": 1.9,
+   "selector": "SEL-0038",
+   "detail": "Cell registration on tower LAN-186 (LAC 4543/CID 17067), 47 events over 4 h",
+   "confidence": "high",
+   "entity": "T05",
+   "ts": "2026-08-19T20:01:00Z",
+   "lat": 34.10436,
+   "lon": 71.1358,
+   "place": "Landi Kotal",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "travel",
+   "precision_km": 0.5,
+   "selector": null,
+   "detail": "Border crossing record at Chaman (vehicle Hilux)",
+   "confidence": "high",
+   "entity": "T05",
+   "ts": "2025-10-27T14:15:00Z",
+   "lat": 30.91699,
+   "lon": 66.45285,
+   "place": "Chaman",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "travel",
+   "precision_km": 0.5,
+   "selector": null,
+   "detail": "Border crossing record at Chaman (vehicle white Corolla)",
+   "confidence": "high",
+   "entity": "T05",
+   "ts": "2025-10-13T19:48:00Z",
+   "lat": 30.91767,
+   "lon": 66.45254,
+   "place": "Chaman",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "open_source",
+   "precision_km": 3.0,
+   "selector": null,
+   "detail": "Geotagged social-media post by associate account",
+   "confidence": "low",
+   "entity": "T05",
+   "ts": "2025-06-02T23:30:00Z",
+   "lat": 34.0065,
+   "lon": 71.5673,
+   "place": "Peshawar",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "travel",
+   "precision_km": 0.5,
+   "selector": null,
+   "detail": "Border crossing record at Ghulam Khan (vehicle bus)",
+   "confidence": "high",
+   "entity": "T05",
+   "ts": "2025-11-26T22:24:00Z",
+   "lat": 33.06983,
+   "lon": 70.17572,
+   "place": "Ghulam Khan",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "isr",
+   "precision_km": 0.1,
+   "selector": null,
+   "detail": "ISR full-motion video: subject identified at compound, 85 min dwell",
+   "confidence": "high",
+   "entity": "T05",
+   "ts": "2026-02-05T20:40:00Z",
+   "lat": 33.3395,
+   "lon": 69.92123,
+   "place": "Khost",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "open_source",
+   "precision_km": 3.0,
+   "selector": null,
+   "detail": "Geotagged social-media post by associate account",
+   "confidence": "low",
+   "entity": "T05",
+   "ts": "2026-05-24T17:53:00Z",
+   "lat": 33.97312,
+   "lon": 71.50232,
+   "place": "Bara",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "isr",
+   "precision_km": 0.1,
+   "selector": null,
+   "detail": "ISR full-motion video: subject identified at compound, 73 min dwell",
+   "confidence": "high",
+   "entity": "T06",
+   "ts": "2025-03-26T10:27:00Z",
+   "lat": 33.339,
+   "lon": 69.91962,
+   "place": "Khost",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "open_source",
+   "precision_km": 3.0,
+   "selector": null,
+   "detail": "Geotagged social-media post by associate account",
+   "confidence": "low",
+   "entity": "T06",
+   "ts": "2025-12-12T12:33:00Z",
+   "lat": 33.34918,
+   "lon": 69.92275,
+   "place": "Khost",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "isr",
+   "precision_km": 0.1,
+   "selector": null,
+   "detail": "ISR full-motion video: subject identified at compound, 24 min dwell",
+   "confidence": "high",
+   "entity": "T06",
+   "ts": "2025-10-20T05:16:00Z",
+   "lat": 33.33979,
+   "lon": 69.92117,
+   "place": "Khost",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "ss7",
+   "precision_km": 4.1,
+   "selector": "SEL-0043",
+   "detail": "SS7 ATI/PSI location query: VLR Khost, cell-level answer",
+   "confidence": "medium",
+   "entity": "T06",
+   "ts": "2025-12-17T18:55:00Z",
+   "lat": 33.33826,
+   "lon": 69.93442,
+   "place": "Khost",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "isr",
+   "precision_km": 0.1,
+   "selector": null,
+   "detail": "ISR full-motion video: subject identified at compound, 35 min dwell",
+   "confidence": "high",
+   "entity": "T06",
+   "ts": "2026-07-07T11:53:00Z",
+   "lat": 33.33928,
+   "lon": 69.9205,
+   "place": "Khost",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "gsm_cdr",
+   "precision_km": 1.6,
+   "selector": "SEL-0043",
+   "detail": "Cell registration on tower KHO-317 (LAC 1597/CID 47614), 3 events over 1 h",
+   "confidence": "high",
+   "entity": "T06",
+   "ts": "2025-08-24T09:14:00Z",
+   "lat": 33.33563,
+   "lon": 69.92211,
+   "place": "Khost",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "gsm_cdr",
+   "precision_km": 2.5,
+   "selector": "SEL-0043",
+   "detail": "Cell registration on tower KHO-681 (LAC 8016/CID 16017), 29 events over 1 h",
+   "confidence": "high",
+   "entity": "T06",
+   "ts": "2025-11-24T08:58:00Z",
+   "lat": 33.33901,
+   "lon": 69.93137,
+   "place": "Khost",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "travel",
+   "precision_km": 0.5,
+   "selector": null,
+   "detail": "Border crossing record at Torkham (vehicle bus)",
+   "confidence": "high",
+   "entity": "T06",
+   "ts": "2025-04-27T16:01:00Z",
+   "lat": 34.11308,
+   "lon": 71.09388,
+   "place": "Torkham",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "gsm_cdr",
+   "precision_km": 1.5,
+   "selector": "SEL-0043",
+   "detail": "Cell registration on tower MIR-829 (LAC 7249/CID 31237), 40 events over 6 h",
+   "confidence": "high",
+   "entity": "T06",
+   "ts": "2025-02-25T05:49:00Z",
+   "lat": 32.99584,
+   "lon": 70.07312,
+   "place": "Miram Shah",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "ss7",
+   "precision_km": 6.1,
+   "selector": "SEL-0043",
+   "detail": "SS7 ATI/PSI location query: VLR Khost, cell-level answer",
+   "confidence": "medium",
+   "entity": "T06",
+   "ts": "2025-10-16T23:18:00Z",
+   "lat": 33.3345,
+   "lon": 69.90549,
+   "place": "Khost",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "humint",
+   "precision_km": 5.0,
+   "selector": null,
+   "detail": "Source report: subject seen at a meeting (single-source, uncorroborated)",
+   "confidence": "low",
+   "entity": "T07",
+   "ts": "2025-12-10T14:09:00Z",
+   "lat": 33.59749,
+   "lon": 69.22699,
+   "place": "Gardez",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "isr",
+   "precision_km": 0.1,
+   "selector": null,
+   "detail": "ISR full-motion video: subject identified at compound, 79 min dwell",
+   "confidence": "high",
+   "entity": "T07",
+   "ts": "2026-01-25T05:15:00Z",
+   "lat": 33.59849,
+   "lon": 69.22875,
+   "place": "Gardez",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "gsm_cdr",
+   "precision_km": 2.2,
+   "selector": "SEL-0050",
+   "detail": "Cell registration on tower GAR-429 (LAC 6358/CID 52794), 26 events over 1 h",
+   "confidence": "high",
+   "entity": "T07",
+   "ts": "2026-05-02T13:55:00Z",
+   "lat": 33.58965,
+   "lon": 69.21785,
+   "place": "Gardez",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "gsm_cdr",
+   "precision_km": 1.7,
+   "selector": "SEL-0050",
+   "detail": "Cell registration on tower GAR-966 (LAC 7105/CID 25971), 45 events over 4 h",
+   "confidence": "high",
+   "entity": "T07",
+   "ts": "2026-02-10T06:30:00Z",
+   "lat": 33.59916,
+   "lon": 69.22332,
+   "place": "Gardez",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "isr",
+   "precision_km": 0.1,
+   "selector": null,
+   "detail": "ISR full-motion video: subject identified at compound, 90 min dwell",
+   "confidence": "high",
+   "entity": "T07",
+   "ts": "2025-11-30T07:39:00Z",
+   "lat": 34.52812,
+   "lon": 69.1721,
+   "place": "Kabul",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "gsm_cdr",
+   "precision_km": 1.7,
+   "selector": "SEL-0050",
+   "detail": "Cell registration on tower GAR-394 (LAC 1259/CID 32352), 18 events over 6 h",
+   "confidence": "high",
+   "entity": "T07",
+   "ts": "2026-09-04T11:38:00Z",
+   "lat": 33.59743,
+   "lon": 69.22537,
+   "place": "Gardez",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "ss7",
+   "precision_km": 2.1,
+   "selector": "SEL-0050",
+   "detail": "SS7 ATI/PSI location query: VLR Gardez, cell-level answer",
+   "confidence": "medium",
+   "entity": "T07",
+   "ts": "2025-08-14T15:11:00Z",
+   "lat": 33.59738,
+   "lon": 69.20981,
+   "place": "Gardez",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "ss7",
+   "precision_km": 5.0,
+   "selector": "SEL-0050",
+   "detail": "SS7 ATI/PSI location query: VLR Zurmat, cell-level answer",
+   "confidence": "medium",
+   "entity": "T07",
+   "ts": "2025-04-23T15:28:00Z",
+   "lat": 33.4211,
+   "lon": 69.02526,
+   "place": "Zurmat",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "ss7",
+   "precision_km": 7.8,
+   "selector": "SEL-0050",
+   "detail": "SS7 ATI/PSI location query: VLR Kabul, cell-level answer",
+   "confidence": "medium",
+   "entity": "T07",
+   "ts": "2026-02-26T22:28:00Z",
+   "lat": 34.54526,
+   "lon": 69.17372,
+   "place": "Kabul",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "gsm_cdr",
+   "precision_km": 2.4,
+   "selector": "SEL-0050",
+   "detail": "Cell registration on tower GAR-932 (LAC 4637/CID 37224), 35 events over 5 h",
+   "confidence": "high",
+   "entity": "T07",
+   "ts": "2025-10-02T11:43:00Z",
+   "lat": 33.58851,
+   "lon": 69.22313,
+   "place": "Gardez",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "isr",
+   "precision_km": 0.1,
+   "selector": null,
+   "detail": "ISR full-motion video: subject identified at compound, 17 min dwell",
+   "confidence": "high",
+   "entity": "T07",
+   "ts": "2025-05-18T05:10:00Z",
+   "lat": 33.59655,
+   "lon": 69.22643,
+   "place": "Gardez",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "gsm_cdr",
+   "precision_km": 1.6,
+   "selector": "SEL-0050",
+   "detail": "Cell registration on tower GAR-368 (LAC 4741/CID 40134), 48 events over 4 h",
+   "confidence": "high",
+   "entity": "T07",
+   "ts": "2026-09-05T18:46:00Z",
+   "lat": 33.59723,
+   "lon": 69.22599,
+   "place": "Gardez",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "ss7",
+   "precision_km": 7.7,
+   "selector": "SEL-0050",
+   "detail": "SS7 ATI/PSI location query: VLR Gardez, cell-level answer",
+   "confidence": "medium",
+   "entity": "T07",
+   "ts": "2025-04-14T20:25:00Z",
+   "lat": 33.59377,
+   "lon": 69.22635,
+   "place": "Gardez",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "isr",
+   "precision_km": 0.1,
+   "selector": null,
+   "detail": "ISR full-motion video: subject identified at compound, 77 min dwell",
+   "confidence": "high",
+   "entity": "T07",
+   "ts": "2025-12-28T22:44:00Z",
+   "lat": 34.52741,
+   "lon": 69.16897,
+   "place": "Kabul",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "gsm_cdr",
+   "precision_km": 2.6,
+   "selector": "SEL-0050",
+   "detail": "Cell registration on tower GAR-732 (LAC 6774/CID 14655), 27 events over 5 h",
+   "confidence": "high",
+   "entity": "T07",
+   "ts": "2025-08-25T09:40:00Z",
+   "lat": 33.60168,
+   "lon": 69.22357,
+   "place": "Gardez",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "ss7",
+   "precision_km": 3.7,
+   "selector": "SEL-0050",
+   "detail": "SS7 ATI/PSI location query: VLR Khost, cell-level answer",
+   "confidence": "medium",
+   "entity": "T07",
+   "ts": "2026-07-04T17:07:00Z",
+   "lat": 33.34814,
+   "lon": 69.92708,
+   "place": "Khost",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "travel",
+   "precision_km": 0.5,
+   "selector": null,
+   "detail": "Border crossing record at Torkham (vehicle Land Cruiser)",
+   "confidence": "high",
+   "entity": "T07",
+   "ts": "2026-06-28T16:20:00Z",
+   "lat": 34.11482,
+   "lon": 71.09317,
+   "place": "Torkham",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "gsm_cdr",
+   "precision_km": 3.0,
+   "selector": "SEL-0061",
+   "detail": "Cell registration on tower SHA-943 (LAC 7503/CID 32965), 43 events over 5 h",
+   "confidence": "high",
+   "entity": "T08",
+   "ts": "2025-07-30T19:35:00Z",
+   "lat": 33.90856,
+   "lon": 71.72567,
+   "place": "Shamshatoo",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "gsm_cdr",
+   "precision_km": 1.8,
+   "selector": "SEL-0061",
+   "detail": "Cell registration on tower JAL-800 (LAC 5917/CID 36051), 21 events over 1 h",
+   "confidence": "high",
+   "entity": "T08",
+   "ts": "2025-08-20T22:38:00Z",
+   "lat": 34.42859,
+   "lon": 70.45112,
+   "place": "Jalalabad",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "ss7",
+   "precision_km": 6.0,
+   "selector": "SEL-0058",
+   "detail": "SS7 ATI/PSI location query: VLR Shamshatoo, cell-level answer",
+   "confidence": "medium",
+   "entity": "T08",
+   "ts": "2026-09-11T09:29:00Z",
+   "lat": 33.92049,
+   "lon": 71.73158,
+   "place": "Shamshatoo",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "gsm_cdr",
+   "precision_km": 1.1,
+   "selector": "SEL-0061",
+   "detail": "Cell registration on tower JAL-979 (LAC 8205/CID 34971), 20 events over 3 h",
+   "confidence": "high",
+   "entity": "T08",
+   "ts": "2025-01-12T16:31:00Z",
+   "lat": 34.40878,
+   "lon": 70.44872,
+   "place": "Jalalabad",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "travel",
+   "precision_km": 0.5,
+   "selector": null,
+   "detail": "Border crossing record at Torkham (vehicle Hilux)",
+   "confidence": "high",
+   "entity": "T08",
+   "ts": "2026-08-17T08:42:00Z",
+   "lat": 34.11172,
+   "lon": 71.09375,
+   "place": "Torkham",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "ss7",
+   "precision_km": 7.5,
+   "selector": "SEL-0061",
+   "detail": "SS7 ATI/PSI location query: VLR Jalalabad, cell-level answer",
+   "confidence": "medium",
+   "entity": "T08",
+   "ts": "2025-08-25T06:30:00Z",
+   "lat": 34.4369,
+   "lon": 70.45139,
+   "place": "Jalalabad",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "humint",
+   "precision_km": 5.0,
+   "selector": null,
+   "detail": "Source report: subject seen at a meeting (single-source, uncorroborated)",
+   "confidence": "low",
+   "entity": "T08",
+   "ts": "2025-06-08T21:28:00Z",
+   "lat": 34.00779,
+   "lon": 71.5785,
+   "place": "Peshawar",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "gsm_cdr",
+   "precision_km": 1.3,
+   "selector": "SEL-0058",
+   "detail": "Cell registration on tower PES-851 (LAC 4128/CID 63668), 2 events over 3 h",
+   "confidence": "high",
+   "entity": "T08",
+   "ts": "2025-06-03T06:25:00Z",
+   "lat": 34.00245,
+   "lon": 71.58528,
+   "place": "Peshawar",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "ss7",
+   "precision_km": 7.7,
+   "selector": "SEL-0061",
+   "detail": "SS7 ATI/PSI location query: VLR Jalalabad, cell-level answer",
+   "confidence": "medium",
+   "entity": "T08",
+   "ts": "2025-05-26T10:37:00Z",
+   "lat": 34.43214,
+   "lon": 70.44958,
+   "place": "Jalalabad",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "travel",
+   "precision_km": 0.5,
+   "selector": null,
+   "detail": "Border crossing record at Ghulam Khan (vehicle Hilux)",
+   "confidence": "high",
+   "entity": "T08",
+   "ts": "2025-09-02T20:32:00Z",
+   "lat": 33.07001,
+   "lon": 70.17544,
+   "place": "Ghulam Khan",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "gsm_cdr",
+   "precision_km": 1.6,
+   "selector": "SEL-0058",
+   "detail": "Cell registration on tower SHA-499 (LAC 3117/CID 13490), 21 events over 3 h",
+   "confidence": "high",
+   "entity": "T08",
+   "ts": "2026-03-20T08:08:00Z",
+   "lat": 33.92371,
+   "lon": 71.73913,
+   "place": "Shamshatoo",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "gsm_cdr",
+   "precision_km": 1.5,
+   "selector": "SEL-0064",
+   "detail": "Cell registration on tower JAL-165 (LAC 3372/CID 57197), 24 events over 6 h",
+   "confidence": "high",
+   "entity": "T08",
+   "ts": "2026-03-30T20:40:00Z",
+   "lat": 34.4331,
+   "lon": 70.44978,
+   "place": "Jalalabad",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "humint",
+   "precision_km": 5.0,
+   "selector": null,
+   "detail": "Source report: subject seen at a meeting (single-source, uncorroborated)",
+   "confidence": "low",
+   "entity": "T09",
+   "ts": "2025-10-23T21:45:00Z",
+   "lat": 32.90384,
+   "lon": 69.74488,
+   "place": "Datta Khel",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "isr",
+   "precision_km": 0.1,
+   "selector": null,
+   "detail": "ISR full-motion video: subject identified at compound, 67 min dwell",
+   "confidence": "high",
+   "entity": "T09",
+   "ts": "2026-08-07T08:14:00Z",
+   "lat": 32.99495,
+   "lon": 70.38281,
+   "place": "Mir Ali",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "gsm_cdr",
+   "precision_km": 2.5,
+   "selector": "SEL-0071",
+   "detail": "Cell registration on tower DAT-939 (LAC 3666/CID 56321), 11 events over 6 h",
+   "confidence": "high",
+   "entity": "T09",
+   "ts": "2026-07-17T08:06:00Z",
+   "lat": 32.90814,
+   "lon": 69.74364,
+   "place": "Datta Khel",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "ss7",
+   "precision_km": 5.4,
+   "selector": "SEL-0071",
+   "detail": "SS7 ATI/PSI location query: VLR Datta Khel, cell-level answer",
+   "confidence": "medium",
+   "entity": "T09",
+   "ts": "2025-03-28T07:33:00Z",
+   "lat": 32.9143,
+   "lon": 69.74891,
+   "place": "Datta Khel",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "ss7",
+   "precision_km": 5.9,
+   "selector": "SEL-0071",
+   "detail": "SS7 ATI/PSI location query: VLR Mir Ali, cell-level answer",
+   "confidence": "medium",
+   "entity": "T09",
+   "ts": "2025-04-24T16:11:00Z",
+   "lat": 32.98989,
+   "lon": 70.38705,
+   "place": "Mir Ali",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "ss7",
+   "precision_km": 3.6,
+   "selector": "SEL-0071",
+   "detail": "SS7 ATI/PSI location query: VLR Mir Ali, cell-level answer",
+   "confidence": "medium",
+   "entity": "T09",
+   "ts": "2025-05-29T09:40:00Z",
+   "lat": 32.99023,
+   "lon": 70.36162,
+   "place": "Mir Ali",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "open_source",
+   "precision_km": 3.0,
+   "selector": null,
+   "detail": "Geotagged social-media post by associate account",
+   "confidence": "low",
+   "entity": "T09",
+   "ts": "2026-06-17T05:00:00Z",
+   "lat": 32.96217,
+   "lon": 70.60437,
+   "place": "Bannu",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "open_source",
+   "precision_km": 3.0,
+   "selector": null,
+   "detail": "Geotagged social-media post by associate account",
+   "confidence": "low",
+   "entity": "T09",
+   "ts": "2025-09-02T11:50:00Z",
+   "lat": 32.91424,
+   "lon": 69.74176,
+   "place": "Datta Khel",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "gsm_cdr",
+   "precision_km": 1.4,
+   "selector": "SEL-0081",
+   "detail": "Cell registration on tower KHO-560 (LAC 6538/CID 40617), 3 events over 2 h",
+   "confidence": "high",
+   "entity": "T10",
+   "ts": "2026-06-26T08:23:00Z",
+   "lat": 33.33953,
+   "lon": 69.94263,
+   "place": "Khost",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "humint",
+   "precision_km": 5.0,
+   "selector": null,
+   "detail": "Source report: subject seen at a meeting (single-source, uncorroborated)",
+   "confidence": "low",
+   "entity": "T10",
+   "ts": "2026-02-03T07:12:00Z",
+   "lat": 33.35222,
+   "lon": 69.93043,
+   "place": "Khost",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "ss7",
+   "precision_km": 4.9,
+   "selector": "SEL-0087",
+   "detail": "SS7 ATI/PSI location query: VLR Tani, cell-level answer",
+   "confidence": "medium",
+   "entity": "T10",
+   "ts": "2026-05-17T07:48:00Z",
+   "lat": 33.17546,
+   "lon": 69.77047,
+   "place": "Tani",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "ss7",
+   "precision_km": 5.0,
+   "selector": "SEL-0087",
+   "detail": "SS7 ATI/PSI location query: VLR Tani, cell-level answer",
+   "confidence": "medium",
+   "entity": "T10",
+   "ts": "2025-01-23T21:15:00Z",
+   "lat": 33.17279,
+   "lon": 69.73294,
+   "place": "Tani",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "travel",
+   "precision_km": 0.5,
+   "selector": null,
+   "detail": "Border crossing record at Angoor Adda (vehicle bus)",
+   "confidence": "high",
+   "entity": "T10",
+   "ts": "2025-05-04T15:32:00Z",
+   "lat": 32.28645,
+   "lon": 69.4332,
+   "place": "Angoor Adda",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "gsm_cdr",
+   "precision_km": 1.4,
+   "selector": "SEL-0087",
+   "detail": "Cell registration on tower KHO-949 (LAC 6016/CID 19121), 36 events over 6 h",
+   "confidence": "high",
+   "entity": "T10",
+   "ts": "2025-09-16T12:03:00Z",
+   "lat": 33.33591,
+   "lon": 69.92651,
+   "place": "Khost",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "ss7",
+   "precision_km": 7.8,
+   "selector": "SEL-0081",
+   "detail": "SS7 ATI/PSI location query: VLR Tani, cell-level answer",
+   "confidence": "medium",
+   "entity": "T10",
+   "ts": "2025-12-29T06:35:00Z",
+   "lat": 33.17938,
+   "lon": 69.73082,
+   "place": "Tani",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "isr",
+   "precision_km": 0.1,
+   "selector": null,
+   "detail": "ISR full-motion video: subject identified at compound, 35 min dwell",
+   "confidence": "high",
+   "entity": "T10",
+   "ts": "2025-08-18T17:14:00Z",
+   "lat": 33.33905,
+   "lon": 69.92041,
+   "place": "Khost",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "travel",
+   "precision_km": 0.5,
+   "selector": null,
+   "detail": "Border crossing record at Ghulam Khan (vehicle Hilux)",
+   "confidence": "high",
+   "entity": "T10",
+   "ts": "2025-11-08T07:09:00Z",
+   "lat": 33.06998,
+   "lon": 70.17599,
+   "place": "Ghulam Khan",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "ss7",
+   "precision_km": 6.4,
+   "selector": "SEL-0084",
+   "detail": "SS7 ATI/PSI location query: VLR Tani, cell-level answer",
+   "confidence": "medium",
+   "entity": "T10",
+   "ts": "2025-12-05T13:28:00Z",
+   "lat": 33.19176,
+   "lon": 69.74094,
+   "place": "Tani",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "gsm_cdr",
+   "precision_km": 2.3,
+   "selector": "SEL-0087",
+   "detail": "Cell registration on tower KHO-581 (LAC 6791/CID 20361), 35 events over 5 h",
+   "confidence": "high",
+   "entity": "T10",
+   "ts": "2025-10-15T06:16:00Z",
+   "lat": 33.34484,
+   "lon": 69.93187,
+   "place": "Khost",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "humint",
+   "precision_km": 5.0,
+   "selector": null,
+   "detail": "Source report: subject seen at a meeting (single-source, uncorroborated)",
+   "confidence": "low",
+   "entity": "T11",
+   "ts": "2025-10-18T21:25:00Z",
+   "lat": 34.52845,
+   "lon": 69.17037,
+   "place": "Kabul",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "gsm_cdr",
+   "precision_km": 1.9,
+   "selector": "SEL-0093",
+   "detail": "Cell registration on tower KAB-142 (LAC 5932/CID 33994), 4 events over 4 h",
+   "confidence": "high",
+   "entity": "T11",
+   "ts": "2025-12-25T05:23:00Z",
+   "lat": 34.52718,
+   "lon": 69.17425,
+   "place": "Kabul",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "ss7",
+   "precision_km": 7.8,
+   "selector": "SEL-0093",
+   "detail": "SS7 ATI/PSI location query: VLR Peshawar, cell-level answer",
+   "confidence": "medium",
+   "entity": "T11",
+   "ts": "2026-03-31T21:13:00Z",
+   "lat": 34.00989,
+   "lon": 71.57858,
+   "place": "Peshawar",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "gsm_cdr",
+   "precision_km": 2.5,
+   "selector": "SEL-0093",
+   "detail": "Cell registration on tower KAB-233 (LAC 5812/CID 47161), 16 events over 6 h",
+   "confidence": "high",
+   "entity": "T11",
+   "ts": "2026-07-26T10:30:00Z",
+   "lat": 34.52372,
+   "lon": 69.17125,
+   "place": "Kabul",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "travel",
+   "precision_km": 0.5,
+   "selector": null,
+   "detail": "Border crossing record at Torkham (vehicle bus)",
+   "confidence": "high",
+   "entity": "T11",
+   "ts": "2026-02-03T08:50:00Z",
+   "lat": 34.11104,
+   "lon": 71.09506,
+   "place": "Torkham",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "ss7",
+   "precision_km": 3.2,
+   "selector": "SEL-0093",
+   "detail": "SS7 ATI/PSI location query: VLR Dubai, cell-level answer",
+   "confidence": "medium",
+   "entity": "T11",
+   "ts": "2025-04-10T09:06:00Z",
+   "lat": 25.20833,
+   "lon": 55.27129,
+   "place": "Dubai",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "gsm_cdr",
+   "precision_km": 1.8,
+   "selector": "SEL-0093",
+   "detail": "Cell registration on tower KAB-803 (LAC 2124/CID 21724), 47 events over 3 h",
+   "confidence": "high",
+   "entity": "T11",
+   "ts": "2026-06-22T08:16:00Z",
+   "lat": 34.52814,
+   "lon": 69.173,
+   "place": "Kabul",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "humint",
+   "precision_km": 5.0,
+   "selector": null,
+   "detail": "Source report: subject seen at a meeting (single-source, uncorroborated)",
+   "confidence": "low",
+   "entity": "T11",
+   "ts": "2025-07-15T19:17:00Z",
+   "lat": 34.53548,
+   "lon": 69.16715,
+   "place": "Kabul",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "gsm_cdr",
+   "precision_km": 1.6,
+   "selector": "SEL-0093",
+   "detail": "Cell registration on tower KAB-719 (LAC 1193/CID 38343), 23 events over 2 h",
+   "confidence": "high",
+   "entity": "T11",
+   "ts": "2025-07-21T19:29:00Z",
+   "lat": 34.52946,
+   "lon": 69.16954,
+   "place": "Kabul",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "travel",
+   "precision_km": 0.5,
+   "selector": null,
+   "detail": "Air travel: arrival Dubai (passenger manifest, document #212884 fictional)",
+   "confidence": "high",
+   "entity": "T11",
+   "ts": "2025-10-06T11:20:00Z",
+   "lat": 25.20465,
+   "lon": 55.27077,
+   "place": "Dubai",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "humint",
+   "precision_km": 5.0,
+   "selector": null,
+   "detail": "Source report: subject seen at a meeting (single-source, uncorroborated)",
+   "confidence": "low",
+   "entity": "T11",
+   "ts": "2025-01-23T13:42:00Z",
+   "lat": 34.5111,
+   "lon": 69.17366,
+   "place": "Kabul",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "open_source",
+   "precision_km": 3.0,
+   "selector": null,
+   "detail": "Geotagged social-media post by associate account",
+   "confidence": "low",
+   "entity": "T11",
+   "ts": "2026-08-15T11:50:00Z",
+   "lat": 34.52734,
+   "lon": 69.17202,
+   "place": "Kabul",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "gsm_cdr",
+   "precision_km": 2.4,
+   "selector": "SEL-0102",
+   "detail": "Cell registration on tower QUE-208 (LAC 3861/CID 30449), 33 events over 2 h",
+   "confidence": "high",
+   "entity": "T12",
+   "ts": "2025-12-04T10:31:00Z",
+   "lat": 30.18335,
+   "lon": 67.00148,
+   "place": "Quetta",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "gsm_cdr",
+   "precision_km": 2.5,
+   "selector": "SEL-0099",
+   "detail": "Cell registration on tower KUC-109 (LAC 9936/CID 26840), 11 events over 4 h",
+   "confidence": "high",
+   "entity": "T12",
+   "ts": "2026-01-06T21:04:00Z",
+   "lat": 30.34686,
+   "lon": 66.97704,
+   "place": "Kuchlak",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "travel",
+   "precision_km": 0.5,
+   "selector": null,
+   "detail": "Border crossing record at Torkham (vehicle Hilux)",
+   "confidence": "high",
+   "entity": "T12",
+   "ts": "2026-02-01T08:41:00Z",
+   "lat": 34.114,
+   "lon": 71.09411,
+   "place": "Torkham",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "gsm_cdr",
+   "precision_km": 1.0,
+   "selector": "SEL-0105",
+   "detail": "Cell registration on tower KAN-931 (LAC 3059/CID 12329), 33 events over 4 h",
+   "confidence": "high",
+   "entity": "T12",
+   "ts": "2026-06-17T21:56:00Z",
+   "lat": 31.61546,
+   "lon": 65.70783,
+   "place": "Kandahar",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "isr",
+   "precision_km": 0.1,
+   "selector": null,
+   "detail": "ISR full-motion video: subject identified at compound, 57 min dwell",
+   "confidence": "high",
+   "entity": "T12",
+   "ts": "2026-09-05T20:50:00Z",
+   "lat": 31.61237,
+   "lon": 65.70871,
+   "place": "Kandahar",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "gsm_cdr",
+   "precision_km": 2.3,
+   "selector": "SEL-0099",
+   "detail": "Cell registration on tower KAN-786 (LAC 9095/CID 23005), 15 events over 1 h",
+   "confidence": "high",
+   "entity": "T12",
+   "ts": "2025-06-19T22:42:00Z",
+   "lat": 31.60949,
+   "lon": 65.71177,
+   "place": "Kandahar",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "gsm_cdr",
+   "precision_km": 2.5,
+   "selector": "SEL-0112",
+   "detail": "Cell registration on tower TAN-494 (LAC 7432/CID 23809), 22 events over 2 h",
+   "confidence": "high",
+   "entity": "T13",
+   "ts": "2025-04-04T19:15:00Z",
+   "lat": 33.16819,
+   "lon": 69.75134,
+   "place": "Tani",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "gsm_cdr",
+   "precision_km": 1.7,
+   "selector": "SEL-0112",
+   "detail": "Cell registration on tower TAN-284 (LAC 5888/CID 46146), 35 events over 5 h",
+   "confidence": "high",
+   "entity": "T13",
+   "ts": "2025-09-24T13:25:00Z",
+   "lat": 33.18143,
+   "lon": 69.76105,
+   "place": "Tani",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "ss7",
+   "precision_km": 4.8,
+   "selector": "SEL-0112",
+   "detail": "SS7 ATI/PSI location query: VLR Tani, cell-level answer",
+   "confidence": "medium",
+   "entity": "T13",
+   "ts": "2026-08-06T07:11:00Z",
+   "lat": 33.17835,
+   "lon": 69.75066,
+   "place": "Tani",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "gsm_cdr",
+   "precision_km": 2.3,
+   "selector": "SEL-0112",
+   "detail": "Cell registration on tower TAN-127 (LAC 6180/CID 39616), 24 events over 5 h",
+   "confidence": "high",
+   "entity": "T13",
+   "ts": "2025-07-05T23:25:00Z",
+   "lat": 33.16715,
+   "lon": 69.75137,
+   "place": "Tani",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "isr",
+   "precision_km": 0.1,
+   "selector": null,
+   "detail": "ISR full-motion video: subject identified at compound, 56 min dwell",
+   "confidence": "high",
+   "entity": "T13",
+   "ts": "2025-09-10T22:26:00Z",
+   "lat": 33.1725,
+   "lon": 69.75087,
+   "place": "Tani",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "gsm_cdr",
+   "precision_km": 3.0,
+   "selector": "SEL-0112",
+   "detail": "Cell registration on tower TAN-476 (LAC 8349/CID 64876), 43 events over 2 h",
+   "confidence": "high",
+   "entity": "T13",
+   "ts": "2026-04-12T18:20:00Z",
+   "lat": 33.17256,
+   "lon": 69.74632,
+   "place": "Tani",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "gsm_cdr",
+   "precision_km": 1.0,
+   "selector": "SEL-0112",
+   "detail": "Cell registration on tower TAN-837 (LAC 6017/CID 29463), 13 events over 2 h",
+   "confidence": "high",
+   "entity": "T13",
+   "ts": "2025-03-10T07:11:00Z",
+   "lat": 33.17187,
+   "lon": 69.75705,
+   "place": "Tani",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "humint",
+   "precision_km": 5.0,
+   "selector": null,
+   "detail": "Source report: subject seen at a meeting (single-source, uncorroborated)",
+   "confidence": "low",
+   "entity": "T14",
+   "ts": "2026-07-04T05:35:00Z",
+   "lat": 32.23582,
+   "lon": 70.40304,
+   "place": "Tank",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "gsm_cdr",
+   "precision_km": 2.8,
+   "selector": "SEL-0118",
+   "detail": "Cell registration on tower TAN-584 (LAC 3438/CID 49456), 7 events over 4 h",
+   "confidence": "high",
+   "entity": "T14",
+   "ts": "2025-06-12T13:55:00Z",
+   "lat": 32.23957,
+   "lon": 70.39079,
+   "place": "Tank",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "gsm_cdr",
+   "precision_km": 2.3,
+   "selector": "SEL-0121",
+   "detail": "Cell registration on tower TAN-562 (LAC 5238/CID 23997), 21 events over 6 h",
+   "confidence": "high",
+   "entity": "T14",
+   "ts": "2026-02-21T22:19:00Z",
+   "lat": 32.23353,
+   "lon": 70.39288,
+   "place": "Tank",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "gsm_cdr",
+   "precision_km": 2.9,
+   "selector": "SEL-0124",
+   "detail": "Cell registration on tower DER-603 (LAC 7053/CID 58885), 19 events over 5 h",
+   "confidence": "high",
+   "entity": "T14",
+   "ts": "2026-03-24T20:58:00Z",
+   "lat": 31.85925,
+   "lon": 70.65729,
+   "place": "Dera Ismail Khan",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "ss7",
+   "precision_km": 7.1,
+   "selector": "SEL-0118",
+   "detail": "SS7 ATI/PSI location query: VLR Dera Ismail Khan, cell-level answer",
+   "confidence": "medium",
+   "entity": "T14",
+   "ts": "2025-05-26T15:04:00Z",
+   "lat": 31.86969,
+   "lon": 70.66602,
+   "place": "Dera Ismail Khan",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "ss7",
+   "precision_km": 4.7,
+   "selector": "SEL-0118",
+   "detail": "SS7 ATI/PSI location query: VLR Bannu, cell-level answer",
+   "confidence": "medium",
+   "entity": "T14",
+   "ts": "2026-06-13T13:20:00Z",
+   "lat": 33.01094,
+   "lon": 70.59174,
+   "place": "Bannu",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "ss7",
+   "precision_km": 5.8,
+   "selector": "SEL-0124",
+   "detail": "SS7 ATI/PSI location query: VLR Tank, cell-level answer",
+   "confidence": "medium",
+   "entity": "T14",
+   "ts": "2025-08-07T20:20:00Z",
+   "lat": 32.24278,
+   "lon": 70.39003,
+   "place": "Tank",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "travel",
+   "precision_km": 0.5,
+   "selector": null,
+   "detail": "Border crossing record at Torkham (vehicle Hilux)",
+   "confidence": "high",
+   "entity": "T14",
+   "ts": "2025-07-23T15:06:00Z",
+   "lat": 34.11321,
+   "lon": 71.09506,
+   "place": "Torkham",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "travel",
+   "precision_km": 0.5,
+   "selector": null,
+   "detail": "Border crossing record at Angoor Adda (vehicle Land Cruiser)",
+   "confidence": "high",
+   "entity": "T14",
+   "ts": "2025-12-21T07:30:00Z",
+   "lat": 32.28607,
+   "lon": 69.43312,
+   "place": "Angoor Adda",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "open_source",
+   "precision_km": 3.0,
+   "selector": null,
+   "detail": "Geotagged social-media post by associate account",
+   "confidence": "low",
+   "entity": "T14",
+   "ts": "2025-01-01T12:35:00Z",
+   "lat": 31.85802,
+   "lon": 70.65874,
+   "place": "Dera Ismail Khan",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "travel",
+   "precision_km": 0.5,
+   "selector": null,
+   "detail": "Border crossing record at Angoor Adda (vehicle white Corolla)",
+   "confidence": "high",
+   "entity": "T14",
+   "ts": "2025-06-09T13:46:00Z",
+   "lat": 32.28614,
+   "lon": 69.43264,
+   "place": "Angoor Adda",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "ss7",
+   "precision_km": 6.8,
+   "selector": "SEL-0124",
+   "detail": "SS7 ATI/PSI location query: VLR Dera Ismail Khan, cell-level answer",
+   "confidence": "medium",
+   "entity": "T14",
+   "ts": "2026-02-12T07:37:00Z",
+   "lat": 31.85794,
+   "lon": 70.64893,
+   "place": "Dera Ismail Khan",
+   "dataset": "synthetic"
+  },
+  {
+   "kind": "gsm_cdr",
+   "precision_km": 1.3,
+   "selector": "SEL-0121",
+   "detail": "Cell registration on tower DER-637 (LAC 5555/CID 20969), 2 events over 2 h",
+   "confidence": "high",
+   "entity": "T14",
+   "ts": "2025-02-02T07:13:00Z",
+   "lat": 31.85956,
+   "lon": 70.64899,
+   "place": "Dera Ismail Khan",
+   "dataset": "synthetic"
+  }
+ ]
+}

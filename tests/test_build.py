@@ -87,3 +87,34 @@ def test_external_profiles_attach_without_overmerging():
     g = json.load(open(f"{ROOT}/db/exports/graph.json"))
     n = next(n for n in g["nodes"] if n["name"] == "Sirajuddin Haqqani")
     assert "un_1988:TAi.144" in n["profiles"] and set(n["sources"]) == {"podcast", "document", "un_1988", "fbi_wanted"}
+
+
+def test_target_tracking_layer():
+    con = _build(["--synthetic", f"{ROOT}/synthetic/targets_demo.json", f"{ROOT}/synthetic/sample_scenario.json"])
+    q = lambda s, *a: con.execute(s, a).fetchall()
+    assert q("select count(*) from sites where dataset='real' and source='public_reference'")[0][0] >= 30
+    assert q("select count(*) from target_cards")[0][0] == 14
+    # every card / selector / hit hangs off a SYNTHETIC person id, never a real one
+    assert q("select count(*) from target_cards c join entities e on e.id=c.entity_id where e.dataset!='synthetic' or c.entity_id not like 'SP-%'")[0][0] == 0
+    assert q("select count(*) from selectors s join entities e on e.id=s.entity_id where e.dataset!='synthetic'")[0][0] == 0
+    assert q("select count(*) from location_hits h join entities e on e.id=h.entity_id where e.dataset!='synthetic'")[0][0] == 0
+    assert q("select count(*) from selectors where dataset!='synthetic'")[0][0] == 0
+    # identifiers are obviously non-allocated
+    assert q("select count(*) from selectors where kind='phone' and value not like '% 555 %'")[0][0] == 0
+    assert q("select count(*) from selectors where kind='imei' and value not like '00000000%'")[0][0] == 0
+    assert q("select count(*) from selectors where kind='email' and value not like '%@example.%'")[0][0] == 0
+    # correlation chain phone -> IMSI -> IMEI exists for the primary target
+    g = q("""select count(*) from selectors p join selector_links l1 on l1.a_id=p.id and l1.relation='same_subscriber' join selectors i on i.id=l1.b_id and i.kind='imsi'
+             join selector_links l2 on l2.a_id=i.id and l2.relation='used_with' join selectors m on m.id=l2.b_id and m.kind='imei' join entities e on e.id=p.entity_id where e.name='Hafiz Gul Zadran'""")[0][0]
+    assert g >= 1
+    # last known location is the latest hit and lies in the AfPak/Gulf box
+    assert q("select count(*) from target_cards c join location_hits h on h.id=c.last_hit_id where h.ts < (select max(ts) from location_hits x where x.entity_id=c.entity_id)")[0][0] == 0
+    assert q("select count(*) from location_hits where lat not between 24 and 38 or lon not between 50 and 76")[0][0] == 0
+    # synthetic attacks carry geometry and a real-organization actor, flagged synthetic
+    assert q("select count(*) from events ev join event_geo g on g.event_id=ev.id where ev.dataset='synthetic' and ev.type='attack'")[0][0] >= 20
+    assert q("select count(*) from events ev join event_actors ea on ea.event_id=ev.id join entities o on o.id=ea.entity_id where ev.dataset='synthetic' and o.name='Haqqani Network' and o.dataset='real'")[0][0] >= 5
+    cards = json.load(open(f"{ROOT}/db/exports/target_cards.json"))
+    c = next(x for x in cards if x["name"] == "Hafiz Gul Zadran")
+    assert c["objective_name"] == "OBJECTIVE GRANITE" and c["last_known_location"]["ts"] and c["selectors"] and c["correlations"] and c["family"]
+    assert os.path.exists(f"{ROOT}/db/exports/sites.geojson") and os.path.exists(f"{ROOT}/db/exports/event_points.geojson")
+    _build([])  # leave the repo DB real-only
