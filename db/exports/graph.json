@@ -217,7 +217,7 @@
 "dataset": "real",
 "role": null,
 "status": null,
-"n_episodes": 40,
+"n_episodes": 44,
 "country": "Yemen"
 },
 {
@@ -337,17 +337,7 @@
 "dataset": "real",
 "role": null,
 "status": null,
-"n_episodes": 42,
-"country": "Pakistan"
-},
-{
-"id": "O-59c0aee279",
-"kind": "organization",
-"name": "Tehrik-e-Taliban Pakistan",
-"dataset": "real",
-"role": null,
-"status": null,
-"n_episodes": 22,
+"n_episodes": 53,
 "country": "Pakistan"
 },
 {
@@ -908,16 +898,6 @@
 "role": null,
 "status": null,
 "n_episodes": 4,
-"country": "Yemen"
-},
-{
-"id": "O-72ba05ab03",
-"kind": "organization",
-"name": "al-Qaeda in the Arabian Peninsula (AQAP)",
-"dataset": "real",
-"role": null,
-"status": null,
-"n_episodes": 5,
 "country": "Yemen"
 },
 {
@@ -4179,16 +4159,6 @@
 "status": null,
 "n_episodes": 1,
 "country": null
-},
-{
-"id": "O-022678da78",
-"kind": "organization",
-"name": "Tehrik-e-Taliban Pakistan (TTP)",
-"dataset": "real",
-"role": null,
-"status": null,
-"n_episodes": 2,
-"country": "Pakistan"
 },
 {
 "id": "O-b4cf020087",
@@ -16704,62 +16674,6 @@
 "detail": "derived:organization.parent_or_allies"
 },
 {
-"source": "O-022678da78",
-"target": "O-03898888bd",
-"type": "allied_with",
-"n": 1,
-"episodes": [
-51
-],
-"confidence": "stated",
-"detail": "derived:organization.parent_or_allies"
-},
-{
-"source": "O-022678da78",
-"target": "O-4b1b19b078",
-"type": "rival_of",
-"n": 1,
-"episodes": [
-15
-],
-"confidence": "stated",
-"detail": "derived:organization.rivals"
-},
-{
-"source": "O-022678da78",
-"target": "O-a53d7af511",
-"type": "allied_with",
-"n": 1,
-"episodes": [
-15
-],
-"confidence": "stated",
-"detail": "derived:organization.parent_or_allies"
-},
-{
-"source": "O-022678da78",
-"target": "O-c74761bdcd",
-"type": "allied_with",
-"n": 2,
-"episodes": [
-15,
-51
-],
-"confidence": "stated",
-"detail": "derived:organization.parent_or_allies"
-},
-{
-"source": "O-022678da78",
-"target": "O-c74761bdcd",
-"type": "member_of",
-"n": 1,
-"episodes": [
-15
-],
-"confidence": "stated",
-"detail": "Roggio: TTP is effectively an unofficial al-Qaeda branch; al-Qaeda ordered TTP to stop poaching al-Qaeda cadres in the tribal areas"
-},
-{
 "source": "O-02433fc7cd",
 "target": "O-03898888bd",
 "type": "allied_with",
@@ -17919,33 +17833,6 @@
 },
 {
 "source": "O-03898888bd",
-"target": "O-59c0aee279",
-"type": "allied_with",
-"n": 6,
-"episodes": [
-6,
-10,
-29,
-58,
-70,
-344
-],
-"confidence": "inferred",
-"detail": "derived:organization.parent_or_allies"
-},
-{
-"source": "O-03898888bd",
-"target": "O-59c0aee279",
-"type": "sheltered_by",
-"n": 1,
-"episodes": [
-89
-],
-"confidence": "stated",
-"detail": "The Afghan Taliban support and harbor the TTP, causing tension with Pakistan."
-},
-{
-"source": "O-03898888bd",
 "target": "O-60e7834568",
 "type": "allied_with",
 "n": 3,
@@ -18565,15 +18452,18 @@
 "source": "O-03898888bd",
 "target": "O-c61aaaee0a",
 "type": "allied_with",
-"n": 33,
+"n": 39,
 "episodes": [
 6,
 7,
+10,
 14,
+29,
 49,
 52,
 58,
 64,
+70,
 76,
 89,
 92,
@@ -18592,9 +18482,10 @@
 286,
 313,
 336,
-339
+339,
+344
 ],
-"confidence": "stated",
+"confidence": "inferred",
 "detail": "derived:organization.parent_or_allies"
 },
 {
@@ -18612,12 +18503,13 @@
 "source": "O-03898888bd",
 "target": "O-c61aaaee0a",
 "type": "sheltered_by",
-"n": 1,
+"n": 2,
 "episodes": [
+89,
 92
 ],
 "confidence": "stated",
-"detail": "The Afghan Taliban still shelter the TTP, which operates on both sides of the border."
+"detail": "The Afghan Taliban support and harbor the TTP, causing tension with Pakistan."
 },
 {
 "source": "O-03898888bd",
@@ -22337,17 +22229,6 @@
 },
 {
 "source": "O-3070fc4977",
-"target": "O-59c0aee279",
-"type": "allied_with",
-"n": 1,
-"episodes": [
-89
-],
-"confidence": "stated",
-"detail": "The group as a whole still cooperates with al-Qaeda, the TTP and Ansarullah."
-},
-{
-"source": "O-3070fc4977",
 "target": "O-78f561d34e",
 "type": "allied_with",
 "n": 4,
@@ -22363,7 +22244,7 @@
 "source": "O-3070fc4977",
 "target": "O-c61aaaee0a",
 "type": "allied_with",
-"n": 1,
+"n": 2,
 "episodes": [
 89
 ],
@@ -23163,18 +23044,6 @@
 },
 {
 "source": "O-3c539938bb",
-"target": "O-59c0aee279",
-"type": "other",
-"n": 2,
-"episodes": [
-79,
-89
-],
-"confidence": "stated",
-"detail": "ISKP poached thousands of fighters from the TTP."
-},
-{
-"source": "O-3c539938bb",
 "target": "O-6e0f19f16b",
 "type": "allied_with",
 "n": 33,
@@ -23328,6 +23197,18 @@
 ],
 "confidence": "stated",
 "detail": "derived:organization.rivals"
+},
+{
+"source": "O-3c539938bb",
+"target": "O-c61aaaee0a",
+"type": "other",
+"n": 2,
+"episodes": [
+79,
+89
+],
+"confidence": "stated",
+"detail": "ISKP poached thousands of fighters from the TTP."
 },
 {
 "source": "O-3c539938bb",
@@ -23518,17 +23399,6 @@
 },
 {
 "source": "O-412ed51386",
-"target": "O-59c0aee279",
-"type": "rival_of",
-"n": 1,
-"episodes": [
-70
-],
-"confidence": "stated",
-"detail": "The Pakistani state fights the TTP, which is helped by the Afghan Taliban."
-},
-{
-"source": "O-412ed51386",
 "target": "O-7d9412a62e",
 "type": "allied_with",
 "n": 1,
@@ -23588,7 +23458,7 @@
 "source": "O-412ed51386",
 "target": "O-c61aaaee0a",
 "type": "rival_of",
-"n": 4,
+"n": 5,
 "episodes": [
 20,
 58,
@@ -24296,21 +24166,11 @@
 },
 {
 "source": "O-4b1b19b078",
-"target": "O-59c0aee279",
-"type": "rival_of",
-"n": 1,
-"episodes": [
-6
-],
-"confidence": "stated",
-"detail": "derived:organization.rivals"
-},
-{
-"source": "O-4b1b19b078",
 "target": "O-c61aaaee0a",
 "type": "rival_of",
-"n": 1,
+"n": 2,
 "episodes": [
+6,
 15
 ],
 "confidence": "stated",
@@ -24967,208 +24827,6 @@
 "detail": "derived:organization.rivals"
 },
 {
-"source": "O-59c0aee279",
-"target": "L-5066194008",
-"type": "located_in",
-"n": 1,
-"episodes": [
-52
-],
-"confidence": "stated",
-"detail": "UN report: extremely large TTP contingent among 8,000-10,000+ foreign fighters in Afghanistan, Taliban-aligned"
-},
-{
-"source": "O-59c0aee279",
-"target": "L-a7c23c4701",
-"type": "located_in",
-"n": 1,
-"episodes": [
-11
-],
-"confidence": "stated",
-"detail": "The TTP declared the Islamic Emirate of Waziristan in 2013."
-},
-{
-"source": "O-59c0aee279",
-"target": "O-03898888bd",
-"type": "allied_with",
-"n": 18,
-"episodes": [
-6,
-7,
-10,
-11,
-14,
-20,
-29,
-47,
-52,
-58,
-70,
-72,
-89,
-344
-],
-"confidence": "stated",
-"detail": "derived:organization.parent_or_allies"
-},
-{
-"source": "O-59c0aee279",
-"target": "O-03898888bd",
-"type": "sheltered_by",
-"n": 3,
-"episodes": [
-2,
-70,
-344
-],
-"confidence": "stated",
-"detail": "The hosts say the 'good Taliban' shelter, support, train and fight alongside the 'bad Taliban'."
-},
-{
-"source": "O-59c0aee279",
-"target": "O-3070fc4977",
-"type": "allied_with",
-"n": 1,
-"episodes": [
-89
-],
-"confidence": "stated",
-"detail": "derived:organization.parent_or_allies"
-},
-{
-"source": "O-59c0aee279",
-"target": "O-3c539938bb",
-"type": "rival_of",
-"n": 1,
-"episodes": [
-58
-],
-"confidence": "stated",
-"detail": "derived:organization.rivals"
-},
-{
-"source": "O-59c0aee279",
-"target": "O-412ed51386",
-"type": "rival_of",
-"n": 1,
-"episodes": [
-58
-],
-"confidence": "stated",
-"detail": "TTP fights Pakistani military; wants to conquer or carve out territory."
-},
-{
-"source": "O-59c0aee279",
-"target": "O-4b1b19b078",
-"type": "rival_of",
-"n": 1,
-"episodes": [
-6
-],
-"confidence": "stated",
-"detail": "Openly at war with the Pakistani government."
-},
-{
-"source": "O-59c0aee279",
-"target": "O-65d04b00dc",
-"type": "allied_with",
-"n": 1,
-"episodes": [
-6
-],
-"confidence": "stated",
-"detail": "derived:organization.parent_or_allies"
-},
-{
-"source": "O-59c0aee279",
-"target": "O-919202ece4",
-"type": "rival_of",
-"n": 7,
-"episodes": [
-6,
-7,
-14,
-20,
-70,
-72,
-89
-],
-"confidence": "stated",
-"detail": "derived:organization.rivals"
-},
-{
-"source": "O-59c0aee279",
-"target": "O-a53d7af511",
-"type": "allied_with",
-"n": 3,
-"episodes": [
-6,
-7,
-58
-],
-"confidence": "stated",
-"detail": "derived:organization.parent_or_allies"
-},
-{
-"source": "O-59c0aee279",
-"target": "O-b12b7bea0d",
-"type": "other",
-"n": 1,
-"episodes": [
-6
-],
-"confidence": "stated",
-"detail": "The TTP was formed shortly after the Red Mosque raid, which turned many 'good Taliban' against the state."
-},
-{
-"source": "O-59c0aee279",
-"target": "O-c31ce4e70e",
-"type": "rival_of",
-"n": 4,
-"episodes": [
-2,
-10,
-11,
-58
-],
-"confidence": "stated",
-"detail": "derived:organization.rivals"
-},
-{
-"source": "O-59c0aee279",
-"target": "O-c74761bdcd",
-"type": "allied_with",
-"n": 13,
-"episodes": [
-6,
-7,
-10,
-20,
-29,
-58,
-72,
-83,
-337,
-343,
-344
-],
-"confidence": "stated",
-"detail": "derived:organization.parent_or_allies"
-},
-{
-"source": "O-59c0aee279",
-"target": "O-f20f68a6b1",
-"type": "rival_of",
-"n": 2,
-"episodes": [
-343,
-344
-],
-"confidence": "stated",
-"detail": "derived:organization.rivals"
-},
-{
 "source": "O-59e4064f9f",
 "target": "O-a53d7af511",
 "type": "rival_of",
@@ -25226,21 +24884,11 @@
 },
 {
 "source": "O-5c6b4db2af",
-"target": "O-72ba05ab03",
-"type": "allied_with",
-"n": 1,
-"episodes": [
-4
-],
-"confidence": "stated",
-"detail": "derived:organization.parent_or_allies"
-},
-{
-"source": "O-5c6b4db2af",
 "target": "O-9bb6536200",
 "type": "allied_with",
-"n": 2,
+"n": 3,
 "episodes": [
+4,
 15
 ],
 "confidence": "stated",
@@ -25726,28 +25374,6 @@
 },
 {
 "source": "O-612bbcec92",
-"target": "O-72ba05ab03",
-"type": "allied_with",
-"n": 1,
-"episodes": [
-336
-],
-"confidence": "stated",
-"detail": "derived:organization.parent_or_allies"
-},
-{
-"source": "O-612bbcec92",
-"target": "O-72ba05ab03",
-"type": "other",
-"n": 1,
-"episodes": [
-286
-],
-"confidence": "stated",
-"detail": "De facto ceasefire between the Houthis and AQAP in Yemen."
-},
-{
-"source": "O-612bbcec92",
 "target": "O-84c60fe81a",
 "type": "rival_of",
 "n": 4,
@@ -25774,12 +25400,13 @@
 "source": "O-612bbcec92",
 "target": "O-9bb6536200",
 "type": "allied_with",
-"n": 6,
+"n": 7,
 "episodes": [
 157,
 207,
 238,
 295,
+336,
 337
 ],
 "confidence": "stated",
@@ -25795,6 +25422,17 @@
 ],
 "confidence": "stated",
 "detail": "UN report references a possible strategic meeting between Houthis, AQAP and al-Shabaab"
+},
+{
+"source": "O-612bbcec92",
+"target": "O-9bb6536200",
+"type": "other",
+"n": 1,
+"episodes": [
+286
+],
+"confidence": "stated",
+"detail": "De facto ceasefire between the Houthis and AQAP in Yemen."
 },
 {
 "source": "O-612bbcec92",
@@ -26298,17 +25936,6 @@
 },
 {
 "source": "O-6ba96af154",
-"target": "O-59c0aee279",
-"type": "leads",
-"n": 1,
-"episodes": [
-58
-],
-"confidence": "stated",
-"detail": "Mehsud clan traditionally held top TTP leadership positions."
-},
-{
-"source": "O-6ba96af154",
 "target": "O-c61aaaee0a",
 "type": "allied_with",
 "n": 1,
@@ -26317,6 +25944,17 @@
 ],
 "confidence": "stated",
 "detail": "derived:organization.parent_or_allies"
+},
+{
+"source": "O-6ba96af154",
+"target": "O-c61aaaee0a",
+"type": "leads",
+"n": 1,
+"episodes": [
+58
+],
+"confidence": "stated",
+"detail": "Mehsud clan traditionally held top TTP leadership positions."
 },
 {
 "source": "O-6bbdf0eb17",
@@ -26408,17 +26046,6 @@
 },
 {
 "source": "O-6c7a845376",
-"target": "O-72ba05ab03",
-"type": "rival_of",
-"n": 2,
-"episodes": [
-4
-],
-"confidence": "stated",
-"detail": "derived:organization.rivals"
-},
-{
-"source": "O-6c7a845376",
 "target": "O-84c60fe81a",
 "type": "allied_with",
 "n": 1,
@@ -26427,6 +26054,17 @@
 ],
 "confidence": "stated",
 "detail": "derived:organization.parent_or_allies"
+},
+{
+"source": "O-6c7a845376",
+"target": "O-9bb6536200",
+"type": "rival_of",
+"n": 2,
+"episodes": [
+4
+],
+"confidence": "stated",
+"detail": "derived:organization.rivals"
 },
 {
 "source": "O-6d0f01c99e",
@@ -26617,17 +26255,6 @@
 },
 {
 "source": "O-6e0f19f16b",
-"target": "O-72ba05ab03",
-"type": "rival_of",
-"n": 1,
-"episodes": [
-4
-],
-"confidence": "stated",
-"detail": "derived:organization.rivals"
-},
-{
-"source": "O-6e0f19f16b",
 "target": "O-78f561d34e",
 "type": "rival_of",
 "n": 4,
@@ -26684,6 +26311,17 @@
 ],
 "confidence": "stated",
 "detail": "derived:organization.parent_or_allies"
+},
+{
+"source": "O-6e0f19f16b",
+"target": "O-9bb6536200",
+"type": "rival_of",
+"n": 1,
+"episodes": [
+4
+],
+"confidence": "stated",
+"detail": "derived:organization.rivals"
 },
 {
 "source": "O-6e0f19f16b",
@@ -27454,186 +27092,6 @@
 ],
 "confidence": "stated",
 "detail": "derived:organization.parent_or_allies"
-},
-{
-"source": "O-72ba05ab03",
-"target": "L-35477d1bf0",
-"type": "located_in",
-"n": 2,
-"episodes": [
-4
-],
-"confidence": "stated",
-"detail": "AQAP took over Mukalla and advertised its services."
-},
-{
-"source": "O-72ba05ab03",
-"target": "O-5c6b4db2af",
-"type": "allied_with",
-"n": 1,
-"episodes": [
-4
-],
-"confidence": "stated",
-"detail": "derived:organization.parent_or_allies"
-},
-{
-"source": "O-72ba05ab03",
-"target": "O-5c6b4db2af",
-"type": "other",
-"n": 1,
-"episodes": [
-4
-],
-"confidence": "stated",
-"detail": "Ansar al-Sharia is AQAP's front group/brand in Yemen."
-},
-{
-"source": "O-72ba05ab03",
-"target": "O-612bbcec92",
-"type": "allied_with",
-"n": 1,
-"episodes": [
-336
-],
-"confidence": "stated",
-"detail": "derived:organization.parent_or_allies"
-},
-{
-"source": "O-72ba05ab03",
-"target": "O-612bbcec92",
-"type": "other",
-"n": 1,
-"episodes": [
-336
-],
-"confidence": "stated",
-"detail": "Ceasefire/truce between AQAP and the Houthis, attributed to Saif al-Adel's Iran alignment."
-},
-{
-"source": "O-72ba05ab03",
-"target": "O-612bbcec92",
-"type": "rival_of",
-"n": 1,
-"episodes": [
-4
-],
-"confidence": "stated",
-"detail": "derived:organization.rivals"
-},
-{
-"source": "O-72ba05ab03",
-"target": "O-6e0f19f16b",
-"type": "rival_of",
-"n": 1,
-"episodes": [
-4
-],
-"confidence": "stated",
-"detail": "derived:organization.rivals"
-},
-{
-"source": "O-72ba05ab03",
-"target": "O-84c60fe81a",
-"type": "rival_of",
-"n": 1,
-"episodes": [
-4
-],
-"confidence": "stated",
-"detail": "derived:organization.rivals"
-},
-{
-"source": "O-72ba05ab03",
-"target": "O-916b012790",
-"type": "rival_of",
-"n": 1,
-"episodes": [
-4
-],
-"confidence": "stated",
-"detail": "derived:organization.rivals"
-},
-{
-"source": "O-72ba05ab03",
-"target": "O-95f2703a60",
-"type": "rival_of",
-"n": 1,
-"episodes": [
-4
-],
-"confidence": "stated",
-"detail": "AQAP and ISIS in Yemen sometimes fight, sometimes cooperate."
-},
-{
-"source": "O-72ba05ab03",
-"target": "O-a039a6198e",
-"type": "allied_with",
-"n": 1,
-"episodes": [
-336
-],
-"confidence": "stated",
-"detail": "derived:organization.parent_or_allies"
-},
-{
-"source": "O-72ba05ab03",
-"target": "O-b59d4b6c1a",
-"type": "rival_of",
-"n": 1,
-"episodes": [
-4
-],
-"confidence": "stated",
-"detail": "derived:organization.rivals"
-},
-{
-"source": "O-72ba05ab03",
-"target": "O-c74761bdcd",
-"type": "allied_with",
-"n": 5,
-"episodes": [
-4,
-62,
-189,
-286,
-336
-],
-"confidence": "stated",
-"detail": "derived:organization.parent_or_allies"
-},
-{
-"source": "O-72ba05ab03",
-"target": "O-c74761bdcd",
-"type": "member_of",
-"n": 1,
-"episodes": [
-336
-],
-"confidence": "stated",
-"detail": "Tasked by the leadership with external operations and propaganda; its head probably on AQ shura."
-},
-{
-"source": "O-72ba05ab03",
-"target": "O-d2560fb641",
-"type": "allied_with",
-"n": 1,
-"episodes": [
-4
-],
-"confidence": "stated",
-"detail": "AQAP and AQIM communicated, sharing lessons on governance."
-},
-{
-"source": "O-72ba05ab03",
-"target": "P-3bc7c339d7",
-"type": "other",
-"n": 1,
-"episodes": [
-4
-],
-"confidence": "stated",
-"detail": "AQAP claimed responsibility for the shooting; link considered unproven beyond inspiration."
 },
 {
 "source": "O-72bd433abe",
@@ -28882,28 +28340,6 @@
 },
 {
 "source": "O-82bf3b9471",
-"target": "O-59c0aee279",
-"type": "allied_with",
-"n": 1,
-"episodes": [
-344
-],
-"confidence": "stated",
-"detail": "derived:organization.parent_or_allies"
-},
-{
-"source": "O-82bf3b9471",
-"target": "O-59c0aee279",
-"type": "splinter_of",
-"n": 1,
-"episodes": [
-344
-],
-"confidence": "stated",
-"detail": "Described as a splinter of the TTP"
-},
-{
-"source": "O-82bf3b9471",
 "target": "O-65d04b00dc",
 "type": "allied_with",
 "n": 1,
@@ -28923,6 +28359,28 @@
 ],
 "confidence": "stated",
 "detail": "derived:organization.rivals"
+},
+{
+"source": "O-82bf3b9471",
+"target": "O-c61aaaee0a",
+"type": "allied_with",
+"n": 1,
+"episodes": [
+344
+],
+"confidence": "stated",
+"detail": "derived:organization.parent_or_allies"
+},
+{
+"source": "O-82bf3b9471",
+"target": "O-c61aaaee0a",
+"type": "splinter_of",
+"n": 1,
+"episodes": [
+344
+],
+"confidence": "stated",
+"detail": "Described as a splinter of the TTP"
 },
 {
 "source": "O-82bf3b9471",
@@ -28959,7 +28417,7 @@
 },
 {
 "source": "O-84c60fe81a",
-"target": "O-72ba05ab03",
+"target": "O-9bb6536200",
 "type": "rival_of",
 "n": 1,
 "episodes": [
@@ -30273,7 +29731,7 @@
 },
 {
 "source": "O-95f2703a60",
-"target": "O-72ba05ab03",
+"target": "O-9bb6536200",
 "type": "rival_of",
 "n": 1,
 "episodes": [
@@ -30555,6 +30013,17 @@
 },
 {
 "source": "O-9bb6536200",
+"target": "L-35477d1bf0",
+"type": "located_in",
+"n": 2,
+"episodes": [
+4
+],
+"confidence": "stated",
+"detail": "AQAP took over Mukalla and advertised its services."
+},
+{
+"source": "O-9bb6536200",
 "target": "L-d393e300d2",
 "type": "located_in",
 "n": 1,
@@ -30566,15 +30035,38 @@
 },
 {
 "source": "O-9bb6536200",
+"target": "O-5c6b4db2af",
+"type": "allied_with",
+"n": 1,
+"episodes": [
+4
+],
+"confidence": "stated",
+"detail": "derived:organization.parent_or_allies"
+},
+{
+"source": "O-9bb6536200",
+"target": "O-5c6b4db2af",
+"type": "other",
+"n": 1,
+"episodes": [
+4
+],
+"confidence": "stated",
+"detail": "Ansar al-Sharia is AQAP's front group/brand in Yemen."
+},
+{
+"source": "O-9bb6536200",
 "target": "O-612bbcec92",
 "type": "allied_with",
-"n": 10,
+"n": 11,
 "episodes": [
 157,
 196,
 207,
 238,
 295,
+336,
 337
 ],
 "confidence": "stated",
@@ -30584,9 +30076,10 @@
 "source": "O-9bb6536200",
 "target": "O-612bbcec92",
 "type": "other",
-"n": 1,
+"n": 2,
 "episodes": [
-141
+141,
+336
 ],
 "confidence": "stated",
 "detail": "UN: AQAP may be in a truce with the Houthis; AQAP attacks target Saudi/UAE/Yemeni government instead"
@@ -30595,8 +30088,9 @@
 "source": "O-9bb6536200",
 "target": "O-612bbcec92",
 "type": "rival_of",
-"n": 11,
+"n": 12,
 "episodes": [
+4,
 10,
 11,
 27,
@@ -30613,8 +30107,9 @@
 "source": "O-9bb6536200",
 "target": "O-6e0f19f16b",
 "type": "rival_of",
-"n": 10,
+"n": 11,
 "episodes": [
+4,
 10,
 11,
 20,
@@ -30630,13 +30125,47 @@
 },
 {
 "source": "O-9bb6536200",
+"target": "O-84c60fe81a",
+"type": "rival_of",
+"n": 1,
+"episodes": [
+4
+],
+"confidence": "stated",
+"detail": "derived:organization.rivals"
+},
+{
+"source": "O-9bb6536200",
+"target": "O-916b012790",
+"type": "rival_of",
+"n": 1,
+"episodes": [
+4
+],
+"confidence": "stated",
+"detail": "derived:organization.rivals"
+},
+{
+"source": "O-9bb6536200",
+"target": "O-95f2703a60",
+"type": "rival_of",
+"n": 1,
+"episodes": [
+4
+],
+"confidence": "stated",
+"detail": "AQAP and ISIS in Yemen sometimes fight, sometimes cooperate."
+},
+{
+"source": "O-9bb6536200",
 "target": "O-a039a6198e",
 "type": "allied_with",
-"n": 7,
+"n": 8,
 "episodes": [
 121,
 238,
 295,
+336,
 337
 ],
 "confidence": "stated",
@@ -30666,6 +30195,17 @@
 },
 {
 "source": "O-9bb6536200",
+"target": "O-b59d4b6c1a",
+"type": "rival_of",
+"n": 1,
+"episodes": [
+4
+],
+"confidence": "stated",
+"detail": "derived:organization.rivals"
+},
+{
+"source": "O-9bb6536200",
 "target": "O-bf8c8b2e18",
 "type": "rival_of",
 "n": 2,
@@ -30680,9 +30220,10 @@
 "source": "O-9bb6536200",
 "target": "O-c74761bdcd",
 "type": "allied_with",
-"n": 39,
+"n": 44,
 "episodes": [
 2,
+4,
 10,
 11,
 12,
@@ -30701,6 +30242,7 @@
 50,
 51,
 58,
+62,
 70,
 72,
 76,
@@ -30711,11 +30253,14 @@
 121,
 141,
 157,
+189,
 196,
 207,
 238,
+286,
 295,
 333,
+336,
 337,
 339
 ],
@@ -30726,17 +30271,29 @@
 "source": "O-9bb6536200",
 "target": "O-c74761bdcd",
 "type": "member_of",
-"n": 6,
+"n": 7,
 "episodes": [
 10,
 27,
 84,
 97,
 121,
-295
+295,
+336
 ],
 "confidence": "inferred",
-"detail": "Regional branch in Yemen."
+"detail": "Tasked by the leadership with external operations and propaganda; its head probably on AQ shura."
+},
+{
+"source": "O-9bb6536200",
+"target": "O-d2560fb641",
+"type": "allied_with",
+"n": 1,
+"episodes": [
+4
+],
+"confidence": "stated",
+"detail": "AQAP and AQIM communicated, sharing lessons on governance."
 },
 {
 "source": "O-9bb6536200",
@@ -30771,6 +30328,17 @@
 ],
 "confidence": "stated",
 "detail": "derived:organization.parent_or_allies"
+},
+{
+"source": "O-9bb6536200",
+"target": "P-3bc7c339d7",
+"type": "other",
+"n": 1,
+"episodes": [
+4
+],
+"confidence": "stated",
+"detail": "AQAP claimed responsibility for the shooting; link considered unproven beyond inspiration."
 },
 {
 "source": "O-9cd381dbbf",
@@ -31143,17 +30711,6 @@
 },
 {
 "source": "O-a039a6198e",
-"target": "O-72ba05ab03",
-"type": "allied_with",
-"n": 2,
-"episodes": [
-336
-],
-"confidence": "stated",
-"detail": "derived:organization.parent_or_allies"
-},
-{
-"source": "O-a039a6198e",
 "target": "O-745bd16d4e",
 "type": "rival_of",
 "n": 1,
@@ -31225,11 +30782,12 @@
 "source": "O-a039a6198e",
 "target": "O-9bb6536200",
 "type": "allied_with",
-"n": 4,
+"n": 6,
 "episodes": [
 121,
 238,
 295,
+336,
 337
 ],
 "confidence": "stated",
@@ -31787,17 +31345,6 @@
 },
 {
 "source": "O-a53d7af511",
-"target": "O-022678da78",
-"type": "allied_with",
-"n": 1,
-"episodes": [
-15
-],
-"confidence": "stated",
-"detail": "Haqqanis long harbored and worked with the Pakistani Taliban."
-},
-{
-"source": "O-a53d7af511",
 "target": "O-029afd53f1",
 "type": "allied_with",
 "n": 5,
@@ -32047,18 +31594,6 @@
 },
 {
 "source": "O-a53d7af511",
-"target": "O-59c0aee279",
-"type": "allied_with",
-"n": 2,
-"episodes": [
-6,
-58
-],
-"confidence": "stated",
-"detail": "The Haqqanis harbored and worked with the Pakistani Taliban, which attacks the Pakistani state ('wheel of jihad')."
-},
-{
-"source": "O-a53d7af511",
 "target": "O-5aca54c0b4",
 "type": "allied_with",
 "n": 3,
@@ -32139,7 +31674,7 @@
 "source": "O-a53d7af511",
 "target": "O-c61aaaee0a",
 "type": "allied_with",
-"n": 11,
+"n": 14,
 "episodes": [
 6,
 7,
@@ -32875,7 +32410,7 @@
 },
 {
 "source": "O-ab672e8205",
-"target": "O-72ba05ab03",
+"target": "O-9bb6536200",
 "type": "allied_with",
 "n": 1,
 "episodes": [
@@ -34850,17 +34385,6 @@
 },
 {
 "source": "O-bf8c8b2e18",
-"target": "O-72ba05ab03",
-"type": "rival_of",
-"n": 1,
-"episodes": [
-4
-],
-"confidence": "stated",
-"detail": "derived:organization.rivals"
-},
-{
-"source": "O-bf8c8b2e18",
 "target": "O-7695980a9f",
 "type": "allied_with",
 "n": 1,
@@ -34902,6 +34426,17 @@
 ],
 "confidence": "stated",
 "detail": "derived:organization.parent_or_allies"
+},
+{
+"source": "O-bf8c8b2e18",
+"target": "O-9bb6536200",
+"type": "rival_of",
+"n": 1,
+"episodes": [
+4
+],
+"confidence": "stated",
+"detail": "derived:organization.rivals"
 },
 {
 "source": "O-bf8c8b2e18",
@@ -35618,18 +35153,6 @@
 },
 {
 "source": "O-c31ce4e70e",
-"target": "O-59c0aee279",
-"type": "rival_of",
-"n": 2,
-"episodes": [
-2,
-10
-],
-"confidence": "stated",
-"detail": "derived:organization.rivals"
-},
-{
-"source": "O-c31ce4e70e",
 "target": "O-5f4b7463c5",
 "type": "rival_of",
 "n": 1,
@@ -35677,10 +35200,11 @@
 "source": "O-c31ce4e70e",
 "target": "O-c61aaaee0a",
 "type": "rival_of",
-"n": 3,
+"n": 5,
 "episodes": [
 2,
 6,
+10,
 279
 ],
 "confidence": "stated",
@@ -35958,12 +35482,13 @@
 "source": "O-c61aaaee0a",
 "target": "L-5066194008",
 "type": "located_in",
-"n": 1,
+"n": 2,
 "episodes": [
-44
+44,
+52
 ],
 "confidence": "stated",
-"detail": "Several hundred cross-border attacks and ~6,000 fighters per UN"
+"detail": "UN report: extremely large TTP contingent among 8,000-10,000+ foreign fighters in Afghanistan, Taliban-aligned"
 },
 {
 "source": "O-c61aaaee0a",
@@ -35975,6 +35500,17 @@
 ],
 "confidence": "stated",
 "detail": "TTP training camp in Kunar province"
+},
+{
+"source": "O-c61aaaee0a",
+"target": "L-a7c23c4701",
+"type": "located_in",
+"n": 1,
+"episodes": [
+11
+],
+"confidence": "stated",
+"detail": "The TTP declared the Islamic Emirate of Waziristan in 2013."
 },
 {
 "source": "O-c61aaaee0a",
@@ -35991,15 +35527,28 @@
 "source": "O-c61aaaee0a",
 "target": "O-03898888bd",
 "type": "allied_with",
-"n": 32,
+"n": 51,
 "episodes": [
+6,
 7,
+10,
+11,
+14,
+20,
 28,
+29,
+47,
 49,
+51,
+52,
 57,
+58,
 62,
 64,
+70,
+72,
 76,
+89,
 92,
 95,
 97,
@@ -36019,7 +35568,8 @@
 313,
 333,
 336,
-339
+339,
+344
 ],
 "confidence": "stated",
 "detail": "derived:organization.parent_or_allies"
@@ -36061,14 +35611,17 @@
 "source": "O-c61aaaee0a",
 "target": "O-03898888bd",
 "type": "sheltered_by",
-"n": 6,
+"n": 9,
 "episodes": [
+2,
+70,
 95,
 97,
 157,
 189,
 279,
-286
+286,
+344
 ],
 "confidence": "stated",
 "detail": "~6,000 TTP fighters in Afghanistan with a close relationship to the Afghan Taliban; Taliban actively hosting TTP in contravention of the Doha agreement."
@@ -36122,10 +35675,45 @@
 },
 {
 "source": "O-c61aaaee0a",
+"target": "O-3070fc4977",
+"type": "allied_with",
+"n": 1,
+"episodes": [
+89
+],
+"confidence": "stated",
+"detail": "derived:organization.parent_or_allies"
+},
+{
+"source": "O-c61aaaee0a",
+"target": "O-3c539938bb",
+"type": "rival_of",
+"n": 1,
+"episodes": [
+58
+],
+"confidence": "stated",
+"detail": "derived:organization.rivals"
+},
+{
+"source": "O-c61aaaee0a",
+"target": "O-412ed51386",
+"type": "rival_of",
+"n": 1,
+"episodes": [
+58
+],
+"confidence": "stated",
+"detail": "TTP fights Pakistani military; wants to conquer or carve out territory."
+},
+{
+"source": "O-c61aaaee0a",
 "target": "O-4b1b19b078",
 "type": "rival_of",
-"n": 2,
+"n": 4,
 "episodes": [
+6,
+15,
 17,
 100
 ],
@@ -36147,8 +35735,9 @@
 "source": "O-c61aaaee0a",
 "target": "O-65d04b00dc",
 "type": "allied_with",
-"n": 1,
+"n": 2,
 "episodes": [
+6,
 157
 ],
 "confidence": "stated",
@@ -36193,10 +35782,17 @@
 "source": "O-c61aaaee0a",
 "target": "O-919202ece4",
 "type": "rival_of",
-"n": 8,
+"n": 15,
 "episodes": [
+6,
+7,
+14,
+20,
 27,
 64,
+70,
+72,
+89,
 213,
 279,
 281,
@@ -36221,9 +35817,13 @@
 "source": "O-c61aaaee0a",
 "target": "O-a53d7af511",
 "type": "allied_with",
-"n": 5,
+"n": 9,
 "episodes": [
+6,
+7,
+15,
 22,
+58,
 76,
 207,
 213,
@@ -36231,6 +35831,17 @@
 ],
 "confidence": "stated",
 "detail": "derived:organization.parent_or_allies"
+},
+{
+"source": "O-c61aaaee0a",
+"target": "O-b12b7bea0d",
+"type": "other",
+"n": 1,
+"episodes": [
+6
+],
+"confidence": "stated",
+"detail": "The TTP was formed shortly after the Red Mosque raid, which turned many 'good Taliban' against the state."
 },
 {
 "source": "O-c61aaaee0a",
@@ -36251,9 +35862,13 @@
 "source": "O-c61aaaee0a",
 "target": "O-c31ce4e70e",
 "type": "rival_of",
-"n": 4,
+"n": 8,
 "episodes": [
+2,
+10,
+11,
 44,
+58,
 64,
 279
 ],
@@ -36264,15 +35879,25 @@
 "source": "O-c61aaaee0a",
 "target": "O-c74761bdcd",
 "type": "allied_with",
-"n": 28,
+"n": 43,
 "episodes": [
+6,
+7,
+10,
+15,
 17,
+20,
 22,
 27,
 28,
+29,
 44,
 49,
+51,
+58,
+72,
 76,
+83,
 92,
 95,
 97,
@@ -36288,7 +35913,10 @@
 285,
 286,
 333,
-336
+336,
+337,
+343,
+344
 ],
 "confidence": "stated",
 "detail": "derived:organization.parent_or_allies"
@@ -36297,8 +35925,9 @@
 "source": "O-c61aaaee0a",
 "target": "O-c74761bdcd",
 "type": "member_of",
-"n": 1,
+"n": 2,
 "episodes": [
+15,
 227
 ],
 "confidence": "stated",
@@ -36321,7 +35950,7 @@
 "source": "O-c61aaaee0a",
 "target": "O-f20f68a6b1",
 "type": "rival_of",
-"n": 11,
+"n": 13,
 "episodes": [
 49,
 76,
@@ -36333,7 +35962,9 @@
 227,
 238,
 285,
-339
+339,
+343,
+344
 ],
 "confidence": "stated",
 "detail": "derived:organization.rivals"
@@ -37232,31 +36863,6 @@
 },
 {
 "source": "O-c74761bdcd",
-"target": "O-59c0aee279",
-"type": "allied_with",
-"n": 5,
-"episodes": [
-6,
-10,
-337,
-343
-],
-"confidence": "stated",
-"detail": "derived:organization.parent_or_allies"
-},
-{
-"source": "O-c74761bdcd",
-"target": "O-59c0aee279",
-"type": "other",
-"n": 1,
-"episodes": [
-337
-],
-"confidence": "stated",
-"detail": "Bin Laden files show AQ leadership writing the TTP's mission statements and coordinating with branches."
-},
-{
-"source": "O-c74761bdcd",
 "target": "O-60e7834568",
 "type": "allied_with",
 "n": 1,
@@ -37409,18 +37015,6 @@
 },
 {
 "source": "O-c74761bdcd",
-"target": "O-72ba05ab03",
-"type": "allied_with",
-"n": 2,
-"episodes": [
-4,
-336
-],
-"confidence": "stated",
-"detail": "derived:organization.parent_or_allies"
-},
-{
-"source": "O-c74761bdcd",
 "target": "O-77abe5d55b",
 "type": "allied_with",
 "n": 1,
@@ -37530,8 +37124,9 @@
 "source": "O-c74761bdcd",
 "target": "O-9bb6536200",
 "type": "allied_with",
-"n": 29,
+"n": 31,
 "episodes": [
+4,
 11,
 12,
 15,
@@ -37558,6 +37153,7 @@
 265,
 295,
 333,
+336,
 337,
 339
 ],
@@ -37811,10 +37407,11 @@
 "source": "O-c74761bdcd",
 "target": "O-c61aaaee0a",
 "type": "allied_with",
-"n": 25,
+"n": 30,
 "episodes": [
 6,
 7,
+10,
 15,
 17,
 27,
@@ -37832,10 +37429,23 @@
 238,
 279,
 281,
-336
+336,
+337,
+343
 ],
 "confidence": "inferred",
 "detail": "derived:organization.parent_or_allies"
+},
+{
+"source": "O-c74761bdcd",
+"target": "O-c61aaaee0a",
+"type": "other",
+"n": 1,
+"episodes": [
+337
+],
+"confidence": "stated",
+"detail": "Bin Laden files show AQ leadership writing the TTP's mission statements and coordinating with branches."
 },
 {
 "source": "O-c74761bdcd",
@@ -40422,18 +40032,6 @@
 },
 {
 "source": "O-f20f68a6b1",
-"target": "O-59c0aee279",
-"type": "rival_of",
-"n": 2,
-"episodes": [
-343,
-344
-],
-"confidence": "stated",
-"detail": "derived:organization.rivals"
-},
-{
-"source": "O-f20f68a6b1",
 "target": "O-6e8004155e",
 "type": "rival_of",
 "n": 1,
@@ -40480,7 +40078,7 @@
 "source": "O-f20f68a6b1",
 "target": "O-c61aaaee0a",
 "type": "rival_of",
-"n": 7,
+"n": 9,
 "episodes": [
 14,
 49,
@@ -40488,7 +40086,9 @@
 95,
 141,
 157,
-207
+207,
+343,
+344
 ],
 "confidence": "stated",
 "detail": "derived:organization.rivals"
@@ -42508,18 +42108,6 @@
 },
 {
 "source": "P-101e88bea1",
-"target": "O-59c0aee279",
-"type": "leads",
-"n": 2,
-"episodes": [
-6,
-343
-],
-"confidence": "stated",
-"detail": "Hakimullah Mehsud was head of the TTP."
-},
-{
-"source": "P-101e88bea1",
 "target": "O-6ba96af154",
 "type": "family",
 "n": 1,
@@ -42533,9 +42121,11 @@
 "source": "P-101e88bea1",
 "target": "O-c61aaaee0a",
 "type": "leads",
-"n": 1,
+"n": 3,
 "episodes": [
-285
+6,
+285,
+343
 ],
 "confidence": "stated",
 "detail": "Leader of the Movement of the Taliban in Pakistan."
@@ -43500,7 +43090,7 @@
 },
 {
 "source": "P-1d817e4551",
-"target": "O-59c0aee279",
+"target": "O-c61aaaee0a",
 "type": "rival_of",
 "n": 1,
 "episodes": [
@@ -43728,7 +43318,7 @@
 },
 {
 "source": "P-2049ca445f",
-"target": "O-59c0aee279",
+"target": "O-c61aaaee0a",
 "type": "leads",
 "n": 1,
 "episodes": [
@@ -43961,21 +43551,11 @@
 },
 {
 "source": "P-283f179ce3",
-"target": "O-72ba05ab03",
-"type": "leads",
-"n": 2,
-"episodes": [
-4
-],
-"confidence": "stated",
-"detail": "Batarfi was named the new AQAP emir."
-},
-{
-"source": "P-283f179ce3",
 "target": "O-9bb6536200",
 "type": "leads",
-"n": 11,
+"n": 13,
 "episodes": [
+4,
 20,
 27,
 41,
@@ -44599,7 +44179,7 @@
 },
 {
 "source": "P-30f48bc14b",
-"target": "O-59c0aee279",
+"target": "O-c61aaaee0a",
 "type": "member_of",
 "n": 1,
 "episodes": [
@@ -44610,7 +44190,7 @@
 },
 {
 "source": "P-30f48bc14b",
-"target": "O-59c0aee279",
+"target": "O-c61aaaee0a",
 "type": "met_with",
 "n": 1,
 "episodes": [
@@ -47179,7 +46759,7 @@
 },
 {
 "source": "P-6957408306",
-"target": "O-59c0aee279",
+"target": "O-c61aaaee0a",
 "type": "allied_with",
 "n": 1,
 "episodes": [
@@ -47353,7 +46933,7 @@
 },
 {
 "source": "P-6c4a02a3f6",
-"target": "O-59c0aee279",
+"target": "O-c61aaaee0a",
 "type": "member_of",
 "n": 1,
 "episodes": [
@@ -47564,24 +47144,14 @@
 },
 {
 "source": "P-71835da534",
-"target": "O-72ba05ab03",
-"type": "leads",
-"n": 1,
-"episodes": [
-336
-],
-"confidence": "stated",
-"detail": "Current emir of AQAP."
-},
-{
-"source": "P-71835da534",
 "target": "O-9bb6536200",
 "type": "leads",
-"n": 3,
+"n": 4,
 "episodes": [
 196,
 238,
-295
+295,
+336
 ],
 "confidence": "stated",
 "detail": "New leader of AQAP."
@@ -47789,7 +47359,7 @@
 },
 {
 "source": "P-790ea462eb",
-"target": "O-59c0aee279",
+"target": "O-c61aaaee0a",
 "type": "leads",
 "n": 1,
 "episodes": [
@@ -50130,17 +49700,6 @@
 },
 {
 "source": "P-b88ab17a30",
-"target": "O-59c0aee279",
-"type": "leads",
-"n": 1,
-"episodes": [
-58
-],
-"confidence": "stated",
-"detail": "Emir of TTP, rebuilding the group."
-},
-{
-"source": "P-b88ab17a30",
 "target": "O-6ba96af154",
 "type": "family",
 "n": 1,
@@ -50154,9 +49713,10 @@
 "source": "P-b88ab17a30",
 "target": "O-c61aaaee0a",
 "type": "leads",
-"n": 3,
+"n": 4,
 "episodes": [
 44,
+58,
 189,
 279
 ],
@@ -51952,7 +51512,7 @@
 },
 {
 "source": "P-d3ab3d49fd",
-"target": "O-59c0aee279",
+"target": "O-c61aaaee0a",
 "type": "member_of",
 "n": 1,
 "episodes": [
@@ -52241,7 +51801,7 @@
 },
 {
 "source": "P-e00543c86b",
-"target": "O-72ba05ab03",
+"target": "O-9bb6536200",
 "type": "member_of",
 "n": 1,
 "episodes": [
@@ -52274,18 +51834,6 @@
 },
 {
 "source": "P-e18bc54e0a",
-"target": "O-72ba05ab03",
-"type": "member_of",
-"n": 2,
-"episodes": [
-4,
-336
-],
-"confidence": "stated",
-"detail": "Senior AQAP leader on its shura, not emir; leading ideologue of AQ globally."
-},
-{
-"source": "P-e18bc54e0a",
 "target": "O-9bb6536200",
 "type": "leads",
 "n": 1,
@@ -52299,9 +51847,11 @@
 "source": "P-e18bc54e0a",
 "target": "O-9bb6536200",
 "type": "member_of",
-"n": 2,
+"n": 4,
 "episodes": [
+4,
 58,
+336,
 337
 ],
 "confidence": "stated",
@@ -52469,17 +52019,6 @@
 },
 {
 "source": "P-e7491f1cc9",
-"target": "O-59c0aee279",
-"type": "allied_with",
-"n": 1,
-"episodes": [
-6
-],
-"confidence": "stated",
-"detail": "The TTP could not control North Waziristan without Gul Bahadur's and the Haqqanis' backing."
-},
-{
-"source": "P-e7491f1cc9",
 "target": "O-82bf3b9471",
 "type": "member_of",
 "n": 2,
@@ -52494,12 +52033,13 @@
 "source": "P-e7491f1cc9",
 "target": "O-c61aaaee0a",
 "type": "allied_with",
-"n": 1,
+"n": 2,
 "episodes": [
+6,
 157
 ],
 "confidence": "stated",
-"detail": "HGB group converging with TTP, effectively the same group."
+"detail": "The TTP could not control North Waziristan without Gul Bahadur's and the Haqqanis' backing."
 },
 {
 "source": "P-e7f0a14419",
@@ -54203,9 +53743,9 @@
 },
 {
 "source": "P-101e88bea1",
-"target": "O-59c0aee279",
+"target": "O-c61aaaee0a",
 "type": "member_of",
-"n": 7,
+"n": 9,
 "episodes": [
 6,
 7,
@@ -54213,19 +53753,9 @@
 22,
 58,
 92,
-343
-],
-"confidence": "stated",
-"detail": null
-},
-{
-"source": "P-101e88bea1",
-"target": "O-c61aaaee0a",
-"type": "member_of",
-"n": 2,
-"episodes": [
 285,
-336
+336,
+343
 ],
 "confidence": "stated",
 "detail": null
@@ -54756,7 +54286,7 @@
 },
 {
 "source": "P-1875a9def0",
-"target": "O-59c0aee279",
+"target": "O-c61aaaee0a",
 "type": "member_of",
 "n": 1,
 "episodes": [
@@ -55254,7 +54784,7 @@
 },
 {
 "source": "P-2049ca445f",
-"target": "O-59c0aee279",
+"target": "O-c61aaaee0a",
 "type": "member_of",
 "n": 2,
 "episodes": [
@@ -55538,20 +55068,9 @@
 },
 {
 "source": "P-283f179ce3",
-"target": "O-72ba05ab03",
-"type": "member_of",
-"n": 1,
-"episodes": [
-336
-],
-"confidence": "stated",
-"detail": null
-},
-{
-"source": "P-283f179ce3",
 "target": "O-9bb6536200",
 "type": "member_of",
-"n": 15,
+"n": 16,
 "episodes": [
 4,
 10,
@@ -55567,7 +55086,8 @@
 157,
 196,
 238,
-295
+295,
+336
 ],
 "confidence": "stated",
 "detail": null
@@ -55974,21 +55494,11 @@
 },
 {
 "source": "P-30f48bc14b",
-"target": "O-59c0aee279",
-"type": "member_of",
-"n": 1,
-"episodes": [
-6
-],
-"confidence": "stated",
-"detail": null
-},
-{
-"source": "P-30f48bc14b",
 "target": "O-c61aaaee0a",
 "type": "member_of",
-"n": 1,
+"n": 2,
 "episodes": [
+6,
 285
 ],
 "confidence": "stated",
@@ -56111,26 +55621,16 @@
 },
 {
 "source": "P-3683584ede",
-"target": "O-72ba05ab03",
-"type": "member_of",
-"n": 1,
-"episodes": [
-336
-],
-"confidence": "stated",
-"detail": null
-},
-{
-"source": "P-3683584ede",
 "target": "O-9bb6536200",
 "type": "member_of",
-"n": 5,
+"n": 6,
 "episodes": [
 4,
 10,
 12,
 29,
-84
+84,
+336
 ],
 "confidence": "stated",
 "detail": null
@@ -58277,20 +57777,9 @@
 },
 {
 "source": "P-6adf4bf81b",
-"target": "O-72ba05ab03",
-"type": "member_of",
-"n": 1,
-"episodes": [
-336
-],
-"confidence": "stated",
-"detail": null
-},
-{
-"source": "P-6adf4bf81b",
 "target": "O-9bb6536200",
 "type": "member_of",
-"n": 19,
+"n": 20,
 "episodes": [
 2,
 4,
@@ -58310,6 +57799,7 @@
 121,
 141,
 295,
+336,
 337
 ],
 "confidence": "stated",
@@ -58346,7 +57836,7 @@
 },
 {
 "source": "P-6c4a02a3f6",
-"target": "O-59c0aee279",
+"target": "O-c61aaaee0a",
 "type": "member_of",
 "n": 1,
 "episodes": [
@@ -58554,24 +58044,14 @@
 },
 {
 "source": "P-71835da534",
-"target": "O-72ba05ab03",
-"type": "member_of",
-"n": 1,
-"episodes": [
-336
-],
-"confidence": "stated",
-"detail": null
-},
-{
-"source": "P-71835da534",
 "target": "O-9bb6536200",
 "type": "member_of",
-"n": 3,
+"n": 4,
 "episodes": [
 196,
 238,
-295
+295,
+336
 ],
 "confidence": "stated",
 "detail": null
@@ -58745,7 +58225,7 @@
 },
 {
 "source": "P-790ea462eb",
-"target": "O-59c0aee279",
+"target": "O-c61aaaee0a",
 "type": "member_of",
 "n": 3,
 "episodes": [
@@ -60877,22 +60357,12 @@
 },
 {
 "source": "P-b88ab17a30",
-"target": "O-59c0aee279",
-"type": "member_of",
-"n": 1,
-"episodes": [
-58
-],
-"confidence": "stated",
-"detail": null
-},
-{
-"source": "P-b88ab17a30",
 "target": "O-c61aaaee0a",
 "type": "member_of",
-"n": 3,
+"n": 4,
 "episodes": [
 44,
+58,
 189,
 279
 ],
@@ -62496,24 +61966,14 @@
 },
 {
 "source": "P-e18bc54e0a",
-"target": "O-72ba05ab03",
-"type": "member_of",
-"n": 1,
-"episodes": [
-336
-],
-"confidence": "stated",
-"detail": null
-},
-{
-"source": "P-e18bc54e0a",
 "target": "O-9bb6536200",
 "type": "member_of",
-"n": 4,
+"n": 5,
 "episodes": [
 4,
 58,
 84,
+336,
 337
 ],
 "confidence": "stated",
@@ -63350,7 +62810,7 @@
 },
 {
 "source": "P-f8ed73b9d9",
-"target": "O-59c0aee279",
+"target": "O-c61aaaee0a",
 "type": "member_of",
 "n": 1,
 "episodes": [
@@ -63462,26 +62922,16 @@
 },
 {
 "source": "P-fecff9c653",
-"target": "O-72ba05ab03",
-"type": "member_of",
-"n": 1,
-"episodes": [
-336
-],
-"confidence": "stated",
-"detail": null
-},
-{
-"source": "P-fecff9c653",
 "target": "O-9bb6536200",
 "type": "member_of",
-"n": 5,
+"n": 6,
 "episodes": [
 76,
 89,
 97,
 141,
-295
+295,
+336
 ],
 "confidence": "stated",
 "detail": null
