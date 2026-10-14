@@ -63,6 +63,18 @@ Map exports: `db/exports/isw_plots.geojson`, `isw_maps.json`, `place_coords.json
 - External profiles are attached to a podcast entity only through `scripts/profile_matches.json` (curated by hand; near-namesakes such as UN TAi.164
   Abdul Rauf Zakir vs. Abdul Qayyum Zakir are deliberately kept apart). UN/FBI spellings are added as aliases tagged with their source.
 
+## GUI (gui/) — AfPak Target Tracker
+
+Demo analyst GUI over the database: layered event map (attacks by group, USG / foreign-government / intl-org / border / soft-target sites, target last-known-location + trails, time slider, citation link on every point), target "baseball cards" (fixed fillable field set — every value carries a Citation + source URL), phone/IMSI/IMEI/push-token pairings, selector correlations, per-card geolocation map with CDR/SS7/ISR/travel/HUMINT/OSINT dropdown, inference proposals with Accept/Reject, link chart, memos, users/audit.
+
+```bash
+python3 scripts/build_db.py --synthetic synthetic/targets_demo.json synthetic/sample_scenario.json --db db/afpak_demo.sqlite
+cd gui && npm install && ADMIN_PASSWORD=change-me node server.mjs   # http://localhost:3300, login admin
+npm test
+```
+
+The AfPak DB is opened read-only; analyst edits, proposals, memos, users and the audit log live in `gui/data/app.db` (gitignored). Real people never receive selectors or location hits unless an analyst enters sourced ones; all synthetic material is on `SP-…` ids and is banner-labelled. Requirements log: `gui/NOTES.md`.
+
 ## Documentation
 - `docs/network-findings.md` — what the 93 episodes reveal (narrative + generated tables; regenerate the tables with `python3 scripts/report.py`).
 - `docs/gui-plan.md` — how to turn this database into an analyst GUI (incl. the Events & Mapping tab).
