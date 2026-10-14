@@ -41,3 +41,7 @@ Memo module contract (child session delivers gui/public/memos.js + gui/lib/memos
   window.Memos.open(CARD)  -> opens draft dialog (CARD = GET /api/targets/:id payload: entity, fields[], selectors[], hits[], relationships[], profiles[])
   window.Memos.list(CARD, el) -> renders memo list + reader pane into el
 Push method: git push https://x-access-token:${UKR_WATCH_GH_PAT}@github.com/StephanieHall-cog/CT-Use-Case-AF-Pak.git main  (proxy remote gives 403)
+
+STATE 2: main=6fa645d pushed (works ONLY with RESEARCH_DASHBOARD_GH_PAT; UKR_WATCH_GH_PAT now denied). Server running :3300 (preview https://3300--71d7b7977aee4d27a6066de343042c15.preview.devinapps.com), Map + Targets grid verified in browser (34 cards: 14 synthetic + 20 real).
+Memo child session: 27506e5a20fc43419885367a98e02aff (branch devin/memos-module; merge into main when it reports). Remaining: verify card tabs in browser, fix bugs, cache prepared statements, gui tests, README/docs update, testing_agent run, final message.
+STATE 3: prepared-statement cache added to server.mjs; server relaunched with setsid (never pkill in the same exec as the relaunch). Verified in browser: Identity, Selectors (pairings), Location (map+dropdown+table). Still to eyeball: Correlations, Family, Sources, Proposals tab, Link chart tab.

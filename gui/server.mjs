@@ -12,6 +12,8 @@ const AFPAK_DB = process.env.AFPAK_DB || (existsSync(join(ROOT, 'db/afpak_demo.s
 const DATA_DIR = process.env.DATA_DIR || join(HERE, 'data'); mkdirSync(DATA_DIR, { recursive: true });
 const R = new Database(AFPAK_DB, { readonly: true });
 const db = new Database(join(DATA_DIR, 'app.db')); db.pragma('journal_mode = WAL');
+// cache prepared statements per SQL text: avoids re-preparing on every request (and a better-sqlite3 Statement-destructor assertion seen under GC)
+for (const d of [R, db]) { const cache = new Map(), raw = d.prepare.bind(d); d.prepare = sql => { let st = cache.get(sql); if (!st) { st = raw(sql); cache.set(sql, st); } return st; }; }
 db.exec(`
 CREATE TABLE IF NOT EXISTS users(id INTEGER PRIMARY KEY, username TEXT UNIQUE NOT NULL, pass_hash TEXT NOT NULL, salt TEXT NOT NULL, role TEXT NOT NULL DEFAULT 'viewer', created_at TEXT DEFAULT (datetime('now')), last_login TEXT);
 CREATE TABLE IF NOT EXISTS sessions(token TEXT PRIMARY KEY, user_id INTEGER NOT NULL, created_at TEXT, expires_at TEXT);
