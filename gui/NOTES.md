@@ -35,3 +35,9 @@ Added (6th message) — "Draft memo" button on the baseball card opening an emai
 All memos linked to the individual and listed on the card with an easy reader window.
 Server: table memos(id, entity_id, kind, subject, body, summary, sections JSON, refs JSON, created_by, created_at); GET/POST /api/targets/:id/memos, GET /api/memos/:id; template builder server-side (GET /api/targets/:id/memo-template?kind=).
 Server status: gui/server.mjs runs (port 3300, ADMIN_PASSWORD=demo-pass-123, login admin). Seen once: better-sqlite3 Statement destructor assertion at GC → cache prepared statements (prep(sql) memo) instead of re-preparing per request. index.html NOT yet written.
+
+STATE: gui/public/index.html written (map/targets/link chart/proposals/admin; all card fields fillable w/ citation + url; selector pairings; card map w/ hit-kind dropdown).
+Memo module contract (child session delivers gui/public/memos.js + gui/lib/memos.mjs routes, mounted in server.mjs):
+  window.Memos.open(CARD)  -> opens draft dialog (CARD = GET /api/targets/:id payload: entity, fields[], selectors[], hits[], relationships[], profiles[])
+  window.Memos.list(CARD, el) -> renders memo list + reader pane into el
+Push method: git push https://x-access-token:${UKR_WATCH_GH_PAT}@github.com/StephanieHall-cog/CT-Use-Case-AF-Pak.git main  (proxy remote gives 403)
