@@ -5,6 +5,7 @@ import { mkdirSync, existsSync, readFileSync } from 'fs';
 import { dirname, join } from 'path';
 import { fileURLToPath } from 'url';
 import { createUser, hashPassword, login, logout, sessionUser, parseCookies, requireRole, ROLES } from './lib/auth.mjs';
+import { memosRouter } from './lib/memos.mjs';
 
 const HERE = dirname(fileURLToPath(import.meta.url)); const ROOT = join(HERE, '..');
 const PORT = +(process.env.PORT || 3300);
@@ -241,6 +242,7 @@ app.get('/api/graph', (req, res) => { const root = req.query.root, depth = Math.
 app.get('/api/investigations', (req, res) => res.json(db.prepare('SELECT id,name,owner,created_at FROM investigations ORDER BY id DESC').all()));
 app.post('/api/investigations', A, (req, res) => { const r = db.prepare('INSERT INTO investigations(name,owner,data) VALUES (?,?,?)').run(req.body?.name || 'untitled', req.user.username, JSON.stringify(req.body?.data || {})); res.json({ id: r.lastInsertRowid }); });
 app.get('/api/investigations/:id', (req, res) => { const r = db.prepare('SELECT * FROM investigations WHERE id=?').get(req.params.id); if (!r) return res.status(404).json({}); res.json({ ...r, data: JSON.parse(r.data) }); });
+app.use('/api', memosRouter(db, R, requireRole));
 // ---- admin
 app.get('/api/users', requireRole('admin'), (_q, res) => res.json(db.prepare('SELECT id,username,role,created_at,last_login FROM users').all()));
 app.post('/api/users', requireRole('admin'), (req, res) => { try { createUser(db, req.body.username, req.body.password, req.body.role); audit(req.user.username, 'user_create', req.body.username); res.json({ ok: true }); } catch (e) { res.status(400).json({ error: e.message }); } });
