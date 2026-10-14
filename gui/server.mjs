@@ -74,7 +74,7 @@ function seedCard(eid) {
     for (const t of JSON.parse(tc.travel || '[]')) T('travel', `${t.date} → ${t.end}: ${t.origin} → ${t.destination}, ${t.mode}; purpose ${t.purpose} [${t.source}, ${t.confidence}]`);
     T('notes', tc.summary);
     // deterministic synthetic identity docs + physical descriptors (fictional)
-    const h = [...eid].reduce((a, c) => (a * 31 + c.charCodeAt(0)) >>> 0, 7); const n = k => (h >> k) % 1000;
+    const h = [...eid].reduce((a, c) => (a * 31 + c.charCodeAt(0)) >>> 0, 7); const n = k => (h >>> k) % 1000;
     const pk = /Pakistan|Miram|Mir Ali|Bannu|Peshawar|Quetta|Bara|Dera/.test(tc.home_area + tc.pob);
     T('passport', pk ? `PK${String(1000000 + n(3) * 997).slice(0, 7)}X (fictional)` : `P0${String(1000000 + n(5) * 991).slice(0, 7)} (fictional; Afghan)`);
     T('cnic', pk ? `21${n(2) % 9}0${n(7)}-${String(n(4)).padStart(3, '0')}${n(1) % 10}${n(9) % 10}-${n(2) % 10} (fictional CNIC)` : `Tazkira 1399-${n(6)}-${n(8)} (fictional)`);
@@ -161,7 +161,7 @@ app.get('/api/hits', (req, res) => { // all accepted geolocation events across c
      (SELECT value FROM card_fields f WHERE f.entity_id=h.entity_id AND f.field='objective_name' AND f.status='accepted' ORDER BY id LIMIT 1) objective FROM card_hits h WHERE h.status='accepted' ${req.query.entity ? 'AND h.entity_id=@e' : ''} ORDER BY h.ts`).all({ e: req.query.entity });
   const last = {}; for (const r of rows) last[r.entity_id] = r.id;
   res.json({ type: 'FeatureCollection', features: rows.map(r => ({ type: 'Feature', geometry: { type: 'Point', coordinates: [r.lon, r.lat] }, properties: { ...r, is_last: last[r.entity_id] === r.id ? 1 : 0, source_label: r.citation, source_url: r.citation_url } })) }); });
-app.get('/api/maps', (_q, res) => res.json(has('map_sources') ? R.prepare('SELECT id, title, url, page_date, as_of_date, map_type, image_path, image_corners FROM map_sources ORDER BY page_date').all() : []));
+app.get('/api/maps', (_q, res) => res.json(has('map_sources') ? R.prepare('SELECT id, title, url, page_date, as_of_date, map_type, image_local AS image_path, image_corners FROM map_sources ORDER BY page_date').all() : []));
 // ---- targets / cards
 function ensureSeeded() { if (db.prepare("SELECT 1 FROM kv WHERE k='seeded:all'").get()) return;
   const ids = [...(has('target_cards') ? R.prepare('SELECT entity_id id FROM target_cards').all() : []), ...(has('profiles') ? R.prepare("SELECT DISTINCT entity_id id FROM profiles WHERE entity_id IS NOT NULL AND entity_id IN (SELECT id FROM entities WHERE kind='person' AND n_episodes>0)").all() : [])];
