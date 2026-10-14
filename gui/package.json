@@ -1,0 +1,4 @@
+{"name":"afpak-target-tracker","version":"0.1.0","private":true,"type":"module",
+ "description":"UNCLASSIFIED demo GUI over db/afpak.sqlite: layered event map, link chart and target baseball cards (podcast/document/UN/FBI real data + synthetic targets)",
+ "scripts":{"start":"node server.mjs","test":"node --test test/*.test.mjs"},
+ "engines":{"node":">=20"},"dependencies":{"better-sqlite3":"^11.7.0","express":"^4.21.2"}}

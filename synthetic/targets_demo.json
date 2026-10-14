@@ -1147,6 +1147,72 @@
    "entity": "T01",
    "name": "Hafiz Gul Zadran",
    "objective_name": "OBJECTIVE GRANITE",
+   "religion": "Sunni Islam (Deobandi)",
+   "bdl": "Walled compound, west of Khost bazaar, near the fuel station (fictional) — Khost",
+   "bdl_lat": 33.34,
+   "bdl_lon": 69.92081,
+   "addresses": [
+    {
+     "label": "Bed-down compound",
+     "place": "Khost",
+     "detail": "Walled compound, west of Khost bazaar, near the fuel station (fictional)",
+     "lat": 33.34,
+     "lon": 69.92081,
+     "precision_km": 0.3,
+     "since": "2025-02-17"
+    },
+    {
+     "label": "Family home",
+     "place": "Mir Ali",
+     "detail": "Village Spin (fictional)",
+     "lat": 32.98973,
+     "lon": 70.39126,
+     "precision_km": 1.0,
+     "since": "2024-03-02"
+    }
+   ],
+   "travel": [
+    {
+     "date": "2024-11-26",
+     "end": "2024-11-28",
+     "origin": "Khost",
+     "destination": "Bannu",
+     "mode": "road (Hilux)",
+     "purpose": "medical",
+     "source": "CDR trail",
+     "confidence": "low"
+    },
+    {
+     "date": "2025-02-27",
+     "end": "2025-03-09",
+     "origin": "Khost",
+     "destination": "Quetta",
+     "mode": "road, crossed at Chaman",
+     "purpose": "unknown",
+     "source": "social media",
+     "confidence": "medium"
+    },
+    {
+     "date": "2025-03-24",
+     "end": "2025-03-29",
+     "origin": "Khost",
+     "destination": "Gardez",
+     "mode": "bus",
+     "purpose": "meeting",
+     "source": "travel record",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-08-29",
+     "end": "2026-09-08",
+     "origin": "Khost",
+     "destination": "Gardez",
+     "mode": "road (Hilux)",
+     "purpose": "medical",
+     "source": "CDR trail",
+     "confidence": "high"
+    }
+   ],
    "kunyas": [
     "Abu Hafs Khosti",
     "Hafiz Sahib"
@@ -1184,6 +1250,61 @@
    "entity": "T02",
    "name": "Qari Nasrullah Mehsud",
    "objective_name": "OBJECTIVE BASALT",
+   "religion": "Sunni Islam (Deobandi)",
+   "bdl": "Walled compound, south of Bannu bazaar, near the main mosque (fictional) — Bannu",
+   "bdl_lat": 32.98905,
+   "bdl_lon": 70.60297,
+   "addresses": [
+    {
+     "label": "Bed-down compound",
+     "place": "Bannu",
+     "detail": "Walled compound, south of Bannu bazaar, near the main mosque (fictional)",
+     "lat": 32.98905,
+     "lon": 70.60297,
+     "precision_km": 0.3,
+     "since": "2024-08-06"
+    },
+    {
+     "label": "Family home",
+     "place": "Khost",
+     "detail": "Mohalla Sarai (fictional)",
+     "lat": 33.33931,
+     "lon": 69.92162,
+     "precision_km": 1.0,
+     "since": "2024-10-11"
+    },
+    {
+     "label": "Guesthouse / safe house",
+     "place": "Quetta",
+     "detail": "Village Spin (fictional)",
+     "lat": 30.18381,
+     "lon": 67.00135,
+     "precision_km": 1.0,
+     "since": "2024-04-27"
+    }
+   ],
+   "travel": [
+    {
+     "date": "2025-06-17",
+     "end": "2025-06-22",
+     "origin": "Bannu",
+     "destination": "Dubai",
+     "mode": "air",
+     "purpose": "family",
+     "source": "CDR trail",
+     "confidence": "low"
+    },
+    {
+     "date": "2025-07-26",
+     "end": "2025-08-01",
+     "origin": "Bannu",
+     "destination": "Peshawar",
+     "mode": "road (Hilux)",
+     "purpose": "medical",
+     "source": "social media",
+     "confidence": "high"
+    }
+   ],
    "kunyas": [
     "Abu Umar Waziristani",
     "Qari Sahib"
@@ -1220,6 +1341,62 @@
    "entity": "T03",
    "name": "Mawlawi Abdul Rashid Kharoti",
    "objective_name": "OBJECTIVE FELDSPAR",
+   "religion": "Sunni Islam (Deobandi)",
+   "bdl": "Walled compound, west of Kabul bazaar, near the bridge (fictional) — Kabul",
+   "bdl_lat": 34.52548,
+   "bdl_lon": 69.16911,
+   "addresses": [
+    {
+     "label": "Bed-down compound",
+     "place": "Kabul",
+     "detail": "Walled compound, west of Kabul bazaar, near the bridge (fictional)",
+     "lat": 34.52548,
+     "lon": 69.16911,
+     "precision_km": 0.3,
+     "since": "2022-08-19"
+    },
+    {
+     "label": "Guesthouse / safe house",
+     "place": "Gardez",
+     "detail": "Street Kotkai (fictional)",
+     "lat": 33.59877,
+     "lon": 69.22564,
+     "precision_km": 1.0,
+     "since": "2025-07-23"
+    }
+   ],
+   "travel": [
+    {
+     "date": "2025-04-24",
+     "end": "2025-05-01",
+     "origin": "Kabul",
+     "destination": "Dubai",
+     "mode": "air",
+     "purpose": "funds transfer",
+     "source": "travel record",
+     "confidence": "high"
+    },
+    {
+     "date": "2025-05-31",
+     "end": "2025-06-12",
+     "origin": "Kabul",
+     "destination": "Jalalabad",
+     "mode": "road, crossed at Torkham",
+     "purpose": "funds transfer",
+     "source": "CDR trail",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-04-28",
+     "end": "2026-05-08",
+     "origin": "Kabul",
+     "destination": "Miram Shah",
+     "mode": "road (Corolla)",
+     "purpose": "medical",
+     "source": "HUMINT",
+     "confidence": "medium"
+    }
+   ],
    "kunyas": [
     "Mawlawi Rashid"
    ],
@@ -1255,6 +1432,52 @@
    "entity": "T04",
    "name": "Haji Daud Wazir",
    "objective_name": "OBJECTIVE OBSIDIAN",
+   "religion": "Sunni Islam (Deobandi)",
+   "bdl": "Walled compound, north of Miram Shah bazaar, near the fuel station (fictional) — Miram Shah",
+   "bdl_lat": 33.00134,
+   "bdl_lon": 70.07297,
+   "addresses": [
+    {
+     "label": "Bed-down compound",
+     "place": "Miram Shah",
+     "detail": "Walled compound, north of Miram Shah bazaar, near the fuel station (fictional)",
+     "lat": 33.00134,
+     "lon": 70.07297,
+     "precision_km": 0.3,
+     "since": "2024-03-12"
+    },
+    {
+     "label": "Relative's compound",
+     "place": "Mir Ali",
+     "detail": "Qala Spin (fictional)",
+     "lat": 32.97483,
+     "lon": 70.38299,
+     "precision_km": 1.0,
+     "since": "2024-04-22"
+    }
+   ],
+   "travel": [
+    {
+     "date": "2024-10-26",
+     "end": "2024-10-31",
+     "origin": "Miram Shah",
+     "destination": "Mir Ali",
+     "mode": "road, crossed at Chaman",
+     "purpose": "medical",
+     "source": "travel record",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-04-03",
+     "end": "2026-04-10",
+     "origin": "Miram Shah",
+     "destination": "Jalalabad",
+     "mode": "road (Corolla)",
+     "purpose": "unknown",
+     "source": "CDR trail",
+     "confidence": "medium"
+    }
+   ],
    "kunyas": [
     "Haji Daud",
     "Daud Dawar"
@@ -1286,6 +1509,71 @@
    "entity": "T05",
    "name": "Engineer Sami ul-Haq Afridi",
    "objective_name": "OBJECTIVE QUARTZ",
+   "religion": "Sunni Islam (Deobandi)",
+   "bdl": "Walled compound, south of Bara bazaar, near the girls school (fictional) — Bara",
+   "bdl_lat": 33.9771,
+   "bdl_lon": 71.49238,
+   "addresses": [
+    {
+     "label": "Bed-down compound",
+     "place": "Bara",
+     "detail": "Walled compound, south of Bara bazaar, near the girls school (fictional)",
+     "lat": 33.9771,
+     "lon": 71.49238,
+     "precision_km": 0.3,
+     "since": "2024-09-05"
+    },
+    {
+     "label": "Guesthouse / safe house",
+     "place": "Bannu",
+     "detail": "Mohalla Loya (fictional)",
+     "lat": 32.98085,
+     "lon": 70.60451,
+     "precision_km": 1.0,
+     "since": "2023-07-12"
+    },
+    {
+     "label": "Family home",
+     "place": "Gardez",
+     "detail": "Qala Spin (fictional)",
+     "lat": 33.60078,
+     "lon": 69.22057,
+     "precision_km": 1.0,
+     "since": "2024-02-10"
+    }
+   ],
+   "travel": [
+    {
+     "date": "2024-06-09",
+     "end": "2024-06-14",
+     "origin": "Bara",
+     "destination": "Gardez",
+     "mode": "road, crossed at Torkham",
+     "purpose": "unknown",
+     "source": "HUMINT",
+     "confidence": "medium"
+    },
+    {
+     "date": "2024-12-04",
+     "end": "2024-12-05",
+     "origin": "Bara",
+     "destination": "Peshawar",
+     "mode": "road, crossed at Chaman",
+     "purpose": "shura attendance",
+     "source": "CDR trail",
+     "confidence": "medium"
+    },
+    {
+     "date": "2026-06-12",
+     "end": "2026-06-15",
+     "origin": "Bara",
+     "destination": "Bannu",
+     "mode": "road (Hilux)",
+     "purpose": "unknown",
+     "source": "travel record",
+     "confidence": "low"
+    }
+   ],
    "kunyas": [
     "Engineer Sami",
     "Abu Yahya"
@@ -1322,6 +1610,72 @@
    "entity": "T06",
    "name": "Rahimullah Jadran",
    "objective_name": "OBJECTIVE SLATE",
+   "religion": "Sunni Islam (Deobandi)",
+   "bdl": "Walled compound, north of Khost bazaar, near the hospital (fictional) — Khost",
+   "bdl_lat": 33.34464,
+   "bdl_lon": 69.92953,
+   "addresses": [
+    {
+     "label": "Bed-down compound",
+     "place": "Khost",
+     "detail": "Walled compound, north of Khost bazaar, near the hospital (fictional)",
+     "lat": 33.34464,
+     "lon": 69.92953,
+     "precision_km": 0.3,
+     "since": "2024-12-22"
+    },
+    {
+     "label": "Guesthouse / safe house",
+     "place": "Jalalabad",
+     "detail": "Street Loya (fictional)",
+     "lat": 34.42632,
+     "lon": 70.45601,
+     "precision_km": 1.0,
+     "since": "2025-08-07"
+    }
+   ],
+   "travel": [
+    {
+     "date": "2025-02-28",
+     "end": "2025-03-01",
+     "origin": "Khost",
+     "destination": "Jalalabad",
+     "mode": "road, crossed at Torkham",
+     "purpose": "shura attendance",
+     "source": "HUMINT",
+     "confidence": "medium"
+    },
+    {
+     "date": "2025-07-13",
+     "end": "2025-07-16",
+     "origin": "Khost",
+     "destination": "Miram Shah",
+     "mode": "road, crossed at Torkham",
+     "purpose": "medical",
+     "source": "CDR trail",
+     "confidence": "high"
+    },
+    {
+     "date": "2025-10-04",
+     "end": "2025-10-11",
+     "origin": "Khost",
+     "destination": "Jalalabad",
+     "mode": "road, crossed at Ghulam Khan",
+     "purpose": "unknown",
+     "source": "CDR trail",
+     "confidence": "medium"
+    },
+    {
+     "date": "2026-01-06",
+     "end": "2026-01-11",
+     "origin": "Khost",
+     "destination": "Dubai",
+     "mode": "air",
+     "purpose": "weapons procurement",
+     "source": "social media",
+     "confidence": "medium"
+    }
+   ],
    "kunyas": [
     "Rahim Jan"
    ],
@@ -1352,6 +1706,52 @@
    "entity": "T07",
    "name": "Zahir Shah Mangal",
    "objective_name": "OBJECTIVE MARBLE",
+   "religion": "Sunni Islam (Deobandi)",
+   "bdl": "Walled compound, west of Gardez bazaar, near the bridge (fictional) — Gardez",
+   "bdl_lat": 33.59743,
+   "bdl_lon": 69.22901,
+   "addresses": [
+    {
+     "label": "Bed-down compound",
+     "place": "Gardez",
+     "detail": "Walled compound, west of Gardez bazaar, near the bridge (fictional)",
+     "lat": 33.59743,
+     "lon": 69.22901,
+     "precision_km": 0.3,
+     "since": "2023-03-11"
+    },
+    {
+     "label": "Guesthouse / safe house",
+     "place": "Kabul",
+     "detail": "Street Spin (fictional)",
+     "lat": 34.53549,
+     "lon": 69.17231,
+     "precision_km": 1.0,
+     "since": "2023-03-12"
+    }
+   ],
+   "travel": [
+    {
+     "date": "2025-03-06",
+     "end": "2025-03-09",
+     "origin": "Gardez",
+     "destination": "Kabul",
+     "mode": "road, crossed at Chaman",
+     "purpose": "family",
+     "source": "CDR trail",
+     "confidence": "medium"
+    },
+    {
+     "date": "2025-09-06",
+     "end": "2025-09-16",
+     "origin": "Gardez",
+     "destination": "Miram Shah",
+     "mode": "road, crossed at Ghulam Khan",
+     "purpose": "family",
+     "source": "CDR trail",
+     "confidence": "medium"
+    }
+   ],
    "kunyas": [
     "Zahir Mangal",
     "Haji Zahir"
@@ -1382,6 +1782,61 @@
    "entity": "T08",
    "name": "Noor Alam Shinwari",
    "objective_name": "OBJECTIVE PYRITE",
+   "religion": "Sunni Islam (Salafi)",
+   "bdl": "Walled compound, north of Jalalabad bazaar, near the girls school (fictional) — Jalalabad",
+   "bdl_lat": 34.42714,
+   "bdl_lon": 70.45099,
+   "addresses": [
+    {
+     "label": "Bed-down compound",
+     "place": "Jalalabad",
+     "detail": "Walled compound, north of Jalalabad bazaar, near the girls school (fictional)",
+     "lat": 34.42714,
+     "lon": 70.45099,
+     "precision_km": 0.3,
+     "since": "2022-10-26"
+    },
+    {
+     "label": "Family home",
+     "place": "Peshawar",
+     "detail": "Qala Sarai (fictional)",
+     "lat": 34.00693,
+     "lon": 71.58445,
+     "precision_km": 1.0,
+     "since": "2025-08-18"
+    },
+    {
+     "label": "Guesthouse / safe house",
+     "place": "Kabul",
+     "detail": "Qala Tor (fictional)",
+     "lat": 34.52796,
+     "lon": 69.17322,
+     "precision_km": 1.0,
+     "since": "2023-09-09"
+    }
+   ],
+   "travel": [
+    {
+     "date": "2025-07-17",
+     "end": "2025-07-22",
+     "origin": "Jalalabad",
+     "destination": "Gardez",
+     "mode": "road, crossed at Chaman",
+     "purpose": "family",
+     "source": "travel record",
+     "confidence": "medium"
+    },
+    {
+     "date": "2026-02-25",
+     "end": "2026-03-06",
+     "origin": "Jalalabad",
+     "destination": "Peshawar",
+     "mode": "road (Hilux)",
+     "purpose": "family",
+     "source": "HUMINT",
+     "confidence": "high"
+    }
+   ],
    "kunyas": [
     "Abu Talha Khorasani",
     "Noor Alam"
@@ -1417,6 +1872,72 @@
    "entity": "T09",
    "name": "Shams ud-Din Dawar",
    "objective_name": "OBJECTIVE TOPAZ",
+   "religion": "Sunni Islam (Deobandi)",
+   "bdl": "Walled compound, west of Mir Ali bazaar, near the girls school (fictional) — Mir Ali",
+   "bdl_lat": 32.99167,
+   "bdl_lon": 70.38327,
+   "addresses": [
+    {
+     "label": "Bed-down compound",
+     "place": "Mir Ali",
+     "detail": "Walled compound, west of Mir Ali bazaar, near the girls school (fictional)",
+     "lat": 32.99167,
+     "lon": 70.38327,
+     "precision_km": 0.3,
+     "since": "2022-11-27"
+    },
+    {
+     "label": "Shop / business",
+     "place": "Quetta",
+     "detail": "Qala Loya (fictional)",
+     "lat": 30.18401,
+     "lon": 67.00145,
+     "precision_km": 1.0,
+     "since": "2025-07-14"
+    }
+   ],
+   "travel": [
+    {
+     "date": "2025-10-11",
+     "end": "2025-10-19",
+     "origin": "Mir Ali",
+     "destination": "Jalalabad",
+     "mode": "bus",
+     "purpose": "family",
+     "source": "travel record",
+     "confidence": "high"
+    },
+    {
+     "date": "2025-12-09",
+     "end": "2025-12-10",
+     "origin": "Mir Ali",
+     "destination": "Miram Shah",
+     "mode": "road, crossed at Ghulam Khan",
+     "purpose": "funds transfer",
+     "source": "social media",
+     "confidence": "low"
+    },
+    {
+     "date": "2026-01-13",
+     "end": "2026-01-14",
+     "origin": "Mir Ali",
+     "destination": "Miram Shah",
+     "mode": "bus",
+     "purpose": "unknown",
+     "source": "social media",
+     "confidence": "medium"
+    },
+    {
+     "date": "2026-04-07",
+     "end": "2026-04-11",
+     "origin": "Mir Ali",
+     "destination": "Quetta",
+     "mode": "road, crossed at Ghulam Khan",
+     "purpose": "shura attendance",
+     "source": "travel record",
+     "confidence": "medium"
+    }
+   ],
    "kunyas": [
     "Shamsuddin",
     "Shams Mir Ali"
@@ -1448,6 +1969,61 @@
    "entity": "T10",
    "name": "Bilal Ahmad Zadran",
    "objective_name": "OBJECTIVE AGATE",
+   "religion": "Sunni Islam (Deobandi)",
+   "bdl": "Walled compound, east of Khost bazaar, near the hospital (fictional) — Khost",
+   "bdl_lat": 33.33492,
+   "bdl_lon": 69.92791,
+   "addresses": [
+    {
+     "label": "Bed-down compound",
+     "place": "Khost",
+     "detail": "Walled compound, east of Khost bazaar, near the hospital (fictional)",
+     "lat": 33.33492,
+     "lon": 69.92791,
+     "precision_km": 0.3,
+     "since": "2022-05-06"
+    },
+    {
+     "label": "Family home",
+     "place": "Peshawar",
+     "detail": "Mohalla Loya (fictional)",
+     "lat": 34.00694,
+     "lon": 71.58298,
+     "precision_km": 1.0,
+     "since": "2023-06-26"
+    },
+    {
+     "label": "Relative's compound",
+     "place": "Miram Shah",
+     "detail": "Street Sarai (fictional)",
+     "lat": 33.00114,
+     "lon": 70.0745,
+     "precision_km": 1.0,
+     "since": "2024-08-27"
+    }
+   ],
+   "travel": [
+    {
+     "date": "2026-07-12",
+     "end": "2026-07-14",
+     "origin": "Khost",
+     "destination": "Peshawar",
+     "mode": "bus",
+     "purpose": "family",
+     "source": "CDR trail",
+     "confidence": "low"
+    },
+    {
+     "date": "2026-08-09",
+     "end": "2026-08-11",
+     "origin": "Khost",
+     "destination": "Gardez",
+     "mode": "road, crossed at Ghulam Khan",
+     "purpose": "family",
+     "source": "social media",
+     "confidence": "medium"
+    }
+   ],
    "kunyas": [
     "Bilal Khosti"
    ],
@@ -1477,6 +2053,61 @@
    "entity": "T11",
    "name": "Mohammad Nabi Hawaladar",
    "objective_name": "OBJECTIVE JASPER",
+   "religion": "Sunni Islam (Deobandi)",
+   "bdl": "Walled compound, east of Kabul bazaar, near the fuel station (fictional) — Kabul",
+   "bdl_lat": 34.52738,
+   "bdl_lon": 69.17592,
+   "addresses": [
+    {
+     "label": "Bed-down compound",
+     "place": "Kabul",
+     "detail": "Walled compound, east of Kabul bazaar, near the fuel station (fictional)",
+     "lat": 34.52738,
+     "lon": 69.17592,
+     "precision_km": 0.3,
+     "since": "2022-01-01"
+    },
+    {
+     "label": "Guesthouse / safe house",
+     "place": "Quetta",
+     "detail": "Mohalla Kotkai (fictional)",
+     "lat": 30.18477,
+     "lon": 66.99784,
+     "precision_km": 1.0,
+     "since": "2025-12-18"
+    },
+    {
+     "label": "Shop / business",
+     "place": "Mir Ali",
+     "detail": "Qala Sarai (fictional)",
+     "lat": 32.9919,
+     "lon": 70.38856,
+     "precision_km": 1.0,
+     "since": "2023-03-09"
+    }
+   ],
+   "travel": [
+    {
+     "date": "2025-09-29",
+     "end": "2025-10-06",
+     "origin": "Kabul",
+     "destination": "Dubai",
+     "mode": "air",
+     "purpose": "medical",
+     "source": "travel record",
+     "confidence": "medium"
+    },
+    {
+     "date": "2026-05-14",
+     "end": "2026-05-16",
+     "origin": "Kabul",
+     "destination": "Doha",
+     "mode": "air",
+     "purpose": "meeting",
+     "source": "HUMINT",
+     "confidence": "medium"
+    }
+   ],
    "kunyas": [
     "Nabi Sarraf",
     "Haji Nabi"
@@ -1508,6 +2139,62 @@
    "entity": "T12",
    "name": "Abdul Wakil Achakzai",
    "objective_name": "OBJECTIVE ONYX",
+   "religion": "Sunni Islam (Deobandi)",
+   "bdl": "Walled compound, south of Quetta bazaar, near the hospital (fictional) — Quetta",
+   "bdl_lat": 30.18269,
+   "bdl_lon": 66.99787,
+   "addresses": [
+    {
+     "label": "Bed-down compound",
+     "place": "Quetta",
+     "detail": "Walled compound, south of Quetta bazaar, near the hospital (fictional)",
+     "lat": 30.18269,
+     "lon": 66.99787,
+     "precision_km": 0.3,
+     "since": "2024-10-28"
+    },
+    {
+     "label": "Relative's compound",
+     "place": "Peshawar",
+     "detail": "Village Tor (fictional)",
+     "lat": 34.00886,
+     "lon": 71.57432,
+     "precision_km": 1.0,
+     "since": "2024-07-25"
+    }
+   ],
+   "travel": [
+    {
+     "date": "2024-06-25",
+     "end": "2024-06-26",
+     "origin": "Quetta",
+     "destination": "Miram Shah",
+     "mode": "road (Hilux)",
+     "purpose": "meeting",
+     "source": "travel record",
+     "confidence": "high"
+    },
+    {
+     "date": "2025-09-10",
+     "end": "2025-09-17",
+     "origin": "Quetta",
+     "destination": "Miram Shah",
+     "mode": "road, crossed at Ghulam Khan",
+     "purpose": "family",
+     "source": "CDR trail",
+     "confidence": "medium"
+    },
+    {
+     "date": "2026-02-24",
+     "end": "2026-03-03",
+     "origin": "Quetta",
+     "destination": "Miram Shah",
+     "mode": "road, crossed at Torkham",
+     "purpose": "meeting",
+     "source": "travel record",
+     "confidence": "medium"
+    }
+   ],
    "kunyas": [
     "Wakil Agha"
    ],
@@ -1537,6 +2224,71 @@
    "entity": "T13",
    "name": "Ihsanullah Tanai",
    "objective_name": "OBJECTIVE CORUNDUM",
+   "religion": "Sunni Islam (Deobandi)",
+   "bdl": "Walled compound, north of Tani bazaar, near the main mosque (fictional) — Tani",
+   "bdl_lat": 33.17281,
+   "bdl_lon": 69.75283,
+   "addresses": [
+    {
+     "label": "Bed-down compound",
+     "place": "Tani",
+     "detail": "Walled compound, north of Tani bazaar, near the main mosque (fictional)",
+     "lat": 33.17281,
+     "lon": 69.75283,
+     "precision_km": 0.3,
+     "since": "2024-05-12"
+    },
+    {
+     "label": "Family home",
+     "place": "Khost",
+     "detail": "Qala Loya (fictional)",
+     "lat": 33.33874,
+     "lon": 69.92856,
+     "precision_km": 1.0,
+     "since": "2025-11-04"
+    },
+    {
+     "label": "Shop / business",
+     "place": "Bannu",
+     "detail": "Village Tor (fictional)",
+     "lat": 32.98282,
+     "lon": 70.60443,
+     "precision_km": 1.0,
+     "since": "2025-09-06"
+    }
+   ],
+   "travel": [
+    {
+     "date": "2024-07-18",
+     "end": "2024-07-26",
+     "origin": "Tani",
+     "destination": "Bannu",
+     "mode": "road, crossed at Chaman",
+     "purpose": "shura attendance",
+     "source": "HUMINT",
+     "confidence": "medium"
+    },
+    {
+     "date": "2024-07-19",
+     "end": "2024-07-25",
+     "origin": "Tani",
+     "destination": "Gardez",
+     "mode": "road, crossed at Torkham",
+     "purpose": "funds transfer",
+     "source": "HUMINT",
+     "confidence": "high"
+    },
+    {
+     "date": "2025-06-06",
+     "end": "2025-06-08",
+     "origin": "Tani",
+     "destination": "Bannu",
+     "mode": "road (Hilux)",
+     "purpose": "family",
+     "source": "CDR trail",
+     "confidence": "low"
+    }
+   ],
    "kunyas": [
     "Ihsan Tanai",
     "Abu Bakr Tani"
@@ -1567,6 +2319,81 @@
    "entity": "T14",
    "name": "Sher Zaman Burki",
    "objective_name": "OBJECTIVE GARNET",
+   "religion": "Sunni Islam (Deobandi)",
+   "bdl": "Walled compound, west of Dera Ismail Khan bazaar, near the girls school (fictional) — Dera Ismail Khan",
+   "bdl_lat": 31.85902,
+   "bdl_lon": 70.64958,
+   "addresses": [
+    {
+     "label": "Bed-down compound",
+     "place": "Dera Ismail Khan",
+     "detail": "Walled compound, west of Dera Ismail Khan bazaar, near the girls school (fictional)",
+     "lat": 31.85902,
+     "lon": 70.64958,
+     "precision_km": 0.3,
+     "since": "2022-03-13"
+    },
+    {
+     "label": "Shop / business",
+     "place": "Khost",
+     "detail": "Qala Spin (fictional)",
+     "lat": 33.33858,
+     "lon": 69.9073,
+     "precision_km": 1.0,
+     "since": "2024-06-14"
+    },
+    {
+     "label": "Relative's compound",
+     "place": "Mir Ali",
+     "detail": "Village Kotkai (fictional)",
+     "lat": 32.99563,
+     "lon": 70.3823,
+     "precision_km": 1.0,
+     "since": "2023-10-28"
+    }
+   ],
+   "travel": [
+    {
+     "date": "2024-12-11",
+     "end": "2024-12-21",
+     "origin": "Dera Ismail Khan",
+     "destination": "Kabul",
+     "mode": "road, crossed at Chaman",
+     "purpose": "shura attendance",
+     "source": "travel record",
+     "confidence": "medium"
+    },
+    {
+     "date": "2025-06-28",
+     "end": "2025-07-01",
+     "origin": "Dera Ismail Khan",
+     "destination": "Kabul",
+     "mode": "bus",
+     "purpose": "unknown",
+     "source": "HUMINT",
+     "confidence": "medium"
+    },
+    {
+     "date": "2025-11-13",
+     "end": "2025-11-21",
+     "origin": "Dera Ismail Khan",
+     "destination": "Mir Ali",
+     "mode": "road (Hilux)",
+     "purpose": "medical",
+     "source": "HUMINT",
+     "confidence": "medium"
+    },
+    {
+     "date": "2026-08-03",
+     "end": "2026-08-12",
+     "origin": "Dera Ismail Khan",
+     "destination": "Kabul",
+     "mode": "bus",
+     "purpose": "shura attendance",
+     "source": "HUMINT",
+     "confidence": "low"
+    }
+   ],
    "kunyas": [
     "Sher Zaman"
    ],

@@ -274,7 +274,23 @@ def main():
     for d, pl, grp, desc, actors in ATT:
         lat, lon = jitter(*G[pl][:2], 1.5)
         attacks.append(dict(date=d, date_precision="day", type="attack", description=f"SYNTHETIC: {desc}", place=pl, actors=[tmap[a]["name"] for a in actors] + [grp], timestamp="000:00", lat=lat, lon=lon, precision_km=1.5, group=grp))
-    cards = [dict(entity=t["id"], name=t["name"], objective_name=t["objective"], kunyas=t["kunyas"], name_variants=t["variants"], tribe=t["tribe"], sub_tribe=t["sub_tribe"], network=t["network"],
+    RELIGION = {"T08": "Sunni Islam (Salafi)"}
+    def extras(t):
+        lat0, lon0, _ = G[t["home"]]
+        bl, bo = jitter(lat0, lon0, 2.0)
+        alt = [p for p in ["Miram Shah", "Gardez", "Peshawar", "Kabul", "Bannu", "Khost", "Quetta", "Jalalabad", "Mir Ali", "Dubai"] if p != t["home"]]
+        rng.shuffle(alt)
+        addresses = [dict(label="Bed-down compound", place=t["home"], detail=f"Walled compound, {rng.choice(['north','south','east','west'])} of {t['home']} bazaar, near {rng.choice(['the girls school','the main mosque','the fuel station','the hospital','the bridge'])} (fictional)", lat=bl, lon=bo, precision_km=0.3, since=str(rand_date("2022-01-01", "2025-06-01")))]
+        for pl in alt[:rng.randint(1, 2)]:
+            la, lo = jitter(*G[pl][:2], 2.5)
+            addresses.append(dict(label=rng.choice(["Family home", "Guesthouse / safe house", "Shop / business", "Relative's compound"]), place=pl, detail=f"{rng.choice(['Mohalla','Village','Street','Qala'])} {rng.choice(['Spin','Tor','Loya','Kotkai','Sarai'])} (fictional)", lat=la, lon=lo, precision_km=1.0, since=str(rand_date("2023-01-01", "2026-01-01"))))
+        trips = []
+        for _ in range(rng.randint(2, 4)):
+            d1 = rand_date("2024-06-01", "2026-09-01"); dest = rng.choice(alt[:4] + (["Dubai", "Doha"] if t["id"] in ("T03", "T11") else []))
+            mode = "air" if dest in ("Dubai", "Doha") else rng.choice(["road (Corolla)", "road (Hilux)", "bus", "road, crossed at Ghulam Khan", "road, crossed at Torkham", "road, crossed at Chaman"])
+            trips.append(dict(date=str(d1), end=str(d1 + dt.timedelta(days=rng.randint(1, 12))), origin=t["home"], destination=dest, mode=mode, purpose=rng.choice(["meeting", "funds transfer", "family", "medical", "weapons procurement", "shura attendance", "unknown"]), source=rng.choice(["travel record", "CDR trail", "HUMINT", "social media"]), confidence=rng.choice(["high", "medium", "low"])))
+        return dict(religion=RELIGION.get(t["id"], "Sunni Islam (Deobandi)"), bdl=f"{addresses[0]['detail']} — {t['home']}", bdl_lat=bl, bdl_lon=bo, addresses=addresses, travel=sorted(trips, key=lambda x: x["date"]))
+    cards = [dict(entity=t["id"], name=t["name"], objective_name=t["objective"], **extras(t), kunyas=t["kunyas"], name_variants=t["variants"], tribe=t["tribe"], sub_tribe=t["sub_tribe"], network=t["network"],
                   role_current=t["role"], role_history=t["role_history"], priority=t["priority"], status=t["status"], dob=t["dob"], pob=t["pob"], home_area=t["home"], summary=t["summary"], dataset="synthetic") for t in TARGETS]
     out = dict(scenario_kind="targets", episode={"idx": None, "title": "SYNTHETIC: target-tracking demo — Khost/Waziristan attack network", "published": "2026-10-12"},
                persons=persons, organizations=[], places=[{"name": p, "type": "populated place", "country": "Afghanistan" if G[p][0] > 0 else ""} for p in sorted({t["home"] for t in TARGETS})],

@@ -29,7 +29,7 @@ CREATE TABLE events(id INTEGER PRIMARY KEY AUTOINCREMENT, date TEXT, date_precis
 CREATE TABLE event_geo(event_id INTEGER PRIMARY KEY, lat REAL, lon REAL, precision_km REAL, method TEXT, dataset TEXT DEFAULT 'real');
 CREATE TABLE sites(id INTEGER PRIMARY KEY AUTOINCREMENT, name TEXT, kind TEXT, operator TEXT, status TEXT, place TEXT, lat REAL, lon REAL, precision_km REAL, verified INTEGER DEFAULT 0, source TEXT, note TEXT, dataset TEXT DEFAULT 'real');
 CREATE TABLE target_cards(entity_id TEXT PRIMARY KEY, objective_name TEXT, kunyas TEXT, name_variants TEXT, tribe TEXT, sub_tribe TEXT, network TEXT, role_current TEXT, role_history TEXT,
-  priority TEXT, status TEXT, dob TEXT, pob TEXT, home_area TEXT, summary TEXT, last_hit_id INTEGER, dataset TEXT DEFAULT 'synthetic');
+  priority TEXT, status TEXT, dob TEXT, pob TEXT, home_area TEXT, summary TEXT, religion TEXT, bdl TEXT, bdl_lat REAL, bdl_lon REAL, addresses TEXT, travel TEXT, last_hit_id INTEGER, dataset TEXT DEFAULT 'synthetic');
 CREATE TABLE selectors(id TEXT PRIMARY KEY, entity_id TEXT, kind TEXT, value TEXT, label TEXT, provider TEXT, platform TEXT, country TEXT, first_seen TEXT, last_seen TEXT, confidence TEXT, dataset TEXT DEFAULT 'synthetic');
 CREATE TABLE selector_links(a_id TEXT, b_id TEXT, relation TEXT, evidence TEXT, confidence TEXT, dataset TEXT DEFAULT 'synthetic', PRIMARY KEY(a_id, b_id, relation));
 CREATE TABLE location_hits(id INTEGER PRIMARY KEY AUTOINCREMENT, entity_id TEXT, selector_id TEXT, kind TEXT, ts TEXT, lat REAL, lon REAL, precision_km REAL, place TEXT, detail TEXT, confidence TEXT, dataset TEXT DEFAULT 'synthetic');
@@ -133,9 +133,10 @@ def load_targets(con, ents, files):
         for c in d.get("target_cards", []):
             i = byname[c["entity"]]
             if i not in ents: continue
-            con.execute("""INSERT OR REPLACE INTO target_cards(entity_id,objective_name,kunyas,name_variants,tribe,sub_tribe,network,role_current,role_history,priority,status,dob,pob,home_area,summary,dataset)
-                           VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)""", (i, c.get("objective_name"), json.dumps(c.get("kunyas", [])), json.dumps(c.get("name_variants", [])), c.get("tribe"), c.get("sub_tribe"), c.get("network"),
-                        c.get("role_current"), json.dumps(c.get("role_history", [])), c.get("priority"), c.get("status"), c.get("dob"), c.get("pob"), c.get("home_area"), c.get("summary"), "synthetic"))
+            con.execute("""INSERT OR REPLACE INTO target_cards(entity_id,objective_name,kunyas,name_variants,tribe,sub_tribe,network,role_current,role_history,priority,status,dob,pob,home_area,summary,religion,bdl,bdl_lat,bdl_lon,addresses,travel,dataset)
+                           VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)""", (i, c.get("objective_name"), json.dumps(c.get("kunyas", [])), json.dumps(c.get("name_variants", [])), c.get("tribe"), c.get("sub_tribe"), c.get("network"),
+                        c.get("role_current"), json.dumps(c.get("role_history", [])), c.get("priority"), c.get("status"), c.get("dob"), c.get("pob"), c.get("home_area"), c.get("summary"),
+                        c.get("religion"), c.get("bdl"), c.get("bdl_lat"), c.get("bdl_lon"), json.dumps(c.get("addresses", []), ensure_ascii=False), json.dumps(c.get("travel", []), ensure_ascii=False), "synthetic"))
         for sel in d.get("selectors", []):
             i = byname.get(sel["entity"])
             if not i: continue
@@ -152,11 +153,15 @@ def load_targets(con, ents, files):
         for (sid_,) in con.execute("SELECT id FROM selectors").fetchall():
             con.execute("UPDATE selectors SET last_seen=(SELECT max(ts) FROM location_hits WHERE selector_id=?) WHERE id=? AND last_seen IS NULL", (sid_, sid_))
 
+EXPORTS = f"{ROOT}/db/exports"
+
 def main():
-    ap = argparse.ArgumentParser(); ap.add_argument("--synthetic", nargs="*", default=[]); ap.add_argument("--no-isw", action="store_true"); a = ap.parse_args()
+    ap = argparse.ArgumentParser(); ap.add_argument("--synthetic", nargs="*", default=[]); ap.add_argument("--no-isw", action="store_true"); ap.add_argument("--db", default=None, help="write to this sqlite path (exports go to <path>_exports/) instead of db/afpak.sqlite"); a = ap.parse_args()
     R = Resolver()
-    os.makedirs(f"{ROOT}/db/exports", exist_ok=True)
-    dbp = f"{ROOT}/db/afpak.sqlite"
+    global EXPORTS
+    dbp = os.path.abspath(a.db) if a.db else f"{ROOT}/db/afpak.sqlite"
+    EXPORTS = (dbp[:-7] if dbp.endswith(".sqlite") else dbp) + "_exports" if a.db else f"{ROOT}/db/exports"
+    os.makedirs(EXPORTS, exist_ok=True)
     if os.path.exists(dbp): os.remove(dbp)
     con = sqlite3.connect(dbp); con.executescript(DDL)
     eps = {e["idx"]: e for e in json.load(open(f"{ROOT}/raw/episodes_afpak.json"))} if os.path.exists(f"{ROOT}/raw/episodes_afpak.json") else {}
@@ -279,7 +284,7 @@ def main():
     # exports
     def dump(q, name):
         cur = con.execute(q); cols = [c[0] for c in cur.description]; rows = cur.fetchall()
-        with open(f"{ROOT}/db/exports/{name}.csv", "w", newline="") as fh:
+        with open(f"{EXPORTS}/{name}.csv", "w", newline="") as fh:
             w = csv.writer(fh); w.writerow(cols); w.writerows(rows)
         return cols, rows
     dump("SELECT * FROM entities ORDER BY kind, n_episodes DESC, name", "entities")
@@ -289,7 +294,7 @@ def main():
     dump("SELECT h.*, e.name AS entity_name FROM location_hits h JOIN entities e ON e.id=h.entity_id ORDER BY e.name, h.ts", "location_hits")
     def geojson(q, name, props):
         feats = [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [r[1], r[0]]}, "properties": dict(zip(props, r[2:]))} for r in con.execute(q) if r[0] is not None]
-        json.dump({"type": "FeatureCollection", "features": feats}, open(f"{ROOT}/db/exports/{name}.geojson", "w"), ensure_ascii=False)
+        json.dump({"type": "FeatureCollection", "features": feats}, open(f"{EXPORTS}/{name}.geojson", "w"), ensure_ascii=False)
     geojson("SELECT lat,lon,id,name,kind,operator,status,place,precision_km,verified,note,dataset FROM sites", "sites", ["id","name","kind","operator","status","place","precision_km","verified","note","dataset"])
     geojson("SELECT h.lat,h.lon,h.id,h.entity_id,e.name,h.kind,h.ts,h.precision_km,h.place,h.detail,h.confidence,h.selector_id,h.dataset FROM location_hits h JOIN entities e ON e.id=h.entity_id", "location_hits",
             ["id","entity_id","name","kind","ts","precision_km","place","detail","confidence","selector_id","dataset"])
@@ -299,11 +304,12 @@ def main():
                 FROM events ev JOIN event_geo g ON g.event_id=ev.id""", "event_points", ["id","date","type","description","place","precision_km","dataset","source","actors","groups"])
     cards = []
     for r in con.execute("""SELECT c.entity_id,e.name,c.objective_name,c.kunyas,c.name_variants,c.tribe,c.sub_tribe,c.network,c.role_current,c.role_history,c.priority,c.status,c.dob,c.pob,c.home_area,c.summary,c.dataset,
-                               h.kind,h.ts,h.lat,h.lon,h.precision_km,h.place,h.detail FROM target_cards c JOIN entities e ON e.id=c.entity_id LEFT JOIN location_hits h ON h.id=c.last_hit_id"""):
+                               h.kind,h.ts,h.lat,h.lon,h.precision_km,h.place,h.detail,c.religion,c.bdl,c.bdl_lat,c.bdl_lon,c.addresses,c.travel FROM target_cards c JOIN entities e ON e.id=c.entity_id LEFT JOIN location_hits h ON h.id=c.last_hit_id"""):
         eid_ = r[0]
         cards.append(dict(entity_id=eid_, name=r[1], objective_name=r[2], kunyas=json.loads(r[3] or "[]"), name_variants=json.loads(r[4] or "[]"), tribe=r[5], sub_tribe=r[6], network=r[7], role_current=r[8],
                           role_history=json.loads(r[9] or "[]"), priority=r[10], status=r[11], dob=r[12], pob=r[13], home_area=r[14], summary=r[15], dataset=r[16],
                           last_known_location=dict(kind=r[17], ts=r[18], lat=r[19], lon=r[20], precision_km=r[21], place=r[22], detail=r[23]) if r[18] else None,
+                          religion=r[24], bdl=r[25], bdl_lat=r[26], bdl_lon=r[27], addresses=json.loads(r[28] or "[]"), travel=json.loads(r[29] or "[]"),
                           aliases=[a for (a,) in con.execute("SELECT alias FROM aliases WHERE entity_id=?", (eid_,))],
                           family=[dict(type=t, name=n) for (t, n) in con.execute("SELECT r.type, x.name FROM relationships r JOIN entities x ON x.id=CASE WHEN r.source_id=? THEN r.target_id ELSE r.source_id END WHERE (r.source_id=? OR r.target_id=?) AND r.type LIKE '%_of'", (eid_, eid_, eid_))],
                           selectors=[dict(id=a, kind=b, value=c, label=d, provider=p, platform=pl, country=cc, first_seen=fs, last_seen=ls, confidence=cf) for (a, b, c, d, p, pl, cc, fs, ls, cf) in
@@ -312,7 +318,7 @@ def main():
                                         con.execute("SELECT l.a_id,l.b_id,l.relation,l.evidence,l.confidence FROM selector_links l WHERE l.a_id IN (SELECT id FROM selectors WHERE entity_id=?) OR l.b_id IN (SELECT id FROM selectors WHERE entity_id=?)", (eid_, eid_))],
                           location_hits=[dict(kind=k, ts=t, lat=la, lon=lo, precision_km=pr, place=pl, detail=de, confidence=cf, selector_id=sl) for (k, t, la, lo, pr, pl, de, cf, sl) in
                                          con.execute("SELECT kind,ts,lat,lon,precision_km,place,detail,confidence,selector_id FROM location_hits WHERE entity_id=? ORDER BY ts DESC", (eid_,))]))
-    json.dump(cards, open(f"{ROOT}/db/exports/target_cards.json", "w"), indent=1, ensure_ascii=False)
+    json.dump(cards, open(f"{EXPORTS}/target_cards.json", "w"), indent=1, ensure_ascii=False)
     dump("SELECT p.*, e.name AS entity_name FROM profiles p LEFT JOIN entities e ON e.id=p.entity_id ORDER BY p.source, p.reference", "profiles")
     dump("""SELECT r.id, s.name AS source, s.kind AS source_kind, r.type, t.name AS target, t.kind AS target_kind, r.detail, r.date, r.confidence,
             r.episode_idx, r.doc_id, COALESCE(e.title, d.title) AS source_title, COALESCE(e.published, d.published) AS published, r.timestamp, r.quote, r.dataset, r.source
@@ -334,7 +340,7 @@ def main():
         edges.append(dict(source=r[0], target=r[1], type=r[2], n=r[3], episodes=[int(x) for x in str(r[4] or "").split(",") if x not in ("", "None")], documents=docs_list(r[7]), confidence=r[5], detail=r[6], sources=sorted(set(r[8].split(",")))))
     for r in con.execute("SELECT entity_id, org_id, count(DISTINCT episode_idx)+count(DISTINCT NULLIF(doc_id,'')), group_concat(DISTINCT episode_idx), group_concat(DISTINCT NULLIF(doc_id,'')) FROM memberships GROUP BY entity_id, org_id"):
         edges.append(dict(source=r[0], target=r[1], type="member_of", n=r[2], episodes=[int(x) for x in str(r[3] or "").split(",") if x not in ("", "None")], documents=docs_list(r[4]), confidence="stated", detail=None))
-    json.dump({"nodes": nodes, "edges": edges}, open(f"{ROOT}/db/exports/graph.json", "w"), indent=0, ensure_ascii=False)
+    json.dump({"nodes": nodes, "edges": edges}, open(f"{EXPORTS}/graph.json", "w"), indent=0, ensure_ascii=False)
     if os.path.isdir(f"{ROOT}/isw/maps") and not a.no_isw: export_isw(con, f"{ROOT}/db/exports")
     n = {k: con.execute(f"SELECT count(*) FROM {k}").fetchone()[0] for k in ["episodes","documents","entities","aliases","relationships","events","mentions","memberships","profiles"]}
     if not a.no_isw: n.update({k: con.execute(f"SELECT count(*) FROM {k}").fetchone()[0] for k in ["map_sources","map_plots","place_coords"]})

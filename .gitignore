@@ -3,3 +3,6 @@ audio/
 *.wav
 __pycache__/
 .DS_Store
+db/afpak_demo*
+gui/node_modules/
+gui/data/
