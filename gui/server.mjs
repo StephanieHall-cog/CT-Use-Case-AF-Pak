@@ -219,6 +219,11 @@ if (!db.prepare("SELECT 1 FROM kv WHERE k='fix:seed-dates4'").get()) {
     for (const p of has('profiles') ? R.prepare('SELECT * FROM profiles WHERE entity_id=?').all(entity_id) : []) { const d = ((p.last_updated ? p.last_updated.split(';').pop().trim() : p.listed_on) || '').slice(0, 10);
       if (d) db.prepare("UPDATE card_fields SET cit_date=? WHERE entity_id=? AND proposed_by='seed' AND cit_src=? AND (citation LIKE ? OR cit_date=substr(edited_at,1,10))").run(d, entity_id, p.source === 'un_1988' ? 'UNS' : 'FBI', `%${p.reference}%`); } }
   db.prepare("INSERT INTO kv VALUES('fix:seed-dates4',datetime('now'))").run(); }
+// one-off: cards seeded before the photo field existed get their FBI profile photo (cited to the FBI record)
+if (!db.prepare("SELECT 1 FROM kv WHERE k='fix:seed-photos'").get()) { const carded = new Set(db.prepare('SELECT DISTINCT entity_id FROM card_fields').all().map(x => x.entity_id));
+  if (has('profiles')) for (const p of R.prepare("SELECT * FROM profiles WHERE photo_url IS NOT NULL AND photo_url!=''").all().filter(p => carded.has(p.entity_id)))
+    if (!db.prepare("SELECT 1 FROM card_fields WHERE entity_id=? AND field='photo'").get(p.entity_id)) insField(p.entity_id, 'photo', p.photo_url, `${SRC[p.source]} ${p.reference}`, p.url || null, 'accepted', 'seed', 'seed', { date: ((p.last_updated ? p.last_updated.split(';').pop().trim() : p.listed_on) || '').slice(0, 10) || undefined });
+  db.prepare("INSERT INTO kv VALUES('fix:seed-photos',datetime('now'))").run(); }
 const fieldsOf = (eid, status = null) => db.prepare(`SELECT * FROM card_fields WHERE entity_id=? ${status ? 'AND status=?' : ''} ORDER BY field, id`).all(...(status ? [eid, status] : [eid]));
 app.get('/api/targets', (req, res) => { ensureSeeded(); const q = (req.query.q || '').toLowerCase();
   const ids = db.prepare('SELECT DISTINCT entity_id FROM card_fields').all().map(x => x.entity_id);
