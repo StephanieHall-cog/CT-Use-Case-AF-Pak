@@ -41,9 +41,13 @@ function sourceRegistry() {
   return { list, n(citation, url) { const c = (citation || '').trim() || 'citation missing', u = url || null; const k = c + '\u0001' + u; if (!idx.has(k)) { idx.set(k, list.length + 1); list.push({ n: list.length + 1, citation: c, url: u }); } return idx.get(k); } };
 }
 
+const MON = ['JAN', 'FEB', 'MAR', 'APR', 'MAY', 'JUN', 'JUL', 'AUG', 'SEP', 'OCT', 'NOV', 'DEC'];
+export const fmtCiteDate = iso => { if (!iso) return 'n.d.'; const d = new Date(iso); return isNaN(d) ? iso : `${d.getUTCDate()}/${MON[d.getUTCMonth()]}/${d.getUTCFullYear()}`; };
+// book-style citation text from a cited row: "(SRC; D/MON/YYYY; trust n) Publication — detail"
+export const citeText = r => !r ? '' : r.cit_src ? `(${r.cit_src}; ${fmtCiteDate(r.cit_date)}; trust ${r.cit_trust ?? '?'}) ${r.cit_pub || ''}${r.citation && r.citation !== r.cit_pub ? ' — ' + r.citation : ''}`.trim() : (r.citation || '');
 function lastLocation(card) {
   const h = card.hits[0];
-  if (h) { const mg = toMgrs(h.lat, h.lon, 5); return { hit_id: h.id, lat: h.lat, lon: h.lon, mgrs: mg, as_of: h.ts, hit_kind: h.kind, place: h.place || null, citation: h.citation || '', citation_url: h.citation_url || null,
+  if (h) { const mg = toMgrs(h.lat, h.lon, 5); return { hit_id: h.id, lat: h.lat, lon: h.lon, mgrs: mg, as_of: h.ts, hit_kind: h.kind, place: h.place || null, citation: citeText(h) || '', citation_url: h.citation_url || null,
     text: `${h.place ? h.place + ' — ' : ''}${(+h.lat).toFixed(5)}, ${(+h.lon).toFixed(5)}${mg ? ` (MGRS ${mg})` : ''} as of ${h.ts} [${h.kind}]` }; }
   const bdl = card.v('bdl')[0];
   return { hit_id: null, lat: null, lon: null, mgrs: null, as_of: null, hit_kind: null, place: bdl || null, citation: '', citation_url: null, text: bdl ? `${bdl} (Bed Down Location; no accepted geolocation hit)` : 'no accepted geolocation hit on record' };
@@ -79,11 +83,11 @@ export function buildTemplate(db, R, entityId, kind, user = 'analyst') {
     t.summary = notes || oneLiner(card, loc);
     const groups = [];
     for (const [title, keys] of GROUPS) { const rows = [];
-      for (const k of keys) { const items = card.fields.filter(f => f.field === k && f.value).map(f => ({ value: f.value, n: S.n(f.citation, f.citation_url) })); if (items.length) rows.push({ field: k, label: FIELD_LABEL[k] || k, items }); }
+      for (const k of keys) { const items = card.fields.filter(f => f.field === k && f.value).map(f => ({ value: f.value, n: S.n(citeText(f), f.citation_url) })); if (items.length) rows.push({ field: k, label: FIELD_LABEL[k] || k, items }); }
       if (rows.length) groups.push({ title, rows }); }
     const selRows = []; const roots = card.selectors.filter(s => !s.parent_id);
     for (const s of roots) { const kids = card.selectors.filter(k => k.parent_id === s.id);
-      selRows.push({ field: s.kind, label: `${SEL_LABEL[s.kind] || s.kind}${s.platform ? ' (' + s.platform + ')' : ''}`, items: [{ value: s.value, n: S.n(s.citation, s.citation_url) }, ...kids.map(k => ({ value: `${SEL_LABEL[k.kind] || k.kind}: ${k.value}`, n: S.n(k.citation, k.citation_url), paired: true }))] }); }
+      selRows.push({ field: s.kind, label: `${SEL_LABEL[s.kind] || s.kind}${s.platform ? ' (' + s.platform + ')' : ''}`, items: [{ value: s.value, n: S.n(citeText(s), s.citation_url) }, ...kids.map(k => ({ value: `${SEL_LABEL[k.kind] || k.kind}: ${k.value}`, n: S.n(citeText(k), k.citation_url), paired: true }))] }); }
     if (selRows.length) groups.push({ title: 'Selectors (paired rows indented)', rows: selRows });
     if (loc.hit_id) groups.push({ title: 'Last known location', rows: [{ field: 'last_known_location', label: 'Latest accepted geolocation hit', items: [{ value: loc.text, n: S.n(loc.citation, loc.citation_url) }] }] });
     t.profile = groups; t.sources = S.list; t.body = profileBodyText(groups);

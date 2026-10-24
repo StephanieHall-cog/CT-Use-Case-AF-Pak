@@ -1,7 +1,7 @@
 // AfPak target tracker — UNCLASSIFIED demo GUI over db/afpak*.sqlite (read-only) + gui/data/app.db (analyst writes).
 import express from 'express';
 import Database from 'better-sqlite3';
-import { mkdirSync, existsSync, readFileSync } from 'fs';
+import { mkdirSync, existsSync, readFileSync, writeFileSync } from 'fs';
 import { dirname, join } from 'path';
 import { fileURLToPath } from 'url';
 import { createUser, hashPassword, login, logout, sessionUser, parseCookies, requireRole, ROLES } from './lib/auth.mjs';
@@ -31,7 +31,13 @@ CREATE TABLE IF NOT EXISTS card_hits(id INTEGER PRIMARY KEY, entity_id TEXT NOT 
   citation TEXT, citation_url TEXT, status TEXT NOT NULL DEFAULT 'accepted', proposed_by TEXT, edited_by TEXT, edited_at TEXT DEFAULT (datetime('now')));
 CREATE TABLE IF NOT EXISTS poi(entity_id TEXT PRIMARY KEY, on_ INTEGER, priority TEXT, reason TEXT, by_user TEXT, at TEXT);
 CREATE TABLE IF NOT EXISTS investigations(id INTEGER PRIMARY KEY, name TEXT NOT NULL, owner TEXT, data TEXT NOT NULL, created_at TEXT DEFAULT (datetime('now')));
-CREATE TABLE IF NOT EXISTS kv(k TEXT PRIMARY KEY, v TEXT);`);
+CREATE TABLE IF NOT EXISTS kv(k TEXT PRIMARY KEY, v TEXT);
+CREATE TABLE IF NOT EXISTS rejections(id INTEGER PRIMARY KEY, tbl TEXT, row_id INTEGER, entity_id TEXT, fingerprint TEXT, comment TEXT, user TEXT, ts TEXT DEFAULT (datetime('now')));`);
+// structured citation (trigraph source code, publication, date, trust 1-4) + reject-with-comment columns on every evidence table
+const TBLS = ['card_fields', 'card_selectors', 'card_links', 'card_hits'];
+const addCol = (t, c, d) => { if (!db.prepare(`PRAGMA table_info(${t})`).all().some(x => x.name === c)) db.exec(`ALTER TABLE ${t} ADD COLUMN ${c} ${d}`); };
+for (const t of TBLS) for (const [c, d] of [['cit_src', 'TEXT'], ['cit_pub', 'TEXT'], ['cit_date', 'TEXT'], ['cit_trust', 'INTEGER'], ['reject_comment', 'TEXT'], ['rejected_by', 'TEXT'], ['rejected_at', 'TEXT'], ['reidentified', 'INTEGER DEFAULT 0'], ['last_identified', 'TEXT']]) addCol(t, c, d);
+mkdirSync(join(DATA_DIR, 'photos'), { recursive: true });
 { const pw = process.env.ADMIN_PASSWORD, au = process.env.ADMIN_USER || 'admin'; const ex = db.prepare('SELECT id FROM users WHERE username=?').get(au);
   if (!ex) { if (!pw) throw new Error('ADMIN_PASSWORD required for first boot'); createUser(db, au, pw, 'admin'); }
   else if (pw) { const { salt, hash } = hashPassword(pw); db.prepare("UPDATE users SET pass_hash=?, salt=?, role='admin' WHERE id=?").run(hash, salt, ex.id); } }
@@ -43,29 +49,60 @@ export const CARD_FIELDS = [
   ['tribe', 'Tribe affiliation', 'text'], ['religion', 'Religion', 'text'], ['network', 'Terrorist network', 'text'], ['role', 'Role in government / network', 'text'],
   ['dob', 'Date of birth', 'text'], ['pob', 'Place of birth', 'text'], ['passport', 'Passport number', 'list'], ['cnic', 'CNIC or ID number', 'list'], ['visa', 'Visa number', 'list'],
   ['bdl', 'Bed Down Location (BDL)', 'text'], ['addresses', 'Addresses or alternate known locations', 'list'], ['travel', 'Travel', 'list'],
-  ['vehicle', 'Car make / model', 'list'], ['family', 'Family members (name — relationship)', 'list'], ['physical', 'Physical descriptors', 'list'], ['notes', 'Additional notes', 'long']];
+  ['vehicle', 'Car make / model', 'list'], ['family', 'Family members (name — relationship)', 'list'], ['physical', 'Physical descriptors', 'list'], ['notes', 'Additional notes', 'long'], ['photo', 'Profile photo', 'image']];
 const SEL_KINDS = ['phone', 'imsi', 'imei', 'pushtoken', 'email', 'social', 'social_id', 'cma_account', 'vehicle'];
 const HIT_KINDS = ['gsm_cdr', 'ss7', 'isr', 'travel', 'humint', 'open_source', 'other'];
 const has = t => !!R.prepare("SELECT 1 FROM sqlite_master WHERE name=?").get(t);
 const SRC = { podcast: 'FDD Long War Journal — Generation Jihad podcast', document: 'Open-access document corpus', un_1988: 'UN Security Council 1988 Sanctions List', fbi_wanted: 'FBI Wanted — Terrorism', isw_maps: 'ISW / CTP Map Room', synthetic: 'SYNTHETIC scenario (synthetic/targets_demo.json)', public_reference: 'Public reference (approximate; verify)', analyst: 'Analyst entry' };
-const SYN_CIT = 'SYNTHETIC scenario — synthetic/targets_demo.json'; const SYN_URL = 'https://github.com/StephanieHall-cog/CT-Use-Case-AF-Pak/blob/main/synthetic/targets_demo.json';
+const SYN_CIT = 'SYNTHETIC scenario — synthetic/targets_demo.json'; const SYN_URL = 'https://github.com/StephanieHall-cog/CT-Use-Case-AF-Pak/blob/main/synthetic/targets_demo.json'; const SYN_DATE = '2026-10-14';
+// ---- citation trigraphs: every cited value carries cit_src (3-letter code), cit_pub (publication), cit_date (ISO), cit_trust (1 best … 4 worst) + free-text citation + citation_url
+export const CITE_CODES = {
+  SYN: { pub: 'Synthetic scenario — synthetic/targets_demo.json', trust: 3, url: SYN_URL },
+  GJP: { pub: 'FDD Long War Journal — Generation Jihad podcast', trust: 2, url: 'https://redcircle.com/shows/generation-jihad' },
+  UNS: { pub: 'UN Security Council 1988 Sanctions List', trust: 1, url: 'https://main.un.org/securitycouncil/en/sanctions/1988/materials' },
+  FBI: { pub: 'FBI Wanted — Terrorism', trust: 1, url: 'https://www.fbi.gov/wanted/terrorism' },
+  ISW: { pub: 'ISW / CTP Map Room', trust: 2, url: 'https://www.understandingwar.org/' },
+  DOC: { pub: 'Open-access document corpus', trust: 2, url: null },
+  PUB: { pub: 'Public reference (approximate; verify)', trust: 3, url: null },
+  SIG: { pub: 'SIGINT / telecom feed (CDR, SS7)', trust: 2, url: null },
+  ISR: { pub: 'ISR collection', trust: 2, url: null },
+  HUM: { pub: 'HUMINT report', trust: 3, url: null },
+  OSN: { pub: 'Open-source / social media', trust: 3, url: null },
+  ALG: { pub: 'Inference algorithm (auto-citation; needs analyst approval)', trust: 4, url: null },
+  ANL: { pub: 'Analyst entry', trust: 3, url: null } };
+export const TRUST = { 1: 'Confirmed — official record or multiple independent sources', 2: 'Probably true — reputable single source', 3: 'Possibly true — analyst assessment, uncorroborated, or synthetic', 4: 'Unverified — algorithm-inferred or doubtful' };
+const codeOf = (c = '', u = '') => /SYNTHETIC/i.test(c) ? 'SYN' : /UN 1988|Security Council|un\.org/i.test(c + u) ? 'UNS' : /FBI/i.test(c + u) ? 'FBI' : /Generation Jihad|podcast|redcircle/i.test(c + u) ? 'GJP' : /ISW/i.test(c) ? 'ISW' : /document/i.test(c) ? 'DOC' : /Auto-citation|algorithm/i.test(c) ? 'ALG' : /Public reference/i.test(c) ? 'PUB' : 'ANL';
+// -> [cit_src, cit_pub, cit_date, cit_trust]; x may override (x.src / x.pub / x.date / x.trust)
+export function deriveCite(c, u, x = {}) { const src = String(x.src || codeOf(c || '', u || '')).toUpperCase().slice(0, 3); const d = CITE_CODES[src] || {};
+  const t = +x.trust || d.trust || 3; return [src, x.pub || d.pub || src, (x.date || '').slice(0, 10) || (src === 'SYN' ? SYN_DATE : new Date().toISOString().slice(0, 10)), Math.min(4, Math.max(1, t))]; }
+const pubDate = v => { const d = new Date(v || ''); return isNaN(d) ? undefined : d.toISOString().slice(0, 10); }; // episodes.published is RFC-2822
+const firstMentionDate = eid => R.prepare('SELECT ep.published p FROM mentions m JOIN episodes ep ON ep.idx=m.episode_idx WHERE m.entity_id=?').all(eid).map(x => pubDate(x.p)).filter(Boolean).sort()[0];
+const insField = (eid, f, v, c, u, st, pb, eb, x) => db.prepare('INSERT INTO card_fields(entity_id,field,value,citation,citation_url,status,proposed_by,edited_by,cit_src,cit_pub,cit_date,cit_trust) VALUES (?,?,?,?,?,?,?,?,?,?,?,?)').run(eid, f, v, c, u, st, pb, eb, ...deriveCite(c, u, x));
+const insSel = (eid, k, v, pid, pl, lb, c, u, st, pb, eb, sid, x) => db.prepare('INSERT INTO card_selectors(entity_id,kind,value,parent_id,platform,label,citation,citation_url,status,proposed_by,edited_by,src_id,cit_src,cit_pub,cit_date,cit_trust) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)').run(eid, k, v, pid, pl, lb, c, u, st, pb, eb, sid, ...deriveCite(c, u, x));
+const insLink = (a, b, rel, ev, c, u, st, pb, eb, x) => db.prepare('INSERT INTO card_links(a_id,b_id,relation,evidence,citation,citation_url,status,proposed_by,edited_by,cit_src,cit_pub,cit_date,cit_trust) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?)').run(a, b, rel, ev, c, u, st, pb, eb, ...deriveCite(c, u, x));
+const insHit = (eid, k, ts, lat, lon, pk, pl, dt, sid, c, u, st, pb, eb, x) => db.prepare('INSERT INTO card_hits(entity_id,kind,ts,lat,lon,precision_km,place,detail,selector_id,citation,citation_url,status,proposed_by,edited_by,cit_src,cit_pub,cit_date,cit_trust) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)').run(eid, k, ts, lat, lon, pk, pl, dt, sid, c, u, st, pb, eb, ...deriveCite(c, u, x));
 
 // ---- seed card_fields / card_selectors / card_hits from the built DB (synthetic target_cards + real-person biodata) once per entity
 function seedCard(eid) {
   if (db.prepare('SELECT 1 FROM kv WHERE k=?').get('seeded:' + eid)) return;
   const e = R.prepare('SELECT * FROM entities WHERE id=?').get(eid); if (!e) return;
   const tc = has('target_cards') ? R.prepare('SELECT * FROM target_cards WHERE entity_id=?').get(eid) : null;
-  const put = db.prepare('INSERT INTO card_fields(entity_id,field,value,citation,citation_url,status,proposed_by,edited_by) VALUES (?,?,?,?,?,?,?,?)');
+  const put = { run: insField };
+  const epDate = i => pubDate(R.prepare('SELECT published FROM episodes WHERE idx=?').get(i)?.published);
+  const firstMention = firstMentionDate(eid);
+  const PX = { date: firstMention }; const pd = p => ((p.last_updated ? p.last_updated.split(';').pop().trim() : p.listed_on) || '').slice(0, 10) || undefined;
+  const profDate = src => { const p = has('profiles') ? R.prepare('SELECT * FROM profiles WHERE entity_id=? AND source=?').get(eid, src) : null; return p ? pd(p) : undefined; };
+  const AX = a => ['un_1988', 'fbi_wanted'].includes(a.source) ? { date: profDate(a.source) } : PX;
   const aliases = R.prepare('SELECT alias, source FROM aliases WHERE entity_id=?').all(eid);
   const fam = R.prepare(`SELECT r.type, x.name, r.source, r.episode_idx, r.quote, r.detail FROM relationships r JOIN entities x ON x.id=CASE WHEN r.source_id=? THEN r.target_id ELSE r.source_id END
      WHERE (r.source_id=? OR r.target_id=?) AND (r.type LIKE '%\\_of' ESCAPE '\\' OR r.type='family')`).all(eid, eid, eid);
-  const cit = s => s === 'synthetic' ? [SYN_CIT, SYN_URL] : s === 'un_1988' ? ['UN 1988 Sanctions List', 'https://main.un.org/securitycouncil/en/sanctions/1988/materials'] : s === 'fbi_wanted' ? ['FBI Wanted', 'https://www.fbi.gov/wanted/terrorism'] : s === 'podcast' || s === 'extraction' ? ['Generation Jihad podcast (extracted)', 'https://redcircle.com/shows/generation-jihad'] : [SRC[s] || s, null];
+  const cit = s => s === 'synthetic' || e.dataset === 'synthetic' ? [SYN_CIT, SYN_URL] : s === 'un_1988' ? ['UN 1988 Sanctions List', 'https://main.un.org/securitycouncil/en/sanctions/1988/materials'] : s === 'fbi_wanted' ? ['FBI Wanted', 'https://www.fbi.gov/wanted/terrorism'] : s === 'podcast' || s === 'extraction' ? ['Generation Jihad podcast (extracted)', 'https://redcircle.com/shows/generation-jihad'] : [SRC[s] || s, null];
   const syn = e.dataset === 'synthetic';
   const C = syn ? [SYN_CIT, SYN_URL] : ['Podcast/document extraction — see Sources tab', null];
-  put.run(eid, 'name', e.name, ...C, 'accepted', 'seed', 'seed');
-  for (const a of aliases) { const k = tc && JSON.parse(tc.kunyas || '[]').includes(a.alias) ? 'kunyah' : 'name_variations'; const [c, u] = cit(a.source); put.run(eid, k, a.alias, c, u, 'accepted', 'seed', 'seed'); }
-  if (e.role) put.run(eid, 'role', e.role, ...C, 'accepted', 'seed', 'seed');
-  for (const f of fam) { const [c, u] = cit(f.source); put.run(eid, 'family', `${f.name} — ${f.type.replace(/_/g, ' ')}`, f.quote ? `${c}: "${String(f.quote).slice(0, 160)}"` : c, u, 'accepted', 'seed', 'seed'); }
+  put.run(eid, 'name', e.name, ...C, 'accepted', 'seed', 'seed', PX);
+  for (const a of aliases) { const k = tc && JSON.parse(tc.kunyas || '[]').includes(a.alias) ? 'kunyah' : 'name_variations'; const [c, u] = cit(a.source); put.run(eid, k, a.alias, c, u, 'accepted', 'seed', 'seed', AX(a)); }
+  if (e.role) put.run(eid, 'role', e.role, ...C, 'accepted', 'seed', 'seed', PX);
+  for (const f of fam) { const [c, u] = cit(f.source); put.run(eid, 'family', `${f.name} — ${f.type.replace(/_/g, ' ')}`, f.quote ? `${c}: "${String(f.quote).slice(0, 160)}"` : c, u, 'accepted', 'seed', 'seed', { date: f.episode_idx != null ? epDate(f.episode_idx) : firstMention }); }
   const orgs = R.prepare('SELECT DISTINCT o.name FROM memberships m JOIN entities o ON o.id=m.org_id WHERE m.entity_id=?').all(eid).map(x => x.name);
   if (tc) {
     const T = (f, v) => v != null && v !== '' && put.run(eid, f, typeof v === 'string' ? v : JSON.stringify(v), SYN_CIT, SYN_URL, 'accepted', 'seed', 'seed');
@@ -82,19 +119,20 @@ function seedCard(eid) {
     T('physical', `Height ~${165 + n(2) % 20} cm; build ${['slim', 'medium', 'heavy'][n(3) % 3]}; beard ${['long black', 'greying', 'trimmed', 'henna-dyed'][n(4) % 4]}; ${['scar left cheek', 'limp (right leg)', 'missing fingertip left hand', 'no distinguishing marks noted'][n(5) % 4]} (fictional)`);
     if (!orgs.length && tc.network) orgs.push(tc.network);
   } else {
-    for (const o of orgs) put.run(eid, 'network', o, ...C, 'accepted', 'seed', 'seed');
+    for (const o of orgs) put.run(eid, 'network', o, ...C, 'accepted', 'seed', 'seed', PX);
     const prof = has('profiles') ? R.prepare('SELECT * FROM profiles WHERE entity_id=?').all(eid) : [];
-    for (const p of prof) { const u = p.url || (p.source === 'un_1988' ? 'https://main.un.org/securitycouncil/en/sanctions/1988/materials' : null), c = `${SRC[p.source]} ${p.reference}`;
-      if (p.dob) put.run(eid, 'dob', p.dob, c, u, 'accepted', 'seed', 'seed'); if (p.pob) put.run(eid, 'pob', p.pob, c, u, 'accepted', 'seed', 'seed'); if (p.addresses) put.run(eid, 'addresses', p.addresses, c, u, 'accepted', 'seed', 'seed');
-      if (p.documents) put.run(eid, 'passport', p.documents, c, u, 'accepted', 'seed', 'seed'); if (p.physical) { try { const ph = JSON.parse(p.physical); const s = Object.entries(ph).map(([k, v]) => `${k}: ${v}`).join('; '); if (s) put.run(eid, 'physical', s, c, u, 'accepted', 'seed', 'seed'); } catch { } }
-      if (p.nationality) put.run(eid, 'notes', `Nationality (as listed): ${p.nationality}`, c, u, 'accepted', 'seed', 'seed'); if (p.designation || p.title) put.run(eid, 'role', [p.title, p.designation].filter(Boolean).join(' — '), c, u, 'accepted', 'seed', 'seed'); }
-    if (e.nationality) put.run(eid, 'notes', `Origin (podcast): ${e.nationality}`, ...C, 'accepted', 'seed', 'seed');
+    for (const p of prof) { const u = p.url || (p.source === 'un_1988' ? 'https://main.un.org/securitycouncil/en/sanctions/1988/materials' : null), c = `${SRC[p.source]} ${p.reference}`; const X = { date: pd(p) };
+      if (p.photo_url) put.run(eid, 'photo', p.photo_url, c, u, 'accepted', 'seed', 'seed', X);
+      if (p.dob) put.run(eid, 'dob', p.dob, c, u, 'accepted', 'seed', 'seed', X); if (p.pob) put.run(eid, 'pob', p.pob, c, u, 'accepted', 'seed', 'seed', X); if (p.addresses) put.run(eid, 'addresses', p.addresses, c, u, 'accepted', 'seed', 'seed', X);
+      if (p.documents) put.run(eid, 'passport', p.documents, c, u, 'accepted', 'seed', 'seed', X); if (p.physical) { try { const ph = JSON.parse(p.physical); const s = Object.entries(ph).map(([k, v]) => `${k}: ${v}`).join('; '); if (s) put.run(eid, 'physical', s, c, u, 'accepted', 'seed', 'seed', X); } catch { } }
+      if (p.nationality) put.run(eid, 'notes', `Nationality (as listed): ${p.nationality}`, c, u, 'accepted', 'seed', 'seed', X); if (p.designation || p.title) put.run(eid, 'role', [p.title, p.designation].filter(Boolean).join(' — '), c, u, 'accepted', 'seed', 'seed', X); }
+    if (e.nationality) put.run(eid, 'notes', `Origin (podcast): ${e.nationality}`, ...C, 'accepted', 'seed', 'seed', PX);
   }
   if (tc && orgs.length) for (const o of orgs) if (!db.prepare("SELECT 1 FROM card_fields WHERE entity_id=? AND field='network' AND value=?").get(eid, o)) put.run(eid, 'network', o, SYN_CIT, SYN_URL, 'accepted', 'seed', 'seed');
   // selectors with pairing: phone <- imsi/imei/pushtoken/social via selector_links
   if (has('selectors')) {
     const sels = R.prepare('SELECT * FROM selectors WHERE entity_id=?').all(eid); const idmap = {};
-    const ins = db.prepare('INSERT INTO card_selectors(entity_id,kind,value,parent_id,platform,label,citation,citation_url,status,proposed_by,edited_by,src_id) VALUES (?,?,?,?,?,?,?,?,?,?,?,?)');
+    const ins = { run: insSel };
     const links = R.prepare('SELECT * FROM selector_links WHERE a_id IN (SELECT id FROM selectors WHERE entity_id=?) OR b_id IN (SELECT id FROM selectors WHERE entity_id=?)').all(eid, eid);
     const parentOf = {}; for (const l of links) { if (l.relation === 'same_subscriber') parentOf[l.b_id] = l.a_id; if (l.relation === 'used_with') parentOf[l.b_id] = parentOf[l.a_id] || l.a_id; if (l.relation === 'registered_with') parentOf[l.a_id] = l.b_id; }
     const order = [...sels].sort((a, b) => (parentOf[a.id] ? 1 : 0) - (parentOf[b.id] ? 1 : 0));
@@ -103,11 +141,11 @@ function seedCard(eid) {
       const r = ins.run(eid, s.kind, s.value, pid, s.platform || s.provider || null, s.label || null, `${SYN_CIT} (${s.confidence || 'n/a'} confidence)`, SYN_URL, 'accepted', 'seed', 'seed', s.id); idmap[s.id] = r.lastInsertRowid;
       if (s.kind === 'social') { const h2 = [...s.value].reduce((a, c) => (a * 33 + c.charCodeAt(0)) >>> 0, 5); ins.run(eid, 'social_id', `${(s.platform || 'platform').toLowerCase()}:${100000000000 + h2 % 900000000000} (fictional platform ID)`, r.lastInsertRowid, s.platform, 'platform user ID', SYN_CIT, SYN_URL, 'accepted', 'seed', 'seed', null); }
       if (s.kind === 'phone' && (parseInt(s.id.slice(4)) % 2 === 0)) ins.run(eid, 'pushtoken', `apns:${[...s.value].reduce((a, c) => (a * 17 + c.charCodeAt(0)) >>> 0, 3).toString(16)}…${s.id.slice(4)} (fictional push token)`, r.lastInsertRowid, 'APNs/FCM', 'push token', SYN_CIT, SYN_URL, 'accepted', 'seed', 'seed', null); }
-    const li = db.prepare('INSERT INTO card_links(a_id,b_id,relation,evidence,citation,citation_url,status,proposed_by,edited_by) VALUES (?,?,?,?,?,?,?,?,?)');
+    const li = { run: insLink };
     for (const l of links) { const a = idmap[l.a_id] || db.prepare('SELECT id FROM card_selectors WHERE src_id=?').get(l.a_id)?.id, b = idmap[l.b_id] || db.prepare('SELECT id FROM card_selectors WHERE src_id=?').get(l.b_id)?.id;
       if (a && b && !db.prepare('SELECT 1 FROM card_links WHERE a_id=? AND b_id=? AND relation=?').get(a, b, l.relation)) li.run(a, b, l.relation, l.evidence, SYN_CIT, SYN_URL, l.confidence === 'low' ? 'proposed' : 'accepted', l.confidence === 'low' ? 'algorithm:selector-correlator' : 'seed', 'seed'); }
   }
-  if (has('location_hits')) { const hi = db.prepare('INSERT INTO card_hits(entity_id,kind,ts,lat,lon,precision_km,place,detail,selector_id,citation,citation_url,status,proposed_by,edited_by) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?)');
+  if (has('location_hits')) { const hi = { run: insHit };
     for (const h of R.prepare('SELECT * FROM location_hits WHERE entity_id=? ORDER BY ts').all(eid)) { const sid = h.selector_id ? db.prepare('SELECT id FROM card_selectors WHERE src_id=?').get(h.selector_id)?.id : null;
       hi.run(eid, h.kind, h.ts, h.lat, h.lon, h.precision_km, h.place, h.detail, sid, `${SYN_CIT} — ${h.kind.toUpperCase()} (${h.confidence})`, SYN_URL, h.confidence === 'low' ? 'proposed' : 'accepted', h.confidence === 'low' ? 'algorithm:geo-feed-ingest' : 'seed', 'seed'); } }
   // algorithm proposals for real people: profile matches (auto-citation to the UN/FBI record) that were NOT curated
@@ -127,7 +165,7 @@ app.get('/api/meta', (_q, res) => {
   const groups = R.prepare("SELECT name, n_episodes FROM entities WHERE kind='organization' AND name IN ('Haqqani Network','Taliban','Tehrik-i-Taliban Pakistan','Islamic State Khorasan Province','al-Qaeda','Islamic State','al-Qaeda in the Indian Subcontinent','Lashkar-e-Taiba') ORDER BY n_episodes DESC").all();
   const sitekinds = has('sites') ? R.prepare('SELECT kind, count(*) n FROM sites GROUP BY kind').all() : [];
   const years = R.prepare("SELECT min(substr(date,1,4)) y0, max(substr(date,1,4)) y1 FROM events WHERE date GLOB '[12][0-9][0-9][0-9]*'").get();
-  res.json({ cardFields: CARD_FIELDS, selKinds: SEL_KINDS, hitKinds: HIT_KINDS, groups: groups.map(g => g.name), sitekinds, sources: SRC, years, roles: ROLES, center: { lat: 33.4, lon: 69.6 }, db: AFPAK_DB.split('/').pop() });
+  res.json({ cardFields: CARD_FIELDS, selKinds: SEL_KINDS, hitKinds: HIT_KINDS, citeCodes: CITE_CODES, trust: TRUST, groups: groups.map(g => g.name), sitekinds, sources: SRC, years, roles: ROLES, center: { lat: 33.4, lon: 69.6 }, db: AFPAK_DB.split('/').pop() });
 });
 // ---- map layers
 const epUrl = R.prepare('SELECT audio_url, title FROM episodes WHERE idx=?');
@@ -167,13 +205,27 @@ function ensureSeeded() { if (db.prepare("SELECT 1 FROM kv WHERE k='seeded:all'"
   const ids = [...(has('target_cards') ? R.prepare('SELECT entity_id id FROM target_cards').all() : []), ...(has('profiles') ? R.prepare("SELECT DISTINCT entity_id id FROM profiles WHERE entity_id IS NOT NULL AND entity_id IN (SELECT id FROM entities WHERE kind='person' AND n_episodes>0)").all() : [])];
   for (const { id } of ids) seedCard(id); db.prepare("INSERT OR REPLACE INTO kv VALUES('seeded:all',datetime('now'))").run(); }
 ensureSeeded();
+// backfill structured citation columns on rows written before this schema (derived from the free-text citation)
+for (const t of TBLS) for (const r of db.prepare(`SELECT id, citation, citation_url, edited_at FROM ${t} WHERE cit_src IS NULL`).all()) { const [cs, cp, cd, ct] = deriveCite(r.citation, r.citation_url, { date: /SYNTHETIC/i.test(r.citation || '') ? SYN_DATE : (r.edited_at || '').slice(0, 10) }); db.prepare(`UPDATE ${t} SET cit_src=?, cit_pub=?, cit_date=?, cit_trust=? WHERE id=?`).run(cs, cp, cd, ct, r.id); }
+// one-off: synthetic cards seeded before round 2 cited their aliases to the podcast; re-point them to the synthetic scenario
+if (!db.prepare("SELECT 1 FROM kv WHERE k='fix:syn-alias-cite'").get()) { const syn = R.prepare("SELECT id FROM entities WHERE dataset='synthetic'").all().map(x => x.id);
+  for (const id of syn) db.prepare("UPDATE card_fields SET citation=?, citation_url=?, cit_src='SYN', cit_pub=?, cit_date=?, cit_trust=3 WHERE entity_id=? AND proposed_by='seed' AND cit_src IN ('GJP','ANL','DOC')").run(SYN_CIT, SYN_URL, CITE_CODES.SYN.pub, SYN_DATE, id);
+  db.prepare("INSERT INTO kv VALUES('fix:syn-alias-cite',datetime('now'))").run(); }
+// one-off: seeded rows backfilled before structured dates existed get their origin date (podcast first mention / UN-FBI listing date)
+if (!db.prepare("SELECT 1 FROM kv WHERE k='fix:seed-dates4'").get()) {
+  for (const { entity_id } of db.prepare("SELECT DISTINCT entity_id FROM card_fields WHERE proposed_by='seed' AND cit_src IN ('GJP','UNS','FBI')").all()) {
+    const fm = firstMentionDate(entity_id);
+    if (fm) db.prepare("UPDATE card_fields SET cit_date=? WHERE entity_id=? AND proposed_by='seed' AND cit_src='GJP'").run(fm, entity_id);
+    for (const p of has('profiles') ? R.prepare('SELECT * FROM profiles WHERE entity_id=?').all(entity_id) : []) { const d = ((p.last_updated ? p.last_updated.split(';').pop().trim() : p.listed_on) || '').slice(0, 10);
+      if (d) db.prepare("UPDATE card_fields SET cit_date=? WHERE entity_id=? AND proposed_by='seed' AND cit_src=? AND (citation LIKE ? OR cit_date=substr(edited_at,1,10))").run(d, entity_id, p.source === 'un_1988' ? 'UNS' : 'FBI', `%${p.reference}%`); } }
+  db.prepare("INSERT INTO kv VALUES('fix:seed-dates4',datetime('now'))").run(); }
 const fieldsOf = (eid, status = null) => db.prepare(`SELECT * FROM card_fields WHERE entity_id=? ${status ? 'AND status=?' : ''} ORDER BY field, id`).all(...(status ? [eid, status] : [eid]));
 app.get('/api/targets', (req, res) => { ensureSeeded(); const q = (req.query.q || '').toLowerCase();
   const ids = db.prepare('SELECT DISTINCT entity_id FROM card_fields').all().map(x => x.entity_id);
   const out = ids.map(id => { const e = R.prepare('SELECT * FROM entities WHERE id=?').get(id) || { id, name: id, dataset: 'synthetic' }; const F = fieldsOf(id, 'accepted');
     const g = f => F.filter(x => x.field === f).map(x => x.value); const last = db.prepare("SELECT * FROM card_hits WHERE entity_id=? AND status='accepted' ORDER BY ts DESC LIMIT 1").get(id);
     const poi = db.prepare('SELECT * FROM poi WHERE entity_id=?').get(id);
-    return { id, name: g('name')[0] || e.name, dataset: e.dataset, objective: g('objective_name')[0], network: g('network'), tribe: g('tribe')[0], role: g('role')[0], aliases: [...g('kunyah'), ...g('name_variations')].slice(0, 6), n_episodes: e.n_episodes, sources: e.sources,
+    return { id, name: g('name')[0] || e.name, dataset: e.dataset, objective: g('objective_name')[0], network: g('network'), tribe: g('tribe')[0], role: g('role')[0], aliases: [...g('kunyah'), ...g('name_variations')].slice(0, 6), photo: g('photo').slice(-1)[0] || null, n_episodes: e.n_episodes, sources: e.sources,
       n_selectors: db.prepare("SELECT count(*) n FROM card_selectors WHERE entity_id=? AND status='accepted'").get(id).n, n_hits: db.prepare("SELECT count(*) n FROM card_hits WHERE entity_id=? AND status='accepted'").get(id).n,
       n_proposed: db.prepare("SELECT (SELECT count(*) FROM card_fields WHERE entity_id=@i AND status='proposed')+(SELECT count(*) FROM card_selectors WHERE entity_id=@i AND status='proposed')+(SELECT count(*) FROM card_hits WHERE entity_id=@i AND status='proposed') n").get({ i: id }).n,
       last_hit: last ? { kind: last.kind, ts: last.ts, place: last.place, lat: last.lat, lon: last.lon } : null, poi: poi?.on_ ? poi : null }; })
@@ -191,44 +243,75 @@ app.get('/api/targets/:id', (req, res) => { const id = req.params.id; seedCard(i
   res.json({ entity: e || { id, name: id, dataset: 'synthetic' }, fields: fieldsOf(id), selectors: sels, links, hits, relationships: rels, profiles, mentions, events, poi: db.prepare('SELECT * FROM poi WHERE entity_id=?').get(id) || null }); });
 // ---- analyst writes (every one carries a citation; status proposed/accepted; audited)
 const A = requireRole('analyst');
-const upd = (tbl, cols) => (req, res) => { const b = req.body || {}; const row = db.prepare(`SELECT * FROM ${tbl} WHERE id=?`).get(req.params.id); if (!row) return res.status(404).json({ error: 'not found' });
-  const sets = cols.filter(c => b[c] !== undefined); if (!sets.length) return res.status(400).json({ error: 'nothing to update' });
-  db.prepare(`UPDATE ${tbl} SET ${sets.map(c => `${c}=@${c}`).join(',')}, edited_by=@u, edited_at=datetime('now') WHERE id=@id`).run({ ...Object.fromEntries(sets.map(c => [c, b[c]])), u: req.user.username, id: req.params.id });
-  audit(req.user.username, tbl + '_edit', req.params.id, row, b); res.json({ ok: true }); };
+const CITE_COLS = ['cit_src', 'cit_pub', 'cit_date', 'cit_trust'];
+const hasCite = b => !!((b.citation || '').trim() || (b.cit_pub || '').trim() || b.cit_src);
+const badTrust = b => b.cit_trust != null && b.cit_trust !== '' && !(+b.cit_trust >= 1 && +b.cit_trust <= 4);
+const citeX = b => ({ src: b.cit_src, pub: b.cit_pub, date: b.cit_date, trust: b.cit_trust });
+const citeText = b => (b.citation || '').trim() || [b.cit_pub, b.cit_date].filter(Boolean).join(', ');
+const fingerprint = (tbl, r) => tbl === 'card_links' ? `${r.a_id}|${r.b_id}|${r.relation}` : `${r.entity_id}|${r.field || r.kind}|${r.value || r.ts}`;
+// shared by PATCH routes and the bulk proposal route. Rejecting requires a comment, kept on the row and in `rejections` so a re-identified item shows the analyst's reasoning.
+function applyUpdate(tbl, cols, id, b, user) { const row = db.prepare(`SELECT * FROM ${tbl} WHERE id=?`).get(id); if (!row) return { error: 'not found', code: 404 };
+  if (badTrust(b)) return { error: 'trust must be 1-4', code: 400 };
+  if (b.status === 'rejected' && !(b.reject_comment || '').trim()) return { error: 'rejection comment required', code: 400 };
+  const sets = [...cols, ...CITE_COLS, 'reject_comment'].filter((c, i, a) => a.indexOf(c) === i && b[c] !== undefined); if (!sets.length) return { error: 'nothing to update', code: 400 };
+  const vals = Object.fromEntries(sets.map(c => [c, b[c]]));
+  if (CITE_COLS.some(c => b[c] !== undefined) || b.citation !== undefined) { const [cs, cp, cd, ct] = deriveCite(b.citation ?? row.citation, b.citation_url ?? row.citation_url, { src: b.cit_src ?? row.cit_src, pub: b.cit_pub ?? row.cit_pub, date: b.cit_date ?? row.cit_date, trust: b.cit_trust ?? row.cit_trust });
+    Object.assign(vals, { cit_src: cs, cit_pub: cp, cit_date: cd, cit_trust: ct }); for (const c of CITE_COLS) if (!sets.includes(c)) sets.push(c); }
+  if (b.status === 'rejected') { Object.assign(vals, { rejected_by: user, rejected_at: new Date().toISOString() }); sets.push('rejected_by', 'rejected_at');
+    db.prepare('INSERT INTO rejections(tbl,row_id,entity_id,fingerprint,comment,user) VALUES (?,?,?,?,?,?)').run(tbl, row.id, row.entity_id || null, fingerprint(tbl, row), b.reject_comment.trim(), user); }
+  db.prepare(`UPDATE ${tbl} SET ${sets.map(c => `${c}=@${c}`).join(',')}, edited_by=@u, edited_at=datetime('now') WHERE id=@id`).run({ ...vals, u: user, id });
+  audit(user, tbl + (b.status === 'rejected' ? '_reject' : b.status === 'accepted' && row.status !== 'accepted' ? '_accept' : '_edit'), id, row, b); return { ok: true }; }
+const upd = (tbl, cols) => (req, res) => { const r = applyUpdate(tbl, cols, req.params.id, req.body || {}, req.user.username); r.error ? res.status(r.code).json({ error: r.error }) : res.json(r); };
 const del = tbl => (req, res) => { const row = db.prepare(`SELECT * FROM ${tbl} WHERE id=?`).get(req.params.id); db.prepare(`DELETE FROM ${tbl} WHERE id=?`).run(req.params.id); if (tbl === 'card_selectors') db.prepare('DELETE FROM card_links WHERE a_id=? OR b_id=?').run(req.params.id, req.params.id); audit(req.user.username, tbl + '_delete', req.params.id, row, null); res.json({ ok: true }); };
-app.post('/api/targets/:id/fields', A, (req, res) => { const b = req.body || {}; if (!CARD_FIELDS.some(f => f[0] === b.field)) return res.status(400).json({ error: 'unknown field' }); if (b.value && !b.citation) return res.status(400).json({ error: 'citation required' });
-  const r = db.prepare('INSERT INTO card_fields(entity_id,field,value,citation,citation_url,status,proposed_by,edited_by) VALUES (?,?,?,?,?,?,?,?)').run(req.params.id, b.field, b.value || '', b.citation || '', b.citation_url || null, b.status || 'accepted', b.proposed_by || 'analyst', req.user.username);
+app.post('/api/targets/:id/fields', A, (req, res) => { const b = req.body || {}; if (!CARD_FIELDS.some(f => f[0] === b.field)) return res.status(400).json({ error: 'unknown field' }); if (b.value && !hasCite(b)) return res.status(400).json({ error: 'citation required' }); if (badTrust(b)) return res.status(400).json({ error: 'trust must be 1-4' });
+  const r = insField(req.params.id, b.field, b.value || '', citeText(b), b.citation_url || null, b.status || 'accepted', b.proposed_by || 'analyst', req.user.username, citeX(b));
   audit(req.user.username, 'field_add', req.params.id, null, b); res.json({ id: r.lastInsertRowid }); });
 app.patch('/api/fields/:id', A, upd('card_fields', ['value', 'citation', 'citation_url', 'status'])); app.delete('/api/fields/:id', A, del('card_fields'));
-app.post('/api/targets/:id/selectors', A, (req, res) => { const b = req.body || {}; if (!SEL_KINDS.includes(b.kind) || !b.value) return res.status(400).json({ error: 'kind/value required' }); if (!b.citation) return res.status(400).json({ error: 'citation required' });
-  const r = db.prepare('INSERT INTO card_selectors(entity_id,kind,value,parent_id,platform,label,citation,citation_url,status,proposed_by,edited_by) VALUES (?,?,?,?,?,?,?,?,?,?,?)').run(req.params.id, b.kind, b.value, b.parent_id || null, b.platform || null, b.label || null, b.citation || '', b.citation_url || null, b.status || 'accepted', b.proposed_by || 'analyst', req.user.username);
+app.post('/api/targets/:id/selectors', A, (req, res) => { const b = req.body || {}; if (!SEL_KINDS.includes(b.kind) || !b.value) return res.status(400).json({ error: 'kind/value required' }); if (!hasCite(b)) return res.status(400).json({ error: 'citation required' }); if (badTrust(b)) return res.status(400).json({ error: 'trust must be 1-4' });
+  const r = insSel(req.params.id, b.kind, b.value, b.parent_id || null, b.platform || null, b.label || null, citeText(b), b.citation_url || null, b.status || 'accepted', b.proposed_by || 'analyst', req.user.username, null, citeX(b));
   audit(req.user.username, 'selector_add', req.params.id, null, b); res.json({ id: r.lastInsertRowid }); });
 app.patch('/api/selectors/:id', A, upd('card_selectors', ['value', 'parent_id', 'platform', 'label', 'citation', 'citation_url', 'status'])); app.delete('/api/selectors/:id', A, del('card_selectors'));
-app.post('/api/links', A, (req, res) => { const b = req.body || {}; if (!b.a_id || !b.b_id || !b.relation) return res.status(400).json({ error: 'a_id, b_id, relation required' }); if (!b.citation) return res.status(400).json({ error: 'citation required' });
-  const r = db.prepare('INSERT INTO card_links(a_id,b_id,relation,evidence,citation,citation_url,status,proposed_by,edited_by) VALUES (?,?,?,?,?,?,?,?,?)').run(b.a_id, b.b_id, b.relation, b.evidence || '', b.citation || '', b.citation_url || null, b.status || 'accepted', b.proposed_by || 'analyst', req.user.username); audit(req.user.username, 'link_add', r.lastInsertRowid, null, b); res.json({ id: r.lastInsertRowid }); });
+app.post('/api/links', A, (req, res) => { const b = req.body || {}; if (!b.a_id || !b.b_id || !b.relation) return res.status(400).json({ error: 'a_id, b_id, relation required' }); if (!hasCite(b)) return res.status(400).json({ error: 'citation required' }); if (badTrust(b)) return res.status(400).json({ error: 'trust must be 1-4' });
+  const r = insLink(b.a_id, b.b_id, b.relation, b.evidence || '', citeText(b), b.citation_url || null, b.status || 'accepted', b.proposed_by || 'analyst', req.user.username, citeX(b)); audit(req.user.username, 'link_add', r.lastInsertRowid, null, b); res.json({ id: r.lastInsertRowid }); });
 app.patch('/api/links/:id', A, upd('card_links', ['relation', 'evidence', 'citation', 'citation_url', 'status'])); app.delete('/api/links/:id', A, del('card_links'));
-app.post('/api/targets/:id/hits', A, (req, res) => { const b = req.body || {}; if (!b.ts || b.lat == null || b.lon == null) return res.status(400).json({ error: 'ts, lat, lon required' }); if (!b.citation) return res.status(400).json({ error: 'citation required' });
-  const r = db.prepare('INSERT INTO card_hits(entity_id,kind,ts,lat,lon,precision_km,place,detail,selector_id,citation,citation_url,status,proposed_by,edited_by) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?)').run(req.params.id, b.kind || 'other', b.ts, +b.lat, +b.lon, b.precision_km == null ? null : +b.precision_km, b.place || null, b.detail || null, b.selector_id || null, b.citation || '', b.citation_url || null, b.status || 'accepted', b.proposed_by || 'analyst', req.user.username);
+app.post('/api/targets/:id/hits', A, (req, res) => { const b = req.body || {}; if (!b.ts || b.lat == null || b.lon == null) return res.status(400).json({ error: 'ts, lat, lon required' }); if (!hasCite(b)) return res.status(400).json({ error: 'citation required' }); if (badTrust(b)) return res.status(400).json({ error: 'trust must be 1-4' });
+  const r = insHit(req.params.id, b.kind || 'other', b.ts, +b.lat, +b.lon, b.precision_km == null ? null : +b.precision_km, b.place || null, b.detail || null, b.selector_id || null, citeText(b), b.citation_url || null, b.status || 'accepted', b.proposed_by || 'analyst', req.user.username, citeX(b));
   audit(req.user.username, 'hit_add', req.params.id, null, b); res.json({ id: r.lastInsertRowid }); });
 app.patch('/api/hits/:id', A, upd('card_hits', ['kind', 'ts', 'lat', 'lon', 'precision_km', 'place', 'detail', 'selector_id', 'citation', 'citation_url', 'status'])); app.delete('/api/hits/:id', A, del('card_hits'));
 app.post('/api/targets/:id/poi', A, (req, res) => { const b = req.body || {}; db.prepare('INSERT OR REPLACE INTO poi VALUES (?,?,?,?,?,datetime(\'now\'))').run(req.params.id, b.on ? 1 : 0, b.priority || 'Medium', b.reason || '', req.user.username); audit(req.user.username, 'poi', req.params.id, null, b); res.json({ ok: true }); });
 app.post('/api/targets', A, (req, res) => { const b = req.body || {}; if (!b.name) return res.status(400).json({ error: 'name required' }); const id = 'SP-' + Date.now().toString(36) + Math.random().toString(36).slice(2, 6);
-  db.prepare('INSERT INTO card_fields(entity_id,field,value,citation,citation_url,status,proposed_by,edited_by) VALUES (?,?,?,?,?,?,?,?)').run(id, 'name', b.name, b.citation || 'Analyst entry', b.citation_url || null, 'accepted', 'analyst', req.user.username);
+  insField(id, 'name', b.name, citeText(b) || 'Analyst entry', b.citation_url || null, 'accepted', 'analyst', req.user.username, citeX(b));
   db.prepare('INSERT INTO kv(k,v) VALUES (?,?)').run('seeded:' + id, 'manual'); audit(req.user.username, 'target_create', id, null, b); res.json({ id }); });
+// profile photo: data-URL upload saved under DATA_DIR/photos and recorded as a cited 'photo' card field
+app.post('/api/targets/:id/photo', A, (req, res) => { const b = req.body || {}; const m = /^data:image\/(png|jpe?g|gif|webp);base64,([A-Za-z0-9+/=]+)$/.exec(b.data || ''); if (!m) return res.status(400).json({ error: 'data must be a base64 image data URL (png/jpg/gif/webp)' });
+  if (!hasCite(b)) return res.status(400).json({ error: 'citation required' }); const buf = Buffer.from(m[2], 'base64'); if (buf.length > 6e6) return res.status(413).json({ error: 'image too large (6 MB max)' });
+  const fn = `${req.params.id.replace(/[^A-Za-z0-9_-]/g, '_')}-${Date.now().toString(36)}.${m[1] === 'jpeg' ? 'jpg' : m[1]}`; writeFileSync(join(DATA_DIR, 'photos', fn), buf);
+  const r = insField(req.params.id, 'photo', '/photos/' + fn, citeText(b), b.citation_url || null, 'accepted', 'analyst', req.user.username, citeX(b)); audit(req.user.username, 'photo_add', r.lastInsertRowid, null, { file: fn, citation: b.citation }); res.json({ id: r.lastInsertRowid, url: '/photos/' + fn }); });
+app.get('/api/rejections', (req, res) => res.json(db.prepare('SELECT * FROM rejections WHERE (@t IS NULL OR tbl=@t) AND (@i IS NULL OR row_id=@i) AND (@e IS NULL OR entity_id=@e) ORDER BY id DESC LIMIT 200').all({ t: req.query.tbl || null, i: req.query.id || null, e: req.query.entity || null })));
 // proposals queue (algorithm-identified additions awaiting approval) and algorithm runs
 app.get('/api/proposals', (req, res) => res.json({
   fields: db.prepare("SELECT f.*, (SELECT value FROM card_fields n WHERE n.entity_id=f.entity_id AND n.field='name' AND n.status='accepted' LIMIT 1) name FROM card_fields f WHERE status='proposed' ORDER BY edited_at DESC").all(),
   selectors: db.prepare("SELECT s.*, (SELECT value FROM card_fields n WHERE n.entity_id=s.entity_id AND n.field='name' AND n.status='accepted' LIMIT 1) name FROM card_selectors s WHERE status='proposed' ORDER BY edited_at DESC").all(),
   links: db.prepare("SELECT l.*, a.value a_value, a.kind a_kind, a.entity_id a_entity, b.value b_value, b.kind b_kind, b.entity_id b_entity FROM card_links l JOIN card_selectors a ON a.id=l.a_id JOIN card_selectors b ON b.id=l.b_id WHERE l.status='proposed'").all(),
-  hits: db.prepare("SELECT h.*, (SELECT value FROM card_fields n WHERE n.entity_id=h.entity_id AND n.field='name' AND n.status='accepted' LIMIT 1) name FROM card_hits h WHERE status='proposed' ORDER BY edited_at DESC").all() }));
+  hits: db.prepare("SELECT h.*, (SELECT value FROM card_fields n WHERE n.entity_id=h.entity_id AND n.field='name' AND n.status='accepted' LIMIT 1) name FROM card_hits h WHERE status='proposed' ORDER BY edited_at DESC").all(),
+  // previously rejected items (with the analyst's comment); `reidentified` counts how many later inference passes found the same item again
+  rejected: [...['card_fields', 'card_selectors', 'card_hits'].flatMap(t => db.prepare(`SELECT r.*, '${t}' tbl, (SELECT value FROM card_fields n WHERE n.entity_id=r.entity_id AND n.field='name' AND n.status='accepted' LIMIT 1) name FROM ${t} r WHERE status='rejected' ORDER BY COALESCE(last_identified, rejected_at) DESC LIMIT 100`).all()),
+    ...db.prepare("SELECT l.*, 'card_links' tbl, a.value a_value, a.kind a_kind, a.entity_id a_entity, b.value b_value, b.kind b_kind, b.entity_id b_entity FROM card_links l JOIN card_selectors a ON a.id=l.a_id JOIN card_selectors b ON b.id=l.b_id WHERE l.status='rejected' ORDER BY COALESCE(l.last_identified, l.rejected_at) DESC LIMIT 100").all()] }));
+app.post('/api/proposals/bulk', A, (req, res) => { const b = req.body || {}; const items = Array.isArray(b.items) ? b.items : []; if (!['accepted', 'rejected', 'proposed'].includes(b.status)) return res.status(400).json({ error: 'status must be accepted / rejected / proposed' });
+  if (b.status === 'rejected' && !(b.reject_comment || '').trim()) return res.status(400).json({ error: 'rejection comment required' });
+  let n = 0; const errors = []; for (const it of items) { if (!TBLS.includes(it.tbl)) { errors.push({ ...it, error: 'bad table' }); continue; } const r = applyUpdate(it.tbl, ['status'], it.id, { status: b.status, reject_comment: b.reject_comment }, req.user.username); r.error ? errors.push({ ...it, error: r.error }) : n++; }
+  audit(req.user.username, 'proposals_bulk', null, null, { status: b.status, n, comment: b.reject_comment }); res.json({ updated: n, errors }); });
 app.post('/api/algorithms/run', A, (req, res) => { // inference pass: (1) UN/FBI profile aliases not yet on the card; (2) selectors shared across targets → proposed links; (3) podcast family edges missing on the card
-  let n = 0; const ids = db.prepare('SELECT DISTINCT entity_id FROM card_fields').all().map(x => x.entity_id);
+  let n = 0, m = 0; const ids = db.prepare('SELECT DISTINCT entity_id FROM card_fields').all().map(x => x.entity_id);
+  const reid = (tbl, id) => { db.prepare(`UPDATE ${tbl} SET reidentified=COALESCE(reidentified,0)+1, last_identified=datetime('now') WHERE id=?`).run(id); m++; };
   for (const id of ids) { if (!has('profiles')) break;
     for (const p of R.prepare('SELECT * FROM profiles WHERE entity_id=?').all(id)) { let al = []; try { al = (JSON.parse(p.raw || '{}').aliases || []).map(a => a.name || a); } catch { }
-      for (const a of al) if (!db.prepare('SELECT 1 FROM card_fields WHERE entity_id=? AND field IN (\'name_variations\',\'kunyah\') AND value=?').get(id, a)) { db.prepare('INSERT INTO card_fields(entity_id,field,value,citation,citation_url,status,proposed_by,edited_by) VALUES (?,?,?,?,?,?,?,?)').run(id, 'name_variations', a, `Auto-citation: ${SRC[p.source]} ${p.reference} (alias field)`, p.url || (p.source === 'fbi_wanted' ? 'https://www.fbi.gov/wanted/terrorism' : 'https://main.un.org/securitycouncil/en/sanctions/1988/materials'), 'proposed', 'algorithm:profile-alias-matcher', 'algorithm'); n++; } } }
+      for (const a of al) { const ex = db.prepare('SELECT id, status FROM card_fields WHERE entity_id=? AND field IN (\'name_variations\',\'kunyah\') AND value=?').get(id, a); if (ex) { if (ex.status === 'rejected') reid('card_fields', ex.id); continue; }
+        insField(id, 'name_variations', a, `Auto-citation: ${SRC[p.source]} ${p.reference} (alias field)`, p.url || (p.source === 'fbi_wanted' ? 'https://www.fbi.gov/wanted/terrorism' : 'https://main.un.org/securitycouncil/en/sanctions/1988/materials'), 'proposed', 'algorithm:profile-alias-matcher', 'algorithm', { date: ((p.last_updated || '').split(';').pop().trim() || p.listed_on || '').slice(0, 10) || undefined, trust: 4 }); n++; } } }
   const dup = db.prepare("SELECT value, kind, group_concat(id) ids, count(DISTINCT entity_id) ne FROM card_selectors WHERE status='accepted' AND kind IN ('imei','imsi','phone','email','pushtoken') GROUP BY kind, value HAVING ne>1").all();
-  for (const d of dup) { const [a, b] = d.ids.split(','); if (!db.prepare('SELECT 1 FROM card_links WHERE a_id=? AND b_id=?').get(a, b)) { db.prepare('INSERT INTO card_links(a_id,b_id,relation,evidence,citation,citation_url,status,proposed_by,edited_by) VALUES (?,?,?,?,?,?,?,?,?)').run(a, b, 'shared_selector', `Same ${d.kind} value appears on two targets`, 'Auto-citation: selector table cross-match', null, 'proposed', 'algorithm:selector-correlator', 'algorithm'); n++; } }
-  audit(req.user.username, 'algorithm_run', null, null, { proposals: n }); res.json({ proposals: n }); });
+  for (const d of dup) { const [a, b] = d.ids.split(','); const ex = db.prepare('SELECT id, status FROM card_links WHERE a_id=? AND b_id=?').get(a, b); if (ex) { if (ex.status === 'rejected') reid('card_links', ex.id); continue; }
+    insLink(a, b, 'shared_selector', `Same ${d.kind} value appears on two targets`, 'Auto-citation: selector table cross-match', null, 'proposed', 'algorithm:selector-correlator', 'algorithm', { src: 'ALG' }); n++; }
+  audit(req.user.username, 'algorithm_run', null, null, { proposals: n, reidentified: m }); res.json({ proposals: n, reidentified: m }); });
 // ---- link chart
 app.get('/api/graph', (req, res) => { const root = req.query.root, depth = Math.min(+req.query.depth || 1, 2), syn = req.query.synthetic !== '0', sel = req.query.selectors === '1'; if (!root) return res.status(400).json({ error: 'root required' });
   const nodes = new Map(), edges = []; let frontier = [root]; const add = id => { if (nodes.has(id)) return; const e = R.prepare('SELECT id,name,kind,dataset,n_episodes,sources,role FROM entities WHERE id=?').get(id) || { id, name: db.prepare("SELECT value FROM card_fields WHERE entity_id=? AND field='name' LIMIT 1").get(id)?.value || id, kind: 'person', dataset: 'synthetic' }; nodes.set(id, e); };
@@ -249,6 +332,6 @@ app.use('/api', memosRouter(db, R, requireRole));
 app.get('/api/users', requireRole('admin'), (_q, res) => res.json(db.prepare('SELECT id,username,role,created_at,last_login FROM users').all()));
 app.post('/api/users', requireRole('admin'), (req, res) => { try { createUser(db, req.body.username, req.body.password, req.body.role); audit(req.user.username, 'user_create', req.body.username); res.json({ ok: true }); } catch (e) { res.status(400).json({ error: e.message }); } });
 app.get('/api/audit', requireRole('instructor'), (_q, res) => res.json(db.prepare('SELECT * FROM audit ORDER BY id DESC LIMIT 300').all()));
-app.use('/isw', express.static(join(ROOT, 'isw', 'images')));
+app.use('/isw', express.static(join(ROOT, 'isw', 'images'))); app.use('/photos', express.static(join(DATA_DIR, 'photos')));
 app.use(express.static(join(HERE, 'public')));
 app.listen(PORT, () => console.log(`afpak target tracker on :${PORT} (db ${AFPAK_DB})`));

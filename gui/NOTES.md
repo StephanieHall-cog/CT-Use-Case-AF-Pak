@@ -48,3 +48,21 @@ STATE 3: prepared-statement cache added to server.mjs; server relaunched with se
 STATE 4: gui/test/api.test.mjs added (npm test); server now REQUIRES a citation on analyst adds (fields w/ value, selectors, links, hits). Verified in browser: Correlations tab, Proposals view (27, accept/reject + auto-citation links), Link chart (Sirajuddin root → 47 nodes/257 edges). Next: wait for memo child (27506e5a…), merge branch devin/memos-module, README section for gui, testing_agent run, final message.
 STATE 5: testing agent ran a bounded pass (declined real-person/selector/location flows; verified cited edits persist, citation refusal, audit, map drawer source links). Fixed vis-network arrows:'' invalid-option errors. circle-11 sprite warnings come from the OpenFreeMap style, not our layers.
 STATE 6: memos branch merged (lib/memos.mjs, public/memos.js, test/memos.test.mjs; better-sqlite3 ^12.4.1 — fixes Node 24 GC abort). Fixed /api/maps column (image_local AS image_path) and signed-shift bug that produced "undefined" in synthetic physical descriptors. 12/12 tests pass.
+
+Added (round 2, Stephanie): CITATION TRIGRAPHS — every cited row (card_fields / card_selectors / card_links / card_hits) now also carries
+cit_src (3-letter source code), cit_pub (publication), cit_date (ISO), cit_trust (1 best … 4 worst) next to the free-text citation + citation_url.
+Rendered on the card as an icon-like badge after the value, e.g. "Zahir Shah Mangal (SYN; 2/OCT/2026; trust 3)" or "Haji Zahir (GJP; 19/AUG/2014; trust 2)";
+hover = full book-style cite (publication, date, trust level + meaning, detail, URL); click = opens the record in the source database/feed.
+Codes (server.mjs CITE_CODES): SYN synthetic scenario · GJP Generation Jihad podcast · UNS UN 1988 list · FBI FBI Wanted · ISW map room · DOC document corpus ·
+PUB public reference · SIG telecom feed (CDR/SS7) · ISR · HUM HUMINT · OSN open-source/social · ALG inference algorithm (auto-citation) · ANL analyst entry.
+Trust (TRUST): 1 confirmed/official · 2 probably true, reputable single source · 3 possibly true / analyst assessment / synthetic · 4 unverified / algorithm-inferred.
+Seeded rows get codes + dates from their origin (UN listed/updated date, FBI update, podcast episode publish date, SYN_DATE for synthetic); older app.db rows are backfilled on boot.
+REJECT WITH COMMENT — delete buttons are gone. Accept / Reject everywhere (card rows, card Proposed tab, Proposals view); rejecting requires a comment
+(PATCH status='rejected' + reject_comment → 400 without it). Row stays with status='rejected' + reject_comment/rejected_by/rejected_at, history in `rejections`.
+"Run inference" no longer re-queues a rejected item: it bumps reidentified/last_identified and the Proposals view lists it under "Previously rejected" with the
+analyst comment (Re-open button sets it back to proposed). Response: { proposals, reidentified }.
+BULK — Proposals view and card Proposed tab have checkboxes, select all, "Accept / merge selected", "Reject selected" (one comment applied to each) and
+"Accept / merge ALL"; POST /api/proposals/bulk { items:[{tbl,id}], status, reject_comment }.
+PROFILE PHOTO — new fixed card field `photo` (type image). Header + grid card show it (silhouette placeholder when blank). "Set photo" / "+ upload" posts a data URL to
+POST /api/targets/:id/photo (saved under gui/data/photos, served at /photos/…), "+ URL" records an image URL; both need a citation. FBI profile photos are seeded with the FBI cite.
+Tests: 15 (api 7 + memos 8).

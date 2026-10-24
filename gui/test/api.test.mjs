@@ -82,3 +82,51 @@ test('map geojson carries source_label/source_url on every feature', async () =>
     assert.ok(body.features.every(f => f.properties.source_label), `${path} labelled`);
   }
 });
+
+test('structured citations: trigraph/pub/date/trust on seeded rows; analyst writes accept cit_* fields and reject bad trust', async () => {
+  const { body: list } = await api('GET', '/api/targets');
+  const syn = list.find(t => t.dataset === 'synthetic'), real = list.find(t => t.dataset !== 'synthetic' && (t.sources || '').includes('un_1988'));
+  const { body: card } = await api('GET', `/api/targets/${syn.id}`);
+  assert.ok(card.fields.filter(f => f.value).every(f => /^[A-Z]{3}$/.test(f.cit_src) && f.cit_pub && f.cit_date && f.cit_trust >= 1 && f.cit_trust <= 4), 'every synthetic field carries src/pub/date/trust');
+  assert.ok(card.fields.some(f => f.cit_src === 'SYN'));
+  assert.ok(card.selectors.every(s => s.cit_src) && card.hits.every(h => h.cit_src));
+  if (real) { const { body: rc } = await api('GET', `/api/targets/${real.id}`); assert.ok(rc.fields.some(f => f.cit_src === 'UNS' && f.cit_trust === 1), 'UN-sourced field is UNS trust 1'); }
+  const { body: meta } = await api('GET', '/api/meta'); assert.ok(meta.citeCodes.GJP && meta.trust[1] && meta.cardFields.some(f => f[0] === 'photo'));
+  const bad = await api('POST', `/api/targets/${syn.id}/fields`, { field: 'tribe', value: 'X', cit_pub: 'Y', cit_trust: 7 }); assert.equal(bad.status, 400);
+  const ok = await api('POST', `/api/targets/${syn.id}/fields`, { field: 'tribe', value: 'Zadran (test)', cit_src: 'HUM', cit_pub: 'HUMINT report 17', cit_date: '2026-10-02', cit_trust: 2, citation_url: 'https://example.org/r/17' });
+  assert.equal(ok.status, 200);
+  const { body: c2 } = await api('GET', `/api/targets/${syn.id}`); const f = c2.fields.find(x => x.id === ok.body.id);
+  assert.deepEqual([f.cit_src, f.cit_pub, f.cit_date, f.cit_trust, f.citation], ['HUM', 'HUMINT report 17', '2026-10-02', 2, 'HUMINT report 17, 2026-10-02']);
+  const pt = await api('PATCH', `/api/fields/${f.id}`, { cit_trust: 1, cit_date: '2026-10-03' }); assert.equal(pt.status, 200);
+  const { body: c3 } = await api('GET', `/api/targets/${syn.id}`); assert.equal(c3.fields.find(x => x.id === f.id).cit_trust, 1);
+});
+
+test('reject requires a comment, is remembered, and re-identification is counted; bulk accept/reject', async () => {
+  await api('POST', '/api/algorithms/run', {});
+  const { body: p0 } = await api('GET', '/api/proposals');
+  const fld = p0.fields[0]; assert.ok(fld, 'an alias proposal exists');
+  const noc = await api('PATCH', `/api/fields/${fld.id}`, { status: 'rejected' }); assert.equal(noc.status, 400);
+  const rj = await api('PATCH', `/api/fields/${fld.id}`, { status: 'rejected', reject_comment: 'Transliteration already covered by existing variation' }); assert.equal(rj.status, 200);
+  const { body: p1 } = await api('GET', '/api/proposals');
+  const rrow = p1.rejected.find(r => r.tbl === 'card_fields' && r.id === fld.id); assert.ok(rrow && rrow.reject_comment.includes('Transliteration') && rrow.rejected_by === 'admin');
+  const { body: hist } = await api('GET', `/api/rejections?tbl=card_fields&id=${fld.id}`); assert.equal(hist.length, 1);
+  const run2 = await api('POST', '/api/algorithms/run', {}); assert.ok(run2.body.reidentified >= 1, 'rejected alias re-identified on next pass');
+  const { body: p2 } = await api('GET', '/api/proposals'); assert.ok(p2.rejected.find(r => r.id === fld.id && r.tbl === 'card_fields').reidentified >= 1);
+  assert.ok(!p2.fields.some(x => x.id === fld.id), 'rejected item is not re-queued as a fresh proposal');
+  const items = p2.fields.slice(0, 3).map(x => ({ tbl: 'card_fields', id: x.id })); assert.ok(items.length >= 2);
+  const bbad = await api('POST', '/api/proposals/bulk', { items, status: 'rejected' }); assert.equal(bbad.status, 400);
+  const bok = await api('POST', '/api/proposals/bulk', { items: items.slice(0, 1), status: 'rejected', reject_comment: 'bulk test' }); assert.equal(bok.body.updated, 1);
+  const acc = await api('POST', '/api/proposals/bulk', { items: items.slice(1), status: 'accepted' }); assert.equal(acc.body.updated, items.length - 1);
+  const { body: p3 } = await api('GET', '/api/proposals'); assert.ok(items.every(i => !p3.fields.some(x => x.id === i.id)));
+  const { body: audit } = await api('GET', '/api/audit'); assert.ok(audit.some(a => a.action === 'card_fields_reject') && audit.some(a => a.action === 'proposals_bulk'));
+});
+
+test('profile photo upload (data URL) is stored, served and recorded as a cited photo field', async () => {
+  const { body: list } = await api('GET', '/api/targets'); const id = list.find(t => t.dataset === 'synthetic').id;
+  const png = 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg==';
+  const bad = await api('POST', `/api/targets/${id}/photo`, { data: png }); assert.equal(bad.status, 400);
+  const ok = await api('POST', `/api/targets/${id}/photo`, { data: png, cit_src: 'OSN', cit_pub: 'Telegram channel (synthetic)', cit_trust: 3 }); assert.equal(ok.status, 200);
+  const img = await fetch(BASE + ok.body.url, { headers: { cookie } }); assert.equal(img.status, 200); assert.equal(img.headers.get('content-type'), 'image/png');
+  const { body: card } = await api('GET', `/api/targets/${id}`); const ph = card.fields.find(f => f.field === 'photo' && f.value === ok.body.url); assert.ok(ph && ph.cit_src === 'OSN');
+  const { body: l2 } = await api('GET', '/api/targets'); assert.equal(l2.find(t => t.id === id).photo, ok.body.url);
+});

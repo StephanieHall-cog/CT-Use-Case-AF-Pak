@@ -65,7 +65,7 @@ Map exports: `db/exports/isw_plots.geojson`, `isw_maps.json`, `place_coords.json
 
 ## GUI (gui/) — AfPak Target Tracker
 
-Demo analyst GUI over the database: layered event map (attacks by group, USG / foreign-government / intl-org / border / soft-target sites, target last-known-location + trails, time slider, citation link on every point), target "baseball cards" (fixed fillable field set — every value carries a Citation + source URL), phone/IMSI/IMEI/push-token pairings, selector correlations, per-card geolocation map with CDR/SS7/ISR/travel/HUMINT/OSINT dropdown, inference proposals with Accept/Reject, link chart, memos, users/audit.
+Demo analyst GUI over the database: layered event map (attacks by group, USG / foreign-government / intl-org / border / soft-target sites, target last-known-location + trails, time slider, citation link on every point), target "baseball cards" (fixed fillable field set — every value carries a trigraph citation badge — source code, date, trust 1–4 — hyperlinked to the source record, hover for the full cite; profile photo), phone/IMSI/IMEI/push-token pairings, selector correlations, per-card geolocation map with CDR/SS7/ISR/travel/HUMINT/OSINT dropdown, inference proposals with Accept / Reject-with-comment, bulk select / accept-all, remembered rejections, link chart, memos, users/audit.
 
 ```bash
 python3 scripts/build_db.py --synthetic synthetic/targets_demo.json synthetic/sample_scenario.json --db db/afpak_demo.sqlite
