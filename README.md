@@ -75,6 +75,16 @@ npm test
 
 The AfPak DB is opened read-only; analyst edits, proposals, memos, users and the audit log live in `gui/data/app.db` (gitignored). Real people never receive selectors or location hits unless an analyst enters sourced ones; all synthetic material is on `SP-…` ids and is banner-labelled. Requirements log: `gui/NOTES.md`.
 
+### Standalone offline HTML (shareable single file)
+
+`gui/scripts/build_standalone.mjs` exports the whole GUI — map, cards, proposals, link chart, memos and all current data — into **one self-contained HTML file** that opens from disk with no server, login or network (`gui/dist/afpak-target-tracker-standalone.html`, ~23 MB). MapLibre, vis-network and mgrs are inlined; the internet basemap is replaced by an embedded Natural Earth basemap clipped to the AfPak region; FBI photos are embedded as data URLs. Analyst edits made in the file (fields, selectors, hits, proposals, memos, photos) are applied by an in-browser shim (`gui/standalone/shim.js`) and persisted as an ops log in the viewer's browser `localStorage` ("Reset edits" in the banner clears them). The file is a point-in-time snapshot — rebuild it to pick up new data.
+
+```
+pip install pyshp && python3 gui/standalone/build_basemap.py --src /tmp/ne   # once; needs the Natural Earth zips listed in the script docstring
+node gui/standalone/fetch_photos.cjs db/afpak_demo.sqlite                      # optional; pulls fbi.gov photos through the local Chrome (fbi.gov 403s server-side fetches)
+cd gui && node scripts/build_standalone.mjs                                    # vendor libs expected in gui/standalone/vendor/ (maplibre-gl 4.7.1 js+css, vis-network 9.1.9 umd, mgrs)
+```
+
 ## Documentation
 - `docs/network-findings.md` — what the 93 episodes reveal (narrative + generated tables; regenerate the tables with `python3 scripts/report.py`).
 - `docs/gui-plan.md` — how to turn this database into an analyst GUI (incl. the Events & Mapping tab).

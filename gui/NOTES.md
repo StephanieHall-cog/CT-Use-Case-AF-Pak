@@ -66,3 +66,8 @@ BULK — Proposals view and card Proposed tab have checkboxes, select all, "Acce
 PROFILE PHOTO — new fixed card field `photo` (type image). Header + grid card show it (silhouette placeholder when blank). "Set photo" / "+ upload" posts a data URL to
 POST /api/targets/:id/photo (saved under gui/data/photos, served at /photos/…), "+ URL" records an image URL; both need a citation. FBI profile photos are seeded with the FBI cite.
 Tests: 15 (api 7 + memos 8).
+
+## Standalone offline snapshot (round 3)
+- `scripts/build_standalone.mjs` boots server.mjs on a random port, pulls every API payload + entities/aliases/relationships/memberships/episodes/documents from the source DB, and inlines vendor libs, `standalone/basemap.json`, photos and `standalone/shim.js` into `public/index.html` (unchanged app code).
+- The shim overrides `window.fetch` for `/api/*`, replays the localStorage ops log (`afpak-standalone-ops-v1`) on load, and wraps `maplibregl.Map` to force the offline style; symbol layers become HTML markers because there is no glyph server offline.
+- Gotchas: `location.origin` is "null" under file:// (resolve URLs against a dummy origin); a style with `glyphs: undefined` fails validation (use any string); fbi.gov returns 403 to Node fetches, so photos are fetched through Chrome (`standalone/fetch_photos.cjs`); `lib/memo_core.mjs` holds the DB-free memo logic shared by server and shim.
